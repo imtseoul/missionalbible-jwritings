@@ -1,0 +1,192 @@
+{
+  "id": "war",
+  "title": "유대전쟁사",
+  "author": "요세푸스",
+  "abbreviation": "B.J.",
+  "corpus": "jewish",
+  "language": "grc",
+  "genre": "역사서",
+  "period": "로마 제정기",
+  "region": "유대·로마",
+  "edition": "Benedikt Niese 편, Flavii Iosephi Opera 6, Berlin: Weidmann, 1895.",
+  "summary": "에세네파의 씻음, 식탁, 식사 전후 기도를 묘사한 대목입니다.",
+  "topics": [
+    "정결",
+    "공동식사",
+    "공동체"
+  ],
+  "notes": [
+    "2.129-131은 에세네파를 소개하는 긴 단락 가운데 공동식사를 다룬 부분이다.",
+    "다섯째 시각은 고대의 낮 시간 구분이다. 오늘날의 고정된 시각과 정확히 같지 않다."
+  ],
+  "related": [
+    {
+      "reference": "고전 11:17-34",
+      "reason": "식사의 질서와 공동체의 경계를 비교해 읽는다.",
+      "relation": "비교 자료"
+    },
+    {
+      "reference": "행 2:42-47",
+      "reason": "공동체의 식사와 생활에 관한 묘사를 비교한다.",
+      "relation": "비교 자료"
+    }
+  ],
+  "sourceUrl": "https://github.com/PerseusDL/canonical-greekLit/blob/bcc5df0602f3b3fe6fefe1e1d575602a25ab1db6/data/tlg0526/tlg004/tlg0526.tlg004.perseus-grc2.xml",
+  "readerUrl": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0526.tlg004.perseus-grc2/",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "licenseEvidence": "https://github.com/PerseusDL/canonical-greekLit",
+  "sourceCredit": "Perseus Digital Library, Tufts University",
+  "verified": "2026-09-26",
+  "translationCredit": "Codex 작성, 원어 직접 번역 초안",
+  "reviewer": "학술 검토 전",
+  "passages": [
+    {
+      "ref": "2.129",
+      "original": "καὶ μετὰ ταῦτα πρὸς ἃς ἕκαστοι τέχνας ἴσασιν ὑπὸ τῶν ἐπιμελητῶν διαφίενται, καὶ μέχρι πέμπτης ὥρας ἐργασάμενοι συντόνως πάλιν εἰς ἓν συναθροίζονται χωρίον, ζωσάμενοί τε σκεπάσμασιν λινοῖς οὕτως ἀπολούονται τὸ σῶμα ψυχροῖς ὕδασιν, καὶ μετὰ ταύτην τὴν ἁγνείαν εἰς ἴδιον οἴκημα συνίασιν, ἔνθα μηδενὶ τῶν ἑτεροδόξων ἐπιτέτραπται παρελθεῖν· αὐτοί τε καθαροὶ καθάπερ εἰς ἅγιόν τι τέμενος παραγίνονται τὸ δειπνητήριον.",
+      "title": "씻음과 식당의 경계",
+      "korean": "그 뒤 관리들은 각 사람을 그가 아는 일로 보낸다. 다섯째 시각까지 부지런히 일한 뒤에는 다시 한곳에 모인다. 아마포로 몸을 두르고 찬물로 몸을 씻는다. 이 정결 의식을 마치면 자기들만의 건물로 들어가는데, 다른 신념을 가진 사람은 아무도 들어갈 수 없다. 그들은 몸을 깨끗이 한 채 마치 거룩한 성역에 들어가듯 식당으로 들어간다.",
+      "sourceUrl": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0526.tlg004.perseus-grc2:2.129/",
+      "groups": [],
+      "notes": [
+        "2.129-131은 에세네파를 소개하는 긴 단락 가운데 공동식사를 다룬 부분이다.",
+        "다섯째 시각은 고대의 낮 시간 구분이다. 오늘날의 고정된 시각과 정확히 같지 않다."
+      ],
+      "source_revision": "sha256:78ffece792989b572759519c1c77d24f41be5fdec754aad8e5a0c37ad09e6fdc",
+      "translation_revision": "sha256:b75a382ac98a02c7e5b19ee200d7c2ea28bc4d9a5f88ad32214abd216f14e4ce",
+      "work_passage_id": "war:2.129",
+      "html_path": "works/war/index.html#p-2-129",
+      "fixed_html_path": "releases/public-0.1/works/war/index.html#p-2-129",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "alignment_revision": "sha256:3ef0a26d2fbf7f7b0845009fad53f6a4d0a0a75c38ff218778b1089d129b1b29",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:78ffece792989b572759519c1c77d24f41be5fdec754aad8e5a0c37ad09e6fdc",
+          "translation_revision": "sha256:b75a382ac98a02c7e5b19ee200d7c2ea28bc4d9a5f88ad32214abd216f14e4ce",
+          "alignment_revision": "sha256:3ef0a26d2fbf7f7b0845009fad53f6a4d0a0a75c38ff218778b1089d129b1b29"
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://github.com/PerseusDL/canonical-greekLit/blob/bcc5df0602f3b3fe6fefe1e1d575602a25ab1db6/data/tlg0526/tlg004/tlg0526.tlg004.perseus-grc2.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition"
+      },
+      "citation": {
+        "author": "요세푸스",
+        "work": "유대전쟁사",
+        "reference": "2.129",
+        "edition": "Benedikt Niese 편, Flavii Iosephi Opera 6, Berlin: Weidmann, 1895.",
+        "release": "public-0.1",
+        "translation_revision": "sha256:b75a382ac98a02c7e5b19ee200d7c2ea28bc4d9a5f88ad32214abd216f14e4ce",
+        "fixed_path": "releases/public-0.1/works/war/index.html#p-2-129"
+      }
+    },
+    {
+      "ref": "2.130",
+      "original": "καὶ καθισάντων μεθʼ ἡσυχίας ὁ μὲν σιτοποιὸς ἐν τάξει παρατίθησι τοὺς ἄρτους, ὁ δὲ μάγειρος ἓν ἀγγεῖον ἐξ ἑνὸς ἐδέσματος ἑκάστῳ παρατίθησιν.",
+      "title": "빵과 음식의 배분",
+      "korean": "그들이 조용히 자리에 앉으면 제빵사는 차례로 빵을 놓고, 요리사는 각 사람 앞에 한 가지 음식이 담긴 그릇 하나를 놓는다.",
+      "sourceUrl": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0526.tlg004.perseus-grc2:2.130/",
+      "groups": [],
+      "notes": [],
+      "source_revision": "sha256:3e307f7102d84750691842d16f94e0b432aeefacb7e85fba152eecb0138d52f3",
+      "translation_revision": "sha256:73cd7edd7fd722133bf77f0a37eb57feeece96876a662b69453d903af3b0eb65",
+      "work_passage_id": "war:2.130",
+      "html_path": "works/war/index.html#p-2-130",
+      "fixed_html_path": "releases/public-0.1/works/war/index.html#p-2-130",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "alignment_revision": "sha256:f5d6b22e8bead86b4fbeb59d5558b81e2cdc00f9d6751d66e78aaa0ab786cf83",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:3e307f7102d84750691842d16f94e0b432aeefacb7e85fba152eecb0138d52f3",
+          "translation_revision": "sha256:73cd7edd7fd722133bf77f0a37eb57feeece96876a662b69453d903af3b0eb65",
+          "alignment_revision": "sha256:f5d6b22e8bead86b4fbeb59d5558b81e2cdc00f9d6751d66e78aaa0ab786cf83"
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://github.com/PerseusDL/canonical-greekLit/blob/bcc5df0602f3b3fe6fefe1e1d575602a25ab1db6/data/tlg0526/tlg004/tlg0526.tlg004.perseus-grc2.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition"
+      },
+      "citation": {
+        "author": "요세푸스",
+        "work": "유대전쟁사",
+        "reference": "2.130",
+        "edition": "Benedikt Niese 편, Flavii Iosephi Opera 6, Berlin: Weidmann, 1895.",
+        "release": "public-0.1",
+        "translation_revision": "sha256:73cd7edd7fd722133bf77f0a37eb57feeece96876a662b69453d903af3b0eb65",
+        "fixed_path": "releases/public-0.1/works/war/index.html#p-2-130"
+      }
+    },
+    {
+      "ref": "2.131",
+      "original": "προκατεύχεται δʼ ὁ ἱερεὺς τῆς τροφῆς, καὶ γεύσασθαί τινα πρὶν τῆς εὐχῆς ἀθέμιτον· ἀριστοποιησάμενος δʼ ἐπεύχεται πάλιν· ἀρχόμενοί τε καὶ παυόμενοι γεραίρουσι θεὸν ὡς χορηγὸν τῆς ζωῆς. ἔπειθʼ ὡς ἱερὰς καταθέμενοι τὰς ἐσθῆτας πάλιν ἐπʼ ἔργα μέχρι δείλης τρέπονται.",
+      "title": "식사 전후의 기도",
+      "korean": "제사장은 음식을 먹기 전에 기도한다. 기도 전에 무엇을 맛보는 것은 허용되지 않는다. 식사를 마친 뒤에도 다시 기도한다. 그들은 식사의 시작과 끝에 생명을 베푸시는 분으로서 하나님을 공경한다. 그런 다음 옷을 거룩한 옷처럼 벗어 두고, 저녁까지 다시 일하러 간다.",
+      "sourceUrl": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0526.tlg004.perseus-grc2:2.131/",
+      "groups": [],
+      "notes": [],
+      "source_revision": "sha256:246f6011b2e857a56fd3f2c6ff461657fe1f1a223f3851ab65d33db970a320b8",
+      "translation_revision": "sha256:0fb9ae9cc5f0de4beb711af47d43210bf2195eba3fde2aa13e0f7704d3f2657d",
+      "work_passage_id": "war:2.131",
+      "html_path": "works/war/index.html#p-2-131",
+      "fixed_html_path": "releases/public-0.1/works/war/index.html#p-2-131",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "alignment_revision": "sha256:ec25ad3860234b2c911db93e394ae54580706db57232b83a2904d09261a90c44",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:246f6011b2e857a56fd3f2c6ff461657fe1f1a223f3851ab65d33db970a320b8",
+          "translation_revision": "sha256:0fb9ae9cc5f0de4beb711af47d43210bf2195eba3fde2aa13e0f7704d3f2657d",
+          "alignment_revision": "sha256:ec25ad3860234b2c911db93e394ae54580706db57232b83a2904d09261a90c44"
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://github.com/PerseusDL/canonical-greekLit/blob/bcc5df0602f3b3fe6fefe1e1d575602a25ab1db6/data/tlg0526/tlg004/tlg0526.tlg004.perseus-grc2.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition"
+      },
+      "citation": {
+        "author": "요세푸스",
+        "work": "유대전쟁사",
+        "reference": "2.131",
+        "edition": "Benedikt Niese 편, Flavii Iosephi Opera 6, Berlin: Weidmann, 1895.",
+        "release": "public-0.1",
+        "translation_revision": "sha256:0fb9ae9cc5f0de4beb711af47d43210bf2195eba3fde2aa13e0f7704d3f2657d",
+        "fixed_path": "releases/public-0.1/works/war/index.html#p-2-131"
+      }
+    }
+  ],
+  "original_title": "Ἰουδαϊκοῦ πολέμου πρὸς Ῥωμαίους",
+  "display_title": "유대전쟁사",
+  "reference_scheme": "section",
+  "coverage_label": "선별 3개 대목",
+  "edition_id": "tlg0526.tlg004.perseus-grc2",
+  "source_file_sha256": "ccb90dcbd5489d56e1822d0b082b7799827f478ebcc9af7e4ab5667ae362d547",
+  "display_author": "요세푸스",
+  "scope": "선별 본문 2.129, 2.130, 2.131",
+  "coverage": "excerpts",
+  "release_id": "public-0.1",
+  "source_language": "grc",
+  "source_kind": "edited_ancient_original",
+  "human_reviewed": false,
+  "translation_method": "고정 그리스어·라틴어 원문에서 직접 번역",
+  "html_path": "works/war/index.html",
+  "json_path": "data/works/war.json",
+  "fixed_html_path": "releases/public-0.1/works/war/index.html",
+  "publication_status": "public_review_edition"
+}

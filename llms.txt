@@ -1,0 +1,9 @@
+# 신약 연구 문헌도서관
+
+고대 그리스어와 라틴어에서 직접 옮긴 한국어 본문, 원문, 판본과 절별 출처를 제공합니다. 사람 검토는 아직 이루어지지 않았습니다.
+
+- 목록: https://jwritings.missionalbible.org/catalog.json
+- 전체 본문: https://jwritings.missionalbible.org/data/passages.jsonl
+- 고정판: https://jwritings.missionalbible.org/releases/public-0.1/catalog.json
+
+문헌별 범위를 catalog.json에서 확인하고, 구절의 reference, translation_revision과 fixed_html_path를 함께 인용하세요. 수록되지 않은 구절은 본문을 추정하여 보충하지 마세요.

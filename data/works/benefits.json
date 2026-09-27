@@ -1,0 +1,192 @@
+{
+  "id": "benefits",
+  "title": "호의에 관하여",
+  "author": "세네카",
+  "abbreviation": "Ben.",
+  "corpus": "greco",
+  "language": "lat",
+  "genre": "철학",
+  "period": "로마 제정기",
+  "region": "로마",
+  "edition": "John William Basore 편, Moral Essays 3, William Heinemann / G. P. Putnam’s Sons, 1935. 라틴어 본문 사용.",
+  "summary": "호의를 베풀고 받는 행위, 감사와 보답의 관계를 살펴봅니다.",
+  "topics": [
+    "호의",
+    "감사",
+    "보답"
+  ],
+  "notes": [
+    "beneficium은 문맥에 따라 호의, 은혜, 선행, 혜택 등으로 옮길 수 있다. 여기서는 사람 사이에 베푸는 호의로 옮겼다.",
+    "1.1.3의 reddit enim beneficium, qui debet는 호의를 입었음을 인정하는 마음을 강조하는 역설적 표현이다."
+  ],
+  "related": [
+    {
+      "reference": "눅 6:32-35",
+      "reason": "호의와 보답의 관계를 비교한다.",
+      "relation": "비교 자료"
+    },
+    {
+      "reference": "롬 11:35",
+      "reason": "먼저 주는 행위와 보답이라는 질문을 비교한다.",
+      "relation": "비교 자료"
+    }
+  ],
+  "sourceUrl": "https://github.com/PerseusDL/canonical-latinLit/blob/cc843833e101992ba54549005273cfe61a33504b/data/phi1017/phi013/phi1017.phi013.perseus-lat2.xml",
+  "readerUrl": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1017.phi013.perseus-lat2/",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "licenseEvidence": "https://github.com/PerseusDL/canonical-latinLit",
+  "sourceCredit": "Perseus Digital Library, Tufts University",
+  "verified": "2026-09-26",
+  "translationCredit": "Codex 작성, 원어 직접 번역 초안",
+  "reviewer": "학술 검토 전",
+  "passages": [
+    {
+      "ref": "1.1.1",
+      "original": "Inter multos ac varios errores temere inconsulteque viventium nihil propemodum indignius, vir optime Liberalis, dixerim, quam quod beneficia nec dare scimus nec accipere. Sequitur enim, ut male collocata male debeantur ; de quibus non redditis sero querimur ; ista enim perierunt, cum darentur. Nec mirum est inter plurima maximaque vitia nullum esse frequentius quam ingrati animi.",
+      "title": "베풀고 받는 일",
+      "korean": "훌륭한 리베랄리스여, 경솔하고 분별없이 살아가는 사람들의 수많고 다양한 잘못 가운데, 호의를 베풀 줄도 받을 줄도 모르는 것보다 더 부끄러운 일은 거의 없다고 말하고 싶다. 잘못 베푼 호의에는 잘못된 보답이 뒤따른다. 보답받지 못했다고 뒤늦게 불평하지만, 그 호의는 베풀 때 이미 잃어버린 것이다. 수많은 큰 악덕 가운데 감사할 줄 모르는 마음보다 더 흔한 것이 없다는 사실도 놀랄 일이 아니다.",
+      "sourceUrl": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1017.phi013.perseus-lat2:1.1.1/",
+      "groups": [],
+      "notes": [
+        "beneficium은 문맥에 따라 호의, 은혜, 선행, 혜택 등으로 옮길 수 있다. 여기서는 사람 사이에 베푸는 호의로 옮겼다.",
+        "1.1.3의 reddit enim beneficium, qui debet는 호의를 입었음을 인정하는 마음을 강조하는 역설적 표현이다."
+      ],
+      "source_revision": "sha256:0de249cb6ef0aa1fb089a194bc27334ce035c553ebcb63eff0f5320c96c8ca18",
+      "translation_revision": "sha256:e6d2ffb55aa1c23932aacdc4324723a7e4f80d617d90ed18b78e330c14ecd77d",
+      "work_passage_id": "benefits:1.1.1",
+      "html_path": "works/benefits/index.html#p-1-1-1",
+      "fixed_html_path": "releases/public-0.1/works/benefits/index.html#p-1-1-1",
+      "source_language": "lat",
+      "source_kind": "edited_ancient_original",
+      "alignment_revision": "sha256:4244d03c08bcca4fa150e813ad0f9b209fca961cb7b3a59d43385f7d4d1859dd",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:0de249cb6ef0aa1fb089a194bc27334ce035c553ebcb63eff0f5320c96c8ca18",
+          "translation_revision": "sha256:e6d2ffb55aa1c23932aacdc4324723a7e4f80d617d90ed18b78e330c14ecd77d",
+          "alignment_revision": "sha256:4244d03c08bcca4fa150e813ad0f9b209fca961cb7b3a59d43385f7d4d1859dd"
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://github.com/PerseusDL/canonical-latinLit/blob/cc843833e101992ba54549005273cfe61a33504b/data/phi1017/phi013/phi1017.phi013.perseus-lat2.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition"
+      },
+      "citation": {
+        "author": "세네카",
+        "work": "호의에 관하여",
+        "reference": "1.1.1",
+        "edition": "John William Basore 편, Moral Essays 3, William Heinemann / G. P. Putnam’s Sons, 1935. 라틴어 본문 사용.",
+        "release": "public-0.1",
+        "translation_revision": "sha256:e6d2ffb55aa1c23932aacdc4324723a7e4f80d617d90ed18b78e330c14ecd77d",
+        "fixed_path": "releases/public-0.1/works/benefits/index.html#p-1-1-1"
+      }
+    },
+    {
+      "ref": "1.1.2",
+      "original": "Id evenire ex causis pluribus video. Prima illa est, quod non eligimus dignos, quibus tribuamus. Sed nomina facturi diligenter in patrimonium et vitam debitoris inquirimus, semina in solum effetum et sterile non spargimus ; beneficia sine ullo dilectu magis proicimus quam damus.",
+      "title": "누구에게 베풀 것인가",
+      "korean": "나는 이런 일이 여러 원인에서 생긴다고 본다. 첫째는 우리가 호의를 받을 만한 사람을 골라 베풀지 않는다는 점이다. 돈을 빌려주려 할 때는 채무자의 재산과 생활을 주의 깊게 조사하고, 메마르고 척박한 땅에는 씨를 뿌리지 않는다. 그런데 호의는 아무런 분별 없이 베풀기보다 내던진다.",
+      "sourceUrl": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1017.phi013.perseus-lat2:1.1.2/",
+      "groups": [],
+      "notes": [],
+      "source_revision": "sha256:7360bac891a233fd7e66121ea0749fc63b77dc231c0bab97a01c0d4913910778",
+      "translation_revision": "sha256:de0b669dc7a96ef6debe147d179471cdb3f46a39afbdb4117b63e0b189f7ff87",
+      "work_passage_id": "benefits:1.1.2",
+      "html_path": "works/benefits/index.html#p-1-1-2",
+      "fixed_html_path": "releases/public-0.1/works/benefits/index.html#p-1-1-2",
+      "source_language": "lat",
+      "source_kind": "edited_ancient_original",
+      "alignment_revision": "sha256:866c9712ee5664229e77e1d7bf352885d7f15ccb561624e75120f997610c9a53",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:7360bac891a233fd7e66121ea0749fc63b77dc231c0bab97a01c0d4913910778",
+          "translation_revision": "sha256:de0b669dc7a96ef6debe147d179471cdb3f46a39afbdb4117b63e0b189f7ff87",
+          "alignment_revision": "sha256:866c9712ee5664229e77e1d7bf352885d7f15ccb561624e75120f997610c9a53"
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://github.com/PerseusDL/canonical-latinLit/blob/cc843833e101992ba54549005273cfe61a33504b/data/phi1017/phi013/phi1017.phi013.perseus-lat2.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition"
+      },
+      "citation": {
+        "author": "세네카",
+        "work": "호의에 관하여",
+        "reference": "1.1.2",
+        "edition": "John William Basore 편, Moral Essays 3, William Heinemann / G. P. Putnam’s Sons, 1935. 라틴어 본문 사용.",
+        "release": "public-0.1",
+        "translation_revision": "sha256:de0b669dc7a96ef6debe147d179471cdb3f46a39afbdb4117b63e0b189f7ff87",
+        "fixed_path": "releases/public-0.1/works/benefits/index.html#p-1-1-2"
+      }
+    },
+    {
+      "ref": "1.1.3",
+      "original": "Nec facile dixerim, utrum turpius sit infitiari an repetere beneficium ; id enim genus huius crediti est, ex quo tantum recipiendum sit, quantum ultro refertur. Decoquere vero foedissimum ob hoc ipsum, quia non opus est ad liberandam fidem facultatibus sed animo ; reddit enim beneficium, qui debet. Sed cum sit in ipsis crimen, qui ne confessione quidem grati sunt, in nobis quoque est.",
+      "title": "보답과 감사의 마음",
+      "korean": "받은 호의를 부인하는 일과 베푼 호의를 돌려달라고 요구하는 일 가운데 어느 쪽이 더 부끄러운지 쉽게 말할 수 없다. 이 빚은 자발적으로 되돌아오는 만큼만 받아야 하는 종류이기 때문이다. 이를 갚지 않는 일이 더없이 수치스러운 까닭은, 신의를 지키는 데 재산이 아니라 마음이 필요하기 때문이다. 호의를 입었음을 인정하는 사람이 호의에 보답한다. 고맙다는 인정조차 하지 않는 사람들에게 잘못이 있지만, 우리에게도 잘못이 있다.",
+      "sourceUrl": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1017.phi013.perseus-lat2:1.1.3/",
+      "groups": [],
+      "notes": [],
+      "source_revision": "sha256:400f5f4e7b9b3dc303305802895f1fd16cac7aa9eb4257d9082edff6c1fa1c1b",
+      "translation_revision": "sha256:4fd84e311d0e9abf53f77b093684d6aca0de15dc870890a663c12d21794e247a",
+      "work_passage_id": "benefits:1.1.3",
+      "html_path": "works/benefits/index.html#p-1-1-3",
+      "fixed_html_path": "releases/public-0.1/works/benefits/index.html#p-1-1-3",
+      "source_language": "lat",
+      "source_kind": "edited_ancient_original",
+      "alignment_revision": "sha256:177f54d50dbd51a9ee63910c6aa715844e91cf9595de64890faf804abf18b381",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:400f5f4e7b9b3dc303305802895f1fd16cac7aa9eb4257d9082edff6c1fa1c1b",
+          "translation_revision": "sha256:4fd84e311d0e9abf53f77b093684d6aca0de15dc870890a663c12d21794e247a",
+          "alignment_revision": "sha256:177f54d50dbd51a9ee63910c6aa715844e91cf9595de64890faf804abf18b381"
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://github.com/PerseusDL/canonical-latinLit/blob/cc843833e101992ba54549005273cfe61a33504b/data/phi1017/phi013/phi1017.phi013.perseus-lat2.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition"
+      },
+      "citation": {
+        "author": "세네카",
+        "work": "호의에 관하여",
+        "reference": "1.1.3",
+        "edition": "John William Basore 편, Moral Essays 3, William Heinemann / G. P. Putnam’s Sons, 1935. 라틴어 본문 사용.",
+        "release": "public-0.1",
+        "translation_revision": "sha256:4fd84e311d0e9abf53f77b093684d6aca0de15dc870890a663c12d21794e247a",
+        "fixed_path": "releases/public-0.1/works/benefits/index.html#p-1-1-3"
+      }
+    }
+  ],
+  "original_title": "De Beneficiis",
+  "display_title": "호의에 관하여",
+  "reference_scheme": "section",
+  "coverage_label": "선별 3개 대목",
+  "edition_id": "phi1017.phi013.perseus-lat2",
+  "source_file_sha256": "ffde84f4348baba656686ef968340f93839f5e011b8a16a28620b161679e4620",
+  "display_author": "세네카",
+  "scope": "선별 본문 1.1.1, 1.1.2, 1.1.3",
+  "coverage": "excerpts",
+  "release_id": "public-0.1",
+  "source_language": "lat",
+  "source_kind": "edited_ancient_original",
+  "human_reviewed": false,
+  "translation_method": "고정 그리스어·라틴어 원문에서 직접 번역",
+  "html_path": "works/benefits/index.html",
+  "json_path": "data/works/benefits.json",
+  "fixed_html_path": "releases/public-0.1/works/benefits/index.html",
+  "publication_status": "public_review_edition"
+}

@@ -1,0 +1,195 @@
+{
+  "id": "apology",
+  "title": "소크라테스의 변명",
+  "author": "플라톤",
+  "abbreviation": "Apol.",
+  "corpus": "greco",
+  "language": "grc",
+  "genre": "철학·변론",
+  "period": "그리스 고전기",
+  "region": "아테네",
+  "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
+  "summary": "법정 변론 속 진실, 신에 대한 순종, 삶의 성찰에 관한 세 대목을 읽습니다.",
+  "topics": [
+    "변론",
+    "순종",
+    "성찰"
+  ],
+  "notes": [
+    "17a, 29d, 38a에서 각각 일부 문장을 발췌했다. 원문 링크에서 앞뒤 문맥을 확인할 수 있다.",
+    "신약 시대보다 앞선 그리스 철학 전통의 비교 자료다. 여기서 θεός는 소크라테스의 발언 문맥에 따라 신으로 옮겼다."
+  ],
+  "related": [
+    {
+      "reference": "행 5:29",
+      "reason": "사람과 신에 대한 순종을 대조하는 표현을 비교한다.",
+      "relation": "비교 자료"
+    },
+    {
+      "reference": "고후 13:5",
+      "reason": "자기 성찰이라는 주제의 비교 자료다.",
+      "relation": "비교 자료"
+    }
+  ],
+  "sourceUrl": "https://github.com/PerseusDL/canonical-greekLit/blob/bcc5df0602f3b3fe6fefe1e1d575602a25ab1db6/data/tlg0059/tlg002/tlg0059.tlg002.perseus-grc2.xml",
+  "readerUrl": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0059.tlg002.perseus-grc2/",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "licenseEvidence": "https://github.com/PerseusDL/canonical-greekLit",
+  "sourceCredit": "Perseus Digital Library, Tufts University",
+  "verified": "2026-09-26",
+  "translationCredit": "Codex 작성, 원어 직접 번역 초안",
+  "reviewer": "학술 검토 전",
+  "passages": [
+    {
+      "ref": "17a",
+      "original": "ὅτι μὲν ὑμεῖς, ὦ ἄνδρες Ἀθηναῖοι, πεπόνθατε ὑπὸ τῶν ἐμῶν κατηγόρων, οὐκ οἶδα· ἐγὼ δʼ οὖν καὶ αὐτὸς ὑπʼ αὐτῶν ὀλίγου ἐμαυτοῦ ἐπελαθόμην, οὕτω πιθανῶς ἔλεγον. καίτοι ἀληθές γε ὡς ἔπος εἰπεῖν οὐδὲν εἰρήκασιν.",
+      "excerpt": true,
+      "title": "설득력 있는 말과 진실",
+      "korean": "아테네 시민 여러분, 나를 고발한 사람들이 여러분에게 어떤 영향을 주었는지 나는 모릅니다. 나 자신조차 그들의 말을 듣고 하마터면 내가 누구인지 잊을 뻔했습니다. 그만큼 설득력 있게 말했기 때문입니다. 그러나 그들이 한 말 가운데 참된 것은 거의 없습니다.",
+      "sourceUrl": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0059.tlg002.perseus-grc2:17/",
+      "groups": [],
+      "notes": [
+        "17a, 29d, 38a에서 각각 일부 문장을 발췌했다. 원문 링크에서 앞뒤 문맥을 확인할 수 있다.",
+        "신약 시대보다 앞선 그리스 철학 전통의 비교 자료다. 여기서 θεός는 소크라테스의 발언 문맥에 따라 신으로 옮겼다."
+      ],
+      "source_revision": "sha256:ad5f556327ad53d3153f24240beb36d7a35c26b8741b03d53be65ece49b47b88",
+      "translation_revision": "sha256:852799e29a712a87974c34abea1dc2e54bc4fa4b3970fdc6a6e3569f50e9401e",
+      "work_passage_id": "apology:17a",
+      "html_path": "works/apology/index.html#p-17a",
+      "fixed_html_path": "releases/public-0.1/works/apology/index.html#p-17a",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "alignment_revision": "sha256:6d0368e12cb8207198f52cfa8488eea9717e1087bd5289364c91426efa4ae5d7",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:ad5f556327ad53d3153f24240beb36d7a35c26b8741b03d53be65ece49b47b88",
+          "translation_revision": "sha256:852799e29a712a87974c34abea1dc2e54bc4fa4b3970fdc6a6e3569f50e9401e",
+          "alignment_revision": "sha256:6d0368e12cb8207198f52cfa8488eea9717e1087bd5289364c91426efa4ae5d7"
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://github.com/PerseusDL/canonical-greekLit/blob/bcc5df0602f3b3fe6fefe1e1d575602a25ab1db6/data/tlg0059/tlg002/tlg0059.tlg002.perseus-grc2.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition"
+      },
+      "citation": {
+        "author": "플라톤",
+        "work": "소크라테스의 변명",
+        "reference": "17a",
+        "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
+        "release": "public-0.1",
+        "translation_revision": "sha256:852799e29a712a87974c34abea1dc2e54bc4fa4b3970fdc6a6e3569f50e9401e",
+        "fixed_path": "releases/public-0.1/works/apology/index.html#p-17a"
+      }
+    },
+    {
+      "ref": "29d",
+      "original": "ἐγὼ ὑμᾶς, ὦ ἄνδρες Ἀθηναῖοι, ἀσπάζομαι μὲν καὶ φιλῶ, πείσομαι δὲ μᾶλλον τῷ θεῷ ἢ ὑμῖν,",
+      "excerpt": true,
+      "title": "신에게 순종하는 일",
+      "korean": "아테네 시민 여러분, 나는 여러분을 존중하고 사랑합니다. 그러나 여러분보다 신에게 더 순종하겠습니다.",
+      "sourceUrl": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0059.tlg002.perseus-grc2:29/",
+      "groups": [],
+      "notes": [],
+      "source_revision": "sha256:508aa9b611aa0669a804aa71b128e7c6b05e912ddd1a7d85c40fc2fbc8fa631a",
+      "translation_revision": "sha256:8a20ea63a5789a22cec5230d271cef410f2dfbd67fab8e33f55e63cfa26b1a24",
+      "work_passage_id": "apology:29d",
+      "html_path": "works/apology/index.html#p-29d",
+      "fixed_html_path": "releases/public-0.1/works/apology/index.html#p-29d",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "alignment_revision": "sha256:f676902e87f7da07aaac88333af8a5fdaf50a8391b82e628bdbc2444ab884e9e",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:508aa9b611aa0669a804aa71b128e7c6b05e912ddd1a7d85c40fc2fbc8fa631a",
+          "translation_revision": "sha256:8a20ea63a5789a22cec5230d271cef410f2dfbd67fab8e33f55e63cfa26b1a24",
+          "alignment_revision": "sha256:f676902e87f7da07aaac88333af8a5fdaf50a8391b82e628bdbc2444ab884e9e"
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://github.com/PerseusDL/canonical-greekLit/blob/bcc5df0602f3b3fe6fefe1e1d575602a25ab1db6/data/tlg0059/tlg002/tlg0059.tlg002.perseus-grc2.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition"
+      },
+      "citation": {
+        "author": "플라톤",
+        "work": "소크라테스의 변명",
+        "reference": "29d",
+        "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
+        "release": "public-0.1",
+        "translation_revision": "sha256:8a20ea63a5789a22cec5230d271cef410f2dfbd67fab8e33f55e63cfa26b1a24",
+        "fixed_path": "releases/public-0.1/works/apology/index.html#p-29d"
+      }
+    },
+    {
+      "ref": "38a",
+      "original": "ὁ δὲ ἀνεξέταστος βίος οὐ βιωτὸς ἀνθρώπῳ,",
+      "excerpt": true,
+      "title": "성찰하는 삶",
+      "korean": "성찰하지 않는 삶은 인간에게 살 만한 삶이 아닙니다.",
+      "sourceUrl": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0059.tlg002.perseus-grc2:38/",
+      "groups": [],
+      "notes": [],
+      "source_revision": "sha256:1bf8336546e841bef52e0980d457686a40752abbeb7db6d266ff4cb01233a8b7",
+      "translation_revision": "sha256:e139f67373ff7857a96ab4ec414f43eb57be62ee2c0150faf98d0cb52470b766",
+      "work_passage_id": "apology:38a",
+      "html_path": "works/apology/index.html#p-38a",
+      "fixed_html_path": "releases/public-0.1/works/apology/index.html#p-38a",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "alignment_revision": "sha256:181883a3d7b8358a7cdea54097531f28811d063808691107bfe42a11dc25a695",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:1bf8336546e841bef52e0980d457686a40752abbeb7db6d266ff4cb01233a8b7",
+          "translation_revision": "sha256:e139f67373ff7857a96ab4ec414f43eb57be62ee2c0150faf98d0cb52470b766",
+          "alignment_revision": "sha256:181883a3d7b8358a7cdea54097531f28811d063808691107bfe42a11dc25a695"
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://github.com/PerseusDL/canonical-greekLit/blob/bcc5df0602f3b3fe6fefe1e1d575602a25ab1db6/data/tlg0059/tlg002/tlg0059.tlg002.perseus-grc2.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition"
+      },
+      "citation": {
+        "author": "플라톤",
+        "work": "소크라테스의 변명",
+        "reference": "38a",
+        "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
+        "release": "public-0.1",
+        "translation_revision": "sha256:e139f67373ff7857a96ab4ec414f43eb57be62ee2c0150faf98d0cb52470b766",
+        "fixed_path": "releases/public-0.1/works/apology/index.html#p-38a"
+      }
+    }
+  ],
+  "original_title": "Ἀπολογία Σωκράτους",
+  "display_title": "소크라테스의 변명",
+  "reference_scheme": "section",
+  "coverage_label": "선별 3개 대목",
+  "edition_id": "tlg0059.tlg002.perseus-grc2",
+  "source_file_sha256": "6077e9014cf806d7d70e22133946125dc222e9ff8c6207ca6c324993ee95a8a9",
+  "display_author": "플라톤",
+  "scope": "선별 본문 17a, 29d, 38a",
+  "coverage": "excerpts",
+  "release_id": "public-0.1",
+  "source_language": "grc",
+  "source_kind": "edited_ancient_original",
+  "human_reviewed": false,
+  "translation_method": "고정 그리스어·라틴어 원문에서 직접 번역",
+  "html_path": "works/apology/index.html",
+  "json_path": "data/works/apology.json",
+  "fixed_html_path": "releases/public-0.1/works/apology/index.html",
+  "publication_status": "public_review_edition"
+}

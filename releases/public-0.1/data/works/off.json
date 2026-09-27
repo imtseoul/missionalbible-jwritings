@@ -1,0 +1,192 @@
+{
+  "id": "off",
+  "title": "의무론",
+  "author": "키케로",
+  "abbreviation": "Off.",
+  "corpus": "greco",
+  "language": "lat",
+  "genre": "철학",
+  "period": "로마 공화정 말기",
+  "region": "로마",
+  "edition": "Walter Miller 편, De Officiis, London: William Heinemann / New York: G. P. Putnam’s Sons, 1913, 1928 인쇄. 라틴어 본문 사용.",
+  "summary": "정의, 재산, 상호 도움을 인간 사회의 결속이라는 관점에서 설명합니다.",
+  "topics": [
+    "정의",
+    "공동체",
+    "호의"
+  ],
+  "notes": [
+    "1.20-22는 정의와 선행을 설명하며 사유 재산과 공동의 이익을 논한다.",
+    "1.22에서 키케로 자신이 플라톤과 스토아 학파를 언급한다."
+  ],
+  "related": [
+    {
+      "reference": "고전 12:12-27",
+      "reason": "공동체 구성원들의 상호 의존이라는 주제로 비교한다.",
+      "relation": "비교 자료"
+    },
+    {
+      "reference": "롬 12:4-8",
+      "reason": "공동의 이익에 기여하는 행위를 비교해 읽는다.",
+      "relation": "비교 자료"
+    }
+  ],
+  "sourceUrl": "https://github.com/PerseusDL/canonical-latinLit/blob/cc843833e101992ba54549005273cfe61a33504b/data/phi0474/phi055/phi0474.phi055.perseus-lat2.xml",
+  "readerUrl": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi055.perseus-lat2/",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "licenseEvidence": "https://github.com/PerseusDL/canonical-latinLit",
+  "sourceCredit": "Perseus Digital Library, Tufts University",
+  "verified": "2026-09-26",
+  "translationCredit": "Codex 작성, 원어 직접 번역 초안",
+  "reviewer": "학술 검토 전",
+  "passages": [
+    {
+      "ref": "1.20",
+      "original": "De tribus autem reliquis latissime patet ea ratio, qua societas hominum inter ipsos et vitae quasi communitas continetur; cuius partes duae, iustitia, in qua virtutis est splendor maximus, ex qua viri boni nominantur, et huic coniuncta beneficentia, quam eandem vel benignitatem vel liberalitatem appellari licet. Sed iustitiae primum munus est, ut ne cui quis noceat nisi lacessitus iniuria, deinde ut communibus pro communibus utatur, privatis ut suis.",
+      "title": "정의와 선행",
+      "korean": "나머지 세 가지 가운데 가장 넓게 미치는 것은 사람들이 서로 맺는 사회적 관계와 삶의 공동체를 유지하는 원리다. 여기에는 두 부분이 있다. 하나는 정의인데, 덕의 가장 큰 빛이 여기에 있으며 이 때문에 사람들은 선한 사람이라고 불린다. 다른 하나는 정의와 연결된 선행으로, 이를 친절이나 너그러움이라고 불러도 된다. 정의의 첫 임무는 부당한 공격을 받는 경우를 제외하고 누구도 해치지 않는 것이다. 다음은 공동의 것을 공동의 것으로, 사적인 것을 자기 것으로 사용하는 것이다.",
+      "sourceUrl": "https://github.com/PerseusDL/canonical-latinLit/blob/cc843833e101992ba54549005273cfe61a33504b/data/phi0474/phi055/phi0474.phi055.perseus-lat2.xml",
+      "groups": [],
+      "notes": [
+        "1.20-22는 정의와 선행을 설명하며 사유 재산과 공동의 이익을 논한다.",
+        "1.22에서 키케로 자신이 플라톤과 스토아 학파를 언급한다."
+      ],
+      "source_revision": "sha256:21e434f694c1b67f38ddae8f876c933b69f7a78e94414a01fa8d1d745ddf2bab",
+      "translation_revision": "sha256:a6a71fb85afbb177493453356d68790275317e58748be9ef20efc1ebc1915a8d",
+      "work_passage_id": "off:1.20",
+      "html_path": "works/off/index.html#p-1-20",
+      "fixed_html_path": "releases/public-0.1/works/off/index.html#p-1-20",
+      "source_language": "lat",
+      "source_kind": "edited_ancient_original",
+      "alignment_revision": "sha256:d86f9901c85d65043869a86483778545c9a80de12f29fb48f361c9fcbe556793",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:21e434f694c1b67f38ddae8f876c933b69f7a78e94414a01fa8d1d745ddf2bab",
+          "translation_revision": "sha256:a6a71fb85afbb177493453356d68790275317e58748be9ef20efc1ebc1915a8d",
+          "alignment_revision": "sha256:d86f9901c85d65043869a86483778545c9a80de12f29fb48f361c9fcbe556793"
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://github.com/PerseusDL/canonical-latinLit/blob/cc843833e101992ba54549005273cfe61a33504b/data/phi0474/phi055/phi0474.phi055.perseus-lat2.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition"
+      },
+      "citation": {
+        "author": "키케로",
+        "work": "의무론",
+        "reference": "1.20",
+        "edition": "Walter Miller 편, De Officiis, London: William Heinemann / New York: G. P. Putnam’s Sons, 1913, 1928 인쇄. 라틴어 본문 사용.",
+        "release": "public-0.1",
+        "translation_revision": "sha256:a6a71fb85afbb177493453356d68790275317e58748be9ef20efc1ebc1915a8d",
+        "fixed_path": "releases/public-0.1/works/off/index.html#p-1-20"
+      }
+    },
+    {
+      "ref": "1.21",
+      "original": "Sunt autem privata nulla natura, sed aut vetere occupatione, ut qui quondam in vacua venerunt, aut victoria, ut qui bello potiti sunt, aut lege, pactione, condicione, sorte; ex quo fit, ut ager Arpinas Arpinatium dicatur, Tusculanus Tusculanorum; similisque est privatarum possessionum discriptio. Ex quo, quia suum cuiusque fit eorum, quae natura fuerant communia, quod cuique obtigit, id quisque teneat; e quo si quis sibi appetet, violabit ius humanae societatis.",
+      "title": "공동의 것과 사유 재산",
+      "korean": "본성상 사유물인 것은 없다. 예전에 빈 땅에 들어간 사람들이 그랬듯 오래된 점유로, 전쟁에서 차지한 사람들이 그랬듯 승리로, 또는 법과 협약과 조건과 추첨으로 사유물이 생긴다. 그래서 아르피눔의 땅을 아르피눔 사람들의 땅, 투스쿨룸의 땅을 투스쿨룸 사람들의 땅이라고 부른다. 사유 재산의 분할도 이와 같다. 본래 공동의 것이었던 것 가운데 일부가 이렇게 각자의 것이 되었으므로, 각 사람은 자기 몫으로 돌아온 것을 지켜야 한다. 누군가 그 가운데 남의 몫을 탐내면 인간 사회의 권리를 침해하게 된다.",
+      "sourceUrl": "https://github.com/PerseusDL/canonical-latinLit/blob/cc843833e101992ba54549005273cfe61a33504b/data/phi0474/phi055/phi0474.phi055.perseus-lat2.xml",
+      "groups": [],
+      "notes": [],
+      "source_revision": "sha256:80192b5e2b8e62475689d4d513eb6448f7f785ceed2b4c5aabe14fdeaee997ac",
+      "translation_revision": "sha256:dc438c1f568dc5f60dd084d08c82e0c808c4f36634453306a928d2ee0fd44503",
+      "work_passage_id": "off:1.21",
+      "html_path": "works/off/index.html#p-1-21",
+      "fixed_html_path": "releases/public-0.1/works/off/index.html#p-1-21",
+      "source_language": "lat",
+      "source_kind": "edited_ancient_original",
+      "alignment_revision": "sha256:05862a4156924011a50dfe95b008314057ab0cf04ea2e48880b7f67e7bddf436",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:80192b5e2b8e62475689d4d513eb6448f7f785ceed2b4c5aabe14fdeaee997ac",
+          "translation_revision": "sha256:dc438c1f568dc5f60dd084d08c82e0c808c4f36634453306a928d2ee0fd44503",
+          "alignment_revision": "sha256:05862a4156924011a50dfe95b008314057ab0cf04ea2e48880b7f67e7bddf436"
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://github.com/PerseusDL/canonical-latinLit/blob/cc843833e101992ba54549005273cfe61a33504b/data/phi0474/phi055/phi0474.phi055.perseus-lat2.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition"
+      },
+      "citation": {
+        "author": "키케로",
+        "work": "의무론",
+        "reference": "1.21",
+        "edition": "Walter Miller 편, De Officiis, London: William Heinemann / New York: G. P. Putnam’s Sons, 1913, 1928 인쇄. 라틴어 본문 사용.",
+        "release": "public-0.1",
+        "translation_revision": "sha256:dc438c1f568dc5f60dd084d08c82e0c808c4f36634453306a928d2ee0fd44503",
+        "fixed_path": "releases/public-0.1/works/off/index.html#p-1-21"
+      }
+    },
+    {
+      "ref": "1.22",
+      "original": "Sed quoniam, ut praeclare scriptum est a Platone, non nobis solum nati sumus ortusque nostri partem patria vindicat, partem amici, atque, ut placet Stoicis, quae in terris gignantur, ad usum hominum omnia creari, homines autem hominum causa esse generatos, ut ipsi inter se aliis alii prodesse possent, in hoc naturam debemus ducem sequi, communes utilitates in medium afferre mutatione officiorum, dando accipiendo, tum artibus, tum opera, tum facultatibus devincire hominum inter homines societatem.",
+      "title": "서로를 위해 태어난 사람들",
+      "korean": "플라톤이 훌륭하게 썼듯 우리는 우리 자신만을 위해 태어나지 않았다. 조국은 우리 탄생의 한 몫을, 친구들은 또 한 몫을 요구한다. 스토아 학파에 따르면 땅에서 생겨나는 모든 것은 사람들이 쓰도록 만들어졌으며, 사람들은 서로 도움이 되도록 다른 사람들을 위해 태어났다. 그러므로 우리는 이 점에서 자연을 인도자로 따라야 한다. 의무를 서로 수행하고 주고받음으로써 공동의 이익에 기여하며, 기술과 노동과 재산으로 사람들 사이의 결속을 이루어야 한다.",
+      "sourceUrl": "https://github.com/PerseusDL/canonical-latinLit/blob/cc843833e101992ba54549005273cfe61a33504b/data/phi0474/phi055/phi0474.phi055.perseus-lat2.xml",
+      "groups": [],
+      "notes": [],
+      "source_revision": "sha256:1042bb5c9088c9b8985d696f48796709ae8b7434aa2a41ec6409e87fad1a6841",
+      "translation_revision": "sha256:7e5e585a1219e79584e045c3fb558964cceeded5a052b206e4359d8d90f6a20b",
+      "work_passage_id": "off:1.22",
+      "html_path": "works/off/index.html#p-1-22",
+      "fixed_html_path": "releases/public-0.1/works/off/index.html#p-1-22",
+      "source_language": "lat",
+      "source_kind": "edited_ancient_original",
+      "alignment_revision": "sha256:9833245d9a0106a89a60ca0e97999588534c9a2bf2fe4c002799bb971648243d",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:1042bb5c9088c9b8985d696f48796709ae8b7434aa2a41ec6409e87fad1a6841",
+          "translation_revision": "sha256:7e5e585a1219e79584e045c3fb558964cceeded5a052b206e4359d8d90f6a20b",
+          "alignment_revision": "sha256:9833245d9a0106a89a60ca0e97999588534c9a2bf2fe4c002799bb971648243d"
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://github.com/PerseusDL/canonical-latinLit/blob/cc843833e101992ba54549005273cfe61a33504b/data/phi0474/phi055/phi0474.phi055.perseus-lat2.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition"
+      },
+      "citation": {
+        "author": "키케로",
+        "work": "의무론",
+        "reference": "1.22",
+        "edition": "Walter Miller 편, De Officiis, London: William Heinemann / New York: G. P. Putnam’s Sons, 1913, 1928 인쇄. 라틴어 본문 사용.",
+        "release": "public-0.1",
+        "translation_revision": "sha256:7e5e585a1219e79584e045c3fb558964cceeded5a052b206e4359d8d90f6a20b",
+        "fixed_path": "releases/public-0.1/works/off/index.html#p-1-22"
+      }
+    }
+  ],
+  "original_title": "De Officiis",
+  "display_title": "의무론",
+  "reference_scheme": "section",
+  "coverage_label": "선별 3개 대목",
+  "edition_id": "phi0474.phi055.perseus-lat2",
+  "source_file_sha256": "6d3b2d3f9040cfba0af3c31970fcc382576e33afbb150de7a8bb23f9cdfd50fd",
+  "display_author": "키케로",
+  "scope": "선별 본문 1.20, 1.21, 1.22",
+  "coverage": "excerpts",
+  "release_id": "public-0.1",
+  "source_language": "lat",
+  "source_kind": "edited_ancient_original",
+  "human_reviewed": false,
+  "translation_method": "고정 그리스어·라틴어 원문에서 직접 번역",
+  "html_path": "works/off/index.html",
+  "json_path": "data/works/off.json",
+  "fixed_html_path": "releases/public-0.1/works/off/index.html",
+  "publication_status": "public_review_edition"
+}
