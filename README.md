@@ -1,4 +1,4 @@
-# jwritings.missionalbible.org
+# atexts.missionalbible.org
 
 미셔널 바이블의 공개 배포 파일입니다.
 
