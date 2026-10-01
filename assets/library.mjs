@@ -53,7 +53,28 @@ if($('.reader')){
   document.querySelectorAll('.chapter-menu a').forEach(a=>a.addEventListener('click',()=>a.closest('details').open=false));
   const passageIndexes=new Map([...document.querySelectorAll('.passage')].map((p,i)=>[p.dataset.ref,i]));
   const markRange=ref=>{const i=passageIndexes.get(ref);document.querySelectorAll('[data-chapter-link]').forEach(a=>a.setAttribute('aria-current',String(i!==undefined&&i>=Number(a.dataset.rangeStart)&&i<=Number(a.dataset.rangeEnd))));};
-  function targetHash(){let id;try{id=decodeURIComponent(location.hash.slice(1));}catch{return;}const target=document.getElementById(id);if(!target)return;if(id.startsWith('note-')){const details=target.closest('details');if(details)details.open=true;}const ref=id.replace(/^(p|note)-/,'').replaceAll('-','.');markRange(ref);requestAnimationFrame(()=>target.scrollIntoView({block:'start'}));}
+  const columnLinks=[...document.querySelectorAll('.chapter-index a[data-source-column]')];
+  const lineTargets=[...document.querySelectorAll('.original [id][data-source-column]')];
+  const passages=[...document.querySelectorAll('.passage')];
+  const markColumn=column=>document.querySelectorAll('[data-chapter-link][data-source-column]').forEach(a=>a.setAttribute('aria-current',String(a.dataset.sourceColumn===column)));
+  function targetHash(){let id;try{id=decodeURIComponent(location.hash.slice(1));}catch{return;}const target=document.getElementById(id);if(!target)return;if(id.startsWith('note-')){const details=target.closest('details');if(details)details.open=true;}const ref=target.closest('[data-ref]')?.dataset.ref;markRange(ref);if(target.dataset.sourceColumn)markColumn(target.dataset.sourceColumn);requestAnimationFrame(()=>{target.scrollIntoView({block:'start'});scheduleRange();});}
+  let frame=null;
+  function refreshRange(){
+    frame=null;const y=innerHeight*.18;
+    if(columnLinks.length&&!document.body.classList.contains('hide-source')){
+      const positions=lineTargets.map(target=>({target,top:target.getBoundingClientRect().top}));
+      const before=positions.filter(x=>x.top<=y);const selected=before.at(-1)||positions[0];
+      if(selected)markColumn(selected.target.dataset.sourceColumn);
+      return;
+    }
+    const positions=passages.map(target=>({target,rect:target.getBoundingClientRect()}));
+    const selected=positions.find(x=>x.rect.top<=y&&x.rect.bottom>y)||positions.find(x=>x.rect.top>y);
+    if(selected)markRange(selected.target.dataset.ref);
+  }
+  function scheduleRange(){if(frame===null)frame=requestAnimationFrame(refreshRange);}
   window.addEventListener('hashchange',targetHash);targetHash();
-  if('IntersectionObserver' in window){const observer=new IntersectionObserver(entries=>{const visible=entries.filter(x=>x.isIntersecting).map(x=>({target:x.target,rect:x.target.getBoundingClientRect()})).filter(x=>x.rect.bottom>innerHeight*.1&&x.rect.top<innerHeight*.3).sort((a,b)=>a.rect.top-b.rect.top);if(!visible.length)return;markRange(visible[0].target.dataset.ref);},{rootMargin:'-10% 0px -70% 0px'});document.querySelectorAll('.passage').forEach(p=>observer.observe(p));}
+  window.addEventListener('scroll',scheduleRange,{passive:true});window.addEventListener('resize',scheduleRange);
+  toggle.addEventListener('change',scheduleRange);
+  if('IntersectionObserver' in window){const observer=new IntersectionObserver(scheduleRange,{rootMargin:'-10% 0px -70% 0px'});passages.forEach(p=>observer.observe(p));}
+  scheduleRange();
 }
