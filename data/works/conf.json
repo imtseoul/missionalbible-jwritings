@@ -1,0 +1,2872 @@
+{
+  "id": "conf",
+  "title": "언어의 혼란에 관하여",
+  "author": "필론",
+  "abbreviation": "Conf.",
+  "corpus": "jewish",
+  "language": "grc",
+  "genre": "철학적 성경 해석",
+  "period": "고대",
+  "region": "알렉산드리아",
+  "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
+  "summary": "바벨 이야기와 그리스 신화를 비교하는 반론을 제시한 뒤, 하나의 말과 목소리를 악의 합의로 풀이하는 논증을 읽습니다.",
+  "topics": [
+    "바벨",
+    "언어",
+    "신화",
+    "성경 해석"
+  ],
+  "notes": [],
+  "sourceUrl": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg013/tlg0018.tlg013.1st1K-grc1.xml",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "sourceCredit": "전자 전사와 부호화: University of Leipzig, First1KGreek, Digital Divide Data. 원판 편집: Paul Wendland.",
+  "verified": "2026-10-03",
+  "translationCredit": "Codex 작성, 원어 직접 번역 초안",
+  "reviewer": "학술 검토 전",
+  "translationLicense": "CC BY-SA 4.0",
+  "rightsNotice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0으로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요.",
+  "passages": [
+    {
+      "ref": "1",
+      "section": 1,
+      "original": "Περὶ μὲν δὴ τούτων ἀρκέσει τὰ εἰρημένα. σκεπτέον δὲ ἑξῆς οὐ παρέργως, ἃ περὶ τῆς τῶν διαλέκτων συγχύσεως φιλοσοφεῖ· λέγει γὰρ ὧδε· “καὶ ἦν πᾶσα ἡ γῆ χεῖλος ἕν, καὶ φωνὴ μία πᾶσι. καὶ ἐγένετο ἐν τῷ κινῆσαι αὐτοὺς ἀπὸ ἀνατολῶν, εὗρον πεδίον ἐν τῇ γῇ Σεναὰρ καὶ κατῴκησαν ἐκεῖ. καὶ εἶπεν ἄνθρωπος τῷ πλησίον· δεῦτε πλινθεύσωμεν πλίνθους καὶ ὀπτήσωμεν αὐτὰς πυρί. καὶ ἐγένετο αὐτοῖς ἡ πλίνθος εἰς λίθον, καὶ ἄσφαλτος ἦν αὐτοῖς ὁ πηλός. καὶ εἶπον· δεῦτε οἰκοδομήσωμεν ἑαυτοῖς πόλιν καὶ πύργον, οὗ ἡ κεφαλὴ ἔσται ἕως τοῦ οὐρανοῦ, καὶ ποιήσωμεν ἑαυτῶν ὄνομα πρὸ τοῦ διασπαρῆναι ἐπὶ πρόσωπον πάσης τῆς γῆς. καὶ κατέβη κύριος ἰδεῖν τὴν πόλιν καὶ τὸν πύργον ὃν ᾠκοδόμησαν οἱ υἱοὶ τῶν ἀνθρώπων. καὶ εἶπε κύριος· ἰδοὺ γένος ἓν καὶ χεῖλος ἓν πάντων· καὶ τοῦτο ἤρξαντο ποιῆσαι, καὶ νῦν οὐκ ἐκλείψει ἐξ αὐτῶν πάντα ὅσα ἂν ἐπιθῶνται ποιεῖν· δεῦτε καὶ καταβάντες συγχέωμεν ἐκεῖ αὐτῶν τὴν γλῶσσαν, ἵνα μὴ ἀκούσωσιν ἕκαστος τὴν φωνὴν τοῦ πλησίον. καὶ διέσπειρεν αὐτοὺς κύριος ἐκεῖθεν ἐπὶ πρόσωπον πάσης τῆς γῆς, καὶ ἐπαύσαντο οἰκοδομοῦντες τὴν πόλιν καὶ τὸν πύργον. διὰ τοῦτο ἐκλήθη τὸ ὄνομα αὐτοῦ σύγχυσις, ὅτι ἐκεῖ συνέχεε κύριος τὰ χείλη πάσης τῆς γῆς, καὶ ἐκεῖθεν διέσπειρεν αὐτοὺς κύριος ἐπὶ πρόσωπον πάσης τῆς γῆς”.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:c46b3196894da19b6a277c30d0ef9d4355241ee5ec5c632240ca1093f103fb0a",
+      "source_file_sha256": "6bbfe84cda489b9bc387a6a85f4dec931c5d143e65b8259843adb881dacc0f61",
+      "source_locator": {
+        "filename": "tlg0018.tlg013.1st1K-grc1.xml",
+        "reference": "1"
+      },
+      "korean": "이 일들에 관해서는 앞서 말한 것으로 충분하다. 다음으로 그가 언어의 혼란에 관해 철학적으로 설명한 것을 주의 깊게 살펴보아야 한다. 그는 이렇게 말한다. “온 땅에 입술이 하나였고, 모든 이에게 목소리가 하나였다. 그들이 동쪽에서 이동하다가 시나르 땅에서 평야를 발견하여 거기에 살았다. 사람들이 서로 말했다. ‘자, 벽돌을 만들어 불에 굽자.’ 벽돌이 그들에게 돌을 대신했고, 아스팔트가 진흙을 대신했다. 그들이 말했다. ‘자, 우리를 위해 도시와 꼭대기가 하늘에 닿는 탑을 세우자. 온 땅의 표면에 흩어지기 전에 우리의 이름을 만들자.’ 주님은 사람들의 아들들이 세운 도시와 탑을 보려고 내려오셨다. 주님이 말씀하셨다. ‘보아라, 한 민족이며 모두에게 입술이 하나이다. 그들이 이런 일을 시작했으니, 이제는 그들이 하려고 마음먹는 어떤 일도 그들에게서 그치지 않을 것이다. 자, 내려가 거기서 그들의 혀를 뒤섞자. 각각 이웃의 목소리를 알아듣지 못하게 하자.’ 주님은 그들을 거기서 온 땅의 표면으로 흩으셨고, 그들은 도시와 탑을 세우기를 그쳤다. 이 때문에 그곳의 이름을 혼란이라 불렀다. 주님이 거기서 온 땅의 입술을 뒤섞으셨기 때문이다. 주님은 거기서 그들을 온 땅의 표면으로 흩으셨다.”",
+      "translation_revision": "sha256:ab1392d632570612ae44a4b6c8ce89349a4bea57fef216f5e4335c6163a1d2d7",
+      "groups": [
+        {
+          "id": "a-fee7289c1ece1f450770",
+          "source_range": [
+            0,
+            39
+          ],
+          "ko_range": [
+            0,
+            26
+          ],
+          "source_text": "Περὶ μὲν δὴ τούτων ἀρκέσει τὰ εἰρημένα.",
+          "ko_text": "이 일들에 관해서는 앞서 말한 것으로 충분하다."
+        },
+        {
+          "id": "a-a91f694fc59033acc04a",
+          "source_range": [
+            40,
+            115
+          ],
+          "ko_range": [
+            27,
+            74
+          ],
+          "source_text": "σκεπτέον δὲ ἑξῆς οὐ παρέργως, ἃ περὶ τῆς τῶν διαλέκτων συγχύσεως φιλοσοφεῖ·",
+          "ko_text": "다음으로 그가 언어의 혼란에 관해 철학적으로 설명한 것을 주의 깊게 살펴보아야 한다."
+        },
+        {
+          "id": "a-79863691f5a2c2c3360e",
+          "source_range": [
+            116,
+            178
+          ],
+          "ko_range": [
+            75,
+            120
+          ],
+          "source_text": "λέγει γὰρ ὧδε· “καὶ ἦν πᾶσα ἡ γῆ χεῖλος ἕν, καὶ φωνὴ μία πᾶσι.",
+          "ko_text": "그는 이렇게 말한다. “온 땅에 입술이 하나였고, 모든 이에게 목소리가 하나였다."
+        },
+        {
+          "id": "a-02ddd3dcda1d0654299b",
+          "source_range": [
+            179,
+            274
+          ],
+          "ko_range": [
+            121,
+            161
+          ],
+          "source_text": "καὶ ἐγένετο ἐν τῷ κινῆσαι αὐτοὺς ἀπὸ ἀνατολῶν, εὗρον πεδίον ἐν τῇ γῇ Σεναὰρ καὶ κατῴκησαν ἐκεῖ.",
+          "ko_text": "그들이 동쪽에서 이동하다가 시나르 땅에서 평야를 발견하여 거기에 살았다."
+        },
+        {
+          "id": "a-ecce1d804f53ae1087b4",
+          "source_range": [
+            275,
+            359
+          ],
+          "ko_range": [
+            162,
+            194
+          ],
+          "source_text": "καὶ εἶπεν ἄνθρωπος τῷ πλησίον· δεῦτε πλινθεύσωμεν πλίνθους καὶ ὀπτήσωμεν αὐτὰς πυρί.",
+          "ko_text": "사람들이 서로 말했다. ‘자, 벽돌을 만들어 불에 굽자.’"
+        },
+        {
+          "id": "a-ab815d8e5870f7e4396e",
+          "source_range": [
+            360,
+            431
+          ],
+          "ko_range": [
+            195,
+            228
+          ],
+          "source_text": "καὶ ἐγένετο αὐτοῖς ἡ πλίνθος εἰς λίθον, καὶ ἄσφαλτος ἦν αὐτοῖς ὁ πηλός.",
+          "ko_text": "벽돌이 그들에게 돌을 대신했고, 아스팔트가 진흙을 대신했다."
+        },
+        {
+          "id": "a-141facdfb0440716dd35",
+          "source_range": [
+            432,
+            523
+          ],
+          "ko_range": [
+            229,
+            272
+          ],
+          "source_text": "καὶ εἶπον· δεῦτε οἰκοδομήσωμεν ἑαυτοῖς πόλιν καὶ πύργον, οὗ ἡ κεφαλὴ ἔσται ἕως τοῦ οὐρανοῦ,",
+          "ko_text": "그들이 말했다. ‘자, 우리를 위해 도시와 꼭대기가 하늘에 닿는 탑을 세우자."
+        },
+        {
+          "id": "a-56a62b8354f54ccfed64",
+          "source_range": [
+            524,
+            598
+          ],
+          "ko_range": [
+            273,
+            303
+          ],
+          "source_text": "καὶ ποιήσωμεν ἑαυτῶν ὄνομα πρὸ τοῦ διασπαρῆναι ἐπὶ πρόσωπον πάσης τῆς γῆς.",
+          "ko_text": "온 땅의 표면에 흩어지기 전에 우리의 이름을 만들자.’"
+        },
+        {
+          "id": "a-7099e1579d4f456c5aa1",
+          "source_range": [
+            599,
+            683
+          ],
+          "ko_range": [
+            304,
+            338
+          ],
+          "source_text": "καὶ κατέβη κύριος ἰδεῖν τὴν πόλιν καὶ τὸν πύργον ὃν ᾠκοδόμησαν οἱ υἱοὶ τῶν ἀνθρώπων.",
+          "ko_text": "주님은 사람들의 아들들이 세운 도시와 탑을 보려고 내려오셨다."
+        },
+        {
+          "id": "a-d88360a081bea8a9b6c9",
+          "source_range": [
+            684,
+            736
+          ],
+          "ko_range": [
+            339,
+            377
+          ],
+          "source_text": "καὶ εἶπε κύριος· ἰδοὺ γένος ἓν καὶ χεῖλος ἓν πάντων·",
+          "ko_text": "주님이 말씀하셨다. ‘보아라, 한 민족이며 모두에게 입술이 하나이다."
+        },
+        {
+          "id": "a-d48332f5411c3de05553",
+          "source_range": [
+            737,
+            824
+          ],
+          "ko_range": [
+            378,
+            435
+          ],
+          "source_text": "καὶ τοῦτο ἤρξαντο ποιῆσαι, καὶ νῦν οὐκ ἐκλείψει ἐξ αὐτῶν πάντα ὅσα ἂν ἐπιθῶνται ποιεῖν·",
+          "ko_text": "그들이 이런 일을 시작했으니, 이제는 그들이 하려고 마음먹는 어떤 일도 그들에게서 그치지 않을 것이다."
+        },
+        {
+          "id": "a-ce51e84589356a0cd4bf",
+          "source_range": [
+            825,
+            879
+          ],
+          "ko_range": [
+            436,
+            458
+          ],
+          "source_text": "δεῦτε καὶ καταβάντες συγχέωμεν ἐκεῖ αὐτῶν τὴν γλῶσσαν,",
+          "ko_text": "자, 내려가 거기서 그들의 혀를 뒤섞자."
+        },
+        {
+          "id": "a-a099e67f6ba0874f1742",
+          "source_range": [
+            880,
+            927
+          ],
+          "ko_range": [
+            459,
+            484
+          ],
+          "source_text": "ἵνα μὴ ἀκούσωσιν ἕκαστος τὴν φωνὴν τοῦ πλησίον.",
+          "ko_text": "각각 이웃의 목소리를 알아듣지 못하게 하자.’"
+        },
+        {
+          "id": "a-64c70305ffbf75222576",
+          "source_range": [
+            928,
+            1046
+          ],
+          "ko_range": [
+            485,
+            533
+          ],
+          "source_text": "καὶ διέσπειρεν αὐτοὺς κύριος ἐκεῖθεν ἐπὶ πρόσωπον πάσης τῆς γῆς, καὶ ἐπαύσαντο οἰκοδομοῦντες τὴν πόλιν καὶ τὸν πύργον.",
+          "ko_text": "주님은 그들을 거기서 온 땅의 표면으로 흩으셨고, 그들은 도시와 탑을 세우기를 그쳤다."
+        },
+        {
+          "id": "a-ad089a0611365b278466",
+          "source_range": [
+            1047,
+            1136
+          ],
+          "ko_range": [
+            534,
+            586
+          ],
+          "source_text": "διὰ τοῦτο ἐκλήθη τὸ ὄνομα αὐτοῦ σύγχυσις, ὅτι ἐκεῖ συνέχεε κύριος τὰ χείλη πάσης τῆς γῆς,",
+          "ko_text": "이 때문에 그곳의 이름을 혼란이라 불렀다. 주님이 거기서 온 땅의 입술을 뒤섞으셨기 때문이다."
+        },
+        {
+          "id": "a-70665c92359eab8d41ad",
+          "source_range": [
+            1137,
+            1202
+          ],
+          "ko_range": [
+            587,
+            615
+          ],
+          "source_text": "καὶ ἐκεῖθεν διέσπειρεν αὐτοὺς κύριος ἐπὶ πρόσωπον πάσης τῆς γῆς”.",
+          "ko_text": "주님은 거기서 그들을 온 땅의 표면으로 흩으셨다.”"
+        }
+      ],
+      "notes": [
+        "창세기 11.1-9를 길게 인용한다. 입술, 목소리, 혀라는 서로 다른 표현을 사용하며, 탑의 이름을 혼란이라는 그리스어로 풀이한다."
+      ],
+      "work_passage_id": "conf:1",
+      "html_path": "works/conf/index.html#p-1",
+      "fixed_html_path": "releases/public-0.35/works/conf/index.html#p-1",
+      "alignment_revision": "sha256:61cc65ed17806024b6f4262560a2a87379109d76fd8123abe9a66ccc0c9e3cb5",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:c46b3196894da19b6a277c30d0ef9d4355241ee5ec5c632240ca1093f103fb0a",
+          "translation_revision": "sha256:ab1392d632570612ae44a4b6c8ce89349a4bea57fef216f5e4335c6163a1d2d7",
+          "alignment_revision": "sha256:61cc65ed17806024b6f4262560a2a87379109d76fd8123abe9a66ccc0c9e3cb5"
+        },
+        "scoped_ai_review": {
+          "id": "conf-addition-20261003",
+          "scope": "언어의 혼란에 관하여 1-20절 전체, 21-198절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:c46b3196894da19b6a277c30d0ef9d4355241ee5ec5c632240ca1093f103fb0a",
+            "translation_revision": "sha256:ab1392d632570612ae44a4b6c8ce89349a4bea57fef216f5e4335c6163a1d2d7",
+            "alignment_revision": "sha256:61cc65ed17806024b6f4262560a2a87379109d76fd8123abe9a66ccc0c9e3cb5"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg013/tlg0018.tlg013.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0으로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "언어의 혼란에 관하여",
+        "reference": "1",
+        "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
+        "release": "public-0.35",
+        "translation_revision": "sha256:ab1392d632570612ae44a4b6c8ce89349a4bea57fef216f5e4335c6163a1d2d7",
+        "fixed_path": "releases/public-0.35/works/conf/index.html#p-1"
+      }
+    },
+    {
+      "ref": "2",
+      "section": 2,
+      "original": "οἱ μὲν δυσχεραίνοντες τῇ πατρίῳ πολιτείᾳ, ψόγον καὶ κατηγορίαν αἰεὶ τῶν νόμων μελετῶντες, τούτοις καὶ τοῖς παραπλησίοις ὡς ἂν ἐπιβάθραις τῆς ἀθεότητος αὐτῶν, οἱ δυσσεβεῖς, χρῶνται φάσκοντες· ἔτι νῦν σεμνηγορεῖτε περὶ τῶν διατεταγμένων ὡς τοὺς ἀληθείας κανόνας αὐτῆς περιεχόντων;",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:f6a7e2e7fae3ae7838c7a513aed30b623d1381378ba35d8a17eaa554e2ee9acf",
+      "source_file_sha256": "6bbfe84cda489b9bc387a6a85f4dec931c5d143e65b8259843adb881dacc0f61",
+      "source_locator": {
+        "filename": "tlg0018.tlg013.1st1K-grc1.xml",
+        "reference": "2"
+      },
+      "encoded_page_breaks": [
+        "v.2.p.230"
+      ],
+      "korean": "조상들에게서 받은 생활 질서를 못마땅해하며 늘 율법을 비난하고 고발하려는 이들은, 이런 구절들과 그와 비슷한 구절들을 자신들의 무신론을 위한 발판처럼 사용하는 불경한 자들이다. 그들은 말한다. “그 규정들에 진리 자체의 기준이 담겨 있다며, 아직도 거창하게 말하는가?",
+      "translation_revision": "sha256:70b215e5baf9cc67006a515d2d71e76ad1c6d546fa417bb70323a1ba1ea21bfa",
+      "groups": [
+        {
+          "id": "a-4c79ba00728c1ff2e718",
+          "source_range": [
+            0,
+            89
+          ],
+          "ko_range": [
+            0,
+            45
+          ],
+          "source_text": "οἱ μὲν δυσχεραίνοντες τῇ πατρίῳ πολιτείᾳ, ψόγον καὶ κατηγορίαν αἰεὶ τῶν νόμων μελετῶντες,",
+          "ko_text": "조상들에게서 받은 생활 질서를 못마땅해하며 늘 율법을 비난하고 고발하려는 이들은,"
+        },
+        {
+          "id": "a-12aea6fd362bfa6f4f15",
+          "source_range": [
+            90,
+            190
+          ],
+          "ko_range": [
+            46,
+            107
+          ],
+          "source_text": "τούτοις καὶ τοῖς παραπλησίοις ὡς ἂν ἐπιβάθραις τῆς ἀθεότητος αὐτῶν, οἱ δυσσεβεῖς, χρῶνται φάσκοντες·",
+          "ko_text": "이런 구절들과 그와 비슷한 구절들을 자신들의 무신론을 위한 발판처럼 사용하는 불경한 자들이다. 그들은 말한다."
+        },
+        {
+          "id": "a-b2cfdb569dd7e6176883",
+          "source_range": [
+            191,
+            278
+          ],
+          "ko_range": [
+            108,
+            149
+          ],
+          "source_text": "ἔτι νῦν σεμνηγορεῖτε περὶ τῶν διατεταγμένων ὡς τοὺς ἀληθείας κανόνας αὐτῆς περιεχόντων;",
+          "ko_text": "“그 규정들에 진리 자체의 기준이 담겨 있다며, 아직도 거창하게 말하는가?"
+        }
+      ],
+      "notes": [
+        "2절부터 14절 첫 질문까지는 필론이 제시하는 율법 반대자들의 말이다. 바벨 이야기와 다른 신화를 비교하며 던지는 질문들이 여기에 속한다."
+      ],
+      "work_passage_id": "conf:2",
+      "html_path": "works/conf/index.html#p-2",
+      "fixed_html_path": "releases/public-0.35/works/conf/index.html#p-2",
+      "alignment_revision": "sha256:78c12d181a529a50bf6b5edb8d7ec21816fd5da60530547d124293801ac48aa0",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:f6a7e2e7fae3ae7838c7a513aed30b623d1381378ba35d8a17eaa554e2ee9acf",
+          "translation_revision": "sha256:70b215e5baf9cc67006a515d2d71e76ad1c6d546fa417bb70323a1ba1ea21bfa",
+          "alignment_revision": "sha256:78c12d181a529a50bf6b5edb8d7ec21816fd5da60530547d124293801ac48aa0"
+        },
+        "scoped_ai_review": {
+          "id": "conf-addition-20261003",
+          "scope": "언어의 혼란에 관하여 1-20절 전체, 21-198절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:f6a7e2e7fae3ae7838c7a513aed30b623d1381378ba35d8a17eaa554e2ee9acf",
+            "translation_revision": "sha256:70b215e5baf9cc67006a515d2d71e76ad1c6d546fa417bb70323a1ba1ea21bfa",
+            "alignment_revision": "sha256:78c12d181a529a50bf6b5edb8d7ec21816fd5da60530547d124293801ac48aa0"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg013/tlg0018.tlg013.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0으로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "언어의 혼란에 관하여",
+        "reference": "2",
+        "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
+        "release": "public-0.35",
+        "translation_revision": "sha256:70b215e5baf9cc67006a515d2d71e76ad1c6d546fa417bb70323a1ba1ea21bfa",
+        "fixed_path": "releases/public-0.35/works/conf/index.html#p-2"
+      }
+    },
+    {
+      "ref": "3",
+      "section": 3,
+      "original": "ἰδοὺ γὰρ αἱ ἱεραὶ λεγόμεναι βίβλοι παρ’ ὑμῖν καὶ μύθους περιέχουσιν, ἐφ’ οἷς εἰώθατε γελᾶν, ὅταν ἄλλων διεξιόντων ἀκούητε. καίτοι τί δεῖ τοὺς πολλαχόθι τῆς νομοθεσίας ἐσπαρμένους ἀναλέγεσθαι ὥσπερ σχολὴν ἄγοντας καὶ ἐνευκαιροῦντας διαβολαῖς, ἀλλ’ οὐ μόνον τῶν ἐν χερσὶ καὶ παρὰ πόδας ὑπομιμνῄσκειν;",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:09605a33cb062d828cbeb52a3fcea66c3eb5c9fb90c6b0315386ca96d7eddc26",
+      "source_file_sha256": "6bbfe84cda489b9bc387a6a85f4dec931c5d143e65b8259843adb881dacc0f61",
+      "source_locator": {
+        "filename": "tlg0018.tlg013.1st1K-grc1.xml",
+        "reference": "3"
+      },
+      "korean": "보라, 너희가 거룩하다고 부르는 책들에도 신화가 들어 있다. 남들이 말하는 것을 들으면 너희가 흔히 비웃는 그런 이야기들이다. 그러나 우리가 한가해서 비방할 틈을 찾는 사람처럼 율법 여러 곳에 흩어진 이야기들을 골라낼 필요가 있겠는가? 지금 손에 들고 눈앞에 있는 것들만 상기시키면 되지 않겠는가?",
+      "translation_revision": "sha256:2f5940c16cab7c86f0c97b17284caecb0c844aa6ce6957826cec2b915d861343",
+      "groups": [
+        {
+          "id": "a-abb5d39588df74df6460",
+          "source_range": [
+            0,
+            68
+          ],
+          "ko_range": [
+            0,
+            33
+          ],
+          "source_text": "ἰδοὺ γὰρ αἱ ἱεραὶ λεγόμεναι βίβλοι παρ’ ὑμῖν καὶ μύθους περιέχουσιν,",
+          "ko_text": "보라, 너희가 거룩하다고 부르는 책들에도 신화가 들어 있다."
+        },
+        {
+          "id": "a-cfe9ccf9d9be8a4dac2b",
+          "source_range": [
+            69,
+            122
+          ],
+          "ko_range": [
+            34,
+            70
+          ],
+          "source_text": "ἐφ’ οἷς εἰώθατε γελᾶν, ὅταν ἄλλων διεξιόντων ἀκούητε.",
+          "ko_text": "남들이 말하는 것을 들으면 너희가 흔히 비웃는 그런 이야기들이다."
+        },
+        {
+          "id": "a-55adb24bdc34a9785e12",
+          "source_range": [
+            123,
+            241
+          ],
+          "ko_range": [
+            71,
+            131
+          ],
+          "source_text": "καίτοι τί δεῖ τοὺς πολλαχόθι τῆς νομοθεσίας ἐσπαρμένους ἀναλέγεσθαι ὥσπερ σχολὴν ἄγοντας καὶ ἐνευκαιροῦντας διαβολαῖς,",
+          "ko_text": "그러나 우리가 한가해서 비방할 틈을 찾는 사람처럼 율법 여러 곳에 흩어진 이야기들을 골라낼 필요가 있겠는가?"
+        },
+        {
+          "id": "a-b7bb9def20b8b0909e16",
+          "source_range": [
+            242,
+            298
+          ],
+          "ko_range": [
+            132,
+            166
+          ],
+          "source_text": "ἀλλ’ οὐ μόνον τῶν ἐν χερσὶ καὶ παρὰ πόδας ὑπομιμνῄσκειν;",
+          "ko_text": "지금 손에 들고 눈앞에 있는 것들만 상기시키면 되지 않겠는가?"
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "conf:3",
+      "html_path": "works/conf/index.html#p-3",
+      "fixed_html_path": "releases/public-0.35/works/conf/index.html#p-3",
+      "alignment_revision": "sha256:5145358a01e6c7d585d9e5a6c0006530c2df8754d25347ddf218d099f4ce8ac0",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:09605a33cb062d828cbeb52a3fcea66c3eb5c9fb90c6b0315386ca96d7eddc26",
+          "translation_revision": "sha256:2f5940c16cab7c86f0c97b17284caecb0c844aa6ce6957826cec2b915d861343",
+          "alignment_revision": "sha256:5145358a01e6c7d585d9e5a6c0006530c2df8754d25347ddf218d099f4ce8ac0"
+        },
+        "scoped_ai_review": {
+          "id": "conf-addition-20261003",
+          "scope": "언어의 혼란에 관하여 1-20절 전체, 21-198절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:09605a33cb062d828cbeb52a3fcea66c3eb5c9fb90c6b0315386ca96d7eddc26",
+            "translation_revision": "sha256:2f5940c16cab7c86f0c97b17284caecb0c844aa6ce6957826cec2b915d861343",
+            "alignment_revision": "sha256:5145358a01e6c7d585d9e5a6c0006530c2df8754d25347ddf218d099f4ce8ac0"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg013/tlg0018.tlg013.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0으로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "언어의 혼란에 관하여",
+        "reference": "3",
+        "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
+        "release": "public-0.35",
+        "translation_revision": "sha256:2f5940c16cab7c86f0c97b17284caecb0c844aa6ce6957826cec2b915d861343",
+        "fixed_path": "releases/public-0.35/works/conf/index.html#p-3"
+      }
+    },
+    {
+      "ref": "4",
+      "section": 4,
+      "original": "εἷς μὲν οὖν ἐστιν ὁ ἐοικὼς τῷ συντεθέντι ἐπὶ τῶν Ἀλωειδῶν, οὓς ὁ μέγιστος καὶ δοκιμώτατος τῶν ποιητῶν Ὅμηρος διανοηθῆναί φησι τρία τὰ περιμήκιστα τῶν ὀρῶν ἐπιφορῆσαι καὶ ἐπιχῶσαι ἐλπίσαντας τὴν εἰς οὐρανὸν ὁδὸν τοῖς ἀνέρχεσθαι βουλομένοις εὐμαρῆ διὰ τούτων ἔσεσθαι πρὸς αἰθέριον ὕψος ἀρθέντων· ἔστι δὲ τὰ περὶ τούτων ἔπη τοιαῦτα· Ὄσσαν ἐπ’ Οὐλύμπῳ μέμασαν θέμεν, αὐτὰρ ἐπ’ Ὄσσῃ Πήλιον εἰνοσίφυλλον, ἵν’ οὐρανὸς ἀμβατὸς εἴη, Ὄλυμπος δὲ καὶ Ὄσσα καὶ Πήλιον ὀρῶν ὀνόματα.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:972a4a702e52f9e8d940fec647e655f0dcef7d970f25e5b9eff5de08d7997df1",
+      "source_file_sha256": "6bbfe84cda489b9bc387a6a85f4dec931c5d143e65b8259843adb881dacc0f61",
+      "source_locator": {
+        "filename": "tlg0018.tlg013.1st1K-grc1.xml",
+        "reference": "4"
+      },
+      "korean": "그중 하나는 알로에우스의 아들들에 관해 지어낸 이야기와 비슷하다. 가장 위대하고 명망 높은 시인 호메로스는 그들이 가장 높은 세 산을 차례로 쌓아 올리려 했다고 말한다. 산들이 에테르의 높이까지 올라가면, 하늘로 오르려는 이들에게 쉬운 길이 되리라고 기대한 것이다. 그들에 관한 시구는 이렇다. ‘그들은 올림포스 위에 오사를 놓고, 오사 위에는 나뭇잎 흔들리는 펠리온을 놓으려 했다. 하늘에 올라갈 수 있도록.’ 올림포스와 오사와 펠리온은 산 이름들이다.",
+      "translation_revision": "sha256:2438b80cfdc4bc73f8354e61273ba0f7a6c1982922c15c95537bc2f12f02e7f7",
+      "groups": [
+        {
+          "id": "a-68d8e8114269d427a37c",
+          "source_range": [
+            0,
+            58
+          ],
+          "ko_range": [
+            0,
+            36
+          ],
+          "source_text": "εἷς μὲν οὖν ἐστιν ὁ ἐοικὼς τῷ συντεθέντι ἐπὶ τῶν Ἀλωειδῶν,",
+          "ko_text": "그중 하나는 알로에우스의 아들들에 관해 지어낸 이야기와 비슷하다."
+        },
+        {
+          "id": "a-e512d2d031783fbd476d",
+          "source_range": [
+            59,
+            178
+          ],
+          "ko_range": [
+            37,
+            94
+          ],
+          "source_text": "οὓς ὁ μέγιστος καὶ δοκιμώτατος τῶν ποιητῶν Ὅμηρος διανοηθῆναί φησι τρία τὰ περιμήκιστα τῶν ὀρῶν ἐπιφορῆσαι καὶ ἐπιχῶσαι",
+          "ko_text": "가장 위대하고 명망 높은 시인 호메로스는 그들이 가장 높은 세 산을 차례로 쌓아 올리려 했다고 말한다."
+        },
+        {
+          "id": "a-2e2a8b911d590bd44633",
+          "source_range": [
+            179,
+            293
+          ],
+          "ko_range": [
+            95,
+            148
+          ],
+          "source_text": "ἐλπίσαντας τὴν εἰς οὐρανὸν ὁδὸν τοῖς ἀνέρχεσθαι βουλομένοις εὐμαρῆ διὰ τούτων ἔσεσθαι πρὸς αἰθέριον ὕψος ἀρθέντων·",
+          "ko_text": "산들이 에테르의 높이까지 올라가면, 하늘로 오르려는 이들에게 쉬운 길이 되리라고 기대한 것이다."
+        },
+        {
+          "id": "a-2b389fe735534ec0165a",
+          "source_range": [
+            294,
+            329
+          ],
+          "ko_range": [
+            149,
+            164
+          ],
+          "source_text": "ἔστι δὲ τὰ περὶ τούτων ἔπη τοιαῦτα·",
+          "ko_text": "그들에 관한 시구는 이렇다."
+        },
+        {
+          "id": "a-514be9da7107a5290e44",
+          "source_range": [
+            330,
+            377
+          ],
+          "ko_range": [
+            165,
+            192
+          ],
+          "source_text": "Ὄσσαν ἐπ’ Οὐλύμπῳ μέμασαν θέμεν, αὐτὰρ ἐπ’ Ὄσσῃ",
+          "ko_text": "‘그들은 올림포스 위에 오사를 놓고, 오사 위에는"
+        },
+        {
+          "id": "a-b357775c654f70f175cd",
+          "source_range": [
+            378,
+            423
+          ],
+          "ko_range": [
+            193,
+            230
+          ],
+          "source_text": "Πήλιον εἰνοσίφυλλον, ἵν’ οὐρανὸς ἀμβατὸς εἴη,",
+          "ko_text": "나뭇잎 흔들리는 펠리온을 놓으려 했다. 하늘에 올라갈 수 있도록.’"
+        },
+        {
+          "id": "a-615743bd1f6912bb33ab",
+          "source_range": [
+            424,
+            468
+          ],
+          "ko_range": [
+            231,
+            254
+          ],
+          "source_text": "Ὄλυμπος δὲ καὶ Ὄσσα καὶ Πήλιον ὀρῶν ὀνόματα.",
+          "ko_text": "올림포스와 오사와 펠리온은 산 이름들이다."
+        }
+      ],
+      "notes": [
+        "산을 쌓아 하늘에 오르려는 알로에우스의 아들들 이야기를 인용한다. Wendland 1897판 230쪽은 시구의 위치를 오디세이 11.315-316으로 표시한다."
+      ],
+      "work_passage_id": "conf:4",
+      "html_path": "works/conf/index.html#p-4",
+      "fixed_html_path": "releases/public-0.35/works/conf/index.html#p-4",
+      "alignment_revision": "sha256:7169e2504072161e13dfa2e8874090d553b3335f59354c667671af33eace11c9",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:972a4a702e52f9e8d940fec647e655f0dcef7d970f25e5b9eff5de08d7997df1",
+          "translation_revision": "sha256:2438b80cfdc4bc73f8354e61273ba0f7a6c1982922c15c95537bc2f12f02e7f7",
+          "alignment_revision": "sha256:7169e2504072161e13dfa2e8874090d553b3335f59354c667671af33eace11c9"
+        },
+        "scoped_ai_review": {
+          "id": "conf-addition-20261003",
+          "scope": "언어의 혼란에 관하여 1-20절 전체, 21-198절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:972a4a702e52f9e8d940fec647e655f0dcef7d970f25e5b9eff5de08d7997df1",
+            "translation_revision": "sha256:2438b80cfdc4bc73f8354e61273ba0f7a6c1982922c15c95537bc2f12f02e7f7",
+            "alignment_revision": "sha256:7169e2504072161e13dfa2e8874090d553b3335f59354c667671af33eace11c9"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg013/tlg0018.tlg013.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0으로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "언어의 혼란에 관하여",
+        "reference": "4",
+        "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
+        "release": "public-0.35",
+        "translation_revision": "sha256:2438b80cfdc4bc73f8354e61273ba0f7a6c1982922c15c95537bc2f12f02e7f7",
+        "fixed_path": "releases/public-0.35/works/conf/index.html#p-4"
+      }
+    },
+    {
+      "ref": "5",
+      "section": 5,
+      "original": "πύργον δὲ ὁ νομοθέτης ἀντὶ τούτων εἰσάγει πρὸς τῶν τότε ἀνθρώπων κατασκευαζόμενον θελησάντων ὑπ’ ἀνοίας ἅμα καὶ μεγαλαυχίας οὐρανοῦ ψαῦσαι. πῶς γὰρ οὐ φρενοβλάβεια δεινή; καὶ γὰρ εἰ τὰ τῆς συμπάσης μέρη γῆς ἐποικοδομηθείη προκαταβληθέντι βραχεῖ θεμελίῳ καὶ ἀνεγερθείη τρόπον κίονος ἑνός, μυρίοις τῆς αἰθερίου σφαίρας ἀπολειφθήσεται διαστήμασι, καὶ μάλιστα κατὰ τοὺς ζητητικοὺς τῶν φιλοσόφων, οἳ τοῦ παντὸς κέντρον εἶναι τὴν γῆν ἀνωμολόγησαν. ἕτερος δέ τις συγγενὴς τούτῳ περὶ τῆς τῶν ζῴων ὁμοφωνίας πρὸς μυθοπλαστῶν ἀναγράφεται·",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:13f0a5c4182594f5189ae77fcd0b34ac191bbab91f5b3069f1527c8724707db0",
+      "source_file_sha256": "6bbfe84cda489b9bc387a6a85f4dec931c5d143e65b8259843adb881dacc0f61",
+      "source_locator": {
+        "filename": "tlg0018.tlg013.1st1K-grc1.xml",
+        "reference": "5"
+      },
+      "encoded_page_breaks": [
+        "v.2.p.231"
+      ],
+      "korean": "입법자는 이 산들 대신, 어리석음과 허풍에 사로잡혀 하늘에 닿으려던 당시 사람들이 세우는 탑을 제시한다. 이것이 어찌 심각한 정신착란이 아니겠는가? 온 땅의 부분들을 미리 놓은 작은 기초 위에 쌓아 하나의 기둥처럼 세우더라도, 에테르의 구체에는 한없이 못 미칠 것이다. 땅을 우주의 중심으로 인정한, 탐구에 힘쓰는 철학자들의 견해에 따르면 더욱 그러하다. 신화를 만드는 사람들은 이와 비슷한 다른 이야기도 기록한다. 동물들이 같은 말을 했다는 이야기이다.",
+      "translation_revision": "sha256:d2d2f6c1f79fb9264d05cf4c6f99d696ad855766127f0fb821eba7ad2bb5a027",
+      "groups": [
+        {
+          "id": "a-1a5ce92c52dae4b258ce",
+          "source_range": [
+            0,
+            139
+          ],
+          "ko_range": [
+            0,
+            58
+          ],
+          "source_text": "πύργον δὲ ὁ νομοθέτης ἀντὶ τούτων εἰσάγει πρὸς τῶν τότε ἀνθρώπων κατασκευαζόμενον θελησάντων ὑπ’ ἀνοίας ἅμα καὶ μεγαλαυχίας οὐρανοῦ ψαῦσαι.",
+          "ko_text": "입법자는 이 산들 대신, 어리석음과 허풍에 사로잡혀 하늘에 닿으려던 당시 사람들이 세우는 탑을 제시한다."
+        },
+        {
+          "id": "a-645c37a6aa7277504673",
+          "source_range": [
+            140,
+            170
+          ],
+          "ko_range": [
+            59,
+            82
+          ],
+          "source_text": "πῶς γὰρ οὐ φρενοβλάβεια δεινή;",
+          "ko_text": "이것이 어찌 심각한 정신착란이 아니겠는가?"
+        },
+        {
+          "id": "a-6e69b7fa2762a9fcdeaa",
+          "source_range": [
+            171,
+            287
+          ],
+          "ko_range": [
+            83,
+            126
+          ],
+          "source_text": "καὶ γὰρ εἰ τὰ τῆς συμπάσης μέρη γῆς ἐποικοδομηθείη προκαταβληθέντι βραχεῖ θεμελίῳ καὶ ἀνεγερθείη τρόπον κίονος ἑνός,",
+          "ko_text": "온 땅의 부분들을 미리 놓은 작은 기초 위에 쌓아 하나의 기둥처럼 세우더라도,"
+        },
+        {
+          "id": "a-340e598e944a8f02dba2",
+          "source_range": [
+            288,
+            343
+          ],
+          "ko_range": [
+            127,
+            150
+          ],
+          "source_text": "μυρίοις τῆς αἰθερίου σφαίρας ἀπολειφθήσεται διαστήμασι,",
+          "ko_text": "에테르의 구체에는 한없이 못 미칠 것이다."
+        },
+        {
+          "id": "a-cc6b447db22d7ed41225",
+          "source_range": [
+            344,
+            441
+          ],
+          "ko_range": [
+            151,
+            198
+          ],
+          "source_text": "καὶ μάλιστα κατὰ τοὺς ζητητικοὺς τῶν φιλοσόφων, οἳ τοῦ παντὸς κέντρον εἶναι τὴν γῆν ἀνωμολόγησαν.",
+          "ko_text": "땅을 우주의 중심으로 인정한, 탐구에 힘쓰는 철학자들의 견해에 따르면 더욱 그러하다."
+        },
+        {
+          "id": "a-ce6e89228cdeb9b3ed6f",
+          "source_range": [
+            442,
+            528
+          ],
+          "ko_range": [
+            199,
+            254
+          ],
+          "source_text": "ἕτερος δέ τις συγγενὴς τούτῳ περὶ τῆς τῶν ζῴων ὁμοφωνίας πρὸς μυθοπλαστῶν ἀναγράφεται·",
+          "ko_text": "신화를 만드는 사람들은 이와 비슷한 다른 이야기도 기록한다. 동물들이 같은 말을 했다는 이야기이다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "conf:5",
+      "html_path": "works/conf/index.html#p-5",
+      "fixed_html_path": "releases/public-0.35/works/conf/index.html#p-5",
+      "alignment_revision": "sha256:49332c4f51adec57df69df3e0eb01929c8b723fa5b6dd3a9277872dfbaa5ca5d",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:13f0a5c4182594f5189ae77fcd0b34ac191bbab91f5b3069f1527c8724707db0",
+          "translation_revision": "sha256:d2d2f6c1f79fb9264d05cf4c6f99d696ad855766127f0fb821eba7ad2bb5a027",
+          "alignment_revision": "sha256:49332c4f51adec57df69df3e0eb01929c8b723fa5b6dd3a9277872dfbaa5ca5d"
+        },
+        "scoped_ai_review": {
+          "id": "conf-addition-20261003",
+          "scope": "언어의 혼란에 관하여 1-20절 전체, 21-198절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:13f0a5c4182594f5189ae77fcd0b34ac191bbab91f5b3069f1527c8724707db0",
+            "translation_revision": "sha256:d2d2f6c1f79fb9264d05cf4c6f99d696ad855766127f0fb821eba7ad2bb5a027",
+            "alignment_revision": "sha256:49332c4f51adec57df69df3e0eb01929c8b723fa5b6dd3a9277872dfbaa5ca5d"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg013/tlg0018.tlg013.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0으로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "언어의 혼란에 관하여",
+        "reference": "5",
+        "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
+        "release": "public-0.35",
+        "translation_revision": "sha256:d2d2f6c1f79fb9264d05cf4c6f99d696ad855766127f0fb821eba7ad2bb5a027",
+        "fixed_path": "releases/public-0.35/works/conf/index.html#p-5"
+      }
+    },
+    {
+      "ref": "6",
+      "section": 6,
+      "original": "λέγεται γάρ, ὡς ἄρα πάνθ’ ὅσα ζῷα χερσαῖα καὶ ἔνυδρα καὶ πτηνὰ τὸ παλαιὸν ὁμόφωνα ἦν, καὶ ὅνπερ τρόπον ἀνθρώπων Ἕλληνες μὲν Ἕλλησι, βαρβάροις δὲ βάρβαροι νῦν οἱ ὁμόγλωττοι διαλέγονται, τοῦτον τὸν τρόπον καὶ πάντα πᾶσι περὶ ὧν ἢ δρᾶν ἢ πάσχειν τι συνέβαινεν ὡμίλει, ὡς καὶ ἐπὶ ταῖς κακοπραγίαις συνάχθεσθαι κἄν, εἴ πού τι λυσιτελὲς ἀπαντῴη, συνευφραίνεσθαι.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:e4720ff91abf94269873c4314e652791a47f63263bc936a02c04cc1cf463eecc",
+      "source_file_sha256": "6bbfe84cda489b9bc387a6a85f4dec931c5d143e65b8259843adb881dacc0f61",
+      "source_locator": {
+        "filename": "tlg0018.tlg013.1st1K-grc1.xml",
+        "reference": "6"
+      },
+      "korean": "옛날에는 육지와 물속과 하늘의 모든 동물이 같은 말을 했다고 한다. 지금 사람들 가운데 같은 언어를 쓰는 그리스인들이 그리스인들에게, 이방인들이 이방인들에게 말하듯이, 모든 동물이 서로에게 자기가 행하거나 겪는 일을 이야기했다는 것이다. 그래서 불행한 일에는 같이 슬퍼하고, 어디서든 유익한 일이 생기면 같이 즐거워했다.",
+      "translation_revision": "sha256:e238ba25f6aa015cfc55cd31ec146f226b6de3fb0e0e2ec7ccd956b8a26067b3",
+      "groups": [
+        {
+          "id": "a-fd9f602bb46e558a3e8d",
+          "source_range": [
+            0,
+            85
+          ],
+          "ko_range": [
+            0,
+            37
+          ],
+          "source_text": "λέγεται γάρ, ὡς ἄρα πάνθ’ ὅσα ζῷα χερσαῖα καὶ ἔνυδρα καὶ πτηνὰ τὸ παλαιὸν ὁμόφωνα ἦν,",
+          "ko_text": "옛날에는 육지와 물속과 하늘의 모든 동물이 같은 말을 했다고 한다."
+        },
+        {
+          "id": "a-f7db1b3200f8c8b73215",
+          "source_range": [
+            86,
+            184
+          ],
+          "ko_range": [
+            38,
+            93
+          ],
+          "source_text": "καὶ ὅνπερ τρόπον ἀνθρώπων Ἕλληνες μὲν Ἕλλησι, βαρβάροις δὲ βάρβαροι νῦν οἱ ὁμόγλωττοι διαλέγονται,",
+          "ko_text": "지금 사람들 가운데 같은 언어를 쓰는 그리스인들이 그리스인들에게, 이방인들이 이방인들에게 말하듯이,"
+        },
+        {
+          "id": "a-524818c67e6a468724a4",
+          "source_range": [
+            185,
+            264
+          ],
+          "ko_range": [
+            94,
+            132
+          ],
+          "source_text": "τοῦτον τὸν τρόπον καὶ πάντα πᾶσι περὶ ὧν ἢ δρᾶν ἢ πάσχειν τι συνέβαινεν ὡμίλει,",
+          "ko_text": "모든 동물이 서로에게 자기가 행하거나 겪는 일을 이야기했다는 것이다."
+        },
+        {
+          "id": "a-eed91ad365bdcffb7f52",
+          "source_range": [
+            265,
+            356
+          ],
+          "ko_range": [
+            133,
+            179
+          ],
+          "source_text": "ὡς καὶ ἐπὶ ταῖς κακοπραγίαις συνάχθεσθαι κἄν, εἴ πού τι λυσιτελὲς ἀπαντῴη, συνευφραίνεσθαι.",
+          "ko_text": "그래서 불행한 일에는 같이 슬퍼하고, 어디서든 유익한 일이 생기면 같이 즐거워했다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "conf:6",
+      "html_path": "works/conf/index.html#p-6",
+      "fixed_html_path": "releases/public-0.35/works/conf/index.html#p-6",
+      "alignment_revision": "sha256:4c4b4193a7d18abf73f7c9d632e4d77f41617d36c9747737c08c191150e219f2",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:e4720ff91abf94269873c4314e652791a47f63263bc936a02c04cc1cf463eecc",
+          "translation_revision": "sha256:e238ba25f6aa015cfc55cd31ec146f226b6de3fb0e0e2ec7ccd956b8a26067b3",
+          "alignment_revision": "sha256:4c4b4193a7d18abf73f7c9d632e4d77f41617d36c9747737c08c191150e219f2"
+        },
+        "scoped_ai_review": {
+          "id": "conf-addition-20261003",
+          "scope": "언어의 혼란에 관하여 1-20절 전체, 21-198절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:e4720ff91abf94269873c4314e652791a47f63263bc936a02c04cc1cf463eecc",
+            "translation_revision": "sha256:e238ba25f6aa015cfc55cd31ec146f226b6de3fb0e0e2ec7ccd956b8a26067b3",
+            "alignment_revision": "sha256:4c4b4193a7d18abf73f7c9d632e4d77f41617d36c9747737c08c191150e219f2"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg013/tlg0018.tlg013.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0으로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "언어의 혼란에 관하여",
+        "reference": "6",
+        "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
+        "release": "public-0.35",
+        "translation_revision": "sha256:e238ba25f6aa015cfc55cd31ec146f226b6de3fb0e0e2ec7ccd956b8a26067b3",
+        "fixed_path": "releases/public-0.35/works/conf/index.html#p-6"
+      }
+    },
+    {
+      "ref": "7",
+      "section": 7,
+      "original": "τάς τε γὰρ ἡδονὰς καὶ ἀηδίας ἀλλήλοις ἀναφέροντα διὰ τοῦ ὁμοφώνου συνήδετο καὶ συναηδίζετο, κἀκ τούτου τὸ ὁμοιότροπον καὶ ὁμοιοπαθὲς εὑρίσκετο, μέχριπερ κορεσθέντα τῆς τῶν παρόντων ἀγαθῶν ἀφθονίας, ὃ πολλάκις γίνεσθαι φιλεῖ, πρὸς τὸν τῶν ἀνεφίκτων ἔρωτα ἐξώκειλε καὶ περὶ ἀθανασίας ἐπρεσβεύετο γήρως ἔκλυσιν καὶ τὴν εἰς αἰεὶ νεότητος ἀκμὴν αἰτούμενα, φάσκοντα καὶ τῶν παρ’ αὐτοῖς ἓν ἤδη ζῴων τὸ ἑρπετόν, ὄφιν, τετυχηκέναι ταύτης τῆς δωρεᾶς· ἀποδυόμενον γὰρ τὸ γῆρας πάλιν ἐξ ὑπαρχῆς ἀνηβᾶν· ἄτοπον δ’ εἶναι ἢ τὰ κρείττω τοῦ χείρονος ἢ ἑνὸς τὰ πάντα λειφθῆναι.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:3bba06b679b0086b4ae1d8971df6c26967c79c48e26fbaf408924096afb3dc9e",
+      "source_file_sha256": "6bbfe84cda489b9bc387a6a85f4dec931c5d143e65b8259843adb881dacc0f61",
+      "source_locator": {
+        "filename": "tlg0018.tlg013.1st1K-grc1.xml",
+        "reference": "7"
+      },
+      "korean": "같은 언어로 서로의 즐거움과 괴로움을 전하며 같이 기뻐하고 괴로워했다. 거기에서 같은 성품과 감정을 나누는 일이 생겨났다. 그러나 흔히 그러하듯, 지금 누리는 좋은 것들의 풍요에 싫증이 나자, 이루지 못할 것을 사랑하게 되어 불멸을 청하는 사절을 보냈다. 노화를 없애고 젊음의 절정을 영원히 지속하게 해 달라고 요구했다. 자기들 가운데 한 동물인 기어 다니는 뱀은 이미 이 선물을 받았다고 말했다. 뱀은 늙은 껍질을 벗고 처음처럼 다시 젊어진다는 것이다. 더 나은 것들이 더 못한 것보다 뒤처지고, 모든 것이 하나보다 뒤처지는 것은 부당하다고 말했다.",
+      "translation_revision": "sha256:5a81546c2d1b5f2179bdff1e0c55b0109a5bb7284be340548363d8c3b6094027",
+      "groups": [
+        {
+          "id": "a-c39cb85100f4f5da4f1b",
+          "source_range": [
+            0,
+            91
+          ],
+          "ko_range": [
+            0,
+            39
+          ],
+          "source_text": "τάς τε γὰρ ἡδονὰς καὶ ἀηδίας ἀλλήλοις ἀναφέροντα διὰ τοῦ ὁμοφώνου συνήδετο καὶ συναηδίζετο,",
+          "ko_text": "같은 언어로 서로의 즐거움과 괴로움을 전하며 같이 기뻐하고 괴로워했다."
+        },
+        {
+          "id": "a-b3c982ef30f278383bc0",
+          "source_range": [
+            92,
+            143
+          ],
+          "ko_range": [
+            40,
+            68
+          ],
+          "source_text": "κἀκ τούτου τὸ ὁμοιότροπον καὶ ὁμοιοπαθὲς εὑρίσκετο,",
+          "ko_text": "거기에서 같은 성품과 감정을 나누는 일이 생겨났다."
+        },
+        {
+          "id": "a-8eee237ea6d178a882fc",
+          "source_range": [
+            144,
+            224
+          ],
+          "ko_range": [
+            69,
+            107
+          ],
+          "source_text": "μέχριπερ κορεσθέντα τῆς τῶν παρόντων ἀγαθῶν ἀφθονίας, ὃ πολλάκις γίνεσθαι φιλεῖ,",
+          "ko_text": "그러나 흔히 그러하듯, 지금 누리는 좋은 것들의 풍요에 싫증이 나자,"
+        },
+        {
+          "id": "a-21dac89bb91e6351ee3d",
+          "source_range": [
+            225,
+            350
+          ],
+          "ko_range": [
+            108,
+            179
+          ],
+          "source_text": "πρὸς τὸν τῶν ἀνεφίκτων ἔρωτα ἐξώκειλε καὶ περὶ ἀθανασίας ἐπρεσβεύετο γήρως ἔκλυσιν καὶ τὴν εἰς αἰεὶ νεότητος ἀκμὴν αἰτούμενα,",
+          "ko_text": "이루지 못할 것을 사랑하게 되어 불멸을 청하는 사절을 보냈다. 노화를 없애고 젊음의 절정을 영원히 지속하게 해 달라고 요구했다."
+        },
+        {
+          "id": "a-a85ff6e08045977f3e11",
+          "source_range": [
+            351,
+            440
+          ],
+          "ko_range": [
+            180,
+            222
+          ],
+          "source_text": "φάσκοντα καὶ τῶν παρ’ αὐτοῖς ἓν ἤδη ζῴων τὸ ἑρπετόν, ὄφιν, τετυχηκέναι ταύτης τῆς δωρεᾶς·",
+          "ko_text": "자기들 가운데 한 동물인 기어 다니는 뱀은 이미 이 선물을 받았다고 말했다."
+        },
+        {
+          "id": "a-305c53fe66e7e475782d",
+          "source_range": [
+            441,
+            490
+          ],
+          "ko_range": [
+            223,
+            254
+          ],
+          "source_text": "ἀποδυόμενον γὰρ τὸ γῆρας πάλιν ἐξ ὑπαρχῆς ἀνηβᾶν·",
+          "ko_text": "뱀은 늙은 껍질을 벗고 처음처럼 다시 젊어진다는 것이다."
+        },
+        {
+          "id": "a-3b1cf7ea6e54f2ceb849",
+          "source_range": [
+            491,
+            559
+          ],
+          "ko_range": [
+            255,
+            308
+          ],
+          "source_text": "ἄτοπον δ’ εἶναι ἢ τὰ κρείττω τοῦ χείρονος ἢ ἑνὸς τὰ πάντα λειφθῆναι.",
+          "ko_text": "더 나은 것들이 더 못한 것보다 뒤처지고, 모든 것이 하나보다 뒤처지는 것은 부당하다고 말했다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "conf:7",
+      "html_path": "works/conf/index.html#p-7",
+      "fixed_html_path": "releases/public-0.35/works/conf/index.html#p-7",
+      "alignment_revision": "sha256:5d535a84f695d99ebb3e045a0a24ffecc4e24572a15aa97866e72b8fd19c35cc",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:3bba06b679b0086b4ae1d8971df6c26967c79c48e26fbaf408924096afb3dc9e",
+          "translation_revision": "sha256:5a81546c2d1b5f2179bdff1e0c55b0109a5bb7284be340548363d8c3b6094027",
+          "alignment_revision": "sha256:5d535a84f695d99ebb3e045a0a24ffecc4e24572a15aa97866e72b8fd19c35cc"
+        },
+        "scoped_ai_review": {
+          "id": "conf-addition-20261003",
+          "scope": "언어의 혼란에 관하여 1-20절 전체, 21-198절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:3bba06b679b0086b4ae1d8971df6c26967c79c48e26fbaf408924096afb3dc9e",
+            "translation_revision": "sha256:5a81546c2d1b5f2179bdff1e0c55b0109a5bb7284be340548363d8c3b6094027",
+            "alignment_revision": "sha256:5d535a84f695d99ebb3e045a0a24ffecc4e24572a15aa97866e72b8fd19c35cc"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg013/tlg0018.tlg013.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0으로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "언어의 혼란에 관하여",
+        "reference": "7",
+        "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
+        "release": "public-0.35",
+        "translation_revision": "sha256:5a81546c2d1b5f2179bdff1e0c55b0109a5bb7284be340548363d8c3b6094027",
+        "fixed_path": "releases/public-0.35/works/conf/index.html#p-7"
+      }
+    },
+    {
+      "ref": "8",
+      "section": 8,
+      "original": "δίκην μέντοι τοῦ τολμήματος ἔδωκε τὴν προσήκουσαν· ἑτερόγλωττα γὰρ εὐθὺς ἐγένετο, ὡς ἐξ ἐκείνου μηκέτ’ ἀλλήλων ἐπακοῦσαι δυνηθῆναι χάριν τῆς ἐν ταῖς διαλέκτοις, εἰς ἃς ἡ μία καὶ κοινὴ πάντων ἐτμήθη, διαφορᾶς.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:c821c6dbd343f8abbd6172c93df9cbdd4223a5da8c4ef2228b70326cd46741a9",
+      "source_file_sha256": "6bbfe84cda489b9bc387a6a85f4dec931c5d143e65b8259843adb881dacc0f61",
+      "source_locator": {
+        "filename": "tlg0018.tlg013.1st1K-grc1.xml",
+        "reference": "8"
+      },
+      "korean": "그러나 그들은 그 대담한 행동에 합당한 벌을 받았다. 곧 서로 다른 언어를 쓰게 된 것이다. 그때부터는 모두에게 공통되던 하나의 언어가 여러 언어로 나뉘어, 서로의 말을 더는 알아들을 수 없게 되었다.",
+      "translation_revision": "sha256:44ea85a2998d527c5a839bf0c1a393e3885baaec8b578881acf0df3adce58ed3",
+      "groups": [
+        {
+          "id": "a-6ab56e75b1f721002a29",
+          "source_range": [
+            0,
+            50
+          ],
+          "ko_range": [
+            0,
+            29
+          ],
+          "source_text": "δίκην μέντοι τοῦ τολμήματος ἔδωκε τὴν προσήκουσαν·",
+          "ko_text": "그러나 그들은 그 대담한 행동에 합당한 벌을 받았다."
+        },
+        {
+          "id": "a-1df3d1140810370f05a1",
+          "source_range": [
+            51,
+            81
+          ],
+          "ko_range": [
+            30,
+            51
+          ],
+          "source_text": "ἑτερόγλωττα γὰρ εὐθὺς ἐγένετο,",
+          "ko_text": "곧 서로 다른 언어를 쓰게 된 것이다."
+        },
+        {
+          "id": "a-e2a6eb33709c6f53dca8",
+          "source_range": [
+            82,
+            208
+          ],
+          "ko_range": [
+            52,
+            112
+          ],
+          "source_text": "ὡς ἐξ ἐκείνου μηκέτ’ ἀλλήλων ἐπακοῦσαι δυνηθῆναι χάριν τῆς ἐν ταῖς διαλέκτοις, εἰς ἃς ἡ μία καὶ κοινὴ πάντων ἐτμήθη, διαφορᾶς.",
+          "ko_text": "그때부터는 모두에게 공통되던 하나의 언어가 여러 언어로 나뉘어, 서로의 말을 더는 알아들을 수 없게 되었다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "conf:8",
+      "html_path": "works/conf/index.html#p-8",
+      "fixed_html_path": "releases/public-0.35/works/conf/index.html#p-8",
+      "alignment_revision": "sha256:8de8261015322f593e0851dbb76685e97c62b927bf5f5893a437ca3a517a0454",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:c821c6dbd343f8abbd6172c93df9cbdd4223a5da8c4ef2228b70326cd46741a9",
+          "translation_revision": "sha256:44ea85a2998d527c5a839bf0c1a393e3885baaec8b578881acf0df3adce58ed3",
+          "alignment_revision": "sha256:8de8261015322f593e0851dbb76685e97c62b927bf5f5893a437ca3a517a0454"
+        },
+        "scoped_ai_review": {
+          "id": "conf-addition-20261003",
+          "scope": "언어의 혼란에 관하여 1-20절 전체, 21-198절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:c821c6dbd343f8abbd6172c93df9cbdd4223a5da8c4ef2228b70326cd46741a9",
+            "translation_revision": "sha256:44ea85a2998d527c5a839bf0c1a393e3885baaec8b578881acf0df3adce58ed3",
+            "alignment_revision": "sha256:8de8261015322f593e0851dbb76685e97c62b927bf5f5893a437ca3a517a0454"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg013/tlg0018.tlg013.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0으로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "언어의 혼란에 관하여",
+        "reference": "8",
+        "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
+        "release": "public-0.35",
+        "translation_revision": "sha256:44ea85a2998d527c5a839bf0c1a393e3885baaec8b578881acf0df3adce58ed3",
+        "fixed_path": "releases/public-0.35/works/conf/index.html#p-8"
+      }
+    },
+    {
+      "ref": "9",
+      "section": 9,
+      "original": "ὁ δ’ ἐγγυτέρω τἀληθοῦς προσάγων τὸν λόγον τὰ ἄλογα τῶν λογικῶν διέζευξεν, ὡς ἀνθρώποις μόνοις μαρτυρῆσαι τὸ ὁμόφωνον. ἔστι δέ, ὥς γέ φασι, καὶ τοῦτο μυθῶδες. καὶ μὴν τήν γε φωνῆς εἰς μυρίας διαλέκτων ἰδέας τομήν, ἣν καλεῖ γλώττης σύγχυσιν, ἐπὶ θεραπείᾳ λέγουσιν ἁμαρτημάτων συμβῆναι, ὡς μηκέτ’ ἀλλήλων ἀκροώμενοι κοινῇ συναδικῶσιν, ἀλλὰ τρόπον τινὰ [ἄλλοι] ἀλλήλοις κεκωφωμένοι * * * κατὰ συμπράξεις ἐγχειρῶσι τοῖς αὐτοῖς.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:2254f528597177904543366c090f76dd22f6abd2ebd8220a259b8fd835ef174a",
+      "source_file_sha256": "6bbfe84cda489b9bc387a6a85f4dec931c5d143e65b8259843adb881dacc0f61",
+      "source_locator": {
+        "filename": "tlg0018.tlg013.1st1K-grc1.xml",
+        "reference": "9"
+      },
+      "korean": "이야기를 진실에 더 가깝게 이끈 사람은 비이성적 동물과 이성적 동물을 나누어, 같은 언어를 쓰는 일은 사람에게만 있었다고 증언한다. 그러나 그들이 말하듯, 이것도 신화적이다. 그들은 한 목소리가 무수히 다양한 언어로 나뉜 일, 그가 혀의 혼란이라고 부른 일이 잘못을 고치기 위해 일어났다고 말한다. 서로의 말을 알아듣고 함께 악을 행하는 일이 다시는 없게 하려는 것이다. 오히려 ⟦다른 이들이⟧ 서로에게 귀가 막힌 듯하여 ⟦원문 결락⟧ 공모하여 같은 일들을 시도하는...",
+      "translation_revision": "sha256:0c21905cf47271dbb5737f72a5989fc6db658e50b12b82c93b69c6a6cae9acca",
+      "groups": [
+        {
+          "id": "a-5737d88b442bc8f8723d",
+          "source_range": [
+            0,
+            73
+          ],
+          "ko_range": [
+            0,
+            43
+          ],
+          "source_text": "ὁ δ’ ἐγγυτέρω τἀληθοῦς προσάγων τὸν λόγον τὰ ἄλογα τῶν λογικῶν διέζευξεν,",
+          "ko_text": "이야기를 진실에 더 가깝게 이끈 사람은 비이성적 동물과 이성적 동물을 나누어,"
+        },
+        {
+          "id": "a-27752fe0221f398791a7",
+          "source_range": [
+            74,
+            117
+          ],
+          "ko_range": [
+            44,
+            73
+          ],
+          "source_text": "ὡς ἀνθρώποις μόνοις μαρτυρῆσαι τὸ ὁμόφωνον.",
+          "ko_text": "같은 언어를 쓰는 일은 사람에게만 있었다고 증언한다."
+        },
+        {
+          "id": "a-326fc40a556254fc64dc",
+          "source_range": [
+            118,
+            157
+          ],
+          "ko_range": [
+            74,
+            97
+          ],
+          "source_text": "ἔστι δέ, ὥς γέ φασι, καὶ τοῦτο μυθῶδες.",
+          "ko_text": "그러나 그들이 말하듯, 이것도 신화적이다."
+        },
+        {
+          "id": "a-9809cc3aaa25752541bb",
+          "source_range": [
+            158,
+            283
+          ],
+          "ko_range": [
+            98,
+            166
+          ],
+          "source_text": "καὶ μὴν τήν γε φωνῆς εἰς μυρίας διαλέκτων ἰδέας τομήν, ἣν καλεῖ γλώττης σύγχυσιν, ἐπὶ θεραπείᾳ λέγουσιν ἁμαρτημάτων συμβῆναι,",
+          "ko_text": "그들은 한 목소리가 무수히 다양한 언어로 나뉜 일, 그가 혀의 혼란이라고 부른 일이 잘못을 고치기 위해 일어났다고 말한다."
+        },
+        {
+          "id": "a-e63ff579313361598f29",
+          "source_range": [
+            284,
+            331
+          ],
+          "ko_range": [
+            167,
+            207
+          ],
+          "source_text": "ὡς μηκέτ’ ἀλλήλων ἀκροώμενοι κοινῇ συναδικῶσιν,",
+          "ko_text": "서로의 말을 알아듣고 함께 악을 행하는 일이 다시는 없게 하려는 것이다."
+        },
+        {
+          "id": "a-e3c71d4e09a953cf0136",
+          "source_range": [
+            332,
+            422
+          ],
+          "ko_range": [
+            208,
+            263
+          ],
+          "source_text": "ἀλλὰ τρόπον τινὰ [ἄλλοι] ἀλλήλοις κεκωφωμένοι * * * κατὰ συμπράξεις ἐγχειρῶσι τοῖς αὐτοῖς.",
+          "ko_text": "오히려 ⟦다른 이들이⟧ 서로에게 귀가 막힌 듯하여 ⟦원문 결락⟧ 공모하여 같은 일들을 시도하는..."
+        }
+      ],
+      "notes": [
+        "Wendland 1897판 231쪽은 ἄλλοι를 삭제 부호에 넣고 κεκωφωμένοι 뒤에 결락을 표시한다. 번역도 해당 단어와 결락을 표시했다. 교감 장치에는 부정 표현을 보충하는 제안이 있으나 인쇄본문의 결락은 그대로다."
+      ],
+      "work_passage_id": "conf:9",
+      "html_path": "works/conf/index.html#p-9",
+      "fixed_html_path": "releases/public-0.35/works/conf/index.html#p-9",
+      "alignment_revision": "sha256:6b6685d65774fc25d6a251185bf25d511122b2d86919369adecdbe1db2f06e40",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:2254f528597177904543366c090f76dd22f6abd2ebd8220a259b8fd835ef174a",
+          "translation_revision": "sha256:0c21905cf47271dbb5737f72a5989fc6db658e50b12b82c93b69c6a6cae9acca",
+          "alignment_revision": "sha256:6b6685d65774fc25d6a251185bf25d511122b2d86919369adecdbe1db2f06e40"
+        },
+        "scoped_ai_review": {
+          "id": "conf-addition-20261003",
+          "scope": "언어의 혼란에 관하여 1-20절 전체, 21-198절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:2254f528597177904543366c090f76dd22f6abd2ebd8220a259b8fd835ef174a",
+            "translation_revision": "sha256:0c21905cf47271dbb5737f72a5989fc6db658e50b12b82c93b69c6a6cae9acca",
+            "alignment_revision": "sha256:6b6685d65774fc25d6a251185bf25d511122b2d86919369adecdbe1db2f06e40"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg013/tlg0018.tlg013.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0으로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "언어의 혼란에 관하여",
+        "reference": "9",
+        "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
+        "release": "public-0.35",
+        "translation_revision": "sha256:0c21905cf47271dbb5737f72a5989fc6db658e50b12b82c93b69c6a6cae9acca",
+        "fixed_path": "releases/public-0.35/works/conf/index.html#p-9"
+      }
+    },
+    {
+      "ref": "10",
+      "section": 10,
+      "original": "τὸ δὲ οὐκ ἐπ’ ὠφελείᾳ φαίνεται συμβῆναι· καὶ γὰρ αὖθις οὐδὲν ἧττον κατὰ ἔθνη διῳκισμένων καὶ μὴ μιᾷ διαλέκτῳ χρωμένων γῆ καὶ θάλαττα πολλάκις ἀμυθήτων κακῶν ἐπληρώθη. οὐ γὰρ αἱ φωναί, ἀλλὰ αἱ ὁμότροποι τῆς ψυχῆς πρὸς τὸ ἁμαρτάνειν ζηλώσεις τοῦ συναδικεῖν αἴτιαι·",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:a72e897621cea7363c55242f9fc0505cb6c8abe95f63378ee15d536c8845bf19",
+      "source_file_sha256": "6bbfe84cda489b9bc387a6a85f4dec931c5d143e65b8259843adb881dacc0f61",
+      "source_locator": {
+        "filename": "tlg0018.tlg013.1st1K-grc1.xml",
+        "reference": "10"
+      },
+      "encoded_page_breaks": [
+        "v.2.p.232"
+      ],
+      "korean": "그러나 그 일은 유익을 위해 일어난 것으로 보이지 않는다. 민족들이 나뉘어 더는 한 언어를 사용하지 않은 뒤에도 땅과 바다가 무수한 악으로 가득 찬 일이 많았기 때문이다. 함께 악을 행하게 만드는 것은 목소리가 아니라, 잘못을 저지르려는 영혼들의 공통된 열망이다.",
+      "translation_revision": "sha256:e835a686a0672deb0bddcf3df0e49eab4f64f6df6d42699134cff72a82db2ab8",
+      "groups": [
+        {
+          "id": "a-eb4a5bca069c84e84d5e",
+          "source_range": [
+            0,
+            40
+          ],
+          "ko_range": [
+            0,
+            32
+          ],
+          "source_text": "τὸ δὲ οὐκ ἐπ’ ὠφελείᾳ φαίνεται συμβῆναι·",
+          "ko_text": "그러나 그 일은 유익을 위해 일어난 것으로 보이지 않는다."
+        },
+        {
+          "id": "a-a2b9a296b34845a77d65",
+          "source_range": [
+            41,
+            166
+          ],
+          "ko_range": [
+            33,
+            95
+          ],
+          "source_text": "καὶ γὰρ αὖθις οὐδὲν ἧττον κατὰ ἔθνη διῳκισμένων καὶ μὴ μιᾷ διαλέκτῳ χρωμένων γῆ καὶ θάλαττα πολλάκις ἀμυθήτων κακῶν ἐπληρώθη.",
+          "ko_text": "민족들이 나뉘어 더는 한 언어를 사용하지 않은 뒤에도 땅과 바다가 무수한 악으로 가득 찬 일이 많았기 때문이다."
+        },
+        {
+          "id": "a-11447505a9978d7cbddf",
+          "source_range": [
+            167,
+            262
+          ],
+          "ko_range": [
+            96,
+            147
+          ],
+          "source_text": "οὐ γὰρ αἱ φωναί, ἀλλὰ αἱ ὁμότροποι τῆς ψυχῆς πρὸς τὸ ἁμαρτάνειν ζηλώσεις τοῦ συναδικεῖν αἴτιαι·",
+          "ko_text": "함께 악을 행하게 만드는 것은 목소리가 아니라, 잘못을 저지르려는 영혼들의 공통된 열망이다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "conf:10",
+      "html_path": "works/conf/index.html#p-10",
+      "fixed_html_path": "releases/public-0.35/works/conf/index.html#p-10",
+      "alignment_revision": "sha256:a9866d684996f7939616907cd53d2df08d858cc032966dcfb3780680ec39038a",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:a72e897621cea7363c55242f9fc0505cb6c8abe95f63378ee15d536c8845bf19",
+          "translation_revision": "sha256:e835a686a0672deb0bddcf3df0e49eab4f64f6df6d42699134cff72a82db2ab8",
+          "alignment_revision": "sha256:a9866d684996f7939616907cd53d2df08d858cc032966dcfb3780680ec39038a"
+        },
+        "scoped_ai_review": {
+          "id": "conf-addition-20261003",
+          "scope": "언어의 혼란에 관하여 1-20절 전체, 21-198절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:a72e897621cea7363c55242f9fc0505cb6c8abe95f63378ee15d536c8845bf19",
+            "translation_revision": "sha256:e835a686a0672deb0bddcf3df0e49eab4f64f6df6d42699134cff72a82db2ab8",
+            "alignment_revision": "sha256:a9866d684996f7939616907cd53d2df08d858cc032966dcfb3780680ec39038a"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg013/tlg0018.tlg013.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0으로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "언어의 혼란에 관하여",
+        "reference": "10",
+        "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
+        "release": "public-0.35",
+        "translation_revision": "sha256:e835a686a0672deb0bddcf3df0e49eab4f64f6df6d42699134cff72a82db2ab8",
+        "fixed_path": "releases/public-0.35/works/conf/index.html#p-10"
+      }
+    },
+    {
+      "ref": "11",
+      "section": 11,
+      "original": "καὶ γὰρ οἱ ἐκτετμημένοι γλῶτταν νεύμασι καὶ βλέμμασι καὶ ταῖς ἄλλαις τοῦ σώματος σχέσεσι καὶ κινήσεσιν οὐχ ἧττον τῆς διὰ λόγων προφορᾶς ἃ ἂν θελήσωσιν ὑποσημαίνουσι· χωρὶς τοῦ καὶ ἔθνος ἓν πολλάκις οὐχ ὁμόφωνον μόνον ἀλλὰ καὶ ὁμόνομον καὶ ὁμοδίαιτον τοσοῦτον ἐπιβῆναι κακίας, ὥστε τοῖς ἀνθρώπων ἁπάντων ἁμαρτήμασιν ἰσοστάσια δύνασθαι πλημμελεῖν·",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:4eb556e83342cd81121af4d5bcab813327e843fa3604b0761929ddc5d58a7901",
+      "source_file_sha256": "6bbfe84cda489b9bc387a6a85f4dec931c5d143e65b8259843adb881dacc0f61",
+      "source_locator": {
+        "filename": "tlg0018.tlg013.1st1K-grc1.xml",
+        "reference": "11"
+      },
+      "korean": "혀가 잘린 사람도 고갯짓과 눈길, 몸의 다른 자세와 움직임으로, 말소리로 표현할 때 못지않게 원하는 것을 나타낸다. 게다가 한 민족이 같은 언어뿐 아니라 같은 법과 생활 방식을 지니고도, 악이 그토록 깊어져 모든 인류의 잘못과 맞먹는 죄를 저지를 수 있게 된 일도 흔하다.",
+      "translation_revision": "sha256:9fb60280862e4e7f1a2c921421c2a09da4dc97769349aa3dd2a1e66603b3f5c8",
+      "groups": [
+        {
+          "id": "a-74714d4272534bc2f65b",
+          "source_range": [
+            0,
+            165
+          ],
+          "ko_range": [
+            0,
+            64
+          ],
+          "source_text": "καὶ γὰρ οἱ ἐκτετμημένοι γλῶτταν νεύμασι καὶ βλέμμασι καὶ ταῖς ἄλλαις τοῦ σώματος σχέσεσι καὶ κινήσεσιν οὐχ ἧττον τῆς διὰ λόγων προφορᾶς ἃ ἂν θελήσωσιν ὑποσημαίνουσι·",
+          "ko_text": "혀가 잘린 사람도 고갯짓과 눈길, 몸의 다른 자세와 움직임으로, 말소리로 표현할 때 못지않게 원하는 것을 나타낸다."
+        },
+        {
+          "id": "a-892f7ee869a86516adda",
+          "source_range": [
+            166,
+            249
+          ],
+          "ko_range": [
+            65,
+            104
+          ],
+          "source_text": "χωρὶς τοῦ καὶ ἔθνος ἓν πολλάκις οὐχ ὁμόφωνον μόνον ἀλλὰ καὶ ὁμόνομον καὶ ὁμοδίαιτον",
+          "ko_text": "게다가 한 민족이 같은 언어뿐 아니라 같은 법과 생활 방식을 지니고도,"
+        },
+        {
+          "id": "a-b815e8c77785f74daac7",
+          "source_range": [
+            250,
+            345
+          ],
+          "ko_range": [
+            105,
+            152
+          ],
+          "source_text": "τοσοῦτον ἐπιβῆναι κακίας, ὥστε τοῖς ἀνθρώπων ἁπάντων ἁμαρτήμασιν ἰσοστάσια δύνασθαι πλημμελεῖν·",
+          "ko_text": "악이 그토록 깊어져 모든 인류의 잘못과 맞먹는 죄를 저지를 수 있게 된 일도 흔하다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "conf:11",
+      "html_path": "works/conf/index.html#p-11",
+      "fixed_html_path": "releases/public-0.35/works/conf/index.html#p-11",
+      "alignment_revision": "sha256:e8e444fab223d2fd92124e3c8b9251be4bc22c568811e8ecfbdd6a2592608bc7",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:4eb556e83342cd81121af4d5bcab813327e843fa3604b0761929ddc5d58a7901",
+          "translation_revision": "sha256:9fb60280862e4e7f1a2c921421c2a09da4dc97769349aa3dd2a1e66603b3f5c8",
+          "alignment_revision": "sha256:e8e444fab223d2fd92124e3c8b9251be4bc22c568811e8ecfbdd6a2592608bc7"
+        },
+        "scoped_ai_review": {
+          "id": "conf-addition-20261003",
+          "scope": "언어의 혼란에 관하여 1-20절 전체, 21-198절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:4eb556e83342cd81121af4d5bcab813327e843fa3604b0761929ddc5d58a7901",
+            "translation_revision": "sha256:9fb60280862e4e7f1a2c921421c2a09da4dc97769349aa3dd2a1e66603b3f5c8",
+            "alignment_revision": "sha256:e8e444fab223d2fd92124e3c8b9251be4bc22c568811e8ecfbdd6a2592608bc7"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg013/tlg0018.tlg013.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0으로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "언어의 혼란에 관하여",
+        "reference": "11",
+        "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
+        "release": "public-0.35",
+        "translation_revision": "sha256:9fb60280862e4e7f1a2c921421c2a09da4dc97769349aa3dd2a1e66603b3f5c8",
+        "fixed_path": "releases/public-0.35/works/conf/index.html#p-11"
+      }
+    },
+    {
+      "ref": "12",
+      "section": 12,
+      "original": "ἀπειρίᾳ τε διαλέκτων μυρίοι πρὸς τῶν ἐπιτιθεμένων οὐ προϊδόμενοι τὸ μέλλον προκατελήφθησαν, ὡς ἔμπαλιν ἐπιστήμῃ τοὺς ἐπικρεμασθέντας ἴσχυσαν φόβους τε καὶ κινδύνους ἀπώσασθαι· ὥστε λυσιτελὲς μᾶλλον ἢ βλαβερὸν εἶναι τὴν ἐν διαλέκτοις κοινωνίαν, ἐπεὶ καὶ μέχρι νῦν οἱ καθ’ ἑκάστην χώραν, καὶ μάλιστα τῶν αὐτοχθόνων, δι’ οὐδὲν οὕτως ὡς διὰ τὸ ὁμόγλωσσον ἀπαθεῖς κακῶν διατελοῦσι.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:08cb31b1432d135865cefbd6ff309cf3ae960b719692eb95897da71718317190",
+      "source_file_sha256": "6bbfe84cda489b9bc387a6a85f4dec931c5d143e65b8259843adb881dacc0f61",
+      "source_locator": {
+        "filename": "tlg0018.tlg013.1st1K-grc1.xml",
+        "reference": "12"
+      },
+      "korean": "언어에 익숙하지 않은 탓에 앞으로 닥칠 일을 미리 알지 못하여 공격자들에게 기습당한 사람은 수없이 많다. 반대로 언어를 알아서 머리 위에 닥친 두려움과 위험을 물리칠 수 있었던 이들도 있다. 따라서 언어를 나누는 것은 해롭기보다 유익하다. 지금까지도 각 지방의 사람들, 특히 원주민들은 무엇보다 같은 언어를 쓰기 때문에 피해를 입지 않고 지낸다.",
+      "translation_revision": "sha256:e1885d64e62ddceb5d22d0846c678ed6d75039f2e8fdb503cba5f77ec3754095",
+      "groups": [
+        {
+          "id": "a-ba3ab5462bf598626a1d",
+          "source_range": [
+            0,
+            91
+          ],
+          "ko_range": [
+            0,
+            58
+          ],
+          "source_text": "ἀπειρίᾳ τε διαλέκτων μυρίοι πρὸς τῶν ἐπιτιθεμένων οὐ προϊδόμενοι τὸ μέλλον προκατελήφθησαν,",
+          "ko_text": "언어에 익숙하지 않은 탓에 앞으로 닥칠 일을 미리 알지 못하여 공격자들에게 기습당한 사람은 수없이 많다."
+        },
+        {
+          "id": "a-0d33360e8ebb791b14da",
+          "source_range": [
+            92,
+            175
+          ],
+          "ko_range": [
+            59,
+            106
+          ],
+          "source_text": "ὡς ἔμπαλιν ἐπιστήμῃ τοὺς ἐπικρεμασθέντας ἴσχυσαν φόβους τε καὶ κινδύνους ἀπώσασθαι·",
+          "ko_text": "반대로 언어를 알아서 머리 위에 닥친 두려움과 위험을 물리칠 수 있었던 이들도 있다."
+        },
+        {
+          "id": "a-bf5ce7159f1f7d7c261b",
+          "source_range": [
+            176,
+            243
+          ],
+          "ko_range": [
+            107,
+            133
+          ],
+          "source_text": "ὥστε λυσιτελὲς μᾶλλον ἢ βλαβερὸν εἶναι τὴν ἐν διαλέκτοις κοινωνίαν,",
+          "ko_text": "따라서 언어를 나누는 것은 해롭기보다 유익하다."
+        },
+        {
+          "id": "a-c90bb2750fa6796ecfe5",
+          "source_range": [
+            244,
+            376
+          ],
+          "ko_range": [
+            134,
+            193
+          ],
+          "source_text": "ἐπεὶ καὶ μέχρι νῦν οἱ καθ’ ἑκάστην χώραν, καὶ μάλιστα τῶν αὐτοχθόνων, δι’ οὐδὲν οὕτως ὡς διὰ τὸ ὁμόγλωσσον ἀπαθεῖς κακῶν διατελοῦσι.",
+          "ko_text": "지금까지도 각 지방의 사람들, 특히 원주민들은 무엇보다 같은 언어를 쓰기 때문에 피해를 입지 않고 지낸다."
+        }
+      ],
+      "notes": [
+        "반대자들은 같은 말을 알아듣는 것이 공격을 피하고 안전을 얻는 데 유익하다고 주장한다. 언어의 공통성 자체가 악의 원인이라는 설명을 비판하는 부분이다."
+      ],
+      "work_passage_id": "conf:12",
+      "html_path": "works/conf/index.html#p-12",
+      "fixed_html_path": "releases/public-0.35/works/conf/index.html#p-12",
+      "alignment_revision": "sha256:89122c90686fda1dc7c896cecf17366eb1044b6d8cb1e1b895718fbc77b70fb4",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:08cb31b1432d135865cefbd6ff309cf3ae960b719692eb95897da71718317190",
+          "translation_revision": "sha256:e1885d64e62ddceb5d22d0846c678ed6d75039f2e8fdb503cba5f77ec3754095",
+          "alignment_revision": "sha256:89122c90686fda1dc7c896cecf17366eb1044b6d8cb1e1b895718fbc77b70fb4"
+        },
+        "scoped_ai_review": {
+          "id": "conf-addition-20261003",
+          "scope": "언어의 혼란에 관하여 1-20절 전체, 21-198절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:08cb31b1432d135865cefbd6ff309cf3ae960b719692eb95897da71718317190",
+            "translation_revision": "sha256:e1885d64e62ddceb5d22d0846c678ed6d75039f2e8fdb503cba5f77ec3754095",
+            "alignment_revision": "sha256:89122c90686fda1dc7c896cecf17366eb1044b6d8cb1e1b895718fbc77b70fb4"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg013/tlg0018.tlg013.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0으로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "언어의 혼란에 관하여",
+        "reference": "12",
+        "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
+        "release": "public-0.35",
+        "translation_revision": "sha256:e1885d64e62ddceb5d22d0846c678ed6d75039f2e8fdb503cba5f77ec3754095",
+        "fixed_path": "releases/public-0.35/works/conf/index.html#p-12"
+      }
+    },
+    {
+      "ref": "13",
+      "section": 13,
+      "original": "κἂν εἰ μέντοι τις ἀνὴρ πλείους ἀναμάθοι διαλέκτους, εὐδόκιμος εὐθὺς παρὰ τοῖς ἐπισταμένοις ἐστὶν ὡς ἤδη φίλιος ὤν, οὐ βραχὺ γνώρισμα κοινωνίας ἐπιφερόμενος τὴν ἐν τοῖς ὀνόμασι συνήθειαν, ἀφ’ ἧς τὸ ἀδεὲς εἰς τὸ μηδὲν ἀνήκεστον παθεῖν ἔοικε πεπορίσθαι. τί οὖν ὡς κακῶν αἴτιον τὸ ὁμόγλωττον ἐξ ἀνθρώπων ἠφάνιζε, δέον ὡς",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:a7bc7723843818a4d60a64b605d511aeb186610b2499954d9b13ae504a054d9c",
+      "source_file_sha256": "6bbfe84cda489b9bc387a6a85f4dec931c5d143e65b8259843adb881dacc0f61",
+      "source_locator": {
+        "filename": "tlg0018.tlg013.1st1K-grc1.xml",
+        "reference": "13"
+      },
+      "korean": "누군가 여러 언어를 배우면 그 언어를 아는 사람들 사이에서 이미 친구인 것처럼 곧 호감을 얻는다. 말에 익숙함이라는, 교류의 결코 작지 않은 표지를 지니기 때문이다. 여기에서 돌이킬 수 없는 해를 당하지 않을 안전도 얻는 것으로 보인다. 그렇다면 같은 언어를 쓰는 일을 왜 악의 원인이라 하여 사람들에게서 없애셨는가? 그것은 오히려",
+      "translation_revision": "sha256:6686d48f02d2b35cf37c2de407eebe02a5af1632fbb129177e5a011dc07d62cc",
+      "groups": [
+        {
+          "id": "a-799b751142aeb1440ee0",
+          "source_range": [
+            0,
+            114
+          ],
+          "ko_range": [
+            0,
+            54
+          ],
+          "source_text": "κἂν εἰ μέντοι τις ἀνὴρ πλείους ἀναμάθοι διαλέκτους, εὐδόκιμος εὐθὺς παρὰ τοῖς ἐπισταμένοις ἐστὶν ὡς ἤδη φίλιος ὤν,",
+          "ko_text": "누군가 여러 언어를 배우면 그 언어를 아는 사람들 사이에서 이미 친구인 것처럼 곧 호감을 얻는다."
+        },
+        {
+          "id": "a-86b67523d35e688fbbc3",
+          "source_range": [
+            115,
+            186
+          ],
+          "ko_range": [
+            55,
+            92
+          ],
+          "source_text": "οὐ βραχὺ γνώρισμα κοινωνίας ἐπιφερόμενος τὴν ἐν τοῖς ὀνόμασι συνήθειαν,",
+          "ko_text": "말에 익숙함이라는, 교류의 결코 작지 않은 표지를 지니기 때문이다."
+        },
+        {
+          "id": "a-bfef8ef4783f065d55d9",
+          "source_range": [
+            187,
+            250
+          ],
+          "ko_range": [
+            93,
+            132
+          ],
+          "source_text": "ἀφ’ ἧς τὸ ἀδεὲς εἰς τὸ μηδὲν ἀνήκεστον παθεῖν ἔοικε πεπορίσθαι.",
+          "ko_text": "여기에서 돌이킬 수 없는 해를 당하지 않을 안전도 얻는 것으로 보인다."
+        },
+        {
+          "id": "a-b93985e7e0a4ed904c4b",
+          "source_range": [
+            251,
+            316
+          ],
+          "ko_range": [
+            133,
+            185
+          ],
+          "source_text": "τί οὖν ὡς κακῶν αἴτιον τὸ ὁμόγλωττον ἐξ ἀνθρώπων ἠφάνιζε, δέον ὡς",
+          "ko_text": "그렇다면 같은 언어를 쓰는 일을 왜 악의 원인이라 하여 사람들에게서 없애셨는가? 그것은 오히려"
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "conf:13",
+      "html_path": "works/conf/index.html#p-13",
+      "fixed_html_path": "releases/public-0.35/works/conf/index.html#p-13",
+      "alignment_revision": "sha256:dde7e892ad23c9bac8cb7af4966002009c0f08cc401977290f680e70f217c82f",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:a7bc7723843818a4d60a64b605d511aeb186610b2499954d9b13ae504a054d9c",
+          "translation_revision": "sha256:6686d48f02d2b35cf37c2de407eebe02a5af1632fbb129177e5a011dc07d62cc",
+          "alignment_revision": "sha256:dde7e892ad23c9bac8cb7af4966002009c0f08cc401977290f680e70f217c82f"
+        },
+        "scoped_ai_review": {
+          "id": "conf-addition-20261003",
+          "scope": "언어의 혼란에 관하여 1-20절 전체, 21-198절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:a7bc7723843818a4d60a64b605d511aeb186610b2499954d9b13ae504a054d9c",
+            "translation_revision": "sha256:6686d48f02d2b35cf37c2de407eebe02a5af1632fbb129177e5a011dc07d62cc",
+            "alignment_revision": "sha256:dde7e892ad23c9bac8cb7af4966002009c0f08cc401977290f680e70f217c82f"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg013/tlg0018.tlg013.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0으로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "언어의 혼란에 관하여",
+        "reference": "13",
+        "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
+        "release": "public-0.35",
+        "translation_revision": "sha256:6686d48f02d2b35cf37c2de407eebe02a5af1632fbb129177e5a011dc07d62cc",
+        "fixed_path": "releases/public-0.35/works/conf/index.html#p-13"
+      }
+    },
+    {
+      "ref": "14",
+      "section": 14,
+      "original": "ὠφελιμώτατον ἱδρῦσθαι; τοὺς δὴ ταῦτα συντιθέντας καὶ κακοτεχνοῦντας ἰδίᾳ μὲν διελέγξουσιν οἱ τὰς προχείρους ἀποδόσεις τῶν ἀεὶ ζητουμένων ἐκ τῆς φανερᾶς τῶν νόμων γραφῆς ἀφιλονείκως ⟨ταμιευόμενοι⟩, οὐκ ἀντισοφιζόμενοί ποθεν, ἀλλ’ ἑπόμενοι τῷ τῆς ἀκολουθίας εἱρμῷ προσπταίειν οὐκ ἐῶντι, ἀλλὰ κἄν, εἴ τινα ἐμποδὼν εἴη, ῥᾳδίως ἀναστέλλοντι, ὅπως αἱ τῶν λόγων διέξοδοι γίνωνται ἄπταιστοι.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:6e4a749c671a85fa50be4126011531cec54fba5ebc8b2f225e74f9e9ef13a6d3",
+      "source_file_sha256": "6bbfe84cda489b9bc387a6a85f4dec931c5d143e65b8259843adb881dacc0f61",
+      "source_locator": {
+        "filename": "tlg0018.tlg013.1st1K-grc1.xml",
+        "reference": "14"
+      },
+      "korean": "가장 유익한 것으로 확립되어야 하지 않았겠는가?” 이런 말을 조립하며 교묘하게 꾸미는 자들은 별도로 논박을 받을 것이다. 그 논박을 맡을 이들은 매번 제기되는 질문에 대한 가까운 설명을, 율법의 드러난 기록에서 다툼 없이 ⟨마련하는⟩ 사람들이다. 그들은 궤변에 궤변으로 맞서지 않고, 걸려 넘어지지 않게 하는 논리적 연결을 따른다. 그 연결은 장애물이 있더라도 쉽게 치워, 논의가 걸림 없이 나아가게 한다.",
+      "translation_revision": "sha256:497c512bd29f9cecb5e8db939f3f2cb8afeefcff327f7ec8364f02bd96f3dd7d",
+      "groups": [
+        {
+          "id": "a-604220d82e74212cbb80",
+          "source_range": [
+            0,
+            22
+          ],
+          "ko_range": [
+            0,
+            27
+          ],
+          "source_text": "ὠφελιμώτατον ἱδρῦσθαι;",
+          "ko_text": "가장 유익한 것으로 확립되어야 하지 않았겠는가?”"
+        },
+        {
+          "id": "a-3b068ba8fa2461e0e31e",
+          "source_range": [
+            23,
+            89
+          ],
+          "ko_range": [
+            28,
+            67
+          ],
+          "source_text": "τοὺς δὴ ταῦτα συντιθέντας καὶ κακοτεχνοῦντας ἰδίᾳ μὲν διελέγξουσιν",
+          "ko_text": "이런 말을 조립하며 교묘하게 꾸미는 자들은 별도로 논박을 받을 것이다."
+        },
+        {
+          "id": "a-9c545e05387d0090df11",
+          "source_range": [
+            90,
+            196
+          ],
+          "ko_range": [
+            68,
+            137
+          ],
+          "source_text": "οἱ τὰς προχείρους ἀποδόσεις τῶν ἀεὶ ζητουμένων ἐκ τῆς φανερᾶς τῶν νόμων γραφῆς ἀφιλονείκως ⟨ταμιευόμενοι⟩,",
+          "ko_text": "그 논박을 맡을 이들은 매번 제기되는 질문에 대한 가까운 설명을, 율법의 드러난 기록에서 다툼 없이 ⟨마련하는⟩ 사람들이다."
+        },
+        {
+          "id": "a-204af8b24df7833c6535",
+          "source_range": [
+            197,
+            284
+          ],
+          "ko_range": [
+            138,
+            185
+          ],
+          "source_text": "οὐκ ἀντισοφιζόμενοί ποθεν, ἀλλ’ ἑπόμενοι τῷ τῆς ἀκολουθίας εἱρμῷ προσπταίειν οὐκ ἐῶντι,",
+          "ko_text": "그들은 궤변에 궤변으로 맞서지 않고, 걸려 넘어지지 않게 하는 논리적 연결을 따른다."
+        },
+        {
+          "id": "a-6784ff3d7e0fdc8a63f2",
+          "source_range": [
+            285,
+            383
+          ],
+          "ko_range": [
+            186,
+            227
+          ],
+          "source_text": "ἀλλὰ κἄν, εἴ τινα ἐμποδὼν εἴη, ῥᾳδίως ἀναστέλλοντι, ὅπως αἱ τῶν λόγων διέξοδοι γίνωνται ἄπταιστοι.",
+          "ko_text": "그 연결은 장애물이 있더라도 쉽게 치워, 논의가 걸림 없이 나아가게 한다."
+        }
+      ],
+      "notes": [
+        "첫 질문으로 반대자들의 발언이 끝난다. 그 뒤에는 그들을 논박하는 이들에 관한 서술이 나오고, 15절의 우리는 말한다에서 필론의 알레고리적 해석이 시작된다."
+      ],
+      "work_passage_id": "conf:14",
+      "html_path": "works/conf/index.html#p-14",
+      "fixed_html_path": "releases/public-0.35/works/conf/index.html#p-14",
+      "alignment_revision": "sha256:3f450689dc293379f7e1c8e7cdc6cf2ac67c45349439269235ee74f872c4556b",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:6e4a749c671a85fa50be4126011531cec54fba5ebc8b2f225e74f9e9ef13a6d3",
+          "translation_revision": "sha256:497c512bd29f9cecb5e8db939f3f2cb8afeefcff327f7ec8364f02bd96f3dd7d",
+          "alignment_revision": "sha256:3f450689dc293379f7e1c8e7cdc6cf2ac67c45349439269235ee74f872c4556b"
+        },
+        "scoped_ai_review": {
+          "id": "conf-addition-20261003",
+          "scope": "언어의 혼란에 관하여 1-20절 전체, 21-198절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:6e4a749c671a85fa50be4126011531cec54fba5ebc8b2f225e74f9e9ef13a6d3",
+            "translation_revision": "sha256:497c512bd29f9cecb5e8db939f3f2cb8afeefcff327f7ec8364f02bd96f3dd7d",
+            "alignment_revision": "sha256:3f450689dc293379f7e1c8e7cdc6cf2ac67c45349439269235ee74f872c4556b"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg013/tlg0018.tlg013.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0으로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "언어의 혼란에 관하여",
+        "reference": "14",
+        "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
+        "release": "public-0.35",
+        "translation_revision": "sha256:497c512bd29f9cecb5e8db939f3f2cb8afeefcff327f7ec8364f02bd96f3dd7d",
+        "fixed_path": "releases/public-0.35/works/conf/index.html#p-14"
+      }
+    },
+    {
+      "ref": "15",
+      "section": 15,
+      "original": "φαμὲν τοίνυν ἐκ τοῦ “τὴν γῆν εἶναι πᾶσαν χεῖλος ἓν καὶ φωνὴν μίαν” κακῶν ἀμυθήτων καὶ μεγάλων συμφωνίαν δηλοῦσθαι, ὅσα τε πόλεις πόλεσι καὶ ἔθνεσιν ἔθνη καὶ χώραις χῶραι ἀντεπιφέρουσι, καὶ ὅσα μὴ μόνον εἰς ἑαυτοὺς ἀλλὰ καὶ εἰς τὸ θεῖον ἀσεβοῦσιν ἄνθρωποι· καίτοι ταῦτα πληθῶν ἐστιν ἀδικήματα. σκεπτόμεθα δ’ ἡμεῖς καὶ ἐφ’ ἑνὸς ἀνδρὸς τὸ ἀδιεξήγητον τῶν κακῶν πλῆθος, καὶ μάλισθ’",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:1135237849df8997dec6e6bcb661dc56a24f59574eb65b4cf034254d91794b5d",
+      "source_file_sha256": "6bbfe84cda489b9bc387a6a85f4dec931c5d143e65b8259843adb881dacc0f61",
+      "source_locator": {
+        "filename": "tlg0018.tlg013.1st1K-grc1.xml",
+        "reference": "15"
+      },
+      "korean": "그러므로 우리는 “온 땅에 입술이 하나이며 목소리가 하나였다”라는 말이 무수하고 거대한 악들의 합의를 뜻한다고 말한다. 도시들이 다른 도시들에, 민족들이 다른 민족들에, 나라들이 다른 나라들에 가하는 악들이다. 사람들이 서로에게만이 아니라 신적인 존재에게도 저지르는 불경도 있다. 이것들은 무리들이 저지르는 잘못이다. 그러나 우리는 한 사람에게서도 설명하기 어려울 만큼 많은 악을 살펴본다. 특히",
+      "translation_revision": "sha256:eac5f8e0e2db62822c74b2433a847f6946c81d1a933cc4b29374808195b3ff14",
+      "groups": [
+        {
+          "id": "a-ffbe48ab88d03b53d70b",
+          "source_range": [
+            0,
+            114
+          ],
+          "ko_range": [
+            0,
+            66
+          ],
+          "source_text": "φαμὲν τοίνυν ἐκ τοῦ “τὴν γῆν εἶναι πᾶσαν χεῖλος ἓν καὶ φωνὴν μίαν” κακῶν ἀμυθήτων καὶ μεγάλων συμφωνίαν δηλοῦσθαι,",
+          "ko_text": "그러므로 우리는 “온 땅에 입술이 하나이며 목소리가 하나였다”라는 말이 무수하고 거대한 악들의 합의를 뜻한다고 말한다."
+        },
+        {
+          "id": "a-552b1d81766febac86e7",
+          "source_range": [
+            115,
+            184
+          ],
+          "ko_range": [
+            67,
+            117
+          ],
+          "source_text": "ὅσα τε πόλεις πόλεσι καὶ ἔθνεσιν ἔθνη καὶ χώραις χῶραι ἀντεπιφέρουσι,",
+          "ko_text": "도시들이 다른 도시들에, 민족들이 다른 민족들에, 나라들이 다른 나라들에 가하는 악들이다."
+        },
+        {
+          "id": "a-5e2cfedaca615bba9e57",
+          "source_range": [
+            185,
+            255
+          ],
+          "ko_range": [
+            118,
+            156
+          ],
+          "source_text": "καὶ ὅσα μὴ μόνον εἰς ἑαυτοὺς ἀλλὰ καὶ εἰς τὸ θεῖον ἀσεβοῦσιν ἄνθρωποι·",
+          "ko_text": "사람들이 서로에게만이 아니라 신적인 존재에게도 저지르는 불경도 있다."
+        },
+        {
+          "id": "a-1a4afef90c7b5c1afcbe",
+          "source_range": [
+            256,
+            292
+          ],
+          "ko_range": [
+            157,
+            177
+          ],
+          "source_text": "καίτοι ταῦτα πληθῶν ἐστιν ἀδικήματα.",
+          "ko_text": "이것들은 무리들이 저지르는 잘못이다."
+        },
+        {
+          "id": "a-a3c4149af23401ceb45f",
+          "source_range": [
+            293,
+            377
+          ],
+          "ko_range": [
+            178,
+            221
+          ],
+          "source_text": "σκεπτόμεθα δ’ ἡμεῖς καὶ ἐφ’ ἑνὸς ἀνδρὸς τὸ ἀδιεξήγητον τῶν κακῶν πλῆθος, καὶ μάλισθ’",
+          "ko_text": "그러나 우리는 한 사람에게서도 설명하기 어려울 만큼 많은 악을 살펴본다. 특히"
+        }
+      ],
+      "notes": [
+        "하나의 입술과 목소리를 악한 목적을 위한 합의로 해석한다. 집단의 불의에서 한 사람 안에 여러 악이 합쳐지는 문제로 논의를 좁힌다."
+      ],
+      "work_passage_id": "conf:15",
+      "html_path": "works/conf/index.html#p-15",
+      "fixed_html_path": "releases/public-0.35/works/conf/index.html#p-15",
+      "alignment_revision": "sha256:c04b1590219349efe66f6a70e45f92c28cb96e1c16a4f5bf9645d67b997a1189",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:1135237849df8997dec6e6bcb661dc56a24f59574eb65b4cf034254d91794b5d",
+          "translation_revision": "sha256:eac5f8e0e2db62822c74b2433a847f6946c81d1a933cc4b29374808195b3ff14",
+          "alignment_revision": "sha256:c04b1590219349efe66f6a70e45f92c28cb96e1c16a4f5bf9645d67b997a1189"
+        },
+        "scoped_ai_review": {
+          "id": "conf-addition-20261003",
+          "scope": "언어의 혼란에 관하여 1-20절 전체, 21-198절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:1135237849df8997dec6e6bcb661dc56a24f59574eb65b4cf034254d91794b5d",
+            "translation_revision": "sha256:eac5f8e0e2db62822c74b2433a847f6946c81d1a933cc4b29374808195b3ff14",
+            "alignment_revision": "sha256:c04b1590219349efe66f6a70e45f92c28cb96e1c16a4f5bf9645d67b997a1189"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg013/tlg0018.tlg013.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0으로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "언어의 혼란에 관하여",
+        "reference": "15",
+        "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
+        "release": "public-0.35",
+        "translation_revision": "sha256:eac5f8e0e2db62822c74b2433a847f6946c81d1a933cc4b29374808195b3ff14",
+        "fixed_path": "releases/public-0.35/works/conf/index.html#p-15"
+      }
+    },
+    {
+      "ref": "16",
+      "section": 16,
+      "original": "ὅταν τὴν ἀνάρμοστον καὶ ἐκμελῆ καὶ ἄμουσον ἴσχῃ συμφωνίαν. τὰ μὲν δὴ τυχηρὰ τίς οὐκ οἶδεν, ὅταν πενία καὶ ἀδοξία σώματος νόσοις ἢ πηρώσεσι συνενεχθῶσι. καὶ πάλιν ταῦτα ψυχῆς ἀρρωστήμασιν ἔκφρονος ὑπὸ μελαγχολίας ἢ μακροῦ γήρως ἤ τινος βαρείας ἄλλης κακοδαιμονίας γεγενημένης ἀνακραθῶσι;",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:c3be3bfd76bc4ce99076d0eff87a661284330caca6147ff86e60b22582d4a75e",
+      "source_file_sha256": "6bbfe84cda489b9bc387a6a85f4dec931c5d143e65b8259843adb881dacc0f61",
+      "source_locator": {
+        "filename": "tlg0018.tlg013.1st1K-grc1.xml",
+        "reference": "16"
+      },
+      "encoded_page_breaks": [
+        "v.2.p.233"
+      ],
+      "korean": "조화도 선율도 음악성도 없는 그 합의가 그 사람 안에 있을 때 그러하다. 가난과 나쁜 평판이 몸의 질병이나 손상과 겹칠 때 생기는 우연한 불행을 누가 모르는가? 또 이것들이 영혼의 병과 뒤섞일 때에는 어떠한가? 우울한 기질이나 오랜 노령, 다른 심각한 불행 때문에 영혼이 제정신을 잃은 경우이다.",
+      "translation_revision": "sha256:7e2ebc0e579c0e55e5cc896ead4f7ff208e3d2960b65308276bae980fb9d7f0c",
+      "groups": [
+        {
+          "id": "a-90c7531cc268bc3563ed",
+          "source_range": [
+            0,
+            58
+          ],
+          "ko_range": [
+            0,
+            40
+          ],
+          "source_text": "ὅταν τὴν ἀνάρμοστον καὶ ἐκμελῆ καὶ ἄμουσον ἴσχῃ συμφωνίαν.",
+          "ko_text": "조화도 선율도 음악성도 없는 그 합의가 그 사람 안에 있을 때 그러하다."
+        },
+        {
+          "id": "a-e1e0d362adae63b5b40f",
+          "source_range": [
+            59,
+            151
+          ],
+          "ko_range": [
+            41,
+            89
+          ],
+          "source_text": "τὰ μὲν δὴ τυχηρὰ τίς οὐκ οἶδεν, ὅταν πενία καὶ ἀδοξία σώματος νόσοις ἢ πηρώσεσι συνενεχθῶσι.",
+          "ko_text": "가난과 나쁜 평판이 몸의 질병이나 손상과 겹칠 때 생기는 우연한 불행을 누가 모르는가?"
+        },
+        {
+          "id": "a-5ce35a3fe9379c15035f",
+          "source_range": [
+            152,
+            286
+          ],
+          "ko_range": [
+            90,
+            165
+          ],
+          "source_text": "καὶ πάλιν ταῦτα ψυχῆς ἀρρωστήμασιν ἔκφρονος ὑπὸ μελαγχολίας ἢ μακροῦ γήρως ἤ τινος βαρείας ἄλλης κακοδαιμονίας γεγενημένης ἀνακραθῶσι;",
+          "ko_text": "또 이것들이 영혼의 병과 뒤섞일 때에는 어떠한가? 우울한 기질이나 오랜 노령, 다른 심각한 불행 때문에 영혼이 제정신을 잃은 경우이다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "conf:16",
+      "html_path": "works/conf/index.html#p-16",
+      "fixed_html_path": "releases/public-0.35/works/conf/index.html#p-16",
+      "alignment_revision": "sha256:55019f0621083e8436a2052d3a4d7e7c4f1201b9efcdb5632269bffd9418b565",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:c3be3bfd76bc4ce99076d0eff87a661284330caca6147ff86e60b22582d4a75e",
+          "translation_revision": "sha256:7e2ebc0e579c0e55e5cc896ead4f7ff208e3d2960b65308276bae980fb9d7f0c",
+          "alignment_revision": "sha256:55019f0621083e8436a2052d3a4d7e7c4f1201b9efcdb5632269bffd9418b565"
+        },
+        "scoped_ai_review": {
+          "id": "conf-addition-20261003",
+          "scope": "언어의 혼란에 관하여 1-20절 전체, 21-198절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:c3be3bfd76bc4ce99076d0eff87a661284330caca6147ff86e60b22582d4a75e",
+            "translation_revision": "sha256:7e2ebc0e579c0e55e5cc896ead4f7ff208e3d2960b65308276bae980fb9d7f0c",
+            "alignment_revision": "sha256:55019f0621083e8436a2052d3a4d7e7c4f1201b9efcdb5632269bffd9418b565"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg013/tlg0018.tlg013.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0으로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "언어의 혼란에 관하여",
+        "reference": "16",
+        "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
+        "release": "public-0.35",
+        "translation_revision": "sha256:7e2ebc0e579c0e55e5cc896ead4f7ff208e3d2960b65308276bae980fb9d7f0c",
+        "fixed_path": "releases/public-0.35/works/conf/index.html#p-16"
+      }
+    },
+    {
+      "ref": "17",
+      "section": 17,
+      "original": "καὶ γὰρ ἓν μόνον τῶν εἰρημένων βιαίως ἀντιστατῆσαν ἱκανὸν ἀνατρέψαι καὶ καταβαλεῖν καὶ τὸν λίαν ὑπέρογκόν ἐστιν· ὅταν δὲ ἀθρόα ὥσπερ προστάξει μιᾷ κατὰ τὸν αὐτὸν χρόνον ἑνὶ πάντα σωρηδὸν ἐπιθῆται τὰ σώματος, τὰ ψυχῆς, τὰ ἐκτός, τίνα οὐχ ὑπερβάλλει σχετλιότητα; πεσόντων γὰρ δορυφόρων ἀνάγκη καὶ τὸ δορυφορούμενον πίπτειν.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:785cbafbac5de31ebab047adb6e4e87fcc7624d504e38b8d6f18ffd1d95f089d",
+      "source_file_sha256": "6bbfe84cda489b9bc387a6a85f4dec931c5d143e65b8259843adb881dacc0f61",
+      "source_locator": {
+        "filename": "tlg0018.tlg013.1st1K-grc1.xml",
+        "reference": "17"
+      },
+      "korean": "말한 것들 가운데 하나만 거세게 맞서도, 몹시 거만한 사람마저 뒤집어 쓰러뜨릴 수 있다. 그런데 몸의 불행, 영혼의 불행, 외적 불행이 하나의 명령을 받은 것처럼 같은 시각에 한 사람에게 모두 몰려든다면, 그 참혹함은 무엇에 비기겠는가? 호위병들이 쓰러지면 호위받는 자도 반드시 쓰러지기 때문이다.",
+      "translation_revision": "sha256:e8393e47bc69e10fb47a58af3972050ef415717277780b8e49b2ae728308ed0c",
+      "groups": [
+        {
+          "id": "a-ec235b5a0c35b0e0ffec",
+          "source_range": [
+            0,
+            112
+          ],
+          "ko_range": [
+            0,
+            49
+          ],
+          "source_text": "καὶ γὰρ ἓν μόνον τῶν εἰρημένων βιαίως ἀντιστατῆσαν ἱκανὸν ἀνατρέψαι καὶ καταβαλεῖν καὶ τὸν λίαν ὑπέρογκόν ἐστιν·",
+          "ko_text": "말한 것들 가운데 하나만 거세게 맞서도, 몹시 거만한 사람마저 뒤집어 쓰러뜨릴 수 있다."
+        },
+        {
+          "id": "a-09e2ca0cc2c585b1711e",
+          "source_range": [
+            113,
+            227
+          ],
+          "ko_range": [
+            50,
+            114
+          ],
+          "source_text": "ὅταν δὲ ἀθρόα ὥσπερ προστάξει μιᾷ κατὰ τὸν αὐτὸν χρόνον ἑνὶ πάντα σωρηδὸν ἐπιθῆται τὰ σώματος, τὰ ψυχῆς, τὰ ἐκτός,",
+          "ko_text": "그런데 몸의 불행, 영혼의 불행, 외적 불행이 하나의 명령을 받은 것처럼 같은 시각에 한 사람에게 모두 몰려든다면,"
+        },
+        {
+          "id": "a-1f999814696d1555de15",
+          "source_range": [
+            228,
+            260
+          ],
+          "ko_range": [
+            115,
+            132
+          ],
+          "source_text": "τίνα οὐχ ὑπερβάλλει σχετλιότητα;",
+          "ko_text": "그 참혹함은 무엇에 비기겠는가?"
+        },
+        {
+          "id": "a-641e22833123b8b4396f",
+          "source_range": [
+            261,
+            321
+          ],
+          "ko_range": [
+            133,
+            166
+          ],
+          "source_text": "πεσόντων γὰρ δορυφόρων ἀνάγκη καὶ τὸ δορυφορούμενον πίπτειν.",
+          "ko_text": "호위병들이 쓰러지면 호위받는 자도 반드시 쓰러지기 때문이다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "conf:17",
+      "html_path": "works/conf/index.html#p-17",
+      "fixed_html_path": "releases/public-0.35/works/conf/index.html#p-17",
+      "alignment_revision": "sha256:785b0a9c7068c0ee80c43522e9100b9f3e2abd1b5da518cc673d68ab71d51419",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:785cbafbac5de31ebab047adb6e4e87fcc7624d504e38b8d6f18ffd1d95f089d",
+          "translation_revision": "sha256:e8393e47bc69e10fb47a58af3972050ef415717277780b8e49b2ae728308ed0c",
+          "alignment_revision": "sha256:785b0a9c7068c0ee80c43522e9100b9f3e2abd1b5da518cc673d68ab71d51419"
+        },
+        "scoped_ai_review": {
+          "id": "conf-addition-20261003",
+          "scope": "언어의 혼란에 관하여 1-20절 전체, 21-198절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:785cbafbac5de31ebab047adb6e4e87fcc7624d504e38b8d6f18ffd1d95f089d",
+            "translation_revision": "sha256:e8393e47bc69e10fb47a58af3972050ef415717277780b8e49b2ae728308ed0c",
+            "alignment_revision": "sha256:785b0a9c7068c0ee80c43522e9100b9f3e2abd1b5da518cc673d68ab71d51419"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg013/tlg0018.tlg013.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0으로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "언어의 혼란에 관하여",
+        "reference": "17",
+        "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
+        "release": "public-0.35",
+        "translation_revision": "sha256:e8393e47bc69e10fb47a58af3972050ef415717277780b8e49b2ae728308ed0c",
+        "fixed_path": "releases/public-0.35/works/conf/index.html#p-17"
+      }
+    },
+    {
+      "ref": "18",
+      "section": 18,
+      "original": "δορυφόροι μὲν οὖν σώματος πλοῦτος, εὐδοξία, τιμαί, ὀρθοῦντες αὐτὸ καὶ εἰς ὕψος αἴροντες καὶ γαῦρον ἀποδεικνύντες, ὡς τἀναντία, ἀτιμία, ἀδοξία, πενία, πολεμίων τρόπον καταράττουσι.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:6196baf5ef1c1f90ee1b35aab3d0f333d7e454057b786a3929f922caa9aefc27",
+      "source_file_sha256": "6bbfe84cda489b9bc387a6a85f4dec931c5d143e65b8259843adb881dacc0f61",
+      "source_locator": {
+        "filename": "tlg0018.tlg013.1st1K-grc1.xml",
+        "reference": "18"
+      },
+      "korean": "몸의 호위병은 재산과 좋은 평판과 명예이다. 그것들은 몸을 세우고 높이 들어 올려 당당하게 만든다. 반면 불명예와 나쁜 평판과 가난은 적처럼 몸을 내리친다.",
+      "translation_revision": "sha256:71b7fabc460b7654b884f19e972a615f63f2ea81686a336f8d8d439fe98fac5e",
+      "groups": [
+        {
+          "id": "a-48aa1e02614f26ddcc38",
+          "source_range": [
+            0,
+            50
+          ],
+          "ko_range": [
+            0,
+            24
+          ],
+          "source_text": "δορυφόροι μὲν οὖν σώματος πλοῦτος, εὐδοξία, τιμαί,",
+          "ko_text": "몸의 호위병은 재산과 좋은 평판과 명예이다."
+        },
+        {
+          "id": "a-564c8a92e56b194542ed",
+          "source_range": [
+            51,
+            113
+          ],
+          "ko_range": [
+            25,
+            55
+          ],
+          "source_text": "ὀρθοῦντες αὐτὸ καὶ εἰς ὕψος αἴροντες καὶ γαῦρον ἀποδεικνύντες,",
+          "ko_text": "그것들은 몸을 세우고 높이 들어 올려 당당하게 만든다."
+        },
+        {
+          "id": "a-49b94f5b1e709d9d8635",
+          "source_range": [
+            114,
+            179
+          ],
+          "ko_range": [
+            56,
+            87
+          ],
+          "source_text": "ὡς τἀναντία, ἀτιμία, ἀδοξία, πενία, πολεμίων τρόπον καταράττουσι.",
+          "ko_text": "반면 불명예와 나쁜 평판과 가난은 적처럼 몸을 내리친다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "conf:18",
+      "html_path": "works/conf/index.html#p-18",
+      "fixed_html_path": "releases/public-0.35/works/conf/index.html#p-18",
+      "alignment_revision": "sha256:e41206f55ae9c344d35b2c204f016edbad3ed26952fcabd0a886a6366c330bc3",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:6196baf5ef1c1f90ee1b35aab3d0f333d7e454057b786a3929f922caa9aefc27",
+          "translation_revision": "sha256:71b7fabc460b7654b884f19e972a615f63f2ea81686a336f8d8d439fe98fac5e",
+          "alignment_revision": "sha256:e41206f55ae9c344d35b2c204f016edbad3ed26952fcabd0a886a6366c330bc3"
+        },
+        "scoped_ai_review": {
+          "id": "conf-addition-20261003",
+          "scope": "언어의 혼란에 관하여 1-20절 전체, 21-198절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:6196baf5ef1c1f90ee1b35aab3d0f333d7e454057b786a3929f922caa9aefc27",
+            "translation_revision": "sha256:71b7fabc460b7654b884f19e972a615f63f2ea81686a336f8d8d439fe98fac5e",
+            "alignment_revision": "sha256:e41206f55ae9c344d35b2c204f016edbad3ed26952fcabd0a886a6366c330bc3"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg013/tlg0018.tlg013.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0으로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "언어의 혼란에 관하여",
+        "reference": "18",
+        "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
+        "release": "public-0.35",
+        "translation_revision": "sha256:71b7fabc460b7654b884f19e972a615f63f2ea81686a336f8d8d439fe98fac5e",
+        "fixed_path": "releases/public-0.35/works/conf/index.html#p-18"
+      }
+    },
+    {
+      "ref": "19",
+      "section": 19,
+      "original": "πάλιν τε δορυφόροι ψυχῆς ἀκοαὶ καὶ ὄψεις ὄσφρησίς τε καὶ γεῦσις καὶ ξύμπαν τὸ αἰσθήσεως στῖφος, ἔτι μέντοι ὑγίεια καὶ ἰσχὺς δύναμίς τε καὶ ῥώμη· τούτοις γὰρ ὥσπερ ἑστῶσι καὶ κραταιῶς ἐρηρεισμένοις εὐερκέσιν οἴκοις ὁ νοῦς ἐμπεριπατῶν καὶ ⟨ἐν⟩διαιτώμενος ἀγάλλεται πρὸς μηδενὸς ταῖς ἰδίαις ὁρμαῖς χρῆσθαι κωλυόμενος, ἀλλ’ εὐμαρεῖς καὶ λεωφόρους ἀναπεπταμένας ἔχων τὰς διὰ πάντων ὁδούς.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:15a437d4cd16cdaf537bf125362ad2b3647a4621ca9be4b1d265c412301efba2",
+      "source_file_sha256": "6bbfe84cda489b9bc387a6a85f4dec931c5d143e65b8259843adb881dacc0f61",
+      "source_locator": {
+        "filename": "tlg0018.tlg013.1st1K-grc1.xml",
+        "reference": "19"
+      },
+      "korean": "영혼의 호위병은 청각과 시각, 후각과 미각과 온 감각의 무리이다. 건강과 힘, 능력과 강건함도 그러하다. 지성은 단단히 서서 견고한 기초를 지닌 안전한 집들처럼 이것들 안을 거닐며, 그 ⟨안에서⟩ 살며 기뻐한다. 자신의 충동을 따르는 데 아무 방해도 받지 않으며, 모든 것을 통과하는 길들이 편하고 넓게 열려 있기 때문이다.",
+      "translation_revision": "sha256:ea9696dd0b75fc6cf15c5676eaad5daf9484d208b90c4b8045bda6feb5f0a42f",
+      "groups": [
+        {
+          "id": "a-15081befde1394c94ceb",
+          "source_range": [
+            0,
+            95
+          ],
+          "ko_range": [
+            0,
+            36
+          ],
+          "source_text": "πάλιν τε δορυφόροι ψυχῆς ἀκοαὶ καὶ ὄψεις ὄσφρησίς τε καὶ γεῦσις καὶ ξύμπαν τὸ αἰσθήσεως στῖφος,",
+          "ko_text": "영혼의 호위병은 청각과 시각, 후각과 미각과 온 감각의 무리이다."
+        },
+        {
+          "id": "a-37d67d9c4c12bcbc1873",
+          "source_range": [
+            96,
+            144
+          ],
+          "ko_range": [
+            37,
+            58
+          ],
+          "source_text": "ἔτι μέντοι ὑγίεια καὶ ἰσχὺς δύναμίς τε καὶ ῥώμη·",
+          "ko_text": "건강과 힘, 능력과 강건함도 그러하다."
+        },
+        {
+          "id": "a-f8b6eb2434482a03eccd",
+          "source_range": [
+            145,
+            262
+          ],
+          "ko_range": [
+            59,
+            118
+          ],
+          "source_text": "τούτοις γὰρ ὥσπερ ἑστῶσι καὶ κραταιῶς ἐρηρεισμένοις εὐερκέσιν οἴκοις ὁ νοῦς ἐμπεριπατῶν καὶ ⟨ἐν⟩διαιτώμενος ἀγάλλεται",
+          "ko_text": "지성은 단단히 서서 견고한 기초를 지닌 안전한 집들처럼 이것들 안을 거닐며, 그 ⟨안에서⟩ 살며 기뻐한다."
+        },
+        {
+          "id": "a-cda920a193c42b635b76",
+          "source_range": [
+            263,
+            314
+          ],
+          "ko_range": [
+            119,
+            147
+          ],
+          "source_text": "πρὸς μηδενὸς ταῖς ἰδίαις ὁρμαῖς χρῆσθαι κωλυόμενος,",
+          "ko_text": "자신의 충동을 따르는 데 아무 방해도 받지 않으며,"
+        },
+        {
+          "id": "a-cfaaf2456550db2e6e82",
+          "source_range": [
+            315,
+            383
+          ],
+          "ko_range": [
+            148,
+            181
+          ],
+          "source_text": "ἀλλ’ εὐμαρεῖς καὶ λεωφόρους ἀναπεπταμένας ἔχων τὰς διὰ πάντων ὁδούς.",
+          "ko_text": "모든 것을 통과하는 길들이 편하고 넓게 열려 있기 때문이다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "conf:19",
+      "html_path": "works/conf/index.html#p-19",
+      "fixed_html_path": "releases/public-0.35/works/conf/index.html#p-19",
+      "alignment_revision": "sha256:e24ae0dd5da86e1a56ab2987e41e17a85b7fa6a72862da9597ad1264eeaf678d",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:15a437d4cd16cdaf537bf125362ad2b3647a4621ca9be4b1d265c412301efba2",
+          "translation_revision": "sha256:ea9696dd0b75fc6cf15c5676eaad5daf9484d208b90c4b8045bda6feb5f0a42f",
+          "alignment_revision": "sha256:e24ae0dd5da86e1a56ab2987e41e17a85b7fa6a72862da9597ad1264eeaf678d"
+        },
+        "scoped_ai_review": {
+          "id": "conf-addition-20261003",
+          "scope": "언어의 혼란에 관하여 1-20절 전체, 21-198절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:15a437d4cd16cdaf537bf125362ad2b3647a4621ca9be4b1d265c412301efba2",
+            "translation_revision": "sha256:ea9696dd0b75fc6cf15c5676eaad5daf9484d208b90c4b8045bda6feb5f0a42f",
+            "alignment_revision": "sha256:e24ae0dd5da86e1a56ab2987e41e17a85b7fa6a72862da9597ad1264eeaf678d"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg013/tlg0018.tlg013.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0으로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "언어의 혼란에 관하여",
+        "reference": "19",
+        "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
+        "release": "public-0.35",
+        "translation_revision": "sha256:ea9696dd0b75fc6cf15c5676eaad5daf9484d208b90c4b8045bda6feb5f0a42f",
+        "fixed_path": "releases/public-0.35/works/conf/index.html#p-19"
+      }
+    },
+    {
+      "ref": "20",
+      "section": 20,
+      "original": "τὰ δὲ τοῖς δορυφόροις τούτοις ἐχθρὰ ἀντικάθηται, πήρωσις αἰσθητηρίων καὶ νόσος, ὡς ἔφην, οἷς ἡ διάνοια συγκατακρημνισθῆναι πολλάκις ἐμέλλησε. καὶ τὰ μὲν τυχηρὰ ταῦτα ἀργαλέα σφόδρα καὶ σχέτλια ἐξ ἑαυτῶν, πρὸς δὲ τὴν ⟨τῶν⟩ ἐκ προνοίας σύγκρισιν κουφότερα πολλῷ.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:77bc0c0125b9f73a825bef33372a3a0ac3841bb2418ce81c835b83471cd399f2",
+      "source_file_sha256": "6bbfe84cda489b9bc387a6a85f4dec931c5d143e65b8259843adb881dacc0f61",
+      "source_locator": {
+        "filename": "tlg0018.tlg013.1st1K-grc1.xml",
+        "reference": "20"
+      },
+      "korean": "이 호위병들의 반대편에는 적대적인 것들, 말했듯이 감각 기관의 손상과 질병이 자리한다. 생각도 종종 그것들과 함께 무너질 위험에 놓인다. 이런 우연한 불행들은 그 자체로 매우 괴롭고 참혹하다. 그러나 고의로 저지르는 ⟨악들과⟩ 비교하면 훨씬 가볍다.",
+      "translation_revision": "sha256:2faee5ee34d72180196f4e6fd80b54e9aa27854f8c5ecd4874e744e043ccdd3a",
+      "groups": [
+        {
+          "id": "a-89d9b17e31fed172920c",
+          "source_range": [
+            0,
+            88
+          ],
+          "ko_range": [
+            0,
+            48
+          ],
+          "source_text": "τὰ δὲ τοῖς δορυφόροις τούτοις ἐχθρὰ ἀντικάθηται, πήρωσις αἰσθητηρίων καὶ νόσος, ὡς ἔφην,",
+          "ko_text": "이 호위병들의 반대편에는 적대적인 것들, 말했듯이 감각 기관의 손상과 질병이 자리한다."
+        },
+        {
+          "id": "a-5dc55e6d7286550fe108",
+          "source_range": [
+            89,
+            141
+          ],
+          "ko_range": [
+            49,
+            76
+          ],
+          "source_text": "οἷς ἡ διάνοια συγκατακρημνισθῆναι πολλάκις ἐμέλλησε.",
+          "ko_text": "생각도 종종 그것들과 함께 무너질 위험에 놓인다."
+        },
+        {
+          "id": "a-f53d1479c2b9c0673f2a",
+          "source_range": [
+            142,
+            203
+          ],
+          "ko_range": [
+            77,
+            107
+          ],
+          "source_text": "καὶ τὰ μὲν τυχηρὰ ταῦτα ἀργαλέα σφόδρα καὶ σχέτλια ἐξ ἑαυτῶν,",
+          "ko_text": "이런 우연한 불행들은 그 자체로 매우 괴롭고 참혹하다."
+        },
+        {
+          "id": "a-85fe320d0467eb36c295",
+          "source_range": [
+            204,
+            260
+          ],
+          "ko_range": [
+            108,
+            139
+          ],
+          "source_text": "πρὸς δὲ τὴν ⟨τῶν⟩ ἐκ προνοίας σύγκρισιν κουφότερα πολλῷ.",
+          "ko_text": "그러나 고의로 저지르는 ⟨악들과⟩ 비교하면 훨씬 가볍다."
+        }
+      ],
+      "notes": [
+        "몸과 영혼과 외적 조건에서 닥치는 불행을 고의로 저지르는 악과 구분한다. 앞의 호위병 비유는 몸과 영혼을 지탱하는 조건들이 무너지는 모습을 설명한다."
+      ],
+      "work_passage_id": "conf:20",
+      "html_path": "works/conf/index.html#p-20",
+      "fixed_html_path": "releases/public-0.35/works/conf/index.html#p-20",
+      "alignment_revision": "sha256:3a8efaee96b851b4c099f2845eab5b5f612d2aedc06ebea30fa462ef73c574ae",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:77bc0c0125b9f73a825bef33372a3a0ac3841bb2418ce81c835b83471cd399f2",
+          "translation_revision": "sha256:2faee5ee34d72180196f4e6fd80b54e9aa27854f8c5ecd4874e744e043ccdd3a",
+          "alignment_revision": "sha256:3a8efaee96b851b4c099f2845eab5b5f612d2aedc06ebea30fa462ef73c574ae"
+        },
+        "scoped_ai_review": {
+          "id": "conf-addition-20261003",
+          "scope": "언어의 혼란에 관하여 1-20절 전체, 21-198절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:77bc0c0125b9f73a825bef33372a3a0ac3841bb2418ce81c835b83471cd399f2",
+            "translation_revision": "sha256:2faee5ee34d72180196f4e6fd80b54e9aa27854f8c5ecd4874e744e043ccdd3a",
+            "alignment_revision": "sha256:3a8efaee96b851b4c099f2845eab5b5f612d2aedc06ebea30fa462ef73c574ae"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg013/tlg0018.tlg013.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0으로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "언어의 혼란에 관하여",
+        "reference": "20",
+        "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
+        "release": "public-0.35",
+        "translation_revision": "sha256:2faee5ee34d72180196f4e6fd80b54e9aa27854f8c5ecd4874e744e043ccdd3a",
+        "fixed_path": "releases/public-0.35/works/conf/index.html#p-20"
+      }
+    }
+  ],
+  "related": [],
+  "aliases": [
+    "언어의 혼란에 관하여",
+    "Conf.",
+    "De confusione linguarum"
+  ],
+  "translationLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "sourceCommit": "03776b39f4047c5cff06f5296fae4b2bae4b08fb",
+  "licenseEvidence": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg013/tlg0018.tlg013.1st1K-grc1.xml",
+  "openAccessFullTextUrl": "https://archive.org/download/philonisalexandr0103philuoft/philonisalexandr0103philuoft.pdf",
+  "original_title": "De confusione linguarum",
+  "display_title": "언어의 혼란에 관하여",
+  "reference_scheme": "section",
+  "coverage_label": "1-20절 수록",
+  "edition_id": "conf-first1k-03776b39",
+  "source_file_sha256": "6bbfe84cda489b9bc387a6a85f4dec931c5d143e65b8259843adb881dacc0f61",
+  "display_author": "필론",
+  "scope": "언어의 혼란에 관하여 1-20절 전체, 21-198절 미수록",
+  "coverage": "complete_scope",
+  "release_id": "public-0.35",
+  "source_language": "grc",
+  "source_kind": "edited_ancient_original",
+  "human_reviewed": false,
+  "translation_method": "고정 원어 본문에서 직접 번역",
+  "html_path": "works/conf/index.html",
+  "json_path": "data/works/conf.json",
+  "fixed_html_path": "releases/public-0.35/works/conf/index.html",
+  "source_profile": "conf-first1k-03776b39",
+  "source_decisions": [
+    {
+      "kind": "display_punctuation",
+      "action": "Curly quotation marks, ASCII hyphens, NFC and regular spaces; downloaded XML unchanged."
+    },
+    {
+      "ref": "1",
+      "kind": "note",
+      "action": "separated_from_body",
+      "text": "p. 404 M."
+    },
+    {
+      "ref": "1",
+      "kind": "inline_editor_reference",
+      "action": "separated_from_body",
+      "text": "(Gen. 11, 1-9)"
+    },
+    {
+      "ref": "2",
+      "kind": "note",
+      "action": "separated_from_body",
+      "text": "περὶ συγχύσεως διαλέκτων GFH: τοῦ αὐτοῦ περὶ συγχύσεως διαλέκτων P 2 φιλοσοφεῖ GFL2: φιλοσοφοῦσι HPL1 3 πᾶσιν 8 καὶ G 5 Σεναὰρ] σάαρ L 7 ἡ] εἰς F ἡ ἄσφαλτος et πηλὸς (om. ὁ) ex § 103 conicio 8 πόλιν καὶ om. P 9 ἑαυτῶν FHP : ἑαυτῶ G, ἑαυτοῖς v 13 ἐκλείψοι P ἐξ GF: ἀπ’ HP ἐπίθωνται P, ἐπείθωνται Η 14 αὐτῶν ἐκεῖ P1 15. 16 προσώπου G 17 αὐτοῦ G: αὐτοῖς F, αὐτῆς HP 20 ἀεὶ G"
+    },
+    {
+      "ref": "5",
+      "kind": "note",
+      "action": "separated_from_body",
+      "text": "1 αὑτῶν V 3 λεγόμενοι G ἡμῖν F 5 ἐπαρμένους F ὁ ἀλλὰ (vel ἀλλ ἢ) μόνον coni. Mang. μόνων HP χερσὶ] χρήσει F 8 Ἀλωειδῶν scripsi: ἀλλοειδῶν G1F, Ἀλλευαδῶν G2, Ἀλωαδῶν Η, Ἁλωαδῶν P 13 ὁμλύμπω (sic) H, Ὀλύμπω P ἀτὰρ HP (in P post ἁ ras.) 14 εἰνοσίφυλον H 16 κατασκευαζομένων G 17 μεγαλαυχίας scripsi (idem coni. Cohn): μεγαλουργίας codd. πῶς γὰρ οὐ Mang.: πᾶσα γὰρ οὑν codd. 21 ζητικοὺς G"
+    },
+    {
+      "ref": "5",
+      "kind": "note",
+      "action": "separated_from_body",
+      "text": "7 Origenes Contra Celsum IV 21 p. 515: ἐπεὶ δ’ ὀίεται Μωυσέα τὸν ἀναγράψαντα τὰ περὶ τοῦ πύργου καὶ τῆς τῶν διαλέκτων συγχύσεως παραφθείραντα τὰ περὶ τῶν Ἀλωαδῶν ἱστορούμενα τοιαῦτα περὶ τοῦ πύργου ἀναγεγραφέναι, λεκτέον . . . . ., Cyrillus Contra Julianum p. 134 sqq. (Juliani imperaloris librorum contra Chrislianos guae supersunt coll. C. J. Neumann p. 181 sqq.), cf. potissimum: ὁ μέν γὰρ Μωυσῆς αἰτίαν ἀποδέδωκε κομιδῇ μυθώδη τῆς περὶ τὰς διαλέκτους ἀνομοιότητος . . . . . εἶτα τούτοις ἀξιοῦτε πιστεύειν ἡμᾶς, ἀπιστεῖτε δέ ὑμεῖς τοῖς ὑφ’ Ομήρου λεγομένοις ὑπὲρ τῶν Ἀλωαδῶν, ὡς ἄρα τρία ἐπ’ ἀλλήλοις ὄρη θεῖναι διενοοῦντο, ἵν’ οὐρανὸς ἀμβατὸς εἴη”. φημὶ μὲν γὰρ ἐγὼ καὶ τοῦτο εἶναι πάρα· πλησίως ἐκείνῳ μυθῶδες. ὑμεῖς δὲ ἀποδεχόμενοι τὸ πρότερον ἀνθ’ ὅτου πρὸς θεῶν ἁ· δοκιμάζετε τὸν Ὁμήρου μῦθον; ἐκεῖνο γὰρ οἶμαι δεῖν σιωπᾶν πρὸς ἄνδρας ἀμαθεῖς, ὅτι . . . . πύργον οἰκοδομεῖν οὐ δυνήσονται πρός τὸν οὐρανὸν ἀφικνούμενον, κὰν ἐκπλινθεύσωσι τὴν γῆν πᾶσαν . . . . . . 13. 14 Hom. λ 315. 316."
+    },
+    {
+      "ref": "10",
+      "kind": "note",
+      "action": "separated_from_body",
+      "text": "1 ἑπρος codd.: ἕτερον V τις συγγενὴς G: τι συγγενὲς HP, τι F (om. συγγενὲς) τού.τω HP: Tto (_tF “2 συμφωνίας HP 5 βάρβαροι νῦν οἱ GF: νῦν βάρβαοͅοι HP 6 Ti fort. del. 7 συνάχθεσθαι Tiirn. : συνέχεσθαι codd. ε]ι ἡ G ἀπαντῴη FP: ὰπὐτων eI G, ἁπάντων H 9 καὶ] ἢ F κἀκ GF: καὶΗP τούτων y τό om. F 1’2 γέρως I^tF ἀεὶ G 13 νεότητα Η 16 ληφθῆναι GF 17 ἐγένετο Vat. 379: ἐγίνετο ceteri 19 δὲ HP ’-20.21 ἀνθρωπίνοις Ε 21 γέ GF: τε. HP, om. V 22 τήν scripsi: τῆς codd. 24-26 ἀλλὰ-ἐγχειρῶσι om. F 2.5 αλλλοι sechisi (vel ἄλλοι ἄλλοις scrib.) ἀλλήλους G μὴ solum supplet Maug. 29 φωναὶ] ὁμοφωνίαι coui. Mang. ὁμοιότροποι coni. Mang."
+    },
+    {
+      "ref": "14",
+      "kind": "add",
+      "action": "preserved_with_editorial_brackets",
+      "text": "ταμιευόμενοι"
+    },
+    {
+      "ref": "16",
+      "kind": "note",
+      "action": "separated_from_body",
+      "text": "1 οἱ G: om. FIIP νεύσεσι G 3 θέλωσιν liP 3 ὥσπερ F ὁ πλημλεῖν GP εὐπορία II P 7 προιδόμενοι scripsi: ποͅοειδόμενοι codd. προκατελείφθησὰν P [) ταῖς διαλέκτοις UP 10 (τὴν) τῶν conicio . 12. 13 εὐδοκίμους F 13 φίλος HP 15 πεπορεῖσθαι F, πεπόρισται (τ̓ IG κακὸν GF 17 συντεθέντας FII 19 ταμιευόμενοι addidi 20 ἀληθείας liP 22 γίνωνται L: γίνονται H,γένοιντο GFP 24 τε καὶ πόλεις L 2G σκεπτώμεθα ν 27 μάλιστ’ U 28 ἕαῃ scripsi: σχοίη codd. 2!l πενίᾳ καὶ ἀδοξία παρώσεσι II, πηρώσε (sic) F 30 συναχθῶσι G, συνεχθῶσι F"
+    },
+    {
+      "ref": "19",
+      "kind": "add",
+      "action": "preserved_with_editorial_brackets",
+      "text": "ἐν"
+    },
+    {
+      "ref": "20",
+      "kind": "add",
+      "action": "preserved_with_editorial_brackets",
+      "text": "τῶν"
+    }
+  ],
+  "source_collations": [],
+  "validation_records": [
+    {
+      "id": "conf-addition-20261003",
+      "scope": "언어의 혼란에 관하여 1-20절 전체, 21-198절 미수록",
+      "date": "2026-10-03",
+      "reviewer_type": "AI",
+      "human_reviewed": false,
+      "reading_record_count": 20,
+      "meaning_groups": 99,
+      "methods": [
+        "선정한 그리스어 20개 대목을 읽고 한국어와 의미 대응을 작성했다.",
+        "해당 인쇄면과 편집 표기를 대조하고 문장 연결, 화자와 결락을 확인했다."
+      ],
+      "sources": [
+        {
+          "work": "conf",
+          "title": "언어의 혼란에 관하여",
+          "url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg013/tlg0018.tlg013.1st1K-grc1.xml",
+          "verified": "2026-10-03",
+          "http_status": 200,
+          "bytes": 211957,
+          "sha256": "6bbfe84cda489b9bc387a6a85f4dec931c5d143e65b8259843adb881dacc0f61",
+          "full_text": true,
+          "commit": "03776b39f4047c5cff06f5296fae4b2bae4b08fb",
+          "license": "CC BY-SA 4.0",
+          "license_evidence": "TEI publicationStmt/availability/licence",
+          "open_access_full_text_url": "https://archive.org/download/philonisalexandr0103philuoft/philonisalexandr0103philuoft.pdf",
+          "pdf_access_record": "pdf-access.json",
+          "printed_volume": 2,
+          "bibliographic_status": "confirmed",
+          "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
+          "pdf_pages_read": [
+            695,
+            696,
+            697,
+            698,
+            699
+          ],
+          "pdf_title_pages_read": [
+            9,
+            429
+          ],
+          "access_evidence": "공개 그리스어 XML과 대학도서관 인쇄본 PDF 전체를 인증 없이 내려받음",
+          "printed_collation_record": "printed-collation.json"
+        }
+      ],
+      "passages": [
+        {
+          "ref": "1",
+          "targets": {
+            "source_revision": "sha256:c46b3196894da19b6a277c30d0ef9d4355241ee5ec5c632240ca1093f103fb0a",
+            "translation_revision": "sha256:ab1392d632570612ae44a4b6c8ce89349a4bea57fef216f5e4335c6163a1d2d7",
+            "alignment_revision": "sha256:61cc65ed17806024b6f4262560a2a87379109d76fd8123abe9a66ccc0c9e3cb5"
+          }
+        },
+        {
+          "ref": "2",
+          "targets": {
+            "source_revision": "sha256:f6a7e2e7fae3ae7838c7a513aed30b623d1381378ba35d8a17eaa554e2ee9acf",
+            "translation_revision": "sha256:70b215e5baf9cc67006a515d2d71e76ad1c6d546fa417bb70323a1ba1ea21bfa",
+            "alignment_revision": "sha256:78c12d181a529a50bf6b5edb8d7ec21816fd5da60530547d124293801ac48aa0"
+          }
+        },
+        {
+          "ref": "3",
+          "targets": {
+            "source_revision": "sha256:09605a33cb062d828cbeb52a3fcea66c3eb5c9fb90c6b0315386ca96d7eddc26",
+            "translation_revision": "sha256:2f5940c16cab7c86f0c97b17284caecb0c844aa6ce6957826cec2b915d861343",
+            "alignment_revision": "sha256:5145358a01e6c7d585d9e5a6c0006530c2df8754d25347ddf218d099f4ce8ac0"
+          }
+        },
+        {
+          "ref": "4",
+          "targets": {
+            "source_revision": "sha256:972a4a702e52f9e8d940fec647e655f0dcef7d970f25e5b9eff5de08d7997df1",
+            "translation_revision": "sha256:2438b80cfdc4bc73f8354e61273ba0f7a6c1982922c15c95537bc2f12f02e7f7",
+            "alignment_revision": "sha256:7169e2504072161e13dfa2e8874090d553b3335f59354c667671af33eace11c9"
+          }
+        },
+        {
+          "ref": "5",
+          "targets": {
+            "source_revision": "sha256:13f0a5c4182594f5189ae77fcd0b34ac191bbab91f5b3069f1527c8724707db0",
+            "translation_revision": "sha256:d2d2f6c1f79fb9264d05cf4c6f99d696ad855766127f0fb821eba7ad2bb5a027",
+            "alignment_revision": "sha256:49332c4f51adec57df69df3e0eb01929c8b723fa5b6dd3a9277872dfbaa5ca5d"
+          }
+        },
+        {
+          "ref": "6",
+          "targets": {
+            "source_revision": "sha256:e4720ff91abf94269873c4314e652791a47f63263bc936a02c04cc1cf463eecc",
+            "translation_revision": "sha256:e238ba25f6aa015cfc55cd31ec146f226b6de3fb0e0e2ec7ccd956b8a26067b3",
+            "alignment_revision": "sha256:4c4b4193a7d18abf73f7c9d632e4d77f41617d36c9747737c08c191150e219f2"
+          }
+        },
+        {
+          "ref": "7",
+          "targets": {
+            "source_revision": "sha256:3bba06b679b0086b4ae1d8971df6c26967c79c48e26fbaf408924096afb3dc9e",
+            "translation_revision": "sha256:5a81546c2d1b5f2179bdff1e0c55b0109a5bb7284be340548363d8c3b6094027",
+            "alignment_revision": "sha256:5d535a84f695d99ebb3e045a0a24ffecc4e24572a15aa97866e72b8fd19c35cc"
+          }
+        },
+        {
+          "ref": "8",
+          "targets": {
+            "source_revision": "sha256:c821c6dbd343f8abbd6172c93df9cbdd4223a5da8c4ef2228b70326cd46741a9",
+            "translation_revision": "sha256:44ea85a2998d527c5a839bf0c1a393e3885baaec8b578881acf0df3adce58ed3",
+            "alignment_revision": "sha256:8de8261015322f593e0851dbb76685e97c62b927bf5f5893a437ca3a517a0454"
+          }
+        },
+        {
+          "ref": "9",
+          "targets": {
+            "source_revision": "sha256:2254f528597177904543366c090f76dd22f6abd2ebd8220a259b8fd835ef174a",
+            "translation_revision": "sha256:0c21905cf47271dbb5737f72a5989fc6db658e50b12b82c93b69c6a6cae9acca",
+            "alignment_revision": "sha256:6b6685d65774fc25d6a251185bf25d511122b2d86919369adecdbe1db2f06e40"
+          }
+        },
+        {
+          "ref": "10",
+          "targets": {
+            "source_revision": "sha256:a72e897621cea7363c55242f9fc0505cb6c8abe95f63378ee15d536c8845bf19",
+            "translation_revision": "sha256:e835a686a0672deb0bddcf3df0e49eab4f64f6df6d42699134cff72a82db2ab8",
+            "alignment_revision": "sha256:a9866d684996f7939616907cd53d2df08d858cc032966dcfb3780680ec39038a"
+          }
+        },
+        {
+          "ref": "11",
+          "targets": {
+            "source_revision": "sha256:4eb556e83342cd81121af4d5bcab813327e843fa3604b0761929ddc5d58a7901",
+            "translation_revision": "sha256:9fb60280862e4e7f1a2c921421c2a09da4dc97769349aa3dd2a1e66603b3f5c8",
+            "alignment_revision": "sha256:e8e444fab223d2fd92124e3c8b9251be4bc22c568811e8ecfbdd6a2592608bc7"
+          }
+        },
+        {
+          "ref": "12",
+          "targets": {
+            "source_revision": "sha256:08cb31b1432d135865cefbd6ff309cf3ae960b719692eb95897da71718317190",
+            "translation_revision": "sha256:e1885d64e62ddceb5d22d0846c678ed6d75039f2e8fdb503cba5f77ec3754095",
+            "alignment_revision": "sha256:89122c90686fda1dc7c896cecf17366eb1044b6d8cb1e1b895718fbc77b70fb4"
+          }
+        },
+        {
+          "ref": "13",
+          "targets": {
+            "source_revision": "sha256:a7bc7723843818a4d60a64b605d511aeb186610b2499954d9b13ae504a054d9c",
+            "translation_revision": "sha256:6686d48f02d2b35cf37c2de407eebe02a5af1632fbb129177e5a011dc07d62cc",
+            "alignment_revision": "sha256:dde7e892ad23c9bac8cb7af4966002009c0f08cc401977290f680e70f217c82f"
+          }
+        },
+        {
+          "ref": "14",
+          "targets": {
+            "source_revision": "sha256:6e4a749c671a85fa50be4126011531cec54fba5ebc8b2f225e74f9e9ef13a6d3",
+            "translation_revision": "sha256:497c512bd29f9cecb5e8db939f3f2cb8afeefcff327f7ec8364f02bd96f3dd7d",
+            "alignment_revision": "sha256:3f450689dc293379f7e1c8e7cdc6cf2ac67c45349439269235ee74f872c4556b"
+          }
+        },
+        {
+          "ref": "15",
+          "targets": {
+            "source_revision": "sha256:1135237849df8997dec6e6bcb661dc56a24f59574eb65b4cf034254d91794b5d",
+            "translation_revision": "sha256:eac5f8e0e2db62822c74b2433a847f6946c81d1a933cc4b29374808195b3ff14",
+            "alignment_revision": "sha256:c04b1590219349efe66f6a70e45f92c28cb96e1c16a4f5bf9645d67b997a1189"
+          }
+        },
+        {
+          "ref": "16",
+          "targets": {
+            "source_revision": "sha256:c3be3bfd76bc4ce99076d0eff87a661284330caca6147ff86e60b22582d4a75e",
+            "translation_revision": "sha256:7e2ebc0e579c0e55e5cc896ead4f7ff208e3d2960b65308276bae980fb9d7f0c",
+            "alignment_revision": "sha256:55019f0621083e8436a2052d3a4d7e7c4f1201b9efcdb5632269bffd9418b565"
+          }
+        },
+        {
+          "ref": "17",
+          "targets": {
+            "source_revision": "sha256:785cbafbac5de31ebab047adb6e4e87fcc7624d504e38b8d6f18ffd1d95f089d",
+            "translation_revision": "sha256:e8393e47bc69e10fb47a58af3972050ef415717277780b8e49b2ae728308ed0c",
+            "alignment_revision": "sha256:785b0a9c7068c0ee80c43522e9100b9f3e2abd1b5da518cc673d68ab71d51419"
+          }
+        },
+        {
+          "ref": "18",
+          "targets": {
+            "source_revision": "sha256:6196baf5ef1c1f90ee1b35aab3d0f333d7e454057b786a3929f922caa9aefc27",
+            "translation_revision": "sha256:71b7fabc460b7654b884f19e972a615f63f2ea81686a336f8d8d439fe98fac5e",
+            "alignment_revision": "sha256:e41206f55ae9c344d35b2c204f016edbad3ed26952fcabd0a886a6366c330bc3"
+          }
+        },
+        {
+          "ref": "19",
+          "targets": {
+            "source_revision": "sha256:15a437d4cd16cdaf537bf125362ad2b3647a4621ca9be4b1d265c412301efba2",
+            "translation_revision": "sha256:ea9696dd0b75fc6cf15c5676eaad5daf9484d208b90c4b8045bda6feb5f0a42f",
+            "alignment_revision": "sha256:e24ae0dd5da86e1a56ab2987e41e17a85b7fa6a72862da9597ad1264eeaf678d"
+          }
+        },
+        {
+          "ref": "20",
+          "targets": {
+            "source_revision": "sha256:77bc0c0125b9f73a825bef33372a3a0ac3841bb2418ce81c835b83471cd399f2",
+            "translation_revision": "sha256:2faee5ee34d72180196f4e6fd80b54e9aa27854f8c5ecd4874e744e043ccdd3a",
+            "alignment_revision": "sha256:3a8efaee96b851b4c099f2845eab5b5f612d2aedc06ebea30fa462ef73c574ae"
+          }
+        }
+      ]
+    }
+  ],
+  "publication_status": "public_review_edition"
+}

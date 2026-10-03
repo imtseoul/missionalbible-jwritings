@@ -1,0 +1,2720 @@
+{
+  "id": "gig",
+  "title": "거인들에 관하여",
+  "author": "필론",
+  "abbreviation": "Gig.",
+  "corpus": "jewish",
+  "language": "grc",
+  "genre": "철학적 성경 해석",
+  "period": "고대",
+  "region": "알렉산드리아",
+  "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
+  "summary": "창세기 6장의 천사와 사람의 딸들을 영혼과 쾌락으로 읽고, 하나님의 영이 머무는 일을 설명하는 논증입니다.",
+  "topics": [
+    "거인",
+    "천사",
+    "영혼",
+    "육체"
+  ],
+  "notes": [],
+  "sourceUrl": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg007/tlg0018.tlg007.1st1K-grc1.xml",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "sourceCredit": "전자 전사와 부호화: University of Leipzig, First1KGreek, Digital Divide Data. 원판 편집: Paul Wendland.",
+  "verified": "2026-10-03",
+  "translationCredit": "Codex 작성, 원어 직접 번역 초안",
+  "reviewer": "학술 검토 전",
+  "translationLicense": "CC BY-SA 4.0",
+  "rightsNotice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0으로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요.",
+  "passages": [
+    {
+      "ref": "1",
+      "section": 1,
+      "original": "“Καὶ δὴ ἐγένετο, ἡνίκα ἤρξαντο οἱ ἄνθρωποι πολλοὶ γίνεσθαι ἐπὶ τῆς γῆς, καὶ θυγατέρες ἐγεννήθησαν αὐτοῖς”. ἄξιον οἶμαι διαπορῆσαι, διὰ τί μετὰ τὴν Νῶε καὶ τῶν υἱῶν αὐτοῦ γένεσιν εἰς πολυανθρωπίαν ἐπιδίδωσιν ἡμῶν τὸ γένος. ἀλλ’ ἴσως οὐ χαλεπὸν ἀποδοῦναι τὴν αἰτίαν· ἀεὶ γὰρ ἐπειδὰν τὸ σπάνιον φανῇ, πάμπολυ τὸ ἐναντίον εὑρίσκεται.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:1abe4cab306b6bca82c7dc837a573823e3ee6466079d21d2b00dbc07a45a647c",
+      "source_file_sha256": "6a9258755ef3424179beea5dd8f70a21ebd1734a8f61a07ed7cd0d872b1dffde",
+      "source_locator": {
+        "filename": "tlg0018.tlg007.1st1K-grc1.xml",
+        "reference": "1"
+      },
+      "korean": "“사람들이 땅 위에서 많아지기 시작했을 때, 그들에게 딸들이 태어났다.” 노아와 그 아들들의 출생 뒤에 왜 우리 인류의 수가 늘어나는지 물어볼 만하다고 생각한다. 아마 그 원인을 설명하는 것은 어렵지 않을 것이다. 언제나 드문 것이 나타나면, 그 반대되는 것은 아주 많다는 사실이 드러나기 때문이다.",
+      "translation_revision": "sha256:3efa7a30fbac407339c702e9e4d3a644acfafd2c99ff62c2700c00c56c9ffefe",
+      "groups": [
+        {
+          "id": "a-8c68b6ebd22e0ac9c155",
+          "source_range": [
+            0,
+            106
+          ],
+          "ko_range": [
+            0,
+            40
+          ],
+          "source_text": "“Καὶ δὴ ἐγένετο, ἡνίκα ἤρξαντο οἱ ἄνθρωποι πολλοὶ γίνεσθαι ἐπὶ τῆς γῆς, καὶ θυγατέρες ἐγεννήθησαν αὐτοῖς”.",
+          "ko_text": "“사람들이 땅 위에서 많아지기 시작했을 때, 그들에게 딸들이 태어났다.”"
+        },
+        {
+          "id": "a-f6bd6d129bd5775fe087",
+          "source_range": [
+            107,
+            221
+          ],
+          "ko_range": [
+            41,
+            90
+          ],
+          "source_text": "ἄξιον οἶμαι διαπορῆσαι, διὰ τί μετὰ τὴν Νῶε καὶ τῶν υἱῶν αὐτοῦ γένεσιν εἰς πολυανθρωπίαν ἐπιδίδωσιν ἡμῶν τὸ γένος.",
+          "ko_text": "노아와 그 아들들의 출생 뒤에 왜 우리 인류의 수가 늘어나는지 물어볼 만하다고 생각한다."
+        },
+        {
+          "id": "a-fefe00d3ec651d4435b3",
+          "source_range": [
+            222,
+            264
+          ],
+          "ko_range": [
+            91,
+            119
+          ],
+          "source_text": "ἀλλ’ ἴσως οὐ χαλεπὸν ἀποδοῦναι τὴν αἰτίαν·",
+          "ko_text": "아마 그 원인을 설명하는 것은 어렵지 않을 것이다."
+        },
+        {
+          "id": "a-48e019c0756fc72bb19e",
+          "source_range": [
+            265,
+            329
+          ],
+          "ko_range": [
+            120,
+            167
+          ],
+          "source_text": "ἀεὶ γὰρ ἐπειδὰν τὸ σπάνιον φανῇ, πάμπολυ τὸ ἐναντίον εὑρίσκεται.",
+          "ko_text": "언제나 드문 것이 나타나면, 그 반대되는 것은 아주 많다는 사실이 드러나기 때문이다."
+        }
+      ],
+      "notes": [
+        "노아의 출생 뒤에 인구 증가를 언급한 순서를 질문한다. 필론은 드문 의인이 나타날 때 다수의 불의가 더 선명하게 드러난다는 논증을 제시한다."
+      ],
+      "work_passage_id": "gig:1",
+      "html_path": "works/gig/index.html#p-1",
+      "fixed_html_path": "releases/public-0.35/works/gig/index.html#p-1",
+      "alignment_revision": "sha256:b944f9ea7e7b01def05c45f0361ad51911d4051eb06a4190fa33858f9a7c37d0",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:1abe4cab306b6bca82c7dc837a573823e3ee6466079d21d2b00dbc07a45a647c",
+          "translation_revision": "sha256:3efa7a30fbac407339c702e9e4d3a644acfafd2c99ff62c2700c00c56c9ffefe",
+          "alignment_revision": "sha256:b944f9ea7e7b01def05c45f0361ad51911d4051eb06a4190fa33858f9a7c37d0"
+        },
+        "scoped_ai_review": {
+          "id": "gig-addition-20261003",
+          "scope": "거인들에 관하여 1-20절 전체, 21-67절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:1abe4cab306b6bca82c7dc837a573823e3ee6466079d21d2b00dbc07a45a647c",
+            "translation_revision": "sha256:3efa7a30fbac407339c702e9e4d3a644acfafd2c99ff62c2700c00c56c9ffefe",
+            "alignment_revision": "sha256:b944f9ea7e7b01def05c45f0361ad51911d4051eb06a4190fa33858f9a7c37d0"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg007/tlg0018.tlg007.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0으로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "거인들에 관하여",
+        "reference": "1",
+        "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
+        "release": "public-0.35",
+        "translation_revision": "sha256:3efa7a30fbac407339c702e9e4d3a644acfafd2c99ff62c2700c00c56c9ffefe",
+        "fixed_path": "releases/public-0.35/works/gig/index.html#p-1"
+      }
+    },
+    {
+      "ref": "2",
+      "section": 2,
+      "original": "ἑνὸς οὖν εὐφυΐα τὴν περὶ μυρίους διαδείκνυσιν ἀφυΐαν, καὶ τὰ τεχνικὰ μέντοι καὶ ἐπιστημονικὰ καὶ ἀγαθὰ καὶ καλὰ ὄντα ὀλίγα τὴν τῶν ἀτέχνων καὶ ἀνεπιστημόνων καὶ ἀδίκων καὶ συνόλως φαύλων ἄπειρον ὅσην πληθὺν ἐπεσκιασμένην ἀποφαίνει.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:2d5397a454bb503b26307ea3ae202bd0d37ac8083ca4dee2402d378132603414",
+      "source_file_sha256": "6a9258755ef3424179beea5dd8f70a21ebd1734a8f61a07ed7cd0d872b1dffde",
+      "source_locator": {
+        "filename": "tlg0018.tlg007.1st1K-grc1.xml",
+        "reference": "2"
+      },
+      "korean": "한 사람의 좋은 자질은 수많은 사람의 부족한 자질을 드러낸다. 기술과 지식이 있고 선하고 아름다운 것들도 수가 적어서, 기술과 지식이 없고 불의하며 일반적으로 악한 것들이 얼마나 무수히 많은지, 전에는 가려져 있던 그 사실을 드러낸다.",
+      "translation_revision": "sha256:563fb1354ef7e1e461b191135823eb18be60aed996c05948ed84a1df3568ee10",
+      "groups": [
+        {
+          "id": "a-f2b89949cc40d037cf19",
+          "source_range": [
+            0,
+            53
+          ],
+          "ko_range": [
+            0,
+            34
+          ],
+          "source_text": "ἑνὸς οὖν εὐφυΐα τὴν περὶ μυρίους διαδείκνυσιν ἀφυΐαν,",
+          "ko_text": "한 사람의 좋은 자질은 수많은 사람의 부족한 자질을 드러낸다."
+        },
+        {
+          "id": "a-21626a807abff2fbb2a9",
+          "source_range": [
+            54,
+            122
+          ],
+          "ko_range": [
+            35,
+            66
+          ],
+          "source_text": "καὶ τὰ τεχνικὰ μέντοι καὶ ἐπιστημονικὰ καὶ ἀγαθὰ καὶ καλὰ ὄντα ὀλίγα",
+          "ko_text": "기술과 지식이 있고 선하고 아름다운 것들도 수가 적어서,"
+        },
+        {
+          "id": "a-449f3bb8449ce221df4c",
+          "source_range": [
+            123,
+            231
+          ],
+          "ko_range": [
+            67,
+            131
+          ],
+          "source_text": "τὴν τῶν ἀτέχνων καὶ ἀνεπιστημόνων καὶ ἀδίκων καὶ συνόλως φαύλων ἄπειρον ὅσην πληθὺν ἐπεσκιασμένην ἀποφαίνει.",
+          "ko_text": "기술과 지식이 없고 불의하며 일반적으로 악한 것들이 얼마나 무수히 많은지, 전에는 가려져 있던 그 사실을 드러낸다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "gig:2",
+      "html_path": "works/gig/index.html#p-2",
+      "fixed_html_path": "releases/public-0.35/works/gig/index.html#p-2",
+      "alignment_revision": "sha256:748fec7b1108a30630001cef549c86a741b6e39c1a01d0fd29617cdb98810809",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:2d5397a454bb503b26307ea3ae202bd0d37ac8083ca4dee2402d378132603414",
+          "translation_revision": "sha256:563fb1354ef7e1e461b191135823eb18be60aed996c05948ed84a1df3568ee10",
+          "alignment_revision": "sha256:748fec7b1108a30630001cef549c86a741b6e39c1a01d0fd29617cdb98810809"
+        },
+        "scoped_ai_review": {
+          "id": "gig-addition-20261003",
+          "scope": "거인들에 관하여 1-20절 전체, 21-67절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:2d5397a454bb503b26307ea3ae202bd0d37ac8083ca4dee2402d378132603414",
+            "translation_revision": "sha256:563fb1354ef7e1e461b191135823eb18be60aed996c05948ed84a1df3568ee10",
+            "alignment_revision": "sha256:748fec7b1108a30630001cef549c86a741b6e39c1a01d0fd29617cdb98810809"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg007/tlg0018.tlg007.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0으로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "거인들에 관하여",
+        "reference": "2",
+        "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
+        "release": "public-0.35",
+        "translation_revision": "sha256:563fb1354ef7e1e461b191135823eb18be60aed996c05948ed84a1df3568ee10",
+        "fixed_path": "releases/public-0.35/works/gig/index.html#p-2"
+      }
+    },
+    {
+      "ref": "3",
+      "section": 3,
+      "original": "οὐχ ὁρᾷς ὅτι καὶ ἐν τῷ παντὶ ἥλιος εἷς ὢν τὸ μυρίον καὶ βαθὺ σκότος κατὰ γῆν καὶ κατὰ θάλατταν κεχυμένον ἐπιλάμψας ἀνασκίδνησιν; εἰκότως οὖν καὶ ἡ τοῦ δικαίου Νῶε γένεσις καὶ τῶν υἱῶν αὐτοῦ τοὺς ἀδίκους πολλοὺς διασυνίστησι· τῷ γὰρ ἐναντίῳ τὰ ἐναντία πέφυκέ πως μάλιστα γνωρίζεσθαι.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:e3567a9078b98db579895e1e7d503b8386ef88ca15184d14332c7a0c14896b20",
+      "source_file_sha256": "6a9258755ef3424179beea5dd8f70a21ebd1734a8f61a07ed7cd0d872b1dffde",
+      "source_locator": {
+        "filename": "tlg0018.tlg007.1st1K-grc1.xml",
+        "reference": "3"
+      },
+      "korean": "온 우주에서도 하나뿐인 태양이 빛을 비추어 땅과 바다에 퍼진 광대하고 깊은 어둠을 흩어 버리는 것을 보지 못하는가? 따라서 의로운 노아와 그의 아들들의 출생이 불의한 자들이 많다는 것을 드러내는 것도 당연하다. 반대되는 것들은 그 반대편을 통해 가장 잘 알려지는 법이기 때문이다.",
+      "translation_revision": "sha256:19cb036198051b3e10328cd8a4ebac294b512ee8382b8c692080cadbbb61905b",
+      "groups": [
+        {
+          "id": "a-bca7b6136954bff000f8",
+          "source_range": [
+            0,
+            128
+          ],
+          "ko_range": [
+            0,
+            64
+          ],
+          "source_text": "οὐχ ὁρᾷς ὅτι καὶ ἐν τῷ παντὶ ἥλιος εἷς ὢν τὸ μυρίον καὶ βαθὺ σκότος κατὰ γῆν καὶ κατὰ θάλατταν κεχυμένον ἐπιλάμψας ἀνασκίδνησιν;",
+          "ko_text": "온 우주에서도 하나뿐인 태양이 빛을 비추어 땅과 바다에 퍼진 광대하고 깊은 어둠을 흩어 버리는 것을 보지 못하는가?"
+        },
+        {
+          "id": "a-8568a5a2e185a3ecf59e",
+          "source_range": [
+            129,
+            224
+          ],
+          "ko_range": [
+            65,
+            117
+          ],
+          "source_text": "εἰκότως οὖν καὶ ἡ τοῦ δικαίου Νῶε γένεσις καὶ τῶν υἱῶν αὐτοῦ τοὺς ἀδίκους πολλοὺς διασυνίστησι·",
+          "ko_text": "따라서 의로운 노아와 그의 아들들의 출생이 불의한 자들이 많다는 것을 드러내는 것도 당연하다."
+        },
+        {
+          "id": "a-51e499c9b8cfe343734e",
+          "source_range": [
+            225,
+            282
+          ],
+          "ko_range": [
+            118,
+            156
+          ],
+          "source_text": "τῷ γὰρ ἐναντίῳ τὰ ἐναντία πέφυκέ πως μάλιστα γνωρίζεσθαι.",
+          "ko_text": "반대되는 것들은 그 반대편을 통해 가장 잘 알려지는 법이기 때문이다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "gig:3",
+      "html_path": "works/gig/index.html#p-3",
+      "fixed_html_path": "releases/public-0.35/works/gig/index.html#p-3",
+      "alignment_revision": "sha256:a198c7a32cfe784ca366b44ceedf5112b53958445a4d3bf6d1ce2b478e12a6de",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:e3567a9078b98db579895e1e7d503b8386ef88ca15184d14332c7a0c14896b20",
+          "translation_revision": "sha256:19cb036198051b3e10328cd8a4ebac294b512ee8382b8c692080cadbbb61905b",
+          "alignment_revision": "sha256:a198c7a32cfe784ca366b44ceedf5112b53958445a4d3bf6d1ce2b478e12a6de"
+        },
+        "scoped_ai_review": {
+          "id": "gig-addition-20261003",
+          "scope": "거인들에 관하여 1-20절 전체, 21-67절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:e3567a9078b98db579895e1e7d503b8386ef88ca15184d14332c7a0c14896b20",
+            "translation_revision": "sha256:19cb036198051b3e10328cd8a4ebac294b512ee8382b8c692080cadbbb61905b",
+            "alignment_revision": "sha256:a198c7a32cfe784ca366b44ceedf5112b53958445a4d3bf6d1ce2b478e12a6de"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg007/tlg0018.tlg007.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0으로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "거인들에 관하여",
+        "reference": "3",
+        "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
+        "release": "public-0.35",
+        "translation_revision": "sha256:19cb036198051b3e10328cd8a4ebac294b512ee8382b8c692080cadbbb61905b",
+        "fixed_path": "releases/public-0.35/works/gig/index.html#p-3"
+      }
+    },
+    {
+      "ref": "4",
+      "section": 4,
+      "original": "ἄδικος δὲ οὐδεὶς ἄρρενα γενεὰν ἐν ψυχῇ σπείρει τὸ παράπαν, ἀλλὰ θηλυγονοῦσιν ἐκ φύσεως ἄνανδροι καὶ κατεαγότες καὶ θηλυδρίαι τὰ φρονήματα, δένδρον οὐδὲν ἀρετῆς, οὗ καλοὺς καὶ γενναίους ἐξ ἀνάγκης ἔδει τοὺς καρποὺς γενέσθαι, πάντα δὲ κακίας καὶ παθῶν, ὧν γυναικώδεις αἱ βλάσται, φυτεύσαντες·",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:cd83b336b4b12eb7d6d7c2d56aa392707f3a8ade3601e7bc3f5481b28b49767e",
+      "source_file_sha256": "6a9258755ef3424179beea5dd8f70a21ebd1734a8f61a07ed7cd0d872b1dffde",
+      "source_locator": {
+        "filename": "tlg0018.tlg007.1st1K-grc1.xml",
+        "reference": "4"
+      },
+      "encoded_page_breaks": [
+        "v.2.p.43"
+      ],
+      "korean": "불의한 사람은 아무도 영혼 안에 남자 자손의 씨를 뿌리지 않는다. 생각이 본래 용기 없고 무너져 있으며 여성적인 이들은 여자 자손을 낳는다. 그들은 필연적으로 아름답고 고귀한 열매를 맺어야 할 덕의 나무는 하나도 심지 않았고, 싹들이 여성적인 악과 감정의 나무들만 심었기 때문이다.",
+      "translation_revision": "sha256:efadf6cd0057cf991edd91083e1bc67d79375f55a6e75fe9b7a184429a5a4a55",
+      "groups": [
+        {
+          "id": "a-d2eed1daaf9c8aabe332",
+          "source_range": [
+            0,
+            58
+          ],
+          "ko_range": [
+            0,
+            36
+          ],
+          "source_text": "ἄδικος δὲ οὐδεὶς ἄρρενα γενεὰν ἐν ψυχῇ σπείρει τὸ παράπαν,",
+          "ko_text": "불의한 사람은 아무도 영혼 안에 남자 자손의 씨를 뿌리지 않는다."
+        },
+        {
+          "id": "a-ad6fae1fecb6aec468d6",
+          "source_range": [
+            59,
+            138
+          ],
+          "ko_range": [
+            37,
+            78
+          ],
+          "source_text": "ἀλλὰ θηλυγονοῦσιν ἐκ φύσεως ἄνανδροι καὶ κατεαγότες καὶ θηλυδρίαι τὰ φρονήματα,",
+          "ko_text": "생각이 본래 용기 없고 무너져 있으며 여성적인 이들은 여자 자손을 낳는다."
+        },
+        {
+          "id": "a-a917d45b22cfead17e31",
+          "source_range": [
+            139,
+            223
+          ],
+          "ko_range": [
+            79,
+            126
+          ],
+          "source_text": "δένδρον οὐδὲν ἀρετῆς, οὗ καλοὺς καὶ γενναίους ἐξ ἀνάγκης ἔδει τοὺς καρποὺς γενέσθαι,",
+          "ko_text": "그들은 필연적으로 아름답고 고귀한 열매를 맺어야 할 덕의 나무는 하나도 심지 않았고,"
+        },
+        {
+          "id": "a-0c0426566fbbac93e21a",
+          "source_range": [
+            224,
+            290
+          ],
+          "ko_range": [
+            127,
+            157
+          ],
+          "source_text": "πάντα δὲ κακίας καὶ παθῶν, ὧν γυναικώδεις αἱ βλάσται, φυτεύσαντες·",
+          "ko_text": "싹들이 여성적인 악과 감정의 나무들만 심었기 때문이다."
+        }
+      ],
+      "notes": [
+        "4-5절은 남성을 바른 이성에, 여성을 악과 감정에 연결하는 필론의 성별 알레고리를 담는다. 사람의 딸들이라는 서술을 이런 가치의 대조에 배치한다."
+      ],
+      "work_passage_id": "gig:4",
+      "html_path": "works/gig/index.html#p-4",
+      "fixed_html_path": "releases/public-0.35/works/gig/index.html#p-4",
+      "alignment_revision": "sha256:2d7d80fddb66cb7e966d8cfbfe6af1504355bf6dce346567eb05768fadaa2d6b",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:cd83b336b4b12eb7d6d7c2d56aa392707f3a8ade3601e7bc3f5481b28b49767e",
+          "translation_revision": "sha256:efadf6cd0057cf991edd91083e1bc67d79375f55a6e75fe9b7a184429a5a4a55",
+          "alignment_revision": "sha256:2d7d80fddb66cb7e966d8cfbfe6af1504355bf6dce346567eb05768fadaa2d6b"
+        },
+        "scoped_ai_review": {
+          "id": "gig-addition-20261003",
+          "scope": "거인들에 관하여 1-20절 전체, 21-67절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:cd83b336b4b12eb7d6d7c2d56aa392707f3a8ade3601e7bc3f5481b28b49767e",
+            "translation_revision": "sha256:efadf6cd0057cf991edd91083e1bc67d79375f55a6e75fe9b7a184429a5a4a55",
+            "alignment_revision": "sha256:2d7d80fddb66cb7e966d8cfbfe6af1504355bf6dce346567eb05768fadaa2d6b"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg007/tlg0018.tlg007.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0으로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "거인들에 관하여",
+        "reference": "4",
+        "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
+        "release": "public-0.35",
+        "translation_revision": "sha256:efadf6cd0057cf991edd91083e1bc67d79375f55a6e75fe9b7a184429a5a4a55",
+        "fixed_path": "releases/public-0.35/works/gig/index.html#p-4"
+      }
+    },
+    {
+      "ref": "5",
+      "section": 5,
+      "original": "οὗ χάριν θυγατέρας οἱ ἄνθρωποι οὗτοι γεννῆσαι λέγονται, υἱὸν δὲ οὐδεὶς αὐτῶν. ἐπεὶ γὰρ ὁ δίκαιος ἀρρενογονεῖ Νῶε τέλειον καὶ ὀρθὸν λόγον καὶ ἄρρενα ὄντως μετιών, θηλυτόκος ἡ κατὰ τοὺς πολλοὺς ἀδικία πάντως ἀναφαίνεται· ἀμήχανον γὰρ τὰ αὐτὰ πρὸς τῶν ἐναντίων, ἀλλὰ μὴ τὰ ἐναντία πάλιν γενέσθαι.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:a26e7fdd1fc28529d546c4da1a2b4b5baa822d78793f2f67aa3b4d21fc498e53",
+      "source_file_sha256": "6a9258755ef3424179beea5dd8f70a21ebd1734a8f61a07ed7cd0d872b1dffde",
+      "source_locator": {
+        "filename": "tlg0018.tlg007.1st1K-grc1.xml",
+        "reference": "5"
+      },
+      "korean": "그래서 이 사람들은 딸들을 낳았다고 하며, 그들 가운데 아들을 낳은 이는 아무도 없다고 한다. 의로운 노아가 완전하고 바르며 참으로 남성적인 이성을 추구하여 남자 자손을 낳으므로, 다수에게 속한 불의는 반드시 여자 자손을 낳는 것으로 드러난다. 서로 반대되는 것들에서는 반대되는 결과가 나와야 하며, 같은 결과가 나올 수는 없기 때문이다.",
+      "translation_revision": "sha256:177151f3ce5f8191abedf444f5665541ece129acddd60859ba188f4af2cf3572",
+      "groups": [
+        {
+          "id": "a-3b00d6d1d3f01197703e",
+          "source_range": [
+            0,
+            77
+          ],
+          "ko_range": [
+            0,
+            52
+          ],
+          "source_text": "οὗ χάριν θυγατέρας οἱ ἄνθρωποι οὗτοι γεννῆσαι λέγονται, υἱὸν δὲ οὐδεὶς αὐτῶν.",
+          "ko_text": "그래서 이 사람들은 딸들을 낳았다고 하며, 그들 가운데 아들을 낳은 이는 아무도 없다고 한다."
+        },
+        {
+          "id": "a-57b80c2c78b164e20ae4",
+          "source_range": [
+            78,
+            161
+          ],
+          "ko_range": [
+            53,
+            100
+          ],
+          "source_text": "ἐπεὶ γὰρ ὁ δίκαιος ἀρρενογονεῖ Νῶε τέλειον καὶ ὀρθὸν λόγον καὶ ἄρρενα ὄντως μετιών,",
+          "ko_text": "의로운 노아가 완전하고 바르며 참으로 남성적인 이성을 추구하여 남자 자손을 낳으므로,"
+        },
+        {
+          "id": "a-e37963a586cd4cf0f571",
+          "source_range": [
+            162,
+            218
+          ],
+          "ko_range": [
+            101,
+            136
+          ],
+          "source_text": "θηλυτόκος ἡ κατὰ τοὺς πολλοὺς ἀδικία πάντως ἀναφαίνεται·",
+          "ko_text": "다수에게 속한 불의는 반드시 여자 자손을 낳는 것으로 드러난다."
+        },
+        {
+          "id": "a-944148cd33d2aa457b0f",
+          "source_range": [
+            219,
+            293
+          ],
+          "ko_range": [
+            137,
+            189
+          ],
+          "source_text": "ἀμήχανον γὰρ τὰ αὐτὰ πρὸς τῶν ἐναντίων, ἀλλὰ μὴ τὰ ἐναντία πάλιν γενέσθαι.",
+          "ko_text": "서로 반대되는 것들에서는 반대되는 결과가 나와야 하며, 같은 결과가 나올 수는 없기 때문이다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "gig:5",
+      "html_path": "works/gig/index.html#p-5",
+      "fixed_html_path": "releases/public-0.35/works/gig/index.html#p-5",
+      "alignment_revision": "sha256:a6c0fdc6c8a75321b68e06706e568ab3e38732508f9faf2ad106372dd63fde91",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:a26e7fdd1fc28529d546c4da1a2b4b5baa822d78793f2f67aa3b4d21fc498e53",
+          "translation_revision": "sha256:177151f3ce5f8191abedf444f5665541ece129acddd60859ba188f4af2cf3572",
+          "alignment_revision": "sha256:a6c0fdc6c8a75321b68e06706e568ab3e38732508f9faf2ad106372dd63fde91"
+        },
+        "scoped_ai_review": {
+          "id": "gig-addition-20261003",
+          "scope": "거인들에 관하여 1-20절 전체, 21-67절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:a26e7fdd1fc28529d546c4da1a2b4b5baa822d78793f2f67aa3b4d21fc498e53",
+            "translation_revision": "sha256:177151f3ce5f8191abedf444f5665541ece129acddd60859ba188f4af2cf3572",
+            "alignment_revision": "sha256:a6c0fdc6c8a75321b68e06706e568ab3e38732508f9faf2ad106372dd63fde91"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg007/tlg0018.tlg007.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0으로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "거인들에 관하여",
+        "reference": "5",
+        "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
+        "release": "public-0.35",
+        "translation_revision": "sha256:177151f3ce5f8191abedf444f5665541ece129acddd60859ba188f4af2cf3572",
+        "fixed_path": "releases/public-0.35/works/gig/index.html#p-5"
+      }
+    },
+    {
+      "ref": "6",
+      "section": 6,
+      "original": "“Ἰδόντες δὲ οἱ ἄγγελοι τοῦ θεοῦ τὰς θυγατέρας τῶν ἀνθρώπων, ὅτι καλαί εἰσιν, ἔλαβον ἑαυτοῖς γυναῖκας ἀπὸ πασῶν, ὧν ἐξελέξαντο”. οὓς ἄλλοι φιλόσοφοι δαίμονας, ἀγγέλους Μωυσῆς εἴωθεν ὀνομάζειν· ψυχαὶ δ’ εἰσὶ κατὰ τὸν ἀέρα πετόμεναι.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:0782d626dc64871a1714752a3c2e39924a562d3c3a5f39ce726bdcdf897304c5",
+      "source_file_sha256": "6a9258755ef3424179beea5dd8f70a21ebd1734a8f61a07ed7cd0d872b1dffde",
+      "source_locator": {
+        "filename": "tlg0018.tlg007.1st1K-grc1.xml",
+        "reference": "6"
+      },
+      "korean": "“하나님의 천사들이 사람들의 딸들이 아름다운 것을 보고, 자기들이 골라낸 모든 여자들 가운데서 아내를 취하였다.” 다른 철학자들이 다이몬이라고 부르는 이들을 모세는 천사라고 부르곤 한다. 그들은 공중을 날아다니는 영혼들이다.",
+      "translation_revision": "sha256:fd16d550f1762d39a5afbbadb66c209620c26533c1c6dd6007c587cefe7fb117",
+      "groups": [
+        {
+          "id": "a-4d82d678a8a868873281",
+          "source_range": [
+            0,
+            76
+          ],
+          "ko_range": [
+            0,
+            31
+          ],
+          "source_text": "“Ἰδόντες δὲ οἱ ἄγγελοι τοῦ θεοῦ τὰς θυγατέρας τῶν ἀνθρώπων, ὅτι καλαί εἰσιν,",
+          "ko_text": "“하나님의 천사들이 사람들의 딸들이 아름다운 것을 보고,"
+        },
+        {
+          "id": "a-db06257a8b6774887096",
+          "source_range": [
+            77,
+            127
+          ],
+          "ko_range": [
+            32,
+            63
+          ],
+          "source_text": "ἔλαβον ἑαυτοῖς γυναῖκας ἀπὸ πασῶν, ὧν ἐξελέξαντο”.",
+          "ko_text": "자기들이 골라낸 모든 여자들 가운데서 아내를 취하였다.”"
+        },
+        {
+          "id": "a-dd2b605418348bd7c5a3",
+          "source_range": [
+            128,
+            191
+          ],
+          "ko_range": [
+            64,
+            104
+          ],
+          "source_text": "οὓς ἄλλοι φιλόσοφοι δαίμονας, ἀγγέλους Μωυσῆς εἴωθεν ὀνομάζειν·",
+          "ko_text": "다른 철학자들이 다이몬이라고 부르는 이들을 모세는 천사라고 부르곤 한다."
+        },
+        {
+          "id": "a-3e4d5192c797bdb1c122",
+          "source_range": [
+            192,
+            230
+          ],
+          "ko_range": [
+            105,
+            125
+          ],
+          "source_text": "ψυχαὶ δ’ εἰσὶ κατὰ τὸν ἀέρα πετόμεναι.",
+          "ko_text": "그들은 공중을 날아다니는 영혼들이다."
+        }
+      ],
+      "notes": [
+        "채택 인용문은 하나님의 천사들이라고 읽는다. 필론은 철학자들이 다이몬이라 부르는 존재를 모세가 천사라 부른다고 설명하며, 이들을 공중의 영혼으로 이해한다."
+      ],
+      "work_passage_id": "gig:6",
+      "html_path": "works/gig/index.html#p-6",
+      "fixed_html_path": "releases/public-0.35/works/gig/index.html#p-6",
+      "alignment_revision": "sha256:0897a26ab17d7326594e96dedc42b7cc785248f45a5ec248dc13eb50d4e9fd47",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:0782d626dc64871a1714752a3c2e39924a562d3c3a5f39ce726bdcdf897304c5",
+          "translation_revision": "sha256:fd16d550f1762d39a5afbbadb66c209620c26533c1c6dd6007c587cefe7fb117",
+          "alignment_revision": "sha256:0897a26ab17d7326594e96dedc42b7cc785248f45a5ec248dc13eb50d4e9fd47"
+        },
+        "scoped_ai_review": {
+          "id": "gig-addition-20261003",
+          "scope": "거인들에 관하여 1-20절 전체, 21-67절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:0782d626dc64871a1714752a3c2e39924a562d3c3a5f39ce726bdcdf897304c5",
+            "translation_revision": "sha256:fd16d550f1762d39a5afbbadb66c209620c26533c1c6dd6007c587cefe7fb117",
+            "alignment_revision": "sha256:0897a26ab17d7326594e96dedc42b7cc785248f45a5ec248dc13eb50d4e9fd47"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg007/tlg0018.tlg007.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0으로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "거인들에 관하여",
+        "reference": "6",
+        "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
+        "release": "public-0.35",
+        "translation_revision": "sha256:fd16d550f1762d39a5afbbadb66c209620c26533c1c6dd6007c587cefe7fb117",
+        "fixed_path": "releases/public-0.35/works/gig/index.html#p-6"
+      }
+    },
+    {
+      "ref": "7",
+      "section": 7,
+      "original": "καὶ μηδεὶς ὑπολάβῃ μῦθον εἶναι τὸ εἰρημένον· ἀνάγκη γὰρ ὅλον δι’ ὅλων τὸν κόσμον ἐψυχῶσθαι, τῶν πρώτων καὶ στοιχειωδῶν μερῶν ἑκάστου τὰ οἰκεῖα καὶ πρόσφορα ζῷα περιέχοντος, γῆς μὲν τὰ χερσαῖα, θαλάττης δὲ καὶ ποταμῶν τὰ ἔνυδρα, πυρὸς δὲ τὰ πυρίγονα - λόγος δὲ ἔχει ταῦτα κατὰ Μακεδονίαν μάλιστα γίνεσθαι -, οὐρανοῦ δὲ τοὺς ἀστέρας.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:4cc32be86c05d67f40840ab8d2dc1cf2fdec93b9e25bb0d1716318464dd96b0f",
+      "source_file_sha256": "6a9258755ef3424179beea5dd8f70a21ebd1734a8f61a07ed7cd0d872b1dffde",
+      "source_locator": {
+        "filename": "tlg0018.tlg007.1st1K-grc1.xml",
+        "reference": "7"
+      },
+      "korean": "아무도 이 말을 신화라고 생각하지 마라. 온 세계가 구석구석 생명으로 채워져 있어야 하기 때문이다. 최초의 구성 원소들 각각은 자신에게 고유하고 알맞은 생물들을 품고 있다. 땅은 육상 생물들을, 바다와 강은 수중 생물들을 품는다. 불은 불에서 태어나는 것들을 품는다. 전하는 말에 따르면 이것들은 특히 마케도니아에서 생겨난다. 하늘은 별들을 품는다.",
+      "translation_revision": "sha256:07797369f6b9fffe652730d0e17b561c2f8881231265d0eea123c3d2f05f881c",
+      "groups": [
+        {
+          "id": "a-eea5e7dee0aa66cf28c1",
+          "source_range": [
+            0,
+            44
+          ],
+          "ko_range": [
+            0,
+            22
+          ],
+          "source_text": "καὶ μηδεὶς ὑπολάβῃ μῦθον εἶναι τὸ εἰρημένον·",
+          "ko_text": "아무도 이 말을 신화라고 생각하지 마라."
+        },
+        {
+          "id": "a-f61e18ed20bd786dabb4",
+          "source_range": [
+            45,
+            91
+          ],
+          "ko_range": [
+            23,
+            55
+          ],
+          "source_text": "ἀνάγκη γὰρ ὅλον δι’ ὅλων τὸν κόσμον ἐψυχῶσθαι,",
+          "ko_text": "온 세계가 구석구석 생명으로 채워져 있어야 하기 때문이다."
+        },
+        {
+          "id": "a-72d41a8efe7201e597a7",
+          "source_range": [
+            92,
+            172
+          ],
+          "ko_range": [
+            56,
+            96
+          ],
+          "source_text": "τῶν πρώτων καὶ στοιχειωδῶν μερῶν ἑκάστου τὰ οἰκεῖα καὶ πρόσφορα ζῷα περιέχοντος,",
+          "ko_text": "최초의 구성 원소들 각각은 자신에게 고유하고 알맞은 생물들을 품고 있다."
+        },
+        {
+          "id": "a-a6dbaeea76f9c5c678d7",
+          "source_range": [
+            173,
+            227
+          ],
+          "ko_range": [
+            97,
+            128
+          ],
+          "source_text": "γῆς μὲν τὰ χερσαῖα, θαλάττης δὲ καὶ ποταμῶν τὰ ἔνυδρα,",
+          "ko_text": "땅은 육상 생물들을, 바다와 강은 수중 생물들을 품는다."
+        },
+        {
+          "id": "a-f6040fc321fc969bcd84",
+          "source_range": [
+            228,
+            306
+          ],
+          "ko_range": [
+            129,
+            182
+          ],
+          "source_text": "πυρὸς δὲ τὰ πυρίγονα - λόγος δὲ ἔχει ταῦτα κατὰ Μακεδονίαν μάλιστα γίνεσθαι -,",
+          "ko_text": "불은 불에서 태어나는 것들을 품는다. 전하는 말에 따르면 이것들은 특히 마케도니아에서 생겨난다."
+        },
+        {
+          "id": "a-916c90c8a4d1194576c2",
+          "source_range": [
+            307,
+            331
+          ],
+          "ko_range": [
+            183,
+            195
+          ],
+          "source_text": "οὐρανοῦ δὲ τοὺς ἀστέρας.",
+          "ko_text": "하늘은 별들을 품는다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "gig:7",
+      "html_path": "works/gig/index.html#p-7",
+      "fixed_html_path": "releases/public-0.35/works/gig/index.html#p-7",
+      "alignment_revision": "sha256:12327835c8b94204081373f9306d86d41a3a461b1b805ad11f3e922949aba87d",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:4cc32be86c05d67f40840ab8d2dc1cf2fdec93b9e25bb0d1716318464dd96b0f",
+          "translation_revision": "sha256:07797369f6b9fffe652730d0e17b561c2f8881231265d0eea123c3d2f05f881c",
+          "alignment_revision": "sha256:12327835c8b94204081373f9306d86d41a3a461b1b805ad11f3e922949aba87d"
+        },
+        "scoped_ai_review": {
+          "id": "gig-addition-20261003",
+          "scope": "거인들에 관하여 1-20절 전체, 21-67절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:4cc32be86c05d67f40840ab8d2dc1cf2fdec93b9e25bb0d1716318464dd96b0f",
+            "translation_revision": "sha256:07797369f6b9fffe652730d0e17b561c2f8881231265d0eea123c3d2f05f881c",
+            "alignment_revision": "sha256:12327835c8b94204081373f9306d86d41a3a461b1b805ad11f3e922949aba87d"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg007/tlg0018.tlg007.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0으로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "거인들에 관하여",
+        "reference": "7",
+        "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
+        "release": "public-0.35",
+        "translation_revision": "sha256:07797369f6b9fffe652730d0e17b561c2f8881231265d0eea123c3d2f05f881c",
+        "fixed_path": "releases/public-0.35/works/gig/index.html#p-7"
+      }
+    },
+    {
+      "ref": "8",
+      "section": 8,
+      "original": "καὶ γὰρ οὗτοι ψυχαὶ ὅλαι δι’ ὅλων ἀκήρατοί τε καὶ θεῖαι, παρὸ καὶ κύκλῳ κινοῦνται τὴν συγγενεστάτην νῷ κίνησιν· νοῦς γὰρ ἕκαστος αὐτῶν ἀκραιφνέστατος. ἔστιν οὖν ἀναγκαῖον καὶ τὸν ἀέρα ζῴων πεπληρῶσθαι· ταῦτα δὲ ἡμῖν ἐστιν ἀόρατα, ὅτιπερ καὶ αὐτὸς οὐχ ὁρατὸς αἰσθήσει.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:6b0fcc2b17633e8b5e90868669f76aba854d558bbe425d0e7a84e11b9d7ed115",
+      "source_file_sha256": "6a9258755ef3424179beea5dd8f70a21ebd1734a8f61a07ed7cd0d872b1dffde",
+      "source_locator": {
+        "filename": "tlg0018.tlg007.1st1K-grc1.xml",
+        "reference": "8"
+      },
+      "korean": "별들도 온전히 순수하고 신적인 영혼들이다. 그래서 지성과 가장 가까운 운동인 원운동을 한다. 각각이 가장 순수한 지성이기 때문이다. 따라서 공기도 생물들로 가득 차 있어야 한다. 그러나 그것들은 우리에게 보이지 않는다. 공기 자체도 감각으로 볼 수 없기 때문이다.",
+      "translation_revision": "sha256:5b38e1ccef4a0bd08708e5b4506b207201db1d89b001ef657c40814351cba7e5",
+      "groups": [
+        {
+          "id": "a-e91b1def788dddf761f5",
+          "source_range": [
+            0,
+            56
+          ],
+          "ko_range": [
+            0,
+            23
+          ],
+          "source_text": "καὶ γὰρ οὗτοι ψυχαὶ ὅλαι δι’ ὅλων ἀκήρατοί τε καὶ θεῖαι,",
+          "ko_text": "별들도 온전히 순수하고 신적인 영혼들이다."
+        },
+        {
+          "id": "a-2f08a53e8025a451d9c4",
+          "source_range": [
+            57,
+            111
+          ],
+          "ko_range": [
+            24,
+            51
+          ],
+          "source_text": "παρὸ καὶ κύκλῳ κινοῦνται τὴν συγγενεστάτην νῷ κίνησιν·",
+          "ko_text": "그래서 지성과 가장 가까운 운동인 원운동을 한다."
+        },
+        {
+          "id": "a-734fe0b6849b6e5acbc4",
+          "source_range": [
+            112,
+            150
+          ],
+          "ko_range": [
+            52,
+            73
+          ],
+          "source_text": "νοῦς γὰρ ἕκαστος αὐτῶν ἀκραιφνέστατος.",
+          "ko_text": "각각이 가장 순수한 지성이기 때문이다."
+        },
+        {
+          "id": "a-15f698dfafb6b2ed5236",
+          "source_range": [
+            151,
+            201
+          ],
+          "ko_range": [
+            74,
+            99
+          ],
+          "source_text": "ἔστιν οὖν ἀναγκαῖον καὶ τὸν ἀέρα ζῴων πεπληρῶσθαι·",
+          "ko_text": "따라서 공기도 생물들로 가득 차 있어야 한다."
+        },
+        {
+          "id": "a-bc651e762051bac180d4",
+          "source_range": [
+            202,
+            267
+          ],
+          "ko_range": [
+            100,
+            147
+          ],
+          "source_text": "ταῦτα δὲ ἡμῖν ἐστιν ἀόρατα, ὅτιπερ καὶ αὐτὸς οὐχ ὁρατὸς αἰσθήσει.",
+          "ko_text": "그러나 그것들은 우리에게 보이지 않는다. 공기 자체도 감각으로 볼 수 없기 때문이다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "gig:8",
+      "html_path": "works/gig/index.html#p-8",
+      "fixed_html_path": "releases/public-0.35/works/gig/index.html#p-8",
+      "alignment_revision": "sha256:895c209a04883abbf2eaf64c349a79a229f93ebbf726820bf87a701b7fdf4379",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:6b0fcc2b17633e8b5e90868669f76aba854d558bbe425d0e7a84e11b9d7ed115",
+          "translation_revision": "sha256:5b38e1ccef4a0bd08708e5b4506b207201db1d89b001ef657c40814351cba7e5",
+          "alignment_revision": "sha256:895c209a04883abbf2eaf64c349a79a229f93ebbf726820bf87a701b7fdf4379"
+        },
+        "scoped_ai_review": {
+          "id": "gig-addition-20261003",
+          "scope": "거인들에 관하여 1-20절 전체, 21-67절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:6b0fcc2b17633e8b5e90868669f76aba854d558bbe425d0e7a84e11b9d7ed115",
+            "translation_revision": "sha256:5b38e1ccef4a0bd08708e5b4506b207201db1d89b001ef657c40814351cba7e5",
+            "alignment_revision": "sha256:895c209a04883abbf2eaf64c349a79a229f93ebbf726820bf87a701b7fdf4379"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg007/tlg0018.tlg007.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0으로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "거인들에 관하여",
+        "reference": "8",
+        "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
+        "release": "public-0.35",
+        "translation_revision": "sha256:5b38e1ccef4a0bd08708e5b4506b207201db1d89b001ef657c40814351cba7e5",
+        "fixed_path": "releases/public-0.35/works/gig/index.html#p-8"
+      }
+    },
+    {
+      "ref": "9",
+      "section": 9,
+      "original": "ἀλλ’ οὐ παρόσον ἀδύνατος ἡ ὄψις ψυχῶν φαντασιωθῆναι τύπους, διὰ τοῦτ’ οὔκ εἰσιν ἐν ἀέρι ψυχαί, καταλαμβάνεσθαι δ’ αὐτὰς ἀναγκαῖον ὑπὸ νοῦ, ἵνα πρὸς τῶν ὁμοίων τὸ ὅμοιον θεωρῆται. ἐπεὶ καὶ τί φήσομεν;",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:5609fed49d1cde4696adc4232f0fabc80e091c47d65f34f30dd5bc734f0a3e76",
+      "source_file_sha256": "6a9258755ef3424179beea5dd8f70a21ebd1734a8f61a07ed7cd0d872b1dffde",
+      "source_locator": {
+        "filename": "tlg0018.tlg007.1st1K-grc1.xml",
+        "reference": "9"
+      },
+      "korean": "눈이 영혼들의 형상을 그려 낼 수 없다고 해서 공기 속에 영혼들이 없는 것은 아니다. 그것들은 반드시 지성으로 파악해야 한다. 같은 것을 같은 것으로 바라보게 하려는 것이다. 우리는 달리 무엇이라고 말하겠는가?",
+      "translation_revision": "sha256:1fb516daeb96ba24a030a08882c739da64b1b94010460b0691270cc831263844",
+      "groups": [
+        {
+          "id": "a-c1a79ffe78ad53a4dc6d",
+          "source_range": [
+            0,
+            94
+          ],
+          "ko_range": [
+            0,
+            47
+          ],
+          "source_text": "ἀλλ’ οὐ παρόσον ἀδύνατος ἡ ὄψις ψυχῶν φαντασιωθῆναι τύπους, διὰ τοῦτ’ οὔκ εἰσιν ἐν ἀέρι ψυχαί,",
+          "ko_text": "눈이 영혼들의 형상을 그려 낼 수 없다고 해서 공기 속에 영혼들이 없는 것은 아니다."
+        },
+        {
+          "id": "a-438417f8af9f8cd3e74b",
+          "source_range": [
+            95,
+            138
+          ],
+          "ko_range": [
+            48,
+            70
+          ],
+          "source_text": "καταλαμβάνεσθαι δ’ αὐτὰς ἀναγκαῖον ὑπὸ νοῦ,",
+          "ko_text": "그것들은 반드시 지성으로 파악해야 한다."
+        },
+        {
+          "id": "a-9d86efea2eb4125dd11b",
+          "source_range": [
+            139,
+            178
+          ],
+          "ko_range": [
+            71,
+            97
+          ],
+          "source_text": "ἵνα πρὸς τῶν ὁμοίων τὸ ὅμοιον θεωρῆται.",
+          "ko_text": "같은 것을 같은 것으로 바라보게 하려는 것이다."
+        },
+        {
+          "id": "a-ea387aaddf4d070547f4",
+          "source_range": [
+            179,
+            199
+          ],
+          "ko_range": [
+            98,
+            117
+          ],
+          "source_text": "ἐπεὶ καὶ τί φήσομεν;",
+          "ko_text": "우리는 달리 무엇이라고 말하겠는가?"
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "gig:9",
+      "html_path": "works/gig/index.html#p-9",
+      "fixed_html_path": "releases/public-0.35/works/gig/index.html#p-9",
+      "alignment_revision": "sha256:7ad15ccd8c50406d0c9a4187394dfd91ca1d613d5feddcf3d8db00238e71c6e7",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:5609fed49d1cde4696adc4232f0fabc80e091c47d65f34f30dd5bc734f0a3e76",
+          "translation_revision": "sha256:1fb516daeb96ba24a030a08882c739da64b1b94010460b0691270cc831263844",
+          "alignment_revision": "sha256:7ad15ccd8c50406d0c9a4187394dfd91ca1d613d5feddcf3d8db00238e71c6e7"
+        },
+        "scoped_ai_review": {
+          "id": "gig-addition-20261003",
+          "scope": "거인들에 관하여 1-20절 전체, 21-67절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:5609fed49d1cde4696adc4232f0fabc80e091c47d65f34f30dd5bc734f0a3e76",
+            "translation_revision": "sha256:1fb516daeb96ba24a030a08882c739da64b1b94010460b0691270cc831263844",
+            "alignment_revision": "sha256:7ad15ccd8c50406d0c9a4187394dfd91ca1d613d5feddcf3d8db00238e71c6e7"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg007/tlg0018.tlg007.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0으로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "거인들에 관하여",
+        "reference": "9",
+        "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
+        "release": "public-0.35",
+        "translation_revision": "sha256:1fb516daeb96ba24a030a08882c739da64b1b94010460b0691270cc831263844",
+        "fixed_path": "releases/public-0.35/works/gig/index.html#p-9"
+      }
+    },
+    {
+      "ref": "10",
+      "section": 10,
+      "original": "πάνθ’ ὅσα χερσαῖα καὶ ἔνυδρα οὐκ ἀέρι καὶ πνεύματι ζῇ; τί δέ; οὐκ ἀέρος κακωθέντος τὰ λοιμικὰ συνίστασθαι παθήματα φιλεῖ, ὡς ἂν αἰτίου τῆς ψυχώσεως ἑκάστοις; τί δέ; ὁπότε ἀπήμων καὶ ἀβλαβὴς εἴη, ὁποῖον ἐν ταῖς βορείοις μάλιστα αὔραις εἴωθε γίνεσθαι, οὐ καθαρωτέρου σπῶντα τοῦ πνεύματος πρὸς πλείονα καὶ κραταιοτέραν διαμονὴν ἐπιδίδωσιν;",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:e9ca182697c012d2e12d2c13030252fcfa337a0859e8b3d75ac3709a16c00bff",
+      "source_file_sha256": "6a9258755ef3424179beea5dd8f70a21ebd1734a8f61a07ed7cd0d872b1dffde",
+      "source_locator": {
+        "filename": "tlg0018.tlg007.1st1K-grc1.xml",
+        "reference": "10"
+      },
+      "korean": "육지와 물속의 모든 생물은 공기와 숨으로 살아가지 않는가? 또 공기가 나빠지면 전염성 질병이 생기는 법이 아닌가? 공기가 각각에게 생명을 주는 원인이기 때문이다. 또 공기가, 특히 북풍이 불 때 흔히 그렇듯이, 해롭지도 손상시키지도 않으면, 생물들은 더 깨끗한 숨을 들이마시며 더욱 오래, 더 튼튼하게 살아가지 않는가?",
+      "translation_revision": "sha256:91bdfb2b6822b9d784795954585ade10aaf46af4e88525c5426c475b60e61f69",
+      "groups": [
+        {
+          "id": "a-51d05aa6638d0246e883",
+          "source_range": [
+            0,
+            54
+          ],
+          "ko_range": [
+            0,
+            32
+          ],
+          "source_text": "πάνθ’ ὅσα χερσαῖα καὶ ἔνυδρα οὐκ ἀέρι καὶ πνεύματι ζῇ;",
+          "ko_text": "육지와 물속의 모든 생물은 공기와 숨으로 살아가지 않는가?"
+        },
+        {
+          "id": "a-6774abf949c160caa071",
+          "source_range": [
+            55,
+            157
+          ],
+          "ko_range": [
+            33,
+            90
+          ],
+          "source_text": "τί δέ; οὐκ ἀέρος κακωθέντος τὰ λοιμικὰ συνίστασθαι παθήματα φιλεῖ, ὡς ἂν αἰτίου τῆς ψυχώσεως ἑκάστοις;",
+          "ko_text": "또 공기가 나빠지면 전염성 질병이 생기는 법이 아닌가? 공기가 각각에게 생명을 주는 원인이기 때문이다."
+        },
+        {
+          "id": "a-728f2c6c253d16581f7a",
+          "source_range": [
+            158,
+            249
+          ],
+          "ko_range": [
+            91,
+            134
+          ],
+          "source_text": "τί δέ; ὁπότε ἀπήμων καὶ ἀβλαβὴς εἴη, ὁποῖον ἐν ταῖς βορείοις μάλιστα αὔραις εἴωθε γίνεσθαι,",
+          "ko_text": "또 공기가, 특히 북풍이 불 때 흔히 그렇듯이, 해롭지도 손상시키지도 않으면,"
+        },
+        {
+          "id": "a-c192ef26cab70dc7b789",
+          "source_range": [
+            250,
+            336
+          ],
+          "ko_range": [
+            135,
+            178
+          ],
+          "source_text": "οὐ καθαρωτέρου σπῶντα τοῦ πνεύματος πρὸς πλείονα καὶ κραταιοτέραν διαμονὴν ἐπιδίδωσιν;",
+          "ko_text": "생물들은 더 깨끗한 숨을 들이마시며 더욱 오래, 더 튼튼하게 살아가지 않는가?"
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "gig:10",
+      "html_path": "works/gig/index.html#p-10",
+      "fixed_html_path": "releases/public-0.35/works/gig/index.html#p-10",
+      "alignment_revision": "sha256:99eb1f564386af6db6e07dbdb01f06b0565c62cb848a49fefb5886e67880f1e2",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:e9ca182697c012d2e12d2c13030252fcfa337a0859e8b3d75ac3709a16c00bff",
+          "translation_revision": "sha256:91bdfb2b6822b9d784795954585ade10aaf46af4e88525c5426c475b60e61f69",
+          "alignment_revision": "sha256:99eb1f564386af6db6e07dbdb01f06b0565c62cb848a49fefb5886e67880f1e2"
+        },
+        "scoped_ai_review": {
+          "id": "gig-addition-20261003",
+          "scope": "거인들에 관하여 1-20절 전체, 21-67절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:e9ca182697c012d2e12d2c13030252fcfa337a0859e8b3d75ac3709a16c00bff",
+            "translation_revision": "sha256:91bdfb2b6822b9d784795954585ade10aaf46af4e88525c5426c475b60e61f69",
+            "alignment_revision": "sha256:99eb1f564386af6db6e07dbdb01f06b0565c62cb848a49fefb5886e67880f1e2"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg007/tlg0018.tlg007.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0으로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "거인들에 관하여",
+        "reference": "10",
+        "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
+        "release": "public-0.35",
+        "translation_revision": "sha256:91bdfb2b6822b9d784795954585ade10aaf46af4e88525c5426c475b60e61f69",
+        "fixed_path": "releases/public-0.35/works/gig/index.html#p-10"
+      }
+    },
+    {
+      "ref": "11",
+      "section": 11,
+      "original": "ἆρ’ οὖν εἰκὸς δι’ οὗ τὰ ἄλλα, ἔνυδρά τε καὶ χερσαῖα, ἐψύχωται, ἔρημον εἶναι ἢ ψυχῶν ἀμοιρεῖν; τοὐναντίον μὲν οὖν, εἰ καὶ τὰ ἄλλα πάντα ζῴων ἄγονα ἦν, μόνος ἀὴρ ὤφειλε ζῳοτοκῆσαι τὰ ψυχῆς κατ’",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:986193ff00f23c475b689617dce3647bfd9197c05dde43d80e0be7202bcf9c36",
+      "source_file_sha256": "6a9258755ef3424179beea5dd8f70a21ebd1734a8f61a07ed7cd0d872b1dffde",
+      "source_locator": {
+        "filename": "tlg0018.tlg007.1st1K-grc1.xml",
+        "reference": "11"
+      },
+      "encoded_page_breaks": [
+        "v.2.p.44"
+      ],
+      "korean": "그렇다면 육상과 수중의 다른 생물들이 그것을 통해 생명을 얻는데, 공기 자체는 비어 있거나 영혼들을 갖지 않는다는 것이 그럴듯한가? 오히려 다른 모든 것이 생물을 낳지 못하더라도 공기만은 생물을 낳아야 할 것이다. 공기는 생명의 씨앗들을 특별한",
+      "translation_revision": "sha256:e26279ce874a632446b8bca3c3925403595b14dee1f9cee37532330695c7ff6f",
+      "groups": [
+        {
+          "id": "a-3e9b81678e19e49ddd25",
+          "source_range": [
+            0,
+            93
+          ],
+          "ko_range": [
+            0,
+            73
+          ],
+          "source_text": "ἆρ’ οὖν εἰκὸς δι’ οὗ τὰ ἄλλα, ἔνυδρά τε καὶ χερσαῖα, ἐψύχωται, ἔρημον εἶναι ἢ ψυχῶν ἀμοιρεῖν;",
+          "ko_text": "그렇다면 육상과 수중의 다른 생물들이 그것을 통해 생명을 얻는데, 공기 자체는 비어 있거나 영혼들을 갖지 않는다는 것이 그럴듯한가?"
+        },
+        {
+          "id": "a-914ef32a673149ae16a9",
+          "source_range": [
+            94,
+            177
+          ],
+          "ko_range": [
+            74,
+            119
+          ],
+          "source_text": "τοὐναντίον μὲν οὖν, εἰ καὶ τὰ ἄλλα πάντα ζῴων ἄγονα ἦν, μόνος ἀὴρ ὤφειλε ζῳοτοκῆσαι",
+          "ko_text": "오히려 다른 모든 것이 생물을 낳지 못하더라도 공기만은 생물을 낳아야 할 것이다."
+        },
+        {
+          "id": "a-1d63728be609477a9170",
+          "source_range": [
+            178,
+            191
+          ],
+          "ko_range": [
+            120,
+            136
+          ],
+          "source_text": "τὰ ψυχῆς κατ’",
+          "ko_text": "공기는 생명의 씨앗들을 특별한"
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "gig:11",
+      "html_path": "works/gig/index.html#p-11",
+      "fixed_html_path": "releases/public-0.35/works/gig/index.html#p-11",
+      "alignment_revision": "sha256:2a2f06b2e166a7fe718e87c089026aded260a422ce8eeba17bd67ce5ad3d2f02",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:986193ff00f23c475b689617dce3647bfd9197c05dde43d80e0be7202bcf9c36",
+          "translation_revision": "sha256:e26279ce874a632446b8bca3c3925403595b14dee1f9cee37532330695c7ff6f",
+          "alignment_revision": "sha256:2a2f06b2e166a7fe718e87c089026aded260a422ce8eeba17bd67ce5ad3d2f02"
+        },
+        "scoped_ai_review": {
+          "id": "gig-addition-20261003",
+          "scope": "거인들에 관하여 1-20절 전체, 21-67절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:986193ff00f23c475b689617dce3647bfd9197c05dde43d80e0be7202bcf9c36",
+            "translation_revision": "sha256:e26279ce874a632446b8bca3c3925403595b14dee1f9cee37532330695c7ff6f",
+            "alignment_revision": "sha256:2a2f06b2e166a7fe718e87c089026aded260a422ce8eeba17bd67ce5ad3d2f02"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg007/tlg0018.tlg007.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0으로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "거인들에 관하여",
+        "reference": "11",
+        "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
+        "release": "public-0.35",
+        "translation_revision": "sha256:e26279ce874a632446b8bca3c3925403595b14dee1f9cee37532330695c7ff6f",
+        "fixed_path": "releases/public-0.35/works/gig/index.html#p-11"
+      }
+    },
+    {
+      "ref": "12",
+      "section": 12,
+      "original": "ἐξαίρετον χάριν παρὰ τοῦ δημιουργοῦ σπέρματα λαβών. τῶν οὖν ψυχῶν αἱ μὲν πρὸς σώματα κατέβησαν, αἱ δὲ οὐδενὶ τῶν γῆς μορίων ἠξίωσάν ποτε συνενεχθῆναι. ταύταις ἀφιερωθείσαις καὶ τῆς τοῦ πατρὸς θεραπείας περιεχομέναις ὑπηρέτισι καὶ διακόνοις ὁ δημιουργὸς εἴωθε χρῆσθαι πρὸς τὴν τῶν θνητῶν ἐπιστασίαν.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:c2d99f1fefea9570ccc7dc28e44a10c12beaea538fd0b473341616c6519be7a8",
+      "source_file_sha256": "6a9258755ef3424179beea5dd8f70a21ebd1734a8f61a07ed7cd0d872b1dffde",
+      "source_locator": {
+        "filename": "tlg0018.tlg007.1st1K-grc1.xml",
+        "reference": "12"
+      },
+      "korean": "은혜로 창조주에게서 받았기 때문이다. 그러므로 영혼들 가운데 어떤 것들은 몸으로 내려갔다. 다른 것들은 땅의 어떤 부분과도 결코 결합하려 하지 않았다. 이들은 거룩하게 구별되어 아버지를 섬기는 일에 전념한다. 창조주는 죽을 존재들을 감독할 때 이들을 조력자와 일꾼으로 사용하신다.",
+      "translation_revision": "sha256:ba24c28fc18c8b45465d9a170a6891248aedc717230ee2acbec744352c516ebb",
+      "groups": [
+        {
+          "id": "a-ef11fd4b30ddc66ef6bb",
+          "source_range": [
+            0,
+            51
+          ],
+          "ko_range": [
+            0,
+            20
+          ],
+          "source_text": "ἐξαίρετον χάριν παρὰ τοῦ δημιουργοῦ σπέρματα λαβών.",
+          "ko_text": "은혜로 창조주에게서 받았기 때문이다."
+        },
+        {
+          "id": "a-0167aec57d6e14d1f6b9",
+          "source_range": [
+            52,
+            95
+          ],
+          "ko_range": [
+            21,
+            50
+          ],
+          "source_text": "τῶν οὖν ψυχῶν αἱ μὲν πρὸς σώματα κατέβησαν,",
+          "ko_text": "그러므로 영혼들 가운데 어떤 것들은 몸으로 내려갔다."
+        },
+        {
+          "id": "a-c0a98611161301616205",
+          "source_range": [
+            96,
+            150
+          ],
+          "ko_range": [
+            51,
+            84
+          ],
+          "source_text": "αἱ δὲ οὐδενὶ τῶν γῆς μορίων ἠξίωσάν ποτε συνενεχθῆναι.",
+          "ko_text": "다른 것들은 땅의 어떤 부분과도 결코 결합하려 하지 않았다."
+        },
+        {
+          "id": "a-98c404c62619fe562024",
+          "source_range": [
+            151,
+            215
+          ],
+          "ko_range": [
+            85,
+            116
+          ],
+          "source_text": "ταύταις ἀφιερωθείσαις καὶ τῆς τοῦ πατρὸς θεραπείας περιεχομέναις",
+          "ko_text": "이들은 거룩하게 구별되어 아버지를 섬기는 일에 전념한다."
+        },
+        {
+          "id": "a-fa269c964b71ba72ac93",
+          "source_range": [
+            216,
+            298
+          ],
+          "ko_range": [
+            117,
+            156
+          ],
+          "source_text": "ὑπηρέτισι καὶ διακόνοις ὁ δημιουργὸς εἴωθε χρῆσθαι πρὸς τὴν τῶν θνητῶν ἐπιστασίαν.",
+          "ko_text": "창조주는 죽을 존재들을 감독할 때 이들을 조력자와 일꾼으로 사용하신다."
+        }
+      ],
+      "notes": [
+        "육체로 내려간 영혼과 내려가지 않은 영혼을 나눈다. 내려가지 않은 영혼들은 창조주가 죽을 존재들을 감독하는 데 사용하는 일꾼으로 설명된다."
+      ],
+      "work_passage_id": "gig:12",
+      "html_path": "works/gig/index.html#p-12",
+      "fixed_html_path": "releases/public-0.35/works/gig/index.html#p-12",
+      "alignment_revision": "sha256:d47317ac05f357e471a573b88f5238641c06ef4f4e02002c6fd718da67e029b3",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:c2d99f1fefea9570ccc7dc28e44a10c12beaea538fd0b473341616c6519be7a8",
+          "translation_revision": "sha256:ba24c28fc18c8b45465d9a170a6891248aedc717230ee2acbec744352c516ebb",
+          "alignment_revision": "sha256:d47317ac05f357e471a573b88f5238641c06ef4f4e02002c6fd718da67e029b3"
+        },
+        "scoped_ai_review": {
+          "id": "gig-addition-20261003",
+          "scope": "거인들에 관하여 1-20절 전체, 21-67절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:c2d99f1fefea9570ccc7dc28e44a10c12beaea538fd0b473341616c6519be7a8",
+            "translation_revision": "sha256:ba24c28fc18c8b45465d9a170a6891248aedc717230ee2acbec744352c516ebb",
+            "alignment_revision": "sha256:d47317ac05f357e471a573b88f5238641c06ef4f4e02002c6fd718da67e029b3"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg007/tlg0018.tlg007.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0으로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "거인들에 관하여",
+        "reference": "12",
+        "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
+        "release": "public-0.35",
+        "translation_revision": "sha256:ba24c28fc18c8b45465d9a170a6891248aedc717230ee2acbec744352c516ebb",
+        "fixed_path": "releases/public-0.35/works/gig/index.html#p-12"
+      }
+    },
+    {
+      "ref": "13",
+      "section": 13,
+      "original": "ἐκεῖναι δ’ ὥσπερ εἰς ποταμὸν τὸ σῶμα καταβᾶσαι ποτὲ μὲν ὑπὸ συρμοῦ δίνης βιαιοτάτης ἁρπασθεῖσαι κατεπόθησαν, ποτὲ δὲ πρὸς τὴν φορὰν ἀντισχεῖν δυνηθεῖσαι τὸ μὲν πρῶτον ἀνενήξαντο, εἶτα ὅθεν ὥρμησαν, ἐκεῖσε πάλιν ἀνέπτησαν.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:65d1414d46cb04e4ab9479e42d8a42af7eb080c36b28ffbb0fbd01bbf3ceffbd",
+      "source_file_sha256": "6a9258755ef3424179beea5dd8f70a21ebd1734a8f61a07ed7cd0d872b1dffde",
+      "source_locator": {
+        "filename": "tlg0018.tlg007.1st1K-grc1.xml",
+        "reference": "13"
+      },
+      "korean": "반면 몸으로 내려간 영혼들은 강으로 내려간 것과 같아서, 때로는 매우 거센 소용돌이의 흐름에 휩쓸려 삼켜졌다. 때로는 물살을 견디어 먼저 헤엄쳐 올라왔고, 그런 뒤 자기가 출발했던 곳으로 다시 날아올랐다.",
+      "translation_revision": "sha256:6c02e3ce7ae2a8ad50e600f0d47f3f067acc318823f41056f9034963a6a5b89f",
+      "groups": [
+        {
+          "id": "a-9dff6d1c3c532a3dd30f",
+          "source_range": [
+            0,
+            46
+          ],
+          "ko_range": [
+            0,
+            31
+          ],
+          "source_text": "ἐκεῖναι δ’ ὥσπερ εἰς ποταμὸν τὸ σῶμα καταβᾶσαι",
+          "ko_text": "반면 몸으로 내려간 영혼들은 강으로 내려간 것과 같아서,"
+        },
+        {
+          "id": "a-840fb1ceeec2a59aaea3",
+          "source_range": [
+            47,
+            108
+          ],
+          "ko_range": [
+            32,
+            61
+          ],
+          "source_text": "ποτὲ μὲν ὑπὸ συρμοῦ δίνης βιαιοτάτης ἁρπασθεῖσαι κατεπόθησαν,",
+          "ko_text": "때로는 매우 거센 소용돌이의 흐름에 휩쓸려 삼켜졌다."
+        },
+        {
+          "id": "a-aab286b7f75f86e13be8",
+          "source_range": [
+            109,
+            178
+          ],
+          "ko_range": [
+            62,
+            86
+          ],
+          "source_text": "ποτὲ δὲ πρὸς τὴν φορὰν ἀντισχεῖν δυνηθεῖσαι τὸ μὲν πρῶτον ἀνενήξαντο,",
+          "ko_text": "때로는 물살을 견디어 먼저 헤엄쳐 올라왔고,"
+        },
+        {
+          "id": "a-a770c0a2a1c0be9591b2",
+          "source_range": [
+            179,
+            221
+          ],
+          "ko_range": [
+            87,
+            114
+          ],
+          "source_text": "εἶτα ὅθεν ὥρμησαν, ἐκεῖσε πάλιν ἀνέπτησαν.",
+          "ko_text": "그런 뒤 자기가 출발했던 곳으로 다시 날아올랐다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "gig:13",
+      "html_path": "works/gig/index.html#p-13",
+      "fixed_html_path": "releases/public-0.35/works/gig/index.html#p-13",
+      "alignment_revision": "sha256:369e486f07e85290b7c277d382e6775b133b7add4e7ec11dccb02e2c27b4fff2",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:65d1414d46cb04e4ab9479e42d8a42af7eb080c36b28ffbb0fbd01bbf3ceffbd",
+          "translation_revision": "sha256:6c02e3ce7ae2a8ad50e600f0d47f3f067acc318823f41056f9034963a6a5b89f",
+          "alignment_revision": "sha256:369e486f07e85290b7c277d382e6775b133b7add4e7ec11dccb02e2c27b4fff2"
+        },
+        "scoped_ai_review": {
+          "id": "gig-addition-20261003",
+          "scope": "거인들에 관하여 1-20절 전체, 21-67절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:65d1414d46cb04e4ab9479e42d8a42af7eb080c36b28ffbb0fbd01bbf3ceffbd",
+            "translation_revision": "sha256:6c02e3ce7ae2a8ad50e600f0d47f3f067acc318823f41056f9034963a6a5b89f",
+            "alignment_revision": "sha256:369e486f07e85290b7c277d382e6775b133b7add4e7ec11dccb02e2c27b4fff2"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg007/tlg0018.tlg007.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0으로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "거인들에 관하여",
+        "reference": "13",
+        "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
+        "release": "public-0.35",
+        "translation_revision": "sha256:6c02e3ce7ae2a8ad50e600f0d47f3f067acc318823f41056f9034963a6a5b89f",
+        "fixed_path": "releases/public-0.35/works/gig/index.html#p-13"
+      }
+    },
+    {
+      "ref": "14",
+      "section": 14,
+      "original": "αὗται μὲν οὖν εἰσι ψυχαὶ τῶν ἀνόθως φιλοσοφησάντων, ἐξ ἀρχῆς ἄχρι τέλους μελετῶσαι τὸν μετὰ σωμάτων ἀποθνῄσκειν βίον, ἵνα τῆς ἀσωμάτου καὶ ἀφθάρτου παρὰ τῷ ἀγενήτῳ καὶ ἀφθάρτῳ ζωῆς μεταλάχωσιν,",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:0280ec525f56f0a8ae3428afc1b6db65698666d5196f404620cc2b274f5ed129",
+      "source_file_sha256": "6a9258755ef3424179beea5dd8f70a21ebd1734a8f61a07ed7cd0d872b1dffde",
+      "source_locator": {
+        "filename": "tlg0018.tlg007.1st1K-grc1.xml",
+        "reference": "14"
+      },
+      "korean": "이들은 참되게 철학을 탐구한 사람들의 영혼이다. 처음부터 끝까지 몸과 더불어 사는 삶에 대해 죽는 것을 연습한다. 생겨나지 않고 썩지 않는 분 곁에서 몸이 없고 썩지 않는 생명에 참여하려는 것이다.",
+      "translation_revision": "sha256:bbae5c2d695728cdeb0d523760b267626ee4eb3f41963c3e672a970dea57ca7a",
+      "groups": [
+        {
+          "id": "a-8f215d0ab785bb3a060a",
+          "source_range": [
+            0,
+            51
+          ],
+          "ko_range": [
+            0,
+            26
+          ],
+          "source_text": "αὗται μὲν οὖν εἰσι ψυχαὶ τῶν ἀνόθως φιλοσοφησάντων,",
+          "ko_text": "이들은 참되게 철학을 탐구한 사람들의 영혼이다."
+        },
+        {
+          "id": "a-656a5a321d2b72b67dcf",
+          "source_range": [
+            52,
+            117
+          ],
+          "ko_range": [
+            27,
+            63
+          ],
+          "source_text": "ἐξ ἀρχῆς ἄχρι τέλους μελετῶσαι τὸν μετὰ σωμάτων ἀποθνῄσκειν βίον,",
+          "ko_text": "처음부터 끝까지 몸과 더불어 사는 삶에 대해 죽는 것을 연습한다."
+        },
+        {
+          "id": "a-ae4348591d19844ce603",
+          "source_range": [
+            118,
+            193
+          ],
+          "ko_range": [
+            64,
+            110
+          ],
+          "source_text": "ἵνα τῆς ἀσωμάτου καὶ ἀφθάρτου παρὰ τῷ ἀγενήτῳ καὶ ἀφθάρτῳ ζωῆς μεταλάχωσιν,",
+          "ko_text": "생겨나지 않고 썩지 않는 분 곁에서 몸이 없고 썩지 않는 생명에 참여하려는 것이다."
+        }
+      ],
+      "notes": [
+        "몸과 더불어 사는 삶에 대해 죽는다는 표현은 철학자의 연습을 가리킨다. 앞 절의 강과 소용돌이는 몸에 들어간 영혼이 휩쓸리거나 헤엄쳐 나오는 모습을 나타낸다."
+      ],
+      "work_passage_id": "gig:14",
+      "html_path": "works/gig/index.html#p-14",
+      "fixed_html_path": "releases/public-0.35/works/gig/index.html#p-14",
+      "alignment_revision": "sha256:4acee07cce4645381d56bfc448c36356fac410bd7eee6c5e7379eb76cfcaaf80",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:0280ec525f56f0a8ae3428afc1b6db65698666d5196f404620cc2b274f5ed129",
+          "translation_revision": "sha256:bbae5c2d695728cdeb0d523760b267626ee4eb3f41963c3e672a970dea57ca7a",
+          "alignment_revision": "sha256:4acee07cce4645381d56bfc448c36356fac410bd7eee6c5e7379eb76cfcaaf80"
+        },
+        "scoped_ai_review": {
+          "id": "gig-addition-20261003",
+          "scope": "거인들에 관하여 1-20절 전체, 21-67절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:0280ec525f56f0a8ae3428afc1b6db65698666d5196f404620cc2b274f5ed129",
+            "translation_revision": "sha256:bbae5c2d695728cdeb0d523760b267626ee4eb3f41963c3e672a970dea57ca7a",
+            "alignment_revision": "sha256:4acee07cce4645381d56bfc448c36356fac410bd7eee6c5e7379eb76cfcaaf80"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg007/tlg0018.tlg007.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0으로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "거인들에 관하여",
+        "reference": "14",
+        "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
+        "release": "public-0.35",
+        "translation_revision": "sha256:bbae5c2d695728cdeb0d523760b267626ee4eb3f41963c3e672a970dea57ca7a",
+        "fixed_path": "releases/public-0.35/works/gig/index.html#p-14"
+      }
+    },
+    {
+      "ref": "15",
+      "section": 15,
+      "original": "αἱ δὲ καταποντωθεῖσαι τῶν ἄλλων ἀνθρώπων ὅσοι σοφίας ἠλόγησαν ἐκδόντες ἀστάτοις καὶ τυχηροῖς πράγμασιν ἑαυτοὺς, ὧν οὐδὲν εἰς τὸ κράτιστον τῶν ἐν ἡμῖν, ψυχὴν ἢ νοῦν, ἀναφέρεται, πάντα δὲ ἐπὶ τὸν συμφυᾶ νεκρὸν ἡμῶν, τὸ σῶμα, ἢ ἐπὶ τὰ ἀψυχότερα τούτου, δόξαν λέγω καὶ χρήματα καὶ ἀρχὰς καὶ τιμὰς καὶ ὅσα ἄλλα ὑπὸ τῶν μὴ τεθεαμένων τὰ πρὸς ἀλήθειαν καλὰ ἀπάτῃ ψευδοῦς δόξης ἀναπλάττεται ἢ ζωγραφεῖται.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:18fabe33f89f079bb7413ae515c14b8ea130bf2fed5be650740e6976ccba8b36",
+      "source_file_sha256": "6a9258755ef3424179beea5dd8f70a21ebd1734a8f61a07ed7cd0d872b1dffde",
+      "source_locator": {
+        "filename": "tlg0018.tlg007.1st1K-grc1.xml",
+        "reference": "15"
+      },
+      "korean": "반면 물에 잠긴 영혼들은 지혜를 돌보지 않고 자신을 불안정하며 우연에 좌우되는 일들에 내맡긴 다른 사람들의 영혼이다. 그 일들 가운데 어느 것도 우리 안에서 가장 뛰어난 영혼이나 지성과 관련되지 않는다. 모두 우리와 붙어 있는 시체인 몸에, 또는 그보다도 더 생명 없는 것들에 관련된다. 내가 말하는 것은 명성과 재산, 권력과 명예, 그리고 참으로 아름다운 것을 보지 못한 이들이 거짓된 견해에 속아 지어내거나 그려 놓은 다른 모든 것이다.",
+      "translation_revision": "sha256:f6a8f085b92b2b94c723d6f78fb5d46f3f7546fc25eef15aaab08a1389c4bf3f",
+      "groups": [
+        {
+          "id": "a-ffcffd00852f0bfb2860",
+          "source_range": [
+            0,
+            111
+          ],
+          "ko_range": [
+            0,
+            65
+          ],
+          "source_text": "αἱ δὲ καταποντωθεῖσαι τῶν ἄλλων ἀνθρώπων ὅσοι σοφίας ἠλόγησαν ἐκδόντες ἀστάτοις καὶ τυχηροῖς πράγμασιν ἑαυτοὺς,",
+          "ko_text": "반면 물에 잠긴 영혼들은 지혜를 돌보지 않고 자신을 불안정하며 우연에 좌우되는 일들에 내맡긴 다른 사람들의 영혼이다."
+        },
+        {
+          "id": "a-28ae20c06ce667996dc7",
+          "source_range": [
+            112,
+            176
+          ],
+          "ko_range": [
+            66,
+            113
+          ],
+          "source_text": "ὧν οὐδὲν εἰς τὸ κράτιστον τῶν ἐν ἡμῖν, ψυχὴν ἢ νοῦν, ἀναφέρεται,",
+          "ko_text": "그 일들 가운데 어느 것도 우리 안에서 가장 뛰어난 영혼이나 지성과 관련되지 않는다."
+        },
+        {
+          "id": "a-8113cc19873ed23a432a",
+          "source_range": [
+            177,
+            222
+          ],
+          "ko_range": [
+            114,
+            134
+          ],
+          "source_text": "πάντα δὲ ἐπὶ τὸν συμφυᾶ νεκρὸν ἡμῶν, τὸ σῶμα,",
+          "ko_text": "모두 우리와 붙어 있는 시체인 몸에,"
+        },
+        {
+          "id": "a-c0f05cf72dc154cc0fd6",
+          "source_range": [
+            223,
+            249
+          ],
+          "ko_range": [
+            135,
+            160
+          ],
+          "source_text": "ἢ ἐπὶ τὰ ἀψυχότερα τούτου,",
+          "ko_text": "또는 그보다도 더 생명 없는 것들에 관련된다."
+        },
+        {
+          "id": "a-b9e0ecec5a40be4f25c4",
+          "source_range": [
+            250,
+            292
+          ],
+          "ko_range": [
+            161,
+            186
+          ],
+          "source_text": "δόξαν λέγω καὶ χρήματα καὶ ἀρχὰς καὶ τιμὰς",
+          "ko_text": "내가 말하는 것은 명성과 재산, 권력과 명예,"
+        },
+        {
+          "id": "a-682e01677a698133c6e6",
+          "source_range": [
+            293,
+            397
+          ],
+          "ko_range": [
+            187,
+            246
+          ],
+          "source_text": "καὶ ὅσα ἄλλα ὑπὸ τῶν μὴ τεθεαμένων τὰ πρὸς ἀλήθειαν καλὰ ἀπάτῃ ψευδοῦς δόξης ἀναπλάττεται ἢ ζωγραφεῖται.",
+          "ko_text": "그리고 참으로 아름다운 것을 보지 못한 이들이 거짓된 견해에 속아 지어내거나 그려 놓은 다른 모든 것이다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "gig:15",
+      "html_path": "works/gig/index.html#p-15",
+      "fixed_html_path": "releases/public-0.35/works/gig/index.html#p-15",
+      "alignment_revision": "sha256:fc2033fb8d6b524292135d2398a749600ef0ae68a7a68fe302bff01b5aa19cff",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:18fabe33f89f079bb7413ae515c14b8ea130bf2fed5be650740e6976ccba8b36",
+          "translation_revision": "sha256:f6a8f085b92b2b94c723d6f78fb5d46f3f7546fc25eef15aaab08a1389c4bf3f",
+          "alignment_revision": "sha256:fc2033fb8d6b524292135d2398a749600ef0ae68a7a68fe302bff01b5aa19cff"
+        },
+        "scoped_ai_review": {
+          "id": "gig-addition-20261003",
+          "scope": "거인들에 관하여 1-20절 전체, 21-67절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:18fabe33f89f079bb7413ae515c14b8ea130bf2fed5be650740e6976ccba8b36",
+            "translation_revision": "sha256:f6a8f085b92b2b94c723d6f78fb5d46f3f7546fc25eef15aaab08a1389c4bf3f",
+            "alignment_revision": "sha256:fc2033fb8d6b524292135d2398a749600ef0ae68a7a68fe302bff01b5aa19cff"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg007/tlg0018.tlg007.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0으로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "거인들에 관하여",
+        "reference": "15",
+        "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
+        "release": "public-0.35",
+        "translation_revision": "sha256:f6a8f085b92b2b94c723d6f78fb5d46f3f7546fc25eef15aaab08a1389c4bf3f",
+        "fixed_path": "releases/public-0.35/works/gig/index.html#p-15"
+      }
+    },
+    {
+      "ref": "16",
+      "section": 16,
+      "original": "ψυχὰς οὖν καὶ δαίμονας καὶ ἀγγέλους ὀνόματα μὲν διαφέροντα, ἓν δὲ καὶ ταὐτὸν ὑποκείμενον διανοηθεὶς ἄχθος βαρύτατον ἀποθήσῃ δεισιδαιμονίαν. ὥσπερ γὰρ ἀγαθοὺς δαίμονας καὶ κακοὺς λέγουσιν οἱ πολλοὶ καὶ ψυχὰς ὁμοίως, οὕτως καὶ ἀγγέλους τοὺς μὲν τῆς προσρήσεως ἀξίους πρεσβευτάς τινας ἀνθρώπων πρὸς θεὸν καὶ θεοῦ πρὸς ἀνθρώπους ἱεροὺς καὶ ἀσύλους διὰ τὴν ἀνυπαίτιον καὶ παγκάλην ταύτην ὑπηρεσίαν, τοὺς δ’ ἔμπαλιν ἀνιέρους καὶ ἀναξίους τῆς προσρήσεως καὶ αὐτὸς ὑπολαμβάνων οὐχ ἁμαρτήσει.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:02d6377a44f6c1dc8934fdb642ef9826745768d58da612ade2c32308cdf90819",
+      "source_file_sha256": "6a9258755ef3424179beea5dd8f70a21ebd1734a8f61a07ed7cd0d872b1dffde",
+      "source_locator": {
+        "filename": "tlg0018.tlg007.1st1K-grc1.xml",
+        "reference": "16"
+      },
+      "encoded_page_breaks": [
+        "v.2.p.45"
+      ],
+      "korean": "영혼, 다이몬, 천사는 이름만 다를 뿐 그 바탕은 하나이며 같다고 이해하면, 가장 무거운 짐인 미신을 내려놓게 될 것이다. 많은 사람이 선한 다이몬과 악한 다이몬이 있고 영혼도 마찬가지라고 말하듯, 천사들도 어떤 이들은 그 이름에 합당하여 사람들에게서 하나님께, 하나님에게서 사람들에게 오는 사절들이라고 생각하라. 그들은 나무랄 데 없이 아름다운 이 봉사 때문에 거룩하며 침해받을 수 없다. 다른 이들은 반대로 거룩하지 않고 그 이름에 합당하지 않다고 생각해도 잘못이 없을 것이다.",
+      "translation_revision": "sha256:bbcf2a160a0c9e291f992fe26effa1d4f31e657a0748523325209323cb0f9537",
+      "groups": [
+        {
+          "id": "a-13a69d33f926f82b1a06",
+          "source_range": [
+            0,
+            99
+          ],
+          "ko_range": [
+            0,
+            42
+          ],
+          "source_text": "ψυχὰς οὖν καὶ δαίμονας καὶ ἀγγέλους ὀνόματα μὲν διαφέροντα, ἓν δὲ καὶ ταὐτὸν ὑποκείμενον διανοηθεὶς",
+          "ko_text": "영혼, 다이몬, 천사는 이름만 다를 뿐 그 바탕은 하나이며 같다고 이해하면,"
+        },
+        {
+          "id": "a-1b3c0aa05cbaa66fe2b3",
+          "source_range": [
+            100,
+            139
+          ],
+          "ko_range": [
+            43,
+            68
+          ],
+          "source_text": "ἄχθος βαρύτατον ἀποθήσῃ δεισιδαιμονίαν.",
+          "ko_text": "가장 무거운 짐인 미신을 내려놓게 될 것이다."
+        },
+        {
+          "id": "a-4b040c5ccfd85f4506e4",
+          "source_range": [
+            140,
+            214
+          ],
+          "ko_range": [
+            69,
+            110
+          ],
+          "source_text": "ὥσπερ γὰρ ἀγαθοὺς δαίμονας καὶ κακοὺς λέγουσιν οἱ πολλοὶ καὶ ψυχὰς ὁμοίως,",
+          "ko_text": "많은 사람이 선한 다이몬과 악한 다이몬이 있고 영혼도 마찬가지라고 말하듯,"
+        },
+        {
+          "id": "a-22c8bd066cbc030e9aed",
+          "source_range": [
+            215,
+            324
+          ],
+          "ko_range": [
+            111,
+            175
+          ],
+          "source_text": "οὕτως καὶ ἀγγέλους τοὺς μὲν τῆς προσρήσεως ἀξίους πρεσβευτάς τινας ἀνθρώπων πρὸς θεὸν καὶ θεοῦ πρὸς ἀνθρώπους",
+          "ko_text": "천사들도 어떤 이들은 그 이름에 합당하여 사람들에게서 하나님께, 하나님에게서 사람들에게 오는 사절들이라고 생각하라."
+        },
+        {
+          "id": "a-53b436f0673060e1c081",
+          "source_range": [
+            325,
+            393
+          ],
+          "ko_range": [
+            176,
+            218
+          ],
+          "source_text": "ἱεροὺς καὶ ἀσύλους διὰ τὴν ἀνυπαίτιον καὶ παγκάλην ταύτην ὑπηρεσίαν,",
+          "ko_text": "그들은 나무랄 데 없이 아름다운 이 봉사 때문에 거룩하며 침해받을 수 없다."
+        },
+        {
+          "id": "a-fc91b9be85a88d9b8b0d",
+          "source_range": [
+            394,
+            483
+          ],
+          "ko_range": [
+            219,
+            269
+          ],
+          "source_text": "τοὺς δ’ ἔμπαλιν ἀνιέρους καὶ ἀναξίους τῆς προσρήσεως καὶ αὐτὸς ὑπολαμβάνων οὐχ ἁμαρτήσει.",
+          "ko_text": "다른 이들은 반대로 거룩하지 않고 그 이름에 합당하지 않다고 생각해도 잘못이 없을 것이다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "gig:16",
+      "html_path": "works/gig/index.html#p-16",
+      "fixed_html_path": "releases/public-0.35/works/gig/index.html#p-16",
+      "alignment_revision": "sha256:f090aabb884a7ce77fa9a4499d29ae5a8c391c6ac8e7ceafe9e4848c68d3f840",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:02d6377a44f6c1dc8934fdb642ef9826745768d58da612ade2c32308cdf90819",
+          "translation_revision": "sha256:bbcf2a160a0c9e291f992fe26effa1d4f31e657a0748523325209323cb0f9537",
+          "alignment_revision": "sha256:f090aabb884a7ce77fa9a4499d29ae5a8c391c6ac8e7ceafe9e4848c68d3f840"
+        },
+        "scoped_ai_review": {
+          "id": "gig-addition-20261003",
+          "scope": "거인들에 관하여 1-20절 전체, 21-67절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:02d6377a44f6c1dc8934fdb642ef9826745768d58da612ade2c32308cdf90819",
+            "translation_revision": "sha256:bbcf2a160a0c9e291f992fe26effa1d4f31e657a0748523325209323cb0f9537",
+            "alignment_revision": "sha256:f090aabb884a7ce77fa9a4499d29ae5a8c391c6ac8e7ceafe9e4848c68d3f840"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg007/tlg0018.tlg007.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0으로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "거인들에 관하여",
+        "reference": "16",
+        "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
+        "release": "public-0.35",
+        "translation_revision": "sha256:bbcf2a160a0c9e291f992fe26effa1d4f31e657a0748523325209323cb0f9537",
+        "fixed_path": "releases/public-0.35/works/gig/index.html#p-16"
+      }
+    },
+    {
+      "ref": "17",
+      "section": 17,
+      "original": "μαρτυρεῖ δέ μου τῷ λόγῳ τὸ παρὰ τῷ ὑμνογράφῳ εἰρημένον ἐν ᾄσματι τούτῳ· “ἐξαπέστειλεν εἰς αὐτοὺς ὀργὴν θυμοῦ αὐτοῦ, θυμὸν καὶ ὀργὴν καὶ θλῖψιν, ἀποστολὴν δι’ ἀγγέλων πονηρῶν”. οὗτοί εἰσιν οἱ πονηροὶ τὸ ἀγγέλων ὄνομα ὑποδυόμενοι, τὰς μὲν ὀρθοῦ λόγου θυγατέρας, ἐπιστήμας καὶ ἀρετάς, οὐκ εἰδότες, τὰς δὲ τῶν ἀνθρώπων θνητὰς θνητῶν ἀπογόνους ἡδονὰς μετερχόμενοι γνήσιον μὲν οὐδὲν ἐπιφερομένας κάλλος, ὃ διανοίᾳ μόνῃ θεωρεῖται, νόθον δὲ εὐμορφίαν, δι’ ἧς ἡ αἴσθησις ἀπατᾶται.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:64f95b28b6abfe0408c150398adf31458bc5d0661ef5586108600821d0bf068e",
+      "source_file_sha256": "6a9258755ef3424179beea5dd8f70a21ebd1734a8f61a07ed7cd0d872b1dffde",
+      "source_locator": {
+        "filename": "tlg0018.tlg007.1st1K-grc1.xml",
+        "reference": "17"
+      },
+      "korean": "찬송을 지은 이가 다음 노래에서 한 말이 내 논증을 뒷받침한다. “그분은 맹렬한 노여움을, 분노와 진노와 환난을 그들에게 보내셨다. 악한 천사들을 통한 보냄이었다.” 이들은 천사라는 이름을 뒤집어쓴 악한 자들이다. 그들은 바른 이성의 딸들인 지식과 덕들을 알지 못하며, 죽을 사람들의 죽을 자손인 쾌락들을 추구한다. 그 쾌락들은 오직 생각으로만 볼 수 있는 참된 아름다움은 조금도 지니지 않고, 감각을 속이는 가짜 아름다움을 지닌다.",
+      "translation_revision": "sha256:1716b40a1ae9ef1b1c43a16957fe56d1b4774a7282bc5f3dcdfcc5a82b742661",
+      "groups": [
+        {
+          "id": "a-50cd981fb75b44282310",
+          "source_range": [
+            0,
+            71
+          ],
+          "ko_range": [
+            0,
+            35
+          ],
+          "source_text": "μαρτυρεῖ δέ μου τῷ λόγῳ τὸ παρὰ τῷ ὑμνογράφῳ εἰρημένον ἐν ᾄσματι τούτῳ·",
+          "ko_text": "찬송을 지은 이가 다음 노래에서 한 말이 내 논증을 뒷받침한다."
+        },
+        {
+          "id": "a-e62727ab03629a36b06c",
+          "source_range": [
+            72,
+            175
+          ],
+          "ko_range": [
+            36,
+            92
+          ],
+          "source_text": "“ἐξαπέστειλεν εἰς αὐτοὺς ὀργὴν θυμοῦ αὐτοῦ, θυμὸν καὶ ὀργὴν καὶ θλῖψιν, ἀποστολὴν δι’ ἀγγέλων πονηρῶν”.",
+          "ko_text": "“그분은 맹렬한 노여움을, 분노와 진노와 환난을 그들에게 보내셨다. 악한 천사들을 통한 보냄이었다.”"
+        },
+        {
+          "id": "a-94fd5f8848f3b0724ab6",
+          "source_range": [
+            176,
+            228
+          ],
+          "ko_range": [
+            93,
+            119
+          ],
+          "source_text": "οὗτοί εἰσιν οἱ πονηροὶ τὸ ἀγγέλων ὄνομα ὑποδυόμενοι,",
+          "ko_text": "이들은 천사라는 이름을 뒤집어쓴 악한 자들이다."
+        },
+        {
+          "id": "a-f1405a08eff842b999fc",
+          "source_range": [
+            229,
+            294
+          ],
+          "ko_range": [
+            120,
+            150
+          ],
+          "source_text": "τὰς μὲν ὀρθοῦ λόγου θυγατέρας, ἐπιστήμας καὶ ἀρετάς, οὐκ εἰδότες,",
+          "ko_text": "그들은 바른 이성의 딸들인 지식과 덕들을 알지 못하며,"
+        },
+        {
+          "id": "a-afdf136175f0c3384b05",
+          "source_range": [
+            295,
+            358
+          ],
+          "ko_range": [
+            151,
+            176
+          ],
+          "source_text": "τὰς δὲ τῶν ἀνθρώπων θνητὰς θνητῶν ἀπογόνους ἡδονὰς μετερχόμενοι",
+          "ko_text": "죽을 사람들의 죽을 자손인 쾌락들을 추구한다."
+        },
+        {
+          "id": "a-55bcaec06782d125e9f2",
+          "source_range": [
+            359,
+            471
+          ],
+          "ko_range": [
+            177,
+            242
+          ],
+          "source_text": "γνήσιον μὲν οὐδὲν ἐπιφερομένας κάλλος, ὃ διανοίᾳ μόνῃ θεωρεῖται, νόθον δὲ εὐμορφίαν, δι’ ἧς ἡ αἴσθησις ἀπατᾶται.",
+          "ko_text": "그 쾌락들은 오직 생각으로만 볼 수 있는 참된 아름다움은 조금도 지니지 않고, 감각을 속이는 가짜 아름다움을 지닌다."
+        }
+      ],
+      "notes": [
+        "인쇄본의 시편 인용 위치는 77.49이다. 악한 천사들이라는 말로 천사 이름을 가진 존재들을 선악으로 구분하고, 사람의 딸들은 감각적 쾌락으로 풀이한다."
+      ],
+      "work_passage_id": "gig:17",
+      "html_path": "works/gig/index.html#p-17",
+      "fixed_html_path": "releases/public-0.35/works/gig/index.html#p-17",
+      "alignment_revision": "sha256:5d9f3fd283ea59c22d08c272ee05273a635f9f7b6723c98bcfdb7ff307cd9227",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:64f95b28b6abfe0408c150398adf31458bc5d0661ef5586108600821d0bf068e",
+          "translation_revision": "sha256:1716b40a1ae9ef1b1c43a16957fe56d1b4774a7282bc5f3dcdfcc5a82b742661",
+          "alignment_revision": "sha256:5d9f3fd283ea59c22d08c272ee05273a635f9f7b6723c98bcfdb7ff307cd9227"
+        },
+        "scoped_ai_review": {
+          "id": "gig-addition-20261003",
+          "scope": "거인들에 관하여 1-20절 전체, 21-67절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:64f95b28b6abfe0408c150398adf31458bc5d0661ef5586108600821d0bf068e",
+            "translation_revision": "sha256:1716b40a1ae9ef1b1c43a16957fe56d1b4774a7282bc5f3dcdfcc5a82b742661",
+            "alignment_revision": "sha256:5d9f3fd283ea59c22d08c272ee05273a635f9f7b6723c98bcfdb7ff307cd9227"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg007/tlg0018.tlg007.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0으로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "거인들에 관하여",
+        "reference": "17",
+        "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
+        "release": "public-0.35",
+        "translation_revision": "sha256:1716b40a1ae9ef1b1c43a16957fe56d1b4774a7282bc5f3dcdfcc5a82b742661",
+        "fixed_path": "releases/public-0.35/works/gig/index.html#p-17"
+      }
+    },
+    {
+      "ref": "18",
+      "section": 18,
+      "original": "λαμβάνουσι δὲ οὐ πάσας ἅπαντες τὰς θυγατέρας, ἀλλ’ ἔνιοι ἐνίας ἐκ μυρίων ὅσων ἐπελέξαντο ἑαυτοῖς, οἱ μὲν τὰς δι’ ὄψεως, ἕτεροι δὲ τὰς δι’ ἀκοῆς, τὰς δ’ αὖ διὰ γεύσεως καὶ γαστρὸς ἄλλοι, τινὲς δὲ τὰς μετὰ γαστέρα, πολλοὶ δὲ καὶ τῶν πορρωτάτω διῳκισμένων ἀντελάβοντο τὰς μηκίστας ἐν ἑαυτοῖς τείνοντες ἐπιθυμίας· ποικίλαι γὰρ ἐξ ἀνάγκης αἱ ποικίλων ἡδονῶν αἱρέσεις, ἄλλων ᾠκειωμένων ἄλλαις.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:0df5e1397e84209b6dcf865ac6414ed23ef87fbaeea55589c13f34917f203ad7",
+      "source_file_sha256": "6a9258755ef3424179beea5dd8f70a21ebd1734a8f61a07ed7cd0d872b1dffde",
+      "source_locator": {
+        "filename": "tlg0018.tlg007.1st1K-grc1.xml",
+        "reference": "18"
+      },
+      "korean": "그들은 모두가 모든 딸을 취하지 않고, 어떤 이들은 수많은 딸 가운데 일부를 골라 자기 것으로 삼는다. 어떤 이들은 시각을 통한 쾌락을, 다른 이들은 청각을 통한 쾌락을, 또 다른 이들은 미각과 배를 통한 쾌락을 택한다. 어떤 이들은 배 아래의 쾌락을 택한다. 많은 사람은 자기 안의 욕망을 아주 멀리 뻗어, 가장 멀리 떨어진 쾌락들까지 붙잡는다. 다양한 쾌락을 고르는 방식은 반드시 다양하다. 사람마다 서로 다른 쾌락에 마음이 끌리기 때문이다.",
+      "translation_revision": "sha256:84f1313bbfc3a80460464f6de010f845a8eb30f4875166059fbe8a28f5a304b9",
+      "groups": [
+        {
+          "id": "a-f72861ef78121da67f46",
+          "source_range": [
+            0,
+            97
+          ],
+          "ko_range": [
+            0,
+            57
+          ],
+          "source_text": "λαμβάνουσι δὲ οὐ πάσας ἅπαντες τὰς θυγατέρας, ἀλλ’ ἔνιοι ἐνίας ἐκ μυρίων ὅσων ἐπελέξαντο ἑαυτοῖς,",
+          "ko_text": "그들은 모두가 모든 딸을 취하지 않고, 어떤 이들은 수많은 딸 가운데 일부를 골라 자기 것으로 삼는다."
+        },
+        {
+          "id": "a-e4308d7dba49e8c1f29f",
+          "source_range": [
+            98,
+            185
+          ],
+          "ko_range": [
+            58,
+            123
+          ],
+          "source_text": "οἱ μὲν τὰς δι’ ὄψεως, ἕτεροι δὲ τὰς δι’ ἀκοῆς, τὰς δ’ αὖ διὰ γεύσεως καὶ γαστρὸς ἄλλοι,",
+          "ko_text": "어떤 이들은 시각을 통한 쾌락을, 다른 이들은 청각을 통한 쾌락을, 또 다른 이들은 미각과 배를 통한 쾌락을 택한다."
+        },
+        {
+          "id": "a-26118184b817ac5d6011",
+          "source_range": [
+            186,
+            212
+          ],
+          "ko_range": [
+            124,
+            145
+          ],
+          "source_text": "τινὲς δὲ τὰς μετὰ γαστέρα,",
+          "ko_text": "어떤 이들은 배 아래의 쾌락을 택한다."
+        },
+        {
+          "id": "a-5bc12ebd918c588f0e54",
+          "source_range": [
+            213,
+            309
+          ],
+          "ko_range": [
+            146,
+            194
+          ],
+          "source_text": "πολλοὶ δὲ καὶ τῶν πορρωτάτω διῳκισμένων ἀντελάβοντο τὰς μηκίστας ἐν ἑαυτοῖς τείνοντες ἐπιθυμίας·",
+          "ko_text": "많은 사람은 자기 안의 욕망을 아주 멀리 뻗어, 가장 멀리 떨어진 쾌락들까지 붙잡는다."
+        },
+        {
+          "id": "a-7774336f2a42120a878f",
+          "source_range": [
+            310,
+            387
+          ],
+          "ko_range": [
+            195,
+            249
+          ],
+          "source_text": "ποικίλαι γὰρ ἐξ ἀνάγκης αἱ ποικίλων ἡδονῶν αἱρέσεις, ἄλλων ᾠκειωμένων ἄλλαις.",
+          "ko_text": "다양한 쾌락을 고르는 방식은 반드시 다양하다. 사람마다 서로 다른 쾌락에 마음이 끌리기 때문이다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "gig:18",
+      "html_path": "works/gig/index.html#p-18",
+      "fixed_html_path": "releases/public-0.35/works/gig/index.html#p-18",
+      "alignment_revision": "sha256:4d001eebec00ea73beef5f5a52a2a2035fe7f378ee21df7707cd1855d968939f",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:0df5e1397e84209b6dcf865ac6414ed23ef87fbaeea55589c13f34917f203ad7",
+          "translation_revision": "sha256:84f1313bbfc3a80460464f6de010f845a8eb30f4875166059fbe8a28f5a304b9",
+          "alignment_revision": "sha256:4d001eebec00ea73beef5f5a52a2a2035fe7f378ee21df7707cd1855d968939f"
+        },
+        "scoped_ai_review": {
+          "id": "gig-addition-20261003",
+          "scope": "거인들에 관하여 1-20절 전체, 21-67절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:0df5e1397e84209b6dcf865ac6414ed23ef87fbaeea55589c13f34917f203ad7",
+            "translation_revision": "sha256:84f1313bbfc3a80460464f6de010f845a8eb30f4875166059fbe8a28f5a304b9",
+            "alignment_revision": "sha256:4d001eebec00ea73beef5f5a52a2a2035fe7f378ee21df7707cd1855d968939f"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg007/tlg0018.tlg007.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0으로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "거인들에 관하여",
+        "reference": "18",
+        "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
+        "release": "public-0.35",
+        "translation_revision": "sha256:84f1313bbfc3a80460464f6de010f845a8eb30f4875166059fbe8a28f5a304b9",
+        "fixed_path": "releases/public-0.35/works/gig/index.html#p-18"
+      }
+    },
+    {
+      "ref": "19",
+      "section": 19,
+      "original": "Ἐν δὴ τοῖς τοιούτοις ἀμήχανον τὸ τοῦ θεοῦ καταμεῖναι καὶ διαιωνίσαι πνεῦμα, ὡς δηλοῖ καὶ αὐτὸς ὁ νομοθέτης. “εἶπε” γάρ φησι “κύριος ὁ θεός· οὐ καταμενεῖ τὸ πνεῦμά μου ἐν τοῖς ἀνθρώποις εἰς τὸν αἰῶνα διὰ τὸ εἶναι αὐτοὺς σάρκας”.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:99a243cff9e73c6a60eebe890f37a9ca53f36604b6e312f605b296b17c7ce656",
+      "source_file_sha256": "6a9258755ef3424179beea5dd8f70a21ebd1734a8f61a07ed7cd0d872b1dffde",
+      "source_locator": {
+        "filename": "tlg0018.tlg007.1st1K-grc1.xml",
+        "reference": "19"
+      },
+      "korean": "이런 이들 안에는 하나님의 영이 머물러 영원히 지속될 수 없다. 입법자 자신도 이를 분명히 한다. 그는 말한다. “주 하나님이 말씀하셨다. ‘나의 영은 이 사람들 안에 영원히 머물지 않을 것이다. 그들은 육체이기 때문이다.’”",
+      "translation_revision": "sha256:a56b671d4545cf80629be71041784d54b830a928b6530afe2d95c77c7caaa661",
+      "groups": [
+        {
+          "id": "a-324ada94fcd9a473e8bb",
+          "source_range": [
+            0,
+            75
+          ],
+          "ko_range": [
+            0,
+            35
+          ],
+          "source_text": "Ἐν δὴ τοῖς τοιούτοις ἀμήχανον τὸ τοῦ θεοῦ καταμεῖναι καὶ διαιωνίσαι πνεῦμα,",
+          "ko_text": "이런 이들 안에는 하나님의 영이 머물러 영원히 지속될 수 없다."
+        },
+        {
+          "id": "a-87c15da903ba7314957f",
+          "source_range": [
+            76,
+            107
+          ],
+          "ko_range": [
+            36,
+            54
+          ],
+          "source_text": "ὡς δηλοῖ καὶ αὐτὸς ὁ νομοθέτης.",
+          "ko_text": "입법자 자신도 이를 분명히 한다."
+        },
+        {
+          "id": "a-5cda2f6f7f9cd08accf9",
+          "source_range": [
+            108,
+            139
+          ],
+          "ko_range": [
+            55,
+            77
+          ],
+          "source_text": "“εἶπε” γάρ φησι “κύριος ὁ θεός·",
+          "ko_text": "그는 말한다. “주 하나님이 말씀하셨다."
+        },
+        {
+          "id": "a-945b25c0809cb3fa8462",
+          "source_range": [
+            140,
+            227
+          ],
+          "ko_range": [
+            78,
+            126
+          ],
+          "source_text": "οὐ καταμενεῖ τὸ πνεῦμά μου ἐν τοῖς ἀνθρώποις εἰς τὸν αἰῶνα διὰ τὸ εἶναι αὐτοὺς σάρκας”.",
+          "ko_text": "‘나의 영은 이 사람들 안에 영원히 머물지 않을 것이다. 그들은 육체이기 때문이다.’”"
+        }
+      ],
+      "notes": [
+        "창세기 6.3의 영과 육체를 인용한다. 20절은 나쁜 사람도 좋은 것에 대한 생각을 순간적으로 품을 수 있지만 이를 지키지 못한다는 설명으로 이어진다."
+      ],
+      "work_passage_id": "gig:19",
+      "html_path": "works/gig/index.html#p-19",
+      "fixed_html_path": "releases/public-0.35/works/gig/index.html#p-19",
+      "alignment_revision": "sha256:f239892d5d8cd1ba2cdc89829416b00ddd754704b87efc0fb7c67c1de23d893c",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:99a243cff9e73c6a60eebe890f37a9ca53f36604b6e312f605b296b17c7ce656",
+          "translation_revision": "sha256:a56b671d4545cf80629be71041784d54b830a928b6530afe2d95c77c7caaa661",
+          "alignment_revision": "sha256:f239892d5d8cd1ba2cdc89829416b00ddd754704b87efc0fb7c67c1de23d893c"
+        },
+        "scoped_ai_review": {
+          "id": "gig-addition-20261003",
+          "scope": "거인들에 관하여 1-20절 전체, 21-67절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:99a243cff9e73c6a60eebe890f37a9ca53f36604b6e312f605b296b17c7ce656",
+            "translation_revision": "sha256:a56b671d4545cf80629be71041784d54b830a928b6530afe2d95c77c7caaa661",
+            "alignment_revision": "sha256:f239892d5d8cd1ba2cdc89829416b00ddd754704b87efc0fb7c67c1de23d893c"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg007/tlg0018.tlg007.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0으로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "거인들에 관하여",
+        "reference": "19",
+        "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
+        "release": "public-0.35",
+        "translation_revision": "sha256:a56b671d4545cf80629be71041784d54b830a928b6530afe2d95c77c7caaa661",
+        "fixed_path": "releases/public-0.35/works/gig/index.html#p-19"
+      }
+    },
+    {
+      "ref": "20",
+      "section": 20,
+      "original": "μένει μὲν γὰρ ἔστιν ὅτε, καταμένει δ’ οὐκ εἰσάπαν παρὰ τοῖς πολλοῖς ἡμῖν. τίς γὰρ οὕτως ἄλογος ἢ ἄψυχός ἐστιν, ὡς μηδέποτε ἔννοιαν τοῦ ἀρίστου μήθ’ ἑκὼν μήτ’ ἄκων λαβεῖν; ἀλλὰ γὰρ καὶ τοῖς ἐξαγίστοις ἐπιποτᾶται πολλάκις αἰφνίδιος ἡ τοῦ καλοῦ φαντασία, συλλαβεῖν δ’ αὐτὴν καὶ φυλάξαι παρ’ ἑαυτοῖς ἀδυνατοῦσιν.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:21562b03371f576b30c6a165fd5ca4db2768559485169ab60052996283029bb8",
+      "source_file_sha256": "6a9258755ef3424179beea5dd8f70a21ebd1734a8f61a07ed7cd0d872b1dffde",
+      "source_locator": {
+        "filename": "tlg0018.tlg007.1st1K-grc1.xml",
+        "reference": "20"
+      },
+      "encoded_page_breaks": [
+        "v.2.p.46"
+      ],
+      "korean": "그 영은 우리 대부분에게 때때로 머물지만, 영원히 머물러 있지는 않는다. 누가 그토록 이성도 생명도 없어서, 자발적으로든 비자발적으로든 가장 좋은 것에 대한 생각을 단 한 번도 품지 않겠는가? 가장 사악한 이들에게도 아름다움의 표상이 뜻밖에 날아드는 일이 종종 있다. 그러나 그들은 그것을 붙잡아 자기 안에 지킬 수 없다.",
+      "translation_revision": "sha256:3fd999bce89804bb59b43521271c77bef1fdeba7f17dae3ecf964623cc4eb4a0",
+      "groups": [
+        {
+          "id": "a-4f7b3df4518ebec5664e",
+          "source_range": [
+            0,
+            73
+          ],
+          "ko_range": [
+            0,
+            40
+          ],
+          "source_text": "μένει μὲν γὰρ ἔστιν ὅτε, καταμένει δ’ οὐκ εἰσάπαν παρὰ τοῖς πολλοῖς ἡμῖν.",
+          "ko_text": "그 영은 우리 대부분에게 때때로 머물지만, 영원히 머물러 있지는 않는다."
+        },
+        {
+          "id": "a-5c1b6c52313f95db5f3d",
+          "source_range": [
+            74,
+            170
+          ],
+          "ko_range": [
+            41,
+            107
+          ],
+          "source_text": "τίς γὰρ οὕτως ἄλογος ἢ ἄψυχός ἐστιν, ὡς μηδέποτε ἔννοιαν τοῦ ἀρίστου μήθ’ ἑκὼν μήτ’ ἄκων λαβεῖν;",
+          "ko_text": "누가 그토록 이성도 생명도 없어서, 자발적으로든 비자발적으로든 가장 좋은 것에 대한 생각을 단 한 번도 품지 않겠는가?"
+        },
+        {
+          "id": "a-f75f41e54732326c7240",
+          "source_range": [
+            171,
+            251
+          ],
+          "ko_range": [
+            108,
+            149
+          ],
+          "source_text": "ἀλλὰ γὰρ καὶ τοῖς ἐξαγίστοις ἐπιποτᾶται πολλάκις αἰφνίδιος ἡ τοῦ καλοῦ φαντασία,",
+          "ko_text": "가장 사악한 이들에게도 아름다움의 표상이 뜻밖에 날아드는 일이 종종 있다."
+        },
+        {
+          "id": "a-74e4cc49583d1d8b9efd",
+          "source_range": [
+            252,
+            308
+          ],
+          "ko_range": [
+            150,
+            180
+          ],
+          "source_text": "συλλαβεῖν δ’ αὐτὴν καὶ φυλάξαι παρ’ ἑαυτοῖς ἀδυνατοῦσιν.",
+          "ko_text": "그러나 그들은 그것을 붙잡아 자기 안에 지킬 수 없다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "gig:20",
+      "html_path": "works/gig/index.html#p-20",
+      "fixed_html_path": "releases/public-0.35/works/gig/index.html#p-20",
+      "alignment_revision": "sha256:2622950d06f59c4892856c8a09dfeb9823f5f0c053ef182b5f41e9593605eb8c",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:21562b03371f576b30c6a165fd5ca4db2768559485169ab60052996283029bb8",
+          "translation_revision": "sha256:3fd999bce89804bb59b43521271c77bef1fdeba7f17dae3ecf964623cc4eb4a0",
+          "alignment_revision": "sha256:2622950d06f59c4892856c8a09dfeb9823f5f0c053ef182b5f41e9593605eb8c"
+        },
+        "scoped_ai_review": {
+          "id": "gig-addition-20261003",
+          "scope": "거인들에 관하여 1-20절 전체, 21-67절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:21562b03371f576b30c6a165fd5ca4db2768559485169ab60052996283029bb8",
+            "translation_revision": "sha256:3fd999bce89804bb59b43521271c77bef1fdeba7f17dae3ecf964623cc4eb4a0",
+            "alignment_revision": "sha256:2622950d06f59c4892856c8a09dfeb9823f5f0c053ef182b5f41e9593605eb8c"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg007/tlg0018.tlg007.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0으로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "거인들에 관하여",
+        "reference": "20",
+        "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
+        "release": "public-0.35",
+        "translation_revision": "sha256:3fd999bce89804bb59b43521271c77bef1fdeba7f17dae3ecf964623cc4eb4a0",
+        "fixed_path": "releases/public-0.35/works/gig/index.html#p-20"
+      }
+    }
+  ],
+  "related": [],
+  "aliases": [
+    "거인들에 관하여",
+    "Gig.",
+    "De gigantibus"
+  ],
+  "translationLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "sourceCommit": "03776b39f4047c5cff06f5296fae4b2bae4b08fb",
+  "licenseEvidence": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg007/tlg0018.tlg007.1st1K-grc1.xml",
+  "openAccessFullTextUrl": "https://archive.org/download/philonisalexandr0103philuoft/philonisalexandr0103philuoft.pdf",
+  "original_title": "De gigantibus",
+  "display_title": "거인들에 관하여",
+  "reference_scheme": "section",
+  "coverage_label": "1-20절 수록",
+  "edition_id": "gig-first1k-03776b39",
+  "source_file_sha256": "6a9258755ef3424179beea5dd8f70a21ebd1734a8f61a07ed7cd0d872b1dffde",
+  "display_author": "필론",
+  "scope": "거인들에 관하여 1-20절 전체, 21-67절 미수록",
+  "coverage": "complete_scope",
+  "release_id": "public-0.35",
+  "source_language": "grc",
+  "source_kind": "edited_ancient_original",
+  "human_reviewed": false,
+  "translation_method": "고정 원어 본문에서 직접 번역",
+  "html_path": "works/gig/index.html",
+  "json_path": "data/works/gig.json",
+  "fixed_html_path": "releases/public-0.35/works/gig/index.html",
+  "source_profile": "gig-first1k-03776b39",
+  "source_decisions": [
+    {
+      "kind": "display_punctuation",
+      "action": "Curly quotation marks, ASCII hyphens, NFC and regular spaces; downloaded XML unchanged."
+    },
+    {
+      "ref": "1",
+      "kind": "note",
+      "action": "separated_from_body",
+      "text": "p. 262 M."
+    },
+    {
+      "ref": "1",
+      "kind": "inline_editor_reference",
+      "action": "separated_from_body",
+      "text": "(Gen. 6,1)"
+    },
+    {
+      "ref": "4",
+      "kind": "note",
+      "action": "separated_from_body",
+      "text": "φίλωνος περὶ γιγάντων MAH, φίλωνος ἰουδαίου σοφοῦ περὶ γιγάντων λόγος η΄ U, τοῦ αὐτοῦ περὶ γιγάντων P 1 πολλοὶ γίνεσθαι] πληθύνεσθαι U 5 τι σπάνιον coni. Cohn σπάνιον x003E; conicio 6 ἀνευρίσκεται U οὖν] τοῦ ἐν U δεικνύντος U 7 τὰ oni. U καὶ ἀγαθὰ καὶ om. U 9 ἀπαῖρον U ὅσην scripsi: ὅσον codd., corr. in οὖσαν Η πλῆθος U ἀπεσκιασμένην HP, ταῖς κακίαις μενηγὸς (sic!) U 11 θάλασσαν U ἀποσκίδνησιν U καὶ om. U 12 υἱῶν] μερῶν U 13 τὸ ἐναντίον conicio 16 νοήματα L δένδρον U: ὧν ἄρα δένδρον M, ὧν ἄρα AP, ὡς ἄρα H, ὄντες, δένδρον coni. Diels οὗ MH: οὐ AUP 17 παθῶν] καρπῶν U 17. 43,1 ὧν αἱ γυναικώδεις εἰσὶ βλάσται U"
+    },
+    {
+      "ref": "6",
+      "kind": "inline_editor_reference",
+      "action": "separated_from_body",
+      "text": "(Gen. 6,2)"
+    },
+    {
+      "ref": "11",
+      "kind": "note",
+      "action": "separated_from_body",
+      "text": "1 θυγατέρας post οὗτοι transpos. Α 2 υἱῶν Α 3 θηλυτόκος AUH2: θηλυκοτόκος MH1P 4 τοὺς om. Α 5 ἔμπαλιν coni. Mang. γενέσθαι MAP, mg. H: ἰδέσθαι text. H, γεννᾶσθαι U 8 οἱ ἄλλοι U Μωυσῆς ἀγγέλους U Μώσης MAHP 9 ποτώμεναι H1P μήτις U ὑπολάβοι Α 10 εἶναι τὸ evanida in U, τὸ fort. deest. 11 ἐμψυχῶσθαι H1L 15 ὅλοι Α ὅλαι δι’ om. U παρ’ ὃ AUP 18 εἰσιν Η 19 οὐ] οὐδὲ PH1 20 ἐν om. H1P 21 πρὸς τοῦ ὁμοίου conicio καὶ eras. Η φήσωμεν U ut vid. 23 φιλίως ἀναιτίου U 24 ὁποῖος conicio 25 ταῖς] τοῖς H 26 πνεύματος] πατρὸς L πάντα πρὸς conicio πλείω Α 28 ἢ U: om. ceteri τὸ ἐναντίον Α"
+    },
+    {
+      "ref": "16",
+      "kind": "note",
+      "action": "separated_from_body",
+      "text": "1 φίλε U 2 post λαβὼν add. ἀθανάτου ψυχάς U 3 τὰ σώματα Α 4 ἠξιώθησαν U ταύταις codd.: αἷς Mang. 5 περιεχομέναις UH2: περιεχομέναις αἷς MAH1P 6 ἐπιστασίαν scripsi: ἐπίστασιν MAUP, σύστασιν Η 7 ποτὲ MAUE: τοτὲ HP δεινῆς U 8 ποτὲ MAUPE: τοτὲ Η 9 ὥρμησαν MAH1P: ὡρμήθησαν UH2E ἀνέπτησαν E: ἀπέπτησαν ceteri 10 ἀνόθως Mang.: ἄνωθέν πως MAHP, ἄνωθεν εὐσθενῶς UE 11 τὸν] τῶν Α ἀποθνήσκει Α 12 ἀγενήτω Hbr: ἀγεννήτω ceteri 13 καταποντωθεῖσαι MAHP: καταποθεῖσαι UE, καταποντισθεῖσαι L 14 πνεύμασιν Η οὐδεὶς τὸ U 14. 15 τὸ - ἡμῖν om. Ε 15 τῶν ἐν ἡμῖν om. U δ’ U 16 ψυχρότερα Α 17 ὑπὸ MAHE: ἀπὸ UP 18 τὰ om. HP 19 οὑν δαίμονας HP ὀνόματι μὲν διαφέροντας E 20 ἀποθήση Η: ἀποθήσει MAP, ἀποθήσεις UE"
+    },
+    {
+      "ref": "16",
+      "kind": "note",
+      "action": "separated_from_body",
+      "text": "2 sqq. Origenes Contra Celsum V 55 p. 620: καὶ τῶν πρὸ ἡμῶν τις ταῦτα ἀνήγαγεν εἰς τὸν περὶ ψυχῶν λόγον ἐν ἐπιθυμία γενομένων τοῦ ἐν σώματι ἀνθρώπων βίου, ἅπερ (leg. ὅνπερ) τροπολογῶν ἔφασκε λελέχθαι θυγατέρας ἀνθρώπων. Comment. in loannem VI 25 p. 142: ἥντινα κατάβασιν αἰνίσσεσθαί τινες ὑπειλήφασι τὴν τῶν ψυχῶν κάθοδον ἐπὶ τὰ σώ· μάτα, θυγατέρας ἀνθρώπων τροπικώτερον τὸ γήινον σκῆνος λέγεσθαι ὑπειληφότες. 6 - 45, 8 ἐκεῖναι δ’ ὥσπερ - ἀγγέλων πονηρῶν exstaut iu Epitome Περὶ κόσμου (= E) cap. 3, II p. 604,38 - 605,26 M. consensum codicum, non editionum lectiones adnotavi. 16 cf. Aristot. fr. 60."
+    },
+    {
+      "ref": "17",
+      "kind": "inline_editor_reference",
+      "action": "separated_from_body",
+      "text": "(Psalm. 77,49)"
+    },
+    {
+      "ref": "19",
+      "kind": "inline_editor_reference",
+      "action": "separated_from_body",
+      "text": "(Gen. 6,3)"
+    },
+    {
+      "ref": "20",
+      "kind": "note",
+      "action": "separated_from_body",
+      "text": "1 γὰρ UE: om. ’P, δὲ Η 2 2 οὕτω E τῆς] τῆς ἀγαθῆς Η 2 προρρήσεως ΑΕ ἀξίους om. HP 3 πρεσβύτας U 3. 4 ἀσύλους καὶ ἱεροὺς HP 4 post ἀσύλους add. φύλακας Ε πανάλην (sic) U 5 προρρήσεως Α καὶ αὐτὸς] καὶ ὑπαιτίους coni. Mang. 6 ἁμαρτήσεις UH2E 6. 7 λόγῳ ὁ ὑμνογράφος οὑτωσὶ λέγων Ε 7 τοῦτο U (coni. Mang.) 8 θυμὸν - ἀποστολὴν om. E ἀποστελεῖ Α 9 οὗτοι] spat. 5 litt. M οἱ ante τὸ add. H 2 τὸ om. M 1 1 θνητὰς τῶν ἀνθρώπων HP θνητῶν θνητὰς U 13 εὐμορφίαν ἧ αἴσθησις ἀπάγεται U 14 ἐνίας MHP: ἐνίας ἃς A, ἅς U ὅσον Α ἐπελέξαντο MAU: ἐξελέξαντο HP 15 δὲ om. HP 17 ἀντελάβοντο scripsi: ἀνελάβοντο codd. πρὸς μήκιστον τὰς ἐν conicio vel μηκίστας τὰς ἐν μηκίστας MAU: ἡκίστας (s. s. μ) P, ποικίλας in ras. H 18 τείναντες U(?) 19 ᾠκειωμένων ΑΗ2: ἐκειουμένων U, οἰκειωμένων MH1P 20 τὸ om. U 22 οὐ μὴ καταμείνῃ U εἰς om. U 23 μὲν om. U 24 καταμενεῖ AP οὐκ] οὐδ’ Η"
+    },
+    {
+      "ref": "20",
+      "kind": "note",
+      "action": "separated_from_body",
+      "text": "2. 3 cf. Platonis Symposion p. 202 E"
+    }
+  ],
+  "source_collations": [],
+  "validation_records": [
+    {
+      "id": "gig-addition-20261003",
+      "scope": "거인들에 관하여 1-20절 전체, 21-67절 미수록",
+      "date": "2026-10-03",
+      "reviewer_type": "AI",
+      "human_reviewed": false,
+      "reading_record_count": 20,
+      "meaning_groups": 87,
+      "methods": [
+        "선정한 그리스어 20개 대목을 읽고 한국어와 의미 대응을 작성했다.",
+        "해당 인쇄면과 편집 표기를 대조하고 문장 연결, 화자와 결락을 확인했다."
+      ],
+      "sources": [
+        {
+          "work": "gig",
+          "title": "거인들에 관하여",
+          "url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg007/tlg0018.tlg007.1st1K-grc1.xml",
+          "verified": "2026-10-03",
+          "http_status": 200,
+          "bytes": 76186,
+          "sha256": "6a9258755ef3424179beea5dd8f70a21ebd1734a8f61a07ed7cd0d872b1dffde",
+          "full_text": true,
+          "commit": "03776b39f4047c5cff06f5296fae4b2bae4b08fb",
+          "license": "CC BY-SA 4.0",
+          "license_evidence": "TEI publicationStmt/availability/licence",
+          "open_access_full_text_url": "https://archive.org/download/philonisalexandr0103philuoft/philonisalexandr0103philuoft.pdf",
+          "pdf_access_record": "pdf-access.json",
+          "printed_volume": 2,
+          "bibliographic_status": "confirmed",
+          "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
+          "pdf_pages_read": [
+            508,
+            509,
+            510,
+            511,
+            512
+          ],
+          "pdf_title_pages_read": [
+            9,
+            429
+          ],
+          "access_evidence": "공개 그리스어 XML과 대학도서관 인쇄본 PDF 전체를 인증 없이 내려받음",
+          "printed_collation_record": "printed-collation.json"
+        }
+      ],
+      "passages": [
+        {
+          "ref": "1",
+          "targets": {
+            "source_revision": "sha256:1abe4cab306b6bca82c7dc837a573823e3ee6466079d21d2b00dbc07a45a647c",
+            "translation_revision": "sha256:3efa7a30fbac407339c702e9e4d3a644acfafd2c99ff62c2700c00c56c9ffefe",
+            "alignment_revision": "sha256:b944f9ea7e7b01def05c45f0361ad51911d4051eb06a4190fa33858f9a7c37d0"
+          }
+        },
+        {
+          "ref": "2",
+          "targets": {
+            "source_revision": "sha256:2d5397a454bb503b26307ea3ae202bd0d37ac8083ca4dee2402d378132603414",
+            "translation_revision": "sha256:563fb1354ef7e1e461b191135823eb18be60aed996c05948ed84a1df3568ee10",
+            "alignment_revision": "sha256:748fec7b1108a30630001cef549c86a741b6e39c1a01d0fd29617cdb98810809"
+          }
+        },
+        {
+          "ref": "3",
+          "targets": {
+            "source_revision": "sha256:e3567a9078b98db579895e1e7d503b8386ef88ca15184d14332c7a0c14896b20",
+            "translation_revision": "sha256:19cb036198051b3e10328cd8a4ebac294b512ee8382b8c692080cadbbb61905b",
+            "alignment_revision": "sha256:a198c7a32cfe784ca366b44ceedf5112b53958445a4d3bf6d1ce2b478e12a6de"
+          }
+        },
+        {
+          "ref": "4",
+          "targets": {
+            "source_revision": "sha256:cd83b336b4b12eb7d6d7c2d56aa392707f3a8ade3601e7bc3f5481b28b49767e",
+            "translation_revision": "sha256:efadf6cd0057cf991edd91083e1bc67d79375f55a6e75fe9b7a184429a5a4a55",
+            "alignment_revision": "sha256:2d7d80fddb66cb7e966d8cfbfe6af1504355bf6dce346567eb05768fadaa2d6b"
+          }
+        },
+        {
+          "ref": "5",
+          "targets": {
+            "source_revision": "sha256:a26e7fdd1fc28529d546c4da1a2b4b5baa822d78793f2f67aa3b4d21fc498e53",
+            "translation_revision": "sha256:177151f3ce5f8191abedf444f5665541ece129acddd60859ba188f4af2cf3572",
+            "alignment_revision": "sha256:a6c0fdc6c8a75321b68e06706e568ab3e38732508f9faf2ad106372dd63fde91"
+          }
+        },
+        {
+          "ref": "6",
+          "targets": {
+            "source_revision": "sha256:0782d626dc64871a1714752a3c2e39924a562d3c3a5f39ce726bdcdf897304c5",
+            "translation_revision": "sha256:fd16d550f1762d39a5afbbadb66c209620c26533c1c6dd6007c587cefe7fb117",
+            "alignment_revision": "sha256:0897a26ab17d7326594e96dedc42b7cc785248f45a5ec248dc13eb50d4e9fd47"
+          }
+        },
+        {
+          "ref": "7",
+          "targets": {
+            "source_revision": "sha256:4cc32be86c05d67f40840ab8d2dc1cf2fdec93b9e25bb0d1716318464dd96b0f",
+            "translation_revision": "sha256:07797369f6b9fffe652730d0e17b561c2f8881231265d0eea123c3d2f05f881c",
+            "alignment_revision": "sha256:12327835c8b94204081373f9306d86d41a3a461b1b805ad11f3e922949aba87d"
+          }
+        },
+        {
+          "ref": "8",
+          "targets": {
+            "source_revision": "sha256:6b0fcc2b17633e8b5e90868669f76aba854d558bbe425d0e7a84e11b9d7ed115",
+            "translation_revision": "sha256:5b38e1ccef4a0bd08708e5b4506b207201db1d89b001ef657c40814351cba7e5",
+            "alignment_revision": "sha256:895c209a04883abbf2eaf64c349a79a229f93ebbf726820bf87a701b7fdf4379"
+          }
+        },
+        {
+          "ref": "9",
+          "targets": {
+            "source_revision": "sha256:5609fed49d1cde4696adc4232f0fabc80e091c47d65f34f30dd5bc734f0a3e76",
+            "translation_revision": "sha256:1fb516daeb96ba24a030a08882c739da64b1b94010460b0691270cc831263844",
+            "alignment_revision": "sha256:7ad15ccd8c50406d0c9a4187394dfd91ca1d613d5feddcf3d8db00238e71c6e7"
+          }
+        },
+        {
+          "ref": "10",
+          "targets": {
+            "source_revision": "sha256:e9ca182697c012d2e12d2c13030252fcfa337a0859e8b3d75ac3709a16c00bff",
+            "translation_revision": "sha256:91bdfb2b6822b9d784795954585ade10aaf46af4e88525c5426c475b60e61f69",
+            "alignment_revision": "sha256:99eb1f564386af6db6e07dbdb01f06b0565c62cb848a49fefb5886e67880f1e2"
+          }
+        },
+        {
+          "ref": "11",
+          "targets": {
+            "source_revision": "sha256:986193ff00f23c475b689617dce3647bfd9197c05dde43d80e0be7202bcf9c36",
+            "translation_revision": "sha256:e26279ce874a632446b8bca3c3925403595b14dee1f9cee37532330695c7ff6f",
+            "alignment_revision": "sha256:2a2f06b2e166a7fe718e87c089026aded260a422ce8eeba17bd67ce5ad3d2f02"
+          }
+        },
+        {
+          "ref": "12",
+          "targets": {
+            "source_revision": "sha256:c2d99f1fefea9570ccc7dc28e44a10c12beaea538fd0b473341616c6519be7a8",
+            "translation_revision": "sha256:ba24c28fc18c8b45465d9a170a6891248aedc717230ee2acbec744352c516ebb",
+            "alignment_revision": "sha256:d47317ac05f357e471a573b88f5238641c06ef4f4e02002c6fd718da67e029b3"
+          }
+        },
+        {
+          "ref": "13",
+          "targets": {
+            "source_revision": "sha256:65d1414d46cb04e4ab9479e42d8a42af7eb080c36b28ffbb0fbd01bbf3ceffbd",
+            "translation_revision": "sha256:6c02e3ce7ae2a8ad50e600f0d47f3f067acc318823f41056f9034963a6a5b89f",
+            "alignment_revision": "sha256:369e486f07e85290b7c277d382e6775b133b7add4e7ec11dccb02e2c27b4fff2"
+          }
+        },
+        {
+          "ref": "14",
+          "targets": {
+            "source_revision": "sha256:0280ec525f56f0a8ae3428afc1b6db65698666d5196f404620cc2b274f5ed129",
+            "translation_revision": "sha256:bbae5c2d695728cdeb0d523760b267626ee4eb3f41963c3e672a970dea57ca7a",
+            "alignment_revision": "sha256:4acee07cce4645381d56bfc448c36356fac410bd7eee6c5e7379eb76cfcaaf80"
+          }
+        },
+        {
+          "ref": "15",
+          "targets": {
+            "source_revision": "sha256:18fabe33f89f079bb7413ae515c14b8ea130bf2fed5be650740e6976ccba8b36",
+            "translation_revision": "sha256:f6a8f085b92b2b94c723d6f78fb5d46f3f7546fc25eef15aaab08a1389c4bf3f",
+            "alignment_revision": "sha256:fc2033fb8d6b524292135d2398a749600ef0ae68a7a68fe302bff01b5aa19cff"
+          }
+        },
+        {
+          "ref": "16",
+          "targets": {
+            "source_revision": "sha256:02d6377a44f6c1dc8934fdb642ef9826745768d58da612ade2c32308cdf90819",
+            "translation_revision": "sha256:bbcf2a160a0c9e291f992fe26effa1d4f31e657a0748523325209323cb0f9537",
+            "alignment_revision": "sha256:f090aabb884a7ce77fa9a4499d29ae5a8c391c6ac8e7ceafe9e4848c68d3f840"
+          }
+        },
+        {
+          "ref": "17",
+          "targets": {
+            "source_revision": "sha256:64f95b28b6abfe0408c150398adf31458bc5d0661ef5586108600821d0bf068e",
+            "translation_revision": "sha256:1716b40a1ae9ef1b1c43a16957fe56d1b4774a7282bc5f3dcdfcc5a82b742661",
+            "alignment_revision": "sha256:5d9f3fd283ea59c22d08c272ee05273a635f9f7b6723c98bcfdb7ff307cd9227"
+          }
+        },
+        {
+          "ref": "18",
+          "targets": {
+            "source_revision": "sha256:0df5e1397e84209b6dcf865ac6414ed23ef87fbaeea55589c13f34917f203ad7",
+            "translation_revision": "sha256:84f1313bbfc3a80460464f6de010f845a8eb30f4875166059fbe8a28f5a304b9",
+            "alignment_revision": "sha256:4d001eebec00ea73beef5f5a52a2a2035fe7f378ee21df7707cd1855d968939f"
+          }
+        },
+        {
+          "ref": "19",
+          "targets": {
+            "source_revision": "sha256:99a243cff9e73c6a60eebe890f37a9ca53f36604b6e312f605b296b17c7ce656",
+            "translation_revision": "sha256:a56b671d4545cf80629be71041784d54b830a928b6530afe2d95c77c7caaa661",
+            "alignment_revision": "sha256:f239892d5d8cd1ba2cdc89829416b00ddd754704b87efc0fb7c67c1de23d893c"
+          }
+        },
+        {
+          "ref": "20",
+          "targets": {
+            "source_revision": "sha256:21562b03371f576b30c6a165fd5ca4db2768559485169ab60052996283029bb8",
+            "translation_revision": "sha256:3fd999bce89804bb59b43521271c77bef1fdeba7f17dae3ecf964623cc4eb4a0",
+            "alignment_revision": "sha256:2622950d06f59c4892856c8a09dfeb9823f5f0c053ef182b5f41e9593605eb8c"
+          }
+        }
+      ]
+    }
+  ],
+  "publication_status": "public_review_edition"
+}

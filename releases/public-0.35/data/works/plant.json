@@ -1,0 +1,2689 @@
+{
+  "id": "plant",
+  "title": "나무 심기에 관하여",
+  "author": "필론",
+  "abbreviation": "Plant.",
+  "corpus": "jewish",
+  "language": "grc",
+  "genre": "철학적 성경 해석",
+  "period": "고대",
+  "region": "알렉산드리아",
+  "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
+  "summary": "노아의 포도원에서 시작하여 세계를 심으시는 하나님, 만물을 묶는 로고스, 하나님의 형상을 지닌 영혼을 설명합니다.",
+  "topics": [
+    "노아",
+    "포도원",
+    "세계",
+    "로고스"
+  ],
+  "notes": [],
+  "sourceUrl": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg010/tlg0018.tlg010.1st1K-grc1.xml",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "sourceCredit": "전자 전사와 부호화: University of Leipzig, First1KGreek, Digital Divide Data. 원판 편집: Paul Wendland.",
+  "verified": "2026-10-03",
+  "translationCredit": "Codex 작성, 원어 직접 번역 초안",
+  "reviewer": "학술 검토 전",
+  "translationLicense": "CC BY-SA 4.0",
+  "rightsNotice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0으로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요.",
+  "passages": [
+    {
+      "ref": "1",
+      "section": 1,
+      "original": "Ἐν μὲν τῷ προτέρῳ βιβλίῳ τὰ περὶ γεωργικῆς τέχνης γενικῆς, ὅσα καιρὸς ἦν, εἴπομεν, ἐν δὲ τούτῳ περὶ τῆς κατ’ εἶδος ἀμπελουργικῆς, ὡς ἂν οἷόν τε ᾖ, ἀποδώσομεν. τὸν γὰρ δίκαιον οὐ γεωργὸν μόνον, ἀλλὰ καὶ ἰδίως ἀμπελουργὸν εἰσάγει φάσκων· “ἤρξατο Νῶε ἄνθρωπος εἶναι γεωργὸς γῆς καὶ ἐφύτευσεν ἀμπελῶνα”.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:40c834d40146e525a157c7c7693e72917516a326584e7cb4e11ae9bfb8912c33",
+      "source_file_sha256": "e3773fa1792b98916fecb0c6211cd60b5c3250e25106da1cb262a63cd1cdbc40",
+      "source_locator": {
+        "filename": "tlg0018.tlg010.1st1K-grc1.xml",
+        "reference": "1"
+      },
+      "korean": "앞의 책에서는 일반적인 농사의 기술에 관해 필요한 만큼 말했다. 이 책에서는 그 특수한 분야인 포도 재배를 가능한 한 설명하겠다. 그는 의로운 사람을 농부로만 소개하지 않고, 특별히 포도 재배자로 소개하기 때문이다. “노아는 땅을 경작하는 농부가 되기 시작하여 포도원을 심었다”라고 말한다.",
+      "translation_revision": "sha256:7cf8005a9b991d9e4249c1b9048dc4a93b22feb1458184dd68d4d6b03be1e004",
+      "groups": [
+        {
+          "id": "a-85da11c465adbdce17d6",
+          "source_range": [
+            0,
+            82
+          ],
+          "ko_range": [
+            0,
+            35
+          ],
+          "source_text": "Ἐν μὲν τῷ προτέρῳ βιβλίῳ τὰ περὶ γεωργικῆς τέχνης γενικῆς, ὅσα καιρὸς ἦν, εἴπομεν,",
+          "ko_text": "앞의 책에서는 일반적인 농사의 기술에 관해 필요한 만큼 말했다."
+        },
+        {
+          "id": "a-4a2c6b8802cb4e50e267",
+          "source_range": [
+            83,
+            158
+          ],
+          "ko_range": [
+            36,
+            72
+          ],
+          "source_text": "ἐν δὲ τούτῳ περὶ τῆς κατ’ εἶδος ἀμπελουργικῆς, ὡς ἂν οἷόν τε ᾖ, ἀποδώσομεν.",
+          "ko_text": "이 책에서는 그 특수한 분야인 포도 재배를 가능한 한 설명하겠다."
+        },
+        {
+          "id": "a-2996831819e610dbef6f",
+          "source_range": [
+            159,
+            235
+          ],
+          "ko_range": [
+            73,
+            120
+          ],
+          "source_text": "τὸν γὰρ δίκαιον οὐ γεωργὸν μόνον, ἀλλὰ καὶ ἰδίως ἀμπελουργὸν εἰσάγει φάσκων·",
+          "ko_text": "그는 의로운 사람을 농부로만 소개하지 않고, 특별히 포도 재배자로 소개하기 때문이다."
+        },
+        {
+          "id": "a-9fcc49b3753d7c021080",
+          "source_range": [
+            236,
+            299
+          ],
+          "ko_range": [
+            121,
+            162
+          ],
+          "source_text": "“ἤρξατο Νῶε ἄνθρωπος εἶναι γεωργὸς γῆς καὶ ἐφύτευσεν ἀμπελῶνα”.",
+          "ko_text": "“노아는 땅을 경작하는 농부가 되기 시작하여 포도원을 심었다”라고 말한다."
+        }
+      ],
+      "notes": [
+        "앞의 책은 농사에 관하여이다. 이 책은 포도 재배라는 특수한 분야를 다루겠다고 밝힌 뒤, 먼저 세계 전체를 심으시는 분을 설명한다."
+      ],
+      "work_passage_id": "plant:1",
+      "html_path": "works/plant/index.html#p-1",
+      "fixed_html_path": "releases/public-0.35/works/plant/index.html#p-1",
+      "alignment_revision": "sha256:47e882623b0a645365057d30b97295ab1eb8a86fecccc30c56947ea639d787a8",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:40c834d40146e525a157c7c7693e72917516a326584e7cb4e11ae9bfb8912c33",
+          "translation_revision": "sha256:7cf8005a9b991d9e4249c1b9048dc4a93b22feb1458184dd68d4d6b03be1e004",
+          "alignment_revision": "sha256:47e882623b0a645365057d30b97295ab1eb8a86fecccc30c56947ea639d787a8"
+        },
+        "scoped_ai_review": {
+          "id": "plant-addition-20261003",
+          "scope": "나무 심기에 관하여 1-20절 전체, 21-177절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:40c834d40146e525a157c7c7693e72917516a326584e7cb4e11ae9bfb8912c33",
+            "translation_revision": "sha256:7cf8005a9b991d9e4249c1b9048dc4a93b22feb1458184dd68d4d6b03be1e004",
+            "alignment_revision": "sha256:47e882623b0a645365057d30b97295ab1eb8a86fecccc30c56947ea639d787a8"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg010/tlg0018.tlg010.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0으로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "나무 심기에 관하여",
+        "reference": "1",
+        "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
+        "release": "public-0.35",
+        "translation_revision": "sha256:7cf8005a9b991d9e4249c1b9048dc4a93b22feb1458184dd68d4d6b03be1e004",
+        "fixed_path": "releases/public-0.35/works/plant/index.html#p-1"
+      }
+    },
+    {
+      "ref": "2",
+      "section": 2,
+      "original": "προσήκει δὲ τὸν μέλλοντα περὶ τῶν κατὰ μέρος φυτουργιῶν τε καὶ γεωργιῶν διεξιέναι κατανοῆσαι πρῶτον τὰ τελειότατα τοῦ παντὸς φυτὰ καὶ τὸν μέγαν φυτουργὸν καὶ ἐπιστάτην αὐτῶν. ὁ μὲν τοίνυν τῶν φυτουργῶν μέγιστος καὶ τὴν τέχνην τελειότατος ὁ τῶν ὅλων ἡγεμών ἐστι, φυτὸν δὲ αὖ περιέχον ἐν ἑαυτῷ τὰ ἐν μέρει φυτὰ ἅμα παμμυρία καθάπερ κληματίδας ἐκ μιᾶς ἀναβλαστάνοντα ῥίζης ὅδε ὁ κόσμος.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:7eceada3f84a4f9a5b72e64c80919daad67f7107a4e6b3faad37173019652287",
+      "source_file_sha256": "e3773fa1792b98916fecb0c6211cd60b5c3250e25106da1cb262a63cd1cdbc40",
+      "source_locator": {
+        "filename": "tlg0018.tlg010.1st1K-grc1.xml",
+        "reference": "2"
+      },
+      "korean": "개별적인 심기와 경작을 설명하려는 사람은 먼저 우주에서 가장 완전한 식물들과, 그것들을 심고 감독하는 위대한 분을 살펴보아야 한다. 심는 이들 가운데 가장 위대하고 그 기술이 가장 완전한 분은 만물의 통치자이시다. 수없이 많은 개별 식물들이 한 뿌리에서 자라는 작은 가지들처럼 자기 안에 들어 있는 그 식물은 바로 이 세계이다.",
+      "translation_revision": "sha256:83ace5e7bbd7a045598f18da695cbcb7dd385c0cc3ec1e05340ed3ec3b45ebd0",
+      "groups": [
+        {
+          "id": "a-b9d869297e09fc179b4e",
+          "source_range": [
+            0,
+            174
+          ],
+          "ko_range": [
+            0,
+            73
+          ],
+          "source_text": "προσήκει δὲ τὸν μέλλοντα περὶ τῶν κατὰ μέρος φυτουργιῶν τε καὶ γεωργιῶν διεξιέναι κατανοῆσαι πρῶτον τὰ τελειότατα τοῦ παντὸς φυτὰ καὶ τὸν μέγαν φυτουργὸν καὶ ἐπιστάτην αὐτῶν.",
+          "ko_text": "개별적인 심기와 경작을 설명하려는 사람은 먼저 우주에서 가장 완전한 식물들과, 그것들을 심고 감독하는 위대한 분을 살펴보아야 한다."
+        },
+        {
+          "id": "a-635263e2194a79ece92f",
+          "source_range": [
+            175,
+            261
+          ],
+          "ko_range": [
+            74,
+            119
+          ],
+          "source_text": "ὁ μὲν τοίνυν τῶν φυτουργῶν μέγιστος καὶ τὴν τέχνην τελειότατος ὁ τῶν ὅλων ἡγεμών ἐστι,",
+          "ko_text": "심는 이들 가운데 가장 위대하고 그 기술이 가장 완전한 분은 만물의 통치자이시다."
+        },
+        {
+          "id": "a-9ed43b9bfe81e53c7591",
+          "source_range": [
+            262,
+            383
+          ],
+          "ko_range": [
+            120,
+            183
+          ],
+          "source_text": "φυτὸν δὲ αὖ περιέχον ἐν ἑαυτῷ τὰ ἐν μέρει φυτὰ ἅμα παμμυρία καθάπερ κληματίδας ἐκ μιᾶς ἀναβλαστάνοντα ῥίζης ὅδε ὁ κόσμος.",
+          "ko_text": "수없이 많은 개별 식물들이 한 뿌리에서 자라는 작은 가지들처럼 자기 안에 들어 있는 그 식물은 바로 이 세계이다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "plant:2",
+      "html_path": "works/plant/index.html#p-2",
+      "fixed_html_path": "releases/public-0.35/works/plant/index.html#p-2",
+      "alignment_revision": "sha256:c06f59031b8300dbb47ccee947a7b6b45b3ea14367640554ace68a71873ecbd5",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:7eceada3f84a4f9a5b72e64c80919daad67f7107a4e6b3faad37173019652287",
+          "translation_revision": "sha256:83ace5e7bbd7a045598f18da695cbcb7dd385c0cc3ec1e05340ed3ec3b45ebd0",
+          "alignment_revision": "sha256:c06f59031b8300dbb47ccee947a7b6b45b3ea14367640554ace68a71873ecbd5"
+        },
+        "scoped_ai_review": {
+          "id": "plant-addition-20261003",
+          "scope": "나무 심기에 관하여 1-20절 전체, 21-177절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:7eceada3f84a4f9a5b72e64c80919daad67f7107a4e6b3faad37173019652287",
+            "translation_revision": "sha256:83ace5e7bbd7a045598f18da695cbcb7dd385c0cc3ec1e05340ed3ec3b45ebd0",
+            "alignment_revision": "sha256:c06f59031b8300dbb47ccee947a7b6b45b3ea14367640554ace68a71873ecbd5"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg010/tlg0018.tlg010.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0으로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "나무 심기에 관하여",
+        "reference": "2",
+        "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
+        "release": "public-0.35",
+        "translation_revision": "sha256:83ace5e7bbd7a045598f18da695cbcb7dd385c0cc3ec1e05340ed3ec3b45ebd0",
+        "fixed_path": "releases/public-0.35/works/plant/index.html#p-2"
+      }
+    },
+    {
+      "ref": "3",
+      "section": 3,
+      "original": "ἐπειδὴ γὰρ τὴν οὐσίαν ἄτακτον καὶ συγκεχυμένην οὖσαν ἐξ αὑτῆς εἰς τάξιν ἐξ ἀταξίας καὶ ἐκ συγχύσεως εἰς διάκρισιν ἄγων ὁ κοσμοπλάστης μορφοῦν ἤρξατο, γῆν μὲν καὶ ὕδωρ ἐπὶ τὸ μέσον ἐρρίζου, τὰ δὲ ἀέρος καὶ πυρὸς δένδρα πρὸς τὴν μετάρσιον ἀνεῖλκεν ἀπὸ τοῦ μέσου χώραν, τὸν δὲ αἰθέριον ἐν κύκλῳ τόπον ὠχυροῦτο τῶν ἐντὸς ὅρον τε καὶ φυλακτήριον αὐτὸν τιθείς, ἀφ’ οὗ καὶ οὐρανὸς ὠνομάσθαι δοκεῖ· ⟨καὶ⟩ ὀχεῖσθαι μὲν γῆν ὕδατι ξηρὰν οὖσαν, ἣν δέος ἦν ὕδατι διαλύεσθαι, πυρὶ δὲ ἀέρα θερμῷ φύσει τὸν ἐξ ἑαυτοῦ ψυχρότατον, θαῦμα ἔκτοπον, ὁ θαυματοποιὸς εἰργάζετο.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:38a9c48579fb86e2fb509a6d6f612ff486b9ad7de73c8d6ff34c4865e2c693b6",
+      "source_file_sha256": "e3773fa1792b98916fecb0c6211cd60b5c3250e25106da1cb262a63cd1cdbc40",
+      "source_locator": {
+        "filename": "tlg0018.tlg010.1st1K-grc1.xml",
+        "reference": "3"
+      },
+      "encoded_page_breaks": [
+        "v.2.p.134"
+      ],
+      "korean": "세계를 빚는 분이 본래 무질서하고 뒤섞인 물질을 무질서에서 질서로, 혼란에서 구별로 이끌어 형태를 만들기 시작하실 때, 땅과 물은 중심에 뿌리내리게 하셨다. 공기와 불의 나무들은 중심에서 높은 영역으로 끌어 올리셨다. 에테르의 영역은 둘레에 단단히 세워 안쪽 것들의 경계와 방어물로 삼으셨다. 하늘이라는 이름도 여기에서 나온 것으로 보인다. ⟨그리고⟩ 기적을 행하시는 분은 마른 땅이 물 위에 받쳐지게 하셨다. 땅이 물에 풀어질까 염려할 만한데도 그러하셨다. 또 본래 가장 차가운 공기를 본래 뜨거운 불이 받치게 하셨다. 이는 놀라운 기적이었다.",
+      "translation_revision": "sha256:bd573d72faae68b055c15b4cf2d5d9837e1f62bf74ce392f843ce08c8f18f89d",
+      "groups": [
+        {
+          "id": "a-4406a19c84ad1d8fc04f",
+          "source_range": [
+            0,
+            149
+          ],
+          "ko_range": [
+            0,
+            66
+          ],
+          "source_text": "ἐπειδὴ γὰρ τὴν οὐσίαν ἄτακτον καὶ συγκεχυμένην οὖσαν ἐξ αὑτῆς εἰς τάξιν ἐξ ἀταξίας καὶ ἐκ συγχύσεως εἰς διάκρισιν ἄγων ὁ κοσμοπλάστης μορφοῦν ἤρξατο,",
+          "ko_text": "세계를 빚는 분이 본래 무질서하고 뒤섞인 물질을 무질서에서 질서로, 혼란에서 구별로 이끌어 형태를 만들기 시작하실 때,"
+        },
+        {
+          "id": "a-16739c274f9032f213e2",
+          "source_range": [
+            150,
+            188
+          ],
+          "ko_range": [
+            67,
+            87
+          ],
+          "source_text": "γῆν μὲν καὶ ὕδωρ ἐπὶ τὸ μέσον ἐρρίζου,",
+          "ko_text": "땅과 물은 중심에 뿌리내리게 하셨다."
+        },
+        {
+          "id": "a-c814d7e4c31575176785",
+          "source_range": [
+            189,
+            266
+          ],
+          "ko_range": [
+            88,
+            121
+          ],
+          "source_text": "τὰ δὲ ἀέρος καὶ πυρὸς δένδρα πρὸς τὴν μετάρσιον ἀνεῖλκεν ἀπὸ τοῦ μέσου χώραν,",
+          "ko_text": "공기와 불의 나무들은 중심에서 높은 영역으로 끌어 올리셨다."
+        },
+        {
+          "id": "a-dcf1be645f6a843cb45c",
+          "source_range": [
+            267,
+            354
+          ],
+          "ko_range": [
+            122,
+            163
+          ],
+          "source_text": "τὸν δὲ αἰθέριον ἐν κύκλῳ τόπον ὠχυροῦτο τῶν ἐντὸς ὅρον τε καὶ φυλακτήριον αὐτὸν τιθείς,",
+          "ko_text": "에테르의 영역은 둘레에 단단히 세워 안쪽 것들의 경계와 방어물로 삼으셨다."
+        },
+        {
+          "id": "a-7e697bd08602878445d4",
+          "source_range": [
+            355,
+            390
+          ],
+          "ko_range": [
+            164,
+            190
+          ],
+          "source_text": "ἀφ’ οὗ καὶ οὐρανὸς ὠνομάσθαι δοκεῖ·",
+          "ko_text": "하늘이라는 이름도 여기에서 나온 것으로 보인다."
+        },
+        {
+          "id": "a-010a037949ae420dc18a",
+          "source_range": [
+            391,
+            461
+          ],
+          "ko_range": [
+            191,
+            256
+          ],
+          "source_text": "⟨καὶ⟩ ὀχεῖσθαι μὲν γῆν ὕδατι ξηρὰν οὖσαν, ἣν δέος ἦν ὕδατι διαλύεσθαι,",
+          "ko_text": "⟨그리고⟩ 기적을 행하시는 분은 마른 땅이 물 위에 받쳐지게 하셨다. 땅이 물에 풀어질까 염려할 만한데도 그러하셨다."
+        },
+        {
+          "id": "a-dfc50766110ffdcf4111",
+          "source_range": [
+            462,
+            553
+          ],
+          "ko_range": [
+            257,
+            305
+          ],
+          "source_text": "πυρὶ δὲ ἀέρα θερμῷ φύσει τὸν ἐξ ἑαυτοῦ ψυχρότατον, θαῦμα ἔκτοπον, ὁ θαυματοποιὸς εἰργάζετο.",
+          "ko_text": "또 본래 가장 차가운 공기를 본래 뜨거운 불이 받치게 하셨다. 이는 놀라운 기적이었다."
+        }
+      ],
+      "notes": [
+        "땅과 물, 공기와 불, 둘레의 에테르를 배치하는 고대 우주론의 설명이다. 하늘의 이름도 경계와 보호의 기능에 연결한다."
+      ],
+      "work_passage_id": "plant:3",
+      "html_path": "works/plant/index.html#p-3",
+      "fixed_html_path": "releases/public-0.35/works/plant/index.html#p-3",
+      "alignment_revision": "sha256:3abebe73a3fd6b10085c6feb2fb321870170a0965ef978974dc09f4925cd7e22",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:38a9c48579fb86e2fb509a6d6f612ff486b9ad7de73c8d6ff34c4865e2c693b6",
+          "translation_revision": "sha256:bd573d72faae68b055c15b4cf2d5d9837e1f62bf74ce392f843ce08c8f18f89d",
+          "alignment_revision": "sha256:3abebe73a3fd6b10085c6feb2fb321870170a0965ef978974dc09f4925cd7e22"
+        },
+        "scoped_ai_review": {
+          "id": "plant-addition-20261003",
+          "scope": "나무 심기에 관하여 1-20절 전체, 21-177절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:38a9c48579fb86e2fb509a6d6f612ff486b9ad7de73c8d6ff34c4865e2c693b6",
+            "translation_revision": "sha256:bd573d72faae68b055c15b4cf2d5d9837e1f62bf74ce392f843ce08c8f18f89d",
+            "alignment_revision": "sha256:3abebe73a3fd6b10085c6feb2fb321870170a0965ef978974dc09f4925cd7e22"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg010/tlg0018.tlg010.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0으로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "나무 심기에 관하여",
+        "reference": "3",
+        "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
+        "release": "public-0.35",
+        "translation_revision": "sha256:bd573d72faae68b055c15b4cf2d5d9837e1f62bf74ce392f843ce08c8f18f89d",
+        "fixed_path": "releases/public-0.35/works/plant/index.html#p-3"
+      }
+    },
+    {
+      "ref": "4",
+      "section": 4,
+      "original": "πῶς γὰρ οὐ τεράστιον ὑπὸ μὲν τοῦ λυομένου συνέχεσθαι τὸ λύον, πρὸς γῆς ὕδωρ, ἐπὶ δὲ τῷ ψυχροτάτῳ τὸ θερμότατον ἄσβεστον ἱδρῦσθαι, πῦρ ἐπὶ ἀέρι; καὶ ταῦτα μὲν τὰ τέλεια τοῦ παντὸς ἦν μοσχεύματα, τὸ δὲ παμμέγεθες καὶ παμφορώτατον ἔρνος ὁ κόσμος οὗτος, οὗ παραφυάδες οἱ εἰρημένοι βλαστοί.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:0f43a0311c8f5e9c7124315d96f24e678441766db0a4b6447878c2a3b9d63563",
+      "source_file_sha256": "e3773fa1792b98916fecb0c6211cd60b5c3250e25106da1cb262a63cd1cdbc40",
+      "source_locator": {
+        "filename": "tlg0018.tlg010.1st1K-grc1.xml",
+        "reference": "4"
+      },
+      "base_original": "πῶς γὰρ οὐ τεράστιον ὑπὸ μὲν τοῦ λυομένου συνέχεσθα τὸ λύον, πρὸς γῆς ὕδωρ, ἐπὶ δὲ τῷ ψυχροτάτῳ τὸ θερμότατον ἄσβεστον ἱδρῦσθαι, πῦρ ἐπὶ ἀέρι; καὶ ταῦτα μὲν τὰ τέλεια τοῦ παντὸς ἦν μοσχεύματα, τὸ δὲ παμμέγεθες καὶ παμφορώτατον ἔρνος ὁ κόσμος οὗτος, οὗ παραφυάδες οἱ εἰρημένοι βλαστοί.",
+      "source_collation": {
+        "edition": "Wendland 1897, vol. 2",
+        "url": "https://archive.org/download/philonisalexandr0103philuoft/philonisalexandr0103philuoft.pdf#page=600",
+        "pdf_file": "research/planning/philo-genesis-ten-20261003/cohn-wendland-vol1-3.pdf",
+        "corrections": [
+          {
+            "ref": "4",
+            "before": "συνέχεσθα",
+            "after": "συνέχεσθαι",
+            "printed_page": 134,
+            "pdf_page": 600,
+            "reason": "인쇄본문의 부정사 끝 이오타 복원"
+          }
+        ]
+      },
+      "korean": "녹이는 것이 녹임을 당하는 것에 의해 붙들려 있다면, 곧 물이 땅에 의해 붙들려 있다면 어찌 기적이 아니겠는가? 또 가장 뜨거운 것이 가장 차가운 것 위에서 꺼지지 않고 서 있다면, 곧 불이 공기 위에 있다면 어떻겠는가? 이것들이 우주의 완전한 어린나무들이었다. 그러나 가장 크고 모든 것을 맺는 나무는 이 세계이며, 앞서 말한 새싹들은 그 곁가지들이다.",
+      "translation_revision": "sha256:349afdcb6123408418eff30762ba03f816459ea773f11fdea6ad41ca9f9a423d",
+      "groups": [
+        {
+          "id": "a-d0ca60fae5faf5de60d0",
+          "source_range": [
+            0,
+            76
+          ],
+          "ko_range": [
+            0,
+            62
+          ],
+          "source_text": "πῶς γὰρ οὐ τεράστιον ὑπὸ μὲν τοῦ λυομένου συνέχεσθαι τὸ λύον, πρὸς γῆς ὕδωρ,",
+          "ko_text": "녹이는 것이 녹임을 당하는 것에 의해 붙들려 있다면, 곧 물이 땅에 의해 붙들려 있다면 어찌 기적이 아니겠는가?"
+        },
+        {
+          "id": "a-b0b7c971e9b50ba83dea",
+          "source_range": [
+            77,
+            143
+          ],
+          "ko_range": [
+            63,
+            123
+          ],
+          "source_text": "ἐπὶ δὲ τῷ ψυχροτάτῳ τὸ θερμότατον ἄσβεστον ἱδρῦσθαι, πῦρ ἐπὶ ἀέρι;",
+          "ko_text": "또 가장 뜨거운 것이 가장 차가운 것 위에서 꺼지지 않고 서 있다면, 곧 불이 공기 위에 있다면 어떻겠는가?"
+        },
+        {
+          "id": "a-70ce23c02f8007ce22eb",
+          "source_range": [
+            144,
+            233
+          ],
+          "ko_range": [
+            124,
+            169
+          ],
+          "source_text": "καὶ ταῦτα μὲν τὰ τέλεια τοῦ παντὸς ἦν μοσχεύματα, τὸ δὲ παμμέγεθες καὶ παμφορώτατον ἔρνος",
+          "ko_text": "이것들이 우주의 완전한 어린나무들이었다. 그러나 가장 크고 모든 것을 맺는 나무는"
+        },
+        {
+          "id": "a-6236d868b04e2193f056",
+          "source_range": [
+            234,
+            285
+          ],
+          "ko_range": [
+            170,
+            198
+          ],
+          "source_text": "ὁ κόσμος οὗτος, οὗ παραφυάδες οἱ εἰρημένοι βλαστοί.",
+          "ko_text": "이 세계이며, 앞서 말한 새싹들은 그 곁가지들이다."
+        }
+      ],
+      "notes": [
+        "Wendland 1897판 134쪽의 부정사는 συνέχεσθαι이다. 전자 전사에서 빠진 끝 이오타를 복원했다. 이 문장은 물이 땅에 붙들리고 불이 공기 위에서 꺼지지 않는 일을 기적으로 설명한다."
+      ],
+      "work_passage_id": "plant:4",
+      "html_path": "works/plant/index.html#p-4",
+      "fixed_html_path": "releases/public-0.35/works/plant/index.html#p-4",
+      "alignment_revision": "sha256:bc49cbd4b2d23326a20f5a23fd024ff2a47a69ed91776af0ef054654e4da6f50",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_with_printed_collation",
+        "targets": {
+          "source_revision": "sha256:0f43a0311c8f5e9c7124315d96f24e678441766db0a4b6447878c2a3b9d63563",
+          "translation_revision": "sha256:349afdcb6123408418eff30762ba03f816459ea773f11fdea6ad41ca9f9a423d",
+          "alignment_revision": "sha256:bc49cbd4b2d23326a20f5a23fd024ff2a47a69ed91776af0ef054654e4da6f50"
+        },
+        "scoped_ai_review": {
+          "id": "plant-addition-20261003",
+          "scope": "나무 심기에 관하여 1-20절 전체, 21-177절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:0f43a0311c8f5e9c7124315d96f24e678441766db0a4b6447878c2a3b9d63563",
+            "translation_revision": "sha256:349afdcb6123408418eff30762ba03f816459ea773f11fdea6ad41ca9f9a423d",
+            "alignment_revision": "sha256:bc49cbd4b2d23326a20f5a23fd024ff2a47a69ed91776af0ef054654e4da6f50"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg010/tlg0018.tlg010.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0으로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "나무 심기에 관하여",
+        "reference": "4",
+        "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
+        "release": "public-0.35",
+        "translation_revision": "sha256:349afdcb6123408418eff30762ba03f816459ea773f11fdea6ad41ca9f9a423d",
+        "fixed_path": "releases/public-0.35/works/plant/index.html#p-4",
+        "collation_edition": "Wendland 1897, vol. 2"
+      }
+    },
+    {
+      "ref": "5",
+      "section": 5,
+      "original": "Ὅπου ποτ’ οὖν ἄρα τὰς ῥίζας καθῆκε καὶ τίς ἐστιν αὐτῷ βάσις, ἐφ’ ἧς ὥσπερ ἀνδριὰς ἐρήρεισται, σκεπτέον. σῶμα μὲν οὖν οὐδὲν ἀπολειφθὲν εἰκὸς ἔξω πλανᾶσθαι πᾶσαν τὴν δι’ ὅλων ὕλην ἐργασαμένου καὶ διακοσμήσαντος θεοῦ·",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:27331d56b77b003f8bb1131914a18b08f8dae09ff1e4b7a12b9630048813365d",
+      "source_file_sha256": "e3773fa1792b98916fecb0c6211cd60b5c3250e25106da1cb262a63cd1cdbc40",
+      "source_locator": {
+        "filename": "tlg0018.tlg010.1st1K-grc1.xml",
+        "reference": "5"
+      },
+      "korean": "이 나무가 어디에 뿌리를 내렸는지, 조각상처럼 기대어 서 있는 그 받침이 무엇인지 살펴보아야 한다. 하나님이 모든 물질을 빠짐없이 다듬어 질서 있게 배치하셨으므로, 어떤 물체가 남아서 바깥을 떠돌아다니리라고 생각할 수는 없다.",
+      "translation_revision": "sha256:664b9b6a52b838f14d9613fee69d23f8dfb80f7a8ffb3781dab84e637e97ab76",
+      "groups": [
+        {
+          "id": "a-318ed96b5dba98faa663",
+          "source_range": [
+            0,
+            103
+          ],
+          "ko_range": [
+            0,
+            55
+          ],
+          "source_text": "Ὅπου ποτ’ οὖν ἄρα τὰς ῥίζας καθῆκε καὶ τίς ἐστιν αὐτῷ βάσις, ἐφ’ ἧς ὥσπερ ἀνδριὰς ἐρήρεισται, σκεπτέον.",
+          "ko_text": "이 나무가 어디에 뿌리를 내렸는지, 조각상처럼 기대어 서 있는 그 받침이 무엇인지 살펴보아야 한다."
+        },
+        {
+          "id": "a-8e2d3ad1e70bf3ad3eab",
+          "source_range": [
+            104,
+            214
+          ],
+          "ko_range": [
+            56,
+            126
+          ],
+          "source_text": "σῶμα μὲν οὖν οὐδὲν ἀπολειφθὲν εἰκὸς ἔξω πλανᾶσθαι πᾶσαν τὴν δι’ ὅλων ὕλην ἐργασαμένου καὶ διακοσμήσαντος θεοῦ·",
+          "ko_text": "하나님이 모든 물질을 빠짐없이 다듬어 질서 있게 배치하셨으므로, 어떤 물체가 남아서 바깥을 떠돌아다니리라고 생각할 수는 없다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "plant:5",
+      "html_path": "works/plant/index.html#p-5",
+      "fixed_html_path": "releases/public-0.35/works/plant/index.html#p-5",
+      "alignment_revision": "sha256:66ae974a516966d155763f7def117d77c2ea245a143fbd9eb5c8bf91238a6978",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:27331d56b77b003f8bb1131914a18b08f8dae09ff1e4b7a12b9630048813365d",
+          "translation_revision": "sha256:664b9b6a52b838f14d9613fee69d23f8dfb80f7a8ffb3781dab84e637e97ab76",
+          "alignment_revision": "sha256:66ae974a516966d155763f7def117d77c2ea245a143fbd9eb5c8bf91238a6978"
+        },
+        "scoped_ai_review": {
+          "id": "plant-addition-20261003",
+          "scope": "나무 심기에 관하여 1-20절 전체, 21-177절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:27331d56b77b003f8bb1131914a18b08f8dae09ff1e4b7a12b9630048813365d",
+            "translation_revision": "sha256:664b9b6a52b838f14d9613fee69d23f8dfb80f7a8ffb3781dab84e637e97ab76",
+            "alignment_revision": "sha256:66ae974a516966d155763f7def117d77c2ea245a143fbd9eb5c8bf91238a6978"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg010/tlg0018.tlg010.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0으로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "나무 심기에 관하여",
+        "reference": "5",
+        "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
+        "release": "public-0.35",
+        "translation_revision": "sha256:664b9b6a52b838f14d9613fee69d23f8dfb80f7a8ffb3781dab84e637e97ab76",
+        "fixed_path": "releases/public-0.35/works/plant/index.html#p-5"
+      }
+    },
+    {
+      "ref": "6",
+      "section": 6,
+      "original": "τελειότατον γὰρ ἥρμοττε τὸ μέγιστον τῶν ἔργων τῷ μεγίστῳ δημιουργῷ διαπλάσασθαι, τελειότατον δὲ οὐκ ἂν ἦν, εἰ μὴ τελείοις συνεπληροῦτο μέρεσιν· ὥστε ἐκ γῆς ἁπάσης καὶ παντὸς ὕδατος καὶ ἀέρος καὶ πυρός, μηδενὸς ἔξω μηδὲ τοῦ βραχυτάτου καταλειφθέντος, συνέστη ὅδε ὁ κόσμος.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:5101d6e34c7b5ab87b87d0653d18dac505a02456b4ea44b3f2509d950c066803",
+      "source_file_sha256": "e3773fa1792b98916fecb0c6211cd60b5c3250e25106da1cb262a63cd1cdbc40",
+      "source_locator": {
+        "filename": "tlg0018.tlg010.1st1K-grc1.xml",
+        "reference": "6"
+      },
+      "korean": "가장 위대한 창조주께는 가장 큰 작품을 가장 완전하게 빚는 것이 알맞았기 때문이다. 그 작품은 완전한 부분들로 채워지지 않았다면 가장 완전하지 못했을 것이다. 따라서 이 세계는 모든 땅과 모든 물과 공기와 불로 이루어졌으며, 아주 작은 것 하나도 바깥에 남지 않았다.",
+      "translation_revision": "sha256:2179571e5ada6c5c15bd0b3c639c6cb5f383bf5dce9fa5198cd58410c0951c9a",
+      "groups": [
+        {
+          "id": "a-8eda982fe0123c926042",
+          "source_range": [
+            0,
+            80
+          ],
+          "ko_range": [
+            0,
+            46
+          ],
+          "source_text": "τελειότατον γὰρ ἥρμοττε τὸ μέγιστον τῶν ἔργων τῷ μεγίστῳ δημιουργῷ διαπλάσασθαι,",
+          "ko_text": "가장 위대한 창조주께는 가장 큰 작품을 가장 완전하게 빚는 것이 알맞았기 때문이다."
+        },
+        {
+          "id": "a-73147993a2e922e2b302",
+          "source_range": [
+            81,
+            143
+          ],
+          "ko_range": [
+            47,
+            88
+          ],
+          "source_text": "τελειότατον δὲ οὐκ ἂν ἦν, εἰ μὴ τελείοις συνεπληροῦτο μέρεσιν·",
+          "ko_text": "그 작품은 완전한 부분들로 채워지지 않았다면 가장 완전하지 못했을 것이다."
+        },
+        {
+          "id": "a-b79e77ddab5316987983",
+          "source_range": [
+            144,
+            271
+          ],
+          "ko_range": [
+            89,
+            149
+          ],
+          "source_text": "ὥστε ἐκ γῆς ἁπάσης καὶ παντὸς ὕδατος καὶ ἀέρος καὶ πυρός, μηδενὸς ἔξω μηδὲ τοῦ βραχυτάτου καταλειφθέντος, συνέστη ὅδε ὁ κόσμος.",
+          "ko_text": "따라서 이 세계는 모든 땅과 모든 물과 공기와 불로 이루어졌으며, 아주 작은 것 하나도 바깥에 남지 않았다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "plant:6",
+      "html_path": "works/plant/index.html#p-6",
+      "fixed_html_path": "releases/public-0.35/works/plant/index.html#p-6",
+      "alignment_revision": "sha256:b914e391d6ef1e6ea9874a2f7d992fb8fe21d905060b1df1a37574d3c0ef0235",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:5101d6e34c7b5ab87b87d0653d18dac505a02456b4ea44b3f2509d950c066803",
+          "translation_revision": "sha256:2179571e5ada6c5c15bd0b3c639c6cb5f383bf5dce9fa5198cd58410c0951c9a",
+          "alignment_revision": "sha256:b914e391d6ef1e6ea9874a2f7d992fb8fe21d905060b1df1a37574d3c0ef0235"
+        },
+        "scoped_ai_review": {
+          "id": "plant-addition-20261003",
+          "scope": "나무 심기에 관하여 1-20절 전체, 21-177절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:5101d6e34c7b5ab87b87d0653d18dac505a02456b4ea44b3f2509d950c066803",
+            "translation_revision": "sha256:2179571e5ada6c5c15bd0b3c639c6cb5f383bf5dce9fa5198cd58410c0951c9a",
+            "alignment_revision": "sha256:b914e391d6ef1e6ea9874a2f7d992fb8fe21d905060b1df1a37574d3c0ef0235"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg010/tlg0018.tlg010.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0으로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "나무 심기에 관하여",
+        "reference": "6",
+        "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
+        "release": "public-0.35",
+        "translation_revision": "sha256:2179571e5ada6c5c15bd0b3c639c6cb5f383bf5dce9fa5198cd58410c0951c9a",
+        "fixed_path": "releases/public-0.35/works/plant/index.html#p-6"
+      }
+    },
+    {
+      "ref": "7",
+      "section": 7,
+      "original": "ἀνάγκη τοίνυν ἐκτὸς ἢ κενὸν ἢ μηδὲν εἶναι. εἰ μὲν δὴ κενόν, πῶς τὸ πλῆρες καὶ ναστὸν καὶ τῶν ὄντων βαρύτατον οὐ βρίθει ταλαντεῦον στερεοῦ μηδενὸς ἐπερείδοντος; ἐξ οὗ φάσματι ἂν ἐοικέναι δόξαι, ζητούσης ἀεὶ τῆς διανοίας βάσιν σωματικήν, ⟨ἣν⟩ πᾶν ἔχειν εἰκός, ἐάν τι κινούμενον τυγχάνῃ, τὸν δὲ δὴ κόσμον καὶ διαφερόντως, ὅτι τὸ μέγιστον σωμάτων ἐστὶ καὶ πλῆθος ἄλλων σωμάτων ὡς οἰκεῖα ἐγκεκόλπισται μέρη. τὰς δυσωπίας οὖν εἴ τις ἀποδιδράσκειν βούλοιτο τὰς ἐν τοῖς διαπορηθεῖσι,",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:267c88069d08937b521f906d936f036d26a9939ab5c2bead1520894014ba2eda",
+      "source_file_sha256": "e3773fa1792b98916fecb0c6211cd60b5c3250e25106da1cb262a63cd1cdbc40",
+      "source_locator": {
+        "filename": "tlg0018.tlg010.1st1K-grc1.xml",
+        "reference": "7"
+      },
+      "encoded_page_breaks": [
+        "v.2.p.135"
+      ],
+      "korean": "그러므로 바깥에는 빈 공간이 있거나 아무것도 없어야 한다. 빈 공간이 있다면, 가득 차고 조밀하며 존재하는 것들 가운데 가장 무거운 세계가 어떤 단단한 받침도 없이 어찌 기울어 내려앉지 않는가? 이 때문에 세계가 허깨비처럼 보일 수도 있다. 생각은 움직이는 모든 것이 지녀야 할 물질적 받침을 끊임없이 찾기 때문이다. 특히 세계는 물체 가운데 가장 크며 수많은 다른 물체를 자기 부분으로 품고 있으므로 더욱 그러하다. 그러므로 누군가 이런 난제들이 주는 곤혹에서 벗어나려 한다면,",
+      "translation_revision": "sha256:52fee240ed65505b2005f2ea60995ddd3a9a45187e7b394cb1240ef4b9b395ff",
+      "groups": [
+        {
+          "id": "a-f3dae09c6146ac253c16",
+          "source_range": [
+            0,
+            42
+          ],
+          "ko_range": [
+            0,
+            32
+          ],
+          "source_text": "ἀνάγκη τοίνυν ἐκτὸς ἢ κενὸν ἢ μηδὲν εἶναι.",
+          "ko_text": "그러므로 바깥에는 빈 공간이 있거나 아무것도 없어야 한다."
+        },
+        {
+          "id": "a-81ccbf8b9e6ae2fce461",
+          "source_range": [
+            43,
+            159
+          ],
+          "ko_range": [
+            33,
+            108
+          ],
+          "source_text": "εἰ μὲν δὴ κενόν, πῶς τὸ πλῆρες καὶ ναστὸν καὶ τῶν ὄντων βαρύτατον οὐ βρίθει ταλαντεῦον στερεοῦ μηδενὸς ἐπερείδοντος;",
+          "ko_text": "빈 공간이 있다면, 가득 차고 조밀하며 존재하는 것들 가운데 가장 무거운 세계가 어떤 단단한 받침도 없이 어찌 기울어 내려앉지 않는가?"
+        },
+        {
+          "id": "a-70df540d78073bd0024b",
+          "source_range": [
+            160,
+            192
+          ],
+          "ko_range": [
+            109,
+            134
+          ],
+          "source_text": "ἐξ οὗ φάσματι ἂν ἐοικέναι δόξαι,",
+          "ko_text": "이 때문에 세계가 허깨비처럼 보일 수도 있다."
+        },
+        {
+          "id": "a-4329d08a97be90d0fbb4",
+          "source_range": [
+            193,
+            284
+          ],
+          "ko_range": [
+            135,
+            177
+          ],
+          "source_text": "ζητούσης ἀεὶ τῆς διανοίας βάσιν σωματικήν, ⟨ἣν⟩ πᾶν ἔχειν εἰκός, ἐάν τι κινούμενον τυγχάνῃ,",
+          "ko_text": "생각은 움직이는 모든 것이 지녀야 할 물질적 받침을 끊임없이 찾기 때문이다."
+        },
+        {
+          "id": "a-e56b4193e37dc659cd29",
+          "source_range": [
+            285,
+            402
+          ],
+          "ko_range": [
+            178,
+            233
+          ],
+          "source_text": "τὸν δὲ δὴ κόσμον καὶ διαφερόντως, ὅτι τὸ μέγιστον σωμάτων ἐστὶ καὶ πλῆθος ἄλλων σωμάτων ὡς οἰκεῖα ἐγκεκόλπισται μέρη.",
+          "ko_text": "특히 세계는 물체 가운데 가장 크며 수많은 다른 물체를 자기 부분으로 품고 있으므로 더욱 그러하다."
+        },
+        {
+          "id": "a-3a2bf05edbc2c608884f",
+          "source_range": [
+            403,
+            475
+          ],
+          "ko_range": [
+            234,
+            268
+          ],
+          "source_text": "τὰς δυσωπίας οὖν εἴ τις ἀποδιδράσκειν βούλοιτο τὰς ἐν τοῖς διαπορηθεῖσι,",
+          "ko_text": "그러므로 누군가 이런 난제들이 주는 곤혹에서 벗어나려 한다면,"
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "plant:7",
+      "html_path": "works/plant/index.html#p-7",
+      "fixed_html_path": "releases/public-0.35/works/plant/index.html#p-7",
+      "alignment_revision": "sha256:94267b07b35efe2a7787a9fc1d6bcb8d4c4a13e85123d81cde6e2118b906e1a2",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:267c88069d08937b521f906d936f036d26a9939ab5c2bead1520894014ba2eda",
+          "translation_revision": "sha256:52fee240ed65505b2005f2ea60995ddd3a9a45187e7b394cb1240ef4b9b395ff",
+          "alignment_revision": "sha256:94267b07b35efe2a7787a9fc1d6bcb8d4c4a13e85123d81cde6e2118b906e1a2"
+        },
+        "scoped_ai_review": {
+          "id": "plant-addition-20261003",
+          "scope": "나무 심기에 관하여 1-20절 전체, 21-177절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:267c88069d08937b521f906d936f036d26a9939ab5c2bead1520894014ba2eda",
+            "translation_revision": "sha256:52fee240ed65505b2005f2ea60995ddd3a9a45187e7b394cb1240ef4b9b395ff",
+            "alignment_revision": "sha256:94267b07b35efe2a7787a9fc1d6bcb8d4c4a13e85123d81cde6e2118b906e1a2"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg010/tlg0018.tlg010.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0으로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "나무 심기에 관하여",
+        "reference": "7",
+        "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
+        "release": "public-0.35",
+        "translation_revision": "sha256:52fee240ed65505b2005f2ea60995ddd3a9a45187e7b394cb1240ef4b9b395ff",
+        "fixed_path": "releases/public-0.35/works/plant/index.html#p-7"
+      }
+    },
+    {
+      "ref": "8",
+      "section": 8,
+      "original": "λεγέτω μετὰ παρρησίας, ὅτι οὐδὲν τῶν ἐν ὕλαις κραταιὸν οὕτως, ὡς τὸν κόσμον ἀχθοφορεῖν ἰσχῦσαι, λόγος δὲ ὁ ἀίδιος θεοῦ τοῦ αἰωνίου τὸ ὀχυρώτατον καὶ βεβαιότατον ἔρεισμα τῶν ὅλων ἐστίν.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:821e7142861ef63a615a4cc11bd6ec42367a14c6a6e00f5c9acc24877ad63369",
+      "source_file_sha256": "e3773fa1792b98916fecb0c6211cd60b5c3250e25106da1cb262a63cd1cdbc40",
+      "source_locator": {
+        "filename": "tlg0018.tlg010.1st1K-grc1.xml",
+        "reference": "8"
+      },
+      "korean": "물질 가운데 세계의 무게를 짊어질 만큼 강한 것은 없다고 담대하게 말하라. 영원하신 하나님의 영원한 로고스가 만물을 받치는 가장 튼튼하고 확고한 받침이다.",
+      "translation_revision": "sha256:21697192f95fa48f9ba95fc09e2ddf68d925312b2d9adc86b2a769415b37f5ed",
+      "groups": [
+        {
+          "id": "a-c87da28ab1c9bc878095",
+          "source_range": [
+            0,
+            95
+          ],
+          "ko_range": [
+            0,
+            41
+          ],
+          "source_text": "λεγέτω μετὰ παρρησίας, ὅτι οὐδὲν τῶν ἐν ὕλαις κραταιὸν οὕτως, ὡς τὸν κόσμον ἀχθοφορεῖν ἰσχῦσαι,",
+          "ko_text": "물질 가운데 세계의 무게를 짊어질 만큼 강한 것은 없다고 담대하게 말하라."
+        },
+        {
+          "id": "a-383342fc975c8173267b",
+          "source_range": [
+            96,
+            184
+          ],
+          "ko_range": [
+            42,
+            86
+          ],
+          "source_text": "λόγος δὲ ὁ ἀίδιος θεοῦ τοῦ αἰωνίου τὸ ὀχυρώτατον καὶ βεβαιότατον ἔρεισμα τῶν ὅλων ἐστίν.",
+          "ko_text": "영원하신 하나님의 영원한 로고스가 만물을 받치는 가장 튼튼하고 확고한 받침이다."
+        }
+      ],
+      "notes": [
+        "세계의 받침은 또 다른 물체가 아니라 영원한 로고스라고 설명한다. 다음 절에서는 이 로고스를 모든 부분을 묶는 끊을 수 없는 결속으로 부른다."
+      ],
+      "work_passage_id": "plant:8",
+      "html_path": "works/plant/index.html#p-8",
+      "fixed_html_path": "releases/public-0.35/works/plant/index.html#p-8",
+      "alignment_revision": "sha256:23c6b50f9afa41438ed690631909871d65cf4b20e1b3640699ef176ba2899ebb",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:821e7142861ef63a615a4cc11bd6ec42367a14c6a6e00f5c9acc24877ad63369",
+          "translation_revision": "sha256:21697192f95fa48f9ba95fc09e2ddf68d925312b2d9adc86b2a769415b37f5ed",
+          "alignment_revision": "sha256:23c6b50f9afa41438ed690631909871d65cf4b20e1b3640699ef176ba2899ebb"
+        },
+        "scoped_ai_review": {
+          "id": "plant-addition-20261003",
+          "scope": "나무 심기에 관하여 1-20절 전체, 21-177절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:821e7142861ef63a615a4cc11bd6ec42367a14c6a6e00f5c9acc24877ad63369",
+            "translation_revision": "sha256:21697192f95fa48f9ba95fc09e2ddf68d925312b2d9adc86b2a769415b37f5ed",
+            "alignment_revision": "sha256:23c6b50f9afa41438ed690631909871d65cf4b20e1b3640699ef176ba2899ebb"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg010/tlg0018.tlg010.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0으로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "나무 심기에 관하여",
+        "reference": "8",
+        "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
+        "release": "public-0.35",
+        "translation_revision": "sha256:21697192f95fa48f9ba95fc09e2ddf68d925312b2d9adc86b2a769415b37f5ed",
+        "fixed_path": "releases/public-0.35/works/plant/index.html#p-8"
+      }
+    },
+    {
+      "ref": "9",
+      "section": 9,
+      "original": "οὗτος ἀπὸ τῶν μέσων ἐπὶ τὰ πέρατα καὶ ἀπὸ τῶν ἄκρων ἐπὶ τὰ μέσα ταθεὶς δολιχεύει τὸν τῆς φύσεως δρόμον ἀήττητον συνάγων τὰ μέρη πάντα καὶ σφίγγων· δεσμὸν γὰρ αὐτὸν ἄρρηκτον τοῦ παντὸς ὁ γεννήσας ἐποίει πατήρ.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:a738f549462c5605f78b6e3b969c5380f7bdd91d89679ac53bf3576092c78036",
+      "source_file_sha256": "e3773fa1792b98916fecb0c6211cd60b5c3250e25106da1cb262a63cd1cdbc40",
+      "source_locator": {
+        "filename": "tlg0018.tlg010.1st1K-grc1.xml",
+        "reference": "9"
+      },
+      "korean": "이 로고스는 중심에서 끝으로, 끝에서 중심으로 뻗어, 자연의 이길 수 없는 긴 경주로를 달리며 모든 부분을 모으고 단단히 묶는다. 그를 낳으신 아버지가 그를 우주의 끊을 수 없는 결속으로 삼으셨기 때문이다.",
+      "translation_revision": "sha256:cdd7400448bb7e4b56b3c6eed282a743dc951deca2ec406d84a2f209c21f2d02",
+      "groups": [
+        {
+          "id": "a-7d23943dece057d407e2",
+          "source_range": [
+            0,
+            70
+          ],
+          "ko_range": [
+            0,
+            29
+          ],
+          "source_text": "οὗτος ἀπὸ τῶν μέσων ἐπὶ τὰ πέρατα καὶ ἀπὸ τῶν ἄκρων ἐπὶ τὰ μέσα ταθεὶς",
+          "ko_text": "이 로고스는 중심에서 끝으로, 끝에서 중심으로 뻗어,"
+        },
+        {
+          "id": "a-a31139a05d8d50b6cf28",
+          "source_range": [
+            71,
+            146
+          ],
+          "ko_range": [
+            30,
+            72
+          ],
+          "source_text": "δολιχεύει τὸν τῆς φύσεως δρόμον ἀήττητον συνάγων τὰ μέρη πάντα καὶ σφίγγων·",
+          "ko_text": "자연의 이길 수 없는 긴 경주로를 달리며 모든 부분을 모으고 단단히 묶는다."
+        },
+        {
+          "id": "a-433f4d8ad90b96f1e05a",
+          "source_range": [
+            147,
+            208
+          ],
+          "ko_range": [
+            73,
+            115
+          ],
+          "source_text": "δεσμὸν γὰρ αὐτὸν ἄρρηκτον τοῦ παντὸς ὁ γεννήσας ἐποίει πατήρ.",
+          "ko_text": "그를 낳으신 아버지가 그를 우주의 끊을 수 없는 결속으로 삼으셨기 때문이다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "plant:9",
+      "html_path": "works/plant/index.html#p-9",
+      "fixed_html_path": "releases/public-0.35/works/plant/index.html#p-9",
+      "alignment_revision": "sha256:13af01776fba552c9460fb3ad550339f24a0cf6c3e79b198317e58ac84878e9a",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:a738f549462c5605f78b6e3b969c5380f7bdd91d89679ac53bf3576092c78036",
+          "translation_revision": "sha256:cdd7400448bb7e4b56b3c6eed282a743dc951deca2ec406d84a2f209c21f2d02",
+          "alignment_revision": "sha256:13af01776fba552c9460fb3ad550339f24a0cf6c3e79b198317e58ac84878e9a"
+        },
+        "scoped_ai_review": {
+          "id": "plant-addition-20261003",
+          "scope": "나무 심기에 관하여 1-20절 전체, 21-177절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:a738f549462c5605f78b6e3b969c5380f7bdd91d89679ac53bf3576092c78036",
+            "translation_revision": "sha256:cdd7400448bb7e4b56b3c6eed282a743dc951deca2ec406d84a2f209c21f2d02",
+            "alignment_revision": "sha256:13af01776fba552c9460fb3ad550339f24a0cf6c3e79b198317e58ac84878e9a"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg010/tlg0018.tlg010.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0으로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "나무 심기에 관하여",
+        "reference": "9",
+        "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
+        "release": "public-0.35",
+        "translation_revision": "sha256:cdd7400448bb7e4b56b3c6eed282a743dc951deca2ec406d84a2f209c21f2d02",
+        "fixed_path": "releases/public-0.35/works/plant/index.html#p-9"
+      }
+    },
+    {
+      "ref": "10",
+      "section": 10,
+      "original": "εἰκότως οὖν οὐδὲ γῆ πᾶσα διαλυθήσεται πρὸς παντὸς ὕδατος, ὅπερ αὐτῆς οἱ κόλποι κεχωρήκασιν, οὐδ’ ὑπὸ ἀέρος σβεσθήσεται πῦρ, οὐδ’ ἔμπαλιν ὑπὸ πυρὸς ἀὴρ ἀναφλεχθήσεται, τοῦ θείου λόγου μεθόριον τάττοντος αὑτὸν καθάπερ φωνήεντα στοιχείων ἀφώνων, ἵνα τὸ ὅλον ὥσπερ ἐπὶ τῆς ἐγγραμμάτου φωνῆς συνηχήσῃ, τὰς τῶν ἐναντίων ἀπειλὰς πειθοῖ τῇ συναγωγῷ μεσιτεύοντός τε καὶ διαιτῶντος.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:c0e36bcfba7711b8986303c66635effc8c34e221140a6723b1d3331612d37452",
+      "source_file_sha256": "e3773fa1792b98916fecb0c6211cd60b5c3250e25106da1cb262a63cd1cdbc40",
+      "source_locator": {
+        "filename": "tlg0018.tlg010.1st1K-grc1.xml",
+        "reference": "10"
+      },
+      "korean": "따라서 온 땅은 자기 속에 품은 모든 물에 풀어지지 않을 것이다. 불은 공기에 꺼지지 않을 것이고, 반대로 공기도 불에 타 버리지 않을 것이다. 신적인 로고스가 자음들 사이에 있는 모음들처럼 자신을 경계에 배치하기 때문이다. 글자로 표현한 말소리처럼 전체가 한 소리로 울리게 하려는 것이다. 그는 서로 반대되는 것들의 위협 사이에서 중재하고 조정하며, 그것들을 모으는 설득을 사용한다.",
+      "translation_revision": "sha256:c00555a376646aaff4b8e0eaafde55894138a37cac798ca2e5e5748b1e19755f",
+      "groups": [
+        {
+          "id": "a-cbc56e1904b437461fd2",
+          "source_range": [
+            0,
+            91
+          ],
+          "ko_range": [
+            0,
+            36
+          ],
+          "source_text": "εἰκότως οὖν οὐδὲ γῆ πᾶσα διαλυθήσεται πρὸς παντὸς ὕδατος, ὅπερ αὐτῆς οἱ κόλποι κεχωρήκασιν,",
+          "ko_text": "따라서 온 땅은 자기 속에 품은 모든 물에 풀어지지 않을 것이다."
+        },
+        {
+          "id": "a-e65711d8a543b239b6da",
+          "source_range": [
+            92,
+            166
+          ],
+          "ko_range": [
+            37,
+            80
+          ],
+          "source_text": "οὐδ’ ὑπὸ ἀέρος σβεσθήσεται πῦρ, οὐδ’ ἔμπαλιν ὑπὸ πυρὸς ἀὴρ ἀναφλεχθήσεται,",
+          "ko_text": "불은 공기에 꺼지지 않을 것이고, 반대로 공기도 불에 타 버리지 않을 것이다."
+        },
+        {
+          "id": "a-5e8a9101d957a73362ba",
+          "source_range": [
+            167,
+            242
+          ],
+          "ko_range": [
+            81,
+            125
+          ],
+          "source_text": "τοῦ θείου λόγου μεθόριον τάττοντος αὑτὸν καθάπερ φωνήεντα στοιχείων ἀφώνων,",
+          "ko_text": "신적인 로고스가 자음들 사이에 있는 모음들처럼 자신을 경계에 배치하기 때문이다."
+        },
+        {
+          "id": "a-5f0b4c597b7c2dd3d9f1",
+          "source_range": [
+            243,
+            296
+          ],
+          "ko_range": [
+            126,
+            162
+          ],
+          "source_text": "ἵνα τὸ ὅλον ὥσπερ ἐπὶ τῆς ἐγγραμμάτου φωνῆς συνηχήσῃ,",
+          "ko_text": "글자로 표현한 말소리처럼 전체가 한 소리로 울리게 하려는 것이다."
+        },
+        {
+          "id": "a-54540ece4c9a722ea8c9",
+          "source_range": [
+            297,
+            372
+          ],
+          "ko_range": [
+            163,
+            215
+          ],
+          "source_text": "τὰς τῶν ἐναντίων ἀπειλὰς πειθοῖ τῇ συναγωγῷ μεσιτεύοντός τε καὶ διαιτῶντος.",
+          "ko_text": "그는 서로 반대되는 것들의 위협 사이에서 중재하고 조정하며, 그것들을 모으는 설득을 사용한다."
+        }
+      ],
+      "notes": [
+        "모음이 자음들 사이에서 발음을 이루듯, 로고스는 서로 반대되는 원소들 사이에서 조정하고 연결한다. 만물의 조화를 설명하는 비유이다."
+      ],
+      "work_passage_id": "plant:10",
+      "html_path": "works/plant/index.html#p-10",
+      "fixed_html_path": "releases/public-0.35/works/plant/index.html#p-10",
+      "alignment_revision": "sha256:676baf3f5343419985617b7839c1c47985edd4078018d2bb7cb3a178449d7733",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:c0e36bcfba7711b8986303c66635effc8c34e221140a6723b1d3331612d37452",
+          "translation_revision": "sha256:c00555a376646aaff4b8e0eaafde55894138a37cac798ca2e5e5748b1e19755f",
+          "alignment_revision": "sha256:676baf3f5343419985617b7839c1c47985edd4078018d2bb7cb3a178449d7733"
+        },
+        "scoped_ai_review": {
+          "id": "plant-addition-20261003",
+          "scope": "나무 심기에 관하여 1-20절 전체, 21-177절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:c0e36bcfba7711b8986303c66635effc8c34e221140a6723b1d3331612d37452",
+            "translation_revision": "sha256:c00555a376646aaff4b8e0eaafde55894138a37cac798ca2e5e5748b1e19755f",
+            "alignment_revision": "sha256:676baf3f5343419985617b7839c1c47985edd4078018d2bb7cb3a178449d7733"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg010/tlg0018.tlg010.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0으로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "나무 심기에 관하여",
+        "reference": "10",
+        "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
+        "release": "public-0.35",
+        "translation_revision": "sha256:c00555a376646aaff4b8e0eaafde55894138a37cac798ca2e5e5748b1e19755f",
+        "fixed_path": "releases/public-0.35/works/plant/index.html#p-10"
+      }
+    },
+    {
+      "ref": "11",
+      "section": 11,
+      "original": "Οὕτως μὲν δὴ τὸ παμφορώτατον φυτὸν ἐρριζοῦτο καὶ ῥιζωθὲν ἐκρατεῖτο· τῶν δὲ ἐν μέρει καὶ βραχυτέρων φυτῶν τὰ μὲν μεταβατικῶς κινητά, τὰ δὲ ἄνευ μεταβάσεως ὡς ἂν ἑστῶτα κατὰ τὸν αὐτὸν τόπον ἐδημιουργεῖτο.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:f0a7bc688d9af35a12238a617eaf8b5c5137223e196e045b1960ba79ca26d18b",
+      "source_file_sha256": "e3773fa1792b98916fecb0c6211cd60b5c3250e25106da1cb262a63cd1cdbc40",
+      "source_locator": {
+        "filename": "tlg0018.tlg010.1st1K-grc1.xml",
+        "reference": "11"
+      },
+      "korean": "이렇게 모든 것을 맺는 나무가 뿌리내렸고, 뿌리를 내린 뒤에는 단단히 붙들렸다. 개별적인 작은 식물들 가운데 어떤 것들은 장소를 옮겨 움직이도록 만들어졌고, 다른 것들은 장소를 옮기지 않고 같은 곳에 서 있도록 만들어졌다.",
+      "translation_revision": "sha256:5836b3740b4f976074720e7faf5c135a5cd9252f3ecb97776b325a434c56725d",
+      "groups": [
+        {
+          "id": "a-862e2900f98c74bef0a3",
+          "source_range": [
+            0,
+            67
+          ],
+          "ko_range": [
+            0,
+            44
+          ],
+          "source_text": "Οὕτως μὲν δὴ τὸ παμφορώτατον φυτὸν ἐρριζοῦτο καὶ ῥιζωθὲν ἐκρατεῖτο·",
+          "ko_text": "이렇게 모든 것을 맺는 나무가 뿌리내렸고, 뿌리를 내린 뒤에는 단단히 붙들렸다."
+        },
+        {
+          "id": "a-c4d71dbb565b8410203f",
+          "source_range": [
+            68,
+            131
+          ],
+          "ko_range": [
+            45,
+            87
+          ],
+          "source_text": "τῶν δὲ ἐν μέρει καὶ βραχυτέρων φυτῶν τὰ μὲν μεταβατικῶς κινητά,",
+          "ko_text": "개별적인 작은 식물들 가운데 어떤 것들은 장소를 옮겨 움직이도록 만들어졌고,"
+        },
+        {
+          "id": "a-12a63d1c407bb660a12a",
+          "source_range": [
+            132,
+            202
+          ],
+          "ko_range": [
+            88,
+            124
+          ],
+          "source_text": "τὰ δὲ ἄνευ μεταβάσεως ὡς ἂν ἑστῶτα κατὰ τὸν αὐτὸν τόπον ἐδημιουργεῖτο.",
+          "ko_text": "다른 것들은 장소를 옮기지 않고 같은 곳에 서 있도록 만들어졌다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "plant:11",
+      "html_path": "works/plant/index.html#p-11",
+      "fixed_html_path": "releases/public-0.35/works/plant/index.html#p-11",
+      "alignment_revision": "sha256:7859994c33a0027252978e104853dc8becef0c7aab8879bdbcda1a0cb18a0545",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:f0a7bc688d9af35a12238a617eaf8b5c5137223e196e045b1960ba79ca26d18b",
+          "translation_revision": "sha256:5836b3740b4f976074720e7faf5c135a5cd9252f3ecb97776b325a434c56725d",
+          "alignment_revision": "sha256:7859994c33a0027252978e104853dc8becef0c7aab8879bdbcda1a0cb18a0545"
+        },
+        "scoped_ai_review": {
+          "id": "plant-addition-20261003",
+          "scope": "나무 심기에 관하여 1-20절 전체, 21-177절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:f0a7bc688d9af35a12238a617eaf8b5c5137223e196e045b1960ba79ca26d18b",
+            "translation_revision": "sha256:5836b3740b4f976074720e7faf5c135a5cd9252f3ecb97776b325a434c56725d",
+            "alignment_revision": "sha256:7859994c33a0027252978e104853dc8becef0c7aab8879bdbcda1a0cb18a0545"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg010/tlg0018.tlg010.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0으로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "나무 심기에 관하여",
+        "reference": "11",
+        "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
+        "release": "public-0.35",
+        "translation_revision": "sha256:5836b3740b4f976074720e7faf5c135a5cd9252f3ecb97776b325a434c56725d",
+        "fixed_path": "releases/public-0.35/works/plant/index.html#p-11"
+      }
+    },
+    {
+      "ref": "12",
+      "section": 12,
+      "original": "τὰ μὲν οὖν μεταβατικῇ κινήσει χρώμενα, ἃ δή φαμεν ἡμεῖς ζῷα εἶναι, ταῖς τοῦ παντὸς ὁλοσχερεστέραις προσεγένετο μοίραις, γῇ μὲν τὰ χερσαῖα, πλωτὰ δὲ ὕδατι, τὰ δὲ πτηνὰ ἀέρι καὶ τὰ πυρίγονα πυρί, ὧν τὴν γένεσιν ἀριδηλοτέραν κατὰ Μακεδονίαν λόγος ἔχει προφαίνεσθαι, καὶ οἱ ἀστέρες οὐρανῷ-ζῷα γὰρ καὶ τούτους νοερὰ δι’ ὅλων φασὶν οἱ φιλοσοφήσαντες -, ⟨ὧν⟩ οἱ μὲν πλάνητες ἐξ ἑαυτῶν, οἱ δ’ ἀπλανεῖς τῇ τοῦ παντὸς συμπεριαγόμενοι φορᾷ τόπους ἐναλλάττειν δοκοῦσι.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:e17be8f8e2d5a4066beede0f9394658a7f7a5873213851bbdd8e9e71cc280df9",
+      "source_file_sha256": "e3773fa1792b98916fecb0c6211cd60b5c3250e25106da1cb262a63cd1cdbc40",
+      "source_locator": {
+        "filename": "tlg0018.tlg010.1st1K-grc1.xml",
+        "reference": "12"
+      },
+      "encoded_page_breaks": [
+        "v.2.p.136"
+      ],
+      "korean": "장소를 옮겨 움직이는 것들, 곧 우리가 동물이라고 부르는 것들은 우주의 큰 부분들에 배정되었다. 육상 생물은 땅에, 헤엄치는 생물은 물에, 날아다니는 생물은 공기에, 불에서 태어나는 것들은 불에 배정되었다. 불에서 태어나는 것들은 특히 마케도니아에서 더 뚜렷하게 나타난다고 전해진다. 별들은 하늘에 배정되었다. 철학을 탐구한 이들은 별들도 온전히 지성을 지닌 생물이라고 말한다. ⟨그 가운데⟩ 행성들은 스스로 움직이고, 항성들은 우주의 운동에 따라 회전하며 자리를 바꾸는 것으로 보인다.",
+      "translation_revision": "sha256:da30463418e308ff20495a47a499f6c235b8d8f3c79eeb66464e9ca619c26744",
+      "groups": [
+        {
+          "id": "a-2009138a32d2eb02bd44",
+          "source_range": [
+            0,
+            119
+          ],
+          "ko_range": [
+            0,
+            53
+          ],
+          "source_text": "τὰ μὲν οὖν μεταβατικῇ κινήσει χρώμενα, ἃ δή φαμεν ἡμεῖς ζῷα εἶναι, ταῖς τοῦ παντὸς ὁλοσχερεστέραις προσεγένετο μοίραις,",
+          "ko_text": "장소를 옮겨 움직이는 것들, 곧 우리가 동물이라고 부르는 것들은 우주의 큰 부분들에 배정되었다."
+        },
+        {
+          "id": "a-a39e654953511f4fe955",
+          "source_range": [
+            120,
+            193
+          ],
+          "ko_range": [
+            54,
+            115
+          ],
+          "source_text": "γῇ μὲν τὰ χερσαῖα, πλωτὰ δὲ ὕδατι, τὰ δὲ πτηνὰ ἀέρι καὶ τὰ πυρίγονα πυρί,",
+          "ko_text": "육상 생물은 땅에, 헤엄치는 생물은 물에, 날아다니는 생물은 공기에, 불에서 태어나는 것들은 불에 배정되었다."
+        },
+        {
+          "id": "a-d0c4873ae79c5bfe4fdf",
+          "source_range": [
+            194,
+            262
+          ],
+          "ko_range": [
+            116,
+            158
+          ],
+          "source_text": "ὧν τὴν γένεσιν ἀριδηλοτέραν κατὰ Μακεδονίαν λόγος ἔχει προφαίνεσθαι,",
+          "ko_text": "불에서 태어나는 것들은 특히 마케도니아에서 더 뚜렷하게 나타난다고 전해진다."
+        },
+        {
+          "id": "a-92bf0cdf0ec478fe1166",
+          "source_range": [
+            263,
+            346
+          ],
+          "ko_range": [
+            159,
+            211
+          ],
+          "source_text": "καὶ οἱ ἀστέρες οὐρανῷ-ζῷα γὰρ καὶ τούτους νοερὰ δι’ ὅλων φασὶν οἱ φιλοσοφήσαντες -,",
+          "ko_text": "별들은 하늘에 배정되었다. 철학을 탐구한 이들은 별들도 온전히 지성을 지닌 생물이라고 말한다."
+        },
+        {
+          "id": "a-ae602a18a68bcc4fa2d8",
+          "source_range": [
+            347,
+            456
+          ],
+          "ko_range": [
+            212,
+            272
+          ],
+          "source_text": "⟨ὧν⟩ οἱ μὲν πλάνητες ἐξ ἑαυτῶν, οἱ δ’ ἀπλανεῖς τῇ τοῦ παντὸς συμπεριαγόμενοι φορᾷ τόπους ἐναλλάττειν δοκοῦσι.",
+          "ko_text": "⟨그 가운데⟩ 행성들은 스스로 움직이고, 항성들은 우주의 운동에 따라 회전하며 자리를 바꾸는 것으로 보인다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "plant:12",
+      "html_path": "works/plant/index.html#p-12",
+      "fixed_html_path": "releases/public-0.35/works/plant/index.html#p-12",
+      "alignment_revision": "sha256:ca045615ef285f638dfd1f356d526ef784af3e25c4570d441152c53a734610e7",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:e17be8f8e2d5a4066beede0f9394658a7f7a5873213851bbdd8e9e71cc280df9",
+          "translation_revision": "sha256:da30463418e308ff20495a47a499f6c235b8d8f3c79eeb66464e9ca619c26744",
+          "alignment_revision": "sha256:ca045615ef285f638dfd1f356d526ef784af3e25c4570d441152c53a734610e7"
+        },
+        "scoped_ai_review": {
+          "id": "plant-addition-20261003",
+          "scope": "나무 심기에 관하여 1-20절 전체, 21-177절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:e17be8f8e2d5a4066beede0f9394658a7f7a5873213851bbdd8e9e71cc280df9",
+            "translation_revision": "sha256:da30463418e308ff20495a47a499f6c235b8d8f3c79eeb66464e9ca619c26744",
+            "alignment_revision": "sha256:ca045615ef285f638dfd1f356d526ef784af3e25c4570d441152c53a734610e7"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg010/tlg0018.tlg010.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0으로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "나무 심기에 관하여",
+        "reference": "12",
+        "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
+        "release": "public-0.35",
+        "translation_revision": "sha256:da30463418e308ff20495a47a499f6c235b8d8f3c79eeb66464e9ca619c26744",
+        "fixed_path": "releases/public-0.35/works/plant/index.html#p-12"
+      }
+    },
+    {
+      "ref": "13",
+      "section": 13,
+      "original": "τὰ δὲ ἀφαντάστῳ φύσει διοικούμενα, ἅπερ ἰδίως λέγεται φυτά, μεταβατικῆς κινήσεως ἀμέτοχα. διττὰ δὲ ἔν τε γῇ καὶ ἀέρι γένη ὁ ποιῶν ἐποίει.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:1a634b84536baac82ea600cdd52a60232ae823d5b7b3129df9a68abd5e678a5d",
+      "source_file_sha256": "e3773fa1792b98916fecb0c6211cd60b5c3250e25106da1cb262a63cd1cdbc40",
+      "source_locator": {
+        "filename": "tlg0018.tlg010.1st1K-grc1.xml",
+        "reference": "13"
+      },
+      "korean": "그러나 표상을 갖지 않는 자연에 따라 다스려지는 것들, 곧 좁은 뜻에서 식물이라고 부르는 것들은 장소를 옮기는 운동에 참여하지 않는다. 만드시는 분은 땅과 공기 안에 각각 두 부류를 만드셨다.",
+      "translation_revision": "sha256:ee3570fd87f22f485a5e14f578bad0ec5a83e04fd0d9922891794fe3d8290d22",
+      "groups": [
+        {
+          "id": "a-cda4d9a3e605c62f072d",
+          "source_range": [
+            0,
+            89
+          ],
+          "ko_range": [
+            0,
+            75
+          ],
+          "source_text": "τὰ δὲ ἀφαντάστῳ φύσει διοικούμενα, ἅπερ ἰδίως λέγεται φυτά, μεταβατικῆς κινήσεως ἀμέτοχα.",
+          "ko_text": "그러나 표상을 갖지 않는 자연에 따라 다스려지는 것들, 곧 좁은 뜻에서 식물이라고 부르는 것들은 장소를 옮기는 운동에 참여하지 않는다."
+        },
+        {
+          "id": "a-92a84add65fd5e30a143",
+          "source_range": [
+            90,
+            137
+          ],
+          "ko_range": [
+            76,
+            107
+          ],
+          "source_text": "διττὰ δὲ ἔν τε γῇ καὶ ἀέρι γένη ὁ ποιῶν ἐποίει.",
+          "ko_text": "만드시는 분은 땅과 공기 안에 각각 두 부류를 만드셨다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "plant:13",
+      "html_path": "works/plant/index.html#p-13",
+      "fixed_html_path": "releases/public-0.35/works/plant/index.html#p-13",
+      "alignment_revision": "sha256:e046e558b61b3de41bf34d014ad7dfb6d2bcc12b87631bd079c2655215594b2b",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:1a634b84536baac82ea600cdd52a60232ae823d5b7b3129df9a68abd5e678a5d",
+          "translation_revision": "sha256:ee3570fd87f22f485a5e14f578bad0ec5a83e04fd0d9922891794fe3d8290d22",
+          "alignment_revision": "sha256:e046e558b61b3de41bf34d014ad7dfb6d2bcc12b87631bd079c2655215594b2b"
+        },
+        "scoped_ai_review": {
+          "id": "plant-addition-20261003",
+          "scope": "나무 심기에 관하여 1-20절 전체, 21-177절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:1a634b84536baac82ea600cdd52a60232ae823d5b7b3129df9a68abd5e678a5d",
+            "translation_revision": "sha256:ee3570fd87f22f485a5e14f578bad0ec5a83e04fd0d9922891794fe3d8290d22",
+            "alignment_revision": "sha256:e046e558b61b3de41bf34d014ad7dfb6d2bcc12b87631bd079c2655215594b2b"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg010/tlg0018.tlg010.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0으로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "나무 심기에 관하여",
+        "reference": "13",
+        "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
+        "release": "public-0.35",
+        "translation_revision": "sha256:ee3570fd87f22f485a5e14f578bad0ec5a83e04fd0d9922891794fe3d8290d22",
+        "fixed_path": "releases/public-0.35/works/plant/index.html#p-13"
+      }
+    },
+    {
+      "ref": "14",
+      "section": 14,
+      "original": "ἀέρι μὲν τὰ πτηνὰ καὶ αἰσθητὰ καὶ δυνάμεις ἄλλας αἰσθήσει οὐδαμῇ οὐδαμῶς καταλαμβανομένας-ψυχῶν ὁ θίασος οὗτος ἀσωμάτων ἐστὶ διακεκοσμημένων οὐ ταῖς αὐταῖς ἐν τάξεσι· τὰς μὲν γὰρ εἰσκρίνεσθαι λόγος ἔχει σώμασι θνητοῖς καὶ κατά τινας ὡρισμένας περιόδους ἀπαλλάττεσθαι πάλιν, τὰς δὲ θειοτέρας κατασκευῆς λαχούσας ἅπαντος ἀλογεῖν τοῦ γῆς χωρίου, ἀνωτάτω δ’ εἶναι πρὸς αὐτῷ τῷ αἰθέρι τὰς καθαρωτάτας, ἃς οἱ μὲν παρ’ Ἕλλησι φιλοσοφήσαντες ἥρωας καλοῦσι, Μωυσῆς δὲ ὀνόματι εὐθυβόλῳ χρώμενος ἀγγέλους προσαγορεύει, πρεσβευομένας καὶ διαγγελλούσας τά τε παρὰ τοῦ ἡγεμόνος τοῖς ὑπηκόοις ἀγαθὰ καὶ τῷ βασιλεῖ ὧν εἰσιν οἱ ὑπήκοοι χρεῖοι -, γῇ δὲ ζῷά τε χερσαῖα καὶ φυτά, δύο πάλιν, προσένειμε, τὴν αὐτὴν μητέρα τε βουληθεὶς εἶναι καὶ τροφόν·",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:5b771eadc9fb739c30a302a4a501a9153a8f847fdf92edbcae945069c6ba7a94",
+      "source_file_sha256": "e3773fa1792b98916fecb0c6211cd60b5c3250e25106da1cb262a63cd1cdbc40",
+      "source_locator": {
+        "filename": "tlg0018.tlg010.1st1K-grc1.xml",
+        "reference": "14"
+      },
+      "korean": "공기에는 감각할 수 있는 날짐승들과, 감각으로는 어떤 방식으로도 붙잡을 수 없는 다른 능력들을 두셨다. 후자는 서로 다른 대열에 배치된 비물질적 영혼들의 무리이다. 그중 어떤 것들은 죽을 몸속으로 들어갔다가 정해진 주기가 지나면 다시 벗어난다고 한다. 더 신적인 구성을 받은 다른 것들은 땅의 모든 영역을 돌보지 않는다고 한다. 가장 순수한 영혼들은 가장 높은 곳, 에테르 바로 곁에 있다. 그리스의 철학자들은 이들을 영웅이라고 부르지만, 모세는 정확한 이름을 사용하여 천사라고 부른다. 이들은 사절로서 통치자가 주는 좋은 것들을 신민들에게 전하고, 신민들이 필요로 하는 것을 왕에게 전한다. 땅에는 다시 두 부류, 곧 육상 동물과 식물을 배정하셨다. 같은 땅이 어머니이자 양육자가 되게 하려는 뜻이었다.",
+      "translation_revision": "sha256:59239bccada17843d58c2f528d983b3bc5dc15d9107e5dfcaeb29a81345776a1",
+      "groups": [
+        {
+          "id": "a-1d9a3d5efa27db596653",
+          "source_range": [
+            0,
+            166
+          ],
+          "ko_range": [
+            0,
+            91
+          ],
+          "source_text": "ἀέρι μὲν τὰ πτηνὰ καὶ αἰσθητὰ καὶ δυνάμεις ἄλλας αἰσθήσει οὐδαμῇ οὐδαμῶς καταλαμβανομένας-ψυχῶν ὁ θίασος οὗτος ἀσωμάτων ἐστὶ διακεκοσμημένων οὐ ταῖς αὐταῖς ἐν τάξεσι·",
+          "ko_text": "공기에는 감각할 수 있는 날짐승들과, 감각으로는 어떤 방식으로도 붙잡을 수 없는 다른 능력들을 두셨다. 후자는 서로 다른 대열에 배치된 비물질적 영혼들의 무리이다."
+        },
+        {
+          "id": "a-acad22dec1ae3d19b453",
+          "source_range": [
+            167,
+            273
+          ],
+          "ko_range": [
+            92,
+            140
+          ],
+          "source_text": "τὰς μὲν γὰρ εἰσκρίνεσθαι λόγος ἔχει σώμασι θνητοῖς καὶ κατά τινας ὡρισμένας περιόδους ἀπαλλάττεσθαι πάλιν,",
+          "ko_text": "그중 어떤 것들은 죽을 몸속으로 들어갔다가 정해진 주기가 지나면 다시 벗어난다고 한다."
+        },
+        {
+          "id": "a-7700c541d74778c6282a",
+          "source_range": [
+            274,
+            342
+          ],
+          "ko_range": [
+            141,
+            183
+          ],
+          "source_text": "τὰς δὲ θειοτέρας κατασκευῆς λαχούσας ἅπαντος ἀλογεῖν τοῦ γῆς χωρίου,",
+          "ko_text": "더 신적인 구성을 받은 다른 것들은 땅의 모든 영역을 돌보지 않는다고 한다."
+        },
+        {
+          "id": "a-0295b47a364b5417f6b3",
+          "source_range": [
+            343,
+            396
+          ],
+          "ko_range": [
+            184,
+            218
+          ],
+          "source_text": "ἀνωτάτω δ’ εἶναι πρὸς αὐτῷ τῷ αἰθέρι τὰς καθαρωτάτας,",
+          "ko_text": "가장 순수한 영혼들은 가장 높은 곳, 에테르 바로 곁에 있다."
+        },
+        {
+          "id": "a-01c70e616197309f7001",
+          "source_range": [
+            397,
+            507
+          ],
+          "ko_range": [
+            219,
+            272
+          ],
+          "source_text": "ἃς οἱ μὲν παρ’ Ἕλλησι φιλοσοφήσαντες ἥρωας καλοῦσι, Μωυσῆς δὲ ὀνόματι εὐθυβόλῳ χρώμενος ἀγγέλους προσαγορεύει,",
+          "ko_text": "그리스의 철학자들은 이들을 영웅이라고 부르지만, 모세는 정확한 이름을 사용하여 천사라고 부른다."
+        },
+        {
+          "id": "a-e9af74835a05d295080e",
+          "source_range": [
+            508,
+            628
+          ],
+          "ko_range": [
+            273,
+            331
+          ],
+          "source_text": "πρεσβευομένας καὶ διαγγελλούσας τά τε παρὰ τοῦ ἡγεμόνος τοῖς ὑπηκόοις ἀγαθὰ καὶ τῷ βασιλεῖ ὧν εἰσιν οἱ ὑπήκοοι χρεῖοι -,",
+          "ko_text": "이들은 사절로서 통치자가 주는 좋은 것들을 신민들에게 전하고, 신민들이 필요로 하는 것을 왕에게 전한다."
+        },
+        {
+          "id": "a-d5ae50262f612097449d",
+          "source_range": [
+            629,
+            730
+          ],
+          "ko_range": [
+            332,
+            394
+          ],
+          "source_text": "γῇ δὲ ζῷά τε χερσαῖα καὶ φυτά, δύο πάλιν, προσένειμε, τὴν αὐτὴν μητέρα τε βουληθεὶς εἶναι καὶ τροφόν·",
+          "ko_text": "땅에는 다시 두 부류, 곧 육상 동물과 식물을 배정하셨다. 같은 땅이 어머니이자 양육자가 되게 하려는 뜻이었다."
+        }
+      ],
+      "notes": [
+        "공중의 비물질적 영혼들을 여러 대열로 나누고, 가장 순수한 영혼들을 천사라고 부른다. 천사들은 통치자의 선물을 전하고 신민들의 필요를 알리는 사절이다."
+      ],
+      "work_passage_id": "plant:14",
+      "html_path": "works/plant/index.html#p-14",
+      "fixed_html_path": "releases/public-0.35/works/plant/index.html#p-14",
+      "alignment_revision": "sha256:73924188faee2a6b99bc371ef4163268de249240ded91647287037afe034bedd",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:5b771eadc9fb739c30a302a4a501a9153a8f847fdf92edbcae945069c6ba7a94",
+          "translation_revision": "sha256:59239bccada17843d58c2f528d983b3bc5dc15d9107e5dfcaeb29a81345776a1",
+          "alignment_revision": "sha256:73924188faee2a6b99bc371ef4163268de249240ded91647287037afe034bedd"
+        },
+        "scoped_ai_review": {
+          "id": "plant-addition-20261003",
+          "scope": "나무 심기에 관하여 1-20절 전체, 21-177절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:5b771eadc9fb739c30a302a4a501a9153a8f847fdf92edbcae945069c6ba7a94",
+            "translation_revision": "sha256:59239bccada17843d58c2f528d983b3bc5dc15d9107e5dfcaeb29a81345776a1",
+            "alignment_revision": "sha256:73924188faee2a6b99bc371ef4163268de249240ded91647287037afe034bedd"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg010/tlg0018.tlg010.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0으로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "나무 심기에 관하여",
+        "reference": "14",
+        "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
+        "release": "public-0.35",
+        "translation_revision": "sha256:59239bccada17843d58c2f528d983b3bc5dc15d9107e5dfcaeb29a81345776a1",
+        "fixed_path": "releases/public-0.35/works/plant/index.html#p-14"
+      }
+    },
+    {
+      "ref": "15",
+      "section": 15,
+      "original": "καθάπερ γὰρ γυναικὶ καὶ παντὶ τῷ θήλει πηγαὶ πρὸς τῷ μέλλειν ἀποκυΐσκειν ἀναχέονται γάλακτος, ἵνα τοῖς γεννωμένοις ἄρδωσι τὰς ἀναγκαίας καὶ ἁρμοττούσας τροφάς, τὸν αὐτὸν τρόπον καὶ τῇ χερσαίων ζῴων μητρὶ γῇ πάσας φυτῶν προσένειμεν ἰδέας, ἵνα συγγενέσι καὶ μὴ ὀθνείοις τροφαῖς τὰ γεννώμενα χρήσηται.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:901f3640257ef08abf308f391d5e093e226cfb88fd0e37a78b9825cb92754736",
+      "source_file_sha256": "e3773fa1792b98916fecb0c6211cd60b5c3250e25106da1cb262a63cd1cdbc40",
+      "source_locator": {
+        "filename": "tlg0018.tlg010.1st1K-grc1.xml",
+        "reference": "15"
+      },
+      "encoded_page_breaks": [
+        "v.2.p.137"
+      ],
+      "korean": "여자와 모든 암컷에게 출산할 무렵 젖의 샘이 솟아, 태어나는 것들에게 필요하고 알맞은 음식을 대어 주듯이, 그분은 육상 동물의 어머니인 땅에도 모든 종류의 식물을 배정하셨다. 태어난 것들이 낯선 음식이 아니라 자신과 동류인 음식을 먹게 하려는 것이다.",
+      "translation_revision": "sha256:3c4634672177d5d035355433e4e12f28a888935a70d8860c6795f999115d3f91",
+      "groups": [
+        {
+          "id": "a-d13313950c04e3ea5947",
+          "source_range": [
+            0,
+            93
+          ],
+          "ko_range": [
+            0,
+            28
+          ],
+          "source_text": "καθάπερ γὰρ γυναικὶ καὶ παντὶ τῷ θήλει πηγαὶ πρὸς τῷ μέλλειν ἀποκυΐσκειν ἀναχέονται γάλακτος,",
+          "ko_text": "여자와 모든 암컷에게 출산할 무렵 젖의 샘이 솟아,"
+        },
+        {
+          "id": "a-62c515642f4e9aff683d",
+          "source_range": [
+            94,
+            159
+          ],
+          "ko_range": [
+            29,
+            59
+          ],
+          "source_text": "ἵνα τοῖς γεννωμένοις ἄρδωσι τὰς ἀναγκαίας καὶ ἁρμοττούσας τροφάς,",
+          "ko_text": "태어나는 것들에게 필요하고 알맞은 음식을 대어 주듯이,"
+        },
+        {
+          "id": "a-7cd829e0f66508b95e97",
+          "source_range": [
+            160,
+            237
+          ],
+          "ko_range": [
+            60,
+            97
+          ],
+          "source_text": "τὸν αὐτὸν τρόπον καὶ τῇ χερσαίων ζῴων μητρὶ γῇ πάσας φυτῶν προσένειμεν ἰδέας,",
+          "ko_text": "그분은 육상 동물의 어머니인 땅에도 모든 종류의 식물을 배정하셨다."
+        },
+        {
+          "id": "a-965bd2b34ab5fb5dd34f",
+          "source_range": [
+            238,
+            298
+          ],
+          "ko_range": [
+            98,
+            140
+          ],
+          "source_text": "ἵνα συγγενέσι καὶ μὴ ὀθνείοις τροφαῖς τὰ γεννώμενα χρήσηται.",
+          "ko_text": "태어난 것들이 낯선 음식이 아니라 자신과 동류인 음식을 먹게 하려는 것이다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "plant:15",
+      "html_path": "works/plant/index.html#p-15",
+      "fixed_html_path": "releases/public-0.35/works/plant/index.html#p-15",
+      "alignment_revision": "sha256:156ee06d2d50bbc5265de49a6f23ddb4ac081640b4648a4583584e66849d19f0",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:901f3640257ef08abf308f391d5e093e226cfb88fd0e37a78b9825cb92754736",
+          "translation_revision": "sha256:3c4634672177d5d035355433e4e12f28a888935a70d8860c6795f999115d3f91",
+          "alignment_revision": "sha256:156ee06d2d50bbc5265de49a6f23ddb4ac081640b4648a4583584e66849d19f0"
+        },
+        "scoped_ai_review": {
+          "id": "plant-addition-20261003",
+          "scope": "나무 심기에 관하여 1-20절 전체, 21-177절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:901f3640257ef08abf308f391d5e093e226cfb88fd0e37a78b9825cb92754736",
+            "translation_revision": "sha256:3c4634672177d5d035355433e4e12f28a888935a70d8860c6795f999115d3f91",
+            "alignment_revision": "sha256:156ee06d2d50bbc5265de49a6f23ddb4ac081640b4648a4583584e66849d19f0"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg010/tlg0018.tlg010.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0으로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "나무 심기에 관하여",
+        "reference": "15",
+        "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
+        "release": "public-0.35",
+        "translation_revision": "sha256:3c4634672177d5d035355433e4e12f28a888935a70d8860c6795f999115d3f91",
+        "fixed_path": "releases/public-0.35/works/plant/index.html#p-15"
+      }
+    },
+    {
+      "ref": "16",
+      "section": 16,
+      "original": "καὶ μὴν τὰ μὲν φυτὰ κατωκάρα ἀπειργάζετο τὰς κεφαλὰς αὐτῶν ἐν τοῖς βαθυγειοτάτοις γῆς μέρεσι πήξας, ζῴων δὲ τῶν ἀλόγων τὰς κεφαλὰς ἀνελκύσας ἀπὸ γῆς ἐπὶ προμήκους αὐχένος ἄκρας ἡρμόζετο τῷ αὐχένι ὥσπερ ἐπίβασιν τοὺς ἐμπροσθίους πόδας θείς.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:65fa1f0c34d211dcd815cae0f6552675f1775ce8e7ba8a52deb15b4ddec59c78",
+      "source_file_sha256": "e3773fa1792b98916fecb0c6211cd60b5c3250e25106da1cb262a63cd1cdbc40",
+      "source_locator": {
+        "filename": "tlg0018.tlg010.1st1K-grc1.xml",
+        "reference": "16"
+      },
+      "korean": "그분은 식물들을 거꾸로 만드셔서, 그 머리를 땅의 가장 깊은 부분에 박아 두셨다. 비이성적 동물들의 머리는 땅에서 들어 올려 긴 목의 끝에 붙이셨다. 앞다리들은 목을 받치는 받침대처럼 두셨다.",
+      "translation_revision": "sha256:64306d5377b987bcd43bdc49c737c3d21f788da966745498276858e1eb6998cb",
+      "groups": [
+        {
+          "id": "a-c9de1a1889ab9a2de92f",
+          "source_range": [
+            0,
+            99
+          ],
+          "ko_range": [
+            0,
+            45
+          ],
+          "source_text": "καὶ μὴν τὰ μὲν φυτὰ κατωκάρα ἀπειργάζετο τὰς κεφαλὰς αὐτῶν ἐν τοῖς βαθυγειοτάτοις γῆς μέρεσι πήξας,",
+          "ko_text": "그분은 식물들을 거꾸로 만드셔서, 그 머리를 땅의 가장 깊은 부분에 박아 두셨다."
+        },
+        {
+          "id": "a-f974f831af434d4ac8ec",
+          "source_range": [
+            100,
+            185
+          ],
+          "ko_range": [
+            46,
+            83
+          ],
+          "source_text": "ζῴων δὲ τῶν ἀλόγων τὰς κεφαλὰς ἀνελκύσας ἀπὸ γῆς ἐπὶ προμήκους αὐχένος ἄκρας ἡρμόζετο",
+          "ko_text": "비이성적 동물들의 머리는 땅에서 들어 올려 긴 목의 끝에 붙이셨다."
+        },
+        {
+          "id": "a-390423e76e5617439102",
+          "source_range": [
+            186,
+            239
+          ],
+          "ko_range": [
+            84,
+            107
+          ],
+          "source_text": "τῷ αὐχένι ὥσπερ ἐπίβασιν τοὺς ἐμπροσθίους πόδας θείς.",
+          "ko_text": "앞다리들은 목을 받치는 받침대처럼 두셨다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "plant:16",
+      "html_path": "works/plant/index.html#p-16",
+      "fixed_html_path": "releases/public-0.35/works/plant/index.html#p-16",
+      "alignment_revision": "sha256:29ba32a9cea5a35a1d7b765f22cbcb5ef59ea1218d191077f06b8e969ba4200f",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:65fa1f0c34d211dcd815cae0f6552675f1775ce8e7ba8a52deb15b4ddec59c78",
+          "translation_revision": "sha256:64306d5377b987bcd43bdc49c737c3d21f788da966745498276858e1eb6998cb",
+          "alignment_revision": "sha256:29ba32a9cea5a35a1d7b765f22cbcb5ef59ea1218d191077f06b8e969ba4200f"
+        },
+        "scoped_ai_review": {
+          "id": "plant-addition-20261003",
+          "scope": "나무 심기에 관하여 1-20절 전체, 21-177절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:65fa1f0c34d211dcd815cae0f6552675f1775ce8e7ba8a52deb15b4ddec59c78",
+            "translation_revision": "sha256:64306d5377b987bcd43bdc49c737c3d21f788da966745498276858e1eb6998cb",
+            "alignment_revision": "sha256:29ba32a9cea5a35a1d7b765f22cbcb5ef59ea1218d191077f06b8e969ba4200f"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg010/tlg0018.tlg010.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0으로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "나무 심기에 관하여",
+        "reference": "16",
+        "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
+        "release": "public-0.35",
+        "translation_revision": "sha256:64306d5377b987bcd43bdc49c737c3d21f788da966745498276858e1eb6998cb",
+        "fixed_path": "releases/public-0.35/works/plant/index.html#p-16"
+      }
+    },
+    {
+      "ref": "17",
+      "section": 17,
+      "original": "ἐξαιρέτου δὲ τῆς κατασκευῆς ἔλαχεν ἄνθρωπος· τῶν μὲν γὰρ ἄλλων τὰς ὄψεις περιήγαγε κάτω κάμψας, διὸ νένευκε πρὸς χέρσον, ἀνθρώπου δὲ ἔμπαλιν ἀνώρθωσεν, ἵνα τὸν οὐρανὸν καταθεᾶται, φυτὸν οὐκ ἐπίγειον ἀλλ’ οὐράνιον, ὡς ὁ παλαιὸς λόγος, ὑπάρχων.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:6667b31125944492ecfc3453c5586fa0c581074b83df9d9c21285364803933fd",
+      "source_file_sha256": "e3773fa1792b98916fecb0c6211cd60b5c3250e25106da1cb262a63cd1cdbc40",
+      "source_locator": {
+        "filename": "tlg0018.tlg010.1st1K-grc1.xml",
+        "reference": "17"
+      },
+      "korean": "그러나 사람은 특별한 구성을 받았다. 다른 동물들의 얼굴은 아래로 굽혀 땅을 향하게 하셨지만, 사람의 얼굴은 반대로 똑바로 세워 하늘을 바라보게 하셨다. 옛말처럼 사람은 땅의 식물이 아니라 하늘의 식물이기 때문이다.",
+      "translation_revision": "sha256:79c63ab466fec5003dd9906f1df29d98277a1f9849eb6c566b7f78b09c3750d8",
+      "groups": [
+        {
+          "id": "a-65cbdf79a70f9785b3a5",
+          "source_range": [
+            0,
+            44
+          ],
+          "ko_range": [
+            0,
+            20
+          ],
+          "source_text": "ἐξαιρέτου δὲ τῆς κατασκευῆς ἔλαχεν ἄνθρωπος·",
+          "ko_text": "그러나 사람은 특별한 구성을 받았다."
+        },
+        {
+          "id": "a-ae822367d028fd950b99",
+          "source_range": [
+            45,
+            120
+          ],
+          "ko_range": [
+            21,
+            52
+          ],
+          "source_text": "τῶν μὲν γὰρ ἄλλων τὰς ὄψεις περιήγαγε κάτω κάμψας, διὸ νένευκε πρὸς χέρσον,",
+          "ko_text": "다른 동물들의 얼굴은 아래로 굽혀 땅을 향하게 하셨지만,"
+        },
+        {
+          "id": "a-fbbccb46e9c88d2b9665",
+          "source_range": [
+            121,
+            179
+          ],
+          "ko_range": [
+            53,
+            85
+          ],
+          "source_text": "ἀνθρώπου δὲ ἔμπαλιν ἀνώρθωσεν, ἵνα τὸν οὐρανὸν καταθεᾶται,",
+          "ko_text": "사람의 얼굴은 반대로 똑바로 세워 하늘을 바라보게 하셨다."
+        },
+        {
+          "id": "a-783b930185dce174460a",
+          "source_range": [
+            180,
+            242
+          ],
+          "ko_range": [
+            86,
+            120
+          ],
+          "source_text": "φυτὸν οὐκ ἐπίγειον ἀλλ’ οὐράνιον, ὡς ὁ παλαιὸς λόγος, ὑπάρχων.",
+          "ko_text": "옛말처럼 사람은 땅의 식물이 아니라 하늘의 식물이기 때문이다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "plant:17",
+      "html_path": "works/plant/index.html#p-17",
+      "fixed_html_path": "releases/public-0.35/works/plant/index.html#p-17",
+      "alignment_revision": "sha256:443ce7238460d4ca5e661eb2215501317171c1a4d0b7d03281d2eae0f5cc55c1",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:6667b31125944492ecfc3453c5586fa0c581074b83df9d9c21285364803933fd",
+          "translation_revision": "sha256:79c63ab466fec5003dd9906f1df29d98277a1f9849eb6c566b7f78b09c3750d8",
+          "alignment_revision": "sha256:443ce7238460d4ca5e661eb2215501317171c1a4d0b7d03281d2eae0f5cc55c1"
+        },
+        "scoped_ai_review": {
+          "id": "plant-addition-20261003",
+          "scope": "나무 심기에 관하여 1-20절 전체, 21-177절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:6667b31125944492ecfc3453c5586fa0c581074b83df9d9c21285364803933fd",
+            "translation_revision": "sha256:79c63ab466fec5003dd9906f1df29d98277a1f9849eb6c566b7f78b09c3750d8",
+            "alignment_revision": "sha256:443ce7238460d4ca5e661eb2215501317171c1a4d0b7d03281d2eae0f5cc55c1"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg010/tlg0018.tlg010.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0으로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "나무 심기에 관하여",
+        "reference": "17",
+        "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
+        "release": "public-0.35",
+        "translation_revision": "sha256:79c63ab466fec5003dd9906f1df29d98277a1f9849eb6c566b7f78b09c3750d8",
+        "fixed_path": "releases/public-0.35/works/plant/index.html#p-17"
+      }
+    },
+    {
+      "ref": "18",
+      "section": 18,
+      "original": "ἀλλ’ οἱ μὲν ἄλλοι τῆς αἰθερίου φύσεως τὸν ἡμέτερον νοῦν μοῖραν εἰπόντες εἶναι συγγένειαν ἀνθρώπῳ πρὸς αἰθέρα συνῆψαν. ὁ δὲ μέγας Μωυσῆς οὐδενὶ τῶν γεγονότων τῆς λογικῆς ψυχῆς τὸ εἶδος ὡμοίωσεν, ἀλλ’ εἶπεν αὐτὴν τοῦ θείου καὶ ἀοράτου πνεύματος ἐκείνου δόκιμον εἶναι νόμισμα σημειωθὲν καὶ τυπωθὲν σφραγῖδι θεοῦ, ἧς ὁ χαρακτήρ ἐστιν ὁ ἀίδιος λόγος· “ἐνέπνευσε”",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:8952f188ebae0a94e38ccd51bb4a09ff461f0dec92a849674a3892fbb88ad046",
+      "source_file_sha256": "e3773fa1792b98916fecb0c6211cd60b5c3250e25106da1cb262a63cd1cdbc40",
+      "source_locator": {
+        "filename": "tlg0018.tlg010.1st1K-grc1.xml",
+        "reference": "18"
+      },
+      "korean": "다른 이들은 우리의 지성이 에테르 본성의 일부라고 말하여, 사람과 에테르 사이에 동족 관계를 맺어 주었다. 그러나 위대한 모세는 이성적 영혼의 형태를 피조물 가운데 어느 것에도 견주지 않았다. 오히려 그것을 그 신적이며 보이지 않는 영의 진품 화폐라고 말했다. 하나님의 인장으로 표를 새기고 찍은 화폐이다. 그 인장의 새김은 영원한 로고스이다. “불어넣으셨다,",
+      "translation_revision": "sha256:a87e06246264fb397b2dd0e54c5e0714a83bcc070eaa28d56199df02a9562d7c",
+      "groups": [
+        {
+          "id": "a-74afda151459b4bdb6ab",
+          "source_range": [
+            0,
+            117
+          ],
+          "ko_range": [
+            0,
+            59
+          ],
+          "source_text": "ἀλλ’ οἱ μὲν ἄλλοι τῆς αἰθερίου φύσεως τὸν ἡμέτερον νοῦν μοῖραν εἰπόντες εἶναι συγγένειαν ἀνθρώπῳ πρὸς αἰθέρα συνῆψαν.",
+          "ko_text": "다른 이들은 우리의 지성이 에테르 본성의 일부라고 말하여, 사람과 에테르 사이에 동족 관계를 맺어 주었다."
+        },
+        {
+          "id": "a-8d8335b07208c303b47e",
+          "source_range": [
+            118,
+            193
+          ],
+          "ko_range": [
+            60,
+            107
+          ],
+          "source_text": "ὁ δὲ μέγας Μωυσῆς οὐδενὶ τῶν γεγονότων τῆς λογικῆς ψυχῆς τὸ εἶδος ὡμοίωσεν,",
+          "ko_text": "그러나 위대한 모세는 이성적 영혼의 형태를 피조물 가운데 어느 것에도 견주지 않았다."
+        },
+        {
+          "id": "a-a035976f0b8722f0725c",
+          "source_range": [
+            194,
+            272
+          ],
+          "ko_range": [
+            108,
+            145
+          ],
+          "source_text": "ἀλλ’ εἶπεν αὐτὴν τοῦ θείου καὶ ἀοράτου πνεύματος ἐκείνου δόκιμον εἶναι νόμισμα",
+          "ko_text": "오히려 그것을 그 신적이며 보이지 않는 영의 진품 화폐라고 말했다."
+        },
+        {
+          "id": "a-e52888d6cce3aee95044",
+          "source_range": [
+            273,
+            309
+          ],
+          "ko_range": [
+            146,
+            171
+          ],
+          "source_text": "σημειωθὲν καὶ τυπωθὲν σφραγῖδι θεοῦ,",
+          "ko_text": "하나님의 인장으로 표를 새기고 찍은 화폐이다."
+        },
+        {
+          "id": "a-a10a7c409429c135f422",
+          "source_range": [
+            310,
+            345
+          ],
+          "ko_range": [
+            172,
+            192
+          ],
+          "source_text": "ἧς ὁ χαρακτήρ ἐστιν ὁ ἀίδιος λόγος·",
+          "ko_text": "그 인장의 새김은 영원한 로고스이다."
+        },
+        {
+          "id": "a-1dde9e31b0a94a5d4513",
+          "source_range": [
+            346,
+            357
+          ],
+          "ko_range": [
+            193,
+            201
+          ],
+          "source_text": "“ἐνέπνευσε”",
+          "ko_text": "“불어넣으셨다,"
+        }
+      ],
+      "notes": [
+        "이성적 영혼은 하나님의 인장을 찍은 진품 화폐로, 영원한 로고스는 그 인장의 새김으로 설명된다. 18절 끝에서 시작한 창세기 2.7의 인용은 19절로 이어진다."
+      ],
+      "work_passage_id": "plant:18",
+      "html_path": "works/plant/index.html#p-18",
+      "fixed_html_path": "releases/public-0.35/works/plant/index.html#p-18",
+      "alignment_revision": "sha256:d002dc45c035c28c4ba2d77f70ade2da31d1c1966f4beadd7ca0806234232fbd",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:8952f188ebae0a94e38ccd51bb4a09ff461f0dec92a849674a3892fbb88ad046",
+          "translation_revision": "sha256:a87e06246264fb397b2dd0e54c5e0714a83bcc070eaa28d56199df02a9562d7c",
+          "alignment_revision": "sha256:d002dc45c035c28c4ba2d77f70ade2da31d1c1966f4beadd7ca0806234232fbd"
+        },
+        "scoped_ai_review": {
+          "id": "plant-addition-20261003",
+          "scope": "나무 심기에 관하여 1-20절 전체, 21-177절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:8952f188ebae0a94e38ccd51bb4a09ff461f0dec92a849674a3892fbb88ad046",
+            "translation_revision": "sha256:a87e06246264fb397b2dd0e54c5e0714a83bcc070eaa28d56199df02a9562d7c",
+            "alignment_revision": "sha256:d002dc45c035c28c4ba2d77f70ade2da31d1c1966f4beadd7ca0806234232fbd"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg010/tlg0018.tlg010.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0으로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "나무 심기에 관하여",
+        "reference": "18",
+        "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
+        "release": "public-0.35",
+        "translation_revision": "sha256:a87e06246264fb397b2dd0e54c5e0714a83bcc070eaa28d56199df02a9562d7c",
+        "fixed_path": "releases/public-0.35/works/plant/index.html#p-18"
+      }
+    },
+    {
+      "ref": "19",
+      "section": 19,
+      "original": "γάρ φησιν “ὁ θεὸς εἰς τὸ πρόσωπον αὐτοῦ πνοὴν ζωῆς”, ὥστε ἀνάγκη πρὸς τὸν ἐκπέμποντα τὸν δεχόμενον ἀπεικονίσθαι· διὸ καὶ λέγεται κατ’ εἰκόνα θεοῦ τὸν ἄνθρωπον γεγενῆσθαι, οὐ μὴν κατ’ εἰκόνα τινὸς τῶν γεγονότων.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:c935867f185f9585f57cd940dd0d06f8d8a2cd2a54571405c9ff84a2b88c8ced",
+      "source_file_sha256": "e3773fa1792b98916fecb0c6211cd60b5c3250e25106da1cb262a63cd1cdbc40",
+      "source_locator": {
+        "filename": "tlg0018.tlg010.1st1K-grc1.xml",
+        "reference": "19"
+      },
+      "korean": "하나님이 그의 얼굴에 생명의 숨결을”이라고 말하기 때문이다. 따라서 받는 이는 보내는 분의 모상을 지녀야 한다. 그래서 사람이 하나님의 형상대로 생겨났다고 하며, 어떤 피조물의 형상대로 생겨났다고 하지는 않는다.",
+      "translation_revision": "sha256:722ce50133c580426164718f45ee89ec464b962a11205c5400dee9d38d928c75",
+      "groups": [
+        {
+          "id": "a-b23e88544a1616482592",
+          "source_range": [
+            0,
+            52
+          ],
+          "ko_range": [
+            0,
+            33
+          ],
+          "source_text": "γάρ φησιν “ὁ θεὸς εἰς τὸ πρόσωπον αὐτοῦ πνοὴν ζωῆς”,",
+          "ko_text": "하나님이 그의 얼굴에 생명의 숨결을”이라고 말하기 때문이다."
+        },
+        {
+          "id": "a-8596443530759a95c1ab",
+          "source_range": [
+            53,
+            112
+          ],
+          "ko_range": [
+            34,
+            62
+          ],
+          "source_text": "ὥστε ἀνάγκη πρὸς τὸν ἐκπέμποντα τὸν δεχόμενον ἀπεικονίσθαι·",
+          "ko_text": "따라서 받는 이는 보내는 분의 모상을 지녀야 한다."
+        },
+        {
+          "id": "a-a17df1c1a59619498f33",
+          "source_range": [
+            113,
+            210
+          ],
+          "ko_range": [
+            63,
+            118
+          ],
+          "source_text": "διὸ καὶ λέγεται κατ’ εἰκόνα θεοῦ τὸν ἄνθρωπον γεγενῆσθαι, οὐ μὴν κατ’ εἰκόνα τινὸς τῶν γεγονότων.",
+          "ko_text": "그래서 사람이 하나님의 형상대로 생겨났다고 하며, 어떤 피조물의 형상대로 생겨났다고 하지는 않는다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "plant:19",
+      "html_path": "works/plant/index.html#p-19",
+      "fixed_html_path": "releases/public-0.35/works/plant/index.html#p-19",
+      "alignment_revision": "sha256:67889de32f9e471395f2b61d841184f751468fe2273c529a303e46861c578fdc",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:c935867f185f9585f57cd940dd0d06f8d8a2cd2a54571405c9ff84a2b88c8ced",
+          "translation_revision": "sha256:722ce50133c580426164718f45ee89ec464b962a11205c5400dee9d38d928c75",
+          "alignment_revision": "sha256:67889de32f9e471395f2b61d841184f751468fe2273c529a303e46861c578fdc"
+        },
+        "scoped_ai_review": {
+          "id": "plant-addition-20261003",
+          "scope": "나무 심기에 관하여 1-20절 전체, 21-177절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:c935867f185f9585f57cd940dd0d06f8d8a2cd2a54571405c9ff84a2b88c8ced",
+            "translation_revision": "sha256:722ce50133c580426164718f45ee89ec464b962a11205c5400dee9d38d928c75",
+            "alignment_revision": "sha256:67889de32f9e471395f2b61d841184f751468fe2273c529a303e46861c578fdc"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg010/tlg0018.tlg010.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0으로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "나무 심기에 관하여",
+        "reference": "19",
+        "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
+        "release": "public-0.35",
+        "translation_revision": "sha256:722ce50133c580426164718f45ee89ec464b962a11205c5400dee9d38d928c75",
+        "fixed_path": "releases/public-0.35/works/plant/index.html#p-19"
+      }
+    },
+    {
+      "ref": "20",
+      "section": 20,
+      "original": "ἀκόλουθον οὖν ἦν τῆς ἀνθρώπου ψυχῆς κατὰ τὸν ἀρχέτυπον τοῦ αἰτίου λόγον ἀπεικονισθείσης καὶ τὸ σῶμα ἀνεγερθὲν πρὸς τὴν καθαρωτάτην τοῦ παντὸς μοῖραν, οὐρανόν, τὰς ὄψεις ἀνατεῖναι, ἵνα τῷ φανερῷ τὸ ἀφανὲς ἐκδήλως καταλαμβάνηται.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:13463cc70ca8b30c53779da0f563a23ae84dd6935e7323fc582da531831fcb1c",
+      "source_file_sha256": "e3773fa1792b98916fecb0c6211cd60b5c3250e25106da1cb262a63cd1cdbc40",
+      "source_locator": {
+        "filename": "tlg0018.tlg010.1st1K-grc1.xml",
+        "reference": "20"
+      },
+      "encoded_page_breaks": [
+        "v.2.p.138"
+      ],
+      "korean": "그러므로 사람의 영혼이 원인이신 분의 원형인 로고스를 따라 모상을 지녔으니, 몸도 곧게 서서 우주의 가장 순수한 부분인 하늘을 향해 눈을 드는 것이 당연했다. 보이는 것을 통해 보이지 않는 것이 분명하게 파악되게 하려는 것이다.",
+      "translation_revision": "sha256:fb85778ef981fc8da6eabc997504f881e836507b82c807c8498a20cd1214aa35",
+      "groups": [
+        {
+          "id": "a-afcfdf4ddadca738f688",
+          "source_range": [
+            0,
+            87
+          ],
+          "ko_range": [
+            0,
+            42
+          ],
+          "source_text": "ἀκόλουθον οὖν ἦν τῆς ἀνθρώπου ψυχῆς κατὰ τὸν ἀρχέτυπον τοῦ αἰτίου λόγον ἀπεικονισθείσης",
+          "ko_text": "그러므로 사람의 영혼이 원인이신 분의 원형인 로고스를 따라 모상을 지녔으니,"
+        },
+        {
+          "id": "a-636b0208686a51797ac6",
+          "source_range": [
+            88,
+            179
+          ],
+          "ko_range": [
+            43,
+            88
+          ],
+          "source_text": "καὶ τὸ σῶμα ἀνεγερθὲν πρὸς τὴν καθαρωτάτην τοῦ παντὸς μοῖραν, οὐρανόν, τὰς ὄψεις ἀνατεῖναι,",
+          "ko_text": "몸도 곧게 서서 우주의 가장 순수한 부분인 하늘을 향해 눈을 드는 것이 당연했다."
+        },
+        {
+          "id": "a-59e1c05f83d18d5e39d3",
+          "source_range": [
+            180,
+            227
+          ],
+          "ko_range": [
+            89,
+            127
+          ],
+          "source_text": "ἵνα τῷ φανερῷ τὸ ἀφανὲς ἐκδήλως καταλαμβάνηται.",
+          "ko_text": "보이는 것을 통해 보이지 않는 것이 분명하게 파악되게 하려는 것이다."
+        }
+      ],
+      "notes": [
+        "영혼이 로고스를 따라 모상을 지닌 일과 몸이 곧게 서서 하늘을 바라보는 일을 연결한다. 보이는 몸을 통해 보이지 않는 영혼의 관계를 드러내는 결론이다."
+      ],
+      "work_passage_id": "plant:20",
+      "html_path": "works/plant/index.html#p-20",
+      "fixed_html_path": "releases/public-0.35/works/plant/index.html#p-20",
+      "alignment_revision": "sha256:4d473d372ac07dbde249ef63edc4b148791063340aa51845c45a298afcfde4a1",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:13463cc70ca8b30c53779da0f563a23ae84dd6935e7323fc582da531831fcb1c",
+          "translation_revision": "sha256:fb85778ef981fc8da6eabc997504f881e836507b82c807c8498a20cd1214aa35",
+          "alignment_revision": "sha256:4d473d372ac07dbde249ef63edc4b148791063340aa51845c45a298afcfde4a1"
+        },
+        "scoped_ai_review": {
+          "id": "plant-addition-20261003",
+          "scope": "나무 심기에 관하여 1-20절 전체, 21-177절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:13463cc70ca8b30c53779da0f563a23ae84dd6935e7323fc582da531831fcb1c",
+            "translation_revision": "sha256:fb85778ef981fc8da6eabc997504f881e836507b82c807c8498a20cd1214aa35",
+            "alignment_revision": "sha256:4d473d372ac07dbde249ef63edc4b148791063340aa51845c45a298afcfde4a1"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg010/tlg0018.tlg010.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0으로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "나무 심기에 관하여",
+        "reference": "20",
+        "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
+        "release": "public-0.35",
+        "translation_revision": "sha256:fb85778ef981fc8da6eabc997504f881e836507b82c807c8498a20cd1214aa35",
+        "fixed_path": "releases/public-0.35/works/plant/index.html#p-20"
+      }
+    }
+  ],
+  "related": [],
+  "aliases": [
+    "나무 심기에 관하여",
+    "Plant.",
+    "De plantatione"
+  ],
+  "translationLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "sourceCommit": "03776b39f4047c5cff06f5296fae4b2bae4b08fb",
+  "licenseEvidence": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg010/tlg0018.tlg010.1st1K-grc1.xml",
+  "openAccessFullTextUrl": "https://archive.org/download/philonisalexandr0103philuoft/philonisalexandr0103philuoft.pdf",
+  "original_title": "De plantatione",
+  "display_title": "나무 심기에 관하여",
+  "reference_scheme": "section",
+  "coverage_label": "1-20절 수록",
+  "edition_id": "plant-first1k-03776b39",
+  "source_file_sha256": "e3773fa1792b98916fecb0c6211cd60b5c3250e25106da1cb262a63cd1cdbc40",
+  "display_author": "필론",
+  "scope": "나무 심기에 관하여 1-20절 전체, 21-177절 미수록",
+  "coverage": "complete_scope",
+  "release_id": "public-0.35",
+  "source_language": "grc",
+  "source_kind": "edited_ancient_original",
+  "human_reviewed": false,
+  "translation_method": "고정 원어 본문에서 직접 번역",
+  "html_path": "works/plant/index.html",
+  "json_path": "data/works/plant.json",
+  "fixed_html_path": "releases/public-0.35/works/plant/index.html",
+  "source_profile": "plant-first1k-03776b39",
+  "source_decisions": [
+    {
+      "kind": "display_punctuation",
+      "action": "Curly quotation marks, ASCII hyphens, NFC and regular spaces; downloaded XML unchanged."
+    },
+    {
+      "ref": "1",
+      "kind": "inline_editor_reference",
+      "action": "separated_from_body",
+      "text": "(Gen. 9, 20)"
+    },
+    {
+      "ref": "3",
+      "kind": "note",
+      "action": "separated_from_body",
+      "text": "περὶ φυτουργίας Νῶε τὸ β΄ M: περὶ φυτουργίας Νῶε G, Φίλωνος σοφοῦ περὶ φυτουργίας τὸ δεύτερον Νῶε λόγος ία U, περὶ φυτουργίας τὸ δεύτερον Νῶε FH 1 πρώτω L τὰ fort. cranspon. in lin. 2 ante περὶ γενικῆς MGUF: γενικῶς Η 2 ante περὶ ras. in H τὰ περὶ Η1 ?) 3 ἀποδώσωμεν G 4 φάσκων om. M 6 φυτουργιῶν scripsi: φυτῶν codd., φυτειῶν coni. Mang. γεωργιῶν] ἐνεργειῶν Η 8 μέγαν om. G 10 αὖ scripsi: οὐ codd. περιέχων G τὰ om. L ἅμα scripsi: ἀλλὰ codd. 11 ὅδ’ U 12 καὶ om. r ἐξ αὑτῆς om. E αὑτῆς Η2. αὑτῆς ceteri 13 μορφὴν U, κοσμεῖν E 14 καὶ om. F ἐρίζου M δ’ E"
+    },
+    {
+      "ref": "3",
+      "kind": "note",
+      "action": "separated_from_body",
+      "text": "11-136,15 ἐπειδὴ-χρεῖοι exstant in Epitome Περὶ κόσμου Mang. II p. 603,6-604,38."
+    },
+    {
+      "ref": "3",
+      "kind": "add",
+      "action": "preserved_with_editorial_brackets",
+      "text": "καὶ"
+    },
+    {
+      "ref": "7",
+      "kind": "add",
+      "action": "preserved_with_editorial_brackets",
+      "text": "ἣν"
+    },
+    {
+      "ref": "7",
+      "kind": "note",
+      "action": "separated_from_body",
+      "text": "1 ὀχυροῦτο M 2 αὐτῶ U ὁ οὐρανὸς UF καὶ addidi 2-7 ὀχεῖσθαι-ἀέρι om. Ε 3 δέος Mang.: δέον MGFH, δὲ alterum ὕδατι] ἔλατι M, ὑγρότητι conicio 4. 5 θαυμαστοποιὸς H 6 τῶν ψυχροτάτων H 7 ἱδρῦσθαι scripsi: ἱδρύσασθαι eodd. 8 οὗ MFHE: οὐ U, om. G 10 οὑν secludit Cohn καθῆκεν U 11 ἐρήρισται MG οὖν GH2: om. MUFH1E 12 πᾶσαν om. E 13 διακοσμήσαντος] οἰκονομήσαντος L 15 δ’ D 15. 16 ὥστε εἰ τῆς ἁπάσης ὕλης μηδὲν ἔξω μηδὲ τῆς βραχυτάτης καταλειφθείσης E 15 ἐκ] εἰ GFE 15. 16 ἐκ γῆς ἀπάσης] spat. 8-9 litt. M 16 μηδέ om. G 17 ὅδ’ τοίνυν] λοιπὸν b 18 bis καινὸν G πῶς] πρὸς G τὸ πλῆρες H: τὸν πλήρης M, τὸν πλήρη GUFE 19 τῶν corr. in τὸν G οὐ βρίθει] ὑβρίσθη U, εὑρέθη E ταλαντεύων M 19. 20 ὑπερείδοντος conicio 20 ἔξω; ὃ φάσματι conicio φασματίαν F 21 ἣν add. in appendice Turn. πᾶν] ποίαν Η τι Turn.: τε codd., γε Ε (probat Cohn) 22 δὲ] τε G 23 ἄλλων om. M ἐγκαλλώπισται MG, ἐγκεκολωπίσθαι F"
+    },
+    {
+      "ref": "12",
+      "kind": "note",
+      "action": "separated_from_body",
+      "text": "1 δυσωπείας F; δυστροπίας Eus (sed δυσωπίας cod. I) 2 τῶν ἐνύλων Eus codd. plerique ἐν oin. Uar 3 ἀχθηφορεῖν Ε λόγος Eus: νόμος codd. E 3. 4 ὁχυρότατον G 4 ἐστί M 5 ἐπὶ] ἐστὶ Γ’ τὸν] τὸ F 5. G τὸν φύσεως Eus 6 ἀήττητον δρόμον Eus ἀήττητος conicio συσφίγγων Eus codd. nonnulli πάντα τὰ μέρη Ε συνάγων] συνέχων coni. Mang. 7 αὐτῶν U, om. Ε ἄρρητον Eus codd. nonnuUi 8. 9 ter οὔτε conicio 8 πρὸς] καὶ G παντὸς om. E 9 οὐδὲ MGF ὑπ’ Ε, ἀπὸ M 10 λόγου Eus: νόμου codd. 11 αὑτὸν Eus H2: αὐτὸν ceteri καθάπερ om. Eus 11-13 καθάπερ-διαιτῶντες om. 11 φωνάεντα G, φωνῆεν Eus, φωνῆέν τι conicio στοιχεῖα U 12 ἐγγράμμου Eus φωνῆς Mang.: μούσης codd., μουσικῆς Eus 13 συναγωγῷ scripsi: συνόδω codd. Eus 14 οὕτως MGF: οὕτω UH, οὔπω E ἐριζοῦτο U, ἐκραταιοῦτο coni. Mang. 16 ἀνεστῶτα G1, ἐνεστῶτα M 18 προσενέμετο conicio 19 τῶ ὕδατι UE πτηνὰ δὲ E καὶ τὰ GUFH: τὰ δὲ M 19-136, 1 καὶ τὰ-προφαίνεσθαι οm. E 20 κατὰ Μακεδονίαν om. M"
+    },
+    {
+      "ref": "12",
+      "kind": "note",
+      "action": "separated_from_body",
+      "text": "1-13 Euseb. Pr. ev. VII 13 καὶ ἐν τῷ δευτέρῳ δὲ πάλιν ὁ αὐτὸς τάδε γράφει πρὸς Τὰς δυστροπίας-διαιτῶντος."
+    },
+    {
+      "ref": "12",
+      "kind": "add",
+      "action": "preserved_with_editorial_brackets",
+      "text": "ὧν"
+    },
+    {
+      "ref": "15",
+      "kind": "note",
+      "action": "separated_from_body",
+      "text": "1 καὶ οἱ ἀστέρες Μang.: τοὺς ἀστέρας ἐν codd., τοὺς ἀστέρας δὲ ἐν E, καὶ τῶν ἀστέρων ἐν Turn. 1 ἡ ζῷα-ἀμέτοχα om. E 1 γὰρ] δὲ M τούτους] ταῦτα G 2 ὧν addidi πλανῆται U ἑαυτῶν κινούμενοι conicio 5 δὲ E: codd. γῆ καὶ ὕδατι καὶ E 6 μὲν] μὲν γὰρ conicio καὶ post om. Turu. καὶ αἰσθητὰ om. E 8 οὐ ταῖς Turn.: οὔσαις codd. E τάξεσιν U 11 τῆς τῆς E πρὸς] καὶ M 13 καλεῖν M post καλοῦσι add. καὶ δαίμονας E εὐθυβόλῳ χρώμενος ὀνόματι E 14 διαγγελούσας MGU παρὰ] περὶ M 15 ὧν] ὧ L οἱ ὑπήκοοι Ma: ὑπήκοοι ceteri 16 τε] τε καὶ M δύο γένη conicio 17 μητέρα τε scripsi: τε μητέρα γὰρ GH: καὶ MUF 18 πρὸς] ἀπὸ M πρὸ τοῦ μέλλειν conicio τῶ codd.: τὸ Turn. ἀναχέονται scripsi; ἀποχέονται codd. 20 καὶ post χερσαίων add. M 21 ὀθνείαις GF"
+    },
+    {
+      "ref": "15",
+      "kind": "note",
+      "action": "separated_from_body",
+      "text": "14. 15 cf. ad p. 45,2 16-137, 1 sic partim amplificavit partim contraxit E II p. 605, 26 Mang.: ὕδατι δὲ ζῷα πλωτὰ καὶ ζωόφυτα, τῇ γῆ δ’ αὖ ζῷά τε χερσαῖα καὶ φυτά, καὶ τὰ μὲν φυτὰ κατωκάρα, pergit usque ad p. 137,17 γεγονότων (II 606,9 M)"
+    },
+    {
+      "ref": "19",
+      "kind": "inline_editor_reference",
+      "action": "separated_from_body",
+      "text": "(Gen. 1,27)"
+    },
+    {
+      "ref": "19",
+      "kind": "inline_editor_reference",
+      "action": "separated_from_body",
+      "text": "(Gen. 2,7)"
+    },
+    {
+      "ref": "20",
+      "kind": "note",
+      "action": "separated_from_body",
+      "text": "1 κατωκάρα] κάτω, tum spat. 4 litt. M ἀπειργάζετο R: ἀνειργάζετο codd., εἰργάσατο Ε 1.2 αὐτῶν τοῖς βαθέσι τοῖς τῆς γῆς E γῆς om. L 3 αὐχένας M 6 κύψας Ε δ’ U 7 οὐρανὸν] ἄνον Μ ὁ om. E 8 ὑπάρχων om. E 9 τοῦ ἀνθρώπου Eus 10 ἀνῆψαν Η δὲ δὴ E Μώσης Eus 11 ὡμοίωσεν Eus: ὁμοίως ὠνόμασεν codd. E 12 ἀκηράτου coni. Mang. πνεύματος Eus: θεοῦ codd. E, om. v ἐκείνου ’UFH (postea del. H) Eus: εἰκόνα G2 Turn., ἐκείνου εἰκόνα E 12. 13 δόκιμον-χαρακτὴρ om. F 12 νόμισμα Eus: νομίσας codd. E σημειωθὲν Eus: ἧς εἴωθε GUE, εἴωθε M, οὐσιωθεῖσαν Η 12. 13 τυπωθὲν MGUE Eus: τυπωθεῖσαν Η 13 σφραγῖδι UFH2 Eus: σφραγῖδα ΜG(H1)E alterum ὁ GUF Eus Ε: om. MH 14 φησίν om. M post ζωῆς add. καὶ ἐγένετο ὁ ἄνθρωπος εἰς ψυχὴν ζῶσαν Eus 15 ἐμπνέοντα coni. Mang. ἀπεικονίζεσθαι Eus codd. nonnulli Ε, ἀπεικάζεσθαι Eus codd. OG alii διὸ (pro διὸ spatium in U) καὶ τὸν ἄνθρωπον κατ’ εἰκόνα φασὶ θεοῦ γεγενῆσθαι UE 16 γενέσθαι Eus, γενέσθαι τὸν ἄνθρωπον Eus codd. OG alii 17 τῶν γεγονότων τινὸς Eus codd. OG alii ἦν Eus: om. codd. 18 λόγου M(G1)"
+    },
+    {
+      "ref": "20",
+      "kind": "note",
+      "action": "separated_from_body",
+      "text": "1 R fol. 91r τοῦ αὐτοῦ: καὶ μὴν τὰ μὲν φυτὰ κατωκάρα ἀπειργάζετο: τὸ λεγόμενον παρὰ τοῖς ἰδιώταις κατακέφαλα 8-138,2 Euseb. Pr. Ev. VII 18 καὶ ταῦτα δὲ πάλιν Ἑβραῖος ἑρμηνεύει Φίλων ταῖς ἐκτεθείσαις αὐτοῦ φωναῖς ἔτι καὶ τάδε ἐπιλέγων: Ἀλλ’ οἱ μὲν-ἀνατεῖναι."
+    },
+    {
+      "kind": "printed_collation",
+      "ref": "4",
+      "before": "συνέχεσθα",
+      "after": "συνέχεσθαι",
+      "printed_page": 134,
+      "pdf_page": 600,
+      "reason": "인쇄본문의 부정사 끝 이오타 복원"
+    }
+  ],
+  "source_collations": [
+    {
+      "reference": "4",
+      "edition": "Wendland 1897, vol. 2",
+      "url": "https://archive.org/download/philonisalexandr0103philuoft/philonisalexandr0103philuoft.pdf#page=600",
+      "pdf_file": "research/planning/philo-genesis-ten-20261003/cohn-wendland-vol1-3.pdf",
+      "corrections": [
+        {
+          "ref": "4",
+          "before": "συνέχεσθα",
+          "after": "συνέχεσθαι",
+          "printed_page": 134,
+          "pdf_page": 600,
+          "reason": "인쇄본문의 부정사 끝 이오타 복원"
+        }
+      ]
+    }
+  ],
+  "validation_records": [
+    {
+      "id": "plant-addition-20261003",
+      "scope": "나무 심기에 관하여 1-20절 전체, 21-177절 미수록",
+      "date": "2026-10-03",
+      "reviewer_type": "AI",
+      "human_reviewed": false,
+      "reading_record_count": 20,
+      "meaning_groups": 79,
+      "methods": [
+        "선정한 그리스어 20개 대목을 읽고 한국어와 의미 대응을 작성했다.",
+        "해당 인쇄면과 편집 표기를 대조하고 문장 연결, 화자와 결락을 확인했다."
+      ],
+      "sources": [
+        {
+          "work": "plant",
+          "title": "나무 심기에 관하여",
+          "url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg010/tlg0018.tlg010.1st1K-grc1.xml",
+          "verified": "2026-10-03",
+          "http_status": 200,
+          "bytes": 200151,
+          "sha256": "e3773fa1792b98916fecb0c6211cd60b5c3250e25106da1cb262a63cd1cdbc40",
+          "full_text": true,
+          "commit": "03776b39f4047c5cff06f5296fae4b2bae4b08fb",
+          "license": "CC BY-SA 4.0",
+          "license_evidence": "TEI publicationStmt/availability/licence",
+          "open_access_full_text_url": "https://archive.org/download/philonisalexandr0103philuoft/philonisalexandr0103philuoft.pdf",
+          "pdf_access_record": "pdf-access.json",
+          "printed_volume": 2,
+          "bibliographic_status": "confirmed",
+          "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
+          "pdf_pages_read": [
+            599,
+            600,
+            601,
+            602,
+            603,
+            604
+          ],
+          "pdf_title_pages_read": [
+            9,
+            429
+          ],
+          "access_evidence": "공개 그리스어 XML과 대학도서관 인쇄본 PDF 전체를 인증 없이 내려받음",
+          "printed_collation_record": "printed-collation.json"
+        }
+      ],
+      "passages": [
+        {
+          "ref": "1",
+          "targets": {
+            "source_revision": "sha256:40c834d40146e525a157c7c7693e72917516a326584e7cb4e11ae9bfb8912c33",
+            "translation_revision": "sha256:7cf8005a9b991d9e4249c1b9048dc4a93b22feb1458184dd68d4d6b03be1e004",
+            "alignment_revision": "sha256:47e882623b0a645365057d30b97295ab1eb8a86fecccc30c56947ea639d787a8"
+          }
+        },
+        {
+          "ref": "2",
+          "targets": {
+            "source_revision": "sha256:7eceada3f84a4f9a5b72e64c80919daad67f7107a4e6b3faad37173019652287",
+            "translation_revision": "sha256:83ace5e7bbd7a045598f18da695cbcb7dd385c0cc3ec1e05340ed3ec3b45ebd0",
+            "alignment_revision": "sha256:c06f59031b8300dbb47ccee947a7b6b45b3ea14367640554ace68a71873ecbd5"
+          }
+        },
+        {
+          "ref": "3",
+          "targets": {
+            "source_revision": "sha256:38a9c48579fb86e2fb509a6d6f612ff486b9ad7de73c8d6ff34c4865e2c693b6",
+            "translation_revision": "sha256:bd573d72faae68b055c15b4cf2d5d9837e1f62bf74ce392f843ce08c8f18f89d",
+            "alignment_revision": "sha256:3abebe73a3fd6b10085c6feb2fb321870170a0965ef978974dc09f4925cd7e22"
+          }
+        },
+        {
+          "ref": "4",
+          "targets": {
+            "source_revision": "sha256:0f43a0311c8f5e9c7124315d96f24e678441766db0a4b6447878c2a3b9d63563",
+            "translation_revision": "sha256:349afdcb6123408418eff30762ba03f816459ea773f11fdea6ad41ca9f9a423d",
+            "alignment_revision": "sha256:bc49cbd4b2d23326a20f5a23fd024ff2a47a69ed91776af0ef054654e4da6f50"
+          }
+        },
+        {
+          "ref": "5",
+          "targets": {
+            "source_revision": "sha256:27331d56b77b003f8bb1131914a18b08f8dae09ff1e4b7a12b9630048813365d",
+            "translation_revision": "sha256:664b9b6a52b838f14d9613fee69d23f8dfb80f7a8ffb3781dab84e637e97ab76",
+            "alignment_revision": "sha256:66ae974a516966d155763f7def117d77c2ea245a143fbd9eb5c8bf91238a6978"
+          }
+        },
+        {
+          "ref": "6",
+          "targets": {
+            "source_revision": "sha256:5101d6e34c7b5ab87b87d0653d18dac505a02456b4ea44b3f2509d950c066803",
+            "translation_revision": "sha256:2179571e5ada6c5c15bd0b3c639c6cb5f383bf5dce9fa5198cd58410c0951c9a",
+            "alignment_revision": "sha256:b914e391d6ef1e6ea9874a2f7d992fb8fe21d905060b1df1a37574d3c0ef0235"
+          }
+        },
+        {
+          "ref": "7",
+          "targets": {
+            "source_revision": "sha256:267c88069d08937b521f906d936f036d26a9939ab5c2bead1520894014ba2eda",
+            "translation_revision": "sha256:52fee240ed65505b2005f2ea60995ddd3a9a45187e7b394cb1240ef4b9b395ff",
+            "alignment_revision": "sha256:94267b07b35efe2a7787a9fc1d6bcb8d4c4a13e85123d81cde6e2118b906e1a2"
+          }
+        },
+        {
+          "ref": "8",
+          "targets": {
+            "source_revision": "sha256:821e7142861ef63a615a4cc11bd6ec42367a14c6a6e00f5c9acc24877ad63369",
+            "translation_revision": "sha256:21697192f95fa48f9ba95fc09e2ddf68d925312b2d9adc86b2a769415b37f5ed",
+            "alignment_revision": "sha256:23c6b50f9afa41438ed690631909871d65cf4b20e1b3640699ef176ba2899ebb"
+          }
+        },
+        {
+          "ref": "9",
+          "targets": {
+            "source_revision": "sha256:a738f549462c5605f78b6e3b969c5380f7bdd91d89679ac53bf3576092c78036",
+            "translation_revision": "sha256:cdd7400448bb7e4b56b3c6eed282a743dc951deca2ec406d84a2f209c21f2d02",
+            "alignment_revision": "sha256:13af01776fba552c9460fb3ad550339f24a0cf6c3e79b198317e58ac84878e9a"
+          }
+        },
+        {
+          "ref": "10",
+          "targets": {
+            "source_revision": "sha256:c0e36bcfba7711b8986303c66635effc8c34e221140a6723b1d3331612d37452",
+            "translation_revision": "sha256:c00555a376646aaff4b8e0eaafde55894138a37cac798ca2e5e5748b1e19755f",
+            "alignment_revision": "sha256:676baf3f5343419985617b7839c1c47985edd4078018d2bb7cb3a178449d7733"
+          }
+        },
+        {
+          "ref": "11",
+          "targets": {
+            "source_revision": "sha256:f0a7bc688d9af35a12238a617eaf8b5c5137223e196e045b1960ba79ca26d18b",
+            "translation_revision": "sha256:5836b3740b4f976074720e7faf5c135a5cd9252f3ecb97776b325a434c56725d",
+            "alignment_revision": "sha256:7859994c33a0027252978e104853dc8becef0c7aab8879bdbcda1a0cb18a0545"
+          }
+        },
+        {
+          "ref": "12",
+          "targets": {
+            "source_revision": "sha256:e17be8f8e2d5a4066beede0f9394658a7f7a5873213851bbdd8e9e71cc280df9",
+            "translation_revision": "sha256:da30463418e308ff20495a47a499f6c235b8d8f3c79eeb66464e9ca619c26744",
+            "alignment_revision": "sha256:ca045615ef285f638dfd1f356d526ef784af3e25c4570d441152c53a734610e7"
+          }
+        },
+        {
+          "ref": "13",
+          "targets": {
+            "source_revision": "sha256:1a634b84536baac82ea600cdd52a60232ae823d5b7b3129df9a68abd5e678a5d",
+            "translation_revision": "sha256:ee3570fd87f22f485a5e14f578bad0ec5a83e04fd0d9922891794fe3d8290d22",
+            "alignment_revision": "sha256:e046e558b61b3de41bf34d014ad7dfb6d2bcc12b87631bd079c2655215594b2b"
+          }
+        },
+        {
+          "ref": "14",
+          "targets": {
+            "source_revision": "sha256:5b771eadc9fb739c30a302a4a501a9153a8f847fdf92edbcae945069c6ba7a94",
+            "translation_revision": "sha256:59239bccada17843d58c2f528d983b3bc5dc15d9107e5dfcaeb29a81345776a1",
+            "alignment_revision": "sha256:73924188faee2a6b99bc371ef4163268de249240ded91647287037afe034bedd"
+          }
+        },
+        {
+          "ref": "15",
+          "targets": {
+            "source_revision": "sha256:901f3640257ef08abf308f391d5e093e226cfb88fd0e37a78b9825cb92754736",
+            "translation_revision": "sha256:3c4634672177d5d035355433e4e12f28a888935a70d8860c6795f999115d3f91",
+            "alignment_revision": "sha256:156ee06d2d50bbc5265de49a6f23ddb4ac081640b4648a4583584e66849d19f0"
+          }
+        },
+        {
+          "ref": "16",
+          "targets": {
+            "source_revision": "sha256:65fa1f0c34d211dcd815cae0f6552675f1775ce8e7ba8a52deb15b4ddec59c78",
+            "translation_revision": "sha256:64306d5377b987bcd43bdc49c737c3d21f788da966745498276858e1eb6998cb",
+            "alignment_revision": "sha256:29ba32a9cea5a35a1d7b765f22cbcb5ef59ea1218d191077f06b8e969ba4200f"
+          }
+        },
+        {
+          "ref": "17",
+          "targets": {
+            "source_revision": "sha256:6667b31125944492ecfc3453c5586fa0c581074b83df9d9c21285364803933fd",
+            "translation_revision": "sha256:79c63ab466fec5003dd9906f1df29d98277a1f9849eb6c566b7f78b09c3750d8",
+            "alignment_revision": "sha256:443ce7238460d4ca5e661eb2215501317171c1a4d0b7d03281d2eae0f5cc55c1"
+          }
+        },
+        {
+          "ref": "18",
+          "targets": {
+            "source_revision": "sha256:8952f188ebae0a94e38ccd51bb4a09ff461f0dec92a849674a3892fbb88ad046",
+            "translation_revision": "sha256:a87e06246264fb397b2dd0e54c5e0714a83bcc070eaa28d56199df02a9562d7c",
+            "alignment_revision": "sha256:d002dc45c035c28c4ba2d77f70ade2da31d1c1966f4beadd7ca0806234232fbd"
+          }
+        },
+        {
+          "ref": "19",
+          "targets": {
+            "source_revision": "sha256:c935867f185f9585f57cd940dd0d06f8d8a2cd2a54571405c9ff84a2b88c8ced",
+            "translation_revision": "sha256:722ce50133c580426164718f45ee89ec464b962a11205c5400dee9d38d928c75",
+            "alignment_revision": "sha256:67889de32f9e471395f2b61d841184f751468fe2273c529a303e46861c578fdc"
+          }
+        },
+        {
+          "ref": "20",
+          "targets": {
+            "source_revision": "sha256:13463cc70ca8b30c53779da0f563a23ae84dd6935e7323fc582da531831fcb1c",
+            "translation_revision": "sha256:fb85778ef981fc8da6eabc997504f881e836507b82c807c8498a20cd1214aa35",
+            "alignment_revision": "sha256:4d473d372ac07dbde249ef63edc4b148791063340aa51845c45a298afcfde4a1"
+          }
+        }
+      ]
+    }
+  ],
+  "publication_status": "public_review_edition"
+}

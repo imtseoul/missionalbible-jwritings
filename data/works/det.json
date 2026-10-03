@@ -1,0 +1,3081 @@
+{
+  "id": "det",
+  "title": "악한 자가 선한 자를 공격함",
+  "author": "필론",
+  "abbreviation": "Det.",
+  "corpus": "jewish",
+  "language": "grc",
+  "genre": "철학적 성경 해석",
+  "period": "고대",
+  "region": "알렉산드리아",
+  "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
+  "summary": "카인과 아벨의 들판을 논쟁의 자리로 읽고, 요셉의 파견과 지식을 갖춘 훈련을 설명하는 첫 부분입니다.",
+  "topics": [
+    "카인",
+    "아벨",
+    "논쟁",
+    "덕"
+  ],
+  "notes": [],
+  "sourceUrl": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg005/tlg0018.tlg005.1st1K-grc1.xml",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "sourceCredit": "전자 전사와 부호화: University of Leipzig, First1KGreek, Digital Divide Data. 원판 편집: Leopold Cohn.",
+  "verified": "2026-10-03",
+  "translationCredit": "Codex 작성, 원어 직접 번역 초안",
+  "reviewer": "학술 검토 전",
+  "translationLicense": "CC BY-SA 4.0",
+  "rightsNotice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0으로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요.",
+  "passages": [
+    {
+      "ref": "1",
+      "section": 1,
+      "original": "“Καὶ εἶπε Κάιν πρὸς Ἄβελ τὸν ἀδελφὸν αὐτοῦ Διέλθωμεν ἐπὶ τὸ πεδίον. καὶ ἐγένετο ἐν τῷ εἶναι αὐτοὺς ἐν τῷ πεδίῳ, ἀνέστη Κάιν ἐπὶ Ἄβελ τὸν ἀδελφὸν αὐτοῦ καὶ ἀπέκτεινεν αὐτόν”. ὃ βούλεται ὁ Κάιν τοιοῦτόν ἐστιν, ἐκ προκλήσεως τὸν Ἄβελ εἰς συζήτησιν ἀγαγὼν εἰκόσι καὶ πιθανοῖς σοφίσμασιν ἑλεῖν ἀνὰ κράτος· τὸ γὰρ πεδίον, εἰς ὃ προτρέπεται παραγενέσθαι, σημεῖον ἁμίλλης καὶ διαμάχης εἶναί φαμεν ἀπὸ τῶν προφανῶν τεκμαιρόμενοι περὶ τῶν ἀδήλων.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:23ddc0b1544d5362e0b96021c1ce495a31992f6f3d2b5a2ebe4a8362e11c448f",
+      "source_file_sha256": "0763e7af48f7b80ac6b2831696af1e17fe5ac88b1922fe10bf867855556e6e03",
+      "source_locator": {
+        "filename": "tlg0018.tlg005.1st1K-grc1.xml",
+        "reference": "1"
+      },
+      "korean": "“카인이 자기 형제 아벨에게 말했다. ‘들로 나가자.’ 그들이 들에 있을 때, 카인이 자기 형제 아벨을 덮쳐 죽였다.” 카인이 바라는 것은 이렇다. 아벨에게 도전하여 토론으로 끌어들인 뒤, 그럴듯하고 설득력 있는 궤변으로 완전히 이기려는 것이다. 그가 가자고 권하는 들은 경쟁과 싸움의 표지라고 우리는 말한다. 보이지 않는 일들을 눈앞에 드러난 일들로 판단하기 때문이다.",
+      "translation_revision": "sha256:bc4a39c4b0ad9745a373855b569d4c6abf764e508116d9ddce03b26256090bf3",
+      "groups": [
+        {
+          "id": "a-9b7fa34cfcb06e43a6fc",
+          "source_range": [
+            0,
+            67
+          ],
+          "ko_range": [
+            0,
+            30
+          ],
+          "source_text": "“Καὶ εἶπε Κάιν πρὸς Ἄβελ τὸν ἀδελφὸν αὐτοῦ Διέλθωμεν ἐπὶ τὸ πεδίον.",
+          "ko_text": "“카인이 자기 형제 아벨에게 말했다. ‘들로 나가자.’"
+        },
+        {
+          "id": "a-a943804f2186308df391",
+          "source_range": [
+            68,
+            173
+          ],
+          "ko_range": [
+            31,
+            66
+          ],
+          "source_text": "καὶ ἐγένετο ἐν τῷ εἶναι αὐτοὺς ἐν τῷ πεδίῳ, ἀνέστη Κάιν ἐπὶ Ἄβελ τὸν ἀδελφὸν αὐτοῦ καὶ ἀπέκτεινεν αὐτόν”.",
+          "ko_text": "그들이 들에 있을 때, 카인이 자기 형제 아벨을 덮쳐 죽였다.”"
+        },
+        {
+          "id": "a-2fe1cff17e11b1cd8bc4",
+          "source_range": [
+            174,
+            300
+          ],
+          "ko_range": [
+            67,
+            137
+          ],
+          "source_text": "ὃ βούλεται ὁ Κάιν τοιοῦτόν ἐστιν, ἐκ προκλήσεως τὸν Ἄβελ εἰς συζήτησιν ἀγαγὼν εἰκόσι καὶ πιθανοῖς σοφίσμασιν ἑλεῖν ἀνὰ κράτος·",
+          "ko_text": "카인이 바라는 것은 이렇다. 아벨에게 도전하여 토론으로 끌어들인 뒤, 그럴듯하고 설득력 있는 궤변으로 완전히 이기려는 것이다."
+        },
+        {
+          "id": "a-51843cf27f3ef0dff459",
+          "source_range": [
+            301,
+            436
+          ],
+          "ko_range": [
+            138,
+            207
+          ],
+          "source_text": "τὸ γὰρ πεδίον, εἰς ὃ προτρέπεται παραγενέσθαι, σημεῖον ἁμίλλης καὶ διαμάχης εἶναί φαμεν ἀπὸ τῶν προφανῶν τεκμαιρόμενοι περὶ τῶν ἀδήλων.",
+          "ko_text": "그가 가자고 권하는 들은 경쟁과 싸움의 표지라고 우리는 말한다. 보이지 않는 일들을 눈앞에 드러난 일들로 판단하기 때문이다."
+        }
+      ],
+      "notes": [
+        "필론이 인용한 창세기 4.8에는 들로 나가자는 카인의 말이 있다. 그는 들을 경쟁과 논쟁의 장소로 읽으며, 카인의 의도를 궤변으로 아벨을 이기는 것으로 설명한다."
+      ],
+      "work_passage_id": "det:1",
+      "html_path": "works/det/index.html#p-1",
+      "fixed_html_path": "releases/public-0.35/works/det/index.html#p-1",
+      "alignment_revision": "sha256:3a8189f35df53525a401c730e93f30eacf62016ec093048328dcf7920e0d8a9b",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:23ddc0b1544d5362e0b96021c1ce495a31992f6f3d2b5a2ebe4a8362e11c448f",
+          "translation_revision": "sha256:bc4a39c4b0ad9745a373855b569d4c6abf764e508116d9ddce03b26256090bf3",
+          "alignment_revision": "sha256:3a8189f35df53525a401c730e93f30eacf62016ec093048328dcf7920e0d8a9b"
+        },
+        "scoped_ai_review": {
+          "id": "det-addition-20261003",
+          "scope": "악한 자가 선한 자를 공격함 1-20절 전체, 21-178절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:23ddc0b1544d5362e0b96021c1ce495a31992f6f3d2b5a2ebe4a8362e11c448f",
+            "translation_revision": "sha256:bc4a39c4b0ad9745a373855b569d4c6abf764e508116d9ddce03b26256090bf3",
+            "alignment_revision": "sha256:3a8189f35df53525a401c730e93f30eacf62016ec093048328dcf7920e0d8a9b"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg005/tlg0018.tlg005.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0으로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "악한 자가 선한 자를 공격함",
+        "reference": "1",
+        "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
+        "release": "public-0.35",
+        "translation_revision": "sha256:bc4a39c4b0ad9745a373855b569d4c6abf764e508116d9ddce03b26256090bf3",
+        "fixed_path": "releases/public-0.35/works/det/index.html#p-1"
+      }
+    },
+    {
+      "ref": "2",
+      "section": 2,
+      "original": "ὁρῶμεν γὰρ τοὺς πλείστους τῶν ἀγώνων κατά τε πόλεμον καὶ κατ’ εἰρήνην ἐν πεδίοις συνισταμένους· ἐν εἰρήνῃ μὲν οὖν ὅσοι τοὺς γυμνικοὺς ἄθλους διαθλοῦσι, στάδια καὶ λεωφόρα πεδία μεταδιώκουσι, κατὰ δὲ τὸν πόλεμον τὰς πεζομαχίας καὶ ἱππομαχίας οὐκ ἐν γεωλόφοις ἔθος ἐστὶ ποιεῖσθαι· πλείους γὰρ ἐκ τῆς ἀνεπιτηδειότητος τῶν χώρων αἱ βλάβαι, ὧν ἀντεπιφέρουσιν",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:708781b5d6fa88ebf6070c92bb4e5621e6575147f48b853564826bc2fa260013",
+      "source_file_sha256": "0763e7af48f7b80ac6b2831696af1e17fe5ac88b1922fe10bf867855556e6e03",
+      "source_locator": {
+        "filename": "tlg0018.tlg005.1st1K-grc1.xml",
+        "reference": "2"
+      },
+      "korean": "전쟁과 평화의 시기에 벌어지는 대부분의 겨룸이 들에서 이루어지는 것을 우리는 본다. 평화로울 때 체육 경기에 참가하는 사람들은 경기장과 사람들이 오가는 넓은 들을 찾는다. 전쟁 때에도 보병전과 기병전을 언덕에서 벌이는 관습은 없다. 지형이 알맞지 않아서 생기는 피해가 적들이 서로에게",
+      "translation_revision": "sha256:82ffcdf04186b4d4193e76052f4a1bc72df23a01e363d3b9393578bdc8e394aa",
+      "groups": [
+        {
+          "id": "a-62f7f7f5a60eb95e6b51",
+          "source_range": [
+            0,
+            95
+          ],
+          "ko_range": [
+            0,
+            46
+          ],
+          "source_text": "ὁρῶμεν γὰρ τοὺς πλείστους τῶν ἀγώνων κατά τε πόλεμον καὶ κατ’ εἰρήνην ἐν πεδίοις συνισταμένους·",
+          "ko_text": "전쟁과 평화의 시기에 벌어지는 대부분의 겨룸이 들에서 이루어지는 것을 우리는 본다."
+        },
+        {
+          "id": "a-3c3e99ed5ecfd3e01c1f",
+          "source_range": [
+            96,
+            190
+          ],
+          "ko_range": [
+            47,
+            95
+          ],
+          "source_text": "ἐν εἰρήνῃ μὲν οὖν ὅσοι τοὺς γυμνικοὺς ἄθλους διαθλοῦσι, στάδια καὶ λεωφόρα πεδία μεταδιώκουσι,",
+          "ko_text": "평화로울 때 체육 경기에 참가하는 사람들은 경기장과 사람들이 오가는 넓은 들을 찾는다."
+        },
+        {
+          "id": "a-71bd941c75591e9fbfb9",
+          "source_range": [
+            191,
+            278
+          ],
+          "ko_range": [
+            96,
+            129
+          ],
+          "source_text": "κατὰ δὲ τὸν πόλεμον τὰς πεζομαχίας καὶ ἱππομαχίας οὐκ ἐν γεωλόφοις ἔθος ἐστὶ ποιεῖσθαι·",
+          "ko_text": "전쟁 때에도 보병전과 기병전을 언덕에서 벌이는 관습은 없다."
+        },
+        {
+          "id": "a-26465646e3f7ec9d85e1",
+          "source_range": [
+            279,
+            353
+          ],
+          "ko_range": [
+            130,
+            158
+          ],
+          "source_text": "πλείους γὰρ ἐκ τῆς ἀνεπιτηδειότητος τῶν χώρων αἱ βλάβαι, ὧν ἀντεπιφέρουσιν",
+          "ko_text": "지형이 알맞지 않아서 생기는 피해가 적들이 서로에게"
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "det:2",
+      "html_path": "works/det/index.html#p-2",
+      "fixed_html_path": "releases/public-0.35/works/det/index.html#p-2",
+      "alignment_revision": "sha256:fa41fa1455df8290dd7e65d57b2dc83dac77f8258e7bfc66347416570ceb09c4",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:708781b5d6fa88ebf6070c92bb4e5621e6575147f48b853564826bc2fa260013",
+          "translation_revision": "sha256:82ffcdf04186b4d4193e76052f4a1bc72df23a01e363d3b9393578bdc8e394aa",
+          "alignment_revision": "sha256:fa41fa1455df8290dd7e65d57b2dc83dac77f8258e7bfc66347416570ceb09c4"
+        },
+        "scoped_ai_review": {
+          "id": "det-addition-20261003",
+          "scope": "악한 자가 선한 자를 공격함 1-20절 전체, 21-178절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:708781b5d6fa88ebf6070c92bb4e5621e6575147f48b853564826bc2fa260013",
+            "translation_revision": "sha256:82ffcdf04186b4d4193e76052f4a1bc72df23a01e363d3b9393578bdc8e394aa",
+            "alignment_revision": "sha256:fa41fa1455df8290dd7e65d57b2dc83dac77f8258e7bfc66347416570ceb09c4"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg005/tlg0018.tlg005.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0으로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "악한 자가 선한 자를 공격함",
+        "reference": "2",
+        "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
+        "release": "public-0.35",
+        "translation_revision": "sha256:82ffcdf04186b4d4193e76052f4a1bc72df23a01e363d3b9393578bdc8e394aa",
+        "fixed_path": "releases/public-0.35/works/det/index.html#p-2"
+      }
+    },
+    {
+      "ref": "3",
+      "section": 3,
+      "original": "ἀλλήλοις οἱ ἐχθροί, γένοιντ’ ἄν. σημεῖον δὲ μέγιστον, ὁ ἀσκητὴς ἐπιστήμης τὴν ἐναντίαν διάθεσιν πολεμῶν ἀμαθίαν, ὅταν τὰς ἐν ψυχῇ δυνάμεις ἀλόγους τρόπον τινὰ ποιμαίνῃ νουθετῶν καὶ σωφρονίζων, ἐν πεδίῳ θεωρεῖται· “ἀποστείλας γὰρ Ἰακὼβ ἐκάλεσε Λείαν καὶ Ῥαχὴλ εἰς τὸ πεδίον, οὗ τὰ ποίμνια”, παριστὰς ἐναργῶς ὅτι φιλονεικίας σημεῖον τὸ πεδίον ἐστί. καλεῖ δὲ αὐτὰς ⟨διὰ τί⟩;",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:4c1e03087c13aec63dd94a37f66f57daaafda040254ba87649b65831bb01d7c6",
+      "source_file_sha256": "0763e7af48f7b80ac6b2831696af1e17fe5ac88b1922fe10bf867855556e6e03",
+      "source_locator": {
+        "filename": "tlg0018.tlg005.1st1K-grc1.xml",
+        "reference": "3"
+      },
+      "korean": "가하는 피해보다 더 클 수 있기 때문이다. 가장 큰 증거는 지식을 훈련하는 사람이다. 그는 반대 상태인 무지와 싸우며, 영혼 안의 비이성적 능력들을 타이르고 절제하게 하여 목자처럼 돌볼 때 들에서 발견된다. “야곱이 사람을 보내 레아와 라헬을 양 떼가 있는 들로 불렀다.” 이는 들이 다툼의 표지임을 분명하게 나타낸다. 그가 그들을 부르는 것은 ⟨무슨 까닭인가⟩?",
+      "translation_revision": "sha256:8a81b6e1d5a448cad2da5e3522ac03b7fe565d1739d29fbfcf483e66b4a593b1",
+      "groups": [
+        {
+          "id": "a-d3e4e7c51686bd7461a2",
+          "source_range": [
+            0,
+            32
+          ],
+          "ko_range": [
+            0,
+            23
+          ],
+          "source_text": "ἀλλήλοις οἱ ἐχθροί, γένοιντ’ ἄν.",
+          "ko_text": "가하는 피해보다 더 클 수 있기 때문이다."
+        },
+        {
+          "id": "a-37f41de4e6cfb3b283e6",
+          "source_range": [
+            33,
+            212
+          ],
+          "ko_range": [
+            24,
+            115
+          ],
+          "source_text": "σημεῖον δὲ μέγιστον, ὁ ἀσκητὴς ἐπιστήμης τὴν ἐναντίαν διάθεσιν πολεμῶν ἀμαθίαν, ὅταν τὰς ἐν ψυχῇ δυνάμεις ἀλόγους τρόπον τινὰ ποιμαίνῃ νουθετῶν καὶ σωφρονίζων, ἐν πεδίῳ θεωρεῖται·",
+          "ko_text": "가장 큰 증거는 지식을 훈련하는 사람이다. 그는 반대 상태인 무지와 싸우며, 영혼 안의 비이성적 능력들을 타이르고 절제하게 하여 목자처럼 돌볼 때 들에서 발견된다."
+        },
+        {
+          "id": "a-67b36a530ba5a11b1e54",
+          "source_range": [
+            213,
+            289
+          ],
+          "ko_range": [
+            116,
+            152
+          ],
+          "source_text": "“ἀποστείλας γὰρ Ἰακὼβ ἐκάλεσε Λείαν καὶ Ῥαχὴλ εἰς τὸ πεδίον, οὗ τὰ ποίμνια”,",
+          "ko_text": "“야곱이 사람을 보내 레아와 라헬을 양 떼가 있는 들로 불렀다.”"
+        },
+        {
+          "id": "a-00688dacb7d1d249ac1a",
+          "source_range": [
+            290,
+            346
+          ],
+          "ko_range": [
+            153,
+            178
+          ],
+          "source_text": "παριστὰς ἐναργῶς ὅτι φιλονεικίας σημεῖον τὸ πεδίον ἐστί.",
+          "ko_text": "이는 들이 다툼의 표지임을 분명하게 나타낸다."
+        },
+        {
+          "id": "a-b179298cf6daaaaff23c",
+          "source_range": [
+            347,
+            371
+          ],
+          "ko_range": [
+            179,
+            203
+          ],
+          "source_text": "καλεῖ δὲ αὐτὰς ⟨διὰ τί⟩;",
+          "ko_text": "그가 그들을 부르는 것은 ⟨무슨 까닭인가⟩?"
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "det:3",
+      "html_path": "works/det/index.html#p-3",
+      "fixed_html_path": "releases/public-0.35/works/det/index.html#p-3",
+      "alignment_revision": "sha256:a2e7dcfa896b032ad1f86739a75f9a32ad4eef94e82339374738af24c8c2e7ea",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:4c1e03087c13aec63dd94a37f66f57daaafda040254ba87649b65831bb01d7c6",
+          "translation_revision": "sha256:8a81b6e1d5a448cad2da5e3522ac03b7fe565d1739d29fbfcf483e66b4a593b1",
+          "alignment_revision": "sha256:a2e7dcfa896b032ad1f86739a75f9a32ad4eef94e82339374738af24c8c2e7ea"
+        },
+        "scoped_ai_review": {
+          "id": "det-addition-20261003",
+          "scope": "악한 자가 선한 자를 공격함 1-20절 전체, 21-178절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:4c1e03087c13aec63dd94a37f66f57daaafda040254ba87649b65831bb01d7c6",
+            "translation_revision": "sha256:8a81b6e1d5a448cad2da5e3522ac03b7fe565d1739d29fbfcf483e66b4a593b1",
+            "alignment_revision": "sha256:a2e7dcfa896b032ad1f86739a75f9a32ad4eef94e82339374738af24c8c2e7ea"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg005/tlg0018.tlg005.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0으로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "악한 자가 선한 자를 공격함",
+        "reference": "3",
+        "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
+        "release": "public-0.35",
+        "translation_revision": "sha256:8a81b6e1d5a448cad2da5e3522ac03b7fe565d1739d29fbfcf483e66b4a593b1",
+        "fixed_path": "releases/public-0.35/works/det/index.html#p-3"
+      }
+    },
+    {
+      "ref": "4",
+      "section": 4,
+      "original": "“ὁρῶ τὸ πρόσωπον τοῦ πατρὸς ὑμῶν” ἔφη “ὅτι οὐκ ἔστι πρὸς ἐμὲ ὡς ἐχθὲς καὶ τρίτην ἡμέραν· ὁ δὲ θεὸς τοῦ πατρός μου ἦν μετ’ ἐμοῦ”. διὰ τοῦτο γάρ, εἴποιμ’ ἄν, ὁ Λάβαν οὐκ ἔστι πρὸς σοῦ, ὅτι μετὰ σοῦ ὁ θεός· ἐν ᾗ μὲν γὰρ ψυχῇ τὸ ἐκτὸς αἰσθητὸν ὡς μέγιστον ἀγαθὸν τετίμηται, ἐν ταύτῃ λόγος ἀστεῖος οὐχ εὑρίσκεται· ᾗ δ’ ἐμπεριπατεῖ ὁ θεός, τὸ ἐκτὸς αἰσθητὸν ἀγαθὸν οὐχ ὑπείληπται, καθ’ ὃ νενόηται καὶ προσηγόρευται Λάβαν.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:e80f78a16182bf6741c2eab831aa34640c84266e4be507f7e1ffd59da8e2173d",
+      "source_file_sha256": "0763e7af48f7b80ac6b2831696af1e17fe5ac88b1922fe10bf867855556e6e03",
+      "source_locator": {
+        "filename": "tlg0018.tlg005.1st1K-grc1.xml",
+        "reference": "4"
+      },
+      "encoded_page_breaks": [
+        "v.1.p.259"
+      ],
+      "korean": "그는 말했다. “너희 아버지의 얼굴을 보니 나를 대하는 태도가 어제와 그제 같지 않다. 그러나 내 아버지의 하나님은 나와 함께 계셨다.” 내가 말하자면, 바로 하나님이 너와 함께 계시기 때문에 라반이 네 편이 아닌 것이다. 외부의 감각 대상을 최고의 선으로 존중하는 영혼에서는 훌륭한 이성을 찾을 수 없다. 하나님이 거니시는 영혼에서는 외부의 감각 대상을 선으로 여기지 않는다. 라반은 바로 그 외부 대상을 뜻하고 나타내는 이름이다.",
+      "translation_revision": "sha256:7f96a72d387881eb64ed9073980fe9278cada88a1f6f6ef711120e35afbef17a",
+      "groups": [
+        {
+          "id": "a-9268f857b80a615b3e5f",
+          "source_range": [
+            0,
+            88
+          ],
+          "ko_range": [
+            0,
+            48
+          ],
+          "source_text": "“ὁρῶ τὸ πρόσωπον τοῦ πατρὸς ὑμῶν” ἔφη “ὅτι οὐκ ἔστι πρὸς ἐμὲ ὡς ἐχθὲς καὶ τρίτην ἡμέραν·",
+          "ko_text": "그는 말했다. “너희 아버지의 얼굴을 보니 나를 대하는 태도가 어제와 그제 같지 않다."
+        },
+        {
+          "id": "a-63df072d8b90628dd3bc",
+          "source_range": [
+            89,
+            128
+          ],
+          "ko_range": [
+            49,
+            76
+          ],
+          "source_text": "ὁ δὲ θεὸς τοῦ πατρός μου ἦν μετ’ ἐμοῦ”.",
+          "ko_text": "그러나 내 아버지의 하나님은 나와 함께 계셨다.”"
+        },
+        {
+          "id": "a-629a6c279529d4d37442",
+          "source_range": [
+            129,
+            203
+          ],
+          "ko_range": [
+            77,
+            124
+          ],
+          "source_text": "διὰ τοῦτο γάρ, εἴποιμ’ ἄν, ὁ Λάβαν οὐκ ἔστι πρὸς σοῦ, ὅτι μετὰ σοῦ ὁ θεός·",
+          "ko_text": "내가 말하자면, 바로 하나님이 너와 함께 계시기 때문에 라반이 네 편이 아닌 것이다."
+        },
+        {
+          "id": "a-2441da4bae3369a57478",
+          "source_range": [
+            204,
+            308
+          ],
+          "ko_range": [
+            125,
+            171
+          ],
+          "source_text": "ἐν ᾗ μὲν γὰρ ψυχῇ τὸ ἐκτὸς αἰσθητὸν ὡς μέγιστον ἀγαθὸν τετίμηται, ἐν ταύτῃ λόγος ἀστεῖος οὐχ εὑρίσκεται·",
+          "ko_text": "외부의 감각 대상을 최고의 선으로 존중하는 영혼에서는 훌륭한 이성을 찾을 수 없다."
+        },
+        {
+          "id": "a-dd0a51c8f9de0c80d7bb",
+          "source_range": [
+            309,
+            415
+          ],
+          "ko_range": [
+            172,
+            242
+          ],
+          "source_text": "ᾗ δ’ ἐμπεριπατεῖ ὁ θεός, τὸ ἐκτὸς αἰσθητὸν ἀγαθὸν οὐχ ὑπείληπται, καθ’ ὃ νενόηται καὶ προσηγόρευται Λάβαν.",
+          "ko_text": "하나님이 거니시는 영혼에서는 외부의 감각 대상을 선으로 여기지 않는다. 라반은 바로 그 외부 대상을 뜻하고 나타내는 이름이다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "det:4",
+      "html_path": "works/det/index.html#p-4",
+      "fixed_html_path": "releases/public-0.35/works/det/index.html#p-4",
+      "alignment_revision": "sha256:33eb753df8da2120e65e0f3b3a9c90d0eae421adb83efed39e73ef40d90d7749",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:e80f78a16182bf6741c2eab831aa34640c84266e4be507f7e1ffd59da8e2173d",
+          "translation_revision": "sha256:7f96a72d387881eb64ed9073980fe9278cada88a1f6f6ef711120e35afbef17a",
+          "alignment_revision": "sha256:33eb753df8da2120e65e0f3b3a9c90d0eae421adb83efed39e73ef40d90d7749"
+        },
+        "scoped_ai_review": {
+          "id": "det-addition-20261003",
+          "scope": "악한 자가 선한 자를 공격함 1-20절 전체, 21-178절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:e80f78a16182bf6741c2eab831aa34640c84266e4be507f7e1ffd59da8e2173d",
+            "translation_revision": "sha256:7f96a72d387881eb64ed9073980fe9278cada88a1f6f6ef711120e35afbef17a",
+            "alignment_revision": "sha256:33eb753df8da2120e65e0f3b3a9c90d0eae421adb83efed39e73ef40d90d7749"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg005/tlg0018.tlg005.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0으로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "악한 자가 선한 자를 공격함",
+        "reference": "4",
+        "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
+        "release": "public-0.35",
+        "translation_revision": "sha256:7f96a72d387881eb64ed9073980fe9278cada88a1f6f6ef711120e35afbef17a",
+        "fixed_path": "releases/public-0.35/works/det/index.html#p-4"
+      }
+    },
+    {
+      "ref": "5",
+      "section": 5,
+      "original": "καὶ ὅσοι δὲ ἐν μέρει λόγου τοῦ προκόπτοντος κατὰ τὸν πατέρα κοσμοῦνται, τὰς ψυχῆς ἀλόγους φορὰς μεταδιδάσκουσιν ἐκλεξάμενοι ἐπιτήδειον τόπον τὸ πεδίον. λέγεται γὰρ τῷ Ἰωσήφ· “οὐχ οἱ ἀδελφοί σου ποιμαίνουσιν ἐν Συχέμ; δεῦρο ἀποστείλω σε πρὸς αὐτούς. ὁ δὲ εἶπεν Ἰδοὺ ἐγώ. εἶπε δὲ αὐτῷ Πορευθεὶς ἴδε, εἰ ὑγιαίνουσιν οἱ ἀδελφοί σου καὶ τὰ πρόβατα, καὶ ἀνάγγειλόν μοι. καὶ ἀπέστειλεν αὐτὸν ἐκ τῆς κοιλάδος τῆς Χεβρών, καὶ ἦλθεν εἰς Συχέμ. καὶ εὗρεν αὐτὸν ἄνθρωπος πλανώμενον ἐν τῷ πεδίῳ· ἠρώτησε δὲ αὐτὸν ὁ ἄνθρωπος Τί ζητεῖς; ὁ δὲ εἶπε Τοὺς ἀδελφούς μου ζητῶ, ἀνάγγειλόν μοι ποῦ βόσκουσιν. εἶπε δὲ αὐτῷ ὁ ἄνθρωπος Ἀπήρκασιν ἐντεῦθεν· ἤκουσα γὰρ αὐτῶν λεγόντων Πορευθῶμεν εἰς Δωθαείμ”.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:f8db9764e49aa5cdd21f210f33595d2f414bbf7d32fb4cd65fe7cb4196b239c1",
+      "source_file_sha256": "0763e7af48f7b80ac6b2831696af1e17fe5ac88b1922fe10bf867855556e6e03",
+      "source_locator": {
+        "filename": "tlg0018.tlg005.1st1K-grc1.xml",
+        "reference": "5"
+      },
+      "base_original": "καὶ ὅσοι δὲ ἐν μέρει λόγου τοῦ προκόπτοντος κατὰ τὸν πατέρα κοσμοῦνται, τὰς ψυχῆς ἀλόγους φορὰς μεταδιδάσκουσιν ἐκλεξάμενοι ἐπιτήδειον τόπον τὸ πεδίον. λέγεται γὰρ τῷ Ἰωσήφ· “οὐχ οἱ ἀδελφοί σου ποιμαίνουσιν ἐν Συχέμ; δεῦρο ἀποστείλω σε πρὸς αὐτούς. ὁ δὲ εἶπεν Ἰδοὺ ἐγώ. εἶπε δὲ αὐτῷ Πορευθεὶς ἴδε, εἰ ὑγιαίνουσιν οἱ ἀδελφοί σου καὶ τὰ πρόβατα, καὶ ἀνάγγειλόν μοι. καὶ ἀπέστειλεν αὐτὸν ἐκ τῆς κοιλάδος τῆς Χεβρών, καὶ ἦλθεν εἰς Συχέμ. καὶ εὗρεν αὐτὸν ἄνθρωπος πλανωμένων ἐν τῷ πεδίῳ· ἠρώτησε δὲ αὐτὸν ὁ ἄνθρωπος Τί ζητεῖς; ὁ δὲ εἶπε Τοὺς ἀδελφούς μου ζητῶ, ἀνάγγειλόν μοι ποῦ βόσκουσιν. εἶπε δὲ αὐτῷ ὁ ἄνθρωπος Ἀπήρκασιν ἐντεῦθεν· ἤκουσα γὰρ αὐτῶν λεγόντων Πορευθῶμεν εἰς Δωθαείμ”.",
+      "source_collation": {
+        "edition": "Cohn 1896, vol. 1",
+        "url": "https://archive.org/download/philonisalexandr0103philuoft/philonisalexandr0103philuoft.pdf#page=383",
+        "pdf_file": "research/planning/philo-genesis-ten-20261003/cohn-wendland-vol1-3.pdf",
+        "corrections": [
+          {
+            "ref": "5",
+            "before": "πλανωμένων",
+            "after": "πλανώμενον",
+            "printed_page": 259,
+            "pdf_page": 383,
+            "reason": "인쇄본문의 단수 대격 분사에 맞춤"
+          }
+        ]
+      },
+      "korean": "아버지에 해당하는 성장 중인 이성의 일부분으로 질서를 얻는 이들도, 알맞은 장소인 들을 택하여 영혼의 비이성적 움직임을 새롭게 가르친다. 요셉에게 이렇게 말한다. “네 형들이 세겜에서 양을 치고 있지 않으냐? 이리 오너라. 너를 그들에게 보내겠다.” 그가 “제가 여기 있습니다”라고 말했다. 아버지가 말했다. “가서 네 형들과 양 떼가 잘 있는지 살펴보고 내게 알려라.” 그가 요셉을 헤브론 골짜기에서 보내자 요셉은 세겜에 이르렀다. 한 사람이 그가 들에서 헤매는 것을 발견했다. 그 사람이 그에게 물었다. “무엇을 찾느냐?” 그가 말했다. “제 형들을 찾습니다. 어디에서 양을 치는지 알려 주십시오.” 그 사람이 말했다. “그들은 여기서 떠났다. ‘도다임으로 가자’라고 말하는 것을 들었다.”",
+      "translation_revision": "sha256:a1b7166434c2c768ecdbe6e30f198a89eb0db6220dc38300bd448ac75b2f918c",
+      "groups": [
+        {
+          "id": "a-dfaf34d73d89f628d28e",
+          "source_range": [
+            0,
+            151
+          ],
+          "ko_range": [
+            0,
+            76
+          ],
+          "source_text": "καὶ ὅσοι δὲ ἐν μέρει λόγου τοῦ προκόπτοντος κατὰ τὸν πατέρα κοσμοῦνται, τὰς ψυχῆς ἀλόγους φορὰς μεταδιδάσκουσιν ἐκλεξάμενοι ἐπιτήδειον τόπον τὸ πεδίον.",
+          "ko_text": "아버지에 해당하는 성장 중인 이성의 일부분으로 질서를 얻는 이들도, 알맞은 장소인 들을 택하여 영혼의 비이성적 움직임을 새롭게 가르친다."
+        },
+        {
+          "id": "a-9a0844012eba3306212f",
+          "source_range": [
+            152,
+            248
+          ],
+          "ko_range": [
+            77,
+            139
+          ],
+          "source_text": "λέγεται γὰρ τῷ Ἰωσήφ· “οὐχ οἱ ἀδελφοί σου ποιμαίνουσιν ἐν Συχέμ; δεῦρο ἀποστείλω σε πρὸς αὐτούς.",
+          "ko_text": "요셉에게 이렇게 말한다. “네 형들이 세겜에서 양을 치고 있지 않으냐? 이리 오너라. 너를 그들에게 보내겠다.”"
+        },
+        {
+          "id": "a-356570c81e4c2e9d1703",
+          "source_range": [
+            249,
+            269
+          ],
+          "ko_range": [
+            140,
+            162
+          ],
+          "source_text": "ὁ δὲ εἶπεν Ἰδοὺ ἐγώ.",
+          "ko_text": "그가 “제가 여기 있습니다”라고 말했다."
+        },
+        {
+          "id": "a-9b6bde2006c72b4be70f",
+          "source_range": [
+            270,
+            363
+          ],
+          "ko_range": [
+            163,
+            207
+          ],
+          "source_text": "εἶπε δὲ αὐτῷ Πορευθεὶς ἴδε, εἰ ὑγιαίνουσιν οἱ ἀδελφοί σου καὶ τὰ πρόβατα, καὶ ἀνάγγειλόν μοι.",
+          "ko_text": "아버지가 말했다. “가서 네 형들과 양 떼가 잘 있는지 살펴보고 내게 알려라.”"
+        },
+        {
+          "id": "a-70496d2e5064076c0d21",
+          "source_range": [
+            364,
+            433
+          ],
+          "ko_range": [
+            208,
+            242
+          ],
+          "source_text": "καὶ ἀπέστειλεν αὐτὸν ἐκ τῆς κοιλάδος τῆς Χεβρών, καὶ ἦλθεν εἰς Συχέμ.",
+          "ko_text": "그가 요셉을 헤브론 골짜기에서 보내자 요셉은 세겜에 이르렀다."
+        },
+        {
+          "id": "a-614e77e2493122fde847",
+          "source_range": [
+            434,
+            482
+          ],
+          "ko_range": [
+            243,
+            268
+          ],
+          "source_text": "καὶ εὗρεν αὐτὸν ἄνθρωπος πλανώμενον ἐν τῷ πεδίῳ·",
+          "ko_text": "한 사람이 그가 들에서 헤매는 것을 발견했다."
+        },
+        {
+          "id": "a-7ab9b0397fe858481c04",
+          "source_range": [
+            483,
+            521
+          ],
+          "ko_range": [
+            269,
+            294
+          ],
+          "source_text": "ἠρώτησε δὲ αὐτὸν ὁ ἄνθρωπος Τί ζητεῖς;",
+          "ko_text": "그 사람이 그에게 물었다. “무엇을 찾느냐?”"
+        },
+        {
+          "id": "a-ba6f85f04e29e7d1f3e5",
+          "source_range": [
+            522,
+            585
+          ],
+          "ko_range": [
+            295,
+            337
+          ],
+          "source_text": "ὁ δὲ εἶπε Τοὺς ἀδελφούς μου ζητῶ, ἀνάγγειλόν μοι ποῦ βόσκουσιν.",
+          "ko_text": "그가 말했다. “제 형들을 찾습니다. 어디에서 양을 치는지 알려 주십시오.”"
+        },
+        {
+          "id": "a-df21ee6add46d767b436",
+          "source_range": [
+            586,
+            680
+          ],
+          "ko_range": [
+            338,
+            388
+          ],
+          "source_text": "εἶπε δὲ αὐτῷ ὁ ἄνθρωπος Ἀπήρκασιν ἐντεῦθεν· ἤκουσα γὰρ αὐτῶν λεγόντων Πορευθῶμεν εἰς Δωθαείμ”.",
+          "ko_text": "그 사람이 말했다. “그들은 여기서 떠났다. ‘도다임으로 가자’라고 말하는 것을 들었다.”"
+        }
+      ],
+      "notes": [
+        "Cohn 1896판 259쪽은 헤매는 요셉을 πλανώμενον으로 적는다. 전자 전사의 πλανωμένων을 이 단수 대격 분사에 맞추었다."
+      ],
+      "work_passage_id": "det:5",
+      "html_path": "works/det/index.html#p-5",
+      "fixed_html_path": "releases/public-0.35/works/det/index.html#p-5",
+      "alignment_revision": "sha256:0b65f7dae68653af02df599deafc2136099e0ff76f5e57d780fafe9df23d58af",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_with_printed_collation",
+        "targets": {
+          "source_revision": "sha256:f8db9764e49aa5cdd21f210f33595d2f414bbf7d32fb4cd65fe7cb4196b239c1",
+          "translation_revision": "sha256:a1b7166434c2c768ecdbe6e30f198a89eb0db6220dc38300bd448ac75b2f918c",
+          "alignment_revision": "sha256:0b65f7dae68653af02df599deafc2136099e0ff76f5e57d780fafe9df23d58af"
+        },
+        "scoped_ai_review": {
+          "id": "det-addition-20261003",
+          "scope": "악한 자가 선한 자를 공격함 1-20절 전체, 21-178절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:f8db9764e49aa5cdd21f210f33595d2f414bbf7d32fb4cd65fe7cb4196b239c1",
+            "translation_revision": "sha256:a1b7166434c2c768ecdbe6e30f198a89eb0db6220dc38300bd448ac75b2f918c",
+            "alignment_revision": "sha256:0b65f7dae68653af02df599deafc2136099e0ff76f5e57d780fafe9df23d58af"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg005/tlg0018.tlg005.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0으로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "악한 자가 선한 자를 공격함",
+        "reference": "5",
+        "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
+        "release": "public-0.35",
+        "translation_revision": "sha256:a1b7166434c2c768ecdbe6e30f198a89eb0db6220dc38300bd448ac75b2f918c",
+        "fixed_path": "releases/public-0.35/works/det/index.html#p-5",
+        "collation_edition": "Cohn 1896, vol. 1"
+      }
+    },
+    {
+      "ref": "6",
+      "section": 6,
+      "original": "ὅτι μὲν οὖν ἐν πεδίῳ τῶν ἐν αὐτοῖς ἀλόγων δυνάμεων ποιοῦνται τὴν ἐπιστασίαν, δῆλόν ἐστιν ἐκ τῶν εἰρημένων. ὁ δὲ Ἰωσὴφ πέμπεται πρὸς αὐτούς, ἐπεὶ τὴν τοῦ πατρὸς ἐπιστήμην αὐστηροτέραν οὖσαν ἀδυνατεῖ φέρειν, ἵνα μάθῃ παρὰ τιθασωτέροις ὑφηγηταῖς τὰ πρακτέα καὶ συνοίσοντα· κέχρηται γὰρ δόγματι ἐκ διαφερόντων συνυφασμένῳ, πάνυ ποικίλῳ καὶ πολυπλόκῳ, παρὸ καὶ χιτῶνα κατεσκευάσθαι ποικίλον φησὶν ὁ νομοθέτης αὐτῷ, δηλῶν ὅτι λαβυρινθώδους καὶ δυσεκλύτου δόξης ἐστὶν εἰσηγητής·",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:06cb096c756f62f567b774f78eebc3bf8c1b3f7218238458e599af3ae00064d4",
+      "source_file_sha256": "0763e7af48f7b80ac6b2831696af1e17fe5ac88b1922fe10bf867855556e6e03",
+      "source_locator": {
+        "filename": "tlg0018.tlg005.1st1K-grc1.xml",
+        "reference": "6"
+      },
+      "korean": "이 말들에서 그들이 들에서 자기 안의 비이성적 능력들을 감독하고 있음이 분명하다. 요셉이 그들에게 보내지는 까닭은 더 엄격한 아버지의 지식을 감당할 수 없기 때문이다. 더 온순한 지도자들에게서 해야 할 일과 유익한 일을 배우게 하려는 것이다. 그는 서로 다른 것들로 엮인, 매우 다채롭고 복잡한 신념을 지니고 있다. 그래서 입법자는 그에게 알록달록한 옷을 지어 주었다고 말한다. 그가 미로처럼 얽히고 풀기 어려운 견해를 제시하는 사람임을 나타내는 것이다.",
+      "translation_revision": "sha256:5984485fb66904e471bc1256f7b8aec74ed59ecef794db15ba874ef4cb42de1a",
+      "groups": [
+        {
+          "id": "a-4db402dc1d9b85a4d6a5",
+          "source_range": [
+            0,
+            106
+          ],
+          "ko_range": [
+            0,
+            45
+          ],
+          "source_text": "ὅτι μὲν οὖν ἐν πεδίῳ τῶν ἐν αὐτοῖς ἀλόγων δυνάμεων ποιοῦνται τὴν ἐπιστασίαν, δῆλόν ἐστιν ἐκ τῶν εἰρημένων.",
+          "ko_text": "이 말들에서 그들이 들에서 자기 안의 비이성적 능력들을 감독하고 있음이 분명하다."
+        },
+        {
+          "id": "a-03c8fc7110e1b6f3fd7b",
+          "source_range": [
+            107,
+            205
+          ],
+          "ko_range": [
+            46,
+            93
+          ],
+          "source_text": "ὁ δὲ Ἰωσὴφ πέμπεται πρὸς αὐτούς, ἐπεὶ τὴν τοῦ πατρὸς ἐπιστήμην αὐστηροτέραν οὖσαν ἀδυνατεῖ φέρειν,",
+          "ko_text": "요셉이 그들에게 보내지는 까닭은 더 엄격한 아버지의 지식을 감당할 수 없기 때문이다."
+        },
+        {
+          "id": "a-08db372305abbebd6caa",
+          "source_range": [
+            206,
+            269
+          ],
+          "ko_range": [
+            94,
+            135
+          ],
+          "source_text": "ἵνα μάθῃ παρὰ τιθασωτέροις ὑφηγηταῖς τὰ πρακτέα καὶ συνοίσοντα·",
+          "ko_text": "더 온순한 지도자들에게서 해야 할 일과 유익한 일을 배우게 하려는 것이다."
+        },
+        {
+          "id": "a-7d60c6c70093747e65f5",
+          "source_range": [
+            270,
+            346
+          ],
+          "ko_range": [
+            136,
+            176
+          ],
+          "source_text": "κέχρηται γὰρ δόγματι ἐκ διαφερόντων συνυφασμένῳ, πάνυ ποικίλῳ καὶ πολυπλόκῳ,",
+          "ko_text": "그는 서로 다른 것들로 엮인, 매우 다채롭고 복잡한 신념을 지니고 있다."
+        },
+        {
+          "id": "a-cc43129ca42fc10b0c2b",
+          "source_range": [
+            347,
+            409
+          ],
+          "ko_range": [
+            177,
+            211
+          ],
+          "source_text": "παρὸ καὶ χιτῶνα κατεσκευάσθαι ποικίλον φησὶν ὁ νομοθέτης αὐτῷ,",
+          "ko_text": "그래서 입법자는 그에게 알록달록한 옷을 지어 주었다고 말한다."
+        },
+        {
+          "id": "a-afe4474b0339272b9299",
+          "source_range": [
+            410,
+            471
+          ],
+          "ko_range": [
+            212,
+            254
+          ],
+          "source_text": "δηλῶν ὅτι λαβυρινθώδους καὶ δυσεκλύτου δόξης ἐστὶν εἰσηγητής·",
+          "ko_text": "그가 미로처럼 얽히고 풀기 어려운 견해를 제시하는 사람임을 나타내는 것이다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "det:6",
+      "html_path": "works/det/index.html#p-6",
+      "fixed_html_path": "releases/public-0.35/works/det/index.html#p-6",
+      "alignment_revision": "sha256:c2acbceaf1c543224b97fbc3dfd07c664f54873e8801e8ea5c973684957acbbf",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:06cb096c756f62f567b774f78eebc3bf8c1b3f7218238458e599af3ae00064d4",
+          "translation_revision": "sha256:5984485fb66904e471bc1256f7b8aec74ed59ecef794db15ba874ef4cb42de1a",
+          "alignment_revision": "sha256:c2acbceaf1c543224b97fbc3dfd07c664f54873e8801e8ea5c973684957acbbf"
+        },
+        "scoped_ai_review": {
+          "id": "det-addition-20261003",
+          "scope": "악한 자가 선한 자를 공격함 1-20절 전체, 21-178절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:06cb096c756f62f567b774f78eebc3bf8c1b3f7218238458e599af3ae00064d4",
+            "translation_revision": "sha256:5984485fb66904e471bc1256f7b8aec74ed59ecef794db15ba874ef4cb42de1a",
+            "alignment_revision": "sha256:c2acbceaf1c543224b97fbc3dfd07c664f54873e8801e8ea5c973684957acbbf"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg005/tlg0018.tlg005.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0으로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "악한 자가 선한 자를 공격함",
+        "reference": "6",
+        "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
+        "release": "public-0.35",
+        "translation_revision": "sha256:5984485fb66904e471bc1256f7b8aec74ed59ecef794db15ba874ef4cb42de1a",
+        "fixed_path": "releases/public-0.35/works/det/index.html#p-6"
+      }
+    },
+    {
+      "ref": "7",
+      "section": 7,
+      "original": "πρὸς γὰρ πολιτείαν μᾶλλον ἢ πρὸς ἀλήθειαν φιλοσοφῶν τὰ τρία γένη τῶν ἀγαθῶν, τά τε ἐκτὸς καὶ περὶ σῶμα καὶ ψυχήν, ὅλαις φύσεσιν ἀλλήλων διηρτημένα εἰς τὸ αὐτὸ ἄγει καὶ συνείρει, χρεῖον ἕκαστον ἑκάστου καὶ πάντα πάντων ἀποφαίνειν ἀξιῶν καὶ τὸ ἐξ ἀθρόων συντεθὲν ἄρτιον καὶ πλῆρες ὄντως ἀγαθόν, τὰ δ’ ἐξ ὧν τοῦτο ἐπάγη μέρη μὲν ἢ στοιχεῖα ἀγαθῶν, ἀγαθὰ δ’ οὐκ εἶναι τέλεια·",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:40c1d18aa0bad85e61318b82472bfedac8544c9e5b5249111d595773df96cba1",
+      "source_file_sha256": "0763e7af48f7b80ac6b2831696af1e17fe5ac88b1922fe10bf867855556e6e03",
+      "source_locator": {
+        "filename": "tlg0018.tlg005.1st1K-grc1.xml",
+        "reference": "7"
+      },
+      "encoded_page_breaks": [
+        "v.1.p.260"
+      ],
+      "korean": "그는 진리보다 공적 생활을 위해 철학을 탐구한다. 그래서 본성이 완전히 다른 세 부류의 선, 곧 외적인 것들과 몸에 속한 것들과 영혼에 속한 것들을 한데 모아 연결한다. 각각이 다른 각각을 필요로 하며 모든 것이 모든 것을 필요로 한다고 주장하고, 그것들이 모두 모여 이루어진 것을 온전하고 충족된 참된 선으로 여긴다. 그 결합을 이룬 것들은 선의 부분이나 요소이지만 완전한 선은 아니라고 여긴다.",
+      "translation_revision": "sha256:62f391b5751e1e0156d5c1629e50f5e9d645e498a55acff131a5e551a614aa85",
+      "groups": [
+        {
+          "id": "a-2e5970d329fa0935ba4c",
+          "source_range": [
+            0,
+            51
+          ],
+          "ko_range": [
+            0,
+            27
+          ],
+          "source_text": "πρὸς γὰρ πολιτείαν μᾶλλον ἢ πρὸς ἀλήθειαν φιλοσοφῶν",
+          "ko_text": "그는 진리보다 공적 생활을 위해 철학을 탐구한다."
+        },
+        {
+          "id": "a-422b292f1d27a8b40ed7",
+          "source_range": [
+            52,
+            177
+          ],
+          "ko_range": [
+            28,
+            94
+          ],
+          "source_text": "τὰ τρία γένη τῶν ἀγαθῶν, τά τε ἐκτὸς καὶ περὶ σῶμα καὶ ψυχήν, ὅλαις φύσεσιν ἀλλήλων διηρτημένα εἰς τὸ αὐτὸ ἄγει καὶ συνείρει,",
+          "ko_text": "그래서 본성이 완전히 다른 세 부류의 선, 곧 외적인 것들과 몸에 속한 것들과 영혼에 속한 것들을 한데 모아 연결한다."
+        },
+        {
+          "id": "a-c91b3780a8c011afd308",
+          "source_range": [
+            178,
+            234
+          ],
+          "ko_range": [
+            95,
+            138
+          ],
+          "source_text": "χρεῖον ἕκαστον ἑκάστου καὶ πάντα πάντων ἀποφαίνειν ἀξιῶν",
+          "ko_text": "각각이 다른 각각을 필요로 하며 모든 것이 모든 것을 필요로 한다고 주장하고,"
+        },
+        {
+          "id": "a-1377a830d34dcec07647",
+          "source_range": [
+            235,
+            292
+          ],
+          "ko_range": [
+            139,
+            178
+          ],
+          "source_text": "καὶ τὸ ἐξ ἀθρόων συντεθὲν ἄρτιον καὶ πλῆρες ὄντως ἀγαθόν,",
+          "ko_text": "그것들이 모두 모여 이루어진 것을 온전하고 충족된 참된 선으로 여긴다."
+        },
+        {
+          "id": "a-227a252eed6a3275d1b9",
+          "source_range": [
+            293,
+            371
+          ],
+          "ko_range": [
+            179,
+            222
+          ],
+          "source_text": "τὰ δ’ ἐξ ὧν τοῦτο ἐπάγη μέρη μὲν ἢ στοιχεῖα ἀγαθῶν, ἀγαθὰ δ’ οὐκ εἶναι τέλεια·",
+          "ko_text": "그 결합을 이룬 것들은 선의 부분이나 요소이지만 완전한 선은 아니라고 여긴다."
+        }
+      ],
+      "notes": [
+        "외적 선, 몸의 선, 영혼의 선을 결합해야 완전한 선이 된다는 7-8절의 주장은 요셉에게 귀속된 견해다. 9절에서는 아름다움만을 선으로 여기는 형제들의 견해가 제시된다."
+      ],
+      "work_passage_id": "det:7",
+      "html_path": "works/det/index.html#p-7",
+      "fixed_html_path": "releases/public-0.35/works/det/index.html#p-7",
+      "alignment_revision": "sha256:3fa77639be3ae3cceea0857a93e1890785da92e0cfb63966176d4df068bae523",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:40c1d18aa0bad85e61318b82472bfedac8544c9e5b5249111d595773df96cba1",
+          "translation_revision": "sha256:62f391b5751e1e0156d5c1629e50f5e9d645e498a55acff131a5e551a614aa85",
+          "alignment_revision": "sha256:3fa77639be3ae3cceea0857a93e1890785da92e0cfb63966176d4df068bae523"
+        },
+        "scoped_ai_review": {
+          "id": "det-addition-20261003",
+          "scope": "악한 자가 선한 자를 공격함 1-20절 전체, 21-178절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:40c1d18aa0bad85e61318b82472bfedac8544c9e5b5249111d595773df96cba1",
+            "translation_revision": "sha256:62f391b5751e1e0156d5c1629e50f5e9d645e498a55acff131a5e551a614aa85",
+            "alignment_revision": "sha256:3fa77639be3ae3cceea0857a93e1890785da92e0cfb63966176d4df068bae523"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg005/tlg0018.tlg005.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0으로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "악한 자가 선한 자를 공격함",
+        "reference": "7",
+        "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
+        "release": "public-0.35",
+        "translation_revision": "sha256:62f391b5751e1e0156d5c1629e50f5e9d645e498a55acff131a5e551a614aa85",
+        "fixed_path": "releases/public-0.35/works/det/index.html#p-7"
+      }
+    },
+    {
+      "ref": "8",
+      "section": 8,
+      "original": "καθάπερ γὰρ μήτε πῦρ μήτε γῆν μήτε τι τῶν τεττάρων, ἐξ ὧν ἐδημιουργήθη τὸ πᾶν, κόσμον εἶναι, τὴν δὲ τῶν στοιχείων εἰς ταὐτὸ σύνοδόν τε καὶ κρᾶσιν, τὸν αὐτὸν τρόπον καὶ τὸ εὔδαιμον μήτε ἐν τοῖς ἐκτὸς ἰδίᾳ μήτε ἐν τοῖς περὶ σῶμα μήτε ἐν τοῖς περὶ ψυχὴν καθ’ αὑτὰ ἐξετάζεσθαι - τῶν γὰρ εἰρημένων ἕκαστον μερῶν τινα καὶ στοιχείων",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:594055ef07390bbd6f184a9813518d1cc100620c691aaee6ea3fcc4f5c72ad15",
+      "source_file_sha256": "0763e7af48f7b80ac6b2831696af1e17fe5ac88b1922fe10bf867855556e6e03",
+      "source_locator": {
+        "filename": "tlg0018.tlg005.1st1K-grc1.xml",
+        "reference": "8"
+      },
+      "korean": "우주를 이루는 네 원소 가운데 불이나 흙이나 어떤 하나도 세계 자체는 아니며, 원소들이 한데 모여 섞인 것이 세계인 것과 같다. 그와 같은 방식으로 행복도 외적인 것들만 따로, 몸에 속한 것들만 따로, 영혼에 속한 것들만 따로 살펴서는 안 된다고 여긴다. 말한 것들은 각각 부분과 요소의",
+      "translation_revision": "sha256:cc0148d44b03a2ad66ca83d7c63fa2407bc238d8bf574f739b6212d372efcc85",
+      "groups": [
+        {
+          "id": "a-88e4a195846443110841",
+          "source_range": [
+            0,
+            92
+          ],
+          "ko_range": [
+            0,
+            43
+          ],
+          "source_text": "καθάπερ γὰρ μήτε πῦρ μήτε γῆν μήτε τι τῶν τεττάρων, ἐξ ὧν ἐδημιουργήθη τὸ πᾶν, κόσμον εἶναι,",
+          "ko_text": "우주를 이루는 네 원소 가운데 불이나 흙이나 어떤 하나도 세계 자체는 아니며,"
+        },
+        {
+          "id": "a-29591e9b848d9f769438",
+          "source_range": [
+            93,
+            146
+          ],
+          "ko_range": [
+            44,
+            71
+          ],
+          "source_text": "τὴν δὲ τῶν στοιχείων εἰς ταὐτὸ σύνοδόν τε καὶ κρᾶσιν,",
+          "ko_text": "원소들이 한데 모여 섞인 것이 세계인 것과 같다."
+        },
+        {
+          "id": "a-e342f9b7e4f93f5971fa",
+          "source_range": [
+            147,
+            272
+          ],
+          "ko_range": [
+            72,
+            142
+          ],
+          "source_text": "τὸν αὐτὸν τρόπον καὶ τὸ εὔδαιμον μήτε ἐν τοῖς ἐκτὸς ἰδίᾳ μήτε ἐν τοῖς περὶ σῶμα μήτε ἐν τοῖς περὶ ψυχὴν καθ’ αὑτὰ ἐξετάζεσθαι",
+          "ko_text": "그와 같은 방식으로 행복도 외적인 것들만 따로, 몸에 속한 것들만 따로, 영혼에 속한 것들만 따로 살펴서는 안 된다고 여긴다."
+        },
+        {
+          "id": "a-afd76194efe069413395",
+          "source_range": [
+            273,
+            325
+          ],
+          "ko_range": [
+            143,
+            160
+          ],
+          "source_text": "- τῶν γὰρ εἰρημένων ἕκαστον μερῶν τινα καὶ στοιχείων",
+          "ko_text": "말한 것들은 각각 부분과 요소의"
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "det:8",
+      "html_path": "works/det/index.html#p-8",
+      "fixed_html_path": "releases/public-0.35/works/det/index.html#p-8",
+      "alignment_revision": "sha256:35807faa6ef37a5700305ae8bf70eb68ed9c5322d1a1feb65183ec8bc70cbd62",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:594055ef07390bbd6f184a9813518d1cc100620c691aaee6ea3fcc4f5c72ad15",
+          "translation_revision": "sha256:cc0148d44b03a2ad66ca83d7c63fa2407bc238d8bf574f739b6212d372efcc85",
+          "alignment_revision": "sha256:35807faa6ef37a5700305ae8bf70eb68ed9c5322d1a1feb65183ec8bc70cbd62"
+        },
+        "scoped_ai_review": {
+          "id": "det-addition-20261003",
+          "scope": "악한 자가 선한 자를 공격함 1-20절 전체, 21-178절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:594055ef07390bbd6f184a9813518d1cc100620c691aaee6ea3fcc4f5c72ad15",
+            "translation_revision": "sha256:cc0148d44b03a2ad66ca83d7c63fa2407bc238d8bf574f739b6212d372efcc85",
+            "alignment_revision": "sha256:35807faa6ef37a5700305ae8bf70eb68ed9c5322d1a1feb65183ec8bc70cbd62"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg005/tlg0018.tlg005.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0으로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "악한 자가 선한 자를 공격함",
+        "reference": "8",
+        "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
+        "release": "public-0.35",
+        "translation_revision": "sha256:cc0148d44b03a2ad66ca83d7c63fa2407bc238d8bf574f739b6212d372efcc85",
+        "fixed_path": "releases/public-0.35/works/det/index.html#p-8"
+      }
+    },
+    {
+      "ref": "9",
+      "section": 9,
+      "original": "λόγον ἔχειν -, ἀλλὰ κατὰ τὸ ἐκ πάντων ἄθροισμα. ταύτην οὖν τὴν δόξαν πέμπεται μεταδιδαχθησόμενος πρὸς ἄνδρας μόνον τὸ καλὸν ἀγαθὸν νομίζοντας, ὃ ψυχῆς ὡς ψυχῆς ἐστιν ἴδιον, τὰ δ’ ἐκτὸς καὶ περὶ σῶμα πλεονεκτήματα λεγόμενα μόνον, οὐ πρὸς ἀλήθειαν ὄντα, ἀγαθὰ πεπιστευκότας. “ἰδοὺ” γάρ φησιν “οἱ ἀδελφοί σου ποιμαίνουσι” καὶ ἄρχουσι παντὸς ἀλόγου μέρους τῶν ἐν αὐτοῖς “ἐν Συχέμ”· ὦμος δὲ ἑρμηνεύεται, τλητικοῦ σημεῖον πόνου· βαστάζουσι γὰρ ἄχθος μέγιστον οἱ φιλάρετοι, τὴν πρὸς σῶμα καὶ τὴν σώματος ἡδονὴν καὶ πάλιν αὖ τὴν πρὸς τὰ ἐκτὸς καὶ τὰς ἀπ’ αὐτῶν ἐγγινομένας τέρψεις ἀντίταξιν.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:8d18b056cb6c9885ca03de8b4bff9c765bd9187bbffd718f0d32136a663e35e6",
+      "source_file_sha256": "0763e7af48f7b80ac6b2831696af1e17fe5ac88b1922fe10bf867855556e6e03",
+      "source_locator": {
+        "filename": "tlg0018.tlg005.1st1K-grc1.xml",
+        "reference": "9"
+      },
+      "korean": "구실을 하기 때문이다. 행복은 이 모든 것이 모인 결합에 따른다는 것이다. 따라서 그는 이 견해를 고쳐 배우도록, 영혼 자체에 고유한 아름다움만을 선으로 여기는 사람들에게 보내진다. 그들은 외적인 이점과 몸의 이점은 선이라고 불릴 뿐 실제로 선인 것은 아니라고 믿는다. “보아라, 네 형들이 세겜에서 양을 친다”라고 말한다. 그들은 자기 안의 모든 비이성적 부분을 다스린다. 세겜은 어깨로 풀이되며, 견디어 내는 수고의 표지이다. 덕을 사랑하는 이들은 가장 큰 짐을 진다. 몸과 몸의 쾌락에 맞서고, 외적인 것들과 그것들에서 생기는 즐거움에 맞서는 일이다.",
+      "translation_revision": "sha256:8f9db5feb8ecb7551d8dc52869c30da1d30cff0ee79de4787a9f1d10a846d4d0",
+      "groups": [
+        {
+          "id": "a-e3f23e5a160e2135e9b6",
+          "source_range": [
+            0,
+            14
+          ],
+          "ko_range": [
+            0,
+            12
+          ],
+          "source_text": "λόγον ἔχειν -,",
+          "ko_text": "구실을 하기 때문이다."
+        },
+        {
+          "id": "a-ff24ec1df3dd5905e042",
+          "source_range": [
+            15,
+            47
+          ],
+          "ko_range": [
+            13,
+            41
+          ],
+          "source_text": "ἀλλὰ κατὰ τὸ ἐκ πάντων ἄθροισμα.",
+          "ko_text": "행복은 이 모든 것이 모인 결합에 따른다는 것이다."
+        },
+        {
+          "id": "a-048740cdb6c06bab947f",
+          "source_range": [
+            48,
+            172
+          ],
+          "ko_range": [
+            42,
+            101
+          ],
+          "source_text": "ταύτην οὖν τὴν δόξαν πέμπεται μεταδιδαχθησόμενος πρὸς ἄνδρας μόνον τὸ καλὸν ἀγαθὸν νομίζοντας, ὃ ψυχῆς ὡς ψυχῆς ἐστιν ἴδιον,",
+          "ko_text": "따라서 그는 이 견해를 고쳐 배우도록, 영혼 자체에 고유한 아름다움만을 선으로 여기는 사람들에게 보내진다."
+        },
+        {
+          "id": "a-3b632b2d512bafad0a26",
+          "source_range": [
+            173,
+            272
+          ],
+          "ko_range": [
+            102,
+            150
+          ],
+          "source_text": "τὰ δ’ ἐκτὸς καὶ περὶ σῶμα πλεονεκτήματα λεγόμενα μόνον, οὐ πρὸς ἀλήθειαν ὄντα, ἀγαθὰ πεπιστευκότας.",
+          "ko_text": "그들은 외적인 이점과 몸의 이점은 선이라고 불릴 뿐 실제로 선인 것은 아니라고 믿는다."
+        },
+        {
+          "id": "a-3f7cca9c812a40f7b671",
+          "source_range": [
+            273,
+            377
+          ],
+          "ko_range": [
+            151,
+            209
+          ],
+          "source_text": "“ἰδοὺ” γάρ φησιν “οἱ ἀδελφοί σου ποιμαίνουσι” καὶ ἄρχουσι παντὸς ἀλόγου μέρους τῶν ἐν αὐτοῖς “ἐν Συχέμ”·",
+          "ko_text": "“보아라, 네 형들이 세겜에서 양을 친다”라고 말한다. 그들은 자기 안의 모든 비이성적 부분을 다스린다."
+        },
+        {
+          "id": "a-22a02651d63099e0105c",
+          "source_range": [
+            378,
+            422
+          ],
+          "ko_range": [
+            210,
+            240
+          ],
+          "source_text": "ὦμος δὲ ἑρμηνεύεται, τλητικοῦ σημεῖον πόνου·",
+          "ko_text": "세겜은 어깨로 풀이되며, 견디어 내는 수고의 표지이다."
+        },
+        {
+          "id": "a-5e0117ad0d8634cd7a75",
+          "source_range": [
+            423,
+            583
+          ],
+          "ko_range": [
+            241,
+            311
+          ],
+          "source_text": "βαστάζουσι γὰρ ἄχθος μέγιστον οἱ φιλάρετοι, τὴν πρὸς σῶμα καὶ τὴν σώματος ἡδονὴν καὶ πάλιν αὖ τὴν πρὸς τὰ ἐκτὸς καὶ τὰς ἀπ’ αὐτῶν ἐγγινομένας τέρψεις ἀντίταξιν.",
+          "ko_text": "덕을 사랑하는 이들은 가장 큰 짐을 진다. 몸과 몸의 쾌락에 맞서고, 외적인 것들과 그것들에서 생기는 즐거움에 맞서는 일이다."
+        }
+      ],
+      "notes": [
+        "세겜을 어깨로 풀이하고, 덕을 사랑하는 사람이 육체와 외적 즐거움에 맞서는 수고를 짐에 비유한다. 그리스어 지명의 어원 풀이는 필론의 논증 안에서 기능한다."
+      ],
+      "work_passage_id": "det:9",
+      "html_path": "works/det/index.html#p-9",
+      "fixed_html_path": "releases/public-0.35/works/det/index.html#p-9",
+      "alignment_revision": "sha256:feef9dbe88e62ac6347546f85ff9a77736face46ee290035e765240fc3017b61",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:8d18b056cb6c9885ca03de8b4bff9c765bd9187bbffd718f0d32136a663e35e6",
+          "translation_revision": "sha256:8f9db5feb8ecb7551d8dc52869c30da1d30cff0ee79de4787a9f1d10a846d4d0",
+          "alignment_revision": "sha256:feef9dbe88e62ac6347546f85ff9a77736face46ee290035e765240fc3017b61"
+        },
+        "scoped_ai_review": {
+          "id": "det-addition-20261003",
+          "scope": "악한 자가 선한 자를 공격함 1-20절 전체, 21-178절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:8d18b056cb6c9885ca03de8b4bff9c765bd9187bbffd718f0d32136a663e35e6",
+            "translation_revision": "sha256:8f9db5feb8ecb7551d8dc52869c30da1d30cff0ee79de4787a9f1d10a846d4d0",
+            "alignment_revision": "sha256:feef9dbe88e62ac6347546f85ff9a77736face46ee290035e765240fc3017b61"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg005/tlg0018.tlg005.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0으로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "악한 자가 선한 자를 공격함",
+        "reference": "9",
+        "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
+        "release": "public-0.35",
+        "translation_revision": "sha256:8f9db5feb8ecb7551d8dc52869c30da1d30cff0ee79de4787a9f1d10a846d4d0",
+        "fixed_path": "releases/public-0.35/works/det/index.html#p-9"
+      }
+    },
+    {
+      "ref": "10",
+      "section": 10,
+      "original": "“δεῦρο οὖν ἀποστείλω σε πρὸς αὐτούς”, τουτέστι μετακλήθητι καὶ πρόσελθε τῇ διανοίᾳ λαβὼν ὁρμὴν ἑκούσιον εἰς τὸ τὰ ἀμείνω μαθεῖν. ἀλλ’ ἄχρι γε τοῦ παρόντος ἐπιμορφάζεις ὡς παιδείαν δεξάμενος τὴν ἀληθῆ· μήπω γὰρ παρὰ σαυτῷ τοῦτο ὡμολογηκὼς ἕτοιμος εἶναι λέγεις ἀναδιδάσκεσθαι, ὅταν φῇς “ἰδοὺ ἐγώ,” ἐξ οὗ μοι δοκεῖς εἰκαιότητα καὶ εὐχέρειαν ἀπελέγχειν σεαυτοῦ μᾶλλον ἢ πρὸς τὸ μαθεῖν ἑτοιμότητα μηνύειν. τεκμήριον δέ, εὑρήσει σε μικρὸν ὕστερον ὁ ἀληθινὸς ἄνθρωπος πλανώμενον ἐν τῇ ὁδῷ, οὐκ ἂν πλανηθέντα, εἰ ἀπὸ γνώμης ὑγιοῦς ἐπὶ τὴν ἄσκησιν ἦλθες.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:bfbda41a07c512e02411caf5c0c2b6302c86ef30956a3cbffa77e0d131800874",
+      "source_file_sha256": "0763e7af48f7b80ac6b2831696af1e17fe5ac88b1922fe10bf867855556e6e03",
+      "source_locator": {
+        "filename": "tlg0018.tlg005.1st1K-grc1.xml",
+        "reference": "10"
+      },
+      "korean": "“그러니 이리 오너라. 너를 그들에게 보내겠다.” 이는 더 나은 것을 배우려는 자발적인 충동을 품고, 생각을 돌려 이쪽으로 오라는 뜻이다. 그러나 지금까지 너는 참된 교육을 받은 것처럼 꾸미고 있다. 너 자신도 아직 받아들이지 않았으면서, “제가 여기 있습니다”라고 말하여 다시 배울 준비가 되었다고 하기 때문이다. 이 말에서 나는 네가 배울 준비를 드러내기보다 자신의 경솔함과 성급함을 드러낸다고 생각한다. 증거가 있다. 조금 뒤에 참된 사람이 길에서 헤매는 너를 발견할 것이다. 네가 건전한 의도로 훈련하러 왔다면 헤매지 않았을 것이다.",
+      "translation_revision": "sha256:0dd23ae7edefbc08cdaf99d96f754112beee7d483517696c7cf29ad44ad5d4c6",
+      "groups": [
+        {
+          "id": "a-b0e02ac71422bdc8f8aa",
+          "source_range": [
+            0,
+            37
+          ],
+          "ko_range": [
+            0,
+            27
+          ],
+          "source_text": "“δεῦρο οὖν ἀποστείλω σε πρὸς αὐτούς”,",
+          "ko_text": "“그러니 이리 오너라. 너를 그들에게 보내겠다.”"
+        },
+        {
+          "id": "a-40f311e5a6d414aa3f2f",
+          "source_range": [
+            38,
+            128
+          ],
+          "ko_range": [
+            28,
+            77
+          ],
+          "source_text": "τουτέστι μετακλήθητι καὶ πρόσελθε τῇ διανοίᾳ λαβὼν ὁρμὴν ἑκούσιον εἰς τὸ τὰ ἀμείνω μαθεῖν.",
+          "ko_text": "이는 더 나은 것을 배우려는 자발적인 충동을 품고, 생각을 돌려 이쪽으로 오라는 뜻이다."
+        },
+        {
+          "id": "a-6ec6f7b00337bbea254a",
+          "source_range": [
+            129,
+            200
+          ],
+          "ko_range": [
+            78,
+            111
+          ],
+          "source_text": "ἀλλ’ ἄχρι γε τοῦ παρόντος ἐπιμορφάζεις ὡς παιδείαν δεξάμενος τὴν ἀληθῆ·",
+          "ko_text": "그러나 지금까지 너는 참된 교육을 받은 것처럼 꾸미고 있다."
+        },
+        {
+          "id": "a-66ae087534e41012fb3e",
+          "source_range": [
+            201,
+            295
+          ],
+          "ko_range": [
+            112,
+            176
+          ],
+          "source_text": "μήπω γὰρ παρὰ σαυτῷ τοῦτο ὡμολογηκὼς ἕτοιμος εἶναι λέγεις ἀναδιδάσκεσθαι, ὅταν φῇς “ἰδοὺ ἐγώ,”",
+          "ko_text": "너 자신도 아직 받아들이지 않았으면서, “제가 여기 있습니다”라고 말하여 다시 배울 준비가 되었다고 하기 때문이다."
+        },
+        {
+          "id": "a-a5ab344cddb6a203a8f9",
+          "source_range": [
+            296,
+            400
+          ],
+          "ko_range": [
+            177,
+            228
+          ],
+          "source_text": "ἐξ οὗ μοι δοκεῖς εἰκαιότητα καὶ εὐχέρειαν ἀπελέγχειν σεαυτοῦ μᾶλλον ἢ πρὸς τὸ μαθεῖν ἑτοιμότητα μηνύειν.",
+          "ko_text": "이 말에서 나는 네가 배울 준비를 드러내기보다 자신의 경솔함과 성급함을 드러낸다고 생각한다."
+        },
+        {
+          "id": "a-dd24bd4035a22abdc425",
+          "source_range": [
+            401,
+            482
+          ],
+          "ko_range": [
+            229,
+            269
+          ],
+          "source_text": "τεκμήριον δέ, εὑρήσει σε μικρὸν ὕστερον ὁ ἀληθινὸς ἄνθρωπος πλανώμενον ἐν τῇ ὁδῷ,",
+          "ko_text": "증거가 있다. 조금 뒤에 참된 사람이 길에서 헤매는 너를 발견할 것이다."
+        },
+        {
+          "id": "a-0f1637807d9d5ef95110",
+          "source_range": [
+            483,
+            545
+          ],
+          "ko_range": [
+            270,
+            302
+          ],
+          "source_text": "οὐκ ἂν πλανηθέντα, εἰ ἀπὸ γνώμης ὑγιοῦς ἐπὶ τὴν ἄσκησιν ἦλθες.",
+          "ko_text": "네가 건전한 의도로 훈련하러 왔다면 헤매지 않았을 것이다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "det:10",
+      "html_path": "works/det/index.html#p-10",
+      "fixed_html_path": "releases/public-0.35/works/det/index.html#p-10",
+      "alignment_revision": "sha256:d6a77bf1b0baff8fbb5f8ab6cd359bcffe771f5271a45b42473616c76b504378",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:bfbda41a07c512e02411caf5c0c2b6302c86ef30956a3cbffa77e0d131800874",
+          "translation_revision": "sha256:0dd23ae7edefbc08cdaf99d96f754112beee7d483517696c7cf29ad44ad5d4c6",
+          "alignment_revision": "sha256:d6a77bf1b0baff8fbb5f8ab6cd359bcffe771f5271a45b42473616c76b504378"
+        },
+        "scoped_ai_review": {
+          "id": "det-addition-20261003",
+          "scope": "악한 자가 선한 자를 공격함 1-20절 전체, 21-178절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:bfbda41a07c512e02411caf5c0c2b6302c86ef30956a3cbffa77e0d131800874",
+            "translation_revision": "sha256:0dd23ae7edefbc08cdaf99d96f754112beee7d483517696c7cf29ad44ad5d4c6",
+            "alignment_revision": "sha256:d6a77bf1b0baff8fbb5f8ab6cd359bcffe771f5271a45b42473616c76b504378"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg005/tlg0018.tlg005.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0으로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "악한 자가 선한 자를 공격함",
+        "reference": "10",
+        "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
+        "release": "public-0.35",
+        "translation_revision": "sha256:0dd23ae7edefbc08cdaf99d96f754112beee7d483517696c7cf29ad44ad5d4c6",
+        "fixed_path": "releases/public-0.35/works/det/index.html#p-10"
+      }
+    },
+    {
+      "ref": "11",
+      "section": 11,
+      "original": "καὶ μὴν ὅ γε προτρεπτικὸς λόγος τοῦ πατρὸς ἀνάγκην ἐπιτίθησιν οὐδεμίαν, ἵνα ἐθελουργὸς καὶ αὐτοκέλευστος ἐπιτηδεύῃς τὰ βελτίω, φησὶ γάρ· “πορευθεὶς ἴδε,” θέασαι καὶ κατανόησον καὶ πάνυ ἀκριβῶς περίσκεψαι τὸ πρᾶγμα· εἰδέναι γάρ σε δεῖ περὶ ὃ μέλλεις πονεῖσθαι πρότερον, εἶτ’ αὖθις ἐπὶ τὴν ἐπιμέλειαν αὐτοῦ χωρεῖν.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:edcffa7462aa2b03e49f7eba36a4a1cd594f5f6ea9b90483fbcdfc8ebdb073a5",
+      "source_file_sha256": "0763e7af48f7b80ac6b2831696af1e17fe5ac88b1922fe10bf867855556e6e03",
+      "source_locator": {
+        "filename": "tlg0018.tlg005.1st1K-grc1.xml",
+        "reference": "11"
+      },
+      "encoded_page_breaks": [
+        "v.1.p.261"
+      ],
+      "korean": "아버지의 권고는 조금도 강제하지 않는다. 네가 스스로 원하고 스스로 결심하여 더 나은 것을 실천하게 하려는 것이다. 그가 “가서 보아라”라고 말하기 때문이다. 그 일을 보고 이해하고 매우 정확히 살펴보아라. 네가 힘쓸 일을 먼저 알고, 그다음에 그것을 돌보러 나아가야 하기 때문이다.",
+      "translation_revision": "sha256:76940bb7d86600e0f0e95f763666bf298caf88862a03544818c3c181e1baf5f0",
+      "groups": [
+        {
+          "id": "a-034edb1303746cda0eba",
+          "source_range": [
+            0,
+            71
+          ],
+          "ko_range": [
+            0,
+            22
+          ],
+          "source_text": "καὶ μὴν ὅ γε προτρεπτικὸς λόγος τοῦ πατρὸς ἀνάγκην ἐπιτίθησιν οὐδεμίαν,",
+          "ko_text": "아버지의 권고는 조금도 강제하지 않는다."
+        },
+        {
+          "id": "a-afe92f58f4665b728f62",
+          "source_range": [
+            72,
+            126
+          ],
+          "ko_range": [
+            23,
+            64
+          ],
+          "source_text": "ἵνα ἐθελουργὸς καὶ αὐτοκέλευστος ἐπιτηδεύῃς τὰ βελτίω,",
+          "ko_text": "네가 스스로 원하고 스스로 결심하여 더 나은 것을 실천하게 하려는 것이다."
+        },
+        {
+          "id": "a-64e69dda99476d690c24",
+          "source_range": [
+            127,
+            153
+          ],
+          "ko_range": [
+            65,
+            88
+          ],
+          "source_text": "φησὶ γάρ· “πορευθεὶς ἴδε,”",
+          "ko_text": "그가 “가서 보아라”라고 말하기 때문이다."
+        },
+        {
+          "id": "a-09b016cf8219f7a374a9",
+          "source_range": [
+            154,
+            214
+          ],
+          "ko_range": [
+            89,
+            115
+          ],
+          "source_text": "θέασαι καὶ κατανόησον καὶ πάνυ ἀκριβῶς περίσκεψαι τὸ πρᾶγμα·",
+          "ko_text": "그 일을 보고 이해하고 매우 정확히 살펴보아라."
+        },
+        {
+          "id": "a-2fd54e5ebdd459fdfc1f",
+          "source_range": [
+            215,
+            312
+          ],
+          "ko_range": [
+            116,
+            158
+          ],
+          "source_text": "εἰδέναι γάρ σε δεῖ περὶ ὃ μέλλεις πονεῖσθαι πρότερον, εἶτ’ αὖθις ἐπὶ τὴν ἐπιμέλειαν αὐτοῦ χωρεῖν.",
+          "ko_text": "네가 힘쓸 일을 먼저 알고, 그다음에 그것을 돌보러 나아가야 하기 때문이다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "det:11",
+      "html_path": "works/det/index.html#p-11",
+      "fixed_html_path": "releases/public-0.35/works/det/index.html#p-11",
+      "alignment_revision": "sha256:1e435aaf3597f7a3030b3cb8c26005be15b89b2608d039ebb22f4cc4069f1b1a",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:edcffa7462aa2b03e49f7eba36a4a1cd594f5f6ea9b90483fbcdfc8ebdb073a5",
+          "translation_revision": "sha256:76940bb7d86600e0f0e95f763666bf298caf88862a03544818c3c181e1baf5f0",
+          "alignment_revision": "sha256:1e435aaf3597f7a3030b3cb8c26005be15b89b2608d039ebb22f4cc4069f1b1a"
+        },
+        "scoped_ai_review": {
+          "id": "det-addition-20261003",
+          "scope": "악한 자가 선한 자를 공격함 1-20절 전체, 21-178절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:edcffa7462aa2b03e49f7eba36a4a1cd594f5f6ea9b90483fbcdfc8ebdb073a5",
+            "translation_revision": "sha256:76940bb7d86600e0f0e95f763666bf298caf88862a03544818c3c181e1baf5f0",
+            "alignment_revision": "sha256:1e435aaf3597f7a3030b3cb8c26005be15b89b2608d039ebb22f4cc4069f1b1a"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg005/tlg0018.tlg005.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0으로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "악한 자가 선한 자를 공격함",
+        "reference": "11",
+        "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
+        "release": "public-0.35",
+        "translation_revision": "sha256:76940bb7d86600e0f0e95f763666bf298caf88862a03544818c3c181e1baf5f0",
+        "fixed_path": "releases/public-0.35/works/det/index.html#p-11"
+      }
+    },
+    {
+      "ref": "12",
+      "section": 12,
+      "original": "ὅταν μέντοι διακύψῃς καὶ περιαγαγὼν ὄμμα ὅλον δι’ ὅλων καταθεάσῃ, προσεξέτασον καὶ τοὺς ἐπιθεμένους ἤδη καὶ ἀσκητὰς αὐτοῦ γεγονότας, εἰ τοῦτο δρῶντες “ὑγιαίνουσιν” ἀλλὰ μὴ μεμήνασι, καθάπερ οἱ φιλήδονοι διασύροντες καὶ ἐπιχλευάζοντες νομίζουσι. μήτε δὲ τὴν θέαν τοῦ πράγματος μήτε τὴν περὶ τοῦ ὑγιαίνειν τοὺς ἀσκητὰς διάγνωσιν βεβαιώσῃ παρὰ σεαυτῷ, πρὶν “ἀναγγεῖλαι” καὶ ἀνενεγκεῖν τῷ πατρί· γνῶμαι γὰρ αἱ μὲν τῶν ἄρτι μανθάνειν ἀρχομένων ἄστατοι καὶ ἀνίδρυτοι, πάγιοι δ’ αἱ τῶν προκεκοφότων, ἀφ’ ὧν τὸ ἀκλινὲς κἀκείνους λαμβάνειν ἀναγκαῖον.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:3135b7b49f8ca9f17ba9650901c0cb9cd1b44becdd15eba00b8ff0cf2d790419",
+      "source_file_sha256": "0763e7af48f7b80ac6b2831696af1e17fe5ac88b1922fe10bf867855556e6e03",
+      "source_locator": {
+        "filename": "tlg0018.tlg005.1st1K-grc1.xml",
+        "reference": "12"
+      },
+      "korean": "몸을 숙여 들여다보고 눈길을 두루 돌려 그 일 전체를 자세히 보았거든, 이미 그 일을 시작하여 훈련하는 사람이 된 이들도 더 살펴보아라. 그들이 그 일을 하면서 “건강한지”, 쾌락을 좋아하는 이들이 조롱하고 비웃으며 생각하듯 미친 것은 아닌지 보아라. 그러나 그 일을 관찰한 결과와 훈련하는 이들이 건강하다는 판단을 아버지에게 “알리고” 보고하기 전에는 네 안에서 확정하지 마라. 이제 막 배우기 시작한 이들의 판단은 흔들리고 자리를 잡지 못하지만, 성장한 이들의 판단은 확고하다. 배우는 이들도 그들에게서 흔들리지 않는 태도를 얻어야 한다.",
+      "translation_revision": "sha256:cb8e448d1acadd1650883f85f126f94810af22196ac12d7dfdedd15339a963bf",
+      "groups": [
+        {
+          "id": "a-5918150085237d28294a",
+          "source_range": [
+            0,
+            65
+          ],
+          "ko_range": [
+            0,
+            39
+          ],
+          "source_text": "ὅταν μέντοι διακύψῃς καὶ περιαγαγὼν ὄμμα ὅλον δι’ ὅλων καταθεάσῃ,",
+          "ko_text": "몸을 숙여 들여다보고 눈길을 두루 돌려 그 일 전체를 자세히 보았거든,"
+        },
+        {
+          "id": "a-517619d98676c836acfd",
+          "source_range": [
+            66,
+            132
+          ],
+          "ko_range": [
+            40,
+            76
+          ],
+          "source_text": "προσεξέτασον καὶ τοὺς ἐπιθεμένους ἤδη καὶ ἀσκητὰς αὐτοῦ γεγονότας,",
+          "ko_text": "이미 그 일을 시작하여 훈련하는 사람이 된 이들도 더 살펴보아라."
+        },
+        {
+          "id": "a-de46d679409ddad31fff",
+          "source_range": [
+            133,
+            244
+          ],
+          "ko_range": [
+            77,
+            140
+          ],
+          "source_text": "εἰ τοῦτο δρῶντες “ὑγιαίνουσιν” ἀλλὰ μὴ μεμήνασι, καθάπερ οἱ φιλήδονοι διασύροντες καὶ ἐπιχλευάζοντες νομίζουσι.",
+          "ko_text": "그들이 그 일을 하면서 “건강한지”, 쾌락을 좋아하는 이들이 조롱하고 비웃으며 생각하듯 미친 것은 아닌지 보아라."
+        },
+        {
+          "id": "a-f4ae87665493a45e781b",
+          "source_range": [
+            245,
+            391
+          ],
+          "ko_range": [
+            141,
+            212
+          ],
+          "source_text": "μήτε δὲ τὴν θέαν τοῦ πράγματος μήτε τὴν περὶ τοῦ ὑγιαίνειν τοὺς ἀσκητὰς διάγνωσιν βεβαιώσῃ παρὰ σεαυτῷ, πρὶν “ἀναγγεῖλαι” καὶ ἀνενεγκεῖν τῷ πατρί·",
+          "ko_text": "그러나 그 일을 관찰한 결과와 훈련하는 이들이 건강하다는 판단을 아버지에게 “알리고” 보고하기 전에는 네 안에서 확정하지 마라."
+        },
+        {
+          "id": "a-18fa01a0128c04af032f",
+          "source_range": [
+            392,
+            492
+          ],
+          "ko_range": [
+            213,
+            269
+          ],
+          "source_text": "γνῶμαι γὰρ αἱ μὲν τῶν ἄρτι μανθάνειν ἀρχομένων ἄστατοι καὶ ἀνίδρυτοι, πάγιοι δ’ αἱ τῶν προκεκοφότων,",
+          "ko_text": "이제 막 배우기 시작한 이들의 판단은 흔들리고 자리를 잡지 못하지만, 성장한 이들의 판단은 확고하다."
+        },
+        {
+          "id": "a-9d92b35babb433713530",
+          "source_range": [
+            493,
+            541
+          ],
+          "ko_range": [
+            270,
+            303
+          ],
+          "source_text": "ἀφ’ ὧν τὸ ἀκλινὲς κἀκείνους λαμβάνειν ἀναγκαῖον.",
+          "ko_text": "배우는 이들도 그들에게서 흔들리지 않는 태도를 얻어야 한다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "det:12",
+      "html_path": "works/det/index.html#p-12",
+      "fixed_html_path": "releases/public-0.35/works/det/index.html#p-12",
+      "alignment_revision": "sha256:d1417731c9d7dbb7fa6676f52a9a7e8dc0eaf3f457fd293db086f02e2b051fc2",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:3135b7b49f8ca9f17ba9650901c0cb9cd1b44becdd15eba00b8ff0cf2d790419",
+          "translation_revision": "sha256:cb8e448d1acadd1650883f85f126f94810af22196ac12d7dfdedd15339a963bf",
+          "alignment_revision": "sha256:d1417731c9d7dbb7fa6676f52a9a7e8dc0eaf3f457fd293db086f02e2b051fc2"
+        },
+        "scoped_ai_review": {
+          "id": "det-addition-20261003",
+          "scope": "악한 자가 선한 자를 공격함 1-20절 전체, 21-178절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:3135b7b49f8ca9f17ba9650901c0cb9cd1b44becdd15eba00b8ff0cf2d790419",
+            "translation_revision": "sha256:cb8e448d1acadd1650883f85f126f94810af22196ac12d7dfdedd15339a963bf",
+            "alignment_revision": "sha256:d1417731c9d7dbb7fa6676f52a9a7e8dc0eaf3f457fd293db086f02e2b051fc2"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg005/tlg0018.tlg005.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0으로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "악한 자가 선한 자를 공격함",
+        "reference": "12",
+        "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
+        "release": "public-0.35",
+        "translation_revision": "sha256:cb8e448d1acadd1650883f85f126f94810af22196ac12d7dfdedd15339a963bf",
+        "fixed_path": "releases/public-0.35/works/det/index.html#p-12"
+      }
+    },
+    {
+      "ref": "13",
+      "section": 13,
+      "original": "Τοῦτον, ὦ διάνοια, τὸν τρόπον ἐὰν ἐρευνᾷς τοὺς ἱεροφαντηθέντας λόγους μὲν θεοῦ, νόμους δὲ ἀνθρώπων θεοφιλῶν, οὐδὲν ταπεινὸν οὐδ’ ἀνάξιον τοῦ μεγέθους αὐτῶν ἀναγκασθήσῃ παραδέχεσθαι. αὐτὸ γὰρ τοῦτο, περὶ οὗ νῦν ὁ λόγος ἐστί, πῶς ἄν τις τῶν εὖ φρονούντων παραδέξαιτο; ἆρα τοσαύτην σπάνιν οἰκετῶν ἢ ὑπηρετῶν εἰκὸς εἶναι τῷ βασιλέως ἔχοντι περιουσίαν Ἰακώβ, ὡς υἱὸν ἐπὶ τὴν ξένην ἐκπέμπειν διαγγελοῦντα περὶ τῶν ἄλλων παίδων, εἰ ὑγιαίνουσι, καὶ προσέτι τῶν θρεμμάτων;",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:969aa395f2360f76abd0b3caa1af677279c65acf24942ccca86e1f2a469bda90",
+      "source_file_sha256": "0763e7af48f7b80ac6b2831696af1e17fe5ac88b1922fe10bf867855556e6e03",
+      "source_locator": {
+        "filename": "tlg0018.tlg005.1st1K-grc1.xml",
+        "reference": "13"
+      },
+      "korean": "생각아, 신적으로 계시된 하나님의 말씀, 곧 하나님을 사랑하는 사람들의 법을 이런 방식으로 탐구한다면, 그 위대함에 어울리지 않는 하찮은 내용을 받아들일 필요가 없을 것이다. 지금 말하는 바로 이 내용을, 분별 있는 사람 가운데 누가 그대로 받아들이겠는가? 왕의 재산을 지닌 야곱에게 집안의 종이나 하인이 그토록 부족하여, 다른 아들들과 가축이 잘 있는지 소식을 알아오라고 아들을 낯선 땅에 보내야 했겠는가?",
+      "translation_revision": "sha256:54745012f5c420b41b4c03e803e4d30ea349a6e9d91054157622bf9103c55119",
+      "groups": [
+        {
+          "id": "a-09ba743a2310a554a8df",
+          "source_range": [
+            0,
+            108
+          ],
+          "ko_range": [
+            0,
+            57
+          ],
+          "source_text": "Τοῦτον, ὦ διάνοια, τὸν τρόπον ἐὰν ἐρευνᾷς τοὺς ἱεροφαντηθέντας λόγους μὲν θεοῦ, νόμους δὲ ἀνθρώπων θεοφιλῶν,",
+          "ko_text": "생각아, 신적으로 계시된 하나님의 말씀, 곧 하나님을 사랑하는 사람들의 법을 이런 방식으로 탐구한다면,"
+        },
+        {
+          "id": "a-3ec5275ea265a23d5044",
+          "source_range": [
+            109,
+            181
+          ],
+          "ko_range": [
+            58,
+            97
+          ],
+          "source_text": "οὐδὲν ταπεινὸν οὐδ’ ἀνάξιον τοῦ μεγέθους αὐτῶν ἀναγκασθήσῃ παραδέχεσθαι.",
+          "ko_text": "그 위대함에 어울리지 않는 하찮은 내용을 받아들일 필요가 없을 것이다."
+        },
+        {
+          "id": "a-71bc16a535eb58a9fcf8",
+          "source_range": [
+            182,
+            265
+          ],
+          "ko_range": [
+            98,
+            143
+          ],
+          "source_text": "αὐτὸ γὰρ τοῦτο, περὶ οὗ νῦν ὁ λόγος ἐστί, πῶς ἄν τις τῶν εὖ φρονούντων παραδέξαιτο;",
+          "ko_text": "지금 말하는 바로 이 내용을, 분별 있는 사람 가운데 누가 그대로 받아들이겠는가?"
+        },
+        {
+          "id": "a-80d12a7cfb484be8c302",
+          "source_range": [
+            266,
+            463
+          ],
+          "ko_range": [
+            144,
+            228
+          ],
+          "source_text": "ἆρα τοσαύτην σπάνιν οἰκετῶν ἢ ὑπηρετῶν εἰκὸς εἶναι τῷ βασιλέως ἔχοντι περιουσίαν Ἰακώβ, ὡς υἱὸν ἐπὶ τὴν ξένην ἐκπέμπειν διαγγελοῦντα περὶ τῶν ἄλλων παίδων, εἰ ὑγιαίνουσι, καὶ προσέτι τῶν θρεμμάτων;",
+          "ko_text": "왕의 재산을 지닌 야곱에게 집안의 종이나 하인이 그토록 부족하여, 다른 아들들과 가축이 잘 있는지 소식을 알아오라고 아들을 낯선 땅에 보내야 했겠는가?"
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "det:13",
+      "html_path": "works/det/index.html#p-13",
+      "fixed_html_path": "releases/public-0.35/works/det/index.html#p-13",
+      "alignment_revision": "sha256:fbba88228ee3ce3363ebd2924b0e46552aef97c209f4e4fdabb6805158b7fbf9",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:969aa395f2360f76abd0b3caa1af677279c65acf24942ccca86e1f2a469bda90",
+          "translation_revision": "sha256:54745012f5c420b41b4c03e803e4d30ea349a6e9d91054157622bf9103c55119",
+          "alignment_revision": "sha256:fbba88228ee3ce3363ebd2924b0e46552aef97c209f4e4fdabb6805158b7fbf9"
+        },
+        "scoped_ai_review": {
+          "id": "det-addition-20261003",
+          "scope": "악한 자가 선한 자를 공격함 1-20절 전체, 21-178절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:969aa395f2360f76abd0b3caa1af677279c65acf24942ccca86e1f2a469bda90",
+            "translation_revision": "sha256:54745012f5c420b41b4c03e803e4d30ea349a6e9d91054157622bf9103c55119",
+            "alignment_revision": "sha256:fbba88228ee3ce3363ebd2924b0e46552aef97c209f4e4fdabb6805158b7fbf9"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg005/tlg0018.tlg005.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0으로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "악한 자가 선한 자를 공격함",
+        "reference": "13",
+        "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
+        "release": "public-0.35",
+        "translation_revision": "sha256:54745012f5c420b41b4c03e803e4d30ea349a6e9d91054157622bf9103c55119",
+        "fixed_path": "releases/public-0.35/works/det/index.html#p-13"
+      }
+    },
+    {
+      "ref": "14",
+      "section": 14,
+      "original": "ὁ πάππος αὐτοῦ χωρὶς τοῦ πλήθους τῶν αἰχμαλώτων, οὓς ἐννέα βασιλεῖς καθελὼν ἀπήγαγεν, ὑπὲρ τριακοσίους ἔσχεν οἰκότριβας· μεμείωται δὲ τῆς οἰκίας οὐδέν, ἀλλὰ χρόνου προϊόντος πάντα διὰ πάντων ἔλαβεν αὔξησιν. οὐκ ἂν οὖν ἀφθόνου θεραπείας ὑπαρχούσης υἱὸν ἠξίου πέμπειν, οὗ μάλιστα ἐκήδετο, ἐπὶ πρᾶξιν, ἣν καὶ τῶν εὐτελεστάτων ἄν τις ῥᾳδίως κατώρθωσεν.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:637793727498bfe803046969df35990cf6ac42eba9ee41b0b72f1d8a61c37f2c",
+      "source_file_sha256": "0763e7af48f7b80ac6b2831696af1e17fe5ac88b1922fe10bf867855556e6e03",
+      "source_locator": {
+        "filename": "tlg0018.tlg005.1st1K-grc1.xml",
+        "reference": "14"
+      },
+      "korean": "그의 조부에게는 아홉 왕을 무찌르고 데려온 많은 포로를 빼고도, 집에서 태어난 종이 삼백 명 넘게 있었다. 집안의 재산은 조금도 줄지 않았고, 시간이 흐르면서 모든 면에서 늘어났다. 따라서 하인이 충분했으므로, 가장 보잘것없는 사람도 쉽게 해낼 일에 자신이 특히 아끼는 아들을 보내려 하지는 않았을 것이다.",
+      "translation_revision": "sha256:ddf83fe99040f395b4af4b65130ca30064763762da0313af4ea24a6164680909",
+      "groups": [
+        {
+          "id": "a-816efbf03e460f612b7c",
+          "source_range": [
+            0,
+            120
+          ],
+          "ko_range": [
+            0,
+            59
+          ],
+          "source_text": "ὁ πάππος αὐτοῦ χωρὶς τοῦ πλήθους τῶν αἰχμαλώτων, οὓς ἐννέα βασιλεῖς καθελὼν ἀπήγαγεν, ὑπὲρ τριακοσίους ἔσχεν οἰκότριβας·",
+          "ko_text": "그의 조부에게는 아홉 왕을 무찌르고 데려온 많은 포로를 빼고도, 집에서 태어난 종이 삼백 명 넘게 있었다."
+        },
+        {
+          "id": "a-68a2cded782fb883cc90",
+          "source_range": [
+            121,
+            206
+          ],
+          "ko_range": [
+            60,
+            101
+          ],
+          "source_text": "μεμείωται δὲ τῆς οἰκίας οὐδέν, ἀλλὰ χρόνου προϊόντος πάντα διὰ πάντων ἔλαβεν αὔξησιν.",
+          "ko_text": "집안의 재산은 조금도 줄지 않았고, 시간이 흐르면서 모든 면에서 늘어났다."
+        },
+        {
+          "id": "a-69fa1c3d190af24fd1cc",
+          "source_range": [
+            207,
+            348
+          ],
+          "ko_range": [
+            102,
+            171
+          ],
+          "source_text": "οὐκ ἂν οὖν ἀφθόνου θεραπείας ὑπαρχούσης υἱὸν ἠξίου πέμπειν, οὗ μάλιστα ἐκήδετο, ἐπὶ πρᾶξιν, ἣν καὶ τῶν εὐτελεστάτων ἄν τις ῥᾳδίως κατώρθωσεν.",
+          "ko_text": "따라서 하인이 충분했으므로, 가장 보잘것없는 사람도 쉽게 해낼 일에 자신이 특히 아끼는 아들을 보내려 하지는 않았을 것이다."
+        }
+      ],
+      "notes": [
+        "필론은 야곱의 조부가 아홉 왕을 무찔렀고 집에서 태어난 종이 삼백 명 넘었다고 서술한다. 많은 하인이 있었는데도 아들을 보냈다는 점을 문자적 서술 너머의 해석을 찾는 근거로 사용한다."
+      ],
+      "work_passage_id": "det:14",
+      "html_path": "works/det/index.html#p-14",
+      "fixed_html_path": "releases/public-0.35/works/det/index.html#p-14",
+      "alignment_revision": "sha256:1ffe1730d2b1977f945c23de8864e59008e99a4ddaf53543d792b17ecbe74ce3",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:637793727498bfe803046969df35990cf6ac42eba9ee41b0b72f1d8a61c37f2c",
+          "translation_revision": "sha256:ddf83fe99040f395b4af4b65130ca30064763762da0313af4ea24a6164680909",
+          "alignment_revision": "sha256:1ffe1730d2b1977f945c23de8864e59008e99a4ddaf53543d792b17ecbe74ce3"
+        },
+        "scoped_ai_review": {
+          "id": "det-addition-20261003",
+          "scope": "악한 자가 선한 자를 공격함 1-20절 전체, 21-178절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:637793727498bfe803046969df35990cf6ac42eba9ee41b0b72f1d8a61c37f2c",
+            "translation_revision": "sha256:ddf83fe99040f395b4af4b65130ca30064763762da0313af4ea24a6164680909",
+            "alignment_revision": "sha256:1ffe1730d2b1977f945c23de8864e59008e99a4ddaf53543d792b17ecbe74ce3"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg005/tlg0018.tlg005.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0으로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "악한 자가 선한 자를 공격함",
+        "reference": "14",
+        "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
+        "release": "public-0.35",
+        "translation_revision": "sha256:ddf83fe99040f395b4af4b65130ca30064763762da0313af4ea24a6164680909",
+        "fixed_path": "releases/public-0.35/works/det/index.html#p-14"
+      }
+    },
+    {
+      "ref": "15",
+      "section": 15,
+      "original": "ἀλλ’ ὁρᾷς ὅτι καὶ τὸ χωρίον, ὅθεν αὐτὸν ἐκπέμπει, περιττῶς ἀναγράφει μόνον οὐκ ἐναργῶς προτρέπων ἀφίστασθαι τοῦ ῥητοῦ· “ἐκ γὰρ τῆς κοιλάδος τῆς Χεβρών”· συζυγὴ δὲ καὶ συνεταιρὶς Χεβρὼν καλεῖται συμβολικῶς ἡμῶν τὸ σῶμα, ὅτι συνέζευκται καὶ ὥσπερ ἑταιρίαν καὶ φιλίαν πρὸς ψυχὴν τέθειται· κοιλάδας δὲ ἔχει τὰ αἰσθητήρια, μεγάλας δεξαμενὰς ἁπάντων ὅσα ἐκτὸς αἰσθητά, ἃ τὰς παμπληθεῖς ποιότητας ἐπαντλοῦντα καὶ διὰ τῶν δεξαμενῶν ἐπεισχέοντα τῇ διανοίᾳ κατακλύζει καὶ βύθιον αὐτὴν ἀπεργάζεται.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:a3b013be9e37a346b732d34d80f94ed2e4c2b66053f81cab7aed443a1b4e30c3",
+      "source_file_sha256": "0763e7af48f7b80ac6b2831696af1e17fe5ac88b1922fe10bf867855556e6e03",
+      "source_locator": {
+        "filename": "tlg0018.tlg005.1st1K-grc1.xml",
+        "reference": "15"
+      },
+      "korean": "그가 아들을 보낸 장소까지 굳이 기록하는 것도 보이지 않는가? 글자 그대로의 뜻에서 떠나라고 거의 분명하게 권하는 셈이다. “헤브론 골짜기에서” 보냈다고 한다. 결합하고 동료가 된다는 뜻의 헤브론은 상징적으로 우리의 몸을 가리킨다. 몸이 영혼과 결합하여 동료 관계와 우정을 맺었기 때문이다. 몸은 감각 기관들을 골짜기로 지닌다. 그것들은 외부에서 감각되는 모든 것을 받는 커다란 저장소이다. 외부의 감각 대상들은 온갖 성질을 퍼부어 그 저장소들을 통해 생각 속으로 흘려보내며, 생각을 넘치게 하고 물속 깊이 가라앉힌다.",
+      "translation_revision": "sha256:8e4aa1dae4aca0bb2fdac4be7541ee700fee45eb80678f0e9c5036e438968a94",
+      "groups": [
+        {
+          "id": "a-eb23b60a896343832c11",
+          "source_range": [
+            0,
+            118
+          ],
+          "ko_range": [
+            0,
+            68
+          ],
+          "source_text": "ἀλλ’ ὁρᾷς ὅτι καὶ τὸ χωρίον, ὅθεν αὐτὸν ἐκπέμπει, περιττῶς ἀναγράφει μόνον οὐκ ἐναργῶς προτρέπων ἀφίστασθαι τοῦ ῥητοῦ·",
+          "ko_text": "그가 아들을 보낸 장소까지 굳이 기록하는 것도 보이지 않는가? 글자 그대로의 뜻에서 떠나라고 거의 분명하게 권하는 셈이다."
+        },
+        {
+          "id": "a-b90c6466ff1db3c2b14d",
+          "source_range": [
+            119,
+            152
+          ],
+          "ko_range": [
+            69,
+            89
+          ],
+          "source_text": "“ἐκ γὰρ τῆς κοιλάδος τῆς Χεβρών”·",
+          "ko_text": "“헤브론 골짜기에서” 보냈다고 한다."
+        },
+        {
+          "id": "a-abecf6f6e2719d0d3e7d",
+          "source_range": [
+            153,
+            218
+          ],
+          "ko_range": [
+            90,
+            129
+          ],
+          "source_text": "συζυγὴ δὲ καὶ συνεταιρὶς Χεβρὼν καλεῖται συμβολικῶς ἡμῶν τὸ σῶμα,",
+          "ko_text": "결합하고 동료가 된다는 뜻의 헤브론은 상징적으로 우리의 몸을 가리킨다."
+        },
+        {
+          "id": "a-bf204ed824b86b2abae3",
+          "source_range": [
+            219,
+            285
+          ],
+          "ko_range": [
+            130,
+            162
+          ],
+          "source_text": "ὅτι συνέζευκται καὶ ὥσπερ ἑταιρίαν καὶ φιλίαν πρὸς ψυχὴν τέθειται·",
+          "ko_text": "몸이 영혼과 결합하여 동료 관계와 우정을 맺었기 때문이다."
+        },
+        {
+          "id": "a-4de889d7a07be36b5448",
+          "source_range": [
+            286,
+            362
+          ],
+          "ko_range": [
+            163,
+            218
+          ],
+          "source_text": "κοιλάδας δὲ ἔχει τὰ αἰσθητήρια, μεγάλας δεξαμενὰς ἁπάντων ὅσα ἐκτὸς αἰσθητά,",
+          "ko_text": "몸은 감각 기관들을 골짜기로 지닌다. 그것들은 외부에서 감각되는 모든 것을 받는 커다란 저장소이다."
+        },
+        {
+          "id": "a-61532a824a3457813762",
+          "source_range": [
+            363,
+            487
+          ],
+          "ko_range": [
+            219,
+            290
+          ],
+          "source_text": "ἃ τὰς παμπληθεῖς ποιότητας ἐπαντλοῦντα καὶ διὰ τῶν δεξαμενῶν ἐπεισχέοντα τῇ διανοίᾳ κατακλύζει καὶ βύθιον αὐτὴν ἀπεργάζεται.",
+          "ko_text": "외부의 감각 대상들은 온갖 성질을 퍼부어 그 저장소들을 통해 생각 속으로 흘려보내며, 생각을 넘치게 하고 물속 깊이 가라앉힌다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "det:15",
+      "html_path": "works/det/index.html#p-15",
+      "fixed_html_path": "releases/public-0.35/works/det/index.html#p-15",
+      "alignment_revision": "sha256:ee48ee909158285f880f07ec8a9d2723ba291ef76a97f68236554ead20132de0",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:a3b013be9e37a346b732d34d80f94ed2e4c2b66053f81cab7aed443a1b4e30c3",
+          "translation_revision": "sha256:8e4aa1dae4aca0bb2fdac4be7541ee700fee45eb80678f0e9c5036e438968a94",
+          "alignment_revision": "sha256:ee48ee909158285f880f07ec8a9d2723ba291ef76a97f68236554ead20132de0"
+        },
+        "scoped_ai_review": {
+          "id": "det-addition-20261003",
+          "scope": "악한 자가 선한 자를 공격함 1-20절 전체, 21-178절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:a3b013be9e37a346b732d34d80f94ed2e4c2b66053f81cab7aed443a1b4e30c3",
+            "translation_revision": "sha256:8e4aa1dae4aca0bb2fdac4be7541ee700fee45eb80678f0e9c5036e438968a94",
+            "alignment_revision": "sha256:ee48ee909158285f880f07ec8a9d2723ba291ef76a97f68236554ead20132de0"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg005/tlg0018.tlg005.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0으로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "악한 자가 선한 자를 공격함",
+        "reference": "15",
+        "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
+        "release": "public-0.35",
+        "translation_revision": "sha256:8e4aa1dae4aca0bb2fdac4be7541ee700fee45eb80678f0e9c5036e438968a94",
+        "fixed_path": "releases/public-0.35/works/det/index.html#p-15"
+      }
+    },
+    {
+      "ref": "16",
+      "section": 16,
+      "original": "διὰ τοῦτο ἐν τῷ νόμῳ τῆς λέπρας, ὅταν ἐν οἰκίᾳ κοιλάδες χλωρίζουσαι ἢ πυρρίζουσαι φανῶσι, διείρηται τοὺς λίθους, ἐν οἷς γεγόνασιν, ἐξελόντας ἑτέρους ἀντιτιθέναι, τουτέστιν, ὅταν διαφέρουσαι ποιότητες, ἃς ἐδημιούργησαν ἡδοναὶ καὶ ἐπιθυμίαι καὶ τὰ ἀδελφὰ τούτων πάθη, βαρύνασαι καὶ πιέσασαι τὴν ὅλην ψυχὴν κοιλοτέραν καὶ ταπεινοτέραν αὐτὴν ἑαυτῆς ἐργάσωνται, τοὺς τῆς ἀσθενείας αἰτίους λόγους ἀνελεῖν, ὑγιεινοὺς δὲ δι’ ἀγωγῆς νομίμου ἢ καὶ παιδεύσεως ὀρθῆς ἀντεισαγαγεῖν.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:c45bbbfc721add685095362e5f2d1156faf1af5bea1e54fea2f78eb612467554",
+      "source_file_sha256": "0763e7af48f7b80ac6b2831696af1e17fe5ac88b1922fe10bf867855556e6e03",
+      "source_locator": {
+        "filename": "tlg0018.tlg005.1st1K-grc1.xml",
+        "reference": "16"
+      },
+      "encoded_page_breaks": [
+        "v.1.p.262"
+      ],
+      "korean": "그래서 나병에 관한 법은 집에 초록빛이나 붉은빛이 도는 움푹한 자국이 나타나면, 그런 자국이 생긴 돌들을 빼내고 다른 돌로 바꾸라고 명시한다. 곧 쾌락과 욕망과 그와 비슷한 감정들이 만들어 낸 여러 성질이 영혼 전체를 무겁게 짓눌러, 영혼이 전보다 더 움푹 꺼지고 낮아지게 하면, 그 허약함의 원인이 되는 생각들을 제거하라는 뜻이다. 그리고 법에 맞는 생활이나 올바른 교육을 통해 건강한 생각들을 대신 넣으라는 뜻이다.",
+      "translation_revision": "sha256:e9ee928582aa0301438dd45e5d947d0d9f783f536a2132a6a6996a9e4a85c3d7",
+      "groups": [
+        {
+          "id": "a-642e40e89660e572c9c5",
+          "source_range": [
+            0,
+            89
+          ],
+          "ko_range": [
+            0,
+            44
+          ],
+          "source_text": "διὰ τοῦτο ἐν τῷ νόμῳ τῆς λέπρας, ὅταν ἐν οἰκίᾳ κοιλάδες χλωρίζουσαι ἢ πυρρίζουσαι φανῶσι,",
+          "ko_text": "그래서 나병에 관한 법은 집에 초록빛이나 붉은빛이 도는 움푹한 자국이 나타나면,"
+        },
+        {
+          "id": "a-eae8f94555de61fa44f1",
+          "source_range": [
+            90,
+            161
+          ],
+          "ko_range": [
+            45,
+            79
+          ],
+          "source_text": "διείρηται τοὺς λίθους, ἐν οἷς γεγόνασιν, ἐξελόντας ἑτέρους ἀντιτιθέναι,",
+          "ko_text": "그런 자국이 생긴 돌들을 빼내고 다른 돌로 바꾸라고 명시한다."
+        },
+        {
+          "id": "a-3449d1c1617526ad88c6",
+          "source_range": [
+            162,
+            356
+          ],
+          "ko_range": [
+            80,
+            156
+          ],
+          "source_text": "τουτέστιν, ὅταν διαφέρουσαι ποιότητες, ἃς ἐδημιούργησαν ἡδοναὶ καὶ ἐπιθυμίαι καὶ τὰ ἀδελφὰ τούτων πάθη, βαρύνασαι καὶ πιέσασαι τὴν ὅλην ψυχὴν κοιλοτέραν καὶ ταπεινοτέραν αὐτὴν ἑαυτῆς ἐργάσωνται,",
+          "ko_text": "곧 쾌락과 욕망과 그와 비슷한 감정들이 만들어 낸 여러 성질이 영혼 전체를 무겁게 짓눌러, 영혼이 전보다 더 움푹 꺼지고 낮아지게 하면,"
+        },
+        {
+          "id": "a-71b585dd3a40556af006",
+          "source_range": [
+            357,
+            399
+          ],
+          "ko_range": [
+            157,
+            186
+          ],
+          "source_text": "τοὺς τῆς ἀσθενείας αἰτίους λόγους ἀνελεῖν,",
+          "ko_text": "그 허약함의 원인이 되는 생각들을 제거하라는 뜻이다."
+        },
+        {
+          "id": "a-230e4acd2ff78c73888f",
+          "source_range": [
+            400,
+            469
+          ],
+          "ko_range": [
+            187,
+            234
+          ],
+          "source_text": "ὑγιεινοὺς δὲ δι’ ἀγωγῆς νομίμου ἢ καὶ παιδεύσεως ὀρθῆς ἀντεισαγαγεῖν.",
+          "ko_text": "그리고 법에 맞는 생활이나 올바른 교육을 통해 건강한 생각들을 대신 넣으라는 뜻이다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "det:16",
+      "html_path": "works/det/index.html#p-16",
+      "fixed_html_path": "releases/public-0.35/works/det/index.html#p-16",
+      "alignment_revision": "sha256:9fcbeef590f017405d6e5f4522a2f7ceade9c85ae7550ced807e1f93cf22d8c4",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:c45bbbfc721add685095362e5f2d1156faf1af5bea1e54fea2f78eb612467554",
+          "translation_revision": "sha256:e9ee928582aa0301438dd45e5d947d0d9f783f536a2132a6a6996a9e4a85c3d7",
+          "alignment_revision": "sha256:9fcbeef590f017405d6e5f4522a2f7ceade9c85ae7550ced807e1f93cf22d8c4"
+        },
+        "scoped_ai_review": {
+          "id": "det-addition-20261003",
+          "scope": "악한 자가 선한 자를 공격함 1-20절 전체, 21-178절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:c45bbbfc721add685095362e5f2d1156faf1af5bea1e54fea2f78eb612467554",
+            "translation_revision": "sha256:e9ee928582aa0301438dd45e5d947d0d9f783f536a2132a6a6996a9e4a85c3d7",
+            "alignment_revision": "sha256:9fcbeef590f017405d6e5f4522a2f7ceade9c85ae7550ced807e1f93cf22d8c4"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg005/tlg0018.tlg005.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0으로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "악한 자가 선한 자를 공격함",
+        "reference": "16",
+        "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
+        "release": "public-0.35",
+        "translation_revision": "sha256:e9ee928582aa0301438dd45e5d947d0d9f783f536a2132a6a6996a9e4a85c3d7",
+        "fixed_path": "releases/public-0.35/works/det/index.html#p-16"
+      }
+    },
+    {
+      "ref": "17",
+      "section": 17,
+      "original": "τὸν Ἰωσὴφ οὖν ὅλον εἰς τὰς τοῦ σώματος καὶ τῶν αἰσθήσεων κοιλότητας εἰσδεδυκότα ὁρῶν προκαλεῖται τῶν φωλεῶν ἔξω προελθόντα ἐλευθέρου σπάσαι τοῦ καρτερίας πνεύματος φοιτήσαντα πρὸς τοὺς πάλαι μὲν ἀσκητὰς νυνὶ δὲ διδασκάλους αὐτῆς. ὁ δὲ προεληλυθέναι δόξας πλανώμενος εὑρίσκεται· “εὗρε” γάρ φησιν “αὐτὸν ἄνθρωπος πλανώμενον ἐν τῷ πεδίῳ”, δηλῶν ὅτι οὐχ ὁ πόνος καθ’ αὑτὸν ἀλλ’ ὁ μετὰ τέχνης ἀγαθόν.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:b09201760f65d14f89bd6f215eddcae41aa5383153aee7ee7ab85c91d4e32b10",
+      "source_file_sha256": "0763e7af48f7b80ac6b2831696af1e17fe5ac88b1922fe10bf867855556e6e03",
+      "source_locator": {
+        "filename": "tlg0018.tlg005.1st1K-grc1.xml",
+        "reference": "17"
+      },
+      "korean": "따라서 그는 요셉이 몸과 감각의 움푹한 곳으로 완전히 들어가 있는 것을 보고, 그 굴 밖으로 나와 인내의 자유로운 숨결을 들이마시라고 권한다. 전에는 인내를 훈련했고 이제는 그 스승이 된 사람들에게 가라는 것이다. 요셉은 밖으로 나온 것처럼 보였지만, 헤매는 모습으로 발견된다. “한 사람이 그가 들에서 헤매는 것을 발견했다”라고 말한다. 이는 수고 자체보다 기술을 갖춘 수고가 선하다는 뜻이다.",
+      "translation_revision": "sha256:cd59059f52757032bf06bd0ddf9b30f5da7942e799a8d09044b54ab26d94af67",
+      "groups": [
+        {
+          "id": "a-9fe691fcd2a5bc1715e7",
+          "source_range": [
+            0,
+            84
+          ],
+          "ko_range": [
+            0,
+            43
+          ],
+          "source_text": "τὸν Ἰωσὴφ οὖν ὅλον εἰς τὰς τοῦ σώματος καὶ τῶν αἰσθήσεων κοιλότητας εἰσδεδυκότα ὁρῶν",
+          "ko_text": "따라서 그는 요셉이 몸과 감각의 움푹한 곳으로 완전히 들어가 있는 것을 보고,"
+        },
+        {
+          "id": "a-e02997e9a0b27910f688",
+          "source_range": [
+            85,
+            163
+          ],
+          "ko_range": [
+            44,
+            79
+          ],
+          "source_text": "προκαλεῖται τῶν φωλεῶν ἔξω προελθόντα ἐλευθέρου σπάσαι τοῦ καρτερίας πνεύματος",
+          "ko_text": "그 굴 밖으로 나와 인내의 자유로운 숨결을 들이마시라고 권한다."
+        },
+        {
+          "id": "a-bf637352faaa46662063",
+          "source_range": [
+            164,
+            229
+          ],
+          "ko_range": [
+            80,
+            119
+          ],
+          "source_text": "φοιτήσαντα πρὸς τοὺς πάλαι μὲν ἀσκητὰς νυνὶ δὲ διδασκάλους αὐτῆς.",
+          "ko_text": "전에는 인내를 훈련했고 이제는 그 스승이 된 사람들에게 가라는 것이다."
+        },
+        {
+          "id": "a-04cf4d15b41c4bdf65f4",
+          "source_range": [
+            230,
+            277
+          ],
+          "ko_range": [
+            120,
+            155
+          ],
+          "source_text": "ὁ δὲ προεληλυθέναι δόξας πλανώμενος εὑρίσκεται·",
+          "ko_text": "요셉은 밖으로 나온 것처럼 보였지만, 헤매는 모습으로 발견된다."
+        },
+        {
+          "id": "a-c570cc4d1d73eccd3070",
+          "source_range": [
+            278,
+            335
+          ],
+          "ko_range": [
+            156,
+            189
+          ],
+          "source_text": "“εὗρε” γάρ φησιν “αὐτὸν ἄνθρωπος πλανώμενον ἐν τῷ πεδίῳ”,",
+          "ko_text": "“한 사람이 그가 들에서 헤매는 것을 발견했다”라고 말한다."
+        },
+        {
+          "id": "a-3cd34ab9885d60252411",
+          "source_range": [
+            336,
+            395
+          ],
+          "ko_range": [
+            190,
+            221
+          ],
+          "source_text": "δηλῶν ὅτι οὐχ ὁ πόνος καθ’ αὑτὸν ἀλλ’ ὁ μετὰ τέχνης ἀγαθόν.",
+          "ko_text": "이는 수고 자체보다 기술을 갖춘 수고가 선하다는 뜻이다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "det:17",
+      "html_path": "works/det/index.html#p-17",
+      "fixed_html_path": "releases/public-0.35/works/det/index.html#p-17",
+      "alignment_revision": "sha256:b53ef2ed710d3aa5029b01bfae6a8cb5afcb130061b3029c2d7c3d839bac58af",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:b09201760f65d14f89bd6f215eddcae41aa5383153aee7ee7ab85c91d4e32b10",
+          "translation_revision": "sha256:cd59059f52757032bf06bd0ddf9b30f5da7942e799a8d09044b54ab26d94af67",
+          "alignment_revision": "sha256:b53ef2ed710d3aa5029b01bfae6a8cb5afcb130061b3029c2d7c3d839bac58af"
+        },
+        "scoped_ai_review": {
+          "id": "det-addition-20261003",
+          "scope": "악한 자가 선한 자를 공격함 1-20절 전체, 21-178절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:b09201760f65d14f89bd6f215eddcae41aa5383153aee7ee7ab85c91d4e32b10",
+            "translation_revision": "sha256:cd59059f52757032bf06bd0ddf9b30f5da7942e799a8d09044b54ab26d94af67",
+            "alignment_revision": "sha256:b53ef2ed710d3aa5029b01bfae6a8cb5afcb130061b3029c2d7c3d839bac58af"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg005/tlg0018.tlg005.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0으로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "악한 자가 선한 자를 공격함",
+        "reference": "17",
+        "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
+        "release": "public-0.35",
+        "translation_revision": "sha256:cd59059f52757032bf06bd0ddf9b30f5da7942e799a8d09044b54ab26d94af67",
+        "fixed_path": "releases/public-0.35/works/det/index.html#p-17"
+      }
+    },
+    {
+      "ref": "18",
+      "section": 18,
+      "original": "ὥσπερ γὰρ οὔτε μουσικὴν ἀμούσως οὔτε γραμματικὴν ἀγραμμάτως οὐδὲ συνόλως φράσαι τέχνην ἀτέχνως ἢ κακοτέχνως ἀλλὰ τεχνικῶς ἑκάστην ἐπιτηδεύειν προσῆκεν, οὕτως οὐδὲ φρόνησιν πανούργως οὐδὲ σωφροσύνην φειδωλῶς καὶ ἀνελευθέρως οὐδὲ θρασέως ἀνδρείαν οὐδὲ δεισιδαιμόνως εὐσέβειαν οὐδ’ ἄλλην τινὰ τῶν κατ’ ἀρετὴν ἐπιστήμην ἀνεπιστημόνως· ἀνοδία γὰρ ὁμολογουμένως ταῦτα πάντα. παρὸ καὶ νόμος κεῖται “δικαίως τὸ δίκαιον διώκειν”, ἵνα δικαιοσύνην καὶ πᾶσαν ἀρετὴν τοῖς συγγενέσιν ἔργοις αὐτῆς ἀλλὰ μὴ τοῖς ἐναντίοις μετερχώμεθα.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:8873d295cb41d24bb4d4dd148d62c9466ed119f478ae4a8649c3ea2bd4f142d4",
+      "source_file_sha256": "0763e7af48f7b80ac6b2831696af1e17fe5ac88b1922fe10bf867855556e6e03",
+      "source_locator": {
+        "filename": "tlg0018.tlg005.1st1K-grc1.xml",
+        "reference": "18"
+      },
+      "korean": "음악을 음악에 맞지 않게, 문법을 문법에 맞지 않게 익혀서는 안 되며, 일반적으로 어떤 기술도 기술 없이 또는 잘못된 기술로 익혀서는 안 된다. 각각을 올바른 기술에 따라 익혀야 한다. 마찬가지로 분별을 간교하게, 절제를 인색하고 옹졸하게 익혀서는 안 된다. 용기를 무모하게, 경건을 미신적으로 익혀서도 안 된다. 덕에 속한 다른 어떤 지식도 지식 없이 익혀서는 안 된다. 이 모든 것은 분명 길을 벗어난 것이다. 그래서 “정의로운 것을 정의롭게 추구하라”라는 법도 있다. 정의와 모든 덕을 그에 맞는 행위로 추구하고, 반대되는 행위로 추구하지 않게 하려는 것이다.",
+      "translation_revision": "sha256:f51969e9c366270b9bb23f3cd522a7b77a8857953a3e833343ce8b7867290e3f",
+      "groups": [
+        {
+          "id": "a-db66dc8f2e9de3c24ac3",
+          "source_range": [
+            0,
+            151
+          ],
+          "ko_range": [
+            0,
+            103
+          ],
+          "source_text": "ὥσπερ γὰρ οὔτε μουσικὴν ἀμούσως οὔτε γραμματικὴν ἀγραμμάτως οὐδὲ συνόλως φράσαι τέχνην ἀτέχνως ἢ κακοτέχνως ἀλλὰ τεχνικῶς ἑκάστην ἐπιτηδεύειν προσῆκεν,",
+          "ko_text": "음악을 음악에 맞지 않게, 문법을 문법에 맞지 않게 익혀서는 안 되며, 일반적으로 어떤 기술도 기술 없이 또는 잘못된 기술로 익혀서는 안 된다. 각각을 올바른 기술에 따라 익혀야 한다."
+        },
+        {
+          "id": "a-f03513a04d82e6bf21b8",
+          "source_range": [
+            152,
+            222
+          ],
+          "ko_range": [
+            104,
+            144
+          ],
+          "source_text": "οὕτως οὐδὲ φρόνησιν πανούργως οὐδὲ σωφροσύνην φειδωλῶς καὶ ἀνελευθέρως",
+          "ko_text": "마찬가지로 분별을 간교하게, 절제를 인색하고 옹졸하게 익혀서는 안 된다."
+        },
+        {
+          "id": "a-4e292929f917ecdb8ed4",
+          "source_range": [
+            223,
+            273
+          ],
+          "ko_range": [
+            145,
+            175
+          ],
+          "source_text": "οὐδὲ θρασέως ἀνδρείαν οὐδὲ δεισιδαιμόνως εὐσέβειαν",
+          "ko_text": "용기를 무모하게, 경건을 미신적으로 익혀서도 안 된다."
+        },
+        {
+          "id": "a-02d1ebe743cf230377c2",
+          "source_range": [
+            274,
+            330
+          ],
+          "ko_range": [
+            176,
+            208
+          ],
+          "source_text": "οὐδ’ ἄλλην τινὰ τῶν κατ’ ἀρετὴν ἐπιστήμην ἀνεπιστημόνως·",
+          "ko_text": "덕에 속한 다른 어떤 지식도 지식 없이 익혀서는 안 된다."
+        },
+        {
+          "id": "a-8a35d8ec028e28668d27",
+          "source_range": [
+            331,
+            368
+          ],
+          "ko_range": [
+            209,
+            231
+          ],
+          "source_text": "ἀνοδία γὰρ ὁμολογουμένως ταῦτα πάντα.",
+          "ko_text": "이 모든 것은 분명 길을 벗어난 것이다."
+        },
+        {
+          "id": "a-d407c37706db8889cb2f",
+          "source_range": [
+            369,
+            420
+          ],
+          "ko_range": [
+            232,
+            264
+          ],
+          "source_text": "παρὸ καὶ νόμος κεῖται “δικαίως τὸ δίκαιον διώκειν”,",
+          "ko_text": "그래서 “정의로운 것을 정의롭게 추구하라”라는 법도 있다."
+        },
+        {
+          "id": "a-991c46f10ba63f77360a",
+          "source_range": [
+            421,
+            518
+          ],
+          "ko_range": [
+            265,
+            316
+          ],
+          "source_text": "ἵνα δικαιοσύνην καὶ πᾶσαν ἀρετὴν τοῖς συγγενέσιν ἔργοις αὐτῆς ἀλλὰ μὴ τοῖς ἐναντίοις μετερχώμεθα.",
+          "ko_text": "정의와 모든 덕을 그에 맞는 행위로 추구하고, 반대되는 행위로 추구하지 않게 하려는 것이다."
+        }
+      ],
+      "notes": [
+        "분별과 간교함, 절제와 인색함, 용기와 무모함, 경건과 미신을 각각 구분한다. 덕의 이름뿐 아니라 그에 알맞은 실천 방식이 필요하다는 논증이다."
+      ],
+      "work_passage_id": "det:18",
+      "html_path": "works/det/index.html#p-18",
+      "fixed_html_path": "releases/public-0.35/works/det/index.html#p-18",
+      "alignment_revision": "sha256:ea0ee4626eeff750ba4df021eb03949728f9b42508f516ecf4b82ea404354765",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:8873d295cb41d24bb4d4dd148d62c9466ed119f478ae4a8649c3ea2bd4f142d4",
+          "translation_revision": "sha256:f51969e9c366270b9bb23f3cd522a7b77a8857953a3e833343ce8b7867290e3f",
+          "alignment_revision": "sha256:ea0ee4626eeff750ba4df021eb03949728f9b42508f516ecf4b82ea404354765"
+        },
+        "scoped_ai_review": {
+          "id": "det-addition-20261003",
+          "scope": "악한 자가 선한 자를 공격함 1-20절 전체, 21-178절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:8873d295cb41d24bb4d4dd148d62c9466ed119f478ae4a8649c3ea2bd4f142d4",
+            "translation_revision": "sha256:f51969e9c366270b9bb23f3cd522a7b77a8857953a3e833343ce8b7867290e3f",
+            "alignment_revision": "sha256:ea0ee4626eeff750ba4df021eb03949728f9b42508f516ecf4b82ea404354765"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg005/tlg0018.tlg005.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0으로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "악한 자가 선한 자를 공격함",
+        "reference": "18",
+        "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
+        "release": "public-0.35",
+        "translation_revision": "sha256:f51969e9c366270b9bb23f3cd522a7b77a8857953a3e833343ce8b7867290e3f",
+        "fixed_path": "releases/public-0.35/works/det/index.html#p-18"
+      }
+    },
+    {
+      "ref": "19",
+      "section": 19,
+      "original": "ἐὰν οὖν τινα θεάσῃ σῖτα καὶ ποτὰ μὴ ἐν καιρῷ προσιέμενον ἢ λουτρὰ καὶ ἀλείμματα παραιτούμενον ἢ τῶν περὶ σῶμα σκεπασμάτων ἀμελοῦντα ἢ χαμευνίαις καὶ δυσαυλίαις χρώμενον, εἶτ’ ἐκ τούτων ἐπιμορφάζοντα ἐγκράτειαν, οἶκτον λαβὼν τῆς περὶ αὐτὸν πλάνης τὴν ἀληθῆ τῆς ἐγκρατείας ὁδὸν δεῖξον· ἃ γὰρ ἐπετήδευσεν, ἀνήνυτοι καὶ ἄτρυτοι πόνοι λιμῷ καὶ ταῖς ἄλλαις κακώσεσι ψυχὴν καὶ σῶμα ἐκτραχηλίζοντες.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:9f2c9678d6b984b7f644413fbe7a053cf0d8c6c0c4811836a7c64498ee708c5d",
+      "source_file_sha256": "0763e7af48f7b80ac6b2831696af1e17fe5ac88b1922fe10bf867855556e6e03",
+      "source_locator": {
+        "filename": "tlg0018.tlg005.1st1K-grc1.xml",
+        "reference": "19"
+      },
+      "korean": "누군가 음식을 제때 먹지 않고 마시지 않거나, 목욕과 기름 바르기를 거부하거나, 몸을 덮는 옷을 돌보지 않거나, 맨땅과 좋지 않은 거처에서 잠자면서 그것으로 자제력을 꾸며 보이는 것을 보거든, 그 사람의 방황을 가엾게 여겨 자제의 참된 길을 알려 주어라. 그가 행한 것은 끝도 성과도 없는 수고이며, 굶주림과 다른 괴로움으로 영혼과 몸을 무너뜨린다.",
+      "translation_revision": "sha256:713aa4fd8a6be903d3d1230dd3a5e2e5aa0560b594e52840d1925d1f98b8befd",
+      "groups": [
+        {
+          "id": "a-b426052b34ccdd4056e8",
+          "source_range": [
+            0,
+            210
+          ],
+          "ko_range": [
+            0,
+            107
+          ],
+          "source_text": "ἐὰν οὖν τινα θεάσῃ σῖτα καὶ ποτὰ μὴ ἐν καιρῷ προσιέμενον ἢ λουτρὰ καὶ ἀλείμματα παραιτούμενον ἢ τῶν περὶ σῶμα σκεπασμάτων ἀμελοῦντα ἢ χαμευνίαις καὶ δυσαυλίαις χρώμενον, εἶτ’ ἐκ τούτων ἐπιμορφάζοντα ἐγκράτειαν,",
+          "ko_text": "누군가 음식을 제때 먹지 않고 마시지 않거나, 목욕과 기름 바르기를 거부하거나, 몸을 덮는 옷을 돌보지 않거나, 맨땅과 좋지 않은 거처에서 잠자면서 그것으로 자제력을 꾸며 보이는 것을 보거든,"
+        },
+        {
+          "id": "a-e83e16da6cc0566a250b",
+          "source_range": [
+            211,
+            283
+          ],
+          "ko_range": [
+            108,
+            142
+          ],
+          "source_text": "οἶκτον λαβὼν τῆς περὶ αὐτὸν πλάνης τὴν ἀληθῆ τῆς ἐγκρατείας ὁδὸν δεῖξον·",
+          "ko_text": "그 사람의 방황을 가엾게 여겨 자제의 참된 길을 알려 주어라."
+        },
+        {
+          "id": "a-c1a15cbd2610ecd467e2",
+          "source_range": [
+            284,
+            391
+          ],
+          "ko_range": [
+            143,
+            195
+          ],
+          "source_text": "ἃ γὰρ ἐπετήδευσεν, ἀνήνυτοι καὶ ἄτρυτοι πόνοι λιμῷ καὶ ταῖς ἄλλαις κακώσεσι ψυχὴν καὶ σῶμα ἐκτραχηλίζοντες.",
+          "ko_text": "그가 행한 것은 끝도 성과도 없는 수고이며, 굶주림과 다른 괴로움으로 영혼과 몸을 무너뜨린다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "det:19",
+      "html_path": "works/det/index.html#p-19",
+      "fixed_html_path": "releases/public-0.35/works/det/index.html#p-19",
+      "alignment_revision": "sha256:e8e8431467e1757377fd5b5fcd306657ee6707364a898edf9f9c55cdd75afb03",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:9f2c9678d6b984b7f644413fbe7a053cf0d8c6c0c4811836a7c64498ee708c5d",
+          "translation_revision": "sha256:713aa4fd8a6be903d3d1230dd3a5e2e5aa0560b594e52840d1925d1f98b8befd",
+          "alignment_revision": "sha256:e8e8431467e1757377fd5b5fcd306657ee6707364a898edf9f9c55cdd75afb03"
+        },
+        "scoped_ai_review": {
+          "id": "det-addition-20261003",
+          "scope": "악한 자가 선한 자를 공격함 1-20절 전체, 21-178절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:9f2c9678d6b984b7f644413fbe7a053cf0d8c6c0c4811836a7c64498ee708c5d",
+            "translation_revision": "sha256:713aa4fd8a6be903d3d1230dd3a5e2e5aa0560b594e52840d1925d1f98b8befd",
+            "alignment_revision": "sha256:e8e8431467e1757377fd5b5fcd306657ee6707364a898edf9f9c55cdd75afb03"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg005/tlg0018.tlg005.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0으로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "악한 자가 선한 자를 공격함",
+        "reference": "19",
+        "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
+        "release": "public-0.35",
+        "translation_revision": "sha256:713aa4fd8a6be903d3d1230dd3a5e2e5aa0560b594e52840d1925d1f98b8befd",
+        "fixed_path": "releases/public-0.35/works/det/index.html#p-19"
+      }
+    },
+    {
+      "ref": "20",
+      "section": 20,
+      "original": "μηδ’ εἴ τις περιρραντηρίοις ἢ καθαρσίοις χρώμενος διάνοιαν μὲν ῥυπαίνει τὴν ἑαυτοῦ, τὸ δὲ σῶμα φαιδρύνει, μηδ’ εἰ πάλιν ὑπὸ περιουσίας νεὼν ἱδρύεται λαμπροτάταις χορηγίαις καὶ δαπάναις χρώμενος ἢ ἑκατόμβας ἀνάγει καὶ βουθυτῶν οὐ παύεται ἢ πολυτελέσιν ἀναθήμασι κοσμεῖ τὸ ἱερὸν ἀφθόνους μὲν ὕλας τέχνας δὲ παντὸς ἀργύρου καὶ χρυσοῦ τιμιωτέρας εἰσάγων, μετ’ εὐσεβῶν ἀναγεγράφθω·",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:af08290affa965c04c31afd2eef5d3d2276fd9a535fff4ec6c475c45e06b5c7a",
+      "source_file_sha256": "0763e7af48f7b80ac6b2831696af1e17fe5ac88b1922fe10bf867855556e6e03",
+      "source_locator": {
+        "filename": "tlg0018.tlg005.1st1K-grc1.xml",
+        "reference": "20"
+      },
+      "encoded_page_breaks": [
+        "v.1.p.263"
+      ],
+      "korean": "정결수나 정화 의식을 사용하면서 자기 생각은 더럽히고 몸만 깨끗이 하는 사람도, 큰 재산으로 화려한 비용을 들여 신전을 세우거나, 백 마리의 희생을 바치고 소를 제물로 드리기를 그치지 않거나, 값비싼 봉헌물로 성소를 장식하면서, 풍부한 재료와 모든 은과 금보다 더 값진 세공품들을 들여놓는 사람도, 경건한 사람들 가운데 이름을 올려서는 안 된다.",
+      "translation_revision": "sha256:63ebe013f65b36bd7d732ccee52c58f79e026267730ee64fd9e87af30ece891e",
+      "groups": [
+        {
+          "id": "a-8b4f52c4063199908747",
+          "source_range": [
+            0,
+            105
+          ],
+          "ko_range": [
+            0,
+            44
+          ],
+          "source_text": "μηδ’ εἴ τις περιρραντηρίοις ἢ καθαρσίοις χρώμενος διάνοιαν μὲν ῥυπαίνει τὴν ἑαυτοῦ, τὸ δὲ σῶμα φαιδρύνει,",
+          "ko_text": "정결수나 정화 의식을 사용하면서 자기 생각은 더럽히고 몸만 깨끗이 하는 사람도,"
+        },
+        {
+          "id": "a-5f6c8a07f51d9250ca47",
+          "source_range": [
+            106,
+            193
+          ],
+          "ko_range": [
+            45,
+            72
+          ],
+          "source_text": "μηδ’ εἰ πάλιν ὑπὸ περιουσίας νεὼν ἱδρύεται λαμπροτάταις χορηγίαις καὶ δαπάναις χρώμενος",
+          "ko_text": "큰 재산으로 화려한 비용을 들여 신전을 세우거나,"
+        },
+        {
+          "id": "a-ce4dfae629ab13285423",
+          "source_range": [
+            194,
+            236
+          ],
+          "ko_range": [
+            73,
+            107
+          ],
+          "source_text": "ἢ ἑκατόμβας ἀνάγει καὶ βουθυτῶν οὐ παύεται",
+          "ko_text": "백 마리의 희생을 바치고 소를 제물로 드리기를 그치지 않거나,"
+        },
+        {
+          "id": "a-57dd0bd09058dc4ad8bd",
+          "source_range": [
+            237,
+            276
+          ],
+          "ko_range": [
+            108,
+            127
+          ],
+          "source_text": "ἢ πολυτελέσιν ἀναθήμασι κοσμεῖ τὸ ἱερὸν",
+          "ko_text": "값비싼 봉헌물로 성소를 장식하면서,"
+        },
+        {
+          "id": "a-d98fbf2577cb8f8e25c3",
+          "source_range": [
+            277,
+            350
+          ],
+          "ko_range": [
+            128,
+            166
+          ],
+          "source_text": "ἀφθόνους μὲν ὕλας τέχνας δὲ παντὸς ἀργύρου καὶ χρυσοῦ τιμιωτέρας εἰσάγων,",
+          "ko_text": "풍부한 재료와 모든 은과 금보다 더 값진 세공품들을 들여놓는 사람도,"
+        },
+        {
+          "id": "a-23d2516d3e8614b94dca",
+          "source_range": [
+            351,
+            376
+          ],
+          "ko_range": [
+            167,
+            193
+          ],
+          "source_text": "μετ’ εὐσεβῶν ἀναγεγράφθω·",
+          "ko_text": "경건한 사람들 가운데 이름을 올려서는 안 된다."
+        }
+      ],
+      "notes": [
+        "몸의 정결, 큰 신전, 많은 희생과 비싼 봉헌물을 열거하면서 경건한 생각과 외적 행위를 대조한다. 20절은 이런 행동만으로 경건한 이들의 명부에 들 수 없다는 문장에서 끝난다."
+      ],
+      "work_passage_id": "det:20",
+      "html_path": "works/det/index.html#p-20",
+      "fixed_html_path": "releases/public-0.35/works/det/index.html#p-20",
+      "alignment_revision": "sha256:6eaa0a620091a511932cf3be57f2938c628c8ad82e2be01b33c11d3818aa8907",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:af08290affa965c04c31afd2eef5d3d2276fd9a535fff4ec6c475c45e06b5c7a",
+          "translation_revision": "sha256:63ebe013f65b36bd7d732ccee52c58f79e026267730ee64fd9e87af30ece891e",
+          "alignment_revision": "sha256:6eaa0a620091a511932cf3be57f2938c628c8ad82e2be01b33c11d3818aa8907"
+        },
+        "scoped_ai_review": {
+          "id": "det-addition-20261003",
+          "scope": "악한 자가 선한 자를 공격함 1-20절 전체, 21-178절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:af08290affa965c04c31afd2eef5d3d2276fd9a535fff4ec6c475c45e06b5c7a",
+            "translation_revision": "sha256:63ebe013f65b36bd7d732ccee52c58f79e026267730ee64fd9e87af30ece891e",
+            "alignment_revision": "sha256:6eaa0a620091a511932cf3be57f2938c628c8ad82e2be01b33c11d3818aa8907"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg005/tlg0018.tlg005.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0으로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "악한 자가 선한 자를 공격함",
+        "reference": "20",
+        "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
+        "release": "public-0.35",
+        "translation_revision": "sha256:63ebe013f65b36bd7d732ccee52c58f79e026267730ee64fd9e87af30ece891e",
+        "fixed_path": "releases/public-0.35/works/det/index.html#p-20"
+      }
+    }
+  ],
+  "related": [],
+  "aliases": [
+    "악한 자가 선한 자를 공격함",
+    "Det.",
+    "Quod deterius potiori insidiari soleat"
+  ],
+  "translationLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "sourceCommit": "03776b39f4047c5cff06f5296fae4b2bae4b08fb",
+  "licenseEvidence": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg005/tlg0018.tlg005.1st1K-grc1.xml",
+  "openAccessFullTextUrl": "https://archive.org/download/philonisalexandr0103philuoft/philonisalexandr0103philuoft.pdf",
+  "original_title": "Quod deterius potiori insidiari soleat",
+  "display_title": "악한 자가 선한 자를 공격함",
+  "reference_scheme": "section",
+  "coverage_label": "1-20절 수록",
+  "edition_id": "det-first1k-03776b39",
+  "source_file_sha256": "0763e7af48f7b80ac6b2831696af1e17fe5ac88b1922fe10bf867855556e6e03",
+  "display_author": "필론",
+  "scope": "악한 자가 선한 자를 공격함 1-20절 전체, 21-178절 미수록",
+  "coverage": "complete_scope",
+  "release_id": "public-0.35",
+  "source_language": "grc",
+  "source_kind": "edited_ancient_original",
+  "human_reviewed": false,
+  "translation_method": "고정 원어 본문에서 직접 번역",
+  "html_path": "works/det/index.html",
+  "json_path": "data/works/det.json",
+  "fixed_html_path": "releases/public-0.35/works/det/index.html",
+  "source_profile": "det-first1k-03776b39",
+  "source_decisions": [
+    {
+      "kind": "display_punctuation",
+      "action": "Curly quotation marks, ASCII hyphens, NFC and regular spaces; downloaded XML unchanged."
+    },
+    {
+      "ref": "1",
+      "kind": "note",
+      "action": "separated_from_body",
+      "text": "I p.l91 M."
+    },
+    {
+      "ref": "1",
+      "kind": "inline_editor_reference",
+      "action": "separated_from_body",
+      "text": "(Gen. 4, 8)"
+    },
+    {
+      "ref": "3",
+      "kind": "add",
+      "action": "preserved_with_editorial_brackets",
+      "text": "διὰ τί"
+    },
+    {
+      "ref": "3",
+      "kind": "inline_editor_reference",
+      "action": "separated_from_body",
+      "text": "(Gen. 31, 4)"
+    },
+    {
+      "ref": "4",
+      "kind": "note",
+      "action": "separated_from_body",
+      "text": "περὶ τοῦ τὸ χεῖρον τῶ κρείττονι φιλεῖν ἐπιτίθεσθαι: codd. 1 αὐτοῦ codd.: αὑτοῦ V 3 αὐτοῦ codd.: αὑτοῦ v 4 ὁ Κάιν UH: ὁ om. FL τοιοῦτον] τοῦτο H προβλήσεως U 5 ἀνακράτος F 6 παραγίνεσθαι coni. Mang. 8 πλείστους HL: πλείους F, τελείους U 10 μεταδιώκουσιν U 11 καὶ ἱππομαχίας om. Η ποιῆσαι Turn. 12 χώρων codd. (χώρων Laur. Conv. 59) 13 γένοιτ’ ἄν V 14 ἐπιστήμης codd.: τῆς ἐπιστήμης v 15 νουθετῶν] νομοθετῶν U 16 ἐκάλη (sic) U 18 διὰ τί addidi: καλέσας δὲ αὐτὰς coni. Benzelius, λαλεῖ δὲ οὕτως coni. Markland"
+    },
+    {
+      "ref": "4",
+      "kind": "inline_editor_reference",
+      "action": "separated_from_body",
+      "text": "(Gen. 31, 5)"
+    },
+    {
+      "ref": "5",
+      "kind": "inline_editor_reference",
+      "action": "separated_from_body",
+      "text": "(Gen. 37, 13-17)"
+    },
+    {
+      "ref": "6",
+      "kind": "inline_editor_reference",
+      "action": "separated_from_body",
+      "text": "(Gen. 37, 3)"
+    },
+    {
+      "ref": "7",
+      "kind": "note",
+      "action": "separated_from_body",
+      "text": "1 πρός ἐμοῦ coni. Mang. ἐχθὲς scripsi: χθὲς codd. 2 καὶ τρίτην F: καὶ ὡς τρίτην ceteri 3 πρὸς σέ Η 5 ἀγαθῶν D εἰ δὲ ἐκπεριπατεῖ D 6 ἀγαθὸν] ὡς μέγιστον ἀγαθὸν U (Mang.) καθὸ F 7 δ’ FL 8 καὶ τὰς F τῆς ψυχῆς Η μεταδιδάσκουσι U 15 εἶπεν H 16 εἶπεν ὁ ἄνθρωπος αὐτῶ F 17 Δοθαείμ U 20 ἐπιστήμην] ἐπιστασίαν coni. Mang. 21 τιθασωτέροις HL: τιθασσοτέροις UF 22 συνυφα (sic) U 23 κατεσκευάσθαι U: κατεσκευάσθη Η, παρασκευᾶσθαι F, παρε κατεσκευάσθαι L 24 δηλῶν ὅτι Markland: δῆλον ὅτι H, δηλονότι ceteri"
+    },
+    {
+      "ref": "7",
+      "kind": "note",
+      "action": "separated_from_body",
+      "text": "4 - 6 DK fol. 255v Φίλωνος ἐκ τοῦ ζ΄ καὶ η΄ τῆς νόμων ἱερῶν ἀλληγορίας: ἐν ψυχῇ - οὐχ ὑπείληπται."
+    },
+    {
+      "ref": "9",
+      "kind": "inline_editor_reference",
+      "action": "separated_from_body",
+      "text": "(Gen. 37, 13)"
+    },
+    {
+      "ref": "10",
+      "kind": "inline_editor_reference",
+      "action": "separated_from_body",
+      "text": "(Gen. 37, 15)"
+    },
+    {
+      "ref": "10",
+      "kind": "inline_editor_reference",
+      "action": "separated_from_body",
+      "text": "(ibid.)"
+    },
+    {
+      "ref": "11",
+      "kind": "note",
+      "action": "separated_from_body",
+      "text": "2 χρείαν F 3 ἀθρῶον (sic) F 4 ἡ] εἰς U 6 ταὐτὸν HL 8 ἴδιον F μήτε post ἰδίᾳ] μή με Η 10 ἔχει codd. ἔχειν Laur. Conv. 59) 12 καὶ ὡς ψυχῆς L καὶ περὶ UF: καὶ om. HL 13 πλεονεκτήματα λεγόμενα UF: λεγόμενα πλεονεκτήματα· HL 18 αὖ τὴν] αὐτὴν F ἐγγινομένας UF: γινομένας HL 19 ἀντίταξιν UF: ἀντιπαράταξιν HL 20 λαβεῖν HL1 21 μαθεῖν] παθεῖν U ἀλλὰ F 22 ὡμολογηκὼς] ἐγνωκὼς coni. Mang. 24 ἱκανότητα L 25 ἑτοιμότατα 11 ἀληθινὸς UFH: ἀληθὴς L 28 ἴν’ U 29 καὶ om. HL"
+    },
+    {
+      "ref": "15",
+      "kind": "inline_editor_reference",
+      "action": "separated_from_body",
+      "text": "(Gen. 37, 14)"
+    },
+    {
+      "ref": "16",
+      "kind": "note",
+      "action": "separated_from_body",
+      "text": "2 αὐτοῦ χωρεῖν F: χωρεῖν αὑτοῦ U (Mang.), αὐτοῦ χώρησιν Η, τοῦ χώρησιν L, του χώρησον Tum. o μέντοι UF: μέντοι γε HL 8 γνῶμαι] γνῶναι U 9 δ’ αἱ UF: δὲ HL 10 προκεκωφότων F ἀφ’ ὧν scripsi: ὑφ’ ὧν codd. κἀκείνους UFH: ἐκείνους L 12 λόγους μὲν UFL2: λογισμοὺς HL1 17 ἀναγγελοῦντα coni. Mang. εἰ om. U 20 οὐθέν U 23 κατόρθωσεν HL 24 μόνον ἀργῶς (sic) U 25 τῶν Χεβρών HL συζυγὴ - Χεβρὼν καλεῖται (26) om. HL 26 Χεβρὼν καλεῖται U: καλεῖται Χεβρὼν F(HL) 27 ψυχὴν] εὐχὴν U τέθεικε U 28 ἔχε FL"
+    },
+    {
+      "ref": "16",
+      "kind": "inline_editor_reference",
+      "action": "separated_from_body",
+      "text": "(Lev. 14,37 ss.)"
+    },
+    {
+      "ref": "17",
+      "kind": "inline_editor_reference",
+      "action": "separated_from_body",
+      "text": "(Gen. 37, 15)"
+    },
+    {
+      "ref": "18",
+      "kind": "inline_editor_reference",
+      "action": "separated_from_body",
+      "text": "(Deut. 16, 20)"
+    },
+    {
+      "ref": "20",
+      "kind": "note",
+      "action": "separated_from_body",
+      "text": "1 ἐν prius om. HL 2 πυρίζουσι U διήρηται Η 5 ταπεινωτέραν Η 6 αὐτὴν] αὐτῆς Η 7 διαγωγῆς FL2, διανομῆς HL1 9 εἰσδεδεκότα F 10 σπάσαι] πᾶσαι Η πρὸς τοὺς UF: πρὸς αὐτοὺς IIL 12 αὐτὸν ἄνθρωπος U: ἄνθρωπος αὐτὸν FHL 15 φράσαι] τὶ φράσαι UF 17 σωφροσύνην] σωφρονίζειν F 18 ἀνδρείαν codd.: ἀνδρίαν v τινὰ τῶν VF: τῶν om. HL 19 ὁμολογούμενα UF 19. 20 ταῦτα πάντα U: πάντα ταῦτα FHL 24 χαυμευνίαις (sic) F 27 ἐπετήδευσε U, ἐπετήδευσαν FH ἀνηνύτοις καὶ ἀτρύτοις πόνοις UF 28 ἐκτραχηλιάζοντες F 29 ῥυπαίνη U 30 φαιδρύνει ,μετὰ καθαρῶν, Markland νίων F ἵδρυται HL"
+    },
+    {
+      "kind": "printed_collation",
+      "ref": "5",
+      "before": "πλανωμένων",
+      "after": "πλανώμενον",
+      "printed_page": 259,
+      "pdf_page": 383,
+      "reason": "인쇄본문의 단수 대격 분사에 맞춤"
+    }
+  ],
+  "source_collations": [
+    {
+      "reference": "5",
+      "edition": "Cohn 1896, vol. 1",
+      "url": "https://archive.org/download/philonisalexandr0103philuoft/philonisalexandr0103philuoft.pdf#page=383",
+      "pdf_file": "research/planning/philo-genesis-ten-20261003/cohn-wendland-vol1-3.pdf",
+      "corrections": [
+        {
+          "ref": "5",
+          "before": "πλανωμένων",
+          "after": "πλανώμενον",
+          "printed_page": 259,
+          "pdf_page": 383,
+          "reason": "인쇄본문의 단수 대격 분사에 맞춤"
+        }
+      ]
+    }
+  ],
+  "validation_records": [
+    {
+      "id": "det-addition-20261003",
+      "scope": "악한 자가 선한 자를 공격함 1-20절 전체, 21-178절 미수록",
+      "date": "2026-10-03",
+      "reviewer_type": "AI",
+      "human_reviewed": false,
+      "reading_record_count": 20,
+      "meaning_groups": 107,
+      "methods": [
+        "선정한 그리스어 20개 대목을 읽고 한국어와 의미 대응을 작성했다.",
+        "해당 인쇄면과 편집 표기를 대조하고 문장 연결, 화자와 결락을 확인했다."
+      ],
+      "sources": [
+        {
+          "work": "det",
+          "title": "악한 자가 선한 자를 공격함",
+          "url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg005/tlg0018.tlg005.1st1K-grc1.xml",
+          "verified": "2026-10-03",
+          "http_status": 200,
+          "bytes": 217438,
+          "sha256": "0763e7af48f7b80ac6b2831696af1e17fe5ac88b1922fe10bf867855556e6e03",
+          "full_text": true,
+          "commit": "03776b39f4047c5cff06f5296fae4b2bae4b08fb",
+          "license": "CC BY-SA 4.0",
+          "license_evidence": "TEI publicationStmt/availability/licence",
+          "open_access_full_text_url": "https://archive.org/download/philonisalexandr0103philuoft/philonisalexandr0103philuoft.pdf",
+          "pdf_access_record": "pdf-access.json",
+          "printed_volume": 1,
+          "bibliographic_status": "confirmed",
+          "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
+          "pdf_pages_read": [
+            382,
+            383,
+            384,
+            385,
+            386,
+            387
+          ],
+          "pdf_title_pages_read": [
+            9,
+            429
+          ],
+          "access_evidence": "공개 그리스어 XML과 대학도서관 인쇄본 PDF 전체를 인증 없이 내려받음",
+          "printed_collation_record": "printed-collation.json"
+        }
+      ],
+      "passages": [
+        {
+          "ref": "1",
+          "targets": {
+            "source_revision": "sha256:23ddc0b1544d5362e0b96021c1ce495a31992f6f3d2b5a2ebe4a8362e11c448f",
+            "translation_revision": "sha256:bc4a39c4b0ad9745a373855b569d4c6abf764e508116d9ddce03b26256090bf3",
+            "alignment_revision": "sha256:3a8189f35df53525a401c730e93f30eacf62016ec093048328dcf7920e0d8a9b"
+          }
+        },
+        {
+          "ref": "2",
+          "targets": {
+            "source_revision": "sha256:708781b5d6fa88ebf6070c92bb4e5621e6575147f48b853564826bc2fa260013",
+            "translation_revision": "sha256:82ffcdf04186b4d4193e76052f4a1bc72df23a01e363d3b9393578bdc8e394aa",
+            "alignment_revision": "sha256:fa41fa1455df8290dd7e65d57b2dc83dac77f8258e7bfc66347416570ceb09c4"
+          }
+        },
+        {
+          "ref": "3",
+          "targets": {
+            "source_revision": "sha256:4c1e03087c13aec63dd94a37f66f57daaafda040254ba87649b65831bb01d7c6",
+            "translation_revision": "sha256:8a81b6e1d5a448cad2da5e3522ac03b7fe565d1739d29fbfcf483e66b4a593b1",
+            "alignment_revision": "sha256:a2e7dcfa896b032ad1f86739a75f9a32ad4eef94e82339374738af24c8c2e7ea"
+          }
+        },
+        {
+          "ref": "4",
+          "targets": {
+            "source_revision": "sha256:e80f78a16182bf6741c2eab831aa34640c84266e4be507f7e1ffd59da8e2173d",
+            "translation_revision": "sha256:7f96a72d387881eb64ed9073980fe9278cada88a1f6f6ef711120e35afbef17a",
+            "alignment_revision": "sha256:33eb753df8da2120e65e0f3b3a9c90d0eae421adb83efed39e73ef40d90d7749"
+          }
+        },
+        {
+          "ref": "5",
+          "targets": {
+            "source_revision": "sha256:f8db9764e49aa5cdd21f210f33595d2f414bbf7d32fb4cd65fe7cb4196b239c1",
+            "translation_revision": "sha256:a1b7166434c2c768ecdbe6e30f198a89eb0db6220dc38300bd448ac75b2f918c",
+            "alignment_revision": "sha256:0b65f7dae68653af02df599deafc2136099e0ff76f5e57d780fafe9df23d58af"
+          }
+        },
+        {
+          "ref": "6",
+          "targets": {
+            "source_revision": "sha256:06cb096c756f62f567b774f78eebc3bf8c1b3f7218238458e599af3ae00064d4",
+            "translation_revision": "sha256:5984485fb66904e471bc1256f7b8aec74ed59ecef794db15ba874ef4cb42de1a",
+            "alignment_revision": "sha256:c2acbceaf1c543224b97fbc3dfd07c664f54873e8801e8ea5c973684957acbbf"
+          }
+        },
+        {
+          "ref": "7",
+          "targets": {
+            "source_revision": "sha256:40c1d18aa0bad85e61318b82472bfedac8544c9e5b5249111d595773df96cba1",
+            "translation_revision": "sha256:62f391b5751e1e0156d5c1629e50f5e9d645e498a55acff131a5e551a614aa85",
+            "alignment_revision": "sha256:3fa77639be3ae3cceea0857a93e1890785da92e0cfb63966176d4df068bae523"
+          }
+        },
+        {
+          "ref": "8",
+          "targets": {
+            "source_revision": "sha256:594055ef07390bbd6f184a9813518d1cc100620c691aaee6ea3fcc4f5c72ad15",
+            "translation_revision": "sha256:cc0148d44b03a2ad66ca83d7c63fa2407bc238d8bf574f739b6212d372efcc85",
+            "alignment_revision": "sha256:35807faa6ef37a5700305ae8bf70eb68ed9c5322d1a1feb65183ec8bc70cbd62"
+          }
+        },
+        {
+          "ref": "9",
+          "targets": {
+            "source_revision": "sha256:8d18b056cb6c9885ca03de8b4bff9c765bd9187bbffd718f0d32136a663e35e6",
+            "translation_revision": "sha256:8f9db5feb8ecb7551d8dc52869c30da1d30cff0ee79de4787a9f1d10a846d4d0",
+            "alignment_revision": "sha256:feef9dbe88e62ac6347546f85ff9a77736face46ee290035e765240fc3017b61"
+          }
+        },
+        {
+          "ref": "10",
+          "targets": {
+            "source_revision": "sha256:bfbda41a07c512e02411caf5c0c2b6302c86ef30956a3cbffa77e0d131800874",
+            "translation_revision": "sha256:0dd23ae7edefbc08cdaf99d96f754112beee7d483517696c7cf29ad44ad5d4c6",
+            "alignment_revision": "sha256:d6a77bf1b0baff8fbb5f8ab6cd359bcffe771f5271a45b42473616c76b504378"
+          }
+        },
+        {
+          "ref": "11",
+          "targets": {
+            "source_revision": "sha256:edcffa7462aa2b03e49f7eba36a4a1cd594f5f6ea9b90483fbcdfc8ebdb073a5",
+            "translation_revision": "sha256:76940bb7d86600e0f0e95f763666bf298caf88862a03544818c3c181e1baf5f0",
+            "alignment_revision": "sha256:1e435aaf3597f7a3030b3cb8c26005be15b89b2608d039ebb22f4cc4069f1b1a"
+          }
+        },
+        {
+          "ref": "12",
+          "targets": {
+            "source_revision": "sha256:3135b7b49f8ca9f17ba9650901c0cb9cd1b44becdd15eba00b8ff0cf2d790419",
+            "translation_revision": "sha256:cb8e448d1acadd1650883f85f126f94810af22196ac12d7dfdedd15339a963bf",
+            "alignment_revision": "sha256:d1417731c9d7dbb7fa6676f52a9a7e8dc0eaf3f457fd293db086f02e2b051fc2"
+          }
+        },
+        {
+          "ref": "13",
+          "targets": {
+            "source_revision": "sha256:969aa395f2360f76abd0b3caa1af677279c65acf24942ccca86e1f2a469bda90",
+            "translation_revision": "sha256:54745012f5c420b41b4c03e803e4d30ea349a6e9d91054157622bf9103c55119",
+            "alignment_revision": "sha256:fbba88228ee3ce3363ebd2924b0e46552aef97c209f4e4fdabb6805158b7fbf9"
+          }
+        },
+        {
+          "ref": "14",
+          "targets": {
+            "source_revision": "sha256:637793727498bfe803046969df35990cf6ac42eba9ee41b0b72f1d8a61c37f2c",
+            "translation_revision": "sha256:ddf83fe99040f395b4af4b65130ca30064763762da0313af4ea24a6164680909",
+            "alignment_revision": "sha256:1ffe1730d2b1977f945c23de8864e59008e99a4ddaf53543d792b17ecbe74ce3"
+          }
+        },
+        {
+          "ref": "15",
+          "targets": {
+            "source_revision": "sha256:a3b013be9e37a346b732d34d80f94ed2e4c2b66053f81cab7aed443a1b4e30c3",
+            "translation_revision": "sha256:8e4aa1dae4aca0bb2fdac4be7541ee700fee45eb80678f0e9c5036e438968a94",
+            "alignment_revision": "sha256:ee48ee909158285f880f07ec8a9d2723ba291ef76a97f68236554ead20132de0"
+          }
+        },
+        {
+          "ref": "16",
+          "targets": {
+            "source_revision": "sha256:c45bbbfc721add685095362e5f2d1156faf1af5bea1e54fea2f78eb612467554",
+            "translation_revision": "sha256:e9ee928582aa0301438dd45e5d947d0d9f783f536a2132a6a6996a9e4a85c3d7",
+            "alignment_revision": "sha256:9fcbeef590f017405d6e5f4522a2f7ceade9c85ae7550ced807e1f93cf22d8c4"
+          }
+        },
+        {
+          "ref": "17",
+          "targets": {
+            "source_revision": "sha256:b09201760f65d14f89bd6f215eddcae41aa5383153aee7ee7ab85c91d4e32b10",
+            "translation_revision": "sha256:cd59059f52757032bf06bd0ddf9b30f5da7942e799a8d09044b54ab26d94af67",
+            "alignment_revision": "sha256:b53ef2ed710d3aa5029b01bfae6a8cb5afcb130061b3029c2d7c3d839bac58af"
+          }
+        },
+        {
+          "ref": "18",
+          "targets": {
+            "source_revision": "sha256:8873d295cb41d24bb4d4dd148d62c9466ed119f478ae4a8649c3ea2bd4f142d4",
+            "translation_revision": "sha256:f51969e9c366270b9bb23f3cd522a7b77a8857953a3e833343ce8b7867290e3f",
+            "alignment_revision": "sha256:ea0ee4626eeff750ba4df021eb03949728f9b42508f516ecf4b82ea404354765"
+          }
+        },
+        {
+          "ref": "19",
+          "targets": {
+            "source_revision": "sha256:9f2c9678d6b984b7f644413fbe7a053cf0d8c6c0c4811836a7c64498ee708c5d",
+            "translation_revision": "sha256:713aa4fd8a6be903d3d1230dd3a5e2e5aa0560b594e52840d1925d1f98b8befd",
+            "alignment_revision": "sha256:e8e8431467e1757377fd5b5fcd306657ee6707364a898edf9f9c55cdd75afb03"
+          }
+        },
+        {
+          "ref": "20",
+          "targets": {
+            "source_revision": "sha256:af08290affa965c04c31afd2eef5d3d2276fd9a535fff4ec6c475c45e06b5c7a",
+            "translation_revision": "sha256:63ebe013f65b36bd7d732ccee52c58f79e026267730ee64fd9e87af30ece891e",
+            "alignment_revision": "sha256:6eaa0a620091a511932cf3be57f2938c628c8ad82e2be01b33c11d3818aa8907"
+          }
+        }
+      ]
+    }
+  ],
+  "publication_status": "public_review_edition"
+}

@@ -1,0 +1,2745 @@
+{
+  "id": "deus",
+  "title": "하나님의 불변성에 관하여",
+  "author": "필론",
+  "abbreviation": "Deus",
+  "corpus": "jewish",
+  "language": "grc",
+  "genre": "철학적 성경 해석",
+  "period": "고대",
+  "region": "알렉산드리아",
+  "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
+  "summary": "자신을 위해 낳는다는 표현을 아브라함과 한나의 봉헌에 대조하고, 하나님이 사람을 만드신 일을 숙고하셨다는 인용으로 이어집니다.",
+  "topics": [
+    "하나님",
+    "영",
+    "육체",
+    "악"
+  ],
+  "notes": [],
+  "sourceUrl": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg008/tlg0018.tlg008.1st1K-grc1.xml",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "sourceCredit": "전자 전사와 부호화: University of Leipzig, First1KGreek, Digital Divide Data. 원판 편집: Paul Wendland.",
+  "verified": "2026-10-03",
+  "translationCredit": "Codex 작성, 원어 직접 번역 초안",
+  "reviewer": "학술 검토 전",
+  "translationLicense": "CC BY-SA 4.0",
+  "rightsNotice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0으로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요.",
+  "passages": [
+    {
+      "ref": "1",
+      "section": 1,
+      "original": "“Καὶ μετ’ ἐκεῖνο” φησίν “ὡς ἂν εἰσεπορεύοντο οἱ ἄγγελοι τοῦ θεοῦ πρὸς τὰς θυγατέρας τῶν ἀνθρώπων, καὶ ἐγέννων αὑτοῖς”. οὐκοῦν ἄξιον σκέψασθαι, τίνα ἔχει λόγον τὸ “μετ’ ἐκεῖνο”. ἔστι τοίνυν ἀναφορὰ δεικνύουσά τι τῶν προειρημένων ἐναργέστερον.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:eb48cd7b183c3a27243a7e5cc520aaf410675d7b0fc6c7e2bc2638854a15a1dd",
+      "source_file_sha256": "e465ef5e4e88010e981ccd00cd01ab534925af95f7b5a287a1eaec5c656b125d",
+      "source_locator": {
+        "filename": "tlg0018.tlg008.1st1K-grc1.xml",
+        "reference": "1"
+      },
+      "korean": "“그 후에도 하나님의 천사들이 사람들의 딸들에게 들어가, 자기들을 위해 자식을 낳았다”라고 말한다. 따라서 “그 후에”가 무슨 뜻인지 살펴볼 만하다. 이는 앞서 말한 것 가운데 하나를 더 분명히 가리키는 참조이다.",
+      "translation_revision": "sha256:fce07efb691e6fb19a13c52c5d83f2b1ba868e9583ad090cefa566357fe7c8aa",
+      "groups": [
+        {
+          "id": "a-e7c3accecfcc068afbb6",
+          "source_range": [
+            0,
+            118
+          ],
+          "ko_range": [
+            0,
+            55
+          ],
+          "source_text": "“Καὶ μετ’ ἐκεῖνο” φησίν “ὡς ἂν εἰσεπορεύοντο οἱ ἄγγελοι τοῦ θεοῦ πρὸς τὰς θυγατέρας τῶν ἀνθρώπων, καὶ ἐγέννων αὑτοῖς”.",
+          "ko_text": "“그 후에도 하나님의 천사들이 사람들의 딸들에게 들어가, 자기들을 위해 자식을 낳았다”라고 말한다."
+        },
+        {
+          "id": "a-f29ccdb852b5a880847e",
+          "source_range": [
+            119,
+            176
+          ],
+          "ko_range": [
+            56,
+            83
+          ],
+          "source_text": "οὐκοῦν ἄξιον σκέψασθαι, τίνα ἔχει λόγον τὸ “μετ’ ἐκεῖνο”.",
+          "ko_text": "따라서 “그 후에”가 무슨 뜻인지 살펴볼 만하다."
+        },
+        {
+          "id": "a-4fa05e39bdffb8c6c097",
+          "source_range": [
+            177,
+            241
+          ],
+          "ko_range": [
+            84,
+            119
+          ],
+          "source_text": "ἔστι τοίνυν ἀναφορὰ δεικνύουσά τι τῶν προειρημένων ἐναργέστερον.",
+          "ko_text": "이는 앞서 말한 것 가운데 하나를 더 분명히 가리키는 참조이다."
+        }
+      ],
+      "notes": [
+        "그 후라는 창세기 6.4의 표현을 앞서 말한 하나님의 영과 연결한다. 거인들에 관하여 19-20절의 영이 머무는가라는 논의가 배경이다."
+      ],
+      "work_passage_id": "deus:1",
+      "html_path": "works/deus/index.html#p-1",
+      "fixed_html_path": "releases/public-0.35/works/deus/index.html#p-1",
+      "alignment_revision": "sha256:5d26e4721bf37536392eb9b35fbd32bc6408e0f3b68f7435f84305e422b71b15",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:eb48cd7b183c3a27243a7e5cc520aaf410675d7b0fc6c7e2bc2638854a15a1dd",
+          "translation_revision": "sha256:fce07efb691e6fb19a13c52c5d83f2b1ba868e9583ad090cefa566357fe7c8aa",
+          "alignment_revision": "sha256:5d26e4721bf37536392eb9b35fbd32bc6408e0f3b68f7435f84305e422b71b15"
+        },
+        "scoped_ai_review": {
+          "id": "deus-addition-20261003",
+          "scope": "하나님의 불변성에 관하여 1-20절 전체, 21-183절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:eb48cd7b183c3a27243a7e5cc520aaf410675d7b0fc6c7e2bc2638854a15a1dd",
+            "translation_revision": "sha256:fce07efb691e6fb19a13c52c5d83f2b1ba868e9583ad090cefa566357fe7c8aa",
+            "alignment_revision": "sha256:5d26e4721bf37536392eb9b35fbd32bc6408e0f3b68f7435f84305e422b71b15"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg008/tlg0018.tlg008.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0으로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "하나님의 불변성에 관하여",
+        "reference": "1",
+        "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
+        "release": "public-0.35",
+        "translation_revision": "sha256:fce07efb691e6fb19a13c52c5d83f2b1ba868e9583ad090cefa566357fe7c8aa",
+        "fixed_path": "releases/public-0.35/works/deus/index.html#p-1"
+      }
+    },
+    {
+      "ref": "2",
+      "section": 2,
+      "original": "προείρηται δὲ περὶ θείου πνεύματος, ὃ καταμεῖναι μέχρι τοῦ παντὸς αἰῶνος ἐν πολυσχιδεῖ καὶ πολυμόρφῳ ψυχῇ σαρκῶν ὄχλον βαρύτατον ἄχθος ἀνημμένῃ δυσεργότατον εἶπεν εἶναι. μετ’ ἐκεῖνο δὴ τὸ πνεῦμα οἱ ἄγγελοι πρὸς τὰς θυγατέρας τῶν ἀνθρώπων εἰσίασιν.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:a1f463722920f260cd160195c6a397aaabe5af0a87eca6854f7ce98f9c85ecc0",
+      "source_file_sha256": "e465ef5e4e88010e981ccd00cd01ab534925af95f7b5a287a1eaec5c656b125d",
+      "source_locator": {
+        "filename": "tlg0018.tlg008.1st1K-grc1.xml",
+        "reference": "2"
+      },
+      "korean": "앞에서는 신적인 영을 말하며, 육체의 무리를 가장 무거운 짐으로 짊어진, 여러 갈래와 모습으로 나뉜 영혼 안에 그 영이 영원히 머무는 것은 매우 어려운 일이라고 했다. 그러므로 천사들은 그 영이 떠난 뒤에 사람들의 딸들에게 들어간다.",
+      "translation_revision": "sha256:276653d13c42e4773c83bc3e87ad902e60335bbabe3bac54d8d8396f7f28e7ac",
+      "groups": [
+        {
+          "id": "a-cf9a75928ccbffcb5cb4",
+          "source_range": [
+            0,
+            169
+          ],
+          "ko_range": [
+            0,
+            93
+          ],
+          "source_text": "προείρηται δὲ περὶ θείου πνεύματος, ὃ καταμεῖναι μέχρι τοῦ παντὸς αἰῶνος ἐν πολυσχιδεῖ καὶ πολυμόρφῳ ψυχῇ σαρκῶν ὄχλον βαρύτατον ἄχθος ἀνημμένῃ δυσεργότατον εἶπεν εἶναι.",
+          "ko_text": "앞에서는 신적인 영을 말하며, 육체의 무리를 가장 무거운 짐으로 짊어진, 여러 갈래와 모습으로 나뉜 영혼 안에 그 영이 영원히 머무는 것은 매우 어려운 일이라고 했다."
+        },
+        {
+          "id": "a-fe5fe62d495146afe269",
+          "source_range": [
+            170,
+            247
+          ],
+          "ko_range": [
+            94,
+            130
+          ],
+          "source_text": "μετ’ ἐκεῖνο δὴ τὸ πνεῦμα οἱ ἄγγελοι πρὸς τὰς θυγατέρας τῶν ἀνθρώπων εἰσίασιν.",
+          "ko_text": "그러므로 천사들은 그 영이 떠난 뒤에 사람들의 딸들에게 들어간다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "deus:2",
+      "html_path": "works/deus/index.html#p-2",
+      "fixed_html_path": "releases/public-0.35/works/deus/index.html#p-2",
+      "alignment_revision": "sha256:f68e0f19a802f4ee5944b20ab5e84d98a441082fd43e59e5c4475838b7d91f64",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:a1f463722920f260cd160195c6a397aaabe5af0a87eca6854f7ce98f9c85ecc0",
+          "translation_revision": "sha256:276653d13c42e4773c83bc3e87ad902e60335bbabe3bac54d8d8396f7f28e7ac",
+          "alignment_revision": "sha256:f68e0f19a802f4ee5944b20ab5e84d98a441082fd43e59e5c4475838b7d91f64"
+        },
+        "scoped_ai_review": {
+          "id": "deus-addition-20261003",
+          "scope": "하나님의 불변성에 관하여 1-20절 전체, 21-183절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:a1f463722920f260cd160195c6a397aaabe5af0a87eca6854f7ce98f9c85ecc0",
+            "translation_revision": "sha256:276653d13c42e4773c83bc3e87ad902e60335bbabe3bac54d8d8396f7f28e7ac",
+            "alignment_revision": "sha256:f68e0f19a802f4ee5944b20ab5e84d98a441082fd43e59e5c4475838b7d91f64"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg008/tlg0018.tlg008.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0으로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "하나님의 불변성에 관하여",
+        "reference": "2",
+        "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
+        "release": "public-0.35",
+        "translation_revision": "sha256:276653d13c42e4773c83bc3e87ad902e60335bbabe3bac54d8d8396f7f28e7ac",
+        "fixed_path": "releases/public-0.35/works/deus/index.html#p-2"
+      }
+    },
+    {
+      "ref": "3",
+      "section": 3,
+      "original": "ἕως μὲν γὰρ ἐλλάμπουσι τῇ ψυχῇ καθαραὶ φρονήσεως αὐγαί, δι’ ὧν τὸν θεὸν καὶ τὰς αὐτοῦ δυνάμεις ὁρᾷ ὁ σοφός, οὐδεὶς τῶν ψευδαγγελούντων ἐπεισέρχεται τῷ λογισμῷ, ἀλλ’ ἔξω περιρραντηρίων ἅπαντες εἴργονται· ὅταν δὲ ἀμυδρωθὲν ἐπισκιασθῇ τὸ διανοίας φῶς, οἱ τοῦ σκότους ἑταῖροι παρευημερήσαντες πάθεσι τοῖς κατεαγόσι καὶ τεθηλυμμένοις, ἃς θυγατέρας εἴρηκεν ἀνθρώπων, συνέρχονται καὶ γεννῶσιν ἑαυτοῖς, οὐ τῷ θεῷ.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:8771ebee8acbdef8ec3d24e86cbfb611001564ee63f0445c3b7cc79175371273",
+      "source_file_sha256": "e465ef5e4e88010e981ccd00cd01ab534925af95f7b5a287a1eaec5c656b125d",
+      "source_locator": {
+        "filename": "tlg0018.tlg008.1st1K-grc1.xml",
+        "reference": "3"
+      },
+      "korean": "지혜로운 사람이 하나님과 그분의 능력들을 보는 분별의 맑은 빛이 영혼을 비추는 동안에는, 거짓 소식을 전하는 자는 아무도 생각 속으로 들어오지 못하고, 모두 정결수 그릇 바깥에 막혀 있다. 그러나 생각의 빛이 흐려져 그늘에 가려지면, 어둠의 동료들이 잠시 성공을 거두어, 그가 사람들의 딸들이라고 부른 나약하고 여성화된 감정들과 결합한다. 그리고 하나님을 위해서가 아니라 자기들을 위해 자식을 낳는다.",
+      "translation_revision": "sha256:6071faa2d8aaeb54925edf6706d1cb8ef6a1b02fd51bb0efac67d7be779b2c6b",
+      "groups": [
+        {
+          "id": "a-52116650a46af92aeec4",
+          "source_range": [
+            0,
+            107
+          ],
+          "ko_range": [
+            0,
+            49
+          ],
+          "source_text": "ἕως μὲν γὰρ ἐλλάμπουσι τῇ ψυχῇ καθαραὶ φρονήσεως αὐγαί, δι’ ὧν τὸν θεὸν καὶ τὰς αὐτοῦ δυνάμεις ὁρᾷ ὁ σοφός,",
+          "ko_text": "지혜로운 사람이 하나님과 그분의 능력들을 보는 분별의 맑은 빛이 영혼을 비추는 동안에는,"
+        },
+        {
+          "id": "a-8da3e86c359502872aee",
+          "source_range": [
+            108,
+            202
+          ],
+          "ko_range": [
+            50,
+            105
+          ],
+          "source_text": "οὐδεὶς τῶν ψευδαγγελούντων ἐπεισέρχεται τῷ λογισμῷ, ἀλλ’ ἔξω περιρραντηρίων ἅπαντες εἴργονται·",
+          "ko_text": "거짓 소식을 전하는 자는 아무도 생각 속으로 들어오지 못하고, 모두 정결수 그릇 바깥에 막혀 있다."
+        },
+        {
+          "id": "a-f1c2bdab53cee35169dc",
+          "source_range": [
+            203,
+            248
+          ],
+          "ko_range": [
+            106,
+            130
+          ],
+          "source_text": "ὅταν δὲ ἀμυδρωθὲν ἐπισκιασθῇ τὸ διανοίας φῶς,",
+          "ko_text": "그러나 생각의 빛이 흐려져 그늘에 가려지면,"
+        },
+        {
+          "id": "a-f982d8e47a5c54a2b5fe",
+          "source_range": [
+            249,
+            372
+          ],
+          "ko_range": [
+            131,
+            189
+          ],
+          "source_text": "οἱ τοῦ σκότους ἑταῖροι παρευημερήσαντες πάθεσι τοῖς κατεαγόσι καὶ τεθηλυμμένοις, ἃς θυγατέρας εἴρηκεν ἀνθρώπων, συνέρχονται",
+          "ko_text": "어둠의 동료들이 잠시 성공을 거두어, 그가 사람들의 딸들이라고 부른 나약하고 여성화된 감정들과 결합한다."
+        },
+        {
+          "id": "a-dd6c2d357661496c42ad",
+          "source_range": [
+            373,
+            405
+          ],
+          "ko_range": [
+            190,
+            224
+          ],
+          "source_text": "καὶ γεννῶσιν ἑαυτοῖς, οὐ τῷ θεῷ.",
+          "ko_text": "그리고 하나님을 위해서가 아니라 자기들을 위해 자식을 낳는다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "deus:3",
+      "html_path": "works/deus/index.html#p-3",
+      "fixed_html_path": "releases/public-0.35/works/deus/index.html#p-3",
+      "alignment_revision": "sha256:eb8b96a56c60cecdc5737ab8a7585fbddd3d0c2f78361163b520646081e2b7fb",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:8771ebee8acbdef8ec3d24e86cbfb611001564ee63f0445c3b7cc79175371273",
+          "translation_revision": "sha256:6071faa2d8aaeb54925edf6706d1cb8ef6a1b02fd51bb0efac67d7be779b2c6b",
+          "alignment_revision": "sha256:eb8b96a56c60cecdc5737ab8a7585fbddd3d0c2f78361163b520646081e2b7fb"
+        },
+        "scoped_ai_review": {
+          "id": "deus-addition-20261003",
+          "scope": "하나님의 불변성에 관하여 1-20절 전체, 21-183절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:8771ebee8acbdef8ec3d24e86cbfb611001564ee63f0445c3b7cc79175371273",
+            "translation_revision": "sha256:6071faa2d8aaeb54925edf6706d1cb8ef6a1b02fd51bb0efac67d7be779b2c6b",
+            "alignment_revision": "sha256:eb8b96a56c60cecdc5737ab8a7585fbddd3d0c2f78361163b520646081e2b7fb"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg008/tlg0018.tlg008.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0으로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "하나님의 불변성에 관하여",
+        "reference": "3",
+        "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
+        "release": "public-0.35",
+        "translation_revision": "sha256:6071faa2d8aaeb54925edf6706d1cb8ef6a1b02fd51bb0efac67d7be779b2c6b",
+        "fixed_path": "releases/public-0.35/works/deus/index.html#p-3"
+      }
+    },
+    {
+      "ref": "4",
+      "section": 4,
+      "original": "τὰ μὲν γὰρ οἰκεῖα τοῦ θεοῦ γεννήματα αἱ ὁλόκληροι ἀρεταί, τὰ δὲ συγγενῆ φαύλων αἱ ἀνάρμοστοι κακίαι. μάθε δ’, εἰ θέλεις, ὦ διάνοια, τὸ μὴ ἑαυτῇ γεννᾶν οἷόν ἐστι παρὰ Ἀβραὰμ τοῦ τελείου, ὃς τὸ ἀγαπητὸν καὶ μόνον τῆς ψυχῆς ἔγγονον γνήσιον, τῆς αὐτομαθοῦς σοφίας εἰκόνα ἐναργεστάτην, ἐπίκλησιν Ἰσαάκ, ἀνάγει θεῷ καὶ ἀποδίδωσι μετὰ πάσης εὐθυμίας ἀναγκαῖον καὶ ἁρμόττον χαριστήριον συμποδίσας, ὥς φησιν ὁ νόμος, τὸ καινουργηθὲν ἱερεῖον, ἤτοι παρ’ ὅσον ἐπ’ οὐδενὸς θνητοῦ βαίνειν ἅπαξ ἐπιθειάσας ἠξίου, ἢ παρ’ ὅσον ἀνίδρυτον καὶ ἄστατον κατεῖδε τὴν γένεσιν, ὅτε τὴν περὶ τὸ ὂν ἀνενδοίαστον ἔγνω βεβαιότητα, ᾗ λέγεται πεπιστευκέναι.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:b409b50dde2c7501d02d3aa90957379741699e7aeb3e34ec76dfd84a44edefbf",
+      "source_file_sha256": "e465ef5e4e88010e981ccd00cd01ab534925af95f7b5a287a1eaec5c656b125d",
+      "source_locator": {
+        "filename": "tlg0018.tlg008.1st1K-grc1.xml",
+        "reference": "4"
+      },
+      "encoded_page_breaks": [
+        "v.2.p.57"
+      ],
+      "korean": "하나님의 고유한 자손은 온전한 덕들이며, 악한 자들과 혈연인 것은 조화롭지 못한 악들이다. 생각아, 원한다면 자신을 위해 낳지 않는다는 것이 무엇인지 완전한 아브라함에게 배워라. 그는 영혼의 사랑받는 유일한 참 자식, 곧 스스로 배운 지혜의 가장 생생한 모상인 이삭을, 하나님께 올려 드리고 온전히 기쁜 마음으로 돌려드린다. 꼭 필요하고 알맞은 감사의 예물로 바치는 것이다. 율법이 말하듯, 그는 새롭게 마련된 제물의 두 발을 묶었다. 한 번 신적인 감동에 사로잡힌 뒤에는 어떤 죽을 것 위에도 발을 디디려 하지 않았기 때문이거나, 자신이 믿었다고 전해지는 실재하시는 분의 의심할 수 없는 확고함을 알고, 피조물이 안정되지 못하며 흔들림을 깨달았기 때문이다.",
+      "translation_revision": "sha256:d5d7437b149fd1f2c93b1db4e64584e99b48866bce6a8dfb113c96aa81d51a5a",
+      "groups": [
+        {
+          "id": "a-c0c652aff33537cfa342",
+          "source_range": [
+            0,
+            100
+          ],
+          "ko_range": [
+            0,
+            50
+          ],
+          "source_text": "τὰ μὲν γὰρ οἰκεῖα τοῦ θεοῦ γεννήματα αἱ ὁλόκληροι ἀρεταί, τὰ δὲ συγγενῆ φαύλων αἱ ἀνάρμοστοι κακίαι.",
+          "ko_text": "하나님의 고유한 자손은 온전한 덕들이며, 악한 자들과 혈연인 것은 조화롭지 못한 악들이다."
+        },
+        {
+          "id": "a-7d3495d65a7ce53b522f",
+          "source_range": [
+            101,
+            185
+          ],
+          "ko_range": [
+            51,
+            99
+          ],
+          "source_text": "μάθε δ’, εἰ θέλεις, ὦ διάνοια, τὸ μὴ ἑαυτῇ γεννᾶν οἷόν ἐστι παρὰ Ἀβραὰμ τοῦ τελείου,",
+          "ko_text": "생각아, 원한다면 자신을 위해 낳지 않는다는 것이 무엇인지 완전한 아브라함에게 배워라."
+        },
+        {
+          "id": "a-cda647b0c5036c127d65",
+          "source_range": [
+            186,
+            297
+          ],
+          "ko_range": [
+            100,
+            150
+          ],
+          "source_text": "ὃς τὸ ἀγαπητὸν καὶ μόνον τῆς ψυχῆς ἔγγονον γνήσιον, τῆς αὐτομαθοῦς σοφίας εἰκόνα ἐναργεστάτην, ἐπίκλησιν Ἰσαάκ,",
+          "ko_text": "그는 영혼의 사랑받는 유일한 참 자식, 곧 스스로 배운 지혜의 가장 생생한 모상인 이삭을,"
+        },
+        {
+          "id": "a-e68b25748814ddeaf9eb",
+          "source_range": [
+            298,
+            377
+          ],
+          "ko_range": [
+            151,
+            209
+          ],
+          "source_text": "ἀνάγει θεῷ καὶ ἀποδίδωσι μετὰ πάσης εὐθυμίας ἀναγκαῖον καὶ ἁρμόττον χαριστήριον",
+          "ko_text": "하나님께 올려 드리고 온전히 기쁜 마음으로 돌려드린다. 꼭 필요하고 알맞은 감사의 예물로 바치는 것이다."
+        },
+        {
+          "id": "a-2af8ab4edb451c2c7405",
+          "source_range": [
+            378,
+            432
+          ],
+          "ko_range": [
+            210,
+            243
+          ],
+          "source_text": "συμποδίσας, ὥς φησιν ὁ νόμος, τὸ καινουργηθὲν ἱερεῖον,",
+          "ko_text": "율법이 말하듯, 그는 새롭게 마련된 제물의 두 발을 묶었다."
+        },
+        {
+          "id": "a-95d0f93fe65c090a4f87",
+          "source_range": [
+            433,
+            497
+          ],
+          "ko_range": [
+            244,
+            297
+          ],
+          "source_text": "ἤτοι παρ’ ὅσον ἐπ’ οὐδενὸς θνητοῦ βαίνειν ἅπαξ ἐπιθειάσας ἠξίου,",
+          "ko_text": "한 번 신적인 감동에 사로잡힌 뒤에는 어떤 죽을 것 위에도 발을 디디려 하지 않았기 때문이거나,"
+        },
+        {
+          "id": "a-9e361cb11852c71633fa",
+          "source_range": [
+            498,
+            626
+          ],
+          "ko_range": [
+            298,
+            368
+          ],
+          "source_text": "ἢ παρ’ ὅσον ἀνίδρυτον καὶ ἄστατον κατεῖδε τὴν γένεσιν, ὅτε τὴν περὶ τὸ ὂν ἀνενδοίαστον ἔγνω βεβαιότητα, ᾗ λέγεται πεπιστευκέναι.",
+          "ko_text": "자신이 믿었다고 전해지는 실재하시는 분의 의심할 수 없는 확고함을 알고, 피조물이 안정되지 못하며 흔들림을 깨달았기 때문이다."
+        }
+      ],
+      "notes": [
+        "아브라함이 이삭을 하나님께 돌려드리는 일을 자신을 위해 낳는 태도와 대조한다. 필론은 이삭을 스스로 배운 지혜의 모상으로 설명한다."
+      ],
+      "work_passage_id": "deus:4",
+      "html_path": "works/deus/index.html#p-4",
+      "fixed_html_path": "releases/public-0.35/works/deus/index.html#p-4",
+      "alignment_revision": "sha256:34650f003fc397475a322403264e23fa76d1b0810f424b1b0448194bfc7031de",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:b409b50dde2c7501d02d3aa90957379741699e7aeb3e34ec76dfd84a44edefbf",
+          "translation_revision": "sha256:d5d7437b149fd1f2c93b1db4e64584e99b48866bce6a8dfb113c96aa81d51a5a",
+          "alignment_revision": "sha256:34650f003fc397475a322403264e23fa76d1b0810f424b1b0448194bfc7031de"
+        },
+        "scoped_ai_review": {
+          "id": "deus-addition-20261003",
+          "scope": "하나님의 불변성에 관하여 1-20절 전체, 21-183절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:b409b50dde2c7501d02d3aa90957379741699e7aeb3e34ec76dfd84a44edefbf",
+            "translation_revision": "sha256:d5d7437b149fd1f2c93b1db4e64584e99b48866bce6a8dfb113c96aa81d51a5a",
+            "alignment_revision": "sha256:34650f003fc397475a322403264e23fa76d1b0810f424b1b0448194bfc7031de"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg008/tlg0018.tlg008.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0으로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "하나님의 불변성에 관하여",
+        "reference": "4",
+        "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
+        "release": "public-0.35",
+        "translation_revision": "sha256:d5d7437b149fd1f2c93b1db4e64584e99b48866bce6a8dfb113c96aa81d51a5a",
+        "fixed_path": "releases/public-0.35/works/deus/index.html#p-4"
+      }
+    },
+    {
+      "ref": "5",
+      "section": 5,
+      "original": "τούτου γίνεται μαθητρὶς καὶ διάδοχος Ἄννα, τῆς τοῦ θεοῦ δώρημα σοφίας· ἑρμηνεύεται γὰρ χάρις αὐτῆς. ἐπειδὴ γὰρ ἐγκύμων ἐγένετο παραδεξαμένη θείας γονὰς καὶ τελεσφόροις ἐχρήσατο ὠδῖσι, τὸν τεταγμένον ἐν τῇ τοῦ θεοῦ τάξει τρόπον ἀποκυήσασα, ὃν ἐπεφήμισε Σαμουήλ - καλεῖται δ’ ἑρμηνευθεὶς τεταγμένος θεῷ -, λαβοῦσα ἀνταποδίδωσι τῷ δόντι μηδὲν ἴδιον ἑαυτῆς κρίνουσα ἀγαθόν, ὃ μὴ χάρις ἐστὶ θεία.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:b4d6bd3a609979e03e874a3be94653719ceaa46498b282252bf15423ceff459f",
+      "source_file_sha256": "e465ef5e4e88010e981ccd00cd01ab534925af95f7b5a287a1eaec5c656b125d",
+      "source_locator": {
+        "filename": "tlg0018.tlg008.1st1K-grc1.xml",
+        "reference": "5"
+      },
+      "korean": "하나님의 지혜가 준 선물인 한나도 그의 제자이자 계승자가 된다. 한나는 그 지혜의 은혜로 풀이되기 때문이다. 그녀는 신적인 씨를 받아 임신하고 결실을 낳는 진통을 겪은 뒤, 하나님의 대열에 배치된 성품을 낳아 사무엘이라고 이름 붙였다. 사무엘은 하나님께 배치된 이로 풀이된다. 그녀는 그를 받아서 주신 분께 돌려드린다. 신적인 은혜가 아닌 어떤 선도 자기의 것이라고 여기지 않기 때문이다.",
+      "translation_revision": "sha256:6d1f16cba8bffcef397ee52236af3bb6ae77549f7b1cb306352dc64c05f0a873",
+      "groups": [
+        {
+          "id": "a-46cc231dc5ccd85c10d0",
+          "source_range": [
+            0,
+            70
+          ],
+          "ko_range": [
+            0,
+            35
+          ],
+          "source_text": "τούτου γίνεται μαθητρὶς καὶ διάδοχος Ἄννα, τῆς τοῦ θεοῦ δώρημα σοφίας·",
+          "ko_text": "하나님의 지혜가 준 선물인 한나도 그의 제자이자 계승자가 된다."
+        },
+        {
+          "id": "a-49f41696dd381fd8d032",
+          "source_range": [
+            71,
+            99
+          ],
+          "ko_range": [
+            36,
+            60
+          ],
+          "source_text": "ἑρμηνεύεται γὰρ χάρις αὐτῆς.",
+          "ko_text": "한나는 그 지혜의 은혜로 풀이되기 때문이다."
+        },
+        {
+          "id": "a-4d911073a5d3866be4c8",
+          "source_range": [
+            100,
+            183
+          ],
+          "ko_range": [
+            61,
+            96
+          ],
+          "source_text": "ἐπειδὴ γὰρ ἐγκύμων ἐγένετο παραδεξαμένη θείας γονὰς καὶ τελεσφόροις ἐχρήσατο ὠδῖσι,",
+          "ko_text": "그녀는 신적인 씨를 받아 임신하고 결실을 낳는 진통을 겪은 뒤,"
+        },
+        {
+          "id": "a-2e0b04d17a76d6c462ed",
+          "source_range": [
+            184,
+            259
+          ],
+          "ko_range": [
+            97,
+            131
+          ],
+          "source_text": "τὸν τεταγμένον ἐν τῇ τοῦ θεοῦ τάξει τρόπον ἀποκυήσασα, ὃν ἐπεφήμισε Σαμουήλ",
+          "ko_text": "하나님의 대열에 배치된 성품을 낳아 사무엘이라고 이름 붙였다."
+        },
+        {
+          "id": "a-b58ad438bd3bb54b6a2b",
+          "source_range": [
+            260,
+            303
+          ],
+          "ko_range": [
+            132,
+            154
+          ],
+          "source_text": "- καλεῖται δ’ ἑρμηνευθεὶς τεταγμένος θεῷ -,",
+          "ko_text": "사무엘은 하나님께 배치된 이로 풀이된다."
+        },
+        {
+          "id": "a-0866fc0df4ae68aca294",
+          "source_range": [
+            304,
+            333
+          ],
+          "ko_range": [
+            155,
+            178
+          ],
+          "source_text": "λαβοῦσα ἀνταποδίδωσι τῷ δόντι",
+          "ko_text": "그녀는 그를 받아서 주신 분께 돌려드린다."
+        },
+        {
+          "id": "a-c9378ae338c92d31fa36",
+          "source_range": [
+            334,
+            391
+          ],
+          "ko_range": [
+            179,
+            217
+          ],
+          "source_text": "μηδὲν ἴδιον ἑαυτῆς κρίνουσα ἀγαθόν, ὃ μὴ χάρις ἐστὶ θεία.",
+          "ko_text": "신적인 은혜가 아닌 어떤 선도 자기의 것이라고 여기지 않기 때문이다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "deus:5",
+      "html_path": "works/deus/index.html#p-5",
+      "fixed_html_path": "releases/public-0.35/works/deus/index.html#p-5",
+      "alignment_revision": "sha256:0dfd4b477443dda89f8b2a403941ac2026a95a9f9735e3766f5d7ae6dc0ca76a",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:b4d6bd3a609979e03e874a3be94653719ceaa46498b282252bf15423ceff459f",
+          "translation_revision": "sha256:6d1f16cba8bffcef397ee52236af3bb6ae77549f7b1cb306352dc64c05f0a873",
+          "alignment_revision": "sha256:0dfd4b477443dda89f8b2a403941ac2026a95a9f9735e3766f5d7ae6dc0ca76a"
+        },
+        "scoped_ai_review": {
+          "id": "deus-addition-20261003",
+          "scope": "하나님의 불변성에 관하여 1-20절 전체, 21-183절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:b4d6bd3a609979e03e874a3be94653719ceaa46498b282252bf15423ceff459f",
+            "translation_revision": "sha256:6d1f16cba8bffcef397ee52236af3bb6ae77549f7b1cb306352dc64c05f0a873",
+            "alignment_revision": "sha256:0dfd4b477443dda89f8b2a403941ac2026a95a9f9735e3766f5d7ae6dc0ca76a"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg008/tlg0018.tlg008.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0으로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "하나님의 불변성에 관하여",
+        "reference": "5",
+        "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
+        "release": "public-0.35",
+        "translation_revision": "sha256:6d1f16cba8bffcef397ee52236af3bb6ae77549f7b1cb306352dc64c05f0a873",
+        "fixed_path": "releases/public-0.35/works/deus/index.html#p-5"
+      }
+    },
+    {
+      "ref": "6",
+      "section": 6,
+      "original": "λέγει γὰρ ἐν τῇ πρώτῃ τῶν βασιλειῶν αὕτη τὸν τρόπον τοῦτον· “δίδωμί σοι αὐτὸν δοτόν”, ἐν ἴσῳ τῷ δοτὸν ὄντα, ὥστ’ εἶναι “τὸν δεδομένον δίδωμι”, κατὰ τὸ ἱερώτατον Μωυσέως γράμμα τοῦτο· “τὰ δῶρά μου, δόματά μου, καρπώματά μου διατηρήσετε προσφέρειν ἐμοί”",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:a435f7b9ed068f6fc9c249df17cfe4fb2ac08ca6faa6fbda1075faf7d88338e7",
+      "source_file_sha256": "e465ef5e4e88010e981ccd00cd01ab534925af95f7b5a287a1eaec5c656b125d",
+      "source_locator": {
+        "filename": "tlg0018.tlg008.1st1K-grc1.xml",
+        "reference": "6"
+      },
+      "korean": "그녀는 왕국기 제1서에서 이렇게 말한다. “그를 주어진 선물로 당신께 드립니다.” 이는 그가 주어진 자라는 뜻이므로, “주어진 자를 제가 드립니다”라는 말이 된다. 모세의 가장 거룩한 다음 기록에 따른 것이다. “나의 예물, 나에게 바칠 선물, 나의 화제를 지켜 내게 바쳐라.”",
+      "translation_revision": "sha256:ee2ab296e872c700d946e1116689c3bf1677b912b6b8ace43bf6f375a55e732b",
+      "groups": [
+        {
+          "id": "a-3021dd62558fe75f246f",
+          "source_range": [
+            0,
+            85
+          ],
+          "ko_range": [
+            0,
+            45
+          ],
+          "source_text": "λέγει γὰρ ἐν τῇ πρώτῃ τῶν βασιλειῶν αὕτη τὸν τρόπον τοῦτον· “δίδωμί σοι αὐτὸν δοτόν”,",
+          "ko_text": "그녀는 왕국기 제1서에서 이렇게 말한다. “그를 주어진 선물로 당신께 드립니다.”"
+        },
+        {
+          "id": "a-bca8411231bda541135e",
+          "source_range": [
+            86,
+            142
+          ],
+          "ko_range": [
+            46,
+            91
+          ],
+          "source_text": "ἐν ἴσῳ τῷ δοτὸν ὄντα, ὥστ’ εἶναι “τὸν δεδομένον δίδωμι”,",
+          "ko_text": "이는 그가 주어진 자라는 뜻이므로, “주어진 자를 제가 드립니다”라는 말이 된다."
+        },
+        {
+          "id": "a-6258d48dd018b9a4051d",
+          "source_range": [
+            143,
+            182
+          ],
+          "ko_range": [
+            92,
+            117
+          ],
+          "source_text": "κατὰ τὸ ἱερώτατον Μωυσέως γράμμα τοῦτο·",
+          "ko_text": "모세의 가장 거룩한 다음 기록에 따른 것이다."
+        },
+        {
+          "id": "a-5f8b5d6d22d2c0210d7f",
+          "source_range": [
+            183,
+            251
+          ],
+          "ko_range": [
+            118,
+            155
+          ],
+          "source_text": "“τὰ δῶρά μου, δόματά μου, καρπώματά μου διατηρήσετε προσφέρειν ἐμοί”",
+          "ko_text": "“나의 예물, 나에게 바칠 선물, 나의 화제를 지켜 내게 바쳐라.”"
+        }
+      ],
+      "notes": [
+        "한나의 말에서 δοτός, δεδομένος, δίδωμι라는 주다의 동족어를 잇는다. 이미 주어진 이를 드린다는 논리이며, 민수기 28.2의 내 예물을 내게 바치라는 인용이 뒤따른다."
+      ],
+      "work_passage_id": "deus:6",
+      "html_path": "works/deus/index.html#p-6",
+      "fixed_html_path": "releases/public-0.35/works/deus/index.html#p-6",
+      "alignment_revision": "sha256:cb51df1a17c14c2f1d93f62bc017986659f69f5c7f568496b3ebfd59bdac0872",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:a435f7b9ed068f6fc9c249df17cfe4fb2ac08ca6faa6fbda1075faf7d88338e7",
+          "translation_revision": "sha256:ee2ab296e872c700d946e1116689c3bf1677b912b6b8ace43bf6f375a55e732b",
+          "alignment_revision": "sha256:cb51df1a17c14c2f1d93f62bc017986659f69f5c7f568496b3ebfd59bdac0872"
+        },
+        "scoped_ai_review": {
+          "id": "deus-addition-20261003",
+          "scope": "하나님의 불변성에 관하여 1-20절 전체, 21-183절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:a435f7b9ed068f6fc9c249df17cfe4fb2ac08ca6faa6fbda1075faf7d88338e7",
+            "translation_revision": "sha256:ee2ab296e872c700d946e1116689c3bf1677b912b6b8ace43bf6f375a55e732b",
+            "alignment_revision": "sha256:cb51df1a17c14c2f1d93f62bc017986659f69f5c7f568496b3ebfd59bdac0872"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg008/tlg0018.tlg008.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0으로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "하나님의 불변성에 관하여",
+        "reference": "6",
+        "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
+        "release": "public-0.35",
+        "translation_revision": "sha256:ee2ab296e872c700d946e1116689c3bf1677b912b6b8ace43bf6f375a55e732b",
+        "fixed_path": "releases/public-0.35/works/deus/index.html#p-6"
+      }
+    },
+    {
+      "ref": "7",
+      "section": 7,
+      "original": "τίνι γὰρ εὐχαριστητέον ἄλλῳ πλὴν θεῷ; διὰ τίνων δὲ ὅτι μὴ διὰ τῶν ὑπ’ αὐτοῦ δοθέντων; οὐδὲ γὰρ ἄλλων εὐπορῆσαι δυνατόν. χρεῖος δ’ οὐδενὸς ὢν κελεύει προσφέρειν αὑτῷ τὰ ἑαυτοῦ δι’ ὑπερβολὴν τῆς πρὸς τὸ γένος ἡμῶν εὐεργεσίας· μελετήσαντες γὰρ εὐχαριστητικῶς ἔχειν καὶ τιμητικῶς αὐτοῦ καθαρεύσομεν ἀδικημάτων ἐκνιψάμενοι τὰ καταρρυπαίνοντα τὸν βίον ἔν τε λόγοις καὶ ἐννοίαις καὶ ἔργοις.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:529898b60fb2eb6d083909ec567866e021b9457d2534e0075e5ee6f56e4a232c",
+      "source_file_sha256": "e465ef5e4e88010e981ccd00cd01ab534925af95f7b5a287a1eaec5c656b125d",
+      "source_locator": {
+        "filename": "tlg0018.tlg008.1st1K-grc1.xml",
+        "reference": "7"
+      },
+      "encoded_page_breaks": [
+        "v.2.p.58"
+      ],
+      "korean": "하나님 외에 누구에게 감사해야 하겠는가? 그분이 주신 것들 외에 무엇을 통해 감사하겠는가? 다른 것을 마련할 수도 없기 때문이다. 그분은 아무것도 필요하지 않으시면서도, 우리 인류에게 넘치도록 은혜를 베푸시기에 자신의 것을 자신에게 바치라고 명하신다. 우리가 그분께 감사하고 공경하는 태도를 연습하면, 말과 생각과 행위로 삶을 더럽히는 것들을 씻어 내어, 잘못에서 깨끗해질 것이기 때문이다.",
+      "translation_revision": "sha256:1e392d449c14ff72f0f22e1dce9448304385c40d8b8f362ee592ab01c58eb62d",
+      "groups": [
+        {
+          "id": "a-2057eab50e920677a087",
+          "source_range": [
+            0,
+            37
+          ],
+          "ko_range": [
+            0,
+            22
+          ],
+          "source_text": "τίνι γὰρ εὐχαριστητέον ἄλλῳ πλὴν θεῷ;",
+          "ko_text": "하나님 외에 누구에게 감사해야 하겠는가?"
+        },
+        {
+          "id": "a-b25566ce4d4ac47200e5",
+          "source_range": [
+            38,
+            85
+          ],
+          "ko_range": [
+            23,
+            50
+          ],
+          "source_text": "διὰ τίνων δὲ ὅτι μὴ διὰ τῶν ὑπ’ αὐτοῦ δοθέντων;",
+          "ko_text": "그분이 주신 것들 외에 무엇을 통해 감사하겠는가?"
+        },
+        {
+          "id": "a-229c61b150dccc6fa2a8",
+          "source_range": [
+            86,
+            119
+          ],
+          "ko_range": [
+            51,
+            72
+          ],
+          "source_text": "οὐδὲ γὰρ ἄλλων εὐπορῆσαι δυνατόν.",
+          "ko_text": "다른 것을 마련할 수도 없기 때문이다."
+        },
+        {
+          "id": "a-b2aa7763dceb5a38bb9e",
+          "source_range": [
+            120,
+            223
+          ],
+          "ko_range": [
+            73,
+            140
+          ],
+          "source_text": "χρεῖος δ’ οὐδενὸς ὢν κελεύει προσφέρειν αὑτῷ τὰ ἑαυτοῦ δι’ ὑπερβολὴν τῆς πρὸς τὸ γένος ἡμῶν εὐεργεσίας·",
+          "ko_text": "그분은 아무것도 필요하지 않으시면서도, 우리 인류에게 넘치도록 은혜를 베푸시기에 자신의 것을 자신에게 바치라고 명하신다."
+        },
+        {
+          "id": "a-615f2a722dc38e7f8ad9",
+          "source_range": [
+            224,
+            281
+          ],
+          "ko_range": [
+            141,
+            168
+          ],
+          "source_text": "μελετήσαντες γὰρ εὐχαριστητικῶς ἔχειν καὶ τιμητικῶς αὐτοῦ",
+          "ko_text": "우리가 그분께 감사하고 공경하는 태도를 연습하면,"
+        },
+        {
+          "id": "a-aa20f3735fb3c06e97b5",
+          "source_range": [
+            282,
+            383
+          ],
+          "ko_range": [
+            169,
+            218
+          ],
+          "source_text": "καθαρεύσομεν ἀδικημάτων ἐκνιψάμενοι τὰ καταρρυπαίνοντα τὸν βίον ἔν τε λόγοις καὶ ἐννοίαις καὶ ἔργοις.",
+          "ko_text": "말과 생각과 행위로 삶을 더럽히는 것들을 씻어 내어, 잘못에서 깨끗해질 것이기 때문이다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "deus:7",
+      "html_path": "works/deus/index.html#p-7",
+      "fixed_html_path": "releases/public-0.35/works/deus/index.html#p-7",
+      "alignment_revision": "sha256:e21654f6fdd062ef3b30cff26ee1bf744fc288b17e4b0dda7652ea0d60f096ef",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:529898b60fb2eb6d083909ec567866e021b9457d2534e0075e5ee6f56e4a232c",
+          "translation_revision": "sha256:1e392d449c14ff72f0f22e1dce9448304385c40d8b8f362ee592ab01c58eb62d",
+          "alignment_revision": "sha256:e21654f6fdd062ef3b30cff26ee1bf744fc288b17e4b0dda7652ea0d60f096ef"
+        },
+        "scoped_ai_review": {
+          "id": "deus-addition-20261003",
+          "scope": "하나님의 불변성에 관하여 1-20절 전체, 21-183절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:529898b60fb2eb6d083909ec567866e021b9457d2534e0075e5ee6f56e4a232c",
+            "translation_revision": "sha256:1e392d449c14ff72f0f22e1dce9448304385c40d8b8f362ee592ab01c58eb62d",
+            "alignment_revision": "sha256:e21654f6fdd062ef3b30cff26ee1bf744fc288b17e4b0dda7652ea0d60f096ef"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg008/tlg0018.tlg008.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0으로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "하나님의 불변성에 관하여",
+        "reference": "7",
+        "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
+        "release": "public-0.35",
+        "translation_revision": "sha256:1e392d449c14ff72f0f22e1dce9448304385c40d8b8f362ee592ab01c58eb62d",
+        "fixed_path": "releases/public-0.35/works/deus/index.html#p-7"
+      }
+    },
+    {
+      "ref": "8",
+      "section": 8,
+      "original": "καὶ γὰρ εὔηθες εἰς μὲν τὰ ἱερὰ μὴ ἐξεῖναι βαδίζειν, ὃς ἂν μὴ πρότερον λουσάμενος φαιδρύνηται τὸ σῶμα, εὔχεσθαι δὲ καὶ θύειν ἐπιχειρεῖν ἔτι κεκηλιδωμένῃ καὶ πεφυρμένῃ διανοίᾳ. καίτοι τὰ μὲν ἱερὰ λίθων καὶ ξύλων ἀψύχου τῆς ὕλης πεποίηται, καθ’ αὑτὸ δὲ καὶ τὸ σῶμα ἄψυχον· ἀλλ’ ὅμως ὂν ἄψυχον ἀψύχων οὐ προσάψεται μὴ περιρραντηρίοις καὶ καθαρσίοις ἁγνευτικοῖς χρησάμενον, ὑπομενεῖ δέ τις τῷ θεῷ προσελθεῖν ἀκάθαρτος ὢν ψυχὴν τὴν ἑαυτοῦ τῷ καθαρωτάτῳ, καὶ ταῦτα μὴ μέλλων μετανοήσειν;",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:e12b98d98f080149749fc43e30710ac76a1849fb0b75fa8f3843bd0cf8c1f2bf",
+      "source_file_sha256": "e465ef5e4e88010e981ccd00cd01ab534925af95f7b5a287a1eaec5c656b125d",
+      "source_locator": {
+        "filename": "tlg0018.tlg008.1st1K-grc1.xml",
+        "reference": "8"
+      },
+      "korean": "먼저 몸을 씻어 깨끗하게 하지 않으면 성소에 들어가게 하지 않으면서, 생각은 여전히 더러워지고 오염된 채로 기도하고 제사하려는 것은 어리석다. 성소는 생명 없는 재료인 돌과 나무로 만들어졌고, 몸도 그 자체로는 생명이 없다. 그런데도 생명 없는 몸이 정결수와 정화 의식을 사용하지 않고는 생명 없는 성소에 닿지 못한다. 그렇다면 자기 영혼이 더러운 사람이 가장 깨끗하신 하나님께 나아가려 하겠는가? 더욱이 회개할 생각도 없이 그러겠는가?",
+      "translation_revision": "sha256:10bf7655eed8f93ed9f883fbad2d8488bd12215827c1ccc834aac05c39ef2f0a",
+      "groups": [
+        {
+          "id": "a-3801c00bdb91bdc64c7a",
+          "source_range": [
+            0,
+            101
+          ],
+          "ko_range": [
+            0,
+            38
+          ],
+          "source_text": "καὶ γὰρ εὔηθες εἰς μὲν τὰ ἱερὰ μὴ ἐξεῖναι βαδίζειν, ὃς ἂν μὴ πρότερον λουσάμενος φαιδρύνηται τὸ σῶμα,",
+          "ko_text": "먼저 몸을 씻어 깨끗하게 하지 않으면 성소에 들어가게 하지 않으면서,"
+        },
+        {
+          "id": "a-eb9b1c56c39536001d48",
+          "source_range": [
+            102,
+            174
+          ],
+          "ko_range": [
+            39,
+            79
+          ],
+          "source_text": "εὔχεσθαι δὲ καὶ θύειν ἐπιχειρεῖν ἔτι κεκηλιδωμένῃ καὶ πεφυρμένῃ διανοίᾳ.",
+          "ko_text": "생각은 여전히 더러워지고 오염된 채로 기도하고 제사하려는 것은 어리석다."
+        },
+        {
+          "id": "a-f185b1366caa6b93a2d1",
+          "source_range": [
+            175,
+            269
+          ],
+          "ko_range": [
+            80,
+            125
+          ],
+          "source_text": "καίτοι τὰ μὲν ἱερὰ λίθων καὶ ξύλων ἀψύχου τῆς ὕλης πεποίηται, καθ’ αὑτὸ δὲ καὶ τὸ σῶμα ἄψυχον·",
+          "ko_text": "성소는 생명 없는 재료인 돌과 나무로 만들어졌고, 몸도 그 자체로는 생명이 없다."
+        },
+        {
+          "id": "a-b161d8765b619d8bd28d",
+          "source_range": [
+            270,
+            368
+          ],
+          "ko_range": [
+            126,
+            178
+          ],
+          "source_text": "ἀλλ’ ὅμως ὂν ἄψυχον ἀψύχων οὐ προσάψεται μὴ περιρραντηρίοις καὶ καθαρσίοις ἁγνευτικοῖς χρησάμενον,",
+          "ko_text": "그런데도 생명 없는 몸이 정결수와 정화 의식을 사용하지 않고는 생명 없는 성소에 닿지 못한다."
+        },
+        {
+          "id": "a-ff98aaf5af4be035f90f",
+          "source_range": [
+            369,
+            480
+          ],
+          "ko_range": [
+            179,
+            244
+          ],
+          "source_text": "ὑπομενεῖ δέ τις τῷ θεῷ προσελθεῖν ἀκάθαρτος ὢν ψυχὴν τὴν ἑαυτοῦ τῷ καθαρωτάτῳ, καὶ ταῦτα μὴ μέλλων μετανοήσειν;",
+          "ko_text": "그렇다면 자기 영혼이 더러운 사람이 가장 깨끗하신 하나님께 나아가려 하겠는가? 더욱이 회개할 생각도 없이 그러겠는가?"
+        }
+      ],
+      "notes": [
+        "몸의 세정과 영혼의 정결을 비교한다. 9절에서 하나님께 나아가는 이의 조건은 새 악을 더하지 않고 이전의 악을 씻어 내려는 결심이다."
+      ],
+      "work_passage_id": "deus:8",
+      "html_path": "works/deus/index.html#p-8",
+      "fixed_html_path": "releases/public-0.35/works/deus/index.html#p-8",
+      "alignment_revision": "sha256:3b01888f59128a4566e55bf637fb5a3fd23340caceea2e0d79908e5ab66e4cd1",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:e12b98d98f080149749fc43e30710ac76a1849fb0b75fa8f3843bd0cf8c1f2bf",
+          "translation_revision": "sha256:10bf7655eed8f93ed9f883fbad2d8488bd12215827c1ccc834aac05c39ef2f0a",
+          "alignment_revision": "sha256:3b01888f59128a4566e55bf637fb5a3fd23340caceea2e0d79908e5ab66e4cd1"
+        },
+        "scoped_ai_review": {
+          "id": "deus-addition-20261003",
+          "scope": "하나님의 불변성에 관하여 1-20절 전체, 21-183절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:e12b98d98f080149749fc43e30710ac76a1849fb0b75fa8f3843bd0cf8c1f2bf",
+            "translation_revision": "sha256:10bf7655eed8f93ed9f883fbad2d8488bd12215827c1ccc834aac05c39ef2f0a",
+            "alignment_revision": "sha256:3b01888f59128a4566e55bf637fb5a3fd23340caceea2e0d79908e5ab66e4cd1"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg008/tlg0018.tlg008.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0으로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "하나님의 불변성에 관하여",
+        "reference": "8",
+        "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
+        "release": "public-0.35",
+        "translation_revision": "sha256:10bf7655eed8f93ed9f883fbad2d8488bd12215827c1ccc834aac05c39ef2f0a",
+        "fixed_path": "releases/public-0.35/works/deus/index.html#p-8"
+      }
+    },
+    {
+      "ref": "9",
+      "section": 9,
+      "original": "ὁ μὲν γὰρ πρὸς τῷ μηδὲν ἐπεξεργάσασθαι κακὸν καὶ τὰ παλαιὰ ἐκνίψασθαι δικαιώσας γεγηθὼς προσίτω, ὁ δ’ ἄνευ τούτων δυσκάθαρτος ὢν ἀφιστάσθω· λήσεται γὰρ οὐδέποτε τὸν τὰ ἐν μυχοῖς τῆς διανοίας",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:18050cbd70cb6c817303e654400b7e445b9206eb16c968d6c02e6ef09195dad7",
+      "source_file_sha256": "e465ef5e4e88010e981ccd00cd01ab534925af95f7b5a287a1eaec5c656b125d",
+      "source_locator": {
+        "filename": "tlg0018.tlg008.1st1K-grc1.xml",
+        "reference": "9"
+      },
+      "korean": "더는 악을 저지르지 않고 지난 악도 씻어 내기로 결심한 사람은 기뻐하며 나아가라. 그런 결심 없이 깨끗해지기 어려운 상태인 사람은 물러서라. 그는 생각의 깊은 곳을",
+      "translation_revision": "sha256:d466fdc1420f82bf9d445a6d183b0663535e3977fa648eb0a6d87437c25f1b0c",
+      "groups": [
+        {
+          "id": "a-c6eab1e988ccc7492319",
+          "source_range": [
+            0,
+            96
+          ],
+          "ko_range": [
+            0,
+            45
+          ],
+          "source_text": "ὁ μὲν γὰρ πρὸς τῷ μηδὲν ἐπεξεργάσασθαι κακὸν καὶ τὰ παλαιὰ ἐκνίψασθαι δικαιώσας γεγηθὼς προσίτω,",
+          "ko_text": "더는 악을 저지르지 않고 지난 악도 씻어 내기로 결심한 사람은 기뻐하며 나아가라."
+        },
+        {
+          "id": "a-825db68f91f14c64dd96",
+          "source_range": [
+            97,
+            139
+          ],
+          "ko_range": [
+            46,
+            78
+          ],
+          "source_text": "ὁ δ’ ἄνευ τούτων δυσκάθαρτος ὢν ἀφιστάσθω·",
+          "ko_text": "그런 결심 없이 깨끗해지기 어려운 상태인 사람은 물러서라."
+        },
+        {
+          "id": "a-ad09bcfd8ebcb46d9d13",
+          "source_range": [
+            140,
+            190
+          ],
+          "ko_range": [
+            79,
+            91
+          ],
+          "source_text": "λήσεται γὰρ οὐδέποτε τὸν τὰ ἐν μυχοῖς τῆς διανοίας",
+          "ko_text": "그는 생각의 깊은 곳을"
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "deus:9",
+      "html_path": "works/deus/index.html#p-9",
+      "fixed_html_path": "releases/public-0.35/works/deus/index.html#p-9",
+      "alignment_revision": "sha256:900f13f8fdf271769f0a4a0386986d98497a5cf54662ef4f1103f9a52f9e5944",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:18050cbd70cb6c817303e654400b7e445b9206eb16c968d6c02e6ef09195dad7",
+          "translation_revision": "sha256:d466fdc1420f82bf9d445a6d183b0663535e3977fa648eb0a6d87437c25f1b0c",
+          "alignment_revision": "sha256:900f13f8fdf271769f0a4a0386986d98497a5cf54662ef4f1103f9a52f9e5944"
+        },
+        "scoped_ai_review": {
+          "id": "deus-addition-20261003",
+          "scope": "하나님의 불변성에 관하여 1-20절 전체, 21-183절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:18050cbd70cb6c817303e654400b7e445b9206eb16c968d6c02e6ef09195dad7",
+            "translation_revision": "sha256:d466fdc1420f82bf9d445a6d183b0663535e3977fa648eb0a6d87437c25f1b0c",
+            "alignment_revision": "sha256:900f13f8fdf271769f0a4a0386986d98497a5cf54662ef4f1103f9a52f9e5944"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg008/tlg0018.tlg008.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0으로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "하나님의 불변성에 관하여",
+        "reference": "9",
+        "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
+        "release": "public-0.35",
+        "translation_revision": "sha256:d466fdc1420f82bf9d445a6d183b0663535e3977fa648eb0a6d87437c25f1b0c",
+        "fixed_path": "releases/public-0.35/works/deus/index.html#p-9"
+      }
+    },
+    {
+      "ref": "10",
+      "section": 10,
+      "original": "ὁρῶντα καὶ τοῖς ἀδύτοις αὐτῆς ἐμπεριπατοῦντα. τῆς μέντοι θεοφιλοῦς ψυχῆς δεῖγμα ἐναργέστατόν ἐστι καὶ τὸ ᾆσμα, ἐν ᾧ περιέχεται τὸ “στεῖρα ἔτεκεν ἑπτά, ἡ δὲ πολλὴ ἐν τέκνοις ἠσθένησε”· καίτοι γε ἑνός ἐστι μήτηρ τοῦ Σαμουὴλ ἡ λέγουσα.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:7f41e59640d6a23fefc577df922562392b03289abc2451d9ca233dd23215ea44",
+      "source_file_sha256": "e465ef5e4e88010e981ccd00cd01ab534925af95f7b5a287a1eaec5c656b125d",
+      "source_locator": {
+        "filename": "tlg0018.tlg008.1st1K-grc1.xml",
+        "reference": "10"
+      },
+      "korean": "보시며 그 은밀한 곳을 거니시는 분을 결코 속이지 못할 것이다. 하나님을 사랑하는 영혼의 아주 분명한 예는 그 노래에도 있다. 거기에는 “임신하지 못하던 여자가 일곱을 낳았고, 자녀가 많던 여자는 쇠약해졌다”라는 말이 담겨 있다. 그런데 이렇게 말하는 여자는 사무엘 한 사람의 어머니이다.",
+      "translation_revision": "sha256:97871d2106e068be2b6394ae3d441e2bab6c5448ea38ac1133074596e4f204a2",
+      "groups": [
+        {
+          "id": "a-62e40d0a36d2843c22b0",
+          "source_range": [
+            0,
+            45
+          ],
+          "ko_range": [
+            0,
+            35
+          ],
+          "source_text": "ὁρῶντα καὶ τοῖς ἀδύτοις αὐτῆς ἐμπεριπατοῦντα.",
+          "ko_text": "보시며 그 은밀한 곳을 거니시는 분을 결코 속이지 못할 것이다."
+        },
+        {
+          "id": "a-00d8b922ceae825ef4c6",
+          "source_range": [
+            46,
+            110
+          ],
+          "ko_range": [
+            36,
+            70
+          ],
+          "source_text": "τῆς μέντοι θεοφιλοῦς ψυχῆς δεῖγμα ἐναργέστατόν ἐστι καὶ τὸ ᾆσμα,",
+          "ko_text": "하나님을 사랑하는 영혼의 아주 분명한 예는 그 노래에도 있다."
+        },
+        {
+          "id": "a-389610e4935634794423",
+          "source_range": [
+            111,
+            183
+          ],
+          "ko_range": [
+            71,
+            128
+          ],
+          "source_text": "ἐν ᾧ περιέχεται τὸ “στεῖρα ἔτεκεν ἑπτά, ἡ δὲ πολλὴ ἐν τέκνοις ἠσθένησε”·",
+          "ko_text": "거기에는 “임신하지 못하던 여자가 일곱을 낳았고, 자녀가 많던 여자는 쇠약해졌다”라는 말이 담겨 있다."
+        },
+        {
+          "id": "a-e55d98a4c56fe3546b43",
+          "source_range": [
+            184,
+            232
+          ],
+          "ko_range": [
+            129,
+            161
+          ],
+          "source_text": "καίτοι γε ἑνός ἐστι μήτηρ τοῦ Σαμουὴλ ἡ λέγουσα.",
+          "ko_text": "그런데 이렇게 말하는 여자는 사무엘 한 사람의 어머니이다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "deus:10",
+      "html_path": "works/deus/index.html#p-10",
+      "fixed_html_path": "releases/public-0.35/works/deus/index.html#p-10",
+      "alignment_revision": "sha256:b52875ac01d426dc644624ad59502a429663527657d83cc39dd0a4ddfae0108c",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:7f41e59640d6a23fefc577df922562392b03289abc2451d9ca233dd23215ea44",
+          "translation_revision": "sha256:97871d2106e068be2b6394ae3d441e2bab6c5448ea38ac1133074596e4f204a2",
+          "alignment_revision": "sha256:b52875ac01d426dc644624ad59502a429663527657d83cc39dd0a4ddfae0108c"
+        },
+        "scoped_ai_review": {
+          "id": "deus-addition-20261003",
+          "scope": "하나님의 불변성에 관하여 1-20절 전체, 21-183절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:7f41e59640d6a23fefc577df922562392b03289abc2451d9ca233dd23215ea44",
+            "translation_revision": "sha256:97871d2106e068be2b6394ae3d441e2bab6c5448ea38ac1133074596e4f204a2",
+            "alignment_revision": "sha256:b52875ac01d426dc644624ad59502a429663527657d83cc39dd0a4ddfae0108c"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg008/tlg0018.tlg008.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0으로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "하나님의 불변성에 관하여",
+        "reference": "10",
+        "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
+        "release": "public-0.35",
+        "translation_revision": "sha256:97871d2106e068be2b6394ae3d441e2bab6c5448ea38ac1133074596e4f204a2",
+        "fixed_path": "releases/public-0.35/works/deus/index.html#p-10"
+      }
+    },
+    {
+      "ref": "11",
+      "section": 11,
+      "original": "πῶς οὖν ἑπτὰ τετοκέναι φησίν, εἰ μή τι μονάδα ἑβδομάδι τὴν αὐτὴν φυσικώτατα νομίζει, οὐ μόνον ἐν ἀριθμοῖς, ἀλλὰ καὶ ἐν τῇ τοῦ παντὸς ἁρμονίᾳ καὶ ἐν τοῖς τῆς ἐναρέτου λόγοις ψυχῆς; ὁ γὰρ τεταγμένος μόνῳ θεῷ Σαμουήλ, ἄλλῳ δὲ τὸ παράπαν συνιὼν μηδενί, κατὰ τὸ ἓν καὶ τὴν μονάδα, τὸ ὄντως ὄν, κεκόσμηται.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:7834c49f3fe0aff852651c1006d88acd39743cdee79caa3618e1d8af50f4ec55",
+      "source_file_sha256": "e465ef5e4e88010e981ccd00cd01ab534925af95f7b5a287a1eaec5c656b125d",
+      "source_locator": {
+        "filename": "tlg0018.tlg008.1st1K-grc1.xml",
+        "reference": "11"
+      },
+      "encoded_page_breaks": [
+        "v.2.p.59"
+      ],
+      "korean": "어떻게 일곱을 낳았다고 말하는가? 하나와 일곱을 본성상 같다고 여기는 까닭이 아니겠는가? 수에서만이 아니라 우주의 조화와 덕을 지닌 영혼의 원리에서도 그렇다고 여기는 것이다. 사무엘은 하나님께만 배치되어 다른 어떤 것과도 전혀 어울리지 않으며, 하나, 곧 참으로 실재하시는 분인 단일성에 따라 질서를 얻었기 때문이다.",
+      "translation_revision": "sha256:6c53d3629b16d8d9578ef933b83febdd28ae035060cd82a1c9a00940443b1f3f",
+      "groups": [
+        {
+          "id": "a-2f8a5ccaa4f79e7662f8",
+          "source_range": [
+            0,
+            84
+          ],
+          "ko_range": [
+            0,
+            49
+          ],
+          "source_text": "πῶς οὖν ἑπτὰ τετοκέναι φησίν, εἰ μή τι μονάδα ἑβδομάδι τὴν αὐτὴν φυσικώτατα νομίζει,",
+          "ko_text": "어떻게 일곱을 낳았다고 말하는가? 하나와 일곱을 본성상 같다고 여기는 까닭이 아니겠는가?"
+        },
+        {
+          "id": "a-e61c3fbae4e2c6bdb6ad",
+          "source_range": [
+            85,
+            179
+          ],
+          "ko_range": [
+            50,
+            97
+          ],
+          "source_text": "οὐ μόνον ἐν ἀριθμοῖς, ἀλλὰ καὶ ἐν τῇ τοῦ παντὸς ἁρμονίᾳ καὶ ἐν τοῖς τῆς ἐναρέτου λόγοις ψυχῆς;",
+          "ko_text": "수에서만이 아니라 우주의 조화와 덕을 지닌 영혼의 원리에서도 그렇다고 여기는 것이다."
+        },
+        {
+          "id": "a-58b7172daaa6cc25b556",
+          "source_range": [
+            180,
+            248
+          ],
+          "ko_range": [
+            98,
+            136
+          ],
+          "source_text": "ὁ γὰρ τεταγμένος μόνῳ θεῷ Σαμουήλ, ἄλλῳ δὲ τὸ παράπαν συνιὼν μηδενί,",
+          "ko_text": "사무엘은 하나님께만 배치되어 다른 어떤 것과도 전혀 어울리지 않으며,"
+        },
+        {
+          "id": "a-d1000e0cf15247ef94d4",
+          "source_range": [
+            249,
+            300
+          ],
+          "ko_range": [
+            137,
+            177
+          ],
+          "source_text": "κατὰ τὸ ἓν καὶ τὴν μονάδα, τὸ ὄντως ὄν, κεκόσμηται.",
+          "ko_text": "하나, 곧 참으로 실재하시는 분인 단일성에 따라 질서를 얻었기 때문이다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "deus:11",
+      "html_path": "works/deus/index.html#p-11",
+      "fixed_html_path": "releases/public-0.35/works/deus/index.html#p-11",
+      "alignment_revision": "sha256:5d3b15d38f1dc8c89ae6fd9537316ba462fc27398b0f6ee7134379ed7cce0097",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:7834c49f3fe0aff852651c1006d88acd39743cdee79caa3618e1d8af50f4ec55",
+          "translation_revision": "sha256:6c53d3629b16d8d9578ef933b83febdd28ae035060cd82a1c9a00940443b1f3f",
+          "alignment_revision": "sha256:5d3b15d38f1dc8c89ae6fd9537316ba462fc27398b0f6ee7134379ed7cce0097"
+        },
+        "scoped_ai_review": {
+          "id": "deus-addition-20261003",
+          "scope": "하나님의 불변성에 관하여 1-20절 전체, 21-183절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:7834c49f3fe0aff852651c1006d88acd39743cdee79caa3618e1d8af50f4ec55",
+            "translation_revision": "sha256:6c53d3629b16d8d9578ef933b83febdd28ae035060cd82a1c9a00940443b1f3f",
+            "alignment_revision": "sha256:5d3b15d38f1dc8c89ae6fd9537316ba462fc27398b0f6ee7134379ed7cce0097"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg008/tlg0018.tlg008.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0으로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "하나님의 불변성에 관하여",
+        "reference": "11",
+        "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
+        "release": "public-0.35",
+        "translation_revision": "sha256:6c53d3629b16d8d9578ef933b83febdd28ae035060cd82a1c9a00940443b1f3f",
+        "fixed_path": "releases/public-0.35/works/deus/index.html#p-11"
+      }
+    },
+    {
+      "ref": "12",
+      "section": 12,
+      "original": "αὕτη δ’ ἡ κατάστασίς ἐστιν ἑβδομάδος, ἀναπαυομένης ἐν θεῷ ψυχῆς καὶ περὶ μηδὲν τῶν θνητῶν ἔργων ἔτι πονουμένης, κατὰ ἀπόλειψιν ἑξάδος, ἣν ἀπένειμε τοῖς τὰ πρωτεῖα λαβεῖν μὴ δυνηθεῖσι, δευτερείων δ’ ἐξ ἀνάγκης μεταποιουμένοις.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:536be0afc17e6523ff10caec3eb8aef762e0c8cdac086b2a9534b1ec36c53a8f",
+      "source_file_sha256": "e465ef5e4e88010e981ccd00cd01ab534925af95f7b5a287a1eaec5c656b125d",
+      "source_locator": {
+        "filename": "tlg0018.tlg008.1st1K-grc1.xml",
+        "reference": "12"
+      },
+      "korean": "이것이 일곱의 상태이다. 영혼이 하나님 안에서 쉬며, 죽을 존재들의 어떤 일에도 더는 수고하지 않는 상태이다. 이는 여섯을 떠나는 데 따른다. 그분은 첫째 자리를 얻지 못하여 어쩔 수 없이 둘째 자리를 요구하는 이들에게 여섯을 배정하셨다.",
+      "translation_revision": "sha256:a9a422f075d1ed68a97037aa7d8ff3f54aa3a879da854041290192f32f2886f8",
+      "groups": [
+        {
+          "id": "a-765ae392361e214299f4",
+          "source_range": [
+            0,
+            111
+          ],
+          "ko_range": [
+            0,
+            61
+          ],
+          "source_text": "αὕτη δ’ ἡ κατάστασίς ἐστιν ἑβδομάδος, ἀναπαυομένης ἐν θεῷ ψυχῆς καὶ περὶ μηδὲν τῶν θνητῶν ἔργων ἔτι πονουμένης,",
+          "ko_text": "이것이 일곱의 상태이다. 영혼이 하나님 안에서 쉬며, 죽을 존재들의 어떤 일에도 더는 수고하지 않는 상태이다."
+        },
+        {
+          "id": "a-3b512e527f78dd9dd47f",
+          "source_range": [
+            112,
+            134
+          ],
+          "ko_range": [
+            62,
+            79
+          ],
+          "source_text": "κατὰ ἀπόλειψιν ἑξάδος,",
+          "ko_text": "이는 여섯을 떠나는 데 따른다."
+        },
+        {
+          "id": "a-2bebb26df45b4dafd54c",
+          "source_range": [
+            135,
+            225
+          ],
+          "ko_range": [
+            80,
+            133
+          ],
+          "source_text": "ἣν ἀπένειμε τοῖς τὰ πρωτεῖα λαβεῖν μὴ δυνηθεῖσι, δευτερείων δ’ ἐξ ἀνάγκης μεταποιουμένοις.",
+          "ko_text": "그분은 첫째 자리를 얻지 못하여 어쩔 수 없이 둘째 자리를 요구하는 이들에게 여섯을 배정하셨다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "deus:12",
+      "html_path": "works/deus/index.html#p-12",
+      "fixed_html_path": "releases/public-0.35/works/deus/index.html#p-12",
+      "alignment_revision": "sha256:97638d17c22eee40de26342c5db476d8f4511d46096c38b8071ae858da48bfde",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:536be0afc17e6523ff10caec3eb8aef762e0c8cdac086b2a9534b1ec36c53a8f",
+          "translation_revision": "sha256:a9a422f075d1ed68a97037aa7d8ff3f54aa3a879da854041290192f32f2886f8",
+          "alignment_revision": "sha256:97638d17c22eee40de26342c5db476d8f4511d46096c38b8071ae858da48bfde"
+        },
+        "scoped_ai_review": {
+          "id": "deus-addition-20261003",
+          "scope": "하나님의 불변성에 관하여 1-20절 전체, 21-183절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:536be0afc17e6523ff10caec3eb8aef762e0c8cdac086b2a9534b1ec36c53a8f",
+            "translation_revision": "sha256:a9a422f075d1ed68a97037aa7d8ff3f54aa3a879da854041290192f32f2886f8",
+            "alignment_revision": "sha256:97638d17c22eee40de26342c5db476d8f4511d46096c38b8071ae858da48bfde"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg008/tlg0018.tlg008.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0으로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "하나님의 불변성에 관하여",
+        "reference": "12",
+        "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
+        "release": "public-0.35",
+        "translation_revision": "sha256:a9a422f075d1ed68a97037aa7d8ff3f54aa3a879da854041290192f32f2886f8",
+        "fixed_path": "releases/public-0.35/works/deus/index.html#p-12"
+      }
+    },
+    {
+      "ref": "13",
+      "section": 13,
+      "original": "τὴν μὲν οὖν στεῖραν, οὐ τὴν ἄγονον, ἀλλὰ τὴν στερρὰν καὶ ἔτι σφριγῶσαν, τοὺς διὰ καρτερίας καὶ ἀνδρείας καὶ ὑπομονῆς ἐπὶ κτήσει τοῦ ἀρίστου διαθλοῦσαν ἄθλους, ἑβδομάδι τὴν ἰσότιμον μονάδα τίκτειν εἰκὸς ἦν· εὔτοκος γὰρ καὶ εὔπαις ἡ φύσις.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:0cf3fcd93a6c16d52ca5e119bf32917fa3f8e5d035583f401220edaf577c72b4",
+      "source_file_sha256": "e465ef5e4e88010e981ccd00cd01ab534925af95f7b5a287a1eaec5c656b125d",
+      "source_locator": {
+        "filename": "tlg0018.tlg008.1st1K-grc1.xml",
+        "reference": "13"
+      },
+      "korean": "그러므로 임신하지 못한다는 여자는 자식을 낳지 못하는 여자가 아니라, 굳세고 여전히 활력이 넘치는 여자이다. 그는 가장 좋은 것을 얻으려고 굳셈과 용기와 인내로 시련을 이겨 낸다. 그가 일곱과 같은 가치를 지닌 하나를 낳는 것은 당연하다. 그 본성은 순조롭게 낳고 좋은 자식을 얻기 때문이다.",
+      "translation_revision": "sha256:998601ad056b80074ba0908a44fc954ea2d5b861d214657d6aa3fea191963496",
+      "groups": [
+        {
+          "id": "a-73df587040adb038e068",
+          "source_range": [
+            0,
+            71
+          ],
+          "ko_range": [
+            0,
+            60
+          ],
+          "source_text": "τὴν μὲν οὖν στεῖραν, οὐ τὴν ἄγονον, ἀλλὰ τὴν στερρὰν καὶ ἔτι σφριγῶσαν,",
+          "ko_text": "그러므로 임신하지 못한다는 여자는 자식을 낳지 못하는 여자가 아니라, 굳세고 여전히 활력이 넘치는 여자이다."
+        },
+        {
+          "id": "a-57661d655dbe5e4e9d99",
+          "source_range": [
+            72,
+            158
+          ],
+          "ko_range": [
+            61,
+            100
+          ],
+          "source_text": "τοὺς διὰ καρτερίας καὶ ἀνδρείας καὶ ὑπομονῆς ἐπὶ κτήσει τοῦ ἀρίστου διαθλοῦσαν ἄθλους,",
+          "ko_text": "그는 가장 좋은 것을 얻으려고 굳셈과 용기와 인내로 시련을 이겨 낸다."
+        },
+        {
+          "id": "a-e59af0969f350c9aed1f",
+          "source_range": [
+            159,
+            205
+          ],
+          "ko_range": [
+            101,
+            133
+          ],
+          "source_text": "ἑβδομάδι τὴν ἰσότιμον μονάδα τίκτειν εἰκὸς ἦν·",
+          "ko_text": "그가 일곱과 같은 가치를 지닌 하나를 낳는 것은 당연하다."
+        },
+        {
+          "id": "a-0c23ade58c5ba4be6501",
+          "source_range": [
+            206,
+            237
+          ],
+          "ko_range": [
+            134,
+            163
+          ],
+          "source_text": "εὔτοκος γὰρ καὶ εὔπαις ἡ φύσις.",
+          "ko_text": "그 본성은 순조롭게 낳고 좋은 자식을 얻기 때문이다."
+        }
+      ],
+      "notes": [
+        "임신하지 못함을 뜻하는 στεῖρα와 굳셈을 뜻하는 στερρά의 말소리를 연결한다. 앞의 한나 노래에 나오는 일곱 자녀는 하나와 일곱의 수 해석으로 설명된다."
+      ],
+      "work_passage_id": "deus:13",
+      "html_path": "works/deus/index.html#p-13",
+      "fixed_html_path": "releases/public-0.35/works/deus/index.html#p-13",
+      "alignment_revision": "sha256:9d503c2563f3a989325b056d65f122b37d10bad0f75e7d4cd70f7dc618fa49f9",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:0cf3fcd93a6c16d52ca5e119bf32917fa3f8e5d035583f401220edaf577c72b4",
+          "translation_revision": "sha256:998601ad056b80074ba0908a44fc954ea2d5b861d214657d6aa3fea191963496",
+          "alignment_revision": "sha256:9d503c2563f3a989325b056d65f122b37d10bad0f75e7d4cd70f7dc618fa49f9"
+        },
+        "scoped_ai_review": {
+          "id": "deus-addition-20261003",
+          "scope": "하나님의 불변성에 관하여 1-20절 전체, 21-183절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:0cf3fcd93a6c16d52ca5e119bf32917fa3f8e5d035583f401220edaf577c72b4",
+            "translation_revision": "sha256:998601ad056b80074ba0908a44fc954ea2d5b861d214657d6aa3fea191963496",
+            "alignment_revision": "sha256:9d503c2563f3a989325b056d65f122b37d10bad0f75e7d4cd70f7dc618fa49f9"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg008/tlg0018.tlg008.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0으로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "하나님의 불변성에 관하여",
+        "reference": "13",
+        "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
+        "release": "public-0.35",
+        "translation_revision": "sha256:998601ad056b80074ba0908a44fc954ea2d5b861d214657d6aa3fea191963496",
+        "fixed_path": "releases/public-0.35/works/deus/index.html#p-13"
+      }
+    },
+    {
+      "ref": "14",
+      "section": 14,
+      "original": "τὴν δὲ πολλὴν ἀσθενεῖν ἐν τέκνοις εἶπεν ἀψευδῶς καὶ σφόδρα ἐναργῶς· ὅταν γὰρ μία οὖσα ψυχὴ πολλὰ ὠδίνῃ τοῦ ἑνὸς ἀποστᾶσα, μυρία κατὰ τὸ εἰκὸς γίνεται, κἄπειτα πλήθει τέκνων ἐξηρτημένων βαρυνομένη καὶ πιεζομένη-ἔστι δὲ ἠλιτόμηνα καὶ ἀμβλωθρίδια τὰ πλεῖστα αὐτῶν - ἐξασθενεῖ.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:c4d3d24c720c3d69532334a043f87b3cb05867d75c37b9ea142e8cc662e4e953",
+      "source_file_sha256": "e465ef5e4e88010e981ccd00cd01ab534925af95f7b5a287a1eaec5c656b125d",
+      "source_locator": {
+        "filename": "tlg0018.tlg008.1st1K-grc1.xml",
+        "reference": "14"
+      },
+      "korean": "자녀가 많은 여자가 쇠약해졌다는 말도 참되며 아주 분명하다. 하나인 영혼이 그 하나에서 떠나 많은 것을 낳으려 진통하면, 당연히 수많은 자식이 생긴다. 그러면 자신에게 매달린 수많은 자식에게 무겁게 짓눌린다. 그 자식들 대부분은 미숙하게 태어나거나 유산된 것들이다. 영혼은 쇠약해진다.",
+      "translation_revision": "sha256:dbe7c0d43cca0a2e06dfa21e6fd2c8a9e14b5f57e11a80c572c2acecf5876c6a",
+      "groups": [
+        {
+          "id": "a-3fe75626ac095f21865a",
+          "source_range": [
+            0,
+            67
+          ],
+          "ko_range": [
+            0,
+            33
+          ],
+          "source_text": "τὴν δὲ πολλὴν ἀσθενεῖν ἐν τέκνοις εἶπεν ἀψευδῶς καὶ σφόδρα ἐναργῶς·",
+          "ko_text": "자녀가 많은 여자가 쇠약해졌다는 말도 참되며 아주 분명하다."
+        },
+        {
+          "id": "a-0cbff8e500721cdacc06",
+          "source_range": [
+            68,
+            150
+          ],
+          "ko_range": [
+            34,
+            84
+          ],
+          "source_text": "ὅταν γὰρ μία οὖσα ψυχὴ πολλὰ ὠδίνῃ τοῦ ἑνὸς ἀποστᾶσα, μυρία κατὰ τὸ εἰκὸς γίνεται,",
+          "ko_text": "하나인 영혼이 그 하나에서 떠나 많은 것을 낳으려 진통하면, 당연히 수많은 자식이 생긴다."
+        },
+        {
+          "id": "a-00f7a33613ae6af7c3c3",
+          "source_range": [
+            151,
+            262
+          ],
+          "ko_range": [
+            85,
+            148
+          ],
+          "source_text": "κἄπειτα πλήθει τέκνων ἐξηρτημένων βαρυνομένη καὶ πιεζομένη-ἔστι δὲ ἠλιτόμηνα καὶ ἀμβλωθρίδια τὰ πλεῖστα αὐτῶν -",
+          "ko_text": "그러면 자신에게 매달린 수많은 자식에게 무겁게 짓눌린다. 그 자식들 대부분은 미숙하게 태어나거나 유산된 것들이다."
+        },
+        {
+          "id": "a-16897f0508c7083b52f9",
+          "source_range": [
+            263,
+            273
+          ],
+          "ko_range": [
+            149,
+            159
+          ],
+          "source_text": "ἐξασθενεῖ.",
+          "ko_text": "영혼은 쇠약해진다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "deus:14",
+      "html_path": "works/deus/index.html#p-14",
+      "fixed_html_path": "releases/public-0.35/works/deus/index.html#p-14",
+      "alignment_revision": "sha256:7d31884f7c3d594f18f233453a6ab01611bd13d32b14b2d57033f8b365254df9",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:c4d3d24c720c3d69532334a043f87b3cb05867d75c37b9ea142e8cc662e4e953",
+          "translation_revision": "sha256:dbe7c0d43cca0a2e06dfa21e6fd2c8a9e14b5f57e11a80c572c2acecf5876c6a",
+          "alignment_revision": "sha256:7d31884f7c3d594f18f233453a6ab01611bd13d32b14b2d57033f8b365254df9"
+        },
+        "scoped_ai_review": {
+          "id": "deus-addition-20261003",
+          "scope": "하나님의 불변성에 관하여 1-20절 전체, 21-183절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:c4d3d24c720c3d69532334a043f87b3cb05867d75c37b9ea142e8cc662e4e953",
+            "translation_revision": "sha256:dbe7c0d43cca0a2e06dfa21e6fd2c8a9e14b5f57e11a80c572c2acecf5876c6a",
+            "alignment_revision": "sha256:7d31884f7c3d594f18f233453a6ab01611bd13d32b14b2d57033f8b365254df9"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg008/tlg0018.tlg008.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0으로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "하나님의 불변성에 관하여",
+        "reference": "14",
+        "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
+        "release": "public-0.35",
+        "translation_revision": "sha256:dbe7c0d43cca0a2e06dfa21e6fd2c8a9e14b5f57e11a80c572c2acecf5876c6a",
+        "fixed_path": "releases/public-0.35/works/deus/index.html#p-14"
+      }
+    },
+    {
+      "ref": "15",
+      "section": 15,
+      "original": "τίκτει μὲν γὰρ τὰς πρὸς σχήματα καὶ χρώματα δι’ ὀφθαλμῶν ἐπιθυμίας, τίκτει δὲ τὰς πρὸς φωνὰς δι’ ὤτων, ἐγκύμων δ’ ἐστὶ καὶ τῶν γαστρὸς καὶ τῶν ὑπ’ αὐτήν, ὥστε πολλῶν ἐκκρεμαμένων ἐγγόνων βαρύτατον ἄχθος φέρουσα παρίεται καὶ χεῖρας ὑπ’ ἀσθενείας καθεῖσα ἀπολέγεται. τοῦτον μὲν δὴ τὸν τρόπον ἡττῆσθαι συμβαίνει πᾶσιν, ὅσοι φθαρτοῖς ἑαυτοῖς φθαρτὰ γεννῶσιν.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:9e5f21c62a481e82774483e0a28182fd7da931b5d40c8de611f97755035b5d1e",
+      "source_file_sha256": "e465ef5e4e88010e981ccd00cd01ab534925af95f7b5a287a1eaec5c656b125d",
+      "source_locator": {
+        "filename": "tlg0018.tlg008.1st1K-grc1.xml",
+        "reference": "15"
+      },
+      "korean": "영혼은 눈을 통해 모양과 색을 향한 욕망을 낳고, 귀를 통해 소리를 향한 욕망을 낳는다. 배와 그 아래 부위의 욕망도 품는다. 많은 자식이 매달린 가장 무거운 짐을 지다가 지쳐, 힘없이 두 손을 내리고 포기한다. 소멸할 자신을 위해 소멸할 자식을 낳는 이들은 모두 이런 방식으로 패배하게 된다.",
+      "translation_revision": "sha256:83bbf0ebc173cec67e06fbc5f04950f863dd4e5a8ea2207c0abc7dc6d573ee3f",
+      "groups": [
+        {
+          "id": "a-45552fb0235cd3c4c8aa",
+          "source_range": [
+            0,
+            67
+          ],
+          "ko_range": [
+            0,
+            27
+          ],
+          "source_text": "τίκτει μὲν γὰρ τὰς πρὸς σχήματα καὶ χρώματα δι’ ὀφθαλμῶν ἐπιθυμίας,",
+          "ko_text": "영혼은 눈을 통해 모양과 색을 향한 욕망을 낳고,"
+        },
+        {
+          "id": "a-ca86b045465c39cbd987",
+          "source_range": [
+            68,
+            102
+          ],
+          "ko_range": [
+            28,
+            49
+          ],
+          "source_text": "τίκτει δὲ τὰς πρὸς φωνὰς δι’ ὤτων,",
+          "ko_text": "귀를 통해 소리를 향한 욕망을 낳는다."
+        },
+        {
+          "id": "a-87c7803a9ef418e3440b",
+          "source_range": [
+            103,
+            153
+          ],
+          "ko_range": [
+            50,
+            70
+          ],
+          "source_text": "ἐγκύμων δ’ ἐστὶ καὶ τῶν γαστρὸς καὶ τῶν ὑπ’ αὐτήν,",
+          "ko_text": "배와 그 아래 부위의 욕망도 품는다."
+        },
+        {
+          "id": "a-e4b380f9682d3836339b",
+          "source_range": [
+            154,
+            264
+          ],
+          "ko_range": [
+            71,
+            118
+          ],
+          "source_text": "ὥστε πολλῶν ἐκκρεμαμένων ἐγγόνων βαρύτατον ἄχθος φέρουσα παρίεται καὶ χεῖρας ὑπ’ ἀσθενείας καθεῖσα ἀπολέγεται.",
+          "ko_text": "많은 자식이 매달린 가장 무거운 짐을 지다가 지쳐, 힘없이 두 손을 내리고 포기한다."
+        },
+        {
+          "id": "a-be48f244a851544571c4",
+          "source_range": [
+            265,
+            354
+          ],
+          "ko_range": [
+            119,
+            164
+          ],
+          "source_text": "τοῦτον μὲν δὴ τὸν τρόπον ἡττῆσθαι συμβαίνει πᾶσιν, ὅσοι φθαρτοῖς ἑαυτοῖς φθαρτὰ γεννῶσιν.",
+          "ko_text": "소멸할 자신을 위해 소멸할 자식을 낳는 이들은 모두 이런 방식으로 패배하게 된다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "deus:15",
+      "html_path": "works/deus/index.html#p-15",
+      "fixed_html_path": "releases/public-0.35/works/deus/index.html#p-15",
+      "alignment_revision": "sha256:2d2e804075524879e22e5411ebff8437de13f7260bc34950d01bd7e409fa31ed",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:9e5f21c62a481e82774483e0a28182fd7da931b5d40c8de611f97755035b5d1e",
+          "translation_revision": "sha256:83bbf0ebc173cec67e06fbc5f04950f863dd4e5a8ea2207c0abc7dc6d573ee3f",
+          "alignment_revision": "sha256:2d2e804075524879e22e5411ebff8437de13f7260bc34950d01bd7e409fa31ed"
+        },
+        "scoped_ai_review": {
+          "id": "deus-addition-20261003",
+          "scope": "하나님의 불변성에 관하여 1-20절 전체, 21-183절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:9e5f21c62a481e82774483e0a28182fd7da931b5d40c8de611f97755035b5d1e",
+            "translation_revision": "sha256:83bbf0ebc173cec67e06fbc5f04950f863dd4e5a8ea2207c0abc7dc6d573ee3f",
+            "alignment_revision": "sha256:2d2e804075524879e22e5411ebff8437de13f7260bc34950d01bd7e409fa31ed"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg008/tlg0018.tlg008.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0으로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "하나님의 불변성에 관하여",
+        "reference": "15",
+        "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
+        "release": "public-0.35",
+        "translation_revision": "sha256:83bbf0ebc173cec67e06fbc5f04950f863dd4e5a8ea2207c0abc7dc6d573ee3f",
+        "fixed_path": "releases/public-0.35/works/deus/index.html#p-15"
+      }
+    },
+    {
+      "ref": "16",
+      "section": 16,
+      "original": "ἔνιοι δ’ οὐχ ἧτταν μόνον ἀλλὰ καὶ θάνατον ὑπὸ φιλαυτίας ἀνεδέξαντο. ὁ γοῦν Αὐνάν, “αἰσθόμενος ὅτι οὐκ αὐτῷ ἔσται τὸ σπέρμα”, οὐ πρότερον ἐπαύσατο τὸ λογικόν, ὅπερ ἄριστον τῶν ὄντων γένος ἐστί, διαφθείρων ἢ καὶ αὐτὸς ἀνεδέξατο φθορὰν παντελῆ, σφόδρα ὀρθῶς καὶ προσηκόντως·",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:7cf426f5d97519bc658b146fe96ef972f0660826159240317954e089fe38f019",
+      "source_file_sha256": "e465ef5e4e88010e981ccd00cd01ab534925af95f7b5a287a1eaec5c656b125d",
+      "source_locator": {
+        "filename": "tlg0018.tlg008.1st1K-grc1.xml",
+        "reference": "16"
+      },
+      "korean": "어떤 이들은 자기 사랑으로 패배뿐 아니라 죽음까지 맞았다. 오난은 “그 씨가 자기의 것이 되지 않을 줄 알고”, 존재하는 것들 가운데 가장 뛰어난 부류인 이성적 씨를 파괴하기를 그치지 않았다. 마침내 자신도 완전한 파멸을 맞았다. 매우 옳고 마땅한 일이었다.",
+      "translation_revision": "sha256:e5b00c2e1a19656fd2c44ff8cbda516b364f76001789e38f96c3431b3de7ba16",
+      "groups": [
+        {
+          "id": "a-5193f97d29768179727e",
+          "source_range": [
+            0,
+            67
+          ],
+          "ko_range": [
+            0,
+            32
+          ],
+          "source_text": "ἔνιοι δ’ οὐχ ἧτταν μόνον ἀλλὰ καὶ θάνατον ὑπὸ φιλαυτίας ἀνεδέξαντο.",
+          "ko_text": "어떤 이들은 자기 사랑으로 패배뿐 아니라 죽음까지 맞았다."
+        },
+        {
+          "id": "a-158017682113e990b184",
+          "source_range": [
+            68,
+            124
+          ],
+          "ko_range": [
+            33,
+            62
+          ],
+          "source_text": "ὁ γοῦν Αὐνάν, “αἰσθόμενος ὅτι οὐκ αὐτῷ ἔσται τὸ σπέρμα”,",
+          "ko_text": "오난은 “그 씨가 자기의 것이 되지 않을 줄 알고”,"
+        },
+        {
+          "id": "a-ba87019c2e009895e98e",
+          "source_range": [
+            125,
+            203
+          ],
+          "ko_range": [
+            63,
+            107
+          ],
+          "source_text": "οὐ πρότερον ἐπαύσατο τὸ λογικόν, ὅπερ ἄριστον τῶν ὄντων γένος ἐστί, διαφθείρων",
+          "ko_text": "존재하는 것들 가운데 가장 뛰어난 부류인 이성적 씨를 파괴하기를 그치지 않았다."
+        },
+        {
+          "id": "a-9f5fc33eeece2c9c9a69",
+          "source_range": [
+            204,
+            271
+          ],
+          "ko_range": [
+            108,
+            144
+          ],
+          "source_text": "ἢ καὶ αὐτὸς ἀνεδέξατο φθορὰν παντελῆ, σφόδρα ὀρθῶς καὶ προσηκόντως·",
+          "ko_text": "마침내 자신도 완전한 파멸을 맞았다. 매우 옳고 마땅한 일이었다."
+        }
+      ],
+      "notes": [
+        "오난이 씨를 자기 몫으로 얻을 수 없음을 알고 훼손했다는 창세기 38.9를 해석한다. 필론은 이 씨를 이성적인 것으로 읽고, 자신만을 위해 사는 태도에 대한 논증으로 넓힌다."
+      ],
+      "work_passage_id": "deus:16",
+      "html_path": "works/deus/index.html#p-16",
+      "fixed_html_path": "releases/public-0.35/works/deus/index.html#p-16",
+      "alignment_revision": "sha256:8c83ed6f643b6683348611392621807801f870bfca21e28333d1619735a5bc15",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:7cf426f5d97519bc658b146fe96ef972f0660826159240317954e089fe38f019",
+          "translation_revision": "sha256:e5b00c2e1a19656fd2c44ff8cbda516b364f76001789e38f96c3431b3de7ba16",
+          "alignment_revision": "sha256:8c83ed6f643b6683348611392621807801f870bfca21e28333d1619735a5bc15"
+        },
+        "scoped_ai_review": {
+          "id": "deus-addition-20261003",
+          "scope": "하나님의 불변성에 관하여 1-20절 전체, 21-183절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:7cf426f5d97519bc658b146fe96ef972f0660826159240317954e089fe38f019",
+            "translation_revision": "sha256:e5b00c2e1a19656fd2c44ff8cbda516b364f76001789e38f96c3431b3de7ba16",
+            "alignment_revision": "sha256:8c83ed6f643b6683348611392621807801f870bfca21e28333d1619735a5bc15"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg008/tlg0018.tlg008.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0으로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "하나님의 불변성에 관하여",
+        "reference": "16",
+        "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
+        "release": "public-0.35",
+        "translation_revision": "sha256:e5b00c2e1a19656fd2c44ff8cbda516b364f76001789e38f96c3431b3de7ba16",
+        "fixed_path": "releases/public-0.35/works/deus/index.html#p-16"
+      }
+    },
+    {
+      "ref": "17",
+      "section": 17,
+      "original": "εἰ γὰρ ἅπαντα πράξουσί τινες αὑτῶν ἕνεκα, μὴ γονέων τιμῆς, μὴ παίδων εὐκοσμίας, μὴ σωτηρίας πατρίδος, μὴ νόμων φυλακῆς, μὴ ἐθῶν βεβαιότητος, μὴ ἰδίων μὴ κοινῶν ἐπανορθώσεως, μὴ ἱερῶν ἁγιστείας, μὴ τῆς πρὸς θεὸν εὐσεβείας ἐπιστρεφόμενοι, κακοδαιμονήσουσιν.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:4119fe8b281fcda46ac5ef1d1da835a97e101632d9115e400301d2debfd6ac77",
+      "source_file_sha256": "e465ef5e4e88010e981ccd00cd01ab534925af95f7b5a287a1eaec5c656b125d",
+      "source_locator": {
+        "filename": "tlg0018.tlg008.1st1K-grc1.xml",
+        "reference": "17"
+      },
+      "encoded_page_breaks": [
+        "v.2.p.60"
+      ],
+      "korean": "어떤 이들이 모든 일을 자기 자신만을 위해 행하면서, 부모 공경, 자녀의 바른 품행, 조국의 구원, 법의 준수, 관습의 확립, 사적 일과 공적 일의 개선, 성소의 거룩함과 하나님께 대한 경건을 돌아보지 않는다면, 그들은 불행해질 것이기 때문이다.",
+      "translation_revision": "sha256:7c40b2d36fefff9fb595970379fea9a73c3e063bce493399a82f697d4abb7527",
+      "groups": [
+        {
+          "id": "a-62479ea5595eba4c3e68",
+          "source_range": [
+            0,
+            41
+          ],
+          "ko_range": [
+            0,
+            29
+          ],
+          "source_text": "εἰ γὰρ ἅπαντα πράξουσί τινες αὑτῶν ἕνεκα,",
+          "ko_text": "어떤 이들이 모든 일을 자기 자신만을 위해 행하면서,"
+        },
+        {
+          "id": "a-c618e4c16d34a024c10c",
+          "source_range": [
+            42,
+            101
+          ],
+          "ko_range": [
+            30,
+            55
+          ],
+          "source_text": "μὴ γονέων τιμῆς, μὴ παίδων εὐκοσμίας, μὴ σωτηρίας πατρίδος,",
+          "ko_text": "부모 공경, 자녀의 바른 품행, 조국의 구원,"
+        },
+        {
+          "id": "a-b1dce2f804c42f652141",
+          "source_range": [
+            102,
+            173
+          ],
+          "ko_range": [
+            56,
+            86
+          ],
+          "source_text": "μὴ νόμων φυλακῆς, μὴ ἐθῶν βεβαιότητος, μὴ ἰδίων μὴ κοινῶν ἐπανορθώσεως,",
+          "ko_text": "법의 준수, 관습의 확립, 사적 일과 공적 일의 개선,"
+        },
+        {
+          "id": "a-403761c56604502425c7",
+          "source_range": [
+            174,
+            255
+          ],
+          "ko_range": [
+            87,
+            137
+          ],
+          "source_text": "μὴ ἱερῶν ἁγιστείας, μὴ τῆς πρὸς θεὸν εὐσεβείας ἐπιστρεφόμενοι, κακοδαιμονήσουσιν.",
+          "ko_text": "성소의 거룩함과 하나님께 대한 경건을 돌아보지 않는다면, 그들은 불행해질 것이기 때문이다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "deus:17",
+      "html_path": "works/deus/index.html#p-17",
+      "fixed_html_path": "releases/public-0.35/works/deus/index.html#p-17",
+      "alignment_revision": "sha256:20317c6bd086a6006c68591f701bfa473948bf8548237ad5c35f9aea40adfaeb",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:4119fe8b281fcda46ac5ef1d1da835a97e101632d9115e400301d2debfd6ac77",
+          "translation_revision": "sha256:7c40b2d36fefff9fb595970379fea9a73c3e063bce493399a82f697d4abb7527",
+          "alignment_revision": "sha256:20317c6bd086a6006c68591f701bfa473948bf8548237ad5c35f9aea40adfaeb"
+        },
+        "scoped_ai_review": {
+          "id": "deus-addition-20261003",
+          "scope": "하나님의 불변성에 관하여 1-20절 전체, 21-183절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:4119fe8b281fcda46ac5ef1d1da835a97e101632d9115e400301d2debfd6ac77",
+            "translation_revision": "sha256:7c40b2d36fefff9fb595970379fea9a73c3e063bce493399a82f697d4abb7527",
+            "alignment_revision": "sha256:20317c6bd086a6006c68591f701bfa473948bf8548237ad5c35f9aea40adfaeb"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg008/tlg0018.tlg008.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0으로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "하나님의 불변성에 관하여",
+        "reference": "17",
+        "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
+        "release": "public-0.35",
+        "translation_revision": "sha256:7c40b2d36fefff9fb595970379fea9a73c3e063bce493399a82f697d4abb7527",
+        "fixed_path": "releases/public-0.35/works/deus/index.html#p-17"
+      }
+    },
+    {
+      "ref": "18",
+      "section": 18,
+      "original": "ἑνὸς γὰρ ὧν εἶπον χάριν ἀντικαταλλάξασθαι καὶ αὐτὸ τὸ ζῆν εὐκλεές, οἱ δ’ ἄρα καὶ ἀθρόων τῶν οὕτω περιμαχήτων φασίν, εἰ μή τινα ἡδονὴν μέλλοι περιποιεῖν, κατολιγωρήσειν. τοιγάρτοι πονηρὰν εἰσήγησιν ὁ ἀδέκαστος θεὸς ἐκφύλου δόγματος, ἐπίκλησιν Αὐνάν, ἐκποδὼν ἀνελεῖ.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:e32f1c4f38f95448a17ab480555660e6df9d01c68d5295297709e577545de145",
+      "source_file_sha256": "e465ef5e4e88010e981ccd00cd01ab534925af95f7b5a287a1eaec5c656b125d",
+      "source_locator": {
+        "filename": "tlg0018.tlg008.1st1K-grc1.xml",
+        "reference": "18"
+      },
+      "korean": "내가 말한 것 가운데 하나를 위해 목숨 자체를 내놓는 것도 명예로운 일이다. 그러나 그들은 그토록 소중한 모든 것조차 자신에게 어떤 즐거움을 주지 않으면 업신여기겠다고 말한다. 그러므로 매수할 수 없는 하나님은 그릇된 신념을 악하게 제안하는 자, 오난이라 불리는 이를 제거하실 것이다.",
+      "translation_revision": "sha256:6a13dfc1521d2ae84c5af24bae0ee40c7dfd7c6d079e5789d5a78308e62b202b",
+      "groups": [
+        {
+          "id": "a-ccc83c40e114fe153cbb",
+          "source_range": [
+            0,
+            66
+          ],
+          "ko_range": [
+            0,
+            42
+          ],
+          "source_text": "ἑνὸς γὰρ ὧν εἶπον χάριν ἀντικαταλλάξασθαι καὶ αὐτὸ τὸ ζῆν εὐκλεές,",
+          "ko_text": "내가 말한 것 가운데 하나를 위해 목숨 자체를 내놓는 것도 명예로운 일이다."
+        },
+        {
+          "id": "a-ba4c5ba9078513c41635",
+          "source_range": [
+            67,
+            168
+          ],
+          "ko_range": [
+            43,
+            98
+          ],
+          "source_text": "οἱ δ’ ἄρα καὶ ἀθρόων τῶν οὕτω περιμαχήτων φασίν, εἰ μή τινα ἡδονὴν μέλλοι περιποιεῖν, κατολιγωρήσειν.",
+          "ko_text": "그러나 그들은 그토록 소중한 모든 것조차 자신에게 어떤 즐거움을 주지 않으면 업신여기겠다고 말한다."
+        },
+        {
+          "id": "a-e957353817641c8bafd6",
+          "source_range": [
+            169,
+            264
+          ],
+          "ko_range": [
+            99,
+            159
+          ],
+          "source_text": "τοιγάρτοι πονηρὰν εἰσήγησιν ὁ ἀδέκαστος θεὸς ἐκφύλου δόγματος, ἐπίκλησιν Αὐνάν, ἐκποδὼν ἀνελεῖ.",
+          "ko_text": "그러므로 매수할 수 없는 하나님은 그릇된 신념을 악하게 제안하는 자, 오난이라 불리는 이를 제거하실 것이다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "deus:18",
+      "html_path": "works/deus/index.html#p-18",
+      "fixed_html_path": "releases/public-0.35/works/deus/index.html#p-18",
+      "alignment_revision": "sha256:ae6c5662ec7d965f5f9bd1a9b2f84b4655f47fba1e95b228ca24b01c71c3fcb6",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:e32f1c4f38f95448a17ab480555660e6df9d01c68d5295297709e577545de145",
+          "translation_revision": "sha256:6a13dfc1521d2ae84c5af24bae0ee40c7dfd7c6d079e5789d5a78308e62b202b",
+          "alignment_revision": "sha256:ae6c5662ec7d965f5f9bd1a9b2f84b4655f47fba1e95b228ca24b01c71c3fcb6"
+        },
+        "scoped_ai_review": {
+          "id": "deus-addition-20261003",
+          "scope": "하나님의 불변성에 관하여 1-20절 전체, 21-183절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:e32f1c4f38f95448a17ab480555660e6df9d01c68d5295297709e577545de145",
+            "translation_revision": "sha256:6a13dfc1521d2ae84c5af24bae0ee40c7dfd7c6d079e5789d5a78308e62b202b",
+            "alignment_revision": "sha256:ae6c5662ec7d965f5f9bd1a9b2f84b4655f47fba1e95b228ca24b01c71c3fcb6"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg008/tlg0018.tlg008.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0으로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "하나님의 불변성에 관하여",
+        "reference": "18",
+        "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
+        "release": "public-0.35",
+        "translation_revision": "sha256:6a13dfc1521d2ae84c5af24bae0ee40c7dfd7c6d079e5789d5a78308e62b202b",
+        "fixed_path": "releases/public-0.35/works/deus/index.html#p-18"
+      }
+    },
+    {
+      "ref": "19",
+      "section": 19,
+      "original": "παραιτητέοι δὴ πάντες οἱ γεννῶντες αὑτοῖς, τὸ δ’ ἐστὶν ὅσοι τὸ ἴδιον λυσιτελὲς μόνον θηρώμενοι τῶν ἄλλων ὑπερορῶσιν, ὥσπερ αὑτοῖς μόνοις φύντες, οὐχὶ δὲ μυρίοις ἄλλοις, πατρί, μητρί, γυναικί, τέκνοις, πατρίδι, ἀνθρώπων γένει, εἰ δὲ δεῖ προελθόντας τι περαιτέρω φάναι, οὐρανῷ, γῇ, τῷ παντὶ κόσμῳ, ἐπιστήμαις, ἀρεταῖς, τῷ πατρὶ καὶ ἡγεμόνι τῶν συμπάντων· ὧν ἑκάστῳ κατὰ δύναμιν ἀπονεμητέον τὸ ἁρμόττον μὴ τὰ πάντα προσθήκην ἑαυτοῦ, ἑαυτὸν δὲ τῶν πάντων νομίζοντα.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:6ca5f263370f26b4dcf4188f0b67495f1e749ac98a71484668dfd66d6c173363",
+      "source_file_sha256": "e465ef5e4e88010e981ccd00cd01ab534925af95f7b5a287a1eaec5c656b125d",
+      "source_locator": {
+        "filename": "tlg0018.tlg008.1st1K-grc1.xml",
+        "reference": "19"
+      },
+      "korean": "자신을 위해 낳는 사람들은 모두 거부해야 한다. 자기 이익만 추구하며 다른 이들을 업신여기는 사람들이다. 그들은 자신만을 위해 태어난 것처럼 산다. 아버지, 어머니, 아내, 자녀, 조국, 인류와 같은 수많은 다른 존재들을 위해 태어난 것처럼 살지 않는다. 더 나아가 말하자면 하늘과 땅, 온 세계, 지식과 덕, 만물의 아버지이자 통치자를 위해 태어난 것이다. 각각에게 자신의 능력에 따라 알맞은 것을 돌려주어야 한다. 모든 것이 자신에게 덧붙여졌다고 여기지 말고, 자신이 모든 것에 덧붙여졌다고 여겨야 한다.",
+      "translation_revision": "sha256:7d72f7414c50fbe5d03b783840c7ecda82ed5e84fe1b58c4e4e52e8a005cb0e7",
+      "groups": [
+        {
+          "id": "a-3e13a1842b24f3604fb7",
+          "source_range": [
+            0,
+            42
+          ],
+          "ko_range": [
+            0,
+            26
+          ],
+          "source_text": "παραιτητέοι δὴ πάντες οἱ γεννῶντες αὑτοῖς,",
+          "ko_text": "자신을 위해 낳는 사람들은 모두 거부해야 한다."
+        },
+        {
+          "id": "a-8240143284a073b8f906",
+          "source_range": [
+            43,
+            116
+          ],
+          "ko_range": [
+            27,
+            58
+          ],
+          "source_text": "τὸ δ’ ἐστὶν ὅσοι τὸ ἴδιον λυσιτελὲς μόνον θηρώμενοι τῶν ἄλλων ὑπερορῶσιν,",
+          "ko_text": "자기 이익만 추구하며 다른 이들을 업신여기는 사람들이다."
+        },
+        {
+          "id": "a-1f0632203b24766c43ab",
+          "source_range": [
+            117,
+            225
+          ],
+          "ko_range": [
+            59,
+            142
+          ],
+          "source_text": "ὥσπερ αὑτοῖς μόνοις φύντες, οὐχὶ δὲ μυρίοις ἄλλοις, πατρί, μητρί, γυναικί, τέκνοις, πατρίδι, ἀνθρώπων γένει,",
+          "ko_text": "그들은 자신만을 위해 태어난 것처럼 산다. 아버지, 어머니, 아내, 자녀, 조국, 인류와 같은 수많은 다른 존재들을 위해 태어난 것처럼 살지 않는다."
+        },
+        {
+          "id": "a-9248b2441edaac71682f",
+          "source_range": [
+            226,
+            352
+          ],
+          "ko_range": [
+            143,
+            200
+          ],
+          "source_text": "εἰ δὲ δεῖ προελθόντας τι περαιτέρω φάναι, οὐρανῷ, γῇ, τῷ παντὶ κόσμῳ, ἐπιστήμαις, ἀρεταῖς, τῷ πατρὶ καὶ ἡγεμόνι τῶν συμπάντων·",
+          "ko_text": "더 나아가 말하자면 하늘과 땅, 온 세계, 지식과 덕, 만물의 아버지이자 통치자를 위해 태어난 것이다."
+        },
+        {
+          "id": "a-dcc99f93dcc854685573",
+          "source_range": [
+            353,
+            399
+          ],
+          "ko_range": [
+            201,
+            233
+          ],
+          "source_text": "ὧν ἑκάστῳ κατὰ δύναμιν ἀπονεμητέον τὸ ἁρμόττον",
+          "ko_text": "각각에게 자신의 능력에 따라 알맞은 것을 돌려주어야 한다."
+        },
+        {
+          "id": "a-2e0d0d0f5ff4211c54f2",
+          "source_range": [
+            400,
+            461
+          ],
+          "ko_range": [
+            234,
+            284
+          ],
+          "source_text": "μὴ τὰ πάντα προσθήκην ἑαυτοῦ, ἑαυτὸν δὲ τῶν πάντων νομίζοντα.",
+          "ko_text": "모든 것이 자신에게 덧붙여졌다고 여기지 말고, 자신이 모든 것에 덧붙여졌다고 여겨야 한다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "deus:19",
+      "html_path": "works/deus/index.html#p-19",
+      "fixed_html_path": "releases/public-0.35/works/deus/index.html#p-19",
+      "alignment_revision": "sha256:4496af3f8486e18e5d4b477265f0bfff485db0b771a2e2b44c945139840489ef",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:6ca5f263370f26b4dcf4188f0b67495f1e749ac98a71484668dfd66d6c173363",
+          "translation_revision": "sha256:7d72f7414c50fbe5d03b783840c7ecda82ed5e84fe1b58c4e4e52e8a005cb0e7",
+          "alignment_revision": "sha256:4496af3f8486e18e5d4b477265f0bfff485db0b771a2e2b44c945139840489ef"
+        },
+        "scoped_ai_review": {
+          "id": "deus-addition-20261003",
+          "scope": "하나님의 불변성에 관하여 1-20절 전체, 21-183절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:6ca5f263370f26b4dcf4188f0b67495f1e749ac98a71484668dfd66d6c173363",
+            "translation_revision": "sha256:7d72f7414c50fbe5d03b783840c7ecda82ed5e84fe1b58c4e4e52e8a005cb0e7",
+            "alignment_revision": "sha256:4496af3f8486e18e5d4b477265f0bfff485db0b771a2e2b44c945139840489ef"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg008/tlg0018.tlg008.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0으로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "하나님의 불변성에 관하여",
+        "reference": "19",
+        "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
+        "release": "public-0.35",
+        "translation_revision": "sha256:7d72f7414c50fbe5d03b783840c7ecda82ed5e84fe1b58c4e4e52e8a005cb0e7",
+        "fixed_path": "releases/public-0.35/works/deus/index.html#p-19"
+      }
+    },
+    {
+      "ref": "20",
+      "section": 20,
+      "original": "Τούτων μὲν δὴ ἅλις, τὰ δ’ ἀκόλουθα τῷ λόγῳ συνυφήνωμεν. “ἰδὼν” οὖν φησι “κύριος ὁ θεὸς ὅτι ἐπληθύνθησαν αἱ κακίαι τῶν ἀνθρώπων ἐπὶ τῆς γῆς, καὶ πᾶς τις διανοεῖται ἐν τῇ καρδίᾳ ἐπιμελῶς τὰ πονηρὰ πάσας τὰς ἡμέρας, ἐνεθυμήθη ὁ θεός, ὅτι ἐποίησε τὸν ἄνθρωπον ἐπὶ τῆς γῆς, καὶ διενοήθη. καὶ εἶπεν ὁ θεός· ἀπαλείψω τὸν ἄνθρωπον ὃν ἐποίησα ἀπὸ προσώπου τῆς γῆς”.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:817b5fa134d42c5ec865782f9ba606175cb1c361f1fe37b671755b41dbab2f03",
+      "source_file_sha256": "e465ef5e4e88010e981ccd00cd01ab534925af95f7b5a287a1eaec5c656b125d",
+      "source_locator": {
+        "filename": "tlg0018.tlg008.1st1K-grc1.xml",
+        "reference": "20"
+      },
+      "korean": "이 일들은 이만하면 충분하다. 다음 내용을 논의에 이어 붙이자. 그는 이렇게 말한다. “주 하나님이 사람들의 악이 땅 위에서 많아진 것을 보시고, 누구나 날마다 마음속으로 악한 것을 열심히 생각하는 것을 보시고, 하나님은 땅 위에 사람을 만드셨다는 사실을 마음에 두고 숙고하셨다. 하나님이 말씀하셨다. ‘내가 만든 사람을 땅의 표면에서 없애겠다.’”",
+      "translation_revision": "sha256:cb96237eeebdc2801eed23c0f272640d0be454a0d344bef613c864dfae69d6cb",
+      "groups": [
+        {
+          "id": "a-da7e77dff1a97de06b55",
+          "source_range": [
+            0,
+            55
+          ],
+          "ko_range": [
+            0,
+            35
+          ],
+          "source_text": "Τούτων μὲν δὴ ἅλις, τὰ δ’ ἀκόλουθα τῷ λόγῳ συνυφήνωμεν.",
+          "ko_text": "이 일들은 이만하면 충분하다. 다음 내용을 논의에 이어 붙이자."
+        },
+        {
+          "id": "a-262b56aca2dc8c0f39fe",
+          "source_range": [
+            56,
+            139
+          ],
+          "ko_range": [
+            36,
+            81
+          ],
+          "source_text": "“ἰδὼν” οὖν φησι “κύριος ὁ θεὸς ὅτι ἐπληθύνθησαν αἱ κακίαι τῶν ἀνθρώπων ἐπὶ τῆς γῆς,",
+          "ko_text": "그는 이렇게 말한다. “주 하나님이 사람들의 악이 땅 위에서 많아진 것을 보시고,"
+        },
+        {
+          "id": "a-5ce64ce2769c3480482d",
+          "source_range": [
+            140,
+            212
+          ],
+          "ko_range": [
+            82,
+            118
+          ],
+          "source_text": "καὶ πᾶς τις διανοεῖται ἐν τῇ καρδίᾳ ἐπιμελῶς τὰ πονηρὰ πάσας τὰς ἡμέρας,",
+          "ko_text": "누구나 날마다 마음속으로 악한 것을 열심히 생각하는 것을 보시고,"
+        },
+        {
+          "id": "a-2defa6dd4c42a4590a23",
+          "source_range": [
+            213,
+            282
+          ],
+          "ko_range": [
+            119,
+            156
+          ],
+          "source_text": "ἐνεθυμήθη ὁ θεός, ὅτι ἐποίησε τὸν ἄνθρωπον ἐπὶ τῆς γῆς, καὶ διενοήθη.",
+          "ko_text": "하나님은 땅 위에 사람을 만드셨다는 사실을 마음에 두고 숙고하셨다."
+        },
+        {
+          "id": "a-aaf32d306c2e3ae57bf6",
+          "source_range": [
+            283,
+            356
+          ],
+          "ko_range": [
+            157,
+            195
+          ],
+          "source_text": "καὶ εἶπεν ὁ θεός· ἀπαλείψω τὸν ἄνθρωπον ὃν ἐποίησα ἀπὸ προσώπου τῆς γῆς”.",
+          "ko_text": "하나님이 말씀하셨다. ‘내가 만든 사람을 땅의 표면에서 없애겠다.’”"
+        }
+      ],
+      "notes": [
+        "창세기 6.5-7을 인용하며, 하나님의 반응을 ἐνεθυμήθη와 διενοήθη라는 생각하고 숙고하는 동사들로 적는다. 이 절까지는 인용문이며, 불변성에 관한 후속 설명은 21절 이후에 이어진다."
+      ],
+      "work_passage_id": "deus:20",
+      "html_path": "works/deus/index.html#p-20",
+      "fixed_html_path": "releases/public-0.35/works/deus/index.html#p-20",
+      "alignment_revision": "sha256:a0cf7dc3313cff1adbaa03b95fddd0d88e9534801a3fb88e01eb9a3e5ea1fa56",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:817b5fa134d42c5ec865782f9ba606175cb1c361f1fe37b671755b41dbab2f03",
+          "translation_revision": "sha256:cb96237eeebdc2801eed23c0f272640d0be454a0d344bef613c864dfae69d6cb",
+          "alignment_revision": "sha256:a0cf7dc3313cff1adbaa03b95fddd0d88e9534801a3fb88e01eb9a3e5ea1fa56"
+        },
+        "scoped_ai_review": {
+          "id": "deus-addition-20261003",
+          "scope": "하나님의 불변성에 관하여 1-20절 전체, 21-183절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:817b5fa134d42c5ec865782f9ba606175cb1c361f1fe37b671755b41dbab2f03",
+            "translation_revision": "sha256:cb96237eeebdc2801eed23c0f272640d0be454a0d344bef613c864dfae69d6cb",
+            "alignment_revision": "sha256:a0cf7dc3313cff1adbaa03b95fddd0d88e9534801a3fb88e01eb9a3e5ea1fa56"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg008/tlg0018.tlg008.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0으로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "하나님의 불변성에 관하여",
+        "reference": "20",
+        "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
+        "release": "public-0.35",
+        "translation_revision": "sha256:cb96237eeebdc2801eed23c0f272640d0be454a0d344bef613c864dfae69d6cb",
+        "fixed_path": "releases/public-0.35/works/deus/index.html#p-20"
+      }
+    }
+  ],
+  "related": [],
+  "aliases": [
+    "하나님의 불변성에 관하여",
+    "Deus",
+    "Quod Deus sit immutabilis"
+  ],
+  "translationLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "sourceCommit": "03776b39f4047c5cff06f5296fae4b2bae4b08fb",
+  "licenseEvidence": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg008/tlg0018.tlg008.1st1K-grc1.xml",
+  "openAccessFullTextUrl": "https://archive.org/download/philonisalexandr0103philuoft/philonisalexandr0103philuoft.pdf",
+  "original_title": "Quod Deus sit immutabilis",
+  "display_title": "하나님의 불변성에 관하여",
+  "reference_scheme": "section",
+  "coverage_label": "1-20절 수록",
+  "edition_id": "deus-first1k-03776b39",
+  "source_file_sha256": "e465ef5e4e88010e981ccd00cd01ab534925af95f7b5a287a1eaec5c656b125d",
+  "display_author": "필론",
+  "scope": "하나님의 불변성에 관하여 1-20절 전체, 21-183절 미수록",
+  "coverage": "complete_scope",
+  "release_id": "public-0.35",
+  "source_language": "grc",
+  "source_kind": "edited_ancient_original",
+  "human_reviewed": false,
+  "translation_method": "고정 원어 본문에서 직접 번역",
+  "html_path": "works/deus/index.html",
+  "json_path": "data/works/deus.json",
+  "fixed_html_path": "releases/public-0.35/works/deus/index.html",
+  "source_profile": "deus-first1k-03776b39",
+  "source_decisions": [
+    {
+      "kind": "display_punctuation",
+      "action": "Curly quotation marks, ASCII hyphens, NFC and regular spaces; downloaded XML unchanged."
+    },
+    {
+      "ref": "1",
+      "kind": "inline_editor_reference",
+      "action": "separated_from_body",
+      "text": "(Gen. 6, 4)"
+    },
+    {
+      "ref": "4",
+      "kind": "note",
+      "action": "separated_from_body",
+      "text": "φίλωνος ὅτι ἄτρεπτον τὸ θεῖον MAGH, φίλωνος ἰουδαίου ὅτι ἄτρεπτόν ἐστι τὸ θεῖον λόγος θ U, περὶ τοῦ ὅτι ἄτρεπτόν ἐστι τὸ θεῖον F, τοῦ αὐτοῦ ὅτι ἄτρεπτον τὸ θεῖον P, cf. Prolegomeua ἐγέννων MA: ἐγεννῶσαν ceteri αὐτοῖς Α: αὐτοῖς ceteri o οὐκ ἀνάξιον U 4 διαφορὰ UF ἐναργέστατον P 5 τοῦ orn. UF 6 πολυσχεδεῖ UFH’L πολυτρόπῳ coni. Mang. ὄχλον] ὄγκον coni. Mang. 7 εἶπεν Α: εἰπεῖν ceteri 9 ἐλλάμπουσι M.\\n-: ἐκλάμπουσι ceteri 10 δύναται ὁρᾶν conicio ὁρᾶν G 12 ἀμβλυθἐν U, ἀμβλυνθὲν F ἐ-ιισκιασθὲν UF ἀμυδρωθῇ ante τὸ add. U ἑταῖροι] spatium iu M, om. AG 13 τεθηλυμἐνοις AUF 15 αἱ] ἀεὶ UF τῶν φαύλων GUFL2"
+    },
+    {
+      "ref": "4",
+      "kind": "inline_editor_reference",
+      "action": "separated_from_body",
+      "text": "(Gen. 15,6)"
+    },
+    {
+      "ref": "4",
+      "kind": "inline_editor_reference",
+      "action": "separated_from_body",
+      "text": "(Gen. 22,2.9)"
+    },
+    {
+      "ref": "6",
+      "kind": "inline_editor_reference",
+      "action": "separated_from_body",
+      "text": "(I Reg. 1,28)"
+    },
+    {
+      "ref": "7",
+      "kind": "note",
+      "action": "separated_from_body",
+      "text": "1 ἐνάρμοστοι H1P δ’] δὴ conicio τὸ] τῶ ex corr. G,H ἑαυτῇ GUF: αὐτῶ MAPH1, ἑαυτῶ H2 2 τὸ post ἐστὶ add. UFL2 ὃς] ὡς UF 3 ἔκγονον conicio 5 ἁρμόζον Α 6 οὐδενὸς ἔτι θνητοῦ UF 7 εὐείδρυτον U, ἀίδρυτον F 10 αὐτῆς MAPH1: αὐτὴ GH2, αὐτὴ U, αὕτη F 11 γονὰς θείας UF ταῖς τελεσφόροις GH2 13 ἐπεφήμισε Mang.: ἐφήμισε codd, δὲ MGU 14 κρίνασα AD 14-18 ἀγαθόν. ἔφη γάρ· δοτὸν ὄντα δίδωμι αὐτὸν τῷ δόντι θεῷ κατὰ τὸ ἱερώτατον τοῦ νόμου πρόσταγμα τὸ φάσκον· δῶρά μου D 14 ὃ] ὦ Α 15 αὐτῆς G 16 ὄντα post τοῦτον add. G τῷ] τὸν Α 17 δοτὸν ὄντα] δοτῶν ὦ (sic) G 18 Μωυσέως U: Μωυσέος GF, Μώσεως MAP, Μωσέος Η γράμμα Μωυσ. transpos. UF τὰ δῶρα-ἐμοὶ] τὴν προσφοράν μου ἄρτον μου εἰς πυρόν μου διατηρήσεται τοῦ προσφέρειν ἐμοί (μοι UF 19 διατηρήσεται AG, διατηρήσατε D μοι D"
+    },
+    {
+      "ref": "7",
+      "kind": "note",
+      "action": "separated_from_body",
+      "text": "9. 10 R fol. 91r τοῦ αὐτοῦ. τούτου γίνεται μαθητρὶς καὶ διάδοχος ἄννα. 19-58,5. 14-19 DC fol. 254r τοῦ αὐτοῦ ἐκ τοῦ περὶ γιγάντων DR fol. 269v τοῦ αὐτοῦ: τίνι εὐχαριστητέον πλὴν θεῷ-καθαρεύσωμεν ἀδικημάτων. pergunt lin. 14-19: οὕτως ἡ Ἀννα τὸν Σαμουὴλ ἀντιδίδωσι τῷ δόντι-προσφέρειν μοι. 18 sqq. Origenes, Homilia XXIII 2 in Numeros p. 357 (ad eundem locum): nemo suum aliquid offert deo, sed quod offert, domini est; et non tam sua quis offert deo quam ipsi quae sua sunt reddit . . . . a me enim cuncta quae habet humanum genus percipit."
+    },
+    {
+      "ref": "7",
+      "kind": "inline_editor_reference",
+      "action": "separated_from_body",
+      "text": "(Num. 28,2.)"
+    },
+    {
+      "ref": "10",
+      "kind": "inline_editor_reference",
+      "action": "separated_from_body",
+      "text": "(I Reg. 2, 5)"
+    },
+    {
+      "ref": "11",
+      "kind": "note",
+      "action": "separated_from_body",
+      "text": "1 ὅτι μὴ] ἡ HP, εἰ μὴ D δοθέντων ἡμῖν D 2 χρῄζων δὲ οὐδενὸς κελεύει D 3 αὑτῶ M: αὐτῶ ceteri τὰ ἑαυτοῦ D αὐτοῦ DC): om. codd. 4 εὐχαριστητικῶς MH1P,Dc in mg.: εὐχαριστικῶς ceteri D καὶ τιμητικῶς ἔχειν (om. αὐτοῦ) D 5 καθαρεύσομεν F: καθαρεύσωμεν ceteri D 6 ἐννοίαις scripsi (an διανοίαις, διανοήσεσι?): ὀνείδεσι MAGHP, εἴδεσι UF, νοήμασι vel νοήσεσι coni. Cohn νομιζόμενα ante ἱερὰ add. G 7 λουσάμενος πρότερον UF φαιδρύνεται AU 8 δὲ om. U ἔτι om. Η1P, ἐπὶ Η2 10 πεποίηται UF: πεποίηνται ceteri κατ’ αὐτὸ UF 10. 11 ἀλλ’ ὅμως καθιδρυμένον ὃν ἄψυχον UF, mg. L καθιδρυμένον delevi): om. ceteri 12 ὑπομένει U, ὑπομεῖναι Α 13 μετανοήσειν Α 14 τῷ] τὸ AU ἐξεργάσασθαι G, εἰργάσθαι F 15 δυσκατόρθωτος PH1 16 τὸν om. U 17 αὐτοῖς ACP 18 τὸ] τόδε F 19 ἡ δὲ] καὶ ἡ Α 21 εἰ-αὐτὴν] ἡ μονὰς ἑβδοματικὴν αὐτὴν UF εἰ μή τι om. Α τι M: τὴν G, τις ceteri 21. 22 νομίζοι HP 23 ἐναρέτου] ἐπ’ ἀρετὴ Α θεῶ μόνω H, μόνῳ om. UF 24 συνεῖναι UF"
+    },
+    {
+      "ref": "16",
+      "kind": "inline_editor_reference",
+      "action": "separated_from_body",
+      "text": "(Gen. 38, 9)"
+    },
+    {
+      "ref": "17",
+      "kind": "note",
+      "action": "separated_from_body",
+      "text": "1 δ’ ἡ] δὴ AG 1. 2 ἀναπαυσομένης F 2 ψυχῆς om. G 2. 3 μεταποιουμένης Α 7 ἄθλους om. AG, ἄθλου M ἑβδομάδι MH1P: ἑβδομάδα AGUFH2 τὴν] τὸν Η μονάδα MAGPH1: μονάδι UFH 2 ἦν] ὧν H εὔτοκος MAGUF: εὔτεκνος HP γὰρ om. HP 9 σφόδρα om. UF πολλὴ A ὠδίνει UF 10 γίγνεται UF κἀπὶ τὰ πλήθη Α 11 εἰλητόμηνα H1P καὶ] ἢ F δ’ post πλεῖστα add. UF 12 ἐξασθενεῖν Α τὰς UF: τὰ ceteri προσχήματα MAGP πρὸς χρώματα καὶ σχήματα UF 13 τἀς] τὰ H προσφωνὰς AGF 14 καὶ τῶν om. UF αὐτὴν UFHP: αὐτῆς MAG 15 ἐκγόνων conicio παρείεται G, παρεῖται Η2 17 ἑαυτῶ G 18 ἧτταν UFH2: ἧττον ceteri ὑπὸ G: ὑπὲρ ceteri 19 Αὐνὰν MG: Αὔναν Α, Ἄνναν PH1, κατ’ Ἄνναν Η 2, ἀν’ ὢν text. U (corr. in mg.), ὧν ἄν F ἀναισθόμενος U, corr. in mg. οὐχ αὐτῶ H2 τὸ om. UF 20 ὄντων] φύντων G ἐστὶ γένος UF 21 ἄν ἐδέξατο H 2 22 πράξουσι FP: πράξωσι ceteri αὑτῶν H 2: αὐτῶν ceteri 24 ἐθνῶν GUFH μὴ ante κοινῶν om. Α 25 ἁγιστείας UF, ἁγιστίας HP, ἀγιστίας Α"
+    },
+    {
+      "ref": "20",
+      "kind": "inline_editor_reference",
+      "action": "separated_from_body",
+      "text": "(Gen. 6,5-7)"
+    }
+  ],
+  "source_collations": [],
+  "validation_records": [
+    {
+      "id": "deus-addition-20261003",
+      "scope": "하나님의 불변성에 관하여 1-20절 전체, 21-183절 미수록",
+      "date": "2026-10-03",
+      "reviewer_type": "AI",
+      "human_reviewed": false,
+      "reading_record_count": 20,
+      "meaning_groups": 88,
+      "methods": [
+        "선정한 그리스어 20개 대목을 읽고 한국어와 의미 대응을 작성했다.",
+        "해당 인쇄면과 편집 표기를 대조하고 문장 연결, 화자와 결락을 확인했다."
+      ],
+      "sources": [
+        {
+          "work": "deus",
+          "title": "하나님의 불변성에 관하여",
+          "url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg008/tlg0018.tlg008.1st1K-grc1.xml",
+          "verified": "2026-10-03",
+          "http_status": 200,
+          "bytes": 208232,
+          "sha256": "e465ef5e4e88010e981ccd00cd01ab534925af95f7b5a287a1eaec5c656b125d",
+          "full_text": true,
+          "commit": "03776b39f4047c5cff06f5296fae4b2bae4b08fb",
+          "license": "CC BY-SA 4.0",
+          "license_evidence": "TEI publicationStmt/availability/licence",
+          "open_access_full_text_url": "https://archive.org/download/philonisalexandr0103philuoft/philonisalexandr0103philuoft.pdf",
+          "pdf_access_record": "pdf-access.json",
+          "printed_volume": 2,
+          "bibliographic_status": "confirmed",
+          "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
+          "pdf_pages_read": [
+            522,
+            523,
+            524,
+            525,
+            526
+          ],
+          "pdf_title_pages_read": [
+            9,
+            429
+          ],
+          "access_evidence": "공개 그리스어 XML과 대학도서관 인쇄본 PDF 전체를 인증 없이 내려받음",
+          "printed_collation_record": "printed-collation.json"
+        }
+      ],
+      "passages": [
+        {
+          "ref": "1",
+          "targets": {
+            "source_revision": "sha256:eb48cd7b183c3a27243a7e5cc520aaf410675d7b0fc6c7e2bc2638854a15a1dd",
+            "translation_revision": "sha256:fce07efb691e6fb19a13c52c5d83f2b1ba868e9583ad090cefa566357fe7c8aa",
+            "alignment_revision": "sha256:5d26e4721bf37536392eb9b35fbd32bc6408e0f3b68f7435f84305e422b71b15"
+          }
+        },
+        {
+          "ref": "2",
+          "targets": {
+            "source_revision": "sha256:a1f463722920f260cd160195c6a397aaabe5af0a87eca6854f7ce98f9c85ecc0",
+            "translation_revision": "sha256:276653d13c42e4773c83bc3e87ad902e60335bbabe3bac54d8d8396f7f28e7ac",
+            "alignment_revision": "sha256:f68e0f19a802f4ee5944b20ab5e84d98a441082fd43e59e5c4475838b7d91f64"
+          }
+        },
+        {
+          "ref": "3",
+          "targets": {
+            "source_revision": "sha256:8771ebee8acbdef8ec3d24e86cbfb611001564ee63f0445c3b7cc79175371273",
+            "translation_revision": "sha256:6071faa2d8aaeb54925edf6706d1cb8ef6a1b02fd51bb0efac67d7be779b2c6b",
+            "alignment_revision": "sha256:eb8b96a56c60cecdc5737ab8a7585fbddd3d0c2f78361163b520646081e2b7fb"
+          }
+        },
+        {
+          "ref": "4",
+          "targets": {
+            "source_revision": "sha256:b409b50dde2c7501d02d3aa90957379741699e7aeb3e34ec76dfd84a44edefbf",
+            "translation_revision": "sha256:d5d7437b149fd1f2c93b1db4e64584e99b48866bce6a8dfb113c96aa81d51a5a",
+            "alignment_revision": "sha256:34650f003fc397475a322403264e23fa76d1b0810f424b1b0448194bfc7031de"
+          }
+        },
+        {
+          "ref": "5",
+          "targets": {
+            "source_revision": "sha256:b4d6bd3a609979e03e874a3be94653719ceaa46498b282252bf15423ceff459f",
+            "translation_revision": "sha256:6d1f16cba8bffcef397ee52236af3bb6ae77549f7b1cb306352dc64c05f0a873",
+            "alignment_revision": "sha256:0dfd4b477443dda89f8b2a403941ac2026a95a9f9735e3766f5d7ae6dc0ca76a"
+          }
+        },
+        {
+          "ref": "6",
+          "targets": {
+            "source_revision": "sha256:a435f7b9ed068f6fc9c249df17cfe4fb2ac08ca6faa6fbda1075faf7d88338e7",
+            "translation_revision": "sha256:ee2ab296e872c700d946e1116689c3bf1677b912b6b8ace43bf6f375a55e732b",
+            "alignment_revision": "sha256:cb51df1a17c14c2f1d93f62bc017986659f69f5c7f568496b3ebfd59bdac0872"
+          }
+        },
+        {
+          "ref": "7",
+          "targets": {
+            "source_revision": "sha256:529898b60fb2eb6d083909ec567866e021b9457d2534e0075e5ee6f56e4a232c",
+            "translation_revision": "sha256:1e392d449c14ff72f0f22e1dce9448304385c40d8b8f362ee592ab01c58eb62d",
+            "alignment_revision": "sha256:e21654f6fdd062ef3b30cff26ee1bf744fc288b17e4b0dda7652ea0d60f096ef"
+          }
+        },
+        {
+          "ref": "8",
+          "targets": {
+            "source_revision": "sha256:e12b98d98f080149749fc43e30710ac76a1849fb0b75fa8f3843bd0cf8c1f2bf",
+            "translation_revision": "sha256:10bf7655eed8f93ed9f883fbad2d8488bd12215827c1ccc834aac05c39ef2f0a",
+            "alignment_revision": "sha256:3b01888f59128a4566e55bf637fb5a3fd23340caceea2e0d79908e5ab66e4cd1"
+          }
+        },
+        {
+          "ref": "9",
+          "targets": {
+            "source_revision": "sha256:18050cbd70cb6c817303e654400b7e445b9206eb16c968d6c02e6ef09195dad7",
+            "translation_revision": "sha256:d466fdc1420f82bf9d445a6d183b0663535e3977fa648eb0a6d87437c25f1b0c",
+            "alignment_revision": "sha256:900f13f8fdf271769f0a4a0386986d98497a5cf54662ef4f1103f9a52f9e5944"
+          }
+        },
+        {
+          "ref": "10",
+          "targets": {
+            "source_revision": "sha256:7f41e59640d6a23fefc577df922562392b03289abc2451d9ca233dd23215ea44",
+            "translation_revision": "sha256:97871d2106e068be2b6394ae3d441e2bab6c5448ea38ac1133074596e4f204a2",
+            "alignment_revision": "sha256:b52875ac01d426dc644624ad59502a429663527657d83cc39dd0a4ddfae0108c"
+          }
+        },
+        {
+          "ref": "11",
+          "targets": {
+            "source_revision": "sha256:7834c49f3fe0aff852651c1006d88acd39743cdee79caa3618e1d8af50f4ec55",
+            "translation_revision": "sha256:6c53d3629b16d8d9578ef933b83febdd28ae035060cd82a1c9a00940443b1f3f",
+            "alignment_revision": "sha256:5d3b15d38f1dc8c89ae6fd9537316ba462fc27398b0f6ee7134379ed7cce0097"
+          }
+        },
+        {
+          "ref": "12",
+          "targets": {
+            "source_revision": "sha256:536be0afc17e6523ff10caec3eb8aef762e0c8cdac086b2a9534b1ec36c53a8f",
+            "translation_revision": "sha256:a9a422f075d1ed68a97037aa7d8ff3f54aa3a879da854041290192f32f2886f8",
+            "alignment_revision": "sha256:97638d17c22eee40de26342c5db476d8f4511d46096c38b8071ae858da48bfde"
+          }
+        },
+        {
+          "ref": "13",
+          "targets": {
+            "source_revision": "sha256:0cf3fcd93a6c16d52ca5e119bf32917fa3f8e5d035583f401220edaf577c72b4",
+            "translation_revision": "sha256:998601ad056b80074ba0908a44fc954ea2d5b861d214657d6aa3fea191963496",
+            "alignment_revision": "sha256:9d503c2563f3a989325b056d65f122b37d10bad0f75e7d4cd70f7dc618fa49f9"
+          }
+        },
+        {
+          "ref": "14",
+          "targets": {
+            "source_revision": "sha256:c4d3d24c720c3d69532334a043f87b3cb05867d75c37b9ea142e8cc662e4e953",
+            "translation_revision": "sha256:dbe7c0d43cca0a2e06dfa21e6fd2c8a9e14b5f57e11a80c572c2acecf5876c6a",
+            "alignment_revision": "sha256:7d31884f7c3d594f18f233453a6ab01611bd13d32b14b2d57033f8b365254df9"
+          }
+        },
+        {
+          "ref": "15",
+          "targets": {
+            "source_revision": "sha256:9e5f21c62a481e82774483e0a28182fd7da931b5d40c8de611f97755035b5d1e",
+            "translation_revision": "sha256:83bbf0ebc173cec67e06fbc5f04950f863dd4e5a8ea2207c0abc7dc6d573ee3f",
+            "alignment_revision": "sha256:2d2e804075524879e22e5411ebff8437de13f7260bc34950d01bd7e409fa31ed"
+          }
+        },
+        {
+          "ref": "16",
+          "targets": {
+            "source_revision": "sha256:7cf426f5d97519bc658b146fe96ef972f0660826159240317954e089fe38f019",
+            "translation_revision": "sha256:e5b00c2e1a19656fd2c44ff8cbda516b364f76001789e38f96c3431b3de7ba16",
+            "alignment_revision": "sha256:8c83ed6f643b6683348611392621807801f870bfca21e28333d1619735a5bc15"
+          }
+        },
+        {
+          "ref": "17",
+          "targets": {
+            "source_revision": "sha256:4119fe8b281fcda46ac5ef1d1da835a97e101632d9115e400301d2debfd6ac77",
+            "translation_revision": "sha256:7c40b2d36fefff9fb595970379fea9a73c3e063bce493399a82f697d4abb7527",
+            "alignment_revision": "sha256:20317c6bd086a6006c68591f701bfa473948bf8548237ad5c35f9aea40adfaeb"
+          }
+        },
+        {
+          "ref": "18",
+          "targets": {
+            "source_revision": "sha256:e32f1c4f38f95448a17ab480555660e6df9d01c68d5295297709e577545de145",
+            "translation_revision": "sha256:6a13dfc1521d2ae84c5af24bae0ee40c7dfd7c6d079e5789d5a78308e62b202b",
+            "alignment_revision": "sha256:ae6c5662ec7d965f5f9bd1a9b2f84b4655f47fba1e95b228ca24b01c71c3fcb6"
+          }
+        },
+        {
+          "ref": "19",
+          "targets": {
+            "source_revision": "sha256:6ca5f263370f26b4dcf4188f0b67495f1e749ac98a71484668dfd66d6c173363",
+            "translation_revision": "sha256:7d72f7414c50fbe5d03b783840c7ecda82ed5e84fe1b58c4e4e52e8a005cb0e7",
+            "alignment_revision": "sha256:4496af3f8486e18e5d4b477265f0bfff485db0b771a2e2b44c945139840489ef"
+          }
+        },
+        {
+          "ref": "20",
+          "targets": {
+            "source_revision": "sha256:817b5fa134d42c5ec865782f9ba606175cb1c361f1fe37b671755b41dbab2f03",
+            "translation_revision": "sha256:cb96237eeebdc2801eed23c0f272640d0be454a0d344bef613c864dfae69d6cb",
+            "alignment_revision": "sha256:a0cf7dc3313cff1adbaa03b95fddd0d88e9534801a3fb88e01eb9a3e5ea1fa56"
+          }
+        }
+      ]
+    }
+  ],
+  "publication_status": "public_review_edition"
+}
