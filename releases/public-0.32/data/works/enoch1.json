@@ -1,0 +1,1221 @@
+{
+  "id": "enoch1",
+  "title": "에녹1서(그리스어 전승)",
+  "author": "익명",
+  "abbreviation": "1 En. Gr.",
+  "corpus": "jewish",
+  "language": "grc",
+  "genre": "묵시문학",
+  "period": "고대",
+  "region": "유대문헌 전승",
+  "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
+  "summary": "선택받은 의인들을 향한 에녹의 축복과 거룩하신 분의 도래, 심판과 평화의 약속을 읽습니다.",
+  "topics": [
+    "에녹",
+    "심판",
+    "의인",
+    "유다서"
+  ],
+  "notes": [],
+  "sourceUrl": "https://github.com/eliranwong/LXX-Swete-1930/blob/1d3efc3c63bd384a4f3f07ed37eef54b0d45ac33/01-Swete_word_with_punctuations.csv",
+  "readerUrl": "https://archive.org/details/oldtestgreek00unknuoft",
+  "license": "GPL-3.0",
+  "licenseUrl": "https://www.gnu.org/licenses/gpl-3.0.html",
+  "licenseEvidence": "https://github.com/eliranwong/LXX-Swete-1930/blob/1d3efc3c63bd384a4f3f07ed37eef54b0d45ac33/LICENSE",
+  "sourceCredit": "그리스어 전사: Pasquale Amicarelli. 데이터 제공: Eliran Wong, LXX-Swete-1930. 원판 편집: Henry Barclay Swete.",
+  "verified": "2026-10-03",
+  "translationCredit": "Codex 작성, 원어 직접 번역 초안",
+  "reviewer": "학술 검토 전",
+  "translationLicense": "GPL-3.0",
+  "rightsNotice": "이 문헌의 그리스어 전사·한국어 번역·번역 메모·대응 자료는 GNU GPL 제3판으로 제공합니다. 고정 단어표와 장절표에서 해당 범위를 재구성하고 인쇄본과 대조했습니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문에서 선택한 다른 읽기와 보충 표시는 결정 기록과 메모에 있습니다. 수정·재배포 시 출처와 변경 기록, 같은 이용허락을 유지하세요. 무보증으로 제공하며 이용허락 전문을 함께 제공합니다.",
+  "sourceReferenceUrl": "https://github.com/eliranwong/LXX-Swete-1930/blob/1d3efc3c63bd384a4f3f07ed37eef54b0d45ac33/00-Swete_versification.csv",
+  "sourceCommit": "1d3efc3c63bd384a4f3f07ed37eef54b0d45ac33",
+  "passages": [
+    {
+      "ref": "1.1",
+      "chapter": 1,
+      "verse": 1,
+      "original": "ΛΟΓΟΣ εὐλογίας Ἑνώχ, καθὼς εὐλόγησεν ἐκλεκτοὺς δικαίους οἵτινες ἔσονται εἰς ἡμέραν ἀνάγκης ἐξᾶραι πάντας τοὺς ἐχθρούς, καὶ σωθήσονται δίκαιοι.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:0977aceadcc49c6f34d995efed20c678b9060d80dc8deb5e4dee7222d880548f",
+      "source_file_sha256": "5cdeb6c993ff2883485b5c2006340bfd711a5d67b84f59aafac4e1caa4f6fbf4",
+      "reference_file_sha256": "39f71aabe259e3878a6d98df02f56eca8d62b1712491601f3812c81c9a1d3c6b",
+      "source_locator": {
+        "word_start": 599241,
+        "word_end_exclusive": 599260,
+        "reference_label": "1En.1:1"
+      },
+      "korean": "에녹의 축복의 말씀이다. 그는 환난의 날에 모든 원수를 없애게 될 선택받은 의인들을 축복했다. 의인들은 구원받을 것이다.",
+      "translation_revision": "sha256:a597bb30c83c606a8f8541b9364313c9f659e6a83470bd98f78bc87bc9c692e3",
+      "groups": [
+        {
+          "id": "a-a19927f53f8132d2e226",
+          "source_range": [
+            0,
+            20
+          ],
+          "ko_range": [
+            0,
+            13
+          ],
+          "source_text": "ΛΟΓΟΣ εὐλογίας Ἑνώχ,",
+          "ko_text": "에녹의 축복의 말씀이다."
+        },
+        {
+          "id": "a-807919ae85402a69fed7",
+          "source_range": [
+            21,
+            118
+          ],
+          "ko_range": [
+            14,
+            52
+          ],
+          "source_text": "καθὼς εὐλόγησεν ἐκλεκτοὺς δικαίους οἵτινες ἔσονται εἰς ἡμέραν ἀνάγκης ἐξᾶραι πάντας τοὺς ἐχθρούς,",
+          "ko_text": "그는 환난의 날에 모든 원수를 없애게 될 선택받은 의인들을 축복했다."
+        },
+        {
+          "id": "a-a64ad81c7a0c914ad897",
+          "source_range": [
+            119,
+            142
+          ],
+          "ko_range": [
+            53,
+            67
+          ],
+          "source_text": "καὶ σωθήσονται δίκαιοι.",
+          "ko_text": "의인들은 구원받을 것이다."
+        }
+      ],
+      "notes": [
+        "이 자료는 Swete 제3권의 아크미임 그리스어 전승 1장이다. 그리스어로 전해지는 부분들과 전체 에티오피아어판은 수록 범위가 다르다. 여기서는 축복과 심판의 서문 9절을 수록했다."
+      ],
+      "work_passage_id": "enoch1:1.1",
+      "html_path": "works/enoch1/index.html#p-1-1",
+      "fixed_html_path": "releases/public-0.32/works/enoch1/index.html#p-1-1",
+      "alignment_revision": "sha256:df9c1eda5bd76589039b33f5e1c506eec76850b89d52c843cfd164b3ebeb02f8",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_word_table_extraction",
+        "targets": {
+          "source_revision": "sha256:0977aceadcc49c6f34d995efed20c678b9060d80dc8deb5e4dee7222d880548f",
+          "translation_revision": "sha256:a597bb30c83c606a8f8541b9364313c9f659e6a83470bd98f78bc87bc9c692e3",
+          "alignment_revision": "sha256:df9c1eda5bd76589039b33f5e1c506eec76850b89d52c843cfd164b3ebeb02f8"
+        },
+        "scoped_ai_review": {
+          "id": "enoch1-initial-20261003",
+          "scope": "에녹1서(그리스어 전승) 1장의 채택 그리스어 본문 9절 전체, 2장 이후 미수록, 전체 에티오피아어판과 다른 수록 범위",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:0977aceadcc49c6f34d995efed20c678b9060d80dc8deb5e4dee7222d880548f",
+            "translation_revision": "sha256:a597bb30c83c606a8f8541b9364313c9f659e6a83470bd98f78bc87bc9c692e3",
+            "alignment_revision": "sha256:df9c1eda5bd76589039b33f5e1c506eec76850b89d52c843cfd164b3ebeb02f8"
+          }
+        }
+      },
+      "rights": {
+        "source": "GPL-3.0",
+        "source_url": "https://github.com/eliranwong/LXX-Swete-1930/blob/1d3efc3c63bd384a4f3f07ed37eef54b0d45ac33/01-Swete_word_with_punctuations.csv",
+        "license_url": "https://www.gnu.org/licenses/gpl-3.0.html",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "GPL-3.0",
+        "alignment_license": "GPL-3.0",
+        "notice": "이 문헌의 그리스어 전사·한국어 번역·번역 메모·대응 자료는 GNU GPL 제3판으로 제공합니다. 고정 단어표와 장절표에서 해당 범위를 재구성하고 인쇄본과 대조했습니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문에서 선택한 다른 읽기와 보충 표시는 결정 기록과 메모에 있습니다. 수정·재배포 시 출처와 변경 기록, 같은 이용허락을 유지하세요. 무보증으로 제공하며 이용허락 전문을 함께 제공합니다."
+      },
+      "citation": {
+        "author": "익명",
+        "work": "에녹1서(그리스어 전승)",
+        "reference": "1.1",
+        "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
+        "release": "public-0.32",
+        "translation_revision": "sha256:a597bb30c83c606a8f8541b9364313c9f659e6a83470bd98f78bc87bc9c692e3",
+        "fixed_path": "releases/public-0.32/works/enoch1/index.html#p-1-1"
+      }
+    },
+    {
+      "ref": "1.2",
+      "chapter": 1,
+      "verse": 2,
+      "original": "Καὶ ἀναλαβὼν τὴν παραβολὴν αὐτοῦ εἶπεν Ἑνώχ Ἄνθρωπος δίκαιός ἐστιν, ὅρασις ἐκ θεοῦ αὐτῷ ἀνεῳγμένη ἦν· ἔχων τὴν ὅρασιν τοῦ ἁγίου καὶ τοῦ οὐρανοῦ. ἔδειξέν μοι, καὶ ἁγιολόγων ἁγίων ἤκουσα ἐγώ, καὶ ὡς ἤκουσα παρ᾽ αὐτῶν πάντα καὶ ἔγνων ἐγὼ θεωρῶν· καὶ οὐκ ἐς τὴν νῦν γενεὰν διενοούμην, ἀλλὰ ἐπὶ πόρρω οὖσαν ἐγὼ λαλῶ.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:ec9e43f48d150dff7b3e057230b5bd4726672b4dd95a6872bcb18d6545088a2f",
+      "source_file_sha256": "5cdeb6c993ff2883485b5c2006340bfd711a5d67b84f59aafac4e1caa4f6fbf4",
+      "reference_file_sha256": "39f71aabe259e3878a6d98df02f56eca8d62b1712491601f3812c81c9a1d3c6b",
+      "source_locator": {
+        "word_start": 599260,
+        "word_end_exclusive": 599314,
+        "reference_label": "1En.1:2"
+      },
+      "korean": "에녹이 자신의 비유를 들어 말했다. 그는 의로운 사람이며 하나님에게서 온 환상을 보도록 눈이 열려 있었다. 거룩하신 분과 하늘의 환상을 지니고 있었다. “그분이 내게 보여 주셨고 나는 거룩한 이들의 거룩한 말씀을 들었다. 나는 그들에게서 모든 것을 듣고 그것을 보며 깨달았다. 내가 생각한 것은 지금 세대에 관한 것이 아니다. 나는 먼 훗날의 세대를 향해 말한다.",
+      "translation_revision": "sha256:e622003ef556275dc786700a0700bf73e4a29d620cc79e8b12afd847ee875aa6",
+      "groups": [
+        {
+          "id": "a-dd1641ecb84f49b36d6f",
+          "source_range": [
+            0,
+            43
+          ],
+          "ko_range": [
+            0,
+            19
+          ],
+          "source_text": "Καὶ ἀναλαβὼν τὴν παραβολὴν αὐτοῦ εἶπεν Ἑνώχ",
+          "ko_text": "에녹이 자신의 비유를 들어 말했다."
+        },
+        {
+          "id": "a-ad3f080ccdcce407a094",
+          "source_range": [
+            44,
+            101
+          ],
+          "ko_range": [
+            20,
+            59
+          ],
+          "source_text": "Ἄνθρωπος δίκαιός ἐστιν, ὅρασις ἐκ θεοῦ αὐτῷ ἀνεῳγμένη ἦν·",
+          "ko_text": "그는 의로운 사람이며 하나님에게서 온 환상을 보도록 눈이 열려 있었다."
+        },
+        {
+          "id": "a-43a9e5edebeea932c4f6",
+          "source_range": [
+            102,
+            144
+          ],
+          "ko_range": [
+            60,
+            84
+          ],
+          "source_text": "ἔχων τὴν ὅρασιν τοῦ ἁγίου καὶ τοῦ οὐρανοῦ.",
+          "ko_text": "거룩하신 분과 하늘의 환상을 지니고 있었다."
+        },
+        {
+          "id": "a-9c566a1f9c3f238c97f3",
+          "source_range": [
+            145,
+            189
+          ],
+          "ko_range": [
+            85,
+            123
+          ],
+          "source_text": "ἔδειξέν μοι, καὶ ἁγιολόγων ἁγίων ἤκουσα ἐγώ,",
+          "ko_text": "“그분이 내게 보여 주셨고 나는 거룩한 이들의 거룩한 말씀을 들었다."
+        },
+        {
+          "id": "a-194da9dd7051cba2979e",
+          "source_range": [
+            190,
+            242
+          ],
+          "ko_range": [
+            124,
+            154
+          ],
+          "source_text": "καὶ ὡς ἤκουσα παρ᾽ αὐτῶν πάντα καὶ ἔγνων ἐγὼ θεωρῶν·",
+          "ko_text": "나는 그들에게서 모든 것을 듣고 그것을 보며 깨달았다."
+        },
+        {
+          "id": "a-416f3dc5d75537a0ce8f",
+          "source_range": [
+            243,
+            311
+          ],
+          "ko_range": [
+            155,
+            203
+          ],
+          "source_text": "καὶ οὐκ ἐς τὴν νῦν γενεὰν διενοούμην, ἀλλὰ ἐπὶ πόρρω οὖσαν ἐγὼ λαλῶ.",
+          "ko_text": "내가 생각한 것은 지금 세대에 관한 것이 아니다. 나는 먼 훗날의 세대를 향해 말한다."
+        }
+      ],
+      "notes": [
+        "이 문장은 에녹을 삼인칭으로 소개한 뒤 내가 듣고 보았다는 일인칭 진술로 바뀐다. 먼 훗날의 세대를 향한 말이라는 시간 표현도 서문 안에 들어 있다."
+      ],
+      "work_passage_id": "enoch1:1.2",
+      "html_path": "works/enoch1/index.html#p-1-2",
+      "fixed_html_path": "releases/public-0.32/works/enoch1/index.html#p-1-2",
+      "alignment_revision": "sha256:6916a6d3a0262558e3a6f95957680d554a5d6db7bd667153eefe99f2526f3ef7",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_word_table_extraction",
+        "targets": {
+          "source_revision": "sha256:ec9e43f48d150dff7b3e057230b5bd4726672b4dd95a6872bcb18d6545088a2f",
+          "translation_revision": "sha256:e622003ef556275dc786700a0700bf73e4a29d620cc79e8b12afd847ee875aa6",
+          "alignment_revision": "sha256:6916a6d3a0262558e3a6f95957680d554a5d6db7bd667153eefe99f2526f3ef7"
+        },
+        "scoped_ai_review": {
+          "id": "enoch1-initial-20261003",
+          "scope": "에녹1서(그리스어 전승) 1장의 채택 그리스어 본문 9절 전체, 2장 이후 미수록, 전체 에티오피아어판과 다른 수록 범위",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:ec9e43f48d150dff7b3e057230b5bd4726672b4dd95a6872bcb18d6545088a2f",
+            "translation_revision": "sha256:e622003ef556275dc786700a0700bf73e4a29d620cc79e8b12afd847ee875aa6",
+            "alignment_revision": "sha256:6916a6d3a0262558e3a6f95957680d554a5d6db7bd667153eefe99f2526f3ef7"
+          }
+        }
+      },
+      "rights": {
+        "source": "GPL-3.0",
+        "source_url": "https://github.com/eliranwong/LXX-Swete-1930/blob/1d3efc3c63bd384a4f3f07ed37eef54b0d45ac33/01-Swete_word_with_punctuations.csv",
+        "license_url": "https://www.gnu.org/licenses/gpl-3.0.html",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "GPL-3.0",
+        "alignment_license": "GPL-3.0",
+        "notice": "이 문헌의 그리스어 전사·한국어 번역·번역 메모·대응 자료는 GNU GPL 제3판으로 제공합니다. 고정 단어표와 장절표에서 해당 범위를 재구성하고 인쇄본과 대조했습니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문에서 선택한 다른 읽기와 보충 표시는 결정 기록과 메모에 있습니다. 수정·재배포 시 출처와 변경 기록, 같은 이용허락을 유지하세요. 무보증으로 제공하며 이용허락 전문을 함께 제공합니다."
+      },
+      "citation": {
+        "author": "익명",
+        "work": "에녹1서(그리스어 전승)",
+        "reference": "1.2",
+        "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
+        "release": "public-0.32",
+        "translation_revision": "sha256:e622003ef556275dc786700a0700bf73e4a29d620cc79e8b12afd847ee875aa6",
+        "fixed_path": "releases/public-0.32/works/enoch1/index.html#p-1-2"
+      }
+    },
+    {
+      "ref": "1.3",
+      "chapter": 1,
+      "verse": 3,
+      "original": "Καὶ περὶ τῶν ἐκλεκτῶν νῦν λέγω καὶ περὶ αὐτῶν ἀνέλαβον τὴν παραβολήν μου. καὶ ἐξελεύσεται ὁ ἅγιός μου ὁ μέγας ἐκ τῆς κατοικήσεως αὐτοῦ,",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:9a3eadcc9cfea031cbbe35947bb20fcca127cf2cabf4fc9948cafa13f1021e96",
+      "source_file_sha256": "5cdeb6c993ff2883485b5c2006340bfd711a5d67b84f59aafac4e1caa4f6fbf4",
+      "reference_file_sha256": "39f71aabe259e3878a6d98df02f56eca8d62b1712491601f3812c81c9a1d3c6b",
+      "source_locator": {
+        "word_start": 599314,
+        "word_end_exclusive": 599338,
+        "reference_label": "1En.1:3"
+      },
+      "korean": "이제 나는 선택받은 이들에 관해 말하며 그들을 위해 내 비유를 들었다. 나의 위대하고 거룩하신 분이 자신의 처소에서 나오실 것이다.",
+      "translation_revision": "sha256:4e541a319bcd4a59636d8aa924133a068f442e56dff937bfeafa33fe56113d7e",
+      "groups": [
+        {
+          "id": "a-98a834b97afc32838173",
+          "source_range": [
+            0,
+            73
+          ],
+          "ko_range": [
+            0,
+            39
+          ],
+          "source_text": "Καὶ περὶ τῶν ἐκλεκτῶν νῦν λέγω καὶ περὶ αὐτῶν ἀνέλαβον τὴν παραβολήν μου.",
+          "ko_text": "이제 나는 선택받은 이들에 관해 말하며 그들을 위해 내 비유를 들었다."
+        },
+        {
+          "id": "a-12fdbef0fc71d7c3b06d",
+          "source_range": [
+            74,
+            135
+          ],
+          "ko_range": [
+            40,
+            73
+          ],
+          "source_text": "καὶ ἐξελεύσεται ὁ ἅγιός μου ὁ μέγας ἐκ τῆς κατοικήσεως αὐτοῦ,",
+          "ko_text": "나의 위대하고 거룩하신 분이 자신의 처소에서 나오실 것이다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "enoch1:1.3",
+      "html_path": "works/enoch1/index.html#p-1-3",
+      "fixed_html_path": "releases/public-0.32/works/enoch1/index.html#p-1-3",
+      "alignment_revision": "sha256:13d245be4001e899eaa83077ae77f0741e9700f641ee78dcf0cd8e1147f6aacb",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_word_table_extraction",
+        "targets": {
+          "source_revision": "sha256:9a3eadcc9cfea031cbbe35947bb20fcca127cf2cabf4fc9948cafa13f1021e96",
+          "translation_revision": "sha256:4e541a319bcd4a59636d8aa924133a068f442e56dff937bfeafa33fe56113d7e",
+          "alignment_revision": "sha256:13d245be4001e899eaa83077ae77f0741e9700f641ee78dcf0cd8e1147f6aacb"
+        },
+        "scoped_ai_review": {
+          "id": "enoch1-initial-20261003",
+          "scope": "에녹1서(그리스어 전승) 1장의 채택 그리스어 본문 9절 전체, 2장 이후 미수록, 전체 에티오피아어판과 다른 수록 범위",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:9a3eadcc9cfea031cbbe35947bb20fcca127cf2cabf4fc9948cafa13f1021e96",
+            "translation_revision": "sha256:4e541a319bcd4a59636d8aa924133a068f442e56dff937bfeafa33fe56113d7e",
+            "alignment_revision": "sha256:13d245be4001e899eaa83077ae77f0741e9700f641ee78dcf0cd8e1147f6aacb"
+          }
+        }
+      },
+      "rights": {
+        "source": "GPL-3.0",
+        "source_url": "https://github.com/eliranwong/LXX-Swete-1930/blob/1d3efc3c63bd384a4f3f07ed37eef54b0d45ac33/01-Swete_word_with_punctuations.csv",
+        "license_url": "https://www.gnu.org/licenses/gpl-3.0.html",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "GPL-3.0",
+        "alignment_license": "GPL-3.0",
+        "notice": "이 문헌의 그리스어 전사·한국어 번역·번역 메모·대응 자료는 GNU GPL 제3판으로 제공합니다. 고정 단어표와 장절표에서 해당 범위를 재구성하고 인쇄본과 대조했습니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문에서 선택한 다른 읽기와 보충 표시는 결정 기록과 메모에 있습니다. 수정·재배포 시 출처와 변경 기록, 같은 이용허락을 유지하세요. 무보증으로 제공하며 이용허락 전문을 함께 제공합니다."
+      },
+      "citation": {
+        "author": "익명",
+        "work": "에녹1서(그리스어 전승)",
+        "reference": "1.3",
+        "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
+        "release": "public-0.32",
+        "translation_revision": "sha256:4e541a319bcd4a59636d8aa924133a068f442e56dff937bfeafa33fe56113d7e",
+        "fixed_path": "releases/public-0.32/works/enoch1/index.html#p-1-3"
+      }
+    },
+    {
+      "ref": "1.4",
+      "chapter": 1,
+      "verse": 4,
+      "original": "καὶ ὁ θεὸς τοῦ αἰῶνος ἐπὶ γῆν πατήσει ἐπὶ τὸ Σεινὰ ὄρος καὶ φανήσεται ἐκ τῆς παρενβολῆς αὐτοῦ, καὶ φανήσεται ἐν τῇ δυνάμει τῆς ἰσχύος αὐτοῦ ἀπὸ τοῦ οὐρανοῦ τῶν οὐρανῶν.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:d79255f653aded75d93d2d08ac6e54e1766980ac0c993a88f92f8ba1a37c0c2d",
+      "source_file_sha256": "5cdeb6c993ff2883485b5c2006340bfd711a5d67b84f59aafac4e1caa4f6fbf4",
+      "reference_file_sha256": "39f71aabe259e3878a6d98df02f56eca8d62b1712491601f3812c81c9a1d3c6b",
+      "source_locator": {
+        "word_start": 599338,
+        "word_end_exclusive": 599369,
+        "reference_label": "1En.1:4"
+      },
+      "korean": "영원하신 하나님이 땅을 밟고 시내산 위에 발을 디디실 것이다. 그분은 자신의 진영에서 나타나시며, 하늘들의 하늘에서 자신의 강한 권능으로 나타나실 것이다.",
+      "translation_revision": "sha256:5c30681f291d7837e83ae20a3d1e50fc6717f828cdb0ef15ff20c0f2ccc3c8f8",
+      "groups": [
+        {
+          "id": "a-f1f3409ee2efa9300467",
+          "source_range": [
+            0,
+            55
+          ],
+          "ko_range": [
+            0,
+            34
+          ],
+          "source_text": "καὶ ὁ θεὸς τοῦ αἰῶνος ἐπὶ γῆν πατήσει ἐπὶ τὸ Σεινὰ ὄρος",
+          "ko_text": "영원하신 하나님이 땅을 밟고 시내산 위에 발을 디디실 것이다."
+        },
+        {
+          "id": "a-19167256506903016988",
+          "source_range": [
+            56,
+            94
+          ],
+          "ko_range": [
+            35,
+            54
+          ],
+          "source_text": "καὶ φανήσεται ἐκ τῆς παρενβολῆς αὐτοῦ,",
+          "ko_text": "그분은 자신의 진영에서 나타나시며,"
+        },
+        {
+          "id": "a-d5aa500a61ab9319b0ad",
+          "source_range": [
+            95,
+            168
+          ],
+          "ko_range": [
+            55,
+            86
+          ],
+          "source_text": "καὶ φανήσεται ἐν τῇ δυνάμει τῆς ἰσχύος αὐτοῦ ἀπὸ τοῦ οὐρανοῦ τῶν οὐρανῶν.",
+          "ko_text": "하늘들의 하늘에서 자신의 강한 권능으로 나타나실 것이다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "enoch1:1.4",
+      "html_path": "works/enoch1/index.html#p-1-4",
+      "fixed_html_path": "releases/public-0.32/works/enoch1/index.html#p-1-4",
+      "alignment_revision": "sha256:e3cedb120cd474a7f164e80dec46d80889bc9db47e84fa2bf0a3beace613aab3",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_word_table_extraction",
+        "targets": {
+          "source_revision": "sha256:d79255f653aded75d93d2d08ac6e54e1766980ac0c993a88f92f8ba1a37c0c2d",
+          "translation_revision": "sha256:5c30681f291d7837e83ae20a3d1e50fc6717f828cdb0ef15ff20c0f2ccc3c8f8",
+          "alignment_revision": "sha256:e3cedb120cd474a7f164e80dec46d80889bc9db47e84fa2bf0a3beace613aab3"
+        },
+        "scoped_ai_review": {
+          "id": "enoch1-initial-20261003",
+          "scope": "에녹1서(그리스어 전승) 1장의 채택 그리스어 본문 9절 전체, 2장 이후 미수록, 전체 에티오피아어판과 다른 수록 범위",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:d79255f653aded75d93d2d08ac6e54e1766980ac0c993a88f92f8ba1a37c0c2d",
+            "translation_revision": "sha256:5c30681f291d7837e83ae20a3d1e50fc6717f828cdb0ef15ff20c0f2ccc3c8f8",
+            "alignment_revision": "sha256:e3cedb120cd474a7f164e80dec46d80889bc9db47e84fa2bf0a3beace613aab3"
+          }
+        }
+      },
+      "rights": {
+        "source": "GPL-3.0",
+        "source_url": "https://github.com/eliranwong/LXX-Swete-1930/blob/1d3efc3c63bd384a4f3f07ed37eef54b0d45ac33/01-Swete_word_with_punctuations.csv",
+        "license_url": "https://www.gnu.org/licenses/gpl-3.0.html",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "GPL-3.0",
+        "alignment_license": "GPL-3.0",
+        "notice": "이 문헌의 그리스어 전사·한국어 번역·번역 메모·대응 자료는 GNU GPL 제3판으로 제공합니다. 고정 단어표와 장절표에서 해당 범위를 재구성하고 인쇄본과 대조했습니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문에서 선택한 다른 읽기와 보충 표시는 결정 기록과 메모에 있습니다. 수정·재배포 시 출처와 변경 기록, 같은 이용허락을 유지하세요. 무보증으로 제공하며 이용허락 전문을 함께 제공합니다."
+      },
+      "citation": {
+        "author": "익명",
+        "work": "에녹1서(그리스어 전승)",
+        "reference": "1.4",
+        "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
+        "release": "public-0.32",
+        "translation_revision": "sha256:5c30681f291d7837e83ae20a3d1e50fc6717f828cdb0ef15ff20c0f2ccc3c8f8",
+        "fixed_path": "releases/public-0.32/works/enoch1/index.html#p-1-4"
+      }
+    },
+    {
+      "ref": "1.5",
+      "chapter": 1,
+      "verse": 5,
+      "original": "καὶ φοβηθήσονται πάντες καὶ πιστεύσουσιν οἱ ἐγρήγοροι, καὶ ᾄσουσιν ἀπόκρυφα ἐν πᾶσιν τοῖς ἄκροις τῆς [γῆς]· καὶ σεισθήσονται πάντα τὰ ἄκρα τῆς γῆς, καὶ λήμψεται αὐτοὺς τρόμος καὶ φόβος μέγας μέχρι τῶν περάτων τῆς γῆς.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:1df90a5a914813226338d4411574c53708fb88e890b4fc9c24f7e3e736e0afde",
+      "source_file_sha256": "5cdeb6c993ff2883485b5c2006340bfd711a5d67b84f59aafac4e1caa4f6fbf4",
+      "reference_file_sha256": "39f71aabe259e3878a6d98df02f56eca8d62b1712491601f3812c81c9a1d3c6b",
+      "source_locator": {
+        "word_start": 599369,
+        "word_end_exclusive": 599404,
+        "reference_label": "1En.1:5"
+      },
+      "source_annotations": [
+        {
+          "kind": "bracketed_reading",
+          "text": "[γῆς]",
+          "source_range": [
+            101,
+            106
+          ]
+        }
+      ],
+      "korean": "모두가 두려워하고 감시자들은 믿게 될 것이다. 그들은 ⟨땅⟩의 모든 끝에서 은밀한 것들을 노래할 것이다. 땅의 모든 끝이 흔들릴 것이며, 땅의 경계에 이르기까지 큰 떨림과 두려움이 그들을 사로잡을 것이다.",
+      "translation_revision": "sha256:b324ef7bbe91cec6ea8aa22393a6dedba707b874cab2237498f4f83eb26db5f2",
+      "groups": [
+        {
+          "id": "a-322b207719a9556b7bb2",
+          "source_range": [
+            0,
+            54
+          ],
+          "ko_range": [
+            0,
+            25
+          ],
+          "source_text": "καὶ φοβηθήσονται πάντες καὶ πιστεύσουσιν οἱ ἐγρήγοροι,",
+          "ko_text": "모두가 두려워하고 감시자들은 믿게 될 것이다."
+        },
+        {
+          "id": "a-30db0d230356f2a73cd2",
+          "source_range": [
+            55,
+            107
+          ],
+          "ko_range": [
+            26,
+            58
+          ],
+          "source_text": "καὶ ᾄσουσιν ἀπόκρυφα ἐν πᾶσιν τοῖς ἄκροις τῆς [γῆς]·",
+          "ko_text": "그들은 ⟨땅⟩의 모든 끝에서 은밀한 것들을 노래할 것이다."
+        },
+        {
+          "id": "a-5f4b7c51491addd87c04",
+          "source_range": [
+            108,
+            147
+          ],
+          "ko_range": [
+            59,
+            76
+          ],
+          "source_text": "καὶ σεισθήσονται πάντα τὰ ἄκρα τῆς γῆς,",
+          "ko_text": "땅의 모든 끝이 흔들릴 것이며,"
+        },
+        {
+          "id": "a-d1ce6d6247bda6e6529e",
+          "source_range": [
+            148,
+            217
+          ],
+          "ko_range": [
+            77,
+            114
+          ],
+          "source_text": "καὶ λήμψεται αὐτοὺς τρόμος καὶ φόβος μέγας μέχρι τῶν περάτων τῆς γῆς.",
+          "ko_text": "땅의 경계에 이르기까지 큰 떨림과 두려움이 그들을 사로잡을 것이다."
+        }
+      ],
+      "notes": [
+        "Swete 789쪽의 [γῆς]는 편집자가 보충한 단어다. 한국어의 ⟨땅⟩도 그 보충을 표시한다. πιστεύσουσιν은 믿을 것이다, ᾄσουσιν은 노래할 것이다라는 채택 그리스어의 단어를 따른다."
+      ],
+      "work_passage_id": "enoch1:1.5",
+      "html_path": "works/enoch1/index.html#p-1-5",
+      "fixed_html_path": "releases/public-0.32/works/enoch1/index.html#p-1-5",
+      "alignment_revision": "sha256:2ab9a4c82cfeccffbe592a33ce8eef274b45d3332a1e5f414fe48c130586ab17",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_word_table_extraction",
+        "targets": {
+          "source_revision": "sha256:1df90a5a914813226338d4411574c53708fb88e890b4fc9c24f7e3e736e0afde",
+          "translation_revision": "sha256:b324ef7bbe91cec6ea8aa22393a6dedba707b874cab2237498f4f83eb26db5f2",
+          "alignment_revision": "sha256:2ab9a4c82cfeccffbe592a33ce8eef274b45d3332a1e5f414fe48c130586ab17"
+        },
+        "scoped_ai_review": {
+          "id": "enoch1-initial-20261003",
+          "scope": "에녹1서(그리스어 전승) 1장의 채택 그리스어 본문 9절 전체, 2장 이후 미수록, 전체 에티오피아어판과 다른 수록 범위",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:1df90a5a914813226338d4411574c53708fb88e890b4fc9c24f7e3e736e0afde",
+            "translation_revision": "sha256:b324ef7bbe91cec6ea8aa22393a6dedba707b874cab2237498f4f83eb26db5f2",
+            "alignment_revision": "sha256:2ab9a4c82cfeccffbe592a33ce8eef274b45d3332a1e5f414fe48c130586ab17"
+          }
+        }
+      },
+      "rights": {
+        "source": "GPL-3.0",
+        "source_url": "https://github.com/eliranwong/LXX-Swete-1930/blob/1d3efc3c63bd384a4f3f07ed37eef54b0d45ac33/01-Swete_word_with_punctuations.csv",
+        "license_url": "https://www.gnu.org/licenses/gpl-3.0.html",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "GPL-3.0",
+        "alignment_license": "GPL-3.0",
+        "notice": "이 문헌의 그리스어 전사·한국어 번역·번역 메모·대응 자료는 GNU GPL 제3판으로 제공합니다. 고정 단어표와 장절표에서 해당 범위를 재구성하고 인쇄본과 대조했습니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문에서 선택한 다른 읽기와 보충 표시는 결정 기록과 메모에 있습니다. 수정·재배포 시 출처와 변경 기록, 같은 이용허락을 유지하세요. 무보증으로 제공하며 이용허락 전문을 함께 제공합니다."
+      },
+      "citation": {
+        "author": "익명",
+        "work": "에녹1서(그리스어 전승)",
+        "reference": "1.5",
+        "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
+        "release": "public-0.32",
+        "translation_revision": "sha256:b324ef7bbe91cec6ea8aa22393a6dedba707b874cab2237498f4f83eb26db5f2",
+        "fixed_path": "releases/public-0.32/works/enoch1/index.html#p-1-5"
+      }
+    },
+    {
+      "ref": "1.6",
+      "chapter": 1,
+      "verse": 6,
+      "original": "καὶ σεισθήσονται καὶ πεσοῦνται καὶ διαλυθήσονται ὄρη ὑψηλά, καὶ ταπεινωθήσονται βουνοὶ ὑψηλοὶ τοῦ διαρυῆναι ὄρη, καὶ τακήσονται ὡς κηρὸς ἀπὸ προσώπου πυρὸς ἐν φλογί.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:640cd796400b94b24b3923c2d93a7bd58145eddd4bac99f631bee094853bcbe2",
+      "source_file_sha256": "5cdeb6c993ff2883485b5c2006340bfd711a5d67b84f59aafac4e1caa4f6fbf4",
+      "reference_file_sha256": "39f71aabe259e3878a6d98df02f56eca8d62b1712491601f3812c81c9a1d3c6b",
+      "source_locator": {
+        "word_start": 599404,
+        "word_end_exclusive": 599428,
+        "reference_label": "1En.1:6"
+      },
+      "korean": "높은 산들이 흔들려 무너지고 산산이 흩어질 것이다. 높은 언덕들은 낮아지고 산들은 흘러내릴 것이며, 불꽃 속의 불 앞에서 밀랍처럼 녹을 것이다.",
+      "translation_revision": "sha256:612ee7886460eae35c8962cf5ae2bfdec4301db69be284615688694c6f79728f",
+      "groups": [
+        {
+          "id": "a-8d726a8908063d90ea76",
+          "source_range": [
+            0,
+            59
+          ],
+          "ko_range": [
+            0,
+            28
+          ],
+          "source_text": "καὶ σεισθήσονται καὶ πεσοῦνται καὶ διαλυθήσονται ὄρη ὑψηλά,",
+          "ko_text": "높은 산들이 흔들려 무너지고 산산이 흩어질 것이다."
+        },
+        {
+          "id": "a-75f4f1fe6a361fd3ac68",
+          "source_range": [
+            60,
+            112
+          ],
+          "ko_range": [
+            29,
+            55
+          ],
+          "source_text": "καὶ ταπεινωθήσονται βουνοὶ ὑψηλοὶ τοῦ διαρυῆναι ὄρη,",
+          "ko_text": "높은 언덕들은 낮아지고 산들은 흘러내릴 것이며,"
+        },
+        {
+          "id": "a-7cc4a86085a0640685ad",
+          "source_range": [
+            113,
+            165
+          ],
+          "ko_range": [
+            56,
+            80
+          ],
+          "source_text": "καὶ τακήσονται ὡς κηρὸς ἀπὸ προσώπου πυρὸς ἐν φλογί.",
+          "ko_text": "불꽃 속의 불 앞에서 밀랍처럼 녹을 것이다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "enoch1:1.6",
+      "html_path": "works/enoch1/index.html#p-1-6",
+      "fixed_html_path": "releases/public-0.32/works/enoch1/index.html#p-1-6",
+      "alignment_revision": "sha256:a6691703aa536afb7ed371475bdb8ca42655ab9aca0bb2ef3880531200dce01e",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_word_table_extraction",
+        "targets": {
+          "source_revision": "sha256:640cd796400b94b24b3923c2d93a7bd58145eddd4bac99f631bee094853bcbe2",
+          "translation_revision": "sha256:612ee7886460eae35c8962cf5ae2bfdec4301db69be284615688694c6f79728f",
+          "alignment_revision": "sha256:a6691703aa536afb7ed371475bdb8ca42655ab9aca0bb2ef3880531200dce01e"
+        },
+        "scoped_ai_review": {
+          "id": "enoch1-initial-20261003",
+          "scope": "에녹1서(그리스어 전승) 1장의 채택 그리스어 본문 9절 전체, 2장 이후 미수록, 전체 에티오피아어판과 다른 수록 범위",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:640cd796400b94b24b3923c2d93a7bd58145eddd4bac99f631bee094853bcbe2",
+            "translation_revision": "sha256:612ee7886460eae35c8962cf5ae2bfdec4301db69be284615688694c6f79728f",
+            "alignment_revision": "sha256:a6691703aa536afb7ed371475bdb8ca42655ab9aca0bb2ef3880531200dce01e"
+          }
+        }
+      },
+      "rights": {
+        "source": "GPL-3.0",
+        "source_url": "https://github.com/eliranwong/LXX-Swete-1930/blob/1d3efc3c63bd384a4f3f07ed37eef54b0d45ac33/01-Swete_word_with_punctuations.csv",
+        "license_url": "https://www.gnu.org/licenses/gpl-3.0.html",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "GPL-3.0",
+        "alignment_license": "GPL-3.0",
+        "notice": "이 문헌의 그리스어 전사·한국어 번역·번역 메모·대응 자료는 GNU GPL 제3판으로 제공합니다. 고정 단어표와 장절표에서 해당 범위를 재구성하고 인쇄본과 대조했습니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문에서 선택한 다른 읽기와 보충 표시는 결정 기록과 메모에 있습니다. 수정·재배포 시 출처와 변경 기록, 같은 이용허락을 유지하세요. 무보증으로 제공하며 이용허락 전문을 함께 제공합니다."
+      },
+      "citation": {
+        "author": "익명",
+        "work": "에녹1서(그리스어 전승)",
+        "reference": "1.6",
+        "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
+        "release": "public-0.32",
+        "translation_revision": "sha256:612ee7886460eae35c8962cf5ae2bfdec4301db69be284615688694c6f79728f",
+        "fixed_path": "releases/public-0.32/works/enoch1/index.html#p-1-6"
+      }
+    },
+    {
+      "ref": "1.7",
+      "chapter": 1,
+      "verse": 7,
+      "original": "καὶ διασχισθήσεται ἡ γῆ σχίσμα ῥαγῶδες, καὶ πάντα ὅσα ἐστὶν ἐπὶ τῆς γῆς ἀπολεῖται, καὶ κρίσις ἔσται κατὰ πάντων.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:a0d8a14fc1049e8a7bd8c8074882301fe77e04841efbf1c67765e49cb4ff967a",
+      "source_file_sha256": "5cdeb6c993ff2883485b5c2006340bfd711a5d67b84f59aafac4e1caa4f6fbf4",
+      "reference_file_sha256": "39f71aabe259e3878a6d98df02f56eca8d62b1712491601f3812c81c9a1d3c6b",
+      "source_locator": {
+        "word_start": 599428,
+        "word_end_exclusive": 599447,
+        "reference_label": "1En.1:7"
+      },
+      "korean": "땅은 갈라져 깊은 틈이 생길 것이며, 땅 위의 모든 것이 멸망할 것이다. 모든 이를 향한 심판이 있을 것이다.",
+      "translation_revision": "sha256:01c6b6e05f8bf79d6135c5bec70f85d19f6266b3da4ca537343bdb8cee879453",
+      "groups": [
+        {
+          "id": "a-883e7ea171230ade4726",
+          "source_range": [
+            0,
+            39
+          ],
+          "ko_range": [
+            0,
+            20
+          ],
+          "source_text": "καὶ διασχισθήσεται ἡ γῆ σχίσμα ῥαγῶδες,",
+          "ko_text": "땅은 갈라져 깊은 틈이 생길 것이며,"
+        },
+        {
+          "id": "a-52ef79d725f1d424005c",
+          "source_range": [
+            40,
+            82
+          ],
+          "ko_range": [
+            21,
+            40
+          ],
+          "source_text": "καὶ πάντα ὅσα ἐστὶν ἐπὶ τῆς γῆς ἀπολεῖται,",
+          "ko_text": "땅 위의 모든 것이 멸망할 것이다."
+        },
+        {
+          "id": "a-cb1be541af7687c58088",
+          "source_range": [
+            83,
+            112
+          ],
+          "ko_range": [
+            41,
+            61
+          ],
+          "source_text": "καὶ κρίσις ἔσται κατὰ πάντων.",
+          "ko_text": "모든 이를 향한 심판이 있을 것이다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "enoch1:1.7",
+      "html_path": "works/enoch1/index.html#p-1-7",
+      "fixed_html_path": "releases/public-0.32/works/enoch1/index.html#p-1-7",
+      "alignment_revision": "sha256:260c62569e261c59c0cd775bd1e60fe2ef8e8be818731615160575c968c0487a",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_word_table_extraction",
+        "targets": {
+          "source_revision": "sha256:a0d8a14fc1049e8a7bd8c8074882301fe77e04841efbf1c67765e49cb4ff967a",
+          "translation_revision": "sha256:01c6b6e05f8bf79d6135c5bec70f85d19f6266b3da4ca537343bdb8cee879453",
+          "alignment_revision": "sha256:260c62569e261c59c0cd775bd1e60fe2ef8e8be818731615160575c968c0487a"
+        },
+        "scoped_ai_review": {
+          "id": "enoch1-initial-20261003",
+          "scope": "에녹1서(그리스어 전승) 1장의 채택 그리스어 본문 9절 전체, 2장 이후 미수록, 전체 에티오피아어판과 다른 수록 범위",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:a0d8a14fc1049e8a7bd8c8074882301fe77e04841efbf1c67765e49cb4ff967a",
+            "translation_revision": "sha256:01c6b6e05f8bf79d6135c5bec70f85d19f6266b3da4ca537343bdb8cee879453",
+            "alignment_revision": "sha256:260c62569e261c59c0cd775bd1e60fe2ef8e8be818731615160575c968c0487a"
+          }
+        }
+      },
+      "rights": {
+        "source": "GPL-3.0",
+        "source_url": "https://github.com/eliranwong/LXX-Swete-1930/blob/1d3efc3c63bd384a4f3f07ed37eef54b0d45ac33/01-Swete_word_with_punctuations.csv",
+        "license_url": "https://www.gnu.org/licenses/gpl-3.0.html",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "GPL-3.0",
+        "alignment_license": "GPL-3.0",
+        "notice": "이 문헌의 그리스어 전사·한국어 번역·번역 메모·대응 자료는 GNU GPL 제3판으로 제공합니다. 고정 단어표와 장절표에서 해당 범위를 재구성하고 인쇄본과 대조했습니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문에서 선택한 다른 읽기와 보충 표시는 결정 기록과 메모에 있습니다. 수정·재배포 시 출처와 변경 기록, 같은 이용허락을 유지하세요. 무보증으로 제공하며 이용허락 전문을 함께 제공합니다."
+      },
+      "citation": {
+        "author": "익명",
+        "work": "에녹1서(그리스어 전승)",
+        "reference": "1.7",
+        "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
+        "release": "public-0.32",
+        "translation_revision": "sha256:01c6b6e05f8bf79d6135c5bec70f85d19f6266b3da4ca537343bdb8cee879453",
+        "fixed_path": "releases/public-0.32/works/enoch1/index.html#p-1-7"
+      }
+    },
+    {
+      "ref": "1.8",
+      "chapter": 1,
+      "verse": 8,
+      "original": "καὶ μετὰ τῶν δικαίων τὴν εἰρήνην ποιήσει, καὶ ἐπὶ τοὺς ἐκλεκτοὺς ἔσται συντήρησις καὶ εἰρήνη, καὶ ἐπ᾽ αὐτοὺς γενήσεται ἔλεος, καὶ ἔσονται πάντες τοῦ θεοῦ, καὶ τὴν εὐδοκίαν δώσει αὐτοῖς καὶ πάντας εὐλογήσει καὶ πάντων ἀντιλήμψεται· καὶ βοηθήσει ἡμῖν, καὶ φανήσεται αὐτοῖς φῶς καὶ ποιήσει ἐπ᾽ αὐτούς εἰρήνην.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:81744fcda410cffbdb13e5e3fe29d9e09956e250edfe0eab40b5b6af1d17a140",
+      "source_file_sha256": "5cdeb6c993ff2883485b5c2006340bfd711a5d67b84f59aafac4e1caa4f6fbf4",
+      "reference_file_sha256": "39f71aabe259e3878a6d98df02f56eca8d62b1712491601f3812c81c9a1d3c6b",
+      "source_locator": {
+        "word_start": 599447,
+        "word_end_exclusive": 599495,
+        "reference_label": "1En.1:8"
+      },
+      "korean": "그분은 의인들과 평화를 이루실 것이다. 선택받은 이들은 보호와 평화를 얻을 것이며, 그들에게 자비가 임하고 그들은 모두 하나님의 사람이 될 것이다. 그분은 그들에게 호의를 베푸시고 모두를 축복하며 도와주실 것이다. 그분은 우리를 도우실 것이며, 그들에게 빛이 나타나고 그들 위에 평화를 이루실 것이다.",
+      "translation_revision": "sha256:c6a6de9ef4ae060c47dbee3037c14a0986ff4ccec34422b514e1e1631f506438",
+      "groups": [
+        {
+          "id": "a-c6837ae909f81236f5bb",
+          "source_range": [
+            0,
+            41
+          ],
+          "ko_range": [
+            0,
+            21
+          ],
+          "source_text": "καὶ μετὰ τῶν δικαίων τὴν εἰρήνην ποιήσει,",
+          "ko_text": "그분은 의인들과 평화를 이루실 것이다."
+        },
+        {
+          "id": "a-a7c362750e727811e72c",
+          "source_range": [
+            42,
+            93
+          ],
+          "ko_range": [
+            22,
+            46
+          ],
+          "source_text": "καὶ ἐπὶ τοὺς ἐκλεκτοὺς ἔσται συντήρησις καὶ εἰρήνη,",
+          "ko_text": "선택받은 이들은 보호와 평화를 얻을 것이며,"
+        },
+        {
+          "id": "a-210a756d08a47f89b26f",
+          "source_range": [
+            94,
+            154
+          ],
+          "ko_range": [
+            47,
+            82
+          ],
+          "source_text": "καὶ ἐπ᾽ αὐτοὺς γενήσεται ἔλεος, καὶ ἔσονται πάντες τοῦ θεοῦ,",
+          "ko_text": "그들에게 자비가 임하고 그들은 모두 하나님의 사람이 될 것이다."
+        },
+        {
+          "id": "a-ee77559df8a3f0921631",
+          "source_range": [
+            155,
+            230
+          ],
+          "ko_range": [
+            83,
+            119
+          ],
+          "source_text": "καὶ τὴν εὐδοκίαν δώσει αὐτοῖς καὶ πάντας εὐλογήσει καὶ πάντων ἀντιλήμψεται·",
+          "ko_text": "그분은 그들에게 호의를 베푸시고 모두를 축복하며 도와주실 것이다."
+        },
+        {
+          "id": "a-3b2699cc1ce263034428",
+          "source_range": [
+            231,
+            306
+          ],
+          "ko_range": [
+            120,
+            168
+          ],
+          "source_text": "καὶ βοηθήσει ἡμῖν, καὶ φανήσεται αὐτοῖς φῶς καὶ ποιήσει ἐπ᾽ αὐτούς εἰρήνην.",
+          "ko_text": "그분은 우리를 도우실 것이며, 그들에게 빛이 나타나고 그들 위에 평화를 이루실 것이다."
+        }
+      ],
+      "notes": [
+        "이 절은 의인들과 선택받은 이들에 대한 평화를 말하다가 우리를 도우실 것이라고 일인칭 복수로 바뀐다. 번역에서도 그들과 우리를 각각 보존했다."
+      ],
+      "work_passage_id": "enoch1:1.8",
+      "html_path": "works/enoch1/index.html#p-1-8",
+      "fixed_html_path": "releases/public-0.32/works/enoch1/index.html#p-1-8",
+      "alignment_revision": "sha256:e9a6b55649b0da5d1e64cd3f1b0d445be2de9b8c7c1c6109c26e737721f57953",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_word_table_extraction",
+        "targets": {
+          "source_revision": "sha256:81744fcda410cffbdb13e5e3fe29d9e09956e250edfe0eab40b5b6af1d17a140",
+          "translation_revision": "sha256:c6a6de9ef4ae060c47dbee3037c14a0986ff4ccec34422b514e1e1631f506438",
+          "alignment_revision": "sha256:e9a6b55649b0da5d1e64cd3f1b0d445be2de9b8c7c1c6109c26e737721f57953"
+        },
+        "scoped_ai_review": {
+          "id": "enoch1-initial-20261003",
+          "scope": "에녹1서(그리스어 전승) 1장의 채택 그리스어 본문 9절 전체, 2장 이후 미수록, 전체 에티오피아어판과 다른 수록 범위",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:81744fcda410cffbdb13e5e3fe29d9e09956e250edfe0eab40b5b6af1d17a140",
+            "translation_revision": "sha256:c6a6de9ef4ae060c47dbee3037c14a0986ff4ccec34422b514e1e1631f506438",
+            "alignment_revision": "sha256:e9a6b55649b0da5d1e64cd3f1b0d445be2de9b8c7c1c6109c26e737721f57953"
+          }
+        }
+      },
+      "rights": {
+        "source": "GPL-3.0",
+        "source_url": "https://github.com/eliranwong/LXX-Swete-1930/blob/1d3efc3c63bd384a4f3f07ed37eef54b0d45ac33/01-Swete_word_with_punctuations.csv",
+        "license_url": "https://www.gnu.org/licenses/gpl-3.0.html",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "GPL-3.0",
+        "alignment_license": "GPL-3.0",
+        "notice": "이 문헌의 그리스어 전사·한국어 번역·번역 메모·대응 자료는 GNU GPL 제3판으로 제공합니다. 고정 단어표와 장절표에서 해당 범위를 재구성하고 인쇄본과 대조했습니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문에서 선택한 다른 읽기와 보충 표시는 결정 기록과 메모에 있습니다. 수정·재배포 시 출처와 변경 기록, 같은 이용허락을 유지하세요. 무보증으로 제공하며 이용허락 전문을 함께 제공합니다."
+      },
+      "citation": {
+        "author": "익명",
+        "work": "에녹1서(그리스어 전승)",
+        "reference": "1.8",
+        "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
+        "release": "public-0.32",
+        "translation_revision": "sha256:c6a6de9ef4ae060c47dbee3037c14a0986ff4ccec34422b514e1e1631f506438",
+        "fixed_path": "releases/public-0.32/works/enoch1/index.html#p-1-8"
+      }
+    },
+    {
+      "ref": "1.9",
+      "chapter": 1,
+      "verse": 9,
+      "original": "ὅτι ἔρχεται σὺν ταῖς μυριάσιν αὐτοῦ καὶ τοῖς ἁγίοις αὐτοῦ, ποιῆσαι κρίσιν κατὰ πάντων, καὶ ἀπολέσει πάντας τοὺς ἀσεβεῖς, καὶ ἐλέγξει πᾶσαν σάρκα περὶ πάντων ἔργων τῆς ἀσεβείας αὐτῶν ὧν ἠσέβησαν καὶ σκληρῶν ὧν ἐλάλησαν λόγων, καὶ περὶ πάντων ὧν κατελάλησαν κατ᾽ αὐτοῦ ἁμαρτωλοὶ ἀσεβεῖς.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:adc38259551df1d667cc3086300d5d0bd683f5d842677636d9b6b8cadd385c90",
+      "source_file_sha256": "5cdeb6c993ff2883485b5c2006340bfd711a5d67b84f59aafac4e1caa4f6fbf4",
+      "reference_file_sha256": "39f71aabe259e3878a6d98df02f56eca8d62b1712491601f3812c81c9a1d3c6b",
+      "source_locator": {
+        "word_start": 599495,
+        "word_end_exclusive": 599540,
+        "reference_label": "1En.1:9"
+      },
+      "korean": "그분은 자신의 수만 무리와 거룩한 이들과 함께 오신다. 모든 이를 심판하시고 모든 불경한 자를 멸망시키실 것이다. 모든 육체가 불경하게 행한 모든 일에 대해 책망하시며, 불경한 죄인들이 그분을 거슬러 말한 모든 거친 말과 비방에 대해서도 책망하실 것이다.”",
+      "translation_revision": "sha256:a1424f345fcdb28167010175379689135a5c4247afaa96b4716f3792c7b376eb",
+      "groups": [
+        {
+          "id": "a-95b9bf5c1aa348fd5f69",
+          "source_range": [
+            0,
+            58
+          ],
+          "ko_range": [
+            0,
+            30
+          ],
+          "source_text": "ὅτι ἔρχεται σὺν ταῖς μυριάσιν αὐτοῦ καὶ τοῖς ἁγίοις αὐτοῦ,",
+          "ko_text": "그분은 자신의 수만 무리와 거룩한 이들과 함께 오신다."
+        },
+        {
+          "id": "a-a81971fee849d498bbe1",
+          "source_range": [
+            59,
+            120
+          ],
+          "ko_range": [
+            31,
+            63
+          ],
+          "source_text": "ποιῆσαι κρίσιν κατὰ πάντων, καὶ ἀπολέσει πάντας τοὺς ἀσεβεῖς,",
+          "ko_text": "모든 이를 심판하시고 모든 불경한 자를 멸망시키실 것이다."
+        },
+        {
+          "id": "a-8fc26a29df68d03f5066",
+          "source_range": [
+            121,
+            193
+          ],
+          "ko_range": [
+            64,
+            94
+          ],
+          "source_text": "καὶ ἐλέγξει πᾶσαν σάρκα περὶ πάντων ἔργων τῆς ἀσεβείας αὐτῶν ὧν ἠσέβησαν",
+          "ko_text": "모든 육체가 불경하게 행한 모든 일에 대해 책망하시며,"
+        },
+        {
+          "id": "a-37f27d491617ea736b3f",
+          "source_range": [
+            194,
+            285
+          ],
+          "ko_range": [
+            95,
+            143
+          ],
+          "source_text": "καὶ σκληρῶν ὧν ἐλάλησαν λόγων, καὶ περὶ πάντων ὧν κατελάλησαν κατ᾽ αὐτοῦ ἁμαρτωλοὶ ἀσεβεῖς.",
+          "ko_text": "불경한 죄인들이 그분을 거슬러 말한 모든 거친 말과 비방에 대해서도 책망하실 것이다.”"
+        }
+      ],
+      "notes": [
+        "같은 인쇄면 790쪽은 유다서 14-15절의 그리스어를 각주에 병기한다. 두 문장은 거룩한 무리와 함께 오는 심판자, 불경한 행실과 거친 말에 대한 책망이라는 표현을 공유한다. 에녹 본문은 ἔρχεται라는 현재형을, 병기된 유다서 문장은 ἦλθεν이라는 과거형을 사용한다."
+      ],
+      "work_passage_id": "enoch1:1.9",
+      "html_path": "works/enoch1/index.html#p-1-9",
+      "fixed_html_path": "releases/public-0.32/works/enoch1/index.html#p-1-9",
+      "alignment_revision": "sha256:8af32651092295b775a67677e00b9853b8e063968ed05798741c707e9302aef7",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_word_table_extraction",
+        "targets": {
+          "source_revision": "sha256:adc38259551df1d667cc3086300d5d0bd683f5d842677636d9b6b8cadd385c90",
+          "translation_revision": "sha256:a1424f345fcdb28167010175379689135a5c4247afaa96b4716f3792c7b376eb",
+          "alignment_revision": "sha256:8af32651092295b775a67677e00b9853b8e063968ed05798741c707e9302aef7"
+        },
+        "scoped_ai_review": {
+          "id": "enoch1-initial-20261003",
+          "scope": "에녹1서(그리스어 전승) 1장의 채택 그리스어 본문 9절 전체, 2장 이후 미수록, 전체 에티오피아어판과 다른 수록 범위",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:adc38259551df1d667cc3086300d5d0bd683f5d842677636d9b6b8cadd385c90",
+            "translation_revision": "sha256:a1424f345fcdb28167010175379689135a5c4247afaa96b4716f3792c7b376eb",
+            "alignment_revision": "sha256:8af32651092295b775a67677e00b9853b8e063968ed05798741c707e9302aef7"
+          }
+        }
+      },
+      "rights": {
+        "source": "GPL-3.0",
+        "source_url": "https://github.com/eliranwong/LXX-Swete-1930/blob/1d3efc3c63bd384a4f3f07ed37eef54b0d45ac33/01-Swete_word_with_punctuations.csv",
+        "license_url": "https://www.gnu.org/licenses/gpl-3.0.html",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "GPL-3.0",
+        "alignment_license": "GPL-3.0",
+        "notice": "이 문헌의 그리스어 전사·한국어 번역·번역 메모·대응 자료는 GNU GPL 제3판으로 제공합니다. 고정 단어표와 장절표에서 해당 범위를 재구성하고 인쇄본과 대조했습니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문에서 선택한 다른 읽기와 보충 표시는 결정 기록과 메모에 있습니다. 수정·재배포 시 출처와 변경 기록, 같은 이용허락을 유지하세요. 무보증으로 제공하며 이용허락 전문을 함께 제공합니다."
+      },
+      "citation": {
+        "author": "익명",
+        "work": "에녹1서(그리스어 전승)",
+        "reference": "1.9",
+        "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
+        "release": "public-0.32",
+        "translation_revision": "sha256:a1424f345fcdb28167010175379689135a5c4247afaa96b4716f3792c7b376eb",
+        "fixed_path": "releases/public-0.32/works/enoch1/index.html#p-1-9"
+      }
+    }
+  ],
+  "related": [
+    {
+      "reference": "유 1:14-15",
+      "passage_ref": "1.9",
+      "reason": "거룩한 무리와 함께 오는 심판자와 불경한 행실에 대한 책망의 그리스어 표현을 비교합니다.",
+      "relation": "비교 자료"
+    }
+  ],
+  "aliases": [
+    "1에녹서",
+    "제1에녹서",
+    "Enoch"
+  ],
+  "original_title": "Ἑνώχ",
+  "display_title": "에녹1서(그리스어 전승) 1장",
+  "reference_scheme": "chapter_section",
+  "coverage_label": "1장 전체 수록",
+  "edition_id": "enoch1-initial-swete-1d3efc3c",
+  "source_file_sha256": "5cdeb6c993ff2883485b5c2006340bfd711a5d67b84f59aafac4e1caa4f6fbf4",
+  "display_author": "익명",
+  "scope": "에녹1서(그리스어 전승) 1장의 채택 그리스어 본문 9절 전체, 2장 이후 미수록, 전체 에티오피아어판과 다른 수록 범위",
+  "coverage": "complete_scope",
+  "release_id": "public-0.32",
+  "source_language": "grc",
+  "source_kind": "edited_ancient_original",
+  "human_reviewed": false,
+  "translation_method": "고정 원어 본문에서 직접 번역",
+  "html_path": "works/enoch1/index.html",
+  "json_path": "data/works/enoch1.json",
+  "fixed_html_path": "releases/public-0.32/works/enoch1/index.html",
+  "source_profile": "enoch1-swete-pinned-word-table-1",
+  "source_decisions": [
+    {
+      "kind": "source_selection",
+      "date": "2026-10-03",
+      "reason": "이 문헌의 첫 연속 범위를 수록하고 남은 범위를 화면에 명시했다.",
+      "commit": "1d3efc3c63bd384a4f3f07ed37eef54b0d45ac33",
+      "license": "GPL-3.0",
+      "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄.",
+      "printed_pages": [
+        789,
+        790
+      ],
+      "pdf_pages_directly_read": [
+        813,
+        814
+      ],
+      "scope": "에녹1서(그리스어 전승) 1장의 채택 그리스어 본문 9절 전체, 2장 이후 미수록, 전체 에티오피아어판과 다른 수록 범위"
+    },
+    {
+      "kind": "version",
+      "reason": "아크미임 그리스어 전승을 채택하고 유다서의 병기 인용문을 그 본문에 섞지 않았다."
+    }
+  ],
+  "source_collations": [],
+  "validation_records": [
+    {
+      "id": "enoch1-initial-20261003",
+      "scope": "에녹1서(그리스어 전승) 1장의 채택 그리스어 본문 9절 전체, 2장 이후 미수록, 전체 에티오피아어판과 다른 수록 범위",
+      "date": "2026-10-03",
+      "reviewer_type": "AI",
+      "human_reviewed": false,
+      "reading_record_count": 9,
+      "issue_count": 5,
+      "meaning_groups": 33,
+      "methods": [
+        "선정 범위의 그리스어 인쇄본문을 직접 읽고 한국어와 의미 대응을 작성했다.",
+        "수량과 인물 관계, 부정, 화자, 인칭과 판본 차이를 대조했다.",
+        "반복된 구간 끝 표현과 대응 범위를 공개 전에 확인했다."
+      ],
+      "sources": [
+        {
+          "role": "채택 인쇄본문과 교감 장치",
+          "url": "https://archive.org/download/oldtestgreek00unknuoft/oldtestgreek00unknuoft.pdf",
+          "printed_pages": [
+            789,
+            790
+          ],
+          "pdf_pages_read": [
+            813,
+            814
+          ]
+        }
+      ],
+      "passages": [
+        {
+          "ref": "1.1",
+          "targets": {
+            "source_revision": "sha256:0977aceadcc49c6f34d995efed20c678b9060d80dc8deb5e4dee7222d880548f",
+            "translation_revision": "sha256:a597bb30c83c606a8f8541b9364313c9f659e6a83470bd98f78bc87bc9c692e3",
+            "alignment_revision": "sha256:df9c1eda5bd76589039b33f5e1c506eec76850b89d52c843cfd164b3ebeb02f8"
+          }
+        },
+        {
+          "ref": "1.2",
+          "targets": {
+            "source_revision": "sha256:ec9e43f48d150dff7b3e057230b5bd4726672b4dd95a6872bcb18d6545088a2f",
+            "translation_revision": "sha256:e622003ef556275dc786700a0700bf73e4a29d620cc79e8b12afd847ee875aa6",
+            "alignment_revision": "sha256:6916a6d3a0262558e3a6f95957680d554a5d6db7bd667153eefe99f2526f3ef7"
+          }
+        },
+        {
+          "ref": "1.3",
+          "targets": {
+            "source_revision": "sha256:9a3eadcc9cfea031cbbe35947bb20fcca127cf2cabf4fc9948cafa13f1021e96",
+            "translation_revision": "sha256:4e541a319bcd4a59636d8aa924133a068f442e56dff937bfeafa33fe56113d7e",
+            "alignment_revision": "sha256:13d245be4001e899eaa83077ae77f0741e9700f641ee78dcf0cd8e1147f6aacb"
+          }
+        },
+        {
+          "ref": "1.4",
+          "targets": {
+            "source_revision": "sha256:d79255f653aded75d93d2d08ac6e54e1766980ac0c993a88f92f8ba1a37c0c2d",
+            "translation_revision": "sha256:5c30681f291d7837e83ae20a3d1e50fc6717f828cdb0ef15ff20c0f2ccc3c8f8",
+            "alignment_revision": "sha256:e3cedb120cd474a7f164e80dec46d80889bc9db47e84fa2bf0a3beace613aab3"
+          }
+        },
+        {
+          "ref": "1.5",
+          "targets": {
+            "source_revision": "sha256:1df90a5a914813226338d4411574c53708fb88e890b4fc9c24f7e3e736e0afde",
+            "translation_revision": "sha256:b324ef7bbe91cec6ea8aa22393a6dedba707b874cab2237498f4f83eb26db5f2",
+            "alignment_revision": "sha256:2ab9a4c82cfeccffbe592a33ce8eef274b45d3332a1e5f414fe48c130586ab17"
+          }
+        },
+        {
+          "ref": "1.6",
+          "targets": {
+            "source_revision": "sha256:640cd796400b94b24b3923c2d93a7bd58145eddd4bac99f631bee094853bcbe2",
+            "translation_revision": "sha256:612ee7886460eae35c8962cf5ae2bfdec4301db69be284615688694c6f79728f",
+            "alignment_revision": "sha256:a6691703aa536afb7ed371475bdb8ca42655ab9aca0bb2ef3880531200dce01e"
+          }
+        },
+        {
+          "ref": "1.7",
+          "targets": {
+            "source_revision": "sha256:a0d8a14fc1049e8a7bd8c8074882301fe77e04841efbf1c67765e49cb4ff967a",
+            "translation_revision": "sha256:01c6b6e05f8bf79d6135c5bec70f85d19f6266b3da4ca537343bdb8cee879453",
+            "alignment_revision": "sha256:260c62569e261c59c0cd775bd1e60fe2ef8e8be818731615160575c968c0487a"
+          }
+        },
+        {
+          "ref": "1.8",
+          "targets": {
+            "source_revision": "sha256:81744fcda410cffbdb13e5e3fe29d9e09956e250edfe0eab40b5b6af1d17a140",
+            "translation_revision": "sha256:c6a6de9ef4ae060c47dbee3037c14a0986ff4ccec34422b514e1e1631f506438",
+            "alignment_revision": "sha256:e9a6b55649b0da5d1e64cd3f1b0d445be2de9b8c7c1c6109c26e737721f57953"
+          }
+        },
+        {
+          "ref": "1.9",
+          "targets": {
+            "source_revision": "sha256:adc38259551df1d667cc3086300d5d0bd683f5d842677636d9b6b8cadd385c90",
+            "translation_revision": "sha256:a1424f345fcdb28167010175379689135a5c4247afaa96b4716f3792c7b376eb",
+            "alignment_revision": "sha256:8af32651092295b775a67677e00b9853b8e063968ed05798741c707e9302aef7"
+          }
+        }
+      ]
+    }
+  ],
+  "publication_status": "public_review_edition"
+}
