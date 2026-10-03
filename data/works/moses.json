@@ -1,0 +1,2597 @@
+{
+  "id": "moses",
+  "title": "모세의 생애",
+  "author": "필론",
+  "abbreviation": "Mos.",
+  "corpus": "jewish",
+  "language": "grc",
+  "genre": "인물 서사",
+  "period": "고대",
+  "region": "알렉산드리아",
+  "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
+  "summary": "모세의 출생과 양육, 이름의 유래와 어린 시절의 성품을 설명하는 필론의 서술을 읽습니다.",
+  "topics": [
+    "모세",
+    "교육",
+    "이집트",
+    "덕"
+  ],
+  "notes": [],
+  "sourceUrl": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg022/tlg0018.tlg022.1st1K-grc1.xml",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "sourceCredit": "전자 전사와 부호화: University of Leipzig, First1KGreek, Digital Divide Data. 원판 편집: Leopold Cohn.",
+  "verified": "2026-10-03",
+  "translationCredit": "Codex 작성, 원어 직접 번역 초안",
+  "reviewer": "학술 검토 전",
+  "translationLicense": "CC BY-SA 4.0",
+  "rightsNotice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요.",
+  "passages": [
+    {
+      "ref": "1.1",
+      "section": 1,
+      "original": "Μωυσέως τοῦ κατὰ μέν τινας νομοθέτου τῶν Ἰουδαίων, κατὰ δέ τινας ἑρμηνέως νόμων ἱερῶν, τὸν βίον ἀναγράψαι διενοήθην, ἀνδρὸς τὰ πάντα μεγίστου καὶ τελειοτάτου, καὶ γνώριμον τοῖς ἀξίοις μὴ ἀγνοεῖν αὐτὸν ἀποφῆναι.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:1b19a18f637963686140b6355ac07891c95b6ac2a951037c5e7045dda0e58825",
+      "source_file_sha256": "b999f4a73a6ae94100541239fb6880dceaf297d7fbcc597e77cb86035842a1fa",
+      "source_locator": {
+        "filename": "tlg0018.tlg022.1st1K-grc1.xml",
+        "reference": "1.1"
+      },
+      "book": 1,
+      "korean": "나는 모세의 생애를 기록하려고 한다. 어떤 이들은 그를 유대인의 입법자라고 하고, 어떤 이들은 거룩한 율법의 해석자라고 한다. 그는 모든 면에서 가장 위대하고 완전한 사람이었다. 그를 알 만한 사람들에게 그를 널리 알리고자 한다.",
+      "translation_revision": "sha256:8ca4b5a5f2a33868883b511164843c0e4de85a05deb2d4b2195bfe06ba3af1fa",
+      "groups": [
+        {
+          "id": "a-25b0504ed37ab4de9c14",
+          "source_range": [
+            0,
+            86
+          ],
+          "ko_range": [
+            0,
+            70
+          ],
+          "source_text": "Μωυσέως τοῦ κατὰ μέν τινας νομοθέτου τῶν Ἰουδαίων, κατὰ δέ τινας ἑρμηνέως νόμων ἱερῶν,",
+          "ko_text": "나는 모세의 생애를 기록하려고 한다. 어떤 이들은 그를 유대인의 입법자라고 하고, 어떤 이들은 거룩한 율법의 해석자라고 한다."
+        },
+        {
+          "id": "a-e81d7f705f2f342ed23d",
+          "source_range": [
+            87,
+            210
+          ],
+          "ko_range": [
+            71,
+            128
+          ],
+          "source_text": "τὸν βίον ἀναγράψαι διενοήθην, ἀνδρὸς τὰ πάντα μεγίστου καὶ τελειοτάτου, καὶ γνώριμον τοῖς ἀξίοις μὴ ἀγνοεῖν αὐτὸν ἀποφῆναι.",
+          "ko_text": "그는 모든 면에서 가장 위대하고 완전한 사람이었다. 그를 알 만한 사람들에게 그를 널리 알리고자 한다."
+        }
+      ],
+      "notes": [
+        "이 자료는 Cohn 1902판 모세의 생애 1권의 첫 20절이다. 그리스어 원문은 모세를 유대인의 입법자 또는 거룩한 율법의 해석자로 소개한다."
+      ],
+      "work_passage_id": "moses:1.1",
+      "html_path": "works/moses/index.html#p-1-1",
+      "fixed_html_path": "releases/public-0.33/works/moses/index.html#p-1-1",
+      "alignment_revision": "sha256:b8f1300071023481c05c4b0c2ed4e4f3a45769a56593c31ffd750a584b8185e3",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:1b19a18f637963686140b6355ac07891c95b6ac2a951037c5e7045dda0e58825",
+          "translation_revision": "sha256:8ca4b5a5f2a33868883b511164843c0e4de85a05deb2d4b2195bfe06ba3af1fa",
+          "alignment_revision": "sha256:b8f1300071023481c05c4b0c2ed4e4f3a45769a56593c31ffd750a584b8185e3"
+        },
+        "scoped_ai_review": {
+          "id": "moses-addition-20261003",
+          "scope": "모세의 생애 1권 1-20절 전체, 1권 21절 이후와 2권 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:1b19a18f637963686140b6355ac07891c95b6ac2a951037c5e7045dda0e58825",
+            "translation_revision": "sha256:8ca4b5a5f2a33868883b511164843c0e4de85a05deb2d4b2195bfe06ba3af1fa",
+            "alignment_revision": "sha256:b8f1300071023481c05c4b0c2ed4e4f3a45769a56593c31ffd750a584b8185e3"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg022/tlg0018.tlg022.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "모세의 생애",
+        "reference": "1.1",
+        "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:8ca4b5a5f2a33868883b511164843c0e4de85a05deb2d4b2195bfe06ba3af1fa",
+        "fixed_path": "releases/public-0.33/works/moses/index.html#p-1-1"
+      }
+    },
+    {
+      "ref": "1.2",
+      "section": 2,
+      "original": "τῶν μὲν γὰρ νόμων τὸ κλέος, οὓς ἀπολέλοιπε, διὰ πάσης τῆς οἰκουμένης πεφοιτηκὸς ἄχρι καὶ τῶν τῆς γῆς τερμάτων ἔφθακεν, αὐτὸν δὲ ὅστις ἦν ἐπ’ ἀληθείας ἴσασιν οὐ πολλοί, διὰ φθόνον ἴσως καὶ ἐν οὐκ ὀλίγοις τῶν διατεταγμένων ὑπὸ τῶν κατὰ πόλεις νομοθετῶν ἐναντίωσιν οὐκ ἐθελησάντων αὐτὸν μνήμης ἀξιῶσαι τῶν παρ’ Ἕλλησι λογίων·",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:dba5bf23d3ef9ab77550a9ed5085192d72ab7e1a952677e89dbc3d854614cf34",
+      "source_file_sha256": "b999f4a73a6ae94100541239fb6880dceaf297d7fbcc597e77cb86035842a1fa",
+      "source_locator": {
+        "filename": "tlg0018.tlg022.1st1K-grc1.xml",
+        "reference": "1.2"
+      },
+      "book": 1,
+      "korean": "그가 남긴 율법의 명성은 온 세상을 두루 돌아 땅끝까지 이르렀다. 그러나 그가 실제로 어떤 사람이었는지는 아는 이가 많지 않다. 그리스의 저술가들이 그를 기록할 가치가 있다고 여기지 않았기 때문이다. 시기 때문일 수도 있고, 도시들의 입법자들이 정한 여러 규정과 그의 율법이 충돌하기 때문일 수도 있다.",
+      "translation_revision": "sha256:691497bb2c314c393560d258137257a9638d0c8561f2264727a0947771339c50",
+      "groups": [
+        {
+          "id": "a-742343f5c16f46e06115",
+          "source_range": [
+            0,
+            118
+          ],
+          "ko_range": [
+            0,
+            36
+          ],
+          "source_text": "τῶν μὲν γὰρ νόμων τὸ κλέος, οὓς ἀπολέλοιπε, διὰ πάσης τῆς οἰκουμένης πεφοιτηκὸς ἄχρι καὶ τῶν τῆς γῆς τερμάτων ἔφθακεν,",
+          "ko_text": "그가 남긴 율법의 명성은 온 세상을 두루 돌아 땅끝까지 이르렀다."
+        },
+        {
+          "id": "a-4f0943df295e8512fc2c",
+          "source_range": [
+            119,
+            167
+          ],
+          "ko_range": [
+            37,
+            71
+          ],
+          "source_text": "αὐτὸν δὲ ὅστις ἦν ἐπ’ ἀληθείας ἴσασιν οὐ πολλοί,",
+          "ko_text": "그러나 그가 실제로 어떤 사람이었는지는 아는 이가 많지 않다."
+        },
+        {
+          "id": "a-3c24eb7afe02642725c3",
+          "source_range": [
+            168,
+            322
+          ],
+          "ko_range": [
+            72,
+            169
+          ],
+          "source_text": "διὰ φθόνον ἴσως καὶ ἐν οὐκ ὀλίγοις τῶν διατεταγμένων ὑπὸ τῶν κατὰ πόλεις νομοθετῶν ἐναντίωσιν οὐκ ἐθελησάντων αὐτὸν μνήμης ἀξιῶσαι τῶν παρ’ Ἕλλησι λογίων·",
+          "ko_text": "그리스의 저술가들이 그를 기록할 가치가 있다고 여기지 않았기 때문이다. 시기 때문일 수도 있고, 도시들의 입법자들이 정한 여러 규정과 그의 율법이 충돌하기 때문일 수도 있다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "moses:1.2",
+      "html_path": "works/moses/index.html#p-1-2",
+      "fixed_html_path": "releases/public-0.33/works/moses/index.html#p-1-2",
+      "alignment_revision": "sha256:9edfd731b6fa531029828ebe48188786cc5031055b7fc8c2709852b6eda7f90a",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:dba5bf23d3ef9ab77550a9ed5085192d72ab7e1a952677e89dbc3d854614cf34",
+          "translation_revision": "sha256:691497bb2c314c393560d258137257a9638d0c8561f2264727a0947771339c50",
+          "alignment_revision": "sha256:9edfd731b6fa531029828ebe48188786cc5031055b7fc8c2709852b6eda7f90a"
+        },
+        "scoped_ai_review": {
+          "id": "moses-addition-20261003",
+          "scope": "모세의 생애 1권 1-20절 전체, 1권 21절 이후와 2권 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:dba5bf23d3ef9ab77550a9ed5085192d72ab7e1a952677e89dbc3d854614cf34",
+            "translation_revision": "sha256:691497bb2c314c393560d258137257a9638d0c8561f2264727a0947771339c50",
+            "alignment_revision": "sha256:9edfd731b6fa531029828ebe48188786cc5031055b7fc8c2709852b6eda7f90a"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg022/tlg0018.tlg022.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "모세의 생애",
+        "reference": "1.2",
+        "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:691497bb2c314c393560d258137257a9638d0c8561f2264727a0947771339c50",
+        "fixed_path": "releases/public-0.33/works/moses/index.html#p-1-2"
+      }
+    },
+    {
+      "ref": "1.3",
+      "section": 3,
+      "original": "ὧν οἱ πλείους τὰς δυνάμεις ἃς ἔσχον διὰ παιδείας ὕβρισαν ἔν τε ποιήμασι καὶ τοῖς καταλογάδην συγγράμμασι κωμῳδίας καὶ συβαριτικὰς ἀσελγείας συνθέντες, περιβόητον αἰσχύνην, οὓς ἔδει ταῖς φύσεσι καταχρήσασθαι πρὸς τὴν τῶν ἀγαθῶν ἀνδρῶν τε καὶ βίων ὑφήγησιν, ἵνα μήτε τι καλὸν ἡσυχίᾳ παραδοθὲν ἀρχαῖον ἢ νέον ἀφανισθῇ λάμψαι δυνάμενον μήτ’ αὖ τὰς ἀμείνους ὑποθέσεις παρελθόντες τὰς ἀναξίους ἀκοῆς προκρῖναι δοκῶσι σπουδάζοντες τὰ κακὰ καλῶς ἀπαγγέλλειν εἰς ὀνειδῶν ἐπιφάνειαν.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:f136d213ea131863de6f42fff33393ccb48ce4f5748caecd9c3df7596143666a",
+      "source_file_sha256": "b999f4a73a6ae94100541239fb6880dceaf297d7fbcc597e77cb86035842a1fa",
+      "source_locator": {
+        "filename": "tlg0018.tlg022.1st1K-grc1.xml",
+        "reference": "1.3"
+      },
+      "book": 1,
+      "encoded_printed_page": "v.4.p.120",
+      "korean": "그 저술가들 대부분은 배움으로 얻은 능력을 욕되게 했다. 시와 산문에서 희극과 쉬바리스식 방탕을 써서 널리 알려질 수치를 남겼다. 그들은 자기 재능으로 훌륭한 사람들과 그들의 삶을 설명했어야 했다. 그러면 오래되거나 새로운 아름다운 일이 빛날 수 있는데도 침묵에 묻혀 사라지는 일은 없었을 것이다. 더 나은 주제를 지나치고 들을 가치도 없는 주제를 택하여, 악한 일을 잘 전하는 데 힘써 치욕을 드러내려 한다는 인상도 주지 않았을 것이다.",
+      "translation_revision": "sha256:71a97a9c435eb171a01ea6822344d89ece75fa04f8a26cb28506b1bf474fb8ab",
+      "groups": [
+        {
+          "id": "a-083cb3e2ecf06eaef1fe",
+          "source_range": [
+            0,
+            171
+          ],
+          "ko_range": [
+            0,
+            72
+          ],
+          "source_text": "ὧν οἱ πλείους τὰς δυνάμεις ἃς ἔσχον διὰ παιδείας ὕβρισαν ἔν τε ποιήμασι καὶ τοῖς καταλογάδην συγγράμμασι κωμῳδίας καὶ συβαριτικὰς ἀσελγείας συνθέντες, περιβόητον αἰσχύνην,",
+          "ko_text": "그 저술가들 대부분은 배움으로 얻은 능력을 욕되게 했다. 시와 산문에서 희극과 쉬바리스식 방탕을 써서 널리 알려질 수치를 남겼다."
+        },
+        {
+          "id": "a-ec09da0471194da16601",
+          "source_range": [
+            172,
+            255
+          ],
+          "ko_range": [
+            73,
+            110
+          ],
+          "source_text": "οὓς ἔδει ταῖς φύσεσι καταχρήσασθαι πρὸς τὴν τῶν ἀγαθῶν ἀνδρῶν τε καὶ βίων ὑφήγησιν,",
+          "ko_text": "그들은 자기 재능으로 훌륭한 사람들과 그들의 삶을 설명했어야 했다."
+        },
+        {
+          "id": "a-558a7f7c0730d2a646a1",
+          "source_range": [
+            256,
+            331
+          ],
+          "ko_range": [
+            111,
+            166
+          ],
+          "source_text": "ἵνα μήτε τι καλὸν ἡσυχίᾳ παραδοθὲν ἀρχαῖον ἢ νέον ἀφανισθῇ λάμψαι δυνάμενον",
+          "ko_text": "그러면 오래되거나 새로운 아름다운 일이 빛날 수 있는데도 침묵에 묻혀 사라지는 일은 없었을 것이다."
+        },
+        {
+          "id": "a-8069bbf9b9ef5a28c4ce",
+          "source_range": [
+            332,
+            473
+          ],
+          "ko_range": [
+            167,
+            245
+          ],
+          "source_text": "μήτ’ αὖ τὰς ἀμείνους ὑποθέσεις παρελθόντες τὰς ἀναξίους ἀκοῆς προκρῖναι δοκῶσι σπουδάζοντες τὰ κακὰ καλῶς ἀπαγγέλλειν εἰς ὀνειδῶν ἐπιφάνειαν.",
+          "ko_text": "더 나은 주제를 지나치고 들을 가치도 없는 주제를 택하여, 악한 일을 잘 전하는 데 힘써 치욕을 드러내려 한다는 인상도 주지 않았을 것이다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "moses:1.3",
+      "html_path": "works/moses/index.html#p-1-3",
+      "fixed_html_path": "releases/public-0.33/works/moses/index.html#p-1-3",
+      "alignment_revision": "sha256:bec33491bfa88caefb476112d910d3ca763078b7835007c50c5b1c1a6d969179",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:f136d213ea131863de6f42fff33393ccb48ce4f5748caecd9c3df7596143666a",
+          "translation_revision": "sha256:71a97a9c435eb171a01ea6822344d89ece75fa04f8a26cb28506b1bf474fb8ab",
+          "alignment_revision": "sha256:bec33491bfa88caefb476112d910d3ca763078b7835007c50c5b1c1a6d969179"
+        },
+        "scoped_ai_review": {
+          "id": "moses-addition-20261003",
+          "scope": "모세의 생애 1권 1-20절 전체, 1권 21절 이후와 2권 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:f136d213ea131863de6f42fff33393ccb48ce4f5748caecd9c3df7596143666a",
+            "translation_revision": "sha256:71a97a9c435eb171a01ea6822344d89ece75fa04f8a26cb28506b1bf474fb8ab",
+            "alignment_revision": "sha256:bec33491bfa88caefb476112d910d3ca763078b7835007c50c5b1c1a6d969179"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg022/tlg0018.tlg022.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "모세의 생애",
+        "reference": "1.3",
+        "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:71a97a9c435eb171a01ea6822344d89ece75fa04f8a26cb28506b1bf474fb8ab",
+        "fixed_path": "releases/public-0.33/works/moses/index.html#p-1-3"
+      }
+    },
+    {
+      "ref": "1.4",
+      "section": 4,
+      "original": "ἀλλ’ ἔγωγε τὴν τούτων βασκανίαν ὑπερβὰς τὰ περὶ τὸν ἄνδρα μηνύσω μαθὼν αὐτὰ κἀκ βίβλων τῶν ἱερῶν, ἃς θαυμάσια μνημεῖα τῆς αὑτοῦ σοφίας ἀπολέλοιπε, καὶ παρά τινων ἀπὸ τοῦ ἔθνους πρεσβυτέρων· τὰ γὰρ λεγόμενα τοῖς ἀναγινωσκομένοις ἀεὶ συνύφαινον καὶ διὰ τοῦτ’ ἔδοξα μᾶλλον ἑτέρων τὰ περὶ τὸν βίον ἀκριβῶσαι.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:2adb57650ee40b5e6f9038890158ce20e2f5cd7d1edcf8c0cedd24e6505d1d6c",
+      "source_file_sha256": "b999f4a73a6ae94100541239fb6880dceaf297d7fbcc597e77cb86035842a1fa",
+      "source_locator": {
+        "filename": "tlg0018.tlg022.1st1K-grc1.xml",
+        "reference": "1.4"
+      },
+      "book": 1,
+      "encoded_printed_page": "v.4.p.120",
+      "korean": "나는 그들의 시기를 지나쳐, 그 사람에 관한 일을 알리겠다. 나는 그가 자기 지혜의 놀라운 기념으로 남긴 거룩한 책들과, 우리 민족의 몇몇 원로들에게서 배웠다. 나는 들은 말을 읽은 내용과 늘 엮었다. 그 때문에 그의 삶에 관한 일을 다른 사람들보다 더 정확히 파악했다고 생각했다.",
+      "translation_revision": "sha256:4ccad32db80e6a5607b0821794b89757d9c5fdb7257a2778a5b9acb556dc177b",
+      "groups": [
+        {
+          "id": "a-72332926797543c5fec9",
+          "source_range": [
+            0,
+            64
+          ],
+          "ko_range": [
+            0,
+            33
+          ],
+          "source_text": "ἀλλ’ ἔγωγε τὴν τούτων βασκανίαν ὑπερβὰς τὰ περὶ τὸν ἄνδρα μηνύσω",
+          "ko_text": "나는 그들의 시기를 지나쳐, 그 사람에 관한 일을 알리겠다."
+        },
+        {
+          "id": "a-fce1898d9d6c41b34871",
+          "source_range": [
+            65,
+            189
+          ],
+          "ko_range": [
+            34,
+            89
+          ],
+          "source_text": "μαθὼν αὐτὰ κἀκ βίβλων τῶν ἱερῶν, ἃς θαυμάσια μνημεῖα τῆς αὑτοῦ σοφίας ἀπολέλοιπε, καὶ παρά τινων ἀπὸ τοῦ ἔθνους πρεσβυτέρων·",
+          "ko_text": "나는 그가 자기 지혜의 놀라운 기념으로 남긴 거룩한 책들과, 우리 민족의 몇몇 원로들에게서 배웠다."
+        },
+        {
+          "id": "a-d5319749be5a280b0e24",
+          "source_range": [
+            190,
+            304
+          ],
+          "ko_range": [
+            90,
+            157
+          ],
+          "source_text": "τὰ γὰρ λεγόμενα τοῖς ἀναγινωσκομένοις ἀεὶ συνύφαινον καὶ διὰ τοῦτ’ ἔδοξα μᾶλλον ἑτέρων τὰ περὶ τὸν βίον ἀκριβῶσαι.",
+          "ko_text": "나는 들은 말을 읽은 내용과 늘 엮었다. 그 때문에 그의 삶에 관한 일을 다른 사람들보다 더 정확히 파악했다고 생각했다."
+        }
+      ],
+      "notes": [
+        "필론은 거룩한 책들과 민족의 원로들에게 들은 말을 자기 서술의 출처로 제시한다. 들은 이야기와 읽은 내용을 엮었다는 진술은 필론 자신의 설명이다."
+      ],
+      "work_passage_id": "moses:1.4",
+      "html_path": "works/moses/index.html#p-1-4",
+      "fixed_html_path": "releases/public-0.33/works/moses/index.html#p-1-4",
+      "alignment_revision": "sha256:fc571613d84b73ea4cec59fdb7fba5f2b6efd7dbb7ad9f2be773d7040f8750ac",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:2adb57650ee40b5e6f9038890158ce20e2f5cd7d1edcf8c0cedd24e6505d1d6c",
+          "translation_revision": "sha256:4ccad32db80e6a5607b0821794b89757d9c5fdb7257a2778a5b9acb556dc177b",
+          "alignment_revision": "sha256:fc571613d84b73ea4cec59fdb7fba5f2b6efd7dbb7ad9f2be773d7040f8750ac"
+        },
+        "scoped_ai_review": {
+          "id": "moses-addition-20261003",
+          "scope": "모세의 생애 1권 1-20절 전체, 1권 21절 이후와 2권 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:2adb57650ee40b5e6f9038890158ce20e2f5cd7d1edcf8c0cedd24e6505d1d6c",
+            "translation_revision": "sha256:4ccad32db80e6a5607b0821794b89757d9c5fdb7257a2778a5b9acb556dc177b",
+            "alignment_revision": "sha256:fc571613d84b73ea4cec59fdb7fba5f2b6efd7dbb7ad9f2be773d7040f8750ac"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg022/tlg0018.tlg022.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "모세의 생애",
+        "reference": "1.4",
+        "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:4ccad32db80e6a5607b0821794b89757d9c5fdb7257a2778a5b9acb556dc177b",
+        "fixed_path": "releases/public-0.33/works/moses/index.html#p-1-4"
+      }
+    },
+    {
+      "ref": "1.5",
+      "section": 5,
+      "original": "Ἄρξομαι δ’ ἀφ’ οὗπερ ἀναγκαῖον ἄρξασθαι. Μωυσῆς γένος μέν ἐστι Χαλδαῖος, ἐγεννήθη δ’ ἐν Αἰγύπτῳ καὶ ἐτράφη, τῶν προγόνων αὐτοῦ διὰ πολυχρόνιον λιμόν, ὃς Βαβυλῶνα καὶ τοὺς πλησιοχώρους ἐπίεζε, κατὰ ζήτησιν τροφῆς εἰς Αἴγυπτον πανοικὶ μεταναστάντων, γῆν πεδιάδα καὶ βαθεῖαν καὶ πρὸς πάντα γονιμωτάτην, ὧν ἡ ἀνθρωπίνη φύσις δεῖται, καὶ μάλιστα τὸν τοῦ σίτου καρπόν.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:9b9637b380f15888350a11353b43b0dfbdfa041f1d0f7f45445fe12d2d771fc2",
+      "source_file_sha256": "b999f4a73a6ae94100541239fb6880dceaf297d7fbcc597e77cb86035842a1fa",
+      "source_locator": {
+        "filename": "tlg0018.tlg022.1st1K-grc1.xml",
+        "reference": "1.5"
+      },
+      "book": 1,
+      "encoded_printed_page": "v.4.p.120",
+      "korean": "시작해야 할 지점에서 시작하겠다. 모세는 혈통으로는 칼데아인이며, 이집트에서 태어나 자랐다. 바빌론과 그 이웃 지역을 오랫동안 괴롭힌 기근 때문에 그의 조상들은 먹을 것을 찾아 온 가족과 이집트로 옮겨 갔다. 이집트는 평평하고 토질이 깊은 땅으로, 인간에게 필요한 모든 것, 특히 곡식이 가장 풍성하게 나는 곳이었다.",
+      "translation_revision": "sha256:54610172b2acc649f91e7a098090026242f5718c2da478f0934140d69aefb7a6",
+      "groups": [
+        {
+          "id": "a-4cb927594f2a51231311",
+          "source_range": [
+            0,
+            40
+          ],
+          "ko_range": [
+            0,
+            18
+          ],
+          "source_text": "Ἄρξομαι δ’ ἀφ’ οὗπερ ἀναγκαῖον ἄρξασθαι.",
+          "ko_text": "시작해야 할 지점에서 시작하겠다."
+        },
+        {
+          "id": "a-af6f8e0f324b5474b836",
+          "source_range": [
+            41,
+            107
+          ],
+          "ko_range": [
+            19,
+            51
+          ],
+          "source_text": "Μωυσῆς γένος μέν ἐστι Χαλδαῖος, ἐγεννήθη δ’ ἐν Αἰγύπτῳ καὶ ἐτράφη,",
+          "ko_text": "모세는 혈통으로는 칼데아인이며, 이집트에서 태어나 자랐다."
+        },
+        {
+          "id": "a-7e118ba19d5d63bd3673",
+          "source_range": [
+            108,
+            247
+          ],
+          "ko_range": [
+            52,
+            116
+          ],
+          "source_text": "τῶν προγόνων αὐτοῦ διὰ πολυχρόνιον λιμόν, ὃς Βαβυλῶνα καὶ τοὺς πλησιοχώρους ἐπίεζε, κατὰ ζήτησιν τροφῆς εἰς Αἴγυπτον πανοικὶ μεταναστάντων,",
+          "ko_text": "바빌론과 그 이웃 지역을 오랫동안 괴롭힌 기근 때문에 그의 조상들은 먹을 것을 찾아 온 가족과 이집트로 옮겨 갔다."
+        },
+        {
+          "id": "a-a51b41675c40d106f612",
+          "source_range": [
+            248,
+            362
+          ],
+          "ko_range": [
+            117,
+            177
+          ],
+          "source_text": "γῆν πεδιάδα καὶ βαθεῖαν καὶ πρὸς πάντα γονιμωτάτην, ὧν ἡ ἀνθρωπίνη φύσις δεῖται, καὶ μάλιστα τὸν τοῦ σίτου καρπόν.",
+          "ko_text": "이집트는 평평하고 토질이 깊은 땅으로, 인간에게 필요한 모든 것, 특히 곡식이 가장 풍성하게 나는 곳이었다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "moses:1.5",
+      "html_path": "works/moses/index.html#p-1-5",
+      "fixed_html_path": "releases/public-0.33/works/moses/index.html#p-1-5",
+      "alignment_revision": "sha256:1129add9ceec1529b5e0c021e3ee8417352405584c60f63151815eee9c6cbe2f",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:9b9637b380f15888350a11353b43b0dfbdfa041f1d0f7f45445fe12d2d771fc2",
+          "translation_revision": "sha256:54610172b2acc649f91e7a098090026242f5718c2da478f0934140d69aefb7a6",
+          "alignment_revision": "sha256:1129add9ceec1529b5e0c021e3ee8417352405584c60f63151815eee9c6cbe2f"
+        },
+        "scoped_ai_review": {
+          "id": "moses-addition-20261003",
+          "scope": "모세의 생애 1권 1-20절 전체, 1권 21절 이후와 2권 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:9b9637b380f15888350a11353b43b0dfbdfa041f1d0f7f45445fe12d2d771fc2",
+            "translation_revision": "sha256:54610172b2acc649f91e7a098090026242f5718c2da478f0934140d69aefb7a6",
+            "alignment_revision": "sha256:1129add9ceec1529b5e0c021e3ee8417352405584c60f63151815eee9c6cbe2f"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg022/tlg0018.tlg022.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "모세의 생애",
+        "reference": "1.5",
+        "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:54610172b2acc649f91e7a098090026242f5718c2da478f0934140d69aefb7a6",
+        "fixed_path": "releases/public-0.33/works/moses/index.html#p-1-5"
+      }
+    },
+    {
+      "ref": "1.6",
+      "section": 6,
+      "original": "ὁ γὰρ ταύτης ποταμὸς θέρους ἀκμάζοντος, ἡνίκα τοὺς ἄλλους φασὶ μειοῦσθαι χειμάρρους τε καὶ αὐθιγενεῖς, ἐπιβαίνων τε καὶ ἀναχεόμενος πλημμυρεῖ καὶ λιμνάζει τὰς ἀρούρας, αἳ ὑετοῦ μὴ δεόμεναι φορᾶς ἀφθονίαν παντοίων ἀγαθῶν ἀνὰ πᾶν ἔτος χορηγοῦσιν, εἰ μή που μεσολαβήσειεν ὀργὴ θεοῦ δι’ ἐπιπολάζουσαν ἀσέβειαν τῶν οἰκητόρων.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:07cbafb1307f3f342a0eb7785ed4d279ef186d17878c4ecf4a69433943c34f97",
+      "source_file_sha256": "b999f4a73a6ae94100541239fb6880dceaf297d7fbcc597e77cb86035842a1fa",
+      "source_locator": {
+        "filename": "tlg0018.tlg022.1st1K-grc1.xml",
+        "reference": "1.6"
+      },
+      "book": 1,
+      "encoded_printed_page": "v.4.p.121",
+      "korean": "그 땅의 강은 한여름에, 다른 계곡의 강이나 샘에서 난 강들이 줄어든다고 할 때, 불어나 넘쳐흐르며 들판을 물로 덮고 호수처럼 만든다. 비가 필요하지 않은 이 들판들은 온갖 좋은 것의 풍성한 수확을 해마다 내어 준다. 다만 주민들의 불경이 널리 퍼져 하나님의 분노가 그 사이에 끼어들 때는 그렇지 않다.",
+      "translation_revision": "sha256:019c661791fd0483af47e748580a43d9418692b5c7d44631a0fad1903a885691",
+      "groups": [
+        {
+          "id": "a-7718e668d519dca14b9b",
+          "source_range": [
+            0,
+            102
+          ],
+          "ko_range": [
+            0,
+            45
+          ],
+          "source_text": "ὁ γὰρ ταύτης ποταμὸς θέρους ἀκμάζοντος, ἡνίκα τοὺς ἄλλους φασὶ μειοῦσθαι χειμάρρους τε καὶ αὐθιγενεῖς,",
+          "ko_text": "그 땅의 강은 한여름에, 다른 계곡의 강이나 샘에서 난 강들이 줄어든다고 할 때,"
+        },
+        {
+          "id": "a-05d97249c5150d906fee",
+          "source_range": [
+            103,
+            167
+          ],
+          "ko_range": [
+            46,
+            75
+          ],
+          "source_text": "ἐπιβαίνων τε καὶ ἀναχεόμενος πλημμυρεῖ καὶ λιμνάζει τὰς ἀρούρας,",
+          "ko_text": "불어나 넘쳐흐르며 들판을 물로 덮고 호수처럼 만든다."
+        },
+        {
+          "id": "a-63bdc367cb71870e6695",
+          "source_range": [
+            168,
+            244
+          ],
+          "ko_range": [
+            76,
+            121
+          ],
+          "source_text": "αἳ ὑετοῦ μὴ δεόμεναι φορᾶς ἀφθονίαν παντοίων ἀγαθῶν ἀνὰ πᾶν ἔτος χορηγοῦσιν,",
+          "ko_text": "비가 필요하지 않은 이 들판들은 온갖 좋은 것의 풍성한 수확을 해마다 내어 준다."
+        },
+        {
+          "id": "a-8b474f6e9ccf66d4adae",
+          "source_range": [
+            245,
+            320
+          ],
+          "ko_range": [
+            122,
+            169
+          ],
+          "source_text": "εἰ μή που μεσολαβήσειεν ὀργὴ θεοῦ δι’ ἐπιπολάζουσαν ἀσέβειαν τῶν οἰκητόρων.",
+          "ko_text": "다만 주민들의 불경이 널리 퍼져 하나님의 분노가 그 사이에 끼어들 때는 그렇지 않다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "moses:1.6",
+      "html_path": "works/moses/index.html#p-1-6",
+      "fixed_html_path": "releases/public-0.33/works/moses/index.html#p-1-6",
+      "alignment_revision": "sha256:2c0d220de470b3ae226e371db73d69f84a554d8530033d1487ab8b25c0bb3a1e",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:07cbafb1307f3f342a0eb7785ed4d279ef186d17878c4ecf4a69433943c34f97",
+          "translation_revision": "sha256:019c661791fd0483af47e748580a43d9418692b5c7d44631a0fad1903a885691",
+          "alignment_revision": "sha256:2c0d220de470b3ae226e371db73d69f84a554d8530033d1487ab8b25c0bb3a1e"
+        },
+        "scoped_ai_review": {
+          "id": "moses-addition-20261003",
+          "scope": "모세의 생애 1권 1-20절 전체, 1권 21절 이후와 2권 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:07cbafb1307f3f342a0eb7785ed4d279ef186d17878c4ecf4a69433943c34f97",
+            "translation_revision": "sha256:019c661791fd0483af47e748580a43d9418692b5c7d44631a0fad1903a885691",
+            "alignment_revision": "sha256:2c0d220de470b3ae226e371db73d69f84a554d8530033d1487ab8b25c0bb3a1e"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg022/tlg0018.tlg022.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "모세의 생애",
+        "reference": "1.6",
+        "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:019c661791fd0483af47e748580a43d9418692b5c7d44631a0fad1903a885691",
+        "fixed_path": "releases/public-0.33/works/moses/index.html#p-1-6"
+      }
+    },
+    {
+      "ref": "1.7",
+      "section": 7,
+      "original": "πατρὸς δὲ καὶ μητρὸς ἔλαχε τῶν καθ’ ἑαυτοὺς ἀρίστων, οὓς φυλέτας ὄντας ἡ ὁμοφροσύνη μᾶλλον ᾠκείωσεν ἢ τὸ γένος. ἑβδόμη γενεὰ ⟨δ’⟩ οὗτός ἐστιν ἀπὸ τοῦ πρώτου, ὃς ἐπηλύτης ὢν τοῦ σύμπαντος Ἰουδαίων ἔθνους ἀρχηγέτης ἐγένετο.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:e3efe84a80188232066c30c8113de2e0092ee00c6cae60747c74e4eefe64db36",
+      "source_file_sha256": "b999f4a73a6ae94100541239fb6880dceaf297d7fbcc597e77cb86035842a1fa",
+      "source_locator": {
+        "filename": "tlg0018.tlg022.1st1K-grc1.xml",
+        "reference": "1.7"
+      },
+      "book": 1,
+      "encoded_printed_page": "v.4.p.121",
+      "korean": "그는 각각 가장 훌륭한 아버지와 어머니를 얻었다. 같은 지파에 속한 두 사람은 혈통보다 뜻이 같다는 이유로 더욱 가까워졌다. ⟨그런데⟩ 모세는 처음 이주민으로 와서 온 유대 민족의 시조가 된 사람으로부터 일곱째 세대였다.",
+      "translation_revision": "sha256:407bfddf6e44b92a0d17b758d3ba1e2929c620647bc4c2e212c67eb794149def",
+      "groups": [
+        {
+          "id": "a-6c5c471f411f4d2107a9",
+          "source_range": [
+            0,
+            52
+          ],
+          "ko_range": [
+            0,
+            27
+          ],
+          "source_text": "πατρὸς δὲ καὶ μητρὸς ἔλαχε τῶν καθ’ ἑαυτοὺς ἀρίστων,",
+          "ko_text": "그는 각각 가장 훌륭한 아버지와 어머니를 얻었다."
+        },
+        {
+          "id": "a-55a87f8149955627f7f0",
+          "source_range": [
+            53,
+            111
+          ],
+          "ko_range": [
+            28,
+            69
+          ],
+          "source_text": "οὓς φυλέτας ὄντας ἡ ὁμοφροσύνη μᾶλλον ᾠκείωσεν ἢ τὸ γένος.",
+          "ko_text": "같은 지파에 속한 두 사람은 혈통보다 뜻이 같다는 이유로 더욱 가까워졌다."
+        },
+        {
+          "id": "a-a5d6294bc2d2a96aca5e",
+          "source_range": [
+            112,
+            221
+          ],
+          "ko_range": [
+            70,
+            123
+          ],
+          "source_text": "ἑβδόμη γενεὰ ⟨δ’⟩ οὗτός ἐστιν ἀπὸ τοῦ πρώτου, ὃς ἐπηλύτης ὢν τοῦ σύμπαντος Ἰουδαίων ἔθνους ἀρχηγέτης ἐγένετο.",
+          "ko_text": "⟨그런데⟩ 모세는 처음 이주민으로 와서 온 유대 민족의 시조가 된 사람으로부터 일곱째 세대였다."
+        }
+      ],
+      "notes": [
+        "전자 판본은 δ’를 보충어로 부호화한다. 원문의 ⟨δ’⟩와 번역의 ⟨그런데⟩는 이 보충을 표시한다. 첫 이주민으로부터 일곱째 세대라는 계수는 채택 본문의 설명이다."
+      ],
+      "work_passage_id": "moses:1.7",
+      "html_path": "works/moses/index.html#p-1-7",
+      "fixed_html_path": "releases/public-0.33/works/moses/index.html#p-1-7",
+      "alignment_revision": "sha256:4e69da802f3fb50daa75b08019786884e9d97d5da439caa1718b4d86f9fd19e7",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:e3efe84a80188232066c30c8113de2e0092ee00c6cae60747c74e4eefe64db36",
+          "translation_revision": "sha256:407bfddf6e44b92a0d17b758d3ba1e2929c620647bc4c2e212c67eb794149def",
+          "alignment_revision": "sha256:4e69da802f3fb50daa75b08019786884e9d97d5da439caa1718b4d86f9fd19e7"
+        },
+        "scoped_ai_review": {
+          "id": "moses-addition-20261003",
+          "scope": "모세의 생애 1권 1-20절 전체, 1권 21절 이후와 2권 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:e3efe84a80188232066c30c8113de2e0092ee00c6cae60747c74e4eefe64db36",
+            "translation_revision": "sha256:407bfddf6e44b92a0d17b758d3ba1e2929c620647bc4c2e212c67eb794149def",
+            "alignment_revision": "sha256:4e69da802f3fb50daa75b08019786884e9d97d5da439caa1718b4d86f9fd19e7"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg022/tlg0018.tlg022.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "모세의 생애",
+        "reference": "1.7",
+        "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:407bfddf6e44b92a0d17b758d3ba1e2929c620647bc4c2e212c67eb794149def",
+        "fixed_path": "releases/public-0.33/works/moses/index.html#p-1-7"
+      }
+    },
+    {
+      "ref": "1.8",
+      "section": 8,
+      "original": "τροφῆς δ’ ἠξιώθη βασιλικῆς ἀπ’ αἰτίας τοιᾶσδε· τῆς χώρας ὁ βασιλεύς, εἰς πολυανθρωπίαν ἐπιδιδόντος ἀεὶ τοῦ ἔθνους, δείσας μὴ οἱ ἔποικοι πλείους γενόμενοι δυνατωτέρᾳ χειρὶ τοῖς αὐτόχθοσι περὶ κράτους ἀρχῆς ἁμιλλῶνται, τὴν ἰσχὺν αὐτῶν ἀφαιρεῖν ἐπινοίαις ἀνοσιουργοῖς ἐμηχανᾶτο καὶ κελεύει τῶν γεννωμένων τὰ μὲν θήλεα τρέφειν - ἐπεὶ γυνὴ διὰ φύσεως ἀσθένειαν ὀκνηρὸν εἰς πόλεμον -, τὰ δ’ ἄρρενα διαφθείρειν, ἵνα μὴ αὐξηθῇ κατὰ πόλεις· εὐανδροῦσα γὰρ δύναμις δυσάλωτον καὶ δυσκαθαίρετον ἐπιτείχισμα.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:ad91d8d7e9a01b6b335fed292d37eddbc056ddf5dbee7e192aba18dbb18f2f28",
+      "source_file_sha256": "b999f4a73a6ae94100541239fb6880dceaf297d7fbcc597e77cb86035842a1fa",
+      "source_locator": {
+        "filename": "tlg0018.tlg022.1st1K-grc1.xml",
+        "reference": "1.8"
+      },
+      "book": 1,
+      "encoded_printed_page": "v.4.p.121",
+      "korean": "그는 다음과 같은 사정으로 왕실의 양육을 받았다. 그 땅의 왕은 그 민족이 계속 불어나자 이주민들이 수적으로 많아져 더 강한 힘으로 토착민들과 통치권을 놓고 겨루게 될까 두려워했다. 그래서 불경한 계책으로 그들의 힘을 없애려 했다. 그는 태어난 여자아이들은 키우되 남자아이들은 죽이라고 명령했다. 여자는 본성이 약해 전쟁에 소극적이라는 이유였다. 남자들이 각 도시에서 늘어나지 못하게 하려는 뜻이었다. 남자가 풍성한 세력은 함락하기도 무너뜨리기도 어려운 요새이기 때문이다.",
+      "translation_revision": "sha256:1386067249492f907ab4f74e62b73756d7883d72f5b22a5bc57e1c3fb33c3c6d",
+      "groups": [
+        {
+          "id": "a-9dd500bfefc36854343f",
+          "source_range": [
+            0,
+            46
+          ],
+          "ko_range": [
+            0,
+            27
+          ],
+          "source_text": "τροφῆς δ’ ἠξιώθη βασιλικῆς ἀπ’ αἰτίας τοιᾶσδε·",
+          "ko_text": "그는 다음과 같은 사정으로 왕실의 양육을 받았다."
+        },
+        {
+          "id": "a-f09edf50bbf0a246461f",
+          "source_range": [
+            47,
+            185
+          ],
+          "ko_range": [
+            28,
+            79
+          ],
+          "source_text": "τῆς χώρας ὁ βασιλεύς, εἰς πολυανθρωπίαν ἐπιδιδόντος ἀεὶ τοῦ ἔθνους, δείσας μὴ οἱ ἔποικοι πλείους γενόμενοι δυνατωτέρᾳ χειρὶ τοῖς αὐτόχθοσι",
+          "ko_text": "그 땅의 왕은 그 민족이 계속 불어나자 이주민들이 수적으로 많아져 더 강한 힘으로 토착민들과"
+        },
+        {
+          "id": "a-4d430500fba99b4cec58",
+          "source_range": [
+            186,
+            216
+          ],
+          "ko_range": [
+            80,
+            101
+          ],
+          "source_text": "περὶ κράτους ἀρχῆς ἁμιλλῶνται,",
+          "ko_text": "통치권을 놓고 겨루게 될까 두려워했다."
+        },
+        {
+          "id": "a-0a0b79d67ed1d3fa866c",
+          "source_range": [
+            217,
+            274
+          ],
+          "ko_range": [
+            102,
+            129
+          ],
+          "source_text": "τὴν ἰσχὺν αὐτῶν ἀφαιρεῖν ἐπινοίαις ἀνοσιουργοῖς ἐμηχανᾶτο",
+          "ko_text": "그래서 불경한 계책으로 그들의 힘을 없애려 했다."
+        },
+        {
+          "id": "a-5f632dda93a037d862bd",
+          "source_range": [
+            275,
+            404
+          ],
+          "ko_range": [
+            130,
+            193
+          ],
+          "source_text": "καὶ κελεύει τῶν γεννωμένων τὰ μὲν θήλεα τρέφειν - ἐπεὶ γυνὴ διὰ φύσεως ἀσθένειαν ὀκνηρὸν εἰς πόλεμον -, τὰ δ’ ἄρρενα διαφθείρειν,",
+          "ko_text": "그는 태어난 여자아이들은 키우되 남자아이들은 죽이라고 명령했다. 여자는 본성이 약해 전쟁에 소극적이라는 이유였다."
+        },
+        {
+          "id": "a-797c63d5350e2dd1590c",
+          "source_range": [
+            405,
+            495
+          ],
+          "ko_range": [
+            194,
+            264
+          ],
+          "source_text": "ἵνα μὴ αὐξηθῇ κατὰ πόλεις· εὐανδροῦσα γὰρ δύναμις δυσάλωτον καὶ δυσκαθαίρετον ἐπιτείχισμα.",
+          "ko_text": "남자들이 각 도시에서 늘어나지 못하게 하려는 뜻이었다. 남자가 풍성한 세력은 함락하기도 무너뜨리기도 어려운 요새이기 때문이다."
+        }
+      ],
+      "notes": [
+        "여자의 약함과 전쟁에 대한 소극성을 설명하는 말은 이 본문의 남녀 이해를 담는다. 필론은 남자아이 살해 명령을 이집트 왕의 인구와 통치권에 대한 두려움과 연결한다."
+      ],
+      "work_passage_id": "moses:1.8",
+      "html_path": "works/moses/index.html#p-1-8",
+      "fixed_html_path": "releases/public-0.33/works/moses/index.html#p-1-8",
+      "alignment_revision": "sha256:d8281905b1224011586e97ac1601fd8631d97fb9cb4590ac30bc682dc5fc9a9e",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:ad91d8d7e9a01b6b335fed292d37eddbc056ddf5dbee7e192aba18dbb18f2f28",
+          "translation_revision": "sha256:1386067249492f907ab4f74e62b73756d7883d72f5b22a5bc57e1c3fb33c3c6d",
+          "alignment_revision": "sha256:d8281905b1224011586e97ac1601fd8631d97fb9cb4590ac30bc682dc5fc9a9e"
+        },
+        "scoped_ai_review": {
+          "id": "moses-addition-20261003",
+          "scope": "모세의 생애 1권 1-20절 전체, 1권 21절 이후와 2권 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:ad91d8d7e9a01b6b335fed292d37eddbc056ddf5dbee7e192aba18dbb18f2f28",
+            "translation_revision": "sha256:1386067249492f907ab4f74e62b73756d7883d72f5b22a5bc57e1c3fb33c3c6d",
+            "alignment_revision": "sha256:d8281905b1224011586e97ac1601fd8631d97fb9cb4590ac30bc682dc5fc9a9e"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg022/tlg0018.tlg022.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "모세의 생애",
+        "reference": "1.8",
+        "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:1386067249492f907ab4f74e62b73756d7883d72f5b22a5bc57e1c3fb33c3c6d",
+        "fixed_path": "releases/public-0.33/works/moses/index.html#p-1-8"
+      }
+    },
+    {
+      "ref": "1.9",
+      "section": 9,
+      "original": "γεννηθεὶς οὖν ὁ παῖς εὐθὺς ὄψιν ἐνέφαινεν ἀστειοτέραν ἢ κατ’ ἰδιώτην, ὡς καὶ τῶν τοῦ τυράννου κηρυγμάτων, ἐφ’ ὅσον οἷόν τε ἦν, τοὺς γονεῖς ἀλογῆσαι· τρεῖς γοῦν φασι μῆνας ἐφεξῆς οἴκοι γαλακτοτροφηθῆναι λανθάνοντα τοὺς πολλούς.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:90277d227997904d130359189865828315252caa7a6c7cf8488140bdb211d8a9",
+      "source_file_sha256": "b999f4a73a6ae94100541239fb6880dceaf297d7fbcc597e77cb86035842a1fa",
+      "source_locator": {
+        "filename": "tlg0018.tlg022.1st1K-grc1.xml",
+        "reference": "1.9"
+      },
+      "book": 1,
+      "encoded_printed_page": "v.4.p.121",
+      "korean": "아이는 태어나자마자 평범한 사람보다 더 아름다운 모습을 드러냈다. 그 때문에 부모는 가능한 한 폭군의 포고를 무시했다. 사람들의 눈을 피해 석 달 동안 계속 집에서 젖을 먹였다고 한다.",
+      "translation_revision": "sha256:4c0963aae4aa0428eed716d605d08e47f4c266d587f5eaf67b6c2807276c1891",
+      "groups": [
+        {
+          "id": "a-20910a2a4ec6e8ee32cb",
+          "source_range": [
+            0,
+            69
+          ],
+          "ko_range": [
+            0,
+            36
+          ],
+          "source_text": "γεννηθεὶς οὖν ὁ παῖς εὐθὺς ὄψιν ἐνέφαινεν ἀστειοτέραν ἢ κατ’ ἰδιώτην,",
+          "ko_text": "아이는 태어나자마자 평범한 사람보다 더 아름다운 모습을 드러냈다."
+        },
+        {
+          "id": "a-31d8a2388d6a8655f65f",
+          "source_range": [
+            70,
+            148
+          ],
+          "ko_range": [
+            37,
+            66
+          ],
+          "source_text": "ὡς καὶ τῶν τοῦ τυράννου κηρυγμάτων, ἐφ’ ὅσον οἷόν τε ἦν, τοὺς γονεῖς ἀλογῆσαι·",
+          "ko_text": "그 때문에 부모는 가능한 한 폭군의 포고를 무시했다."
+        },
+        {
+          "id": "a-cc3c729a95f0e7f82ff5",
+          "source_range": [
+            149,
+            226
+          ],
+          "ko_range": [
+            67,
+            103
+          ],
+          "source_text": "τρεῖς γοῦν φασι μῆνας ἐφεξῆς οἴκοι γαλακτοτροφηθῆναι λανθάνοντα τοὺς πολλούς.",
+          "ko_text": "사람들의 눈을 피해 석 달 동안 계속 집에서 젖을 먹였다고 한다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "moses:1.9",
+      "html_path": "works/moses/index.html#p-1-9",
+      "fixed_html_path": "releases/public-0.33/works/moses/index.html#p-1-9",
+      "alignment_revision": "sha256:03b233ef9487cce63f6c62cb93fc83e1a8e0ab00ae4854c7899a26318c4dace2",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:90277d227997904d130359189865828315252caa7a6c7cf8488140bdb211d8a9",
+          "translation_revision": "sha256:4c0963aae4aa0428eed716d605d08e47f4c266d587f5eaf67b6c2807276c1891",
+          "alignment_revision": "sha256:03b233ef9487cce63f6c62cb93fc83e1a8e0ab00ae4854c7899a26318c4dace2"
+        },
+        "scoped_ai_review": {
+          "id": "moses-addition-20261003",
+          "scope": "모세의 생애 1권 1-20절 전체, 1권 21절 이후와 2권 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:90277d227997904d130359189865828315252caa7a6c7cf8488140bdb211d8a9",
+            "translation_revision": "sha256:4c0963aae4aa0428eed716d605d08e47f4c266d587f5eaf67b6c2807276c1891",
+            "alignment_revision": "sha256:03b233ef9487cce63f6c62cb93fc83e1a8e0ab00ae4854c7899a26318c4dace2"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg022/tlg0018.tlg022.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "모세의 생애",
+        "reference": "1.9",
+        "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:4c0963aae4aa0428eed716d605d08e47f4c266d587f5eaf67b6c2807276c1891",
+        "fixed_path": "releases/public-0.33/works/moses/index.html#p-1-9"
+      }
+    },
+    {
+      "ref": "1.10",
+      "section": 10,
+      "original": "ἐπεὶ δ’, οἷα ἐν μοναρχίαις φιλεῖ, καὶ τὰ ἐν μυχοῖς ἔνιοι διηρεύνων σπεύδοντες ἀεί τι καινὸν ἄκουσμα προσφέρειν τῷ βασιλεῖ, φοβηθέντες μὴ σωτηρίαν ἑνὶ μνώμενοι πλείους ὄντες αὐτοὶ σὺν ἐκείνῳ παραπόλωνται, δεδακρυμένοι τὸν παῖδα ἐκτιθέασι παρὰ τὰς ὄχθας τοῦ ποταμοῦ καὶ στένοντες ἀπῄεσαν, οἰκτιζόμενοι μὲν αὑτοὺς τῆς ἀνάγκης αὐτόχειράς τε καὶ τεκνοκτόνους ἀποκαλοῦντες, οἰκτιζόμενοι δὲ καὶ τὸν παῖδα τῆς παραλογωτάτης ἀπωλείας.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:012021987e379ab4c0291e257976c0f51ba6a3ba2669a2442c5a55674bf86010",
+      "source_file_sha256": "b999f4a73a6ae94100541239fb6880dceaf297d7fbcc597e77cb86035842a1fa",
+      "source_locator": {
+        "filename": "tlg0018.tlg022.1st1K-grc1.xml",
+        "reference": "1.10"
+      },
+      "book": 1,
+      "encoded_printed_page": "v.4.p.122",
+      "korean": "군주가 다스리는 나라에서 흔히 그렇듯, 어떤 사람들은 은밀한 곳까지 뒤지며 늘 새로운 소식을 왕에게 바치려 했다. 부모는 한 아이를 구하려다 여러 사람인 자기들도 아이와 함께 죽게 될까 두려워했다. 그들은 눈물을 흘리며 아이를 강가에 내놓고 탄식하며 떠났다. 이런 일을 해야 하는 자기들을 가엾게 여기며, 자기 손으로 제 자식을 죽이는 사람이라고 불렀다. 너무나 뜻밖의 죽음을 당할 아이도 가엾게 여겼다.",
+      "translation_revision": "sha256:f1185f666c8b222cd0ba73176965c19f3b9c84ec4d937089d3af661c7b9656c1",
+      "groups": [
+        {
+          "id": "a-7e3cd35d008751ddb2cf",
+          "source_range": [
+            0,
+            122
+          ],
+          "ko_range": [
+            0,
+            63
+          ],
+          "source_text": "ἐπεὶ δ’, οἷα ἐν μοναρχίαις φιλεῖ, καὶ τὰ ἐν μυχοῖς ἔνιοι διηρεύνων σπεύδοντες ἀεί τι καινὸν ἄκουσμα προσφέρειν τῷ βασιλεῖ,",
+          "ko_text": "군주가 다스리는 나라에서 흔히 그렇듯, 어떤 사람들은 은밀한 곳까지 뒤지며 늘 새로운 소식을 왕에게 바치려 했다."
+        },
+        {
+          "id": "a-335be15b18300c44e9a1",
+          "source_range": [
+            123,
+            203
+          ],
+          "ko_range": [
+            64,
+            110
+          ],
+          "source_text": "φοβηθέντες μὴ σωτηρίαν ἑνὶ μνώμενοι πλείους ὄντες αὐτοὶ σὺν ἐκείνῳ παραπόλωνται,",
+          "ko_text": "부모는 한 아이를 구하려다 여러 사람인 자기들도 아이와 함께 죽게 될까 두려워했다."
+        },
+        {
+          "id": "a-74811c245b53dfb617e7",
+          "source_range": [
+            204,
+            286
+          ],
+          "ko_range": [
+            111,
+            144
+          ],
+          "source_text": "δεδακρυμένοι τὸν παῖδα ἐκτιθέασι παρὰ τὰς ὄχθας τοῦ ποταμοῦ καὶ στένοντες ἀπῄεσαν,",
+          "ko_text": "그들은 눈물을 흘리며 아이를 강가에 내놓고 탄식하며 떠났다."
+        },
+        {
+          "id": "a-e8e382264ad14fbad503",
+          "source_range": [
+            287,
+            367
+          ],
+          "ko_range": [
+            145,
+            198
+          ],
+          "source_text": "οἰκτιζόμενοι μὲν αὑτοὺς τῆς ἀνάγκης αὐτόχειράς τε καὶ τεκνοκτόνους ἀποκαλοῦντες,",
+          "ko_text": "이런 일을 해야 하는 자기들을 가엾게 여기며, 자기 손으로 제 자식을 죽이는 사람이라고 불렀다."
+        },
+        {
+          "id": "a-145a6f7d2e03f1b5f380",
+          "source_range": [
+            368,
+            425
+          ],
+          "ko_range": [
+            199,
+            226
+          ],
+          "source_text": "οἰκτιζόμενοι δὲ καὶ τὸν παῖδα τῆς παραλογωτάτης ἀπωλείας.",
+          "ko_text": "너무나 뜻밖의 죽음을 당할 아이도 가엾게 여겼다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "moses:1.10",
+      "html_path": "works/moses/index.html#p-1-10",
+      "fixed_html_path": "releases/public-0.33/works/moses/index.html#p-1-10",
+      "alignment_revision": "sha256:c04e41b7025be3b431b27f3cc051df37e12e94e2a3e500e2501551f4d99e193a",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:012021987e379ab4c0291e257976c0f51ba6a3ba2669a2442c5a55674bf86010",
+          "translation_revision": "sha256:f1185f666c8b222cd0ba73176965c19f3b9c84ec4d937089d3af661c7b9656c1",
+          "alignment_revision": "sha256:c04e41b7025be3b431b27f3cc051df37e12e94e2a3e500e2501551f4d99e193a"
+        },
+        "scoped_ai_review": {
+          "id": "moses-addition-20261003",
+          "scope": "모세의 생애 1권 1-20절 전체, 1권 21절 이후와 2권 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:012021987e379ab4c0291e257976c0f51ba6a3ba2669a2442c5a55674bf86010",
+            "translation_revision": "sha256:f1185f666c8b222cd0ba73176965c19f3b9c84ec4d937089d3af661c7b9656c1",
+            "alignment_revision": "sha256:c04e41b7025be3b431b27f3cc051df37e12e94e2a3e500e2501551f4d99e193a"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg022/tlg0018.tlg022.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "모세의 생애",
+        "reference": "1.10",
+        "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:f1185f666c8b222cd0ba73176965c19f3b9c84ec4d937089d3af661c7b9656c1",
+        "fixed_path": "releases/public-0.33/works/moses/index.html#p-1-10"
+      }
+    },
+    {
+      "ref": "1.11",
+      "section": 11,
+      "original": "εἶθ’, ὡς εἰκὸς ἐν ἀλλοκότῳ πράγματι, κατηγόρουν αὑτῶν ὡς μείζονος αἰτίων συμφορᾶς· „τί γὰρ“ ἔφασκον „εὐθὺς γεννώμενον οὐκ ἐξεθήκαμεν; τὸν μὴ φθάσαντα τροφῆς ἡμέρου μεταλαχεῖν οὐδ’ ἄνθρωπον οἱ πολλοὶ νομίζουσιν· ἡμεῖς δ’ οἱ περιττοὶ καὶ τρεῖς μῆνας ὅλους ἀνεθρέψαμεν, δαψιλεστέρας μὲν ἑαυτοῖς ἀνίας, τῷ δὲ τιμωρίας ἐκπορίζοντες, ἵν’ ἡδονῶν καὶ ἀλγηδόνων ἐπὶ πλεῖστον ἀντιλαμβάνεσθαι δυνάμενος",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:b28afb3779bc568f59b0f06e2771e78ccbb73e021250ad1429d9955c87c80b5c",
+      "source_file_sha256": "b999f4a73a6ae94100541239fb6880dceaf297d7fbcc597e77cb86035842a1fa",
+      "source_locator": {
+        "filename": "tlg0018.tlg022.1st1K-grc1.xml",
+        "reference": "1.11"
+      },
+      "book": 1,
+      "encoded_printed_page": "v.4.p.122",
+      "korean": "이런 기이한 일을 겪는 사람답게, 그들은 더 큰 불행을 일으켰다며 자기를 책망했다. “왜 태어나자마자 내놓지 않았을까?”라고 말했다. 부드러운 양육을 미처 받아 보지 못한 아이는 많은 사람이 아직 사람으로도 여기지 않는다. 그런데 지나치게 애쓴 우리는 꼬박 석 달이나 길렀다. 우리에게는 더 큰 고통을, 아이에게는 더 큰 벌을 마련했다. 아이가 즐거움과 아픔을 더 잘 느끼게 된 뒤에",
+      "translation_revision": "sha256:81e307924c54c3d1806ef9e5edecb2f658504997de0ca5babffb28162cec0569",
+      "groups": [
+        {
+          "id": "a-8ff9c806e284737d9361",
+          "source_range": [
+            0,
+            82
+          ],
+          "ko_range": [
+            0,
+            46
+          ],
+          "source_text": "εἶθ’, ὡς εἰκὸς ἐν ἀλλοκότῳ πράγματι, κατηγόρουν αὑτῶν ὡς μείζονος αἰτίων συμφορᾶς·",
+          "ko_text": "이런 기이한 일을 겪는 사람답게, 그들은 더 큰 불행을 일으켰다며 자기를 책망했다."
+        },
+        {
+          "id": "a-9865ec95279446e53471",
+          "source_range": [
+            83,
+            133
+          ],
+          "ko_range": [
+            47,
+            74
+          ],
+          "source_text": "„τί γὰρ“ ἔφασκον „εὐθὺς γεννώμενον οὐκ ἐξεθήκαμεν;",
+          "ko_text": "“왜 태어나자마자 내놓지 않았을까?”라고 말했다."
+        },
+        {
+          "id": "a-c197842310f6f500d5ac",
+          "source_range": [
+            134,
+            210
+          ],
+          "ko_range": [
+            75,
+            124
+          ],
+          "source_text": "τὸν μὴ φθάσαντα τροφῆς ἡμέρου μεταλαχεῖν οὐδ’ ἄνθρωπον οἱ πολλοὶ νομίζουσιν·",
+          "ko_text": "부드러운 양육을 미처 받아 보지 못한 아이는 많은 사람이 아직 사람으로도 여기지 않는다."
+        },
+        {
+          "id": "a-e043fd190a80e0f3508a",
+          "source_range": [
+            211,
+            266
+          ],
+          "ko_range": [
+            125,
+            154
+          ],
+          "source_text": "ἡμεῖς δ’ οἱ περιττοὶ καὶ τρεῖς μῆνας ὅλους ἀνεθρέψαμεν,",
+          "ko_text": "그런데 지나치게 애쓴 우리는 꼬박 석 달이나 길렀다."
+        },
+        {
+          "id": "a-bdbe0fe16a4b0536d57a",
+          "source_range": [
+            267,
+            391
+          ],
+          "ko_range": [
+            155,
+            214
+          ],
+          "source_text": "δαψιλεστέρας μὲν ἑαυτοῖς ἀνίας, τῷ δὲ τιμωρίας ἐκπορίζοντες, ἵν’ ἡδονῶν καὶ ἀλγηδόνων ἐπὶ πλεῖστον ἀντιλαμβάνεσθαι δυνάμενος",
+          "ko_text": "우리에게는 더 큰 고통을, 아이에게는 더 큰 벌을 마련했다. 아이가 즐거움과 아픔을 더 잘 느끼게 된 뒤에"
+        }
+      ],
+      "notes": [
+        "부모가 아이를 석 달 기른 일을 자책하는 말은 12절 첫머리까지 이어진다. 뒤에서 부모가 모르는 미래와 아이를 돌보는 하나님을 서술자가 대조한다."
+      ],
+      "work_passage_id": "moses:1.11",
+      "html_path": "works/moses/index.html#p-1-11",
+      "fixed_html_path": "releases/public-0.33/works/moses/index.html#p-1-11",
+      "alignment_revision": "sha256:a6d7772a8d937c53eb1ec0767da3167f1a2c9afe6a00077f45998ecb6a9a7019",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:b28afb3779bc568f59b0f06e2771e78ccbb73e021250ad1429d9955c87c80b5c",
+          "translation_revision": "sha256:81e307924c54c3d1806ef9e5edecb2f658504997de0ca5babffb28162cec0569",
+          "alignment_revision": "sha256:a6d7772a8d937c53eb1ec0767da3167f1a2c9afe6a00077f45998ecb6a9a7019"
+        },
+        "scoped_ai_review": {
+          "id": "moses-addition-20261003",
+          "scope": "모세의 생애 1권 1-20절 전체, 1권 21절 이후와 2권 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:b28afb3779bc568f59b0f06e2771e78ccbb73e021250ad1429d9955c87c80b5c",
+            "translation_revision": "sha256:81e307924c54c3d1806ef9e5edecb2f658504997de0ca5babffb28162cec0569",
+            "alignment_revision": "sha256:a6d7772a8d937c53eb1ec0767da3167f1a2c9afe6a00077f45998ecb6a9a7019"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg022/tlg0018.tlg022.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "모세의 생애",
+        "reference": "1.11",
+        "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:81e307924c54c3d1806ef9e5edecb2f658504997de0ca5babffb28162cec0569",
+        "fixed_path": "releases/public-0.33/works/moses/index.html#p-1-11"
+      }
+    },
+    {
+      "ref": "1.12",
+      "section": 12,
+      "original": "ἐν αἰσθήσει κακῶν ἀργαλεωτέρων διαφθείρηται.“ καὶ οἱ μὲν ἀγνοίᾳ τοῦ μέλλοντος ἀπῄεσαν οἰκτρῷ κατεσχημένοι πένθει, ἀδελφὴ δὲ τοῦ ἐκτεθέντος βρέφους ἔτι παρθένος ὑπὸ φιλοικείου πάθους μικρὸν ἄποθεν ἐκαραδόκει τὸ ἀποβησόμενον· ἅ μοι δοκεῖ πάντα συμβῆναι κατὰ θεὸν προμηθούμενον τοῦ παιδός.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:35cebfe481ac878075175257756f5e58cfc46a7614f9d477207d7ea6ee752d2a",
+      "source_file_sha256": "b999f4a73a6ae94100541239fb6880dceaf297d7fbcc597e77cb86035842a1fa",
+      "source_locator": {
+        "filename": "tlg0018.tlg022.1st1K-grc1.xml",
+        "reference": "1.12"
+      },
+      "book": 1,
+      "encoded_printed_page": "v.4.p.122",
+      "korean": "더 심한 고통을 느끼며 죽도록 만든 셈이다.” 부모는 앞으로 있을 일을 모르고 가엾은 슬픔에 사로잡혀 떠났다. 내놓은 아기의 누나는 아직 처녀였다. 가족을 사랑하는 마음으로 조금 떨어진 곳에서 무슨 일이 일어날지 지켜보았다. 내 생각에 이 모든 일은 아이를 돌보시는 하나님에 의해 일어났다.",
+      "translation_revision": "sha256:f06125c87d52ce4635e5b5df04ea9d2002bb20593f0e396e0a15b5d6b03b24e5",
+      "groups": [
+        {
+          "id": "a-4f02316203f1bc5e55d3",
+          "source_range": [
+            0,
+            45
+          ],
+          "ko_range": [
+            0,
+            25
+          ],
+          "source_text": "ἐν αἰσθήσει κακῶν ἀργαλεωτέρων διαφθείρηται.“",
+          "ko_text": "더 심한 고통을 느끼며 죽도록 만든 셈이다.”"
+        },
+        {
+          "id": "a-563690b7bc85f709a3d1",
+          "source_range": [
+            46,
+            113
+          ],
+          "ko_range": [
+            26,
+            61
+          ],
+          "source_text": "καὶ οἱ μὲν ἀγνοίᾳ τοῦ μέλλοντος ἀπῄεσαν οἰκτρῷ κατεσχημένοι πένθει,",
+          "ko_text": "부모는 앞으로 있을 일을 모르고 가엾은 슬픔에 사로잡혀 떠났다."
+        },
+        {
+          "id": "a-db7cfd7c376f3a32faab",
+          "source_range": [
+            114,
+            223
+          ],
+          "ko_range": [
+            62,
+            125
+          ],
+          "source_text": "ἀδελφὴ δὲ τοῦ ἐκτεθέντος βρέφους ἔτι παρθένος ὑπὸ φιλοικείου πάθους μικρὸν ἄποθεν ἐκαραδόκει τὸ ἀποβησόμενον·",
+          "ko_text": "내놓은 아기의 누나는 아직 처녀였다. 가족을 사랑하는 마음으로 조금 떨어진 곳에서 무슨 일이 일어날지 지켜보았다."
+        },
+        {
+          "id": "a-c53a93e0fab53f35e4bc",
+          "source_range": [
+            224,
+            286
+          ],
+          "ko_range": [
+            126,
+            162
+          ],
+          "source_text": "ἅ μοι δοκεῖ πάντα συμβῆναι κατὰ θεὸν προμηθούμενον τοῦ παιδός.",
+          "ko_text": "내 생각에 이 모든 일은 아이를 돌보시는 하나님에 의해 일어났다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "moses:1.12",
+      "html_path": "works/moses/index.html#p-1-12",
+      "fixed_html_path": "releases/public-0.33/works/moses/index.html#p-1-12",
+      "alignment_revision": "sha256:517f6fab94ab18b3a49fde269aadedeee0cd32e083381732b253974818cd229e",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:35cebfe481ac878075175257756f5e58cfc46a7614f9d477207d7ea6ee752d2a",
+          "translation_revision": "sha256:f06125c87d52ce4635e5b5df04ea9d2002bb20593f0e396e0a15b5d6b03b24e5",
+          "alignment_revision": "sha256:517f6fab94ab18b3a49fde269aadedeee0cd32e083381732b253974818cd229e"
+        },
+        "scoped_ai_review": {
+          "id": "moses-addition-20261003",
+          "scope": "모세의 생애 1권 1-20절 전체, 1권 21절 이후와 2권 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:35cebfe481ac878075175257756f5e58cfc46a7614f9d477207d7ea6ee752d2a",
+            "translation_revision": "sha256:f06125c87d52ce4635e5b5df04ea9d2002bb20593f0e396e0a15b5d6b03b24e5",
+            "alignment_revision": "sha256:517f6fab94ab18b3a49fde269aadedeee0cd32e083381732b253974818cd229e"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg022/tlg0018.tlg022.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "모세의 생애",
+        "reference": "1.12",
+        "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:f06125c87d52ce4635e5b5df04ea9d2002bb20593f0e396e0a15b5d6b03b24e5",
+        "fixed_path": "releases/public-0.33/works/moses/index.html#p-1-12"
+      }
+    },
+    {
+      "ref": "1.13",
+      "section": 13,
+      "original": "θυγάτηρ ἦν τῷ βασιλεῖ τῆς χώρας ἀγαπητὴ καὶ μόνη· ταύτην φασὶ γημαμένην ἐκ πολλοῦ χρόνου μὴ κυΐσκειν τέκνων ὡς εἰκὸς ἐπιθυμοῦσαν καὶ μάλιστα γενεᾶς ἄρρενος, ἣ τὸν εὐδαίμονα κλῆρον τῆς πατρῴας ἡγεμονίας διαδέξεται κινδυνεύοντα ἐρημίᾳ θυγατριδῶν ἀλλοτριωθῆναι.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:70972e7702cf6f8fc97fe7bf6a3599e45cbefa896ee51b08538288610c655431",
+      "source_file_sha256": "b999f4a73a6ae94100541239fb6880dceaf297d7fbcc597e77cb86035842a1fa",
+      "source_locator": {
+        "filename": "tlg0018.tlg022.1st1K-grc1.xml",
+        "reference": "1.13"
+      },
+      "book": 1,
+      "encoded_printed_page": "v.4.p.122",
+      "korean": "그 땅의 왕에게는 사랑하는 외동딸이 있었다. 그 딸은 오래전에 혼인했으나 아이를 갖지 못했다고 한다. 그래서 당연히 자녀를 원했고, 특히 아들을 원했다. 아버지의 통치권이라는 행복한 몫을 이어받을 아들이었다. 외손자가 없어 그 몫이 남에게 넘어갈 위험이 있었기 때문이다.",
+      "translation_revision": "sha256:afd186f52a8630af270fdf5968649cc6116c0fa070656118aad0716b1a16bd4f",
+      "groups": [
+        {
+          "id": "a-34c007de60f4b81ca684",
+          "source_range": [
+            0,
+            49
+          ],
+          "ko_range": [
+            0,
+            24
+          ],
+          "source_text": "θυγάτηρ ἦν τῷ βασιλεῖ τῆς χώρας ἀγαπητὴ καὶ μόνη·",
+          "ko_text": "그 땅의 왕에게는 사랑하는 외동딸이 있었다."
+        },
+        {
+          "id": "a-0f0aa3e235f194595eb2",
+          "source_range": [
+            50,
+            100
+          ],
+          "ko_range": [
+            25,
+            56
+          ],
+          "source_text": "ταύτην φασὶ γημαμένην ἐκ πολλοῦ χρόνου μὴ κυΐσκειν",
+          "ko_text": "그 딸은 오래전에 혼인했으나 아이를 갖지 못했다고 한다."
+        },
+        {
+          "id": "a-2f157d850b845dfe47cd",
+          "source_range": [
+            101,
+            156
+          ],
+          "ko_range": [
+            57,
+            85
+          ],
+          "source_text": "τέκνων ὡς εἰκὸς ἐπιθυμοῦσαν καὶ μάλιστα γενεᾶς ἄρρενος,",
+          "ko_text": "그래서 당연히 자녀를 원했고, 특히 아들을 원했다."
+        },
+        {
+          "id": "a-14c4aa1ae67618fba323",
+          "source_range": [
+            157,
+            258
+          ],
+          "ko_range": [
+            86,
+            151
+          ],
+          "source_text": "ἣ τὸν εὐδαίμονα κλῆρον τῆς πατρῴας ἡγεμονίας διαδέξεται κινδυνεύοντα ἐρημίᾳ θυγατριδῶν ἀλλοτριωθῆναι.",
+          "ko_text": "아버지의 통치권이라는 행복한 몫을 이어받을 아들이었다. 외손자가 없어 그 몫이 남에게 넘어갈 위험이 있었기 때문이다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "moses:1.13",
+      "html_path": "works/moses/index.html#p-1-13",
+      "fixed_html_path": "releases/public-0.33/works/moses/index.html#p-1-13",
+      "alignment_revision": "sha256:78ca63d0ae7ed97f2f8dcea2c41931cacf6ff08cb35eb6ac3910af11d567b17c",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:70972e7702cf6f8fc97fe7bf6a3599e45cbefa896ee51b08538288610c655431",
+          "translation_revision": "sha256:afd186f52a8630af270fdf5968649cc6116c0fa070656118aad0716b1a16bd4f",
+          "alignment_revision": "sha256:78ca63d0ae7ed97f2f8dcea2c41931cacf6ff08cb35eb6ac3910af11d567b17c"
+        },
+        "scoped_ai_review": {
+          "id": "moses-addition-20261003",
+          "scope": "모세의 생애 1권 1-20절 전체, 1권 21절 이후와 2권 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:70972e7702cf6f8fc97fe7bf6a3599e45cbefa896ee51b08538288610c655431",
+            "translation_revision": "sha256:afd186f52a8630af270fdf5968649cc6116c0fa070656118aad0716b1a16bd4f",
+            "alignment_revision": "sha256:78ca63d0ae7ed97f2f8dcea2c41931cacf6ff08cb35eb6ac3910af11d567b17c"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg022/tlg0018.tlg022.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "모세의 생애",
+        "reference": "1.13",
+        "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:afd186f52a8630af270fdf5968649cc6116c0fa070656118aad0716b1a16bd4f",
+        "fixed_path": "releases/public-0.33/works/moses/index.html#p-1-13"
+      }
+    },
+    {
+      "ref": "1.14",
+      "section": 14,
+      "original": "κατηφοῦσαν δὲ ἀεὶ καὶ στένουσαν ὡς μάλιστα ἐκείνῃ τῇ ἡμέρᾳ τῷ βάρει τῶν φροντίδων ἀπαγορεῦσαι καὶ δι’ ἔθους ἔχουσαν οἴκοι καταμένειν καὶ μηδὲ τὰς κλισιάδας ὑπερβαίνειν ἐξορμῆσαι μετὰ θεραπαινίδων ἐπὶ τὸν ποταμόν, ἔνθα ὁ παῖς ἐξέκειτο· κἄπειτα λουτροῖς καὶ περιρραντηρίοις χρῆσθαι μέλλουσαν ἐν τῷ δασυτάτῳ τῶν ἑλῶν αὐτὸν θεάσασθαι καὶ κελεῦσαι προσφέρειν.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:845fa2984bae413b5bc40d4074685c4f4819d16e88b4bbd2e3cc2e397d0b063a",
+      "source_file_sha256": "b999f4a73a6ae94100541239fb6880dceaf297d7fbcc597e77cb86035842a1fa",
+      "source_locator": {
+        "filename": "tlg0018.tlg022.1st1K-grc1.xml",
+        "reference": "1.14"
+      },
+      "book": 1,
+      "encoded_printed_page": "v.4.p.123",
+      "korean": "그는 늘 풀이 죽어 탄식했는데, 특히 그날은 근심의 무게에 지쳤다고 한다. 평소에는 집에 머물며 자기 방 밖으로도 나가지 않았지만, 하녀들과 강으로 나갔다. 아이가 내놓인 바로 그곳이었다. 목욕하고 몸에 물을 뿌리려다가, 가장 무성한 늪지에서 아이를 보고 데려오라고 명령했다.",
+      "translation_revision": "sha256:0ccbd184e897d57e7fa57e378dd4785dc21b9940d1f7b0a5d754ce153cce994b",
+      "groups": [
+        {
+          "id": "a-5a7a3b8586514bb34017",
+          "source_range": [
+            0,
+            93
+          ],
+          "ko_range": [
+            0,
+            41
+          ],
+          "source_text": "κατηφοῦσαν δὲ ἀεὶ καὶ στένουσαν ὡς μάλιστα ἐκείνῃ τῇ ἡμέρᾳ τῷ βάρει τῶν φροντίδων ἀπαγορεῦσαι",
+          "ko_text": "그는 늘 풀이 죽어 탄식했는데, 특히 그날은 근심의 무게에 지쳤다고 한다."
+        },
+        {
+          "id": "a-921a729ed18f2713ba28",
+          "source_range": [
+            94,
+            167
+          ],
+          "ko_range": [
+            42,
+            73
+          ],
+          "source_text": "καὶ δι’ ἔθους ἔχουσαν οἴκοι καταμένειν καὶ μηδὲ τὰς κλισιάδας ὑπερβαίνειν",
+          "ko_text": "평소에는 집에 머물며 자기 방 밖으로도 나가지 않았지만,"
+        },
+        {
+          "id": "a-d658dbc89e7ffc1ed721",
+          "source_range": [
+            168,
+            234
+          ],
+          "ko_range": [
+            74,
+            105
+          ],
+          "source_text": "ἐξορμῆσαι μετὰ θεραπαινίδων ἐπὶ τὸν ποταμόν, ἔνθα ὁ παῖς ἐξέκειτο·",
+          "ko_text": "하녀들과 강으로 나갔다. 아이가 내놓인 바로 그곳이었다."
+        },
+        {
+          "id": "a-3cbb7345d6857f440c69",
+          "source_range": [
+            235,
+            354
+          ],
+          "ko_range": [
+            106,
+            154
+          ],
+          "source_text": "κἄπειτα λουτροῖς καὶ περιρραντηρίοις χρῆσθαι μέλλουσαν ἐν τῷ δασυτάτῳ τῶν ἑλῶν αὐτὸν θεάσασθαι καὶ κελεῦσαι προσφέρειν.",
+          "ko_text": "목욕하고 몸에 물을 뿌리려다가, 가장 무성한 늪지에서 아이를 보고 데려오라고 명령했다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "moses:1.14",
+      "html_path": "works/moses/index.html#p-1-14",
+      "fixed_html_path": "releases/public-0.33/works/moses/index.html#p-1-14",
+      "alignment_revision": "sha256:a356f2b8db673bca7a2e457b24a695a0029d66c3d43b1e02c2c9ee06193c360c",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:845fa2984bae413b5bc40d4074685c4f4819d16e88b4bbd2e3cc2e397d0b063a",
+          "translation_revision": "sha256:0ccbd184e897d57e7fa57e378dd4785dc21b9940d1f7b0a5d754ce153cce994b",
+          "alignment_revision": "sha256:a356f2b8db673bca7a2e457b24a695a0029d66c3d43b1e02c2c9ee06193c360c"
+        },
+        "scoped_ai_review": {
+          "id": "moses-addition-20261003",
+          "scope": "모세의 생애 1권 1-20절 전체, 1권 21절 이후와 2권 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:845fa2984bae413b5bc40d4074685c4f4819d16e88b4bbd2e3cc2e397d0b063a",
+            "translation_revision": "sha256:0ccbd184e897d57e7fa57e378dd4785dc21b9940d1f7b0a5d754ce153cce994b",
+            "alignment_revision": "sha256:a356f2b8db673bca7a2e457b24a695a0029d66c3d43b1e02c2c9ee06193c360c"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg022/tlg0018.tlg022.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "모세의 생애",
+        "reference": "1.14",
+        "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:0ccbd184e897d57e7fa57e378dd4785dc21b9940d1f7b0a5d754ce153cce994b",
+        "fixed_path": "releases/public-0.33/works/moses/index.html#p-1-14"
+      }
+    },
+    {
+      "ref": "1.15",
+      "section": 15,
+      "original": "εἶτα ἀπὸ κεφαλῆς ἄχρι ποδῶν καταθεωμένην τήν τε εὐμορφίαν καὶ εὐεξίαν ἀποδέχεσθαι καὶ δεδακρυμένον ὁρῶσαν ἐλεεῖν, ἤδη τῆς ψυχῆς τετραμμένης αὐτῇ πρὸς μητρῷον πάθος ὡς ἐπὶ γνησίῳ παιδί· γνοῦσαν δ’ ὅτι τῶν Ἑβραίων ἐστὶ καταδεισάντων τοῦ βασιλέως τὸ πρόσταγμα βουλεύεσθαι περὶ τῆς τροφῆς αὐτοῦ· μὴ γὰρ ἀσφαλὲς εὐθὺς εἶναι νομίζειν εἰς τὰ βασίλεια ἄγειν.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:b796a45bfa811d6f7b09c0d1255c9003b2224856f1ff9bc6782c8a3cc75dcaa8",
+      "source_file_sha256": "b999f4a73a6ae94100541239fb6880dceaf297d7fbcc597e77cb86035842a1fa",
+      "source_locator": {
+        "filename": "tlg0018.tlg022.1st1K-grc1.xml",
+        "reference": "1.15"
+      },
+      "book": 1,
+      "encoded_printed_page": "v.4.p.123",
+      "korean": "그는 머리부터 발끝까지 아이를 살피며 아름다움과 건강한 모습을 반겼다. 우는 아이를 보고 가엾게 여겼다. 마음은 이미 친자식에게 느끼는 어머니의 사랑으로 기울었다. 왕의 명령을 두려워한 히브리인들의 아이라는 것을 알고, 아이를 어떻게 기를지 생각했다. 곧바로 왕궁에 데려가는 것은 안전하지 않다고 여겼기 때문이다.",
+      "translation_revision": "sha256:1fb71d49a899317f9b45fa74dc07ef2c842adc6acf77beb918459f93866327f0",
+      "groups": [
+        {
+          "id": "a-9a738fb1089225e145a4",
+          "source_range": [
+            0,
+            81
+          ],
+          "ko_range": [
+            0,
+            39
+          ],
+          "source_text": "εἶτα ἀπὸ κεφαλῆς ἄχρι ποδῶν καταθεωμένην τήν τε εὐμορφίαν καὶ εὐεξίαν ἀποδέχεσθαι",
+          "ko_text": "그는 머리부터 발끝까지 아이를 살피며 아름다움과 건강한 모습을 반겼다."
+        },
+        {
+          "id": "a-519dc14efa5e7ae55c71",
+          "source_range": [
+            82,
+            184
+          ],
+          "ko_range": [
+            40,
+            91
+          ],
+          "source_text": "καὶ δεδακρυμένον ὁρῶσαν ἐλεεῖν, ἤδη τῆς ψυχῆς τετραμμένης αὐτῇ πρὸς μητρῷον πάθος ὡς ἐπὶ γνησίῳ παιδί·",
+          "ko_text": "우는 아이를 보고 가엾게 여겼다. 마음은 이미 친자식에게 느끼는 어머니의 사랑으로 기울었다."
+        },
+        {
+          "id": "a-1e12c95d6a215bd34bda",
+          "source_range": [
+            185,
+            256
+          ],
+          "ko_range": [
+            92,
+            122
+          ],
+          "source_text": "γνοῦσαν δ’ ὅτι τῶν Ἑβραίων ἐστὶ καταδεισάντων τοῦ βασιλέως τὸ πρόσταγμα",
+          "ko_text": "왕의 명령을 두려워한 히브리인들의 아이라는 것을 알고,"
+        },
+        {
+          "id": "a-aab78ac4e0532ac76405",
+          "source_range": [
+            257,
+            350
+          ],
+          "ko_range": [
+            123,
+            175
+          ],
+          "source_text": "βουλεύεσθαι περὶ τῆς τροφῆς αὐτοῦ· μὴ γὰρ ἀσφαλὲς εὐθὺς εἶναι νομίζειν εἰς τὰ βασίλεια ἄγειν.",
+          "ko_text": "아이를 어떻게 기를지 생각했다. 곧바로 왕궁에 데려가는 것은 안전하지 않다고 여겼기 때문이다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "moses:1.15",
+      "html_path": "works/moses/index.html#p-1-15",
+      "fixed_html_path": "releases/public-0.33/works/moses/index.html#p-1-15",
+      "alignment_revision": "sha256:4c9d83a1958879928b3b989a2cc384ad2aaf137e9a28daaeb9379f1d35e1f72d",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:b796a45bfa811d6f7b09c0d1255c9003b2224856f1ff9bc6782c8a3cc75dcaa8",
+          "translation_revision": "sha256:1fb71d49a899317f9b45fa74dc07ef2c842adc6acf77beb918459f93866327f0",
+          "alignment_revision": "sha256:4c9d83a1958879928b3b989a2cc384ad2aaf137e9a28daaeb9379f1d35e1f72d"
+        },
+        "scoped_ai_review": {
+          "id": "moses-addition-20261003",
+          "scope": "모세의 생애 1권 1-20절 전체, 1권 21절 이후와 2권 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:b796a45bfa811d6f7b09c0d1255c9003b2224856f1ff9bc6782c8a3cc75dcaa8",
+            "translation_revision": "sha256:1fb71d49a899317f9b45fa74dc07ef2c842adc6acf77beb918459f93866327f0",
+            "alignment_revision": "sha256:4c9d83a1958879928b3b989a2cc384ad2aaf137e9a28daaeb9379f1d35e1f72d"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg022/tlg0018.tlg022.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "모세의 생애",
+        "reference": "1.15",
+        "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:1fb71d49a899317f9b45fa74dc07ef2c842adc6acf77beb918459f93866327f0",
+        "fixed_path": "releases/public-0.33/works/moses/index.html#p-1-15"
+      }
+    },
+    {
+      "ref": "1.16",
+      "section": 16,
+      "original": "διαπορούσης δ’ ἔτι, τὴν ἀδελφὴν τοῦ παιδὸς καθάπερ ἀπὸ σκοπῆς τὸν ἐνδοιασμὸν στοχασαμένην πυνθάνεσθαι προσδραμοῦσαν, εἰ βουλήσεται γαλακτοτροφηθῆναι τοῦτον παρὰ γυναίῳ τῶν Ἑβραϊκῶν οὐ πρὸ πολλοῦ κυήσαντι·",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:13952a9ef3299ce915ca4fe7158c8053d8320de304886be5a5628e20957c6818",
+      "source_file_sha256": "b999f4a73a6ae94100541239fb6880dceaf297d7fbcc597e77cb86035842a1fa",
+      "source_locator": {
+        "filename": "tlg0018.tlg022.1st1K-grc1.xml",
+        "reference": "1.16"
+      },
+      "book": 1,
+      "encoded_printed_page": "v.4.p.123",
+      "korean": "그가 아직 난처해할 때, 아이의 누나는 망을 보던 사람처럼 그의 망설임을 알아차렸다. 달려가서 얼마 전에 아이를 낳은 히브리 여자에게 이 아이의 젖을 먹이게 할 생각이 있는지 물었다.",
+      "translation_revision": "sha256:7d44361c6c7a2a522609121c51a1909414b731890622625d6804d299b97f8881",
+      "groups": [
+        {
+          "id": "a-e68a6098001d343e663a",
+          "source_range": [
+            0,
+            89
+          ],
+          "ko_range": [
+            0,
+            47
+          ],
+          "source_text": "διαπορούσης δ’ ἔτι, τὴν ἀδελφὴν τοῦ παιδὸς καθάπερ ἀπὸ σκοπῆς τὸν ἐνδοιασμὸν στοχασαμένην",
+          "ko_text": "그가 아직 난처해할 때, 아이의 누나는 망을 보던 사람처럼 그의 망설임을 알아차렸다."
+        },
+        {
+          "id": "a-a2be51345accf835f101",
+          "source_range": [
+            90,
+            204
+          ],
+          "ko_range": [
+            48,
+            102
+          ],
+          "source_text": "πυνθάνεσθαι προσδραμοῦσαν, εἰ βουλήσεται γαλακτοτροφηθῆναι τοῦτον παρὰ γυναίῳ τῶν Ἑβραϊκῶν οὐ πρὸ πολλοῦ κυήσαντι·",
+          "ko_text": "달려가서 얼마 전에 아이를 낳은 히브리 여자에게 이 아이의 젖을 먹이게 할 생각이 있는지 물었다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "moses:1.16",
+      "html_path": "works/moses/index.html#p-1-16",
+      "fixed_html_path": "releases/public-0.33/works/moses/index.html#p-1-16",
+      "alignment_revision": "sha256:af07aac79bae6361d8076ecd4b8eab95d4aa5837873793e24288c97793b08b93",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:13952a9ef3299ce915ca4fe7158c8053d8320de304886be5a5628e20957c6818",
+          "translation_revision": "sha256:7d44361c6c7a2a522609121c51a1909414b731890622625d6804d299b97f8881",
+          "alignment_revision": "sha256:af07aac79bae6361d8076ecd4b8eab95d4aa5837873793e24288c97793b08b93"
+        },
+        "scoped_ai_review": {
+          "id": "moses-addition-20261003",
+          "scope": "모세의 생애 1권 1-20절 전체, 1권 21절 이후와 2권 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:13952a9ef3299ce915ca4fe7158c8053d8320de304886be5a5628e20957c6818",
+            "translation_revision": "sha256:7d44361c6c7a2a522609121c51a1909414b731890622625d6804d299b97f8881",
+            "alignment_revision": "sha256:af07aac79bae6361d8076ecd4b8eab95d4aa5837873793e24288c97793b08b93"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg022/tlg0018.tlg022.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "모세의 생애",
+        "reference": "1.16",
+        "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:7d44361c6c7a2a522609121c51a1909414b731890622625d6804d299b97f8881",
+        "fixed_path": "releases/public-0.33/works/moses/index.html#p-1-16"
+      }
+    },
+    {
+      "ref": "1.17",
+      "section": 17,
+      "original": "τῆς δὲ βούλεσθαι φαμένης, τὴν αὑτῆς καὶ τοῦ βρέφους μητέρα παραγαγεῖν ὡς ἀλλοτρίαν, ἣν ἑτοιμότερον ἀσμένην ὑπισχνεῖσθαι πρόφασιν ὡς ἐπὶ μισθῷ τροφεύσειν, ἐπινοίᾳ θεοῦ τοῦ τὰς πρώτας τροφὰς τῷ παιδὶ γνησίας εὐτρεπίζοντος· εἶτα δίδωσιν ὄνομα θεμένη Μωυσῆν ἐτύμως διὰ τὸ ἐκ τοῦ ὕδατος αὐτὸν ἀνελέσθαι· τὸ γὰρ ὕδωρ μῶυ ὀνομάζουσιν Αἰγύπτιοι.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:aa03130df53bb0435ac7eeaa910b46fedaeb29bdbd160bb5d9efabebca1999e2",
+      "source_file_sha256": "b999f4a73a6ae94100541239fb6880dceaf297d7fbcc597e77cb86035842a1fa",
+      "source_locator": {
+        "filename": "tlg0018.tlg022.1st1K-grc1.xml",
+        "reference": "1.17"
+      },
+      "book": 1,
+      "encoded_printed_page": "v.4.p.123",
+      "korean": "그가 좋다고 하자, 누나는 자신과 아기의 어머니를 남인 것처럼 데려왔다. 어머니는 기뻐하며 더욱 기꺼이 양육을 맡겠다고 약속했다. 품삯을 받고 기른다는 구실을 댔다. 이것은 아이에게 처음부터 제 어머니의 양육을 마련하신 하나님의 계획이었다. 왕의 딸은 아이를 물에서 건져 올렸다는 뜻으로, 그 의미에 맞춰 모세라는 이름을 주었다. 이집트인들은 물을 모우라고 부르기 때문이다.",
+      "translation_revision": "sha256:cd89abf11e8e41ce80ef234e5c384b1ad0cf8b9bec5fc3b2b2ebca1590004135",
+      "groups": [
+        {
+          "id": "a-64fa6aadcb1ca6fa6e5c",
+          "source_range": [
+            0,
+            25
+          ],
+          "ko_range": [
+            0,
+            10
+          ],
+          "source_text": "τῆς δὲ βούλεσθαι φαμένης,",
+          "ko_text": "그가 좋다고 하자,"
+        },
+        {
+          "id": "a-772aaab79719baf5d186",
+          "source_range": [
+            26,
+            83
+          ],
+          "ko_range": [
+            11,
+            40
+          ],
+          "source_text": "τὴν αὑτῆς καὶ τοῦ βρέφους μητέρα παραγαγεῖν ὡς ἀλλοτρίαν,",
+          "ko_text": "누나는 자신과 아기의 어머니를 남인 것처럼 데려왔다."
+        },
+        {
+          "id": "a-6aef83a2184c2405cbae",
+          "source_range": [
+            84,
+            153
+          ],
+          "ko_range": [
+            41,
+            92
+          ],
+          "source_text": "ἣν ἑτοιμότερον ἀσμένην ὑπισχνεῖσθαι πρόφασιν ὡς ἐπὶ μισθῷ τροφεύσειν,",
+          "ko_text": "어머니는 기뻐하며 더욱 기꺼이 양육을 맡겠다고 약속했다. 품삯을 받고 기른다는 구실을 댔다."
+        },
+        {
+          "id": "a-31768df4ff0b5c265a0a",
+          "source_range": [
+            154,
+            220
+          ],
+          "ko_range": [
+            93,
+            134
+          ],
+          "source_text": "ἐπινοίᾳ θεοῦ τοῦ τὰς πρώτας τροφὰς τῷ παιδὶ γνησίας εὐτρεπίζοντος·",
+          "ko_text": "이것은 아이에게 처음부터 제 어머니의 양육을 마련하신 하나님의 계획이었다."
+        },
+        {
+          "id": "a-5c7926c3e558463bd40e",
+          "source_range": [
+            221,
+            298
+          ],
+          "ko_range": [
+            135,
+            184
+          ],
+          "source_text": "εἶτα δίδωσιν ὄνομα θεμένη Μωυσῆν ἐτύμως διὰ τὸ ἐκ τοῦ ὕδατος αὐτὸν ἀνελέσθαι·",
+          "ko_text": "왕의 딸은 아이를 물에서 건져 올렸다는 뜻으로, 그 의미에 맞춰 모세라는 이름을 주었다."
+        },
+        {
+          "id": "a-01233178a7c6f309e043",
+          "source_range": [
+            299,
+            337
+          ],
+          "ko_range": [
+            185,
+            209
+          ],
+          "source_text": "τὸ γὰρ ὕδωρ μῶυ ὀνομάζουσιν Αἰγύπτιοι.",
+          "ko_text": "이집트인들은 물을 모우라고 부르기 때문이다."
+        }
+      ],
+      "notes": [
+        "모세라는 이름과 이집트어 물을 뜻하는 모우의 연결은 필론의 어원 풀이이다. 누나는 어머니를 타인처럼 소개하고, 어머니는 품삯을 받는 유모라는 명목으로 아이를 기른다."
+      ],
+      "work_passage_id": "moses:1.17",
+      "html_path": "works/moses/index.html#p-1-17",
+      "fixed_html_path": "releases/public-0.33/works/moses/index.html#p-1-17",
+      "alignment_revision": "sha256:6402df4ce4193fd05113e80dfa291d80fdbfde8533502d38a74c168f86e5c66c",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:aa03130df53bb0435ac7eeaa910b46fedaeb29bdbd160bb5d9efabebca1999e2",
+          "translation_revision": "sha256:cd89abf11e8e41ce80ef234e5c384b1ad0cf8b9bec5fc3b2b2ebca1590004135",
+          "alignment_revision": "sha256:6402df4ce4193fd05113e80dfa291d80fdbfde8533502d38a74c168f86e5c66c"
+        },
+        "scoped_ai_review": {
+          "id": "moses-addition-20261003",
+          "scope": "모세의 생애 1권 1-20절 전체, 1권 21절 이후와 2권 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:aa03130df53bb0435ac7eeaa910b46fedaeb29bdbd160bb5d9efabebca1999e2",
+            "translation_revision": "sha256:cd89abf11e8e41ce80ef234e5c384b1ad0cf8b9bec5fc3b2b2ebca1590004135",
+            "alignment_revision": "sha256:6402df4ce4193fd05113e80dfa291d80fdbfde8533502d38a74c168f86e5c66c"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg022/tlg0018.tlg022.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "모세의 생애",
+        "reference": "1.17",
+        "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:cd89abf11e8e41ce80ef234e5c384b1ad0cf8b9bec5fc3b2b2ebca1590004135",
+        "fixed_path": "releases/public-0.33/works/moses/index.html#p-1-17"
+      }
+    },
+    {
+      "ref": "1.18",
+      "section": 18,
+      "original": "Ἐπεὶ δ’ ἀθρόας ἐπιδόσεις καὶ παραυξήσεις λαμβάνων οὐ σὺν λόγῳ τῷ κατὰ χρόνον θᾶττον δ’ ἀπότιτθος γίνεται, παρῆν ἡ μήτηρ ἅμα καὶ τροφὸς κομίζουσα τῇ δούσῃ μηκέτι γαλακτοτροφίας δεόμενον, εὐγενῆ καὶ ἀστεῖον ὀφθῆναι.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:4606501551504e902be18d598c195a86008ef526b9d06bdc477419783b4f544e",
+      "source_file_sha256": "b999f4a73a6ae94100541239fb6880dceaf297d7fbcc597e77cb86035842a1fa",
+      "source_locator": {
+        "filename": "tlg0018.tlg022.1st1K-grc1.xml",
+        "reference": "1.18"
+      },
+      "book": 1,
+      "encoded_printed_page": "v.4.p.124",
+      "korean": "아이는 빠르게 자라고 키가 커져, 시간의 흐름에 걸맞은 속도보다 더 빨리 젖을 뗐다. 어머니이자 유모는 더는 젖을 먹일 필요가 없어진 아이를 자기에게 맡겼던 사람에게 데려갔다. 아이는 고귀하고 아름답게 보였다.",
+      "translation_revision": "sha256:0b82475976091b0e7ec9770a7f598a1a362a9f1691d12c367cce8d241a272418",
+      "groups": [
+        {
+          "id": "a-db9d44233d967ae6aedc",
+          "source_range": [
+            0,
+            105
+          ],
+          "ko_range": [
+            0,
+            47
+          ],
+          "source_text": "Ἐπεὶ δ’ ἀθρόας ἐπιδόσεις καὶ παραυξήσεις λαμβάνων οὐ σὺν λόγῳ τῷ κατὰ χρόνον θᾶττον δ’ ἀπότιτθος γίνεται,",
+          "ko_text": "아이는 빠르게 자라고 키가 커져, 시간의 흐름에 걸맞은 속도보다 더 빨리 젖을 뗐다."
+        },
+        {
+          "id": "a-885a8f8131c19a135650",
+          "source_range": [
+            106,
+            213
+          ],
+          "ko_range": [
+            48,
+            117
+          ],
+          "source_text": "παρῆν ἡ μήτηρ ἅμα καὶ τροφὸς κομίζουσα τῇ δούσῃ μηκέτι γαλακτοτροφίας δεόμενον, εὐγενῆ καὶ ἀστεῖον ὀφθῆναι.",
+          "ko_text": "어머니이자 유모는 더는 젖을 먹일 필요가 없어진 아이를 자기에게 맡겼던 사람에게 데려갔다. 아이는 고귀하고 아름답게 보였다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "moses:1.18",
+      "html_path": "works/moses/index.html#p-1-18",
+      "fixed_html_path": "releases/public-0.33/works/moses/index.html#p-1-18",
+      "alignment_revision": "sha256:59ac942fe734629fbc7aec8adecf977560325ad9d619e0179d227b66b85c35c9",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:4606501551504e902be18d598c195a86008ef526b9d06bdc477419783b4f544e",
+          "translation_revision": "sha256:0b82475976091b0e7ec9770a7f598a1a362a9f1691d12c367cce8d241a272418",
+          "alignment_revision": "sha256:59ac942fe734629fbc7aec8adecf977560325ad9d619e0179d227b66b85c35c9"
+        },
+        "scoped_ai_review": {
+          "id": "moses-addition-20261003",
+          "scope": "모세의 생애 1권 1-20절 전체, 1권 21절 이후와 2권 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:4606501551504e902be18d598c195a86008ef526b9d06bdc477419783b4f544e",
+            "translation_revision": "sha256:0b82475976091b0e7ec9770a7f598a1a362a9f1691d12c367cce8d241a272418",
+            "alignment_revision": "sha256:59ac942fe734629fbc7aec8adecf977560325ad9d619e0179d227b66b85c35c9"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg022/tlg0018.tlg022.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "모세의 생애",
+        "reference": "1.18",
+        "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:0b82475976091b0e7ec9770a7f598a1a362a9f1691d12c367cce8d241a272418",
+        "fixed_path": "releases/public-0.33/works/moses/index.html#p-1-18"
+      }
+    },
+    {
+      "ref": "1.19",
+      "section": 19,
+      "original": "τελειότερον δὲ τῆς ἡλικίας ἰδοῦσα κἀκ τῆς ὄψεως ἔτι μᾶλλον ἢ πρότερον σπάσασα εὐνοίας υἱὸν ποιεῖται τὰ περὶ τὸν ὄγκον τῆς γαστρὸς τεχνάσασα πρότερον, ἵνα γνήσιος ἀλλὰ μὴ ὑποβολιμαῖος νομισθῇ· πάντα δ’ ἐξευμαρίζει θεὸς ἃ ἂν ἐθελήσῃ καὶ τὰ δυσκατόρθωτα.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:17d99ef875c2278b2f4d2acb674ededbf8e60501a9848146516edccd97781ccb",
+      "source_file_sha256": "b999f4a73a6ae94100541239fb6880dceaf297d7fbcc597e77cb86035842a1fa",
+      "source_locator": {
+        "filename": "tlg0018.tlg022.1st1K-grc1.xml",
+        "reference": "1.19"
+      },
+      "book": 1,
+      "encoded_printed_page": "v.4.p.124",
+      "korean": "그가 나이에 비해 더 성숙한 아이를 보고, 그 모습에서 전보다 더 큰 사랑을 느껴, 아이를 아들로 삼았다. 그 전에 배가 불러 보이도록 꾸몄다. 들여온 아이가 아니라 친아들로 여겨지게 하려는 뜻이었다. 하나님은 원하시는 모든 것을 수월하게 하신다. 이루기 어려운 일도 그렇게 하신다.",
+      "translation_revision": "sha256:8095ec552bc896d01aa03df55259051cc6eccfc8287277a847f2f8637d6cbc02",
+      "groups": [
+        {
+          "id": "a-94d486392b3e5d90c253",
+          "source_range": [
+            0,
+            85
+          ],
+          "ko_range": [
+            0,
+            46
+          ],
+          "source_text": "τελειότερον δὲ τῆς ἡλικίας ἰδοῦσα κἀκ τῆς ὄψεως ἔτι μᾶλλον ἢ πρότερον σπάσασα εὐνοίας",
+          "ko_text": "그가 나이에 비해 더 성숙한 아이를 보고, 그 모습에서 전보다 더 큰 사랑을 느껴,"
+        },
+        {
+          "id": "a-93f36f97242ba13a6df6",
+          "source_range": [
+            86,
+            99
+          ],
+          "ko_range": [
+            47,
+            59
+          ],
+          "source_text": "υἱὸν ποιεῖται",
+          "ko_text": "아이를 아들로 삼았다."
+        },
+        {
+          "id": "a-8756ee041057c0e56106",
+          "source_range": [
+            100,
+            191
+          ],
+          "ko_range": [
+            60,
+            112
+          ],
+          "source_text": "τὰ περὶ τὸν ὄγκον τῆς γαστρὸς τεχνάσασα πρότερον, ἵνα γνήσιος ἀλλὰ μὴ ὑποβολιμαῖος νομισθῇ·",
+          "ko_text": "그 전에 배가 불러 보이도록 꾸몄다. 들여온 아이가 아니라 친아들로 여겨지게 하려는 뜻이었다."
+        },
+        {
+          "id": "a-d05e98471d3ff03fe0f8",
+          "source_range": [
+            192,
+            251
+          ],
+          "ko_range": [
+            113,
+            158
+          ],
+          "source_text": "πάντα δ’ ἐξευμαρίζει θεὸς ἃ ἂν ἐθελήσῃ καὶ τὰ δυσκατόρθωτα.",
+          "ko_text": "하나님은 원하시는 모든 것을 수월하게 하신다. 이루기 어려운 일도 그렇게 하신다."
+        }
+      ],
+      "notes": [
+        "왕의 딸이 배가 불러 보이도록 꾸몄다는 내용은 친자식으로 받아들이게 하려는 행동으로 설명된다. 출애굽기의 간단한 입양 서술보다 이 장면의 동기와 행동을 길게 전한다."
+      ],
+      "work_passage_id": "moses:1.19",
+      "html_path": "works/moses/index.html#p-1-19",
+      "fixed_html_path": "releases/public-0.33/works/moses/index.html#p-1-19",
+      "alignment_revision": "sha256:70130f524b7e1c166e7da5f151f3a14ecdb60e4faa393b74ddf9d4db41d0c515",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:17d99ef875c2278b2f4d2acb674ededbf8e60501a9848146516edccd97781ccb",
+          "translation_revision": "sha256:8095ec552bc896d01aa03df55259051cc6eccfc8287277a847f2f8637d6cbc02",
+          "alignment_revision": "sha256:70130f524b7e1c166e7da5f151f3a14ecdb60e4faa393b74ddf9d4db41d0c515"
+        },
+        "scoped_ai_review": {
+          "id": "moses-addition-20261003",
+          "scope": "모세의 생애 1권 1-20절 전체, 1권 21절 이후와 2권 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:17d99ef875c2278b2f4d2acb674ededbf8e60501a9848146516edccd97781ccb",
+            "translation_revision": "sha256:8095ec552bc896d01aa03df55259051cc6eccfc8287277a847f2f8637d6cbc02",
+            "alignment_revision": "sha256:70130f524b7e1c166e7da5f151f3a14ecdb60e4faa393b74ddf9d4db41d0c515"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg022/tlg0018.tlg022.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "모세의 생애",
+        "reference": "1.19",
+        "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:8095ec552bc896d01aa03df55259051cc6eccfc8287277a847f2f8637d6cbc02",
+        "fixed_path": "releases/public-0.33/works/moses/index.html#p-1-19"
+      }
+    },
+    {
+      "ref": "1.20",
+      "section": 20,
+      "original": "τροφῆς οὖν ἤδη βασιλικῆς καὶ θεραπείας ἀξιούμενος οὐχ οἷα κομιδῇ νήπιος ἥδετο τωθασμοῖς καὶ γέλωσι καὶ παιδιαῖς, καίτοι τῶν τὴν ἐπιμέλειαν αὐτοῦ παρειληφότων ἀνέσεις ἔχειν ἐπιτρεπόντων καὶ μηδὲν ἐπιδεικνυμένων σκυθρωπόν, ἀλλ’ αἰδῶ καὶ σεμνότητα παραφαίνων ἀκούσμασι καὶ θεάμασιν, ἃ τὴν ψυχὴν ἔμελλεν ὠφελήσειν, προσεῖχε.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:63bf8c92bff5cb645b06e26d74d75e2866c94b5e715868198fe8fc08e9f25707",
+      "source_file_sha256": "b999f4a73a6ae94100541239fb6880dceaf297d7fbcc597e77cb86035842a1fa",
+      "source_locator": {
+        "filename": "tlg0018.tlg022.1st1K-grc1.xml",
+        "reference": "1.20"
+      },
+      "book": 1,
+      "encoded_printed_page": "v.4.p.124",
+      "korean": "그는 이제 왕실의 양육과 돌봄을 받았다. 하지만 아주 어린아이들처럼 놀림과 웃음과 놀이를 즐기지 않았다. 아이를 돌보는 사람들이 쉬게 해 주고 엄한 태도를 보이지 않았는데도 그랬다. 그는 공경과 진중함을 드러내며, 영혼에 유익할 이야기와 볼거리에 주의를 기울였다.",
+      "translation_revision": "sha256:a35853585946cd00c657e61c02ab721b5138761bbe444c1b64fd78a104698795",
+      "groups": [
+        {
+          "id": "a-75dfc745dba2106dba26",
+          "source_range": [
+            0,
+            49
+          ],
+          "ko_range": [
+            0,
+            22
+          ],
+          "source_text": "τροφῆς οὖν ἤδη βασιλικῆς καὶ θεραπείας ἀξιούμενος",
+          "ko_text": "그는 이제 왕실의 양육과 돌봄을 받았다."
+        },
+        {
+          "id": "a-d89369eadcde553d1183",
+          "source_range": [
+            50,
+            112
+          ],
+          "ko_range": [
+            23,
+            58
+          ],
+          "source_text": "οὐχ οἷα κομιδῇ νήπιος ἥδετο τωθασμοῖς καὶ γέλωσι καὶ παιδιαῖς,",
+          "ko_text": "하지만 아주 어린아이들처럼 놀림과 웃음과 놀이를 즐기지 않았다."
+        },
+        {
+          "id": "a-13267e18cee925a1f097",
+          "source_range": [
+            113,
+            220
+          ],
+          "ko_range": [
+            59,
+            101
+          ],
+          "source_text": "καίτοι τῶν τὴν ἐπιμέλειαν αὐτοῦ παρειληφότων ἀνέσεις ἔχειν ἐπιτρεπόντων καὶ μηδὲν ἐπιδεικνυμένων σκυθρωπόν,",
+          "ko_text": "아이를 돌보는 사람들이 쉬게 해 주고 엄한 태도를 보이지 않았는데도 그랬다."
+        },
+        {
+          "id": "a-2d3829502a14866a7ef2",
+          "source_range": [
+            221,
+            320
+          ],
+          "ko_range": [
+            102,
+            147
+          ],
+          "source_text": "ἀλλ’ αἰδῶ καὶ σεμνότητα παραφαίνων ἀκούσμασι καὶ θεάμασιν, ἃ τὴν ψυχὴν ἔμελλεν ὠφελήσειν, προσεῖχε.",
+          "ko_text": "그는 공경과 진중함을 드러내며, 영혼에 유익할 이야기와 볼거리에 주의를 기울였다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "moses:1.20",
+      "html_path": "works/moses/index.html#p-1-20",
+      "fixed_html_path": "releases/public-0.33/works/moses/index.html#p-1-20",
+      "alignment_revision": "sha256:731df28fdc08419ed376cde39efc75c18c8cb828c617995dae60b75574314588",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:63bf8c92bff5cb645b06e26d74d75e2866c94b5e715868198fe8fc08e9f25707",
+          "translation_revision": "sha256:a35853585946cd00c657e61c02ab721b5138761bbe444c1b64fd78a104698795",
+          "alignment_revision": "sha256:731df28fdc08419ed376cde39efc75c18c8cb828c617995dae60b75574314588"
+        },
+        "scoped_ai_review": {
+          "id": "moses-addition-20261003",
+          "scope": "모세의 생애 1권 1-20절 전체, 1권 21절 이후와 2권 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:63bf8c92bff5cb645b06e26d74d75e2866c94b5e715868198fe8fc08e9f25707",
+            "translation_revision": "sha256:a35853585946cd00c657e61c02ab721b5138761bbe444c1b64fd78a104698795",
+            "alignment_revision": "sha256:731df28fdc08419ed376cde39efc75c18c8cb828c617995dae60b75574314588"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg022/tlg0018.tlg022.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "모세의 생애",
+        "reference": "1.20",
+        "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:a35853585946cd00c657e61c02ab721b5138761bbe444c1b64fd78a104698795",
+        "fixed_path": "releases/public-0.33/works/moses/index.html#p-1-20"
+      }
+    }
+  ],
+  "related": [],
+  "aliases": [
+    "모세의 생애",
+    "Mos.",
+    "De vita Mosis (lib. i‑ii)"
+  ],
+  "translationLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "sourceCommit": "03776b39f4047c5cff06f5296fae4b2bae4b08fb",
+  "licenseEvidence": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg022/tlg0018.tlg022.1st1K-grc1.xml",
+  "readerUrl": "https://archive.org/download/philonisalexandr0406philuoft/philonisalexandr0406philuoft.pdf",
+  "openAccessFullTextUrl": "https://archive.org/download/philonisalexandr0406philuoft/philonisalexandr0406philuoft.pdf",
+  "original_title": "Περὶ βίου Μωυσέως",
+  "display_title": "모세의 생애",
+  "reference_scheme": "scoped_section",
+  "coverage_label": "1권 1-20절 수록",
+  "edition_id": "moses-first1k-03776b39",
+  "source_file_sha256": "b999f4a73a6ae94100541239fb6880dceaf297d7fbcc597e77cb86035842a1fa",
+  "display_author": "필론",
+  "scope": "모세의 생애 1권 1-20절 전체, 1권 21절 이후와 2권 미수록",
+  "coverage": "complete_scope",
+  "release_id": "public-0.33",
+  "source_language": "grc",
+  "source_kind": "edited_ancient_original",
+  "human_reviewed": false,
+  "translation_method": "고정 원어 본문에서 직접 번역",
+  "html_path": "works/moses/index.html",
+  "json_path": "data/works/moses.json",
+  "fixed_html_path": "releases/public-0.33/works/moses/index.html",
+  "source_profile": "moses-first1k-03776b39",
+  "source_decisions": [
+    {
+      "kind": "source_selection",
+      "verified": "2026-10-03",
+      "scope": "모세의 생애 1권 1-20절 전체, 1권 21절 이후와 2권 미수록",
+      "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg022/tlg0018.tlg022.1st1K-grc1.xml",
+      "license": "CC BY-SA 4.0",
+      "basis": "고정된 공개 원문 전사"
+    },
+    {
+      "ref": "1.1",
+      "kind": "note",
+      "action": "separated_from_body",
+      "text": "II p. 80M."
+    },
+    {
+      "ref": "1.3",
+      "kind": "note",
+      "action": "separated_from_body",
+      "text": "1. 2 Φίλωνος περὶ τοῦ βίου μωυσέως λόγος α΄ VK, φίλωνος περὶ τοῦ βίου μώσεως α᾿ CM, περὶ βίου μωυσέως λόγος α΄ G, τοῦ αὐτοῦ περὶ τοῦ βίου μωυσέως λόγος α᾿ P, φίλωνος περὶ τοῦ βίου μώσεως BEO, φίλωνος ἰουδαίου περὶ τοῦ βίου μώσεως Α, φίλωνος περὶ τοῦ βίου μώσεως λόγος πρῶτος: θεολόγου καὶ προφήτου Η, περὶ βίου μωυσέως λόγος πρῶτος: θεολογίας καὶ προφητείας L, φίλωνος ἰουδαίου περὶ βίου μωυσέως, ὅπερ ἐστὶ περὶ θεολογίας καὶ προφητείας, λόγος α΄ F2 (= Turn.), tit. om. Z 3 μωυσέως KZ: μωσέος G, μσέως ceteri 4 νόμων ἱερῶν ἑρμηνέως transp. VO ἀναγράψασθαι Ζ, διαγράψαι BM 5 τὰ] τοῦ AG ἀξίοις] ἀξιοῦσι coni. Mang. 6 ἀπολέλειπαν G 7 πεφοιτητικὸς Κ alt. τῆς om. CEVOHP πέφθακεν HP, ἔφθασεν KZ 8 δ’ AG ὥστις G 8. 9 καὶ ἐν K1Z: ἡ τὴν ἐν HP(v), om. ceteri 9 ὀλίγοις] ὀλίγοι δὲ καὶ διὰ τὴν V2OK2 κατὰ τὰς πόλεις HP(v), κατὰ πόλιν KZ 10 καὶ add. ante ἐναντίωσιν BEMAG 11 λογίων] λόγων C παιδιὰς G 12. 13 συβαριτικῆς AGHP"
+    },
+    {
+      "ref": "1.3",
+      "kind": "note",
+      "action": "separated_from_body",
+      "text": "4 Clem. Alex. Strom. I 22 p. 411 P. οὗτος ὁ Μωυσῆς θεόλογος καὶ προφήτης, ὡς δέ τινες, νόμων ἱερῶν ἑρμηνεὺς ἢν."
+    },
+    {
+      "ref": "1.6",
+      "kind": "note",
+      "action": "separated_from_body",
+      "text": "1 τι] τὸ C τῆ ἡσυχία VO 2 δυνάμενον om. H1P1, ss. H2P2 αὖ τὰς] αὐτὰς EZ ἀναξίας CVO 3 δοκῶσι] δικαιῶσι coni. Mang. καλῶν C ἐπαγγέλλειν KZ εἰς] ὡς BEMAG 5 κἀκ] καὶ AG, ἐκ (om. καὶ) O βίβλον G 6 αὑτοῦ BE: αὐτοῦ ceteri ἀπολέλειπε G τινος G υφαινον 7 ἀεὶ orn. G συνεισέφαινον Κ 8 ἔδοξε C, ἔδειξα Η1 περὶ] πρὸς P 9 ἄρξασθαι ἀναγκαῖον transp. AG μωυσῆς M: μώσης ceteri γένος] γενόμενος P 10 ἐστιν ἑβραῖος AGHP(v), γρ. καὶ χαλδαῖος mg. Α 11 βαβυλῶνος G τοὺς] τὰς Lyd. 12 ἐπίεζε K1ZHP: ἐπίεσε ceteri μετανιστάντων Η, μεταστάντων BMKZ γῆν] εἰς γῆν AG, εἰς τὴν CEVOK2, εἰς τὴν corr. in γῆν B 13 παιδιάδα G ὧν] ὅσων HP(v) ἀνθρωπεία K1Z 14 τῶν . . . καρπῶν VO 15 φασὶ τοὺς ἄλλους transp. CVOZ 16 ἐπιβαίνων τε καὶ ἀναχεόμενος om. BEMAG γυμνάζει G 17 αἰ] αἱ δ’ HP(v) ὑετοῦ post φορᾶς transp. VO φορὰν ἀφθονίαν BEM, φόρον ἄφθονον KZ 9 Clem. Alex. Strom. Ι 23 p. 411 P. Μωυσῆς ἄνωθεν τὸ γένος Χαλδαῖος ὢν ἐν Αἰγύπτῳ γεννᾶται, τῶν προγόνων αὐτοῦ διὰ πολυχρόνιον λιμὸν ἐκ Βαβυλῶνος εἰς Αἴγυπτον μεταναστάντων. Ps.Iustin. Coh. ad gent. 10 . . . οὗτοι Φίλων τε καὶ Ἰώσηπος) γὰρ τὰς Ἰουδαίων ἱστοροῦντες πράξεις ἀπὸ μὲν τοῦ Χαλδαίων γένους γεγενῆσθαί φασι· τῶν δὲ προγόνων αὐτοῦ διά λιμοῦ πρόφασιν ἀπό τῆς Φοινίκης ἐπὶ τὴν Αἴγυπτον μεταναστάντων, ἐκεῖ τὸν ἄνδρα τετέχθαι φασίν loann. Lyd. de mens. IV 47 (p. 103,17 Wuensch) . . . καὶ γὰρ ὁ Φίλων τὸν Μωυσέως βίον ἀναγράφων Χαλδαῖον εἶναι αὐτὸν λέγει, γεγενῆσθαι δὲ ἐν Αἰγύπτῳ, ὡς τῶν προγόνων αὐτοῦ ἐκεῖσε κατελθόντων διὰ λιμὸν κατασχόντα Βαβυλῶνα καὶ τὰς πλησιοχώρους."
+    },
+    {
+      "ref": "1.7",
+      "kind": "add",
+      "action": "preserved_with_editorial_brackets",
+      "text": "δ’"
+    },
+    {
+      "ref": "1.10",
+      "kind": "note",
+      "action": "separated_from_body",
+      "text": "1 μή που CEAGHP: μήπω ceteri μεσολαβήσῃ ἐν Ὀργῆ L (Turn.) 2 ἔλαχε] ἔτυχε V2OKZ 4 ἑβδόμοις Z1 δ’ addidi 5 ἐπηλύτης C γετης ἀρχηγενέτης Κ 8 ἔποικοι K1ZHP: ἄποικοι ceteri τοῖς αὐτόχθοσι δυνατωτέρα χειρὶ transp. KZ 9 ὑφαιρεῖν KZ (fort. recte) 10 post τῶν add. μέν AG γενομένων L (Turn.) 12 εὐανδροῦσα γὰρ] ἐπεὶ εὐανδροῦσα ΗP(v) 13 εὐθὺς om. BEMAG 14 ἐνέφηνεν HP(v) τοῦ τυράννου MAGK: τοῦ om. ceteri 15 ἀλγῆσαι P γοῦν HP: οὖν ceteri 16 ἐφετῆς HP Clem.: ἑξῆς ceteri λανθάνον Κ, λανθάνων Z 17 ἔνιοι διηρεύνων HP: ἕτεροι διερευνᾶν ceteri 18 κοινὸν L (Turn.) 19 πλείονες HP παραπόλλωνται P, παραπόλλυνται H, προσαπόλωνται A(v), προσαπόλλωνται G 4 sqq. pergit Clem. Alex. l. l.: ἑβδόμῃ γενεᾷ γεννηθεὶς καὶ τραφεὶς βασιλικῶς περιστάσει κέχρηται τοιαύτῃ· εἰς πολυανθρωπίαν ἐπιδεδωκότων ἐν Αἰγύπτῳ τῶν Ἑβραίων, δείσας ὁ βασιλεὺς τῆς χώρας τὴν ἐκ τοῦ πλήθους ἐπιβουλὴν τῶν γεννωμένων ἐκ τῶν Ἑβραίων κελεύει τὰ μὲν θήλεα τρέφειν αὐτούς-ἀσθενὲς γὰρ εἰς πόλεμον γυνή -, διαφθείρειν δὲ τὰ ἄρρενα, εὐαλκῆ νεότητα ὑφορώμενος. εὐπατρίδην δὲ τὸν παῖδα ὄντα τρεῖς ἐφεξῆ,ς κρύπτοντες ἔτρεφον μῆνας οἱ γονεῖς, νικώσης τῆς φυσικῆς εὐνοίας τὴν τυραννικὴν ὠμότητα· δείσαντες δὲ ὕστερον μὴ συναπόλωνται τῷ παιδί, ἐκ βύβλου τῆς ἐπιχωρίου σκεῦός τι ποιησάμενοι τὸν παῖδα ἐνθέμενοι ἐκτιθέασι παρὰ τὰς ὄχθας τοῦ ποταμοῦ ἑλώδους ὄντος· ἐπετήρει δὲ τὸ ἀποβησόμενον ἄπωθεν ἑστῶσα τοῦ παιδὸς ἡ ἀδελφή. 6 sqq. Exod. cap. 1. 2."
+    },
+    {
+      "ref": "1.14",
+      "kind": "note",
+      "action": "separated_from_body",
+      "text": "1 περὶ Η (Turn.) 2 αὐτοὺς COMK1Z 4 εἰκὸς GHP: om. ceteri ἐν ἄλλω πράγματι ἀλλοκότω HP κατηγορούντων VO αὐτῶν CMK 5 ἔλεγον Z, ἔλεγον corr. in ἔφασκον Κ γεννώμενον VOKZAG2: γενόμενον ceteri 6 τὸν] τὰ M τὸν γὰρ μὴ AG ἡμέρου] ἡμετέρας corr. ex ἡμετέρου Z 7 ὅλους μῆνας transp. CVO, ὅλους om. Α 8 ἀνεθρέψαμεν GH2, ἀνεθρέψομεν (sic) H1P ἐθρέψαμεν ceteri ἑαυτοῖς KZ: αὐτοῖς CMGH1P, αὑτοῖς ceteri 9 ἡδονῶν] ἐν ὀδυνῶν coni. Mang. 11 κατισχημένοι VOMA, κατησχημένοι G πάθει Κ, πάθει HP 12 ἔτΙ παρθένος GHP: om. ceteri φιλοικίου Ο, φιλονεικίου M ἴν C, ἄποθεν ο corr. ex ω) Z, ἄπωθεν ω corr. ex ο) Κ, ἄπωθεν Ε 14 προμυθούμενον G post θυγάτηρ add. δὲ BMKZ, γὰρ CEVO 15 τοῦ χρόνου VOK2 τέκνων GHP Clem.: om. ceteri 17 ἡγεμονίας GHP: εὐδαιμονίας καὶ ἡγεμονίς A(v), κληρονομίας καὶ ἡγεμονίας ceteri post κινδυνεύοντα add. ἤδη V2O 18 ἀεὶ K1ZH2: om. Α, δὴ ceteri ὡς om. CVO"
+    },
+    {
+      "ref": "1.14",
+      "kind": "note",
+      "action": "separated_from_body",
+      "text": "14 sqq. pergit Clem. Alex.: ἐνταῦθα ἡ θυγάτηρ τοῦ βασιλέως, συχνῷ χρόνῳ μὴ κυΐσκουσα, τέκνων δὲ ἐπιθυμοῦσα, ἐκείνης ἀφικνεῖται τῆς ἡμέρας ἐπὶ τὸν ποταμὸν λουτροῖς καὶ περιρραντηρίοις χρησομένη· ἐπακούσασα δὲ κλαυθμυριζομένου τοῦ παιδὸς κελεύει προσενεχθῆναι ατοικτείρασα ἐζήτει τροφόν. ἐνταῦθα προσδραμοῦσα ἡ ἀδελφὴ τοῦ παιδὸς ἔχειν αυτῃ και κ ἔφασκεν Ἑβραίαν γυναῖκα μὴ πρὸ πολλοῦ τετοκυῖαν, ἢν παραστήσειν αὐτῇ τροφόν, εἰ βούλοιτο· τῆς δὲ συνθεμένης καὶ δεηθείσης παρήνεγκε τὴν μητέρα τὴν τοῦ παιδὸς τροφὸν ἐσομένην ὥς τινα ἄλλην οὖσαν ἐπὶ ῥητῷ μισθῷ. εἶτα τίθεται τῷ παιδίῳ ὄνομα ἡ βασιλὶς Μωυσῆν ἐτύμως διὰ τὸ ἐξ ὕδατος ἀνελέσθαι αὑτό· τὸ γὰρ ὕδωρ μῶυ ὀνομάζουσιν Αἰγύπτιοι."
+    },
+    {
+      "ref": "1.18",
+      "kind": "note",
+      "action": "separated_from_body",
+      "text": "2. 3 μετὰ τῶν θεραπαινίδων VO 4 μέλλουσαν - θεάσασθαι (5) om. H1P, add. mg. H2 αὐτὸ KZH2 5 εἶτ’ Α 6 τ’ Α εὐμορφίαν καὶ εὐεξίαν GHP: εὐεξίαν καὶ εὐμορφίαν ceteri ἀποδέξασθαι K1Z 8 γνοῦσαν GHP: γνοῦσα ceteri 9 τὸ τοῦ βασιλέως πρόσταγμα VO βουλεύεται KZ 10 εὐθὺς] αὐτὴ V, αὐτὴ OK2 11 σκοπιῆς VOK2, σκοπιᾶς G, σκοποῦ K1ZH2 τοῦ ἐνδοιασμοῦ coni. Mang.; sed cf. e. gr. Ι 19,9 13 τοῦτον scripsi: τοῦτο codd. (v) περὶ Z γυναίῳ τῶν ἑβραϊκῶν H1P: γυναίῳ ἑβραϊκῶ k1ZH2, γυναίων ἑβραϊκῶν V2OK2, γυναικῶν ἑβραϊκῶν ceteri οὐ-κυήσαντι om. ΒΕΑ κυήσαντι GHP: κυησάσῃ Κ1Ζ, κυησασῶν C, κυησάντων ceteri 14 αὑτῆς EVOGH2: αὐτῆς ceteri προσαγαγεῖν VO, πάρα in πρόσ’ corr. Κ 15 ἣν GHPKZ: τὴν δ’ V2O, ὡς ceteri ἀσμένως KZH2 ὑπισχνεῖται K1Z πρόφασιν ὡς BEMA: πρόφασιν (om. ὡς) CVOK2, προφάσει τοῦ GHPK1Z 16 τροφεῦσιν C1Z τοῦ K1ZH2: καὶ CVOK2H1P, om. BEMAG; fort. scribendum τοῦ καὶ 17 θεμένην V1A μωσῆν codd. ἑτοίμως VG 18 ἀνελέσθαι] γενέσθαι Α μῶυ Clem. Al.: μῶς codd. (v)"
+    },
+    {
+      "ref": "1.18",
+      "kind": "note",
+      "action": "separated_from_body",
+      "text": "17 loseph. Ant. lud. II 228 . . . κἀπ’ αὐτῶν τὴν ἐπίκλησιν ταύτην τῶν συμβεβηκότων ἔθετο εἰς τὸν ποταμὸν ἐμπεσόντι· τὸ γὰρ ὕδωρ μῶυ ἰγύπτιοι καλοῦσιν, σῆς ἐσῆς Niese) δὲ τοὺς ἐξ ὕδατος] σωθέντας cf. c. Ap. I 286. Hesych. μῶυ· τὸ ὕδωρ. Suid. μῶυ· τὸ ὕδωρ παρ’ Αἰγυπτίοις, ἐξ οὗ καὶ Μωυσῆς."
+    }
+  ],
+  "source_collations": [],
+  "validation_records": [
+    {
+      "id": "moses-addition-20261003",
+      "scope": "모세의 생애 1권 1-20절 전체, 1권 21절 이후와 2권 미수록",
+      "date": "2026-10-03",
+      "reviewer_type": "AI",
+      "human_reviewed": false,
+      "reading_record_count": 20,
+      "meaning_groups": 76,
+      "methods": [
+        "선정 범위의 공개 그리스어 본문을 읽고 한국어와 의미 대응을 작성했다.",
+        "인칭, 인물, 수치와 화자, 절 경계의 문장 연결을 대조했다."
+      ],
+      "sources": [
+        {
+          "work": "moses",
+          "url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg022/tlg0018.tlg022.1st1K-grc1.xml",
+          "verified": "2026-10-03",
+          "status": 200,
+          "full_text": true,
+          "bytes": 803435,
+          "sha256": "b999f4a73a6ae94100541239fb6880dceaf297d7fbcc597e77cb86035842a1fa",
+          "license": "CC BY-SA 4.0",
+          "license_evidence": "TEI publicationStmt availability licence",
+          "commit": "03776b39f4047c5cff06f5296fae4b2bae4b08fb",
+          "open_access_full_text_url": "https://archive.org/download/philonisalexandr0406philuoft/philonisalexandr0406philuoft.pdf",
+          "full_pdf_access_status": 206,
+          "pdf_bytes": 74783523,
+          "pdf_access_evidence": "Unauthenticated range GET0-1023; application/pdf; total74783523; prefix matches previously downloaded full PDF; University of Toronto scan",
+          "printed_source_license": "출판연도1902,1906,1915의 공개 인쇄본; 전자 전사는CC BY-SA4.0",
+          "pdf_pages_read": [
+            161
+          ],
+          "pdf_title_pages_read": [
+            7,
+            353,
+            761
+          ],
+          "printed_volume": 4
+        }
+      ],
+      "passages": [
+        {
+          "ref": "1.1",
+          "targets": {
+            "source_revision": "sha256:1b19a18f637963686140b6355ac07891c95b6ac2a951037c5e7045dda0e58825",
+            "translation_revision": "sha256:8ca4b5a5f2a33868883b511164843c0e4de85a05deb2d4b2195bfe06ba3af1fa",
+            "alignment_revision": "sha256:b8f1300071023481c05c4b0c2ed4e4f3a45769a56593c31ffd750a584b8185e3"
+          }
+        },
+        {
+          "ref": "1.2",
+          "targets": {
+            "source_revision": "sha256:dba5bf23d3ef9ab77550a9ed5085192d72ab7e1a952677e89dbc3d854614cf34",
+            "translation_revision": "sha256:691497bb2c314c393560d258137257a9638d0c8561f2264727a0947771339c50",
+            "alignment_revision": "sha256:9edfd731b6fa531029828ebe48188786cc5031055b7fc8c2709852b6eda7f90a"
+          }
+        },
+        {
+          "ref": "1.3",
+          "targets": {
+            "source_revision": "sha256:f136d213ea131863de6f42fff33393ccb48ce4f5748caecd9c3df7596143666a",
+            "translation_revision": "sha256:71a97a9c435eb171a01ea6822344d89ece75fa04f8a26cb28506b1bf474fb8ab",
+            "alignment_revision": "sha256:bec33491bfa88caefb476112d910d3ca763078b7835007c50c5b1c1a6d969179"
+          }
+        },
+        {
+          "ref": "1.4",
+          "targets": {
+            "source_revision": "sha256:2adb57650ee40b5e6f9038890158ce20e2f5cd7d1edcf8c0cedd24e6505d1d6c",
+            "translation_revision": "sha256:4ccad32db80e6a5607b0821794b89757d9c5fdb7257a2778a5b9acb556dc177b",
+            "alignment_revision": "sha256:fc571613d84b73ea4cec59fdb7fba5f2b6efd7dbb7ad9f2be773d7040f8750ac"
+          }
+        },
+        {
+          "ref": "1.5",
+          "targets": {
+            "source_revision": "sha256:9b9637b380f15888350a11353b43b0dfbdfa041f1d0f7f45445fe12d2d771fc2",
+            "translation_revision": "sha256:54610172b2acc649f91e7a098090026242f5718c2da478f0934140d69aefb7a6",
+            "alignment_revision": "sha256:1129add9ceec1529b5e0c021e3ee8417352405584c60f63151815eee9c6cbe2f"
+          }
+        },
+        {
+          "ref": "1.6",
+          "targets": {
+            "source_revision": "sha256:07cbafb1307f3f342a0eb7785ed4d279ef186d17878c4ecf4a69433943c34f97",
+            "translation_revision": "sha256:019c661791fd0483af47e748580a43d9418692b5c7d44631a0fad1903a885691",
+            "alignment_revision": "sha256:2c0d220de470b3ae226e371db73d69f84a554d8530033d1487ab8b25c0bb3a1e"
+          }
+        },
+        {
+          "ref": "1.7",
+          "targets": {
+            "source_revision": "sha256:e3efe84a80188232066c30c8113de2e0092ee00c6cae60747c74e4eefe64db36",
+            "translation_revision": "sha256:407bfddf6e44b92a0d17b758d3ba1e2929c620647bc4c2e212c67eb794149def",
+            "alignment_revision": "sha256:4e69da802f3fb50daa75b08019786884e9d97d5da439caa1718b4d86f9fd19e7"
+          }
+        },
+        {
+          "ref": "1.8",
+          "targets": {
+            "source_revision": "sha256:ad91d8d7e9a01b6b335fed292d37eddbc056ddf5dbee7e192aba18dbb18f2f28",
+            "translation_revision": "sha256:1386067249492f907ab4f74e62b73756d7883d72f5b22a5bc57e1c3fb33c3c6d",
+            "alignment_revision": "sha256:d8281905b1224011586e97ac1601fd8631d97fb9cb4590ac30bc682dc5fc9a9e"
+          }
+        },
+        {
+          "ref": "1.9",
+          "targets": {
+            "source_revision": "sha256:90277d227997904d130359189865828315252caa7a6c7cf8488140bdb211d8a9",
+            "translation_revision": "sha256:4c0963aae4aa0428eed716d605d08e47f4c266d587f5eaf67b6c2807276c1891",
+            "alignment_revision": "sha256:03b233ef9487cce63f6c62cb93fc83e1a8e0ab00ae4854c7899a26318c4dace2"
+          }
+        },
+        {
+          "ref": "1.10",
+          "targets": {
+            "source_revision": "sha256:012021987e379ab4c0291e257976c0f51ba6a3ba2669a2442c5a55674bf86010",
+            "translation_revision": "sha256:f1185f666c8b222cd0ba73176965c19f3b9c84ec4d937089d3af661c7b9656c1",
+            "alignment_revision": "sha256:c04e41b7025be3b431b27f3cc051df37e12e94e2a3e500e2501551f4d99e193a"
+          }
+        },
+        {
+          "ref": "1.11",
+          "targets": {
+            "source_revision": "sha256:b28afb3779bc568f59b0f06e2771e78ccbb73e021250ad1429d9955c87c80b5c",
+            "translation_revision": "sha256:81e307924c54c3d1806ef9e5edecb2f658504997de0ca5babffb28162cec0569",
+            "alignment_revision": "sha256:a6d7772a8d937c53eb1ec0767da3167f1a2c9afe6a00077f45998ecb6a9a7019"
+          }
+        },
+        {
+          "ref": "1.12",
+          "targets": {
+            "source_revision": "sha256:35cebfe481ac878075175257756f5e58cfc46a7614f9d477207d7ea6ee752d2a",
+            "translation_revision": "sha256:f06125c87d52ce4635e5b5df04ea9d2002bb20593f0e396e0a15b5d6b03b24e5",
+            "alignment_revision": "sha256:517f6fab94ab18b3a49fde269aadedeee0cd32e083381732b253974818cd229e"
+          }
+        },
+        {
+          "ref": "1.13",
+          "targets": {
+            "source_revision": "sha256:70972e7702cf6f8fc97fe7bf6a3599e45cbefa896ee51b08538288610c655431",
+            "translation_revision": "sha256:afd186f52a8630af270fdf5968649cc6116c0fa070656118aad0716b1a16bd4f",
+            "alignment_revision": "sha256:78ca63d0ae7ed97f2f8dcea2c41931cacf6ff08cb35eb6ac3910af11d567b17c"
+          }
+        },
+        {
+          "ref": "1.14",
+          "targets": {
+            "source_revision": "sha256:845fa2984bae413b5bc40d4074685c4f4819d16e88b4bbd2e3cc2e397d0b063a",
+            "translation_revision": "sha256:0ccbd184e897d57e7fa57e378dd4785dc21b9940d1f7b0a5d754ce153cce994b",
+            "alignment_revision": "sha256:a356f2b8db673bca7a2e457b24a695a0029d66c3d43b1e02c2c9ee06193c360c"
+          }
+        },
+        {
+          "ref": "1.15",
+          "targets": {
+            "source_revision": "sha256:b796a45bfa811d6f7b09c0d1255c9003b2224856f1ff9bc6782c8a3cc75dcaa8",
+            "translation_revision": "sha256:1fb71d49a899317f9b45fa74dc07ef2c842adc6acf77beb918459f93866327f0",
+            "alignment_revision": "sha256:4c9d83a1958879928b3b989a2cc384ad2aaf137e9a28daaeb9379f1d35e1f72d"
+          }
+        },
+        {
+          "ref": "1.16",
+          "targets": {
+            "source_revision": "sha256:13952a9ef3299ce915ca4fe7158c8053d8320de304886be5a5628e20957c6818",
+            "translation_revision": "sha256:7d44361c6c7a2a522609121c51a1909414b731890622625d6804d299b97f8881",
+            "alignment_revision": "sha256:af07aac79bae6361d8076ecd4b8eab95d4aa5837873793e24288c97793b08b93"
+          }
+        },
+        {
+          "ref": "1.17",
+          "targets": {
+            "source_revision": "sha256:aa03130df53bb0435ac7eeaa910b46fedaeb29bdbd160bb5d9efabebca1999e2",
+            "translation_revision": "sha256:cd89abf11e8e41ce80ef234e5c384b1ad0cf8b9bec5fc3b2b2ebca1590004135",
+            "alignment_revision": "sha256:6402df4ce4193fd05113e80dfa291d80fdbfde8533502d38a74c168f86e5c66c"
+          }
+        },
+        {
+          "ref": "1.18",
+          "targets": {
+            "source_revision": "sha256:4606501551504e902be18d598c195a86008ef526b9d06bdc477419783b4f544e",
+            "translation_revision": "sha256:0b82475976091b0e7ec9770a7f598a1a362a9f1691d12c367cce8d241a272418",
+            "alignment_revision": "sha256:59ac942fe734629fbc7aec8adecf977560325ad9d619e0179d227b66b85c35c9"
+          }
+        },
+        {
+          "ref": "1.19",
+          "targets": {
+            "source_revision": "sha256:17d99ef875c2278b2f4d2acb674ededbf8e60501a9848146516edccd97781ccb",
+            "translation_revision": "sha256:8095ec552bc896d01aa03df55259051cc6eccfc8287277a847f2f8637d6cbc02",
+            "alignment_revision": "sha256:70130f524b7e1c166e7da5f151f3a14ecdb60e4faa393b74ddf9d4db41d0c515"
+          }
+        },
+        {
+          "ref": "1.20",
+          "targets": {
+            "source_revision": "sha256:63bf8c92bff5cb645b06e26d74d75e2866c94b5e715868198fe8fc08e9f25707",
+            "translation_revision": "sha256:a35853585946cd00c657e61c02ab721b5138761bbe444c1b64fd78a104698795",
+            "alignment_revision": "sha256:731df28fdc08419ed376cde39efc75c18c8cb828c617995dae60b75574314588"
+          }
+        }
+      ]
+    }
+  ],
+  "publication_status": "public_review_edition"
+}

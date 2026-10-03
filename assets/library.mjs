@@ -17,6 +17,10 @@ if(location.hash.startsWith('#/')){
   location.replace("/"+target);
 }
 
+const narrow=window.matchMedia('(max-width:700px)');
+for(const panel of document.querySelectorAll('.author-menu,.reading-settings'))panel.open=!narrow.matches;
+narrow.addEventListener('change',()=>{for(const panel of document.querySelectorAll('.author-menu,.reading-settings'))panel.open=!narrow.matches;});
+document.addEventListener('keydown',e=>{if(e.key==='Escape')for(const panel of document.querySelectorAll('.chapter-menu,.reading-settings,.author-menu'))if(narrow.matches&&panel.open){panel.open=false;panel.querySelector('summary')?.focus();}});
 const catalog=$('.catalog-page');
 if(catalog){
   const params=new URLSearchParams(location.search);let corpus=params.get('corpus')||params.get('group')||'all',author=params.get('author')||'all';
@@ -24,12 +28,12 @@ if(catalog){
   const refresh=(update=true)=>{
     let total=0;const q=norm(input.value.trim());
     for(const row of rows){const visible=(corpus==='all'||row.dataset.corpus===corpus)&&(author==='all'||row.dataset.author===author)&&(!q||norm(row.dataset.search).includes(q));row.hidden=!visible;if(visible)total++;}
-    $('.result-count').textContent=total+'편';$('.empty-result').hidden=total!==0;
+    $('.result-count').textContent=total+'편';$('#selected-author').textContent=author==='all'?'전체 저자':author;$('.empty-result').hidden=total!==0;
     document.querySelectorAll('[data-filter-group] a').forEach(a=>{const group=a.closest('[data-filter-group]').dataset.filterGroup;a.setAttribute('aria-current',String(a.dataset.filter===(group==='corpus'?corpus:author)));});
     if(update){const p=new URLSearchParams();if(input.value.trim())p.set('q',input.value.trim());if(corpus!=='all')p.set('corpus',corpus);if(author!=='all')p.set('author',author);history.replaceState(null,'',location.pathname+(p.size?'?'+p:''));}
   };
   input.addEventListener('input',()=>refresh());$('.search').addEventListener('submit',e=>{e.preventDefault();refresh();live($('.result-count').textContent);});
-  document.querySelectorAll('[data-filter-group] a').forEach(a=>a.addEventListener('click',e=>{e.preventDefault();const group=a.closest('[data-filter-group]').dataset.filterGroup;if(group==='corpus')corpus=a.dataset.filter;else author=a.dataset.filter;refresh();}));
+  document.querySelectorAll('[data-filter-group] a').forEach(a=>a.addEventListener('click',e=>{e.preventDefault();const group=a.closest('[data-filter-group]').dataset.filterGroup;if(group==='corpus')corpus=a.dataset.filter;else{author=a.dataset.filter;if(narrow.matches)a.closest('details').open=false;}refresh();}));
   refresh(false);
 }
 
@@ -50,6 +54,8 @@ if($('.reader')){
   document.querySelectorAll('[data-size]').forEach(b=>b.addEventListener('click',()=>{scale=b.dataset.size==='reset'?100:Math.max(85,Math.min(140,scale+Number(b.dataset.size)*5));setSize();}));setSize();
   const source=$('.source-toggle');source.hidden=false;const toggle=$('#show-original');toggle.checked=read('nt-reading-original','true')==='true';
   const setSource=()=>{document.body.classList.toggle('hide-source',!toggle.checked);store('nt-reading-original',String(toggle.checked));};toggle.addEventListener('change',setSource);setSource();
+  document.querySelectorAll('.reading-tools details').forEach(panel=>panel.addEventListener('toggle',()=>{if(narrow.matches&&panel.open)document.querySelectorAll('.reading-tools details').forEach(other=>{if(other!==panel)other.open=false;});}));
+  document.addEventListener('click',e=>{if(narrow.matches&&!e.target.closest('.reading-tools'))document.querySelectorAll('.reading-tools details').forEach(panel=>panel.open=false);});
   document.querySelectorAll('.chapter-menu a').forEach(a=>a.addEventListener('click',()=>a.closest('details').open=false));
   const passageIndexes=new Map([...document.querySelectorAll('.passage')].map((p,i)=>[p.dataset.ref,i]));
   const markRange=ref=>{const i=passageIndexes.get(ref);document.querySelectorAll('[data-chapter-link]').forEach(a=>a.setAttribute('aria-current',String(i!==undefined&&i>=Number(a.dataset.rangeStart)&&i<=Number(a.dataset.rangeEnd))));};

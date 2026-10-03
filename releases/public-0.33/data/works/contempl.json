@@ -1,0 +1,2830 @@
+{
+  "id": "contempl",
+  "title": "관조적 삶에 관하여",
+  "author": "필론",
+  "abbreviation": "Contempl.",
+  "corpus": "jewish",
+  "language": "grc",
+  "genre": "공동체 서술",
+  "period": "고대",
+  "region": "알렉산드리아",
+  "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
+  "summary": "테라페우타이의 이름과 신앙, 재산을 떠나는 선택과 거주지를 설명하는 첫 부분을 읽습니다.",
+  "topics": [
+    "테라페우타이",
+    "관조",
+    "예배",
+    "재산"
+  ],
+  "notes": [],
+  "sourceUrl": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg028/tlg0018.tlg028.1st1K-grc1.xml",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "sourceCredit": "전자 전사와 부호화: University of Leipzig, First1KGreek, Digital Divide Data. 원판 편집: Leopold Cohn, Siegfried Reiter.",
+  "verified": "2026-10-03",
+  "translationCredit": "Codex 작성, 원어 직접 번역 초안",
+  "reviewer": "학술 검토 전",
+  "translationLicense": "CC BY-SA 4.0",
+  "rightsNotice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요.",
+  "passages": [
+    {
+      "ref": "1",
+      "section": 1,
+      "original": "Ἐσσαίων πέρι διαλεχθείς, οἳ τὸν πρακτικὸν ἐζήλωσαν καὶ διεπόνησαν βίον ἐν ἅπασιν ἢ - τὸ γοῦν φορητότερον εἰπεῖν - τοῖς πλείστοις μέρεσι διενεγκόντες, αὐτίκα καὶ περὶ τῶν θεωρίαν ἀσπασαμένων ἀκολουθίᾳ τῆς πραγματείας ἑπόμενος τὰ προσήκοντα λέξω, μηδὲν οἴκοθεν ἕνεκα τοῦ βελτιῶσαι προστιθείς, ὃ δρᾶν ἔθος ἐν σπάνει καλῶν ἐπιτηδευμάτων ἅπασι τοῖς ποιηταῖς καὶ λογογράφοις, ἀλλ’ ἀτεχνῶς αὐτῆς περιεχόμενος τῆς ἀληθείας, πρὸς ἣν οἶδ’ ὅτι καὶ ὁ δεινότατος εἰπεῖν ἀπαγορεύσει. διαθλητέον δὲ ὅμως καὶ διαγωνιστέον· οὐ γὰρ δεῖ τὸ μέγεθος τῆς τῶν ἀνδρῶν ἀρετῆς αἴτιον ἀφωνίας γενέσθαι τοῖς μηδὲν καλὸν ἡσυχάζεσθαι δικαιοῦσιν.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:6658ba514cb6086c69454c5225f4dfe16570eb36d629d5f871ad40313288bc44",
+      "source_file_sha256": "7b2c44539b64dd9283477478f58473c4553bc2392d08d046f870d942795a8cd5",
+      "source_locator": {
+        "filename": "tlg0018.tlg028.1st1K-grc1.xml",
+        "reference": "1"
+      },
+      "korean": "앞에서 에세네인들을 논했다. 그들은 실천하는 삶을 열망하고 힘써 익혀 모든 면에서, 조금 절제하여 말하자면 대부분의 면에서 뛰어났다. 이제 논의의 순서에 따라 관조를 받아들인 사람들에 관해서도 알맞은 말을 하겠다. 더 훌륭하게 보이도록 내 생각에서 무엇을 더하지는 않겠다. 훌륭한 행실이 부족할 때 시인들과 산문 저술가들은 모두 그렇게 하곤 한다. 나는 오직 진실 자체만을 붙잡겠다. 가장 말 잘하는 사람도 그 진실 앞에서는 힘이 달리리라는 것을 안다. 그래도 힘써 겨루며 애써야 한다. 어떤 훌륭한 것도 침묵 속에 묻어 두어서는 안 된다고 여기는 사람들에게, 그들의 덕이 크다는 사실이 침묵의 이유가 되어서는 안 되기 때문이다.",
+      "translation_revision": "sha256:cc9d67c7db66b020e4f5c906d0688fd511369a56eebed808f7ad951cb199b0a5",
+      "groups": [
+        {
+          "id": "a-085d279590ea06d6d6e5",
+          "source_range": [
+            0,
+            149
+          ],
+          "ko_range": [
+            0,
+            74
+          ],
+          "source_text": "Ἐσσαίων πέρι διαλεχθείς, οἳ τὸν πρακτικὸν ἐζήλωσαν καὶ διεπόνησαν βίον ἐν ἅπασιν ἢ - τὸ γοῦν φορητότερον εἰπεῖν - τοῖς πλείστοις μέρεσι διενεγκόντες,",
+          "ko_text": "앞에서 에세네인들을 논했다. 그들은 실천하는 삶을 열망하고 힘써 익혀 모든 면에서, 조금 절제하여 말하자면 대부분의 면에서 뛰어났다."
+        },
+        {
+          "id": "a-c0892429cb6310244e4d",
+          "source_range": [
+            150,
+            244
+          ],
+          "ko_range": [
+            75,
+            119
+          ],
+          "source_text": "αὐτίκα καὶ περὶ τῶν θεωρίαν ἀσπασαμένων ἀκολουθίᾳ τῆς πραγματείας ἑπόμενος τὰ προσήκοντα λέξω,",
+          "ko_text": "이제 논의의 순서에 따라 관조를 받아들인 사람들에 관해서도 알맞은 말을 하겠다."
+        },
+        {
+          "id": "a-384e6da44cd756390ca8",
+          "source_range": [
+            245,
+            290
+          ],
+          "ko_range": [
+            120,
+            152
+          ],
+          "source_text": "μηδὲν οἴκοθεν ἕνεκα τοῦ βελτιῶσαι προστιθείς,",
+          "ko_text": "더 훌륭하게 보이도록 내 생각에서 무엇을 더하지는 않겠다."
+        },
+        {
+          "id": "a-2bbd960daf5e20c70b60",
+          "source_range": [
+            291,
+            369
+          ],
+          "ko_range": [
+            153,
+            194
+          ],
+          "source_text": "ὃ δρᾶν ἔθος ἐν σπάνει καλῶν ἐπιτηδευμάτων ἅπασι τοῖς ποιηταῖς καὶ λογογράφοις,",
+          "ko_text": "훌륭한 행실이 부족할 때 시인들과 산문 저술가들은 모두 그렇게 하곤 한다."
+        },
+        {
+          "id": "a-d6b5f00a5c465771f047",
+          "source_range": [
+            370,
+            469
+          ],
+          "ko_range": [
+            195,
+            253
+          ],
+          "source_text": "ἀλλ’ ἀτεχνῶς αὐτῆς περιεχόμενος τῆς ἀληθείας, πρὸς ἣν οἶδ’ ὅτι καὶ ὁ δεινότατος εἰπεῖν ἀπαγορεύσει.",
+          "ko_text": "나는 오직 진실 자체만을 붙잡겠다. 가장 말 잘하는 사람도 그 진실 앞에서는 힘이 달리리라는 것을 안다."
+        },
+        {
+          "id": "a-856ebcbfe67614003c36",
+          "source_range": [
+            470,
+            506
+          ],
+          "ko_range": [
+            254,
+            272
+          ],
+          "source_text": "διαθλητέον δὲ ὅμως καὶ διαγωνιστέον·",
+          "ko_text": "그래도 힘써 겨루며 애써야 한다."
+        },
+        {
+          "id": "a-f2ca79e1f7eefbd358e4",
+          "source_range": [
+            507,
+            615
+          ],
+          "ko_range": [
+            273,
+            352
+          ],
+          "source_text": "οὐ γὰρ δεῖ τὸ μέγεθος τῆς τῶν ἀνδρῶν ἀρετῆς αἴτιον ἀφωνίας γενέσθαι τοῖς μηδὲν καλὸν ἡσυχάζεσθαι δικαιοῦσιν.",
+          "ko_text": "어떤 훌륭한 것도 침묵 속에 묻어 두어서는 안 된다고 여기는 사람들에게, 그들의 덕이 크다는 사실이 침묵의 이유가 되어서는 안 되기 때문이다."
+        }
+      ],
+      "notes": [
+        "필론은 에세네인들의 실천하는 삶에 관한 앞선 논의 다음에 관조하는 삶을 다룬다고 말한다. 이 작품의 대상은 이어지는 절의 테라페우타이와 테라페우트리데스이다."
+      ],
+      "work_passage_id": "contempl:1",
+      "html_path": "works/contempl/index.html#p-1",
+      "fixed_html_path": "releases/public-0.33/works/contempl/index.html#p-1",
+      "alignment_revision": "sha256:d87a2d8d00e9bd09693eb9e8ab594270935c7ffca82feb6d3d347396ba2187d9",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:6658ba514cb6086c69454c5225f4dfe16570eb36d629d5f871ad40313288bc44",
+          "translation_revision": "sha256:cc9d67c7db66b020e4f5c906d0688fd511369a56eebed808f7ad951cb199b0a5",
+          "alignment_revision": "sha256:d87a2d8d00e9bd09693eb9e8ab594270935c7ffca82feb6d3d347396ba2187d9"
+        },
+        "scoped_ai_review": {
+          "id": "contempl-addition-20261003",
+          "scope": "관조적 삶에 관하여 1-20절 전체, 21-90절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:6658ba514cb6086c69454c5225f4dfe16570eb36d629d5f871ad40313288bc44",
+            "translation_revision": "sha256:cc9d67c7db66b020e4f5c906d0688fd511369a56eebed808f7ad951cb199b0a5",
+            "alignment_revision": "sha256:d87a2d8d00e9bd09693eb9e8ab594270935c7ffca82feb6d3d347396ba2187d9"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg028/tlg0018.tlg028.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "관조적 삶에 관하여",
+        "reference": "1",
+        "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:cc9d67c7db66b020e4f5c906d0688fd511369a56eebed808f7ad951cb199b0a5",
+        "fixed_path": "releases/public-0.33/works/contempl/index.html#p-1"
+      }
+    },
+    {
+      "ref": "2",
+      "section": 2,
+      "original": "ἡ δὲ προαίρεσις τῶν φιλοσόφων εὐθὺς ἐμφαίνεται διὰ τῆς προσρήσεως· θεραπευταὶ γὰρ καὶ θεραπευτρίδες ἐτύμως καλοῦνται, ἤτοι παρόσον ἰατρικὴν ἐπαγγέλλονται κρείσσονα τῆς κατὰ πόλεις - ἡ μὲν γὰρ σώματα θεραπεύει μόνον, ἐκείνη δὲ καὶ ψυχὰς νόσοις κεκρατημένας χαλεπαῖς τε καὶ δυσιάτοις, ἃς ἐγκατέσκηψαν ἡδοναὶ καὶ ἐπιθυμίαι καὶ λῦπαι καὶ φόβοι πλεονεξίαι τε καὶ ἀφροσύναι καὶ ἀδικίαι καὶ τὸ τῶν ἄλλων παθῶν καὶ κακιῶν ἀνήνυτον πλῆθος - ἢ παρόσον ἐκ φύσεως καὶ τῶν ἱερῶν νόμων ἐπαιδεύθησαν θεραπεύειν τὸ ὄν, ὃ καὶ ἀγαθοῦ κρεῖττόν ἐστι καὶ ἑνὸς εἰλικρινέστερον καὶ μονάδος ἀρχεγονώτερον. οἷς τίνας συγκρίνειν ἄξιον τῶν ἐπαγγελλομένων εὐσέβειαν;",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:0ed8149116fd3df9c88cf2a00d045b9cda69c78aca8fcfc6233f4ca835b623cf",
+      "source_file_sha256": "7b2c44539b64dd9283477478f58473c4553bc2392d08d046f870d942795a8cd5",
+      "source_locator": {
+        "filename": "tlg0018.tlg028.1st1K-grc1.xml",
+        "reference": "2"
+      },
+      "encoded_printed_page": "v.6.p.47",
+      "korean": "이 철학자들이 택한 삶은 이름에서 곧 드러난다. 그들은 뜻에 맞게 테라페우타이와 테라페우트리데스라고 불린다. 도시의 의술보다 뛰어난 의술을 내세우기 때문일 수 있다. 도시의 의술은 몸만 치료하지만, 그들의 의술은 심하고 고치기 어려운 병에 사로잡힌 영혼도 치료한다. 그 병들을 일으킨 것은 즐거움과 욕망, 슬픔과 두려움, 탐욕과 어리석음과 불의, 그 밖의 끝없이 많은 감정과 악이다. 또는 그들은 자연과 거룩한 율법에서 실재하시는 분을 섬기는 법을 배웠기 때문일 수 있다. 그분은 선보다 뛰어나고 하나보다 순수하며 단위보다 먼저 계신 분이다. 경건을 내세우는 사람들 가운데 누구를 이들과 비교할 만하겠는가?",
+      "translation_revision": "sha256:40ec592e858d4138e24c33503f6b401b9bc98599e4a2b332f7054ea82dd1d6c6",
+      "groups": [
+        {
+          "id": "a-b263f716dc0e10f493c8",
+          "source_range": [
+            0,
+            66
+          ],
+          "ko_range": [
+            0,
+            26
+          ],
+          "source_text": "ἡ δὲ προαίρεσις τῶν φιλοσόφων εὐθὺς ἐμφαίνεται διὰ τῆς προσρήσεως·",
+          "ko_text": "이 철학자들이 택한 삶은 이름에서 곧 드러난다."
+        },
+        {
+          "id": "a-e89eac4718babf8f04cb",
+          "source_range": [
+            67,
+            117
+          ],
+          "ko_range": [
+            27,
+            60
+          ],
+          "source_text": "θεραπευταὶ γὰρ καὶ θεραπευτρίδες ἐτύμως καλοῦνται,",
+          "ko_text": "그들은 뜻에 맞게 테라페우타이와 테라페우트리데스라고 불린다."
+        },
+        {
+          "id": "a-af24a1a0672545fe8516",
+          "source_range": [
+            118,
+            179
+          ],
+          "ko_range": [
+            61,
+            92
+          ],
+          "source_text": "ἤτοι παρόσον ἰατρικὴν ἐπαγγέλλονται κρείσσονα τῆς κατὰ πόλεις",
+          "ko_text": "도시의 의술보다 뛰어난 의술을 내세우기 때문일 수 있다."
+        },
+        {
+          "id": "a-6839707ac994a73f8ba4",
+          "source_range": [
+            180,
+            282
+          ],
+          "ko_range": [
+            93,
+            148
+          ],
+          "source_text": "- ἡ μὲν γὰρ σώματα θεραπεύει μόνον, ἐκείνη δὲ καὶ ψυχὰς νόσοις κεκρατημένας χαλεπαῖς τε καὶ δυσιάτοις,",
+          "ko_text": "도시의 의술은 몸만 치료하지만, 그들의 의술은 심하고 고치기 어려운 병에 사로잡힌 영혼도 치료한다."
+        },
+        {
+          "id": "a-72391532bfde9312ff90",
+          "source_range": [
+            283,
+            431
+          ],
+          "ko_range": [
+            149,
+            214
+          ],
+          "source_text": "ἃς ἐγκατέσκηψαν ἡδοναὶ καὶ ἐπιθυμίαι καὶ λῦπαι καὶ φόβοι πλεονεξίαι τε καὶ ἀφροσύναι καὶ ἀδικίαι καὶ τὸ τῶν ἄλλων παθῶν καὶ κακιῶν ἀνήνυτον πλῆθος -",
+          "ko_text": "그 병들을 일으킨 것은 즐거움과 욕망, 슬픔과 두려움, 탐욕과 어리석음과 불의, 그 밖의 끝없이 많은 감정과 악이다."
+        },
+        {
+          "id": "a-a74245df8f9dbf87fa13",
+          "source_range": [
+            432,
+            502
+          ],
+          "ko_range": [
+            215,
+            264
+          ],
+          "source_text": "ἢ παρόσον ἐκ φύσεως καὶ τῶν ἱερῶν νόμων ἐπαιδεύθησαν θεραπεύειν τὸ ὄν,",
+          "ko_text": "또는 그들은 자연과 거룩한 율법에서 실재하시는 분을 섬기는 법을 배웠기 때문일 수 있다."
+        },
+        {
+          "id": "a-e155cd7dad05f60d6ea2",
+          "source_range": [
+            503,
+            581
+          ],
+          "ko_range": [
+            265,
+            303
+          ],
+          "source_text": "ὃ καὶ ἀγαθοῦ κρεῖττόν ἐστι καὶ ἑνὸς εἰλικρινέστερον καὶ μονάδος ἀρχεγονώτερον.",
+          "ko_text": "그분은 선보다 뛰어나고 하나보다 순수하며 단위보다 먼저 계신 분이다."
+        },
+        {
+          "id": "a-5dedd6ff648c3a7051d9",
+          "source_range": [
+            582,
+            638
+          ],
+          "ko_range": [
+            304,
+            339
+          ],
+          "source_text": "οἷς τίνας συγκρίνειν ἄξιον τῶν ἐπαγγελλομένων εὐσέβειαν;",
+          "ko_text": "경건을 내세우는 사람들 가운데 누구를 이들과 비교할 만하겠는가?"
+        }
+      ],
+      "notes": [
+        "남성형 테라페우타이와 여성형 테라페우트리데스의 이름을 치료와 섬김이라는 두 의미로 설명한다. 영혼을 치료한다는 설명과 실재하시는 분을 섬긴다는 설명이 차례로 나온다."
+      ],
+      "work_passage_id": "contempl:2",
+      "html_path": "works/contempl/index.html#p-2",
+      "fixed_html_path": "releases/public-0.33/works/contempl/index.html#p-2",
+      "alignment_revision": "sha256:62b19afa92763c55ceedd90ff50aee3cf8b5e60a4ea494dac8a3a9d9ce1bad6a",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:0ed8149116fd3df9c88cf2a00d045b9cda69c78aca8fcfc6233f4ca835b623cf",
+          "translation_revision": "sha256:40ec592e858d4138e24c33503f6b401b9bc98599e4a2b332f7054ea82dd1d6c6",
+          "alignment_revision": "sha256:62b19afa92763c55ceedd90ff50aee3cf8b5e60a4ea494dac8a3a9d9ce1bad6a"
+        },
+        "scoped_ai_review": {
+          "id": "contempl-addition-20261003",
+          "scope": "관조적 삶에 관하여 1-20절 전체, 21-90절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:0ed8149116fd3df9c88cf2a00d045b9cda69c78aca8fcfc6233f4ca835b623cf",
+            "translation_revision": "sha256:40ec592e858d4138e24c33503f6b401b9bc98599e4a2b332f7054ea82dd1d6c6",
+            "alignment_revision": "sha256:62b19afa92763c55ceedd90ff50aee3cf8b5e60a4ea494dac8a3a9d9ce1bad6a"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg028/tlg0018.tlg028.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "관조적 삶에 관하여",
+        "reference": "2",
+        "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:40ec592e858d4138e24c33503f6b401b9bc98599e4a2b332f7054ea82dd1d6c6",
+        "fixed_path": "releases/public-0.33/works/contempl/index.html#p-2"
+      }
+    },
+    {
+      "ref": "3",
+      "section": 3,
+      "original": "ἆρά γε τοὺς τὰ στοιχεῖα τιμῶντας, γῆν, ὕδωρ, ἀέρα, πῦρ; οἷς καὶ ἐπωνυμίας ἔθεντο ἑτέρας ἕτεροι, τὸ μὲν πῦρ Ἥφαιστον παρὰ τὴν ἔξαψιν, οἶμαι, καλοῦντες, Ἥραν δὲ τὸν ἀέρα παρὰ τὸ αἴρεσθαι καὶ μετεωρίζεσθαι πρὸς ὕψος, τὸ δὲ ὕδωρ Ποσειδῶνα τάχα που διὰ τὸ ποτόν, τὴν δὲ γῆν Δήμητραν, παρόσον μήτηρ εἶναι δοκεῖ πάντων φυτῶν τε καὶ ζῴων.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:1d40d78a2e1f024838f827be5ca6433696bfb500b268d35b2c4816d1fd2e5797",
+      "source_file_sha256": "7b2c44539b64dd9283477478f58473c4553bc2392d08d046f870d942795a8cd5",
+      "source_locator": {
+        "filename": "tlg0018.tlg028.1st1K-grc1.xml",
+        "reference": "3"
+      },
+      "encoded_printed_page": "v.6.p.47",
+      "korean": "흙과 물과 공기와 불이라는 원소들을 공경하는 사람들인가? 사람들은 이 원소들에 각기 다른 이름을 붙였다. 불은 타오르는 데서 이름을 얻어 헤파이스토스라고 부른다고 나는 생각한다. 공기는 위로 들리고 높이 솟는 데서 이름을 얻어 헤라라고 부른다. 물은 아마도 마실 수 있다는 데서 포세이돈이라고 부른다. 땅은 모든 식물과 동물의 어머니로 보이기 때문에 데메테르라고 부른다.",
+      "translation_revision": "sha256:a492a4d75de6e1b3f959f440a1ba37d7c66b8e82b9d3a2ffc4b9fdfe61047721",
+      "groups": [
+        {
+          "id": "a-eb19c5f2f86109cda44c",
+          "source_range": [
+            0,
+            55
+          ],
+          "ko_range": [
+            0,
+            31
+          ],
+          "source_text": "ἆρά γε τοὺς τὰ στοιχεῖα τιμῶντας, γῆν, ὕδωρ, ἀέρα, πῦρ;",
+          "ko_text": "흙과 물과 공기와 불이라는 원소들을 공경하는 사람들인가?"
+        },
+        {
+          "id": "a-dedbc8cd6ea192ccb2fd",
+          "source_range": [
+            56,
+            95
+          ],
+          "ko_range": [
+            32,
+            58
+          ],
+          "source_text": "οἷς καὶ ἐπωνυμίας ἔθεντο ἑτέρας ἕτεροι,",
+          "ko_text": "사람들은 이 원소들에 각기 다른 이름을 붙였다."
+        },
+        {
+          "id": "a-d04c4b98df878ae9ba22",
+          "source_range": [
+            96,
+            150
+          ],
+          "ko_range": [
+            59,
+            99
+          ],
+          "source_text": "τὸ μὲν πῦρ Ἥφαιστον παρὰ τὴν ἔξαψιν, οἶμαι, καλοῦντες,",
+          "ko_text": "불은 타오르는 데서 이름을 얻어 헤파이스토스라고 부른다고 나는 생각한다."
+        },
+        {
+          "id": "a-9f2d9f9162cd6fc34135",
+          "source_range": [
+            151,
+            213
+          ],
+          "ko_range": [
+            100,
+            136
+          ],
+          "source_text": "Ἥραν δὲ τὸν ἀέρα παρὰ τὸ αἴρεσθαι καὶ μετεωρίζεσθαι πρὸς ὕψος,",
+          "ko_text": "공기는 위로 들리고 높이 솟는 데서 이름을 얻어 헤라라고 부른다."
+        },
+        {
+          "id": "a-3d4c364aacd9f0c29214",
+          "source_range": [
+            214,
+            257
+          ],
+          "ko_range": [
+            137,
+            168
+          ],
+          "source_text": "τὸ δὲ ὕδωρ Ποσειδῶνα τάχα που διὰ τὸ ποτόν,",
+          "ko_text": "물은 아마도 마실 수 있다는 데서 포세이돈이라고 부른다."
+        },
+        {
+          "id": "a-f14c67d20b66f6cee104",
+          "source_range": [
+            258,
+            330
+          ],
+          "ko_range": [
+            169,
+            207
+          ],
+          "source_text": "τὴν δὲ γῆν Δήμητραν, παρόσον μήτηρ εἶναι δοκεῖ πάντων φυτῶν τε καὶ ζῴων.",
+          "ko_text": "땅은 모든 식물과 동물의 어머니로 보이기 때문에 데메테르라고 부른다."
+        }
+      ],
+      "notes": [
+        "헤파이스토스, 헤라, 포세이돈, 데메테르의 이름을 원소의 성질과 연결하는 것은 필론이 소개하는 어원 풀이이다. 다음 절에서 그는 그 이름들을 궤변가들의 발명으로 비판한다."
+      ],
+      "work_passage_id": "contempl:3",
+      "html_path": "works/contempl/index.html#p-3",
+      "fixed_html_path": "releases/public-0.33/works/contempl/index.html#p-3",
+      "alignment_revision": "sha256:69ab613a9199823cf8d5b0b8559dacfeb91fa25add92fba11b9e2a33b8f6da0f",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:1d40d78a2e1f024838f827be5ca6433696bfb500b268d35b2c4816d1fd2e5797",
+          "translation_revision": "sha256:a492a4d75de6e1b3f959f440a1ba37d7c66b8e82b9d3a2ffc4b9fdfe61047721",
+          "alignment_revision": "sha256:69ab613a9199823cf8d5b0b8559dacfeb91fa25add92fba11b9e2a33b8f6da0f"
+        },
+        "scoped_ai_review": {
+          "id": "contempl-addition-20261003",
+          "scope": "관조적 삶에 관하여 1-20절 전체, 21-90절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:1d40d78a2e1f024838f827be5ca6433696bfb500b268d35b2c4816d1fd2e5797",
+            "translation_revision": "sha256:a492a4d75de6e1b3f959f440a1ba37d7c66b8e82b9d3a2ffc4b9fdfe61047721",
+            "alignment_revision": "sha256:69ab613a9199823cf8d5b0b8559dacfeb91fa25add92fba11b9e2a33b8f6da0f"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg028/tlg0018.tlg028.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "관조적 삶에 관하여",
+        "reference": "3",
+        "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:a492a4d75de6e1b3f959f440a1ba37d7c66b8e82b9d3a2ffc4b9fdfe61047721",
+        "fixed_path": "releases/public-0.33/works/contempl/index.html#p-3"
+      }
+    },
+    {
+      "ref": "4",
+      "section": 4,
+      "original": "ἀλλὰ τὰ μὲν ὀνόματα σοφιστῶν ἐστιν εὑρήματα, τὰ δὲ στοιχεῖα ἄψυχος ὕλη καὶ ἐξ ἑαυτῆς ἀκίνητος, ὑποβεβλημένη τῷ τεχνίτῃ πρὸς ἁπάσας σχημάτων καὶ ποιοτήτων ἰδέας.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:5231b32a5ede41997e887de55c72e78842efe6aece606abeac9ffbde98f91c0b",
+      "source_file_sha256": "7b2c44539b64dd9283477478f58473c4553bc2392d08d046f870d942795a8cd5",
+      "source_locator": {
+        "filename": "tlg0018.tlg028.1st1K-grc1.xml",
+        "reference": "4"
+      },
+      "encoded_printed_page": "v.6.p.47",
+      "korean": "이런 이름들은 궤변가들이 만들어 낸 것이다. 원소들은 생명이 없는 물질이며 스스로 움직일 수 없다. 장인 앞에 놓여 온갖 형상과 성질을 얻는 재료이다.",
+      "translation_revision": "sha256:f8e759bec2c0a1528984251fa1fa5941eebf8281fd202cb9ba8ac623436e613b",
+      "groups": [
+        {
+          "id": "a-c6513d9b193a93a23c9a",
+          "source_range": [
+            0,
+            44
+          ],
+          "ko_range": [
+            0,
+            24
+          ],
+          "source_text": "ἀλλὰ τὰ μὲν ὀνόματα σοφιστῶν ἐστιν εὑρήματα,",
+          "ko_text": "이런 이름들은 궤변가들이 만들어 낸 것이다."
+        },
+        {
+          "id": "a-9b41cbde67bccb30e39b",
+          "source_range": [
+            45,
+            94
+          ],
+          "ko_range": [
+            25,
+            55
+          ],
+          "source_text": "τὰ δὲ στοιχεῖα ἄψυχος ὕλη καὶ ἐξ ἑαυτῆς ἀκίνητος,",
+          "ko_text": "원소들은 생명이 없는 물질이며 스스로 움직일 수 없다."
+        },
+        {
+          "id": "a-c5aec4c56895a933ade3",
+          "source_range": [
+            95,
+            160
+          ],
+          "ko_range": [
+            56,
+            84
+          ],
+          "source_text": "ὑποβεβλημένη τῷ τεχνίτῃ πρὸς ἁπάσας σχημάτων καὶ ποιοτήτων ἰδέας.",
+          "ko_text": "장인 앞에 놓여 온갖 형상과 성질을 얻는 재료이다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "contempl:4",
+      "html_path": "works/contempl/index.html#p-4",
+      "fixed_html_path": "releases/public-0.33/works/contempl/index.html#p-4",
+      "alignment_revision": "sha256:cd0c5adc202ca69569b11f504ef5234b15e30a10cf37698a608bf7a9fcef18be",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:5231b32a5ede41997e887de55c72e78842efe6aece606abeac9ffbde98f91c0b",
+          "translation_revision": "sha256:f8e759bec2c0a1528984251fa1fa5941eebf8281fd202cb9ba8ac623436e613b",
+          "alignment_revision": "sha256:cd0c5adc202ca69569b11f504ef5234b15e30a10cf37698a608bf7a9fcef18be"
+        },
+        "scoped_ai_review": {
+          "id": "contempl-addition-20261003",
+          "scope": "관조적 삶에 관하여 1-20절 전체, 21-90절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:5231b32a5ede41997e887de55c72e78842efe6aece606abeac9ffbde98f91c0b",
+            "translation_revision": "sha256:f8e759bec2c0a1528984251fa1fa5941eebf8281fd202cb9ba8ac623436e613b",
+            "alignment_revision": "sha256:cd0c5adc202ca69569b11f504ef5234b15e30a10cf37698a608bf7a9fcef18be"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg028/tlg0018.tlg028.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "관조적 삶에 관하여",
+        "reference": "4",
+        "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:f8e759bec2c0a1528984251fa1fa5941eebf8281fd202cb9ba8ac623436e613b",
+        "fixed_path": "releases/public-0.33/works/contempl/index.html#p-4"
+      }
+    },
+    {
+      "ref": "5",
+      "section": 5,
+      "original": "ἀλλὰ τοὺς τὰ ἀποτελέσματα, ἥλιον, σελήνην ἢ τοὺς ἄλλους ἀστέρας πλάνητας ἢ ἀπλανεῖς ἢ τὸν σύμπαντα οὐρανόν τε καὶ κόσμον; ἀλλὰ καὶ ταῦτα οὐκ ἐξ ἑαυτῶν γέγονεν, ἀλλ’ ὑπό τινος δημιουργοῦ τελειοτάτου τὴν ἐπιστήμην. ἀλλὰ τοὺς ἡμιθέους;",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:67ab21ec2492b87f6a210bd9ae0eab19d77e35c418ce9f48435f17f5a3b12a2d",
+      "source_file_sha256": "7b2c44539b64dd9283477478f58473c4553bc2392d08d046f870d942795a8cd5",
+      "source_locator": {
+        "filename": "tlg0018.tlg028.1st1K-grc1.xml",
+        "reference": "5"
+      },
+      "encoded_printed_page": "v.6.p.47",
+      "korean": "그러면 만들어진 것들, 곧 해와 달, 움직이는 별이나 고정된 다른 별들, 또는 하늘과 세계 전체를 공경하는 사람들인가? 이것들도 스스로 생겨난 것이 아니다. 지식이 가장 완전한 어떤 창조자가 만든 것이다. 그렇다면 반신들을 공경하는 사람들인가?",
+      "translation_revision": "sha256:118ec4a797db5878adf128a63656ce8f6b42678889cfcb0a12e670f3aca96562",
+      "groups": [
+        {
+          "id": "a-1c8a5d8523cc4f07ad39",
+          "source_range": [
+            0,
+            121
+          ],
+          "ko_range": [
+            0,
+            66
+          ],
+          "source_text": "ἀλλὰ τοὺς τὰ ἀποτελέσματα, ἥλιον, σελήνην ἢ τοὺς ἄλλους ἀστέρας πλάνητας ἢ ἀπλανεῖς ἢ τὸν σύμπαντα οὐρανόν τε καὶ κόσμον;",
+          "ko_text": "그러면 만들어진 것들, 곧 해와 달, 움직이는 별이나 고정된 다른 별들, 또는 하늘과 세계 전체를 공경하는 사람들인가?"
+        },
+        {
+          "id": "a-170da25d4d57d01a7d54",
+          "source_range": [
+            122,
+            159
+          ],
+          "ko_range": [
+            67,
+            87
+          ],
+          "source_text": "ἀλλὰ καὶ ταῦτα οὐκ ἐξ ἑαυτῶν γέγονεν,",
+          "ko_text": "이것들도 스스로 생겨난 것이 아니다."
+        },
+        {
+          "id": "a-2c5a330b1d40addc05ba",
+          "source_range": [
+            160,
+            212
+          ],
+          "ko_range": [
+            88,
+            114
+          ],
+          "source_text": "ἀλλ’ ὑπό τινος δημιουργοῦ τελειοτάτου τὴν ἐπιστήμην.",
+          "ko_text": "지식이 가장 완전한 어떤 창조자가 만든 것이다."
+        },
+        {
+          "id": "a-5a74482265a257089838",
+          "source_range": [
+            213,
+            232
+          ],
+          "ko_range": [
+            115,
+            136
+          ],
+          "source_text": "ἀλλὰ τοὺς ἡμιθέους;",
+          "ko_text": "그렇다면 반신들을 공경하는 사람들인가?"
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "contempl:5",
+      "html_path": "works/contempl/index.html#p-5",
+      "fixed_html_path": "releases/public-0.33/works/contempl/index.html#p-5",
+      "alignment_revision": "sha256:43e07c58b33954f7cfc2b1e747b15d6851e1adc2bed37f9b96e300e74a89eb98",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:67ab21ec2492b87f6a210bd9ae0eab19d77e35c418ce9f48435f17f5a3b12a2d",
+          "translation_revision": "sha256:118ec4a797db5878adf128a63656ce8f6b42678889cfcb0a12e670f3aca96562",
+          "alignment_revision": "sha256:43e07c58b33954f7cfc2b1e747b15d6851e1adc2bed37f9b96e300e74a89eb98"
+        },
+        "scoped_ai_review": {
+          "id": "contempl-addition-20261003",
+          "scope": "관조적 삶에 관하여 1-20절 전체, 21-90절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:67ab21ec2492b87f6a210bd9ae0eab19d77e35c418ce9f48435f17f5a3b12a2d",
+            "translation_revision": "sha256:118ec4a797db5878adf128a63656ce8f6b42678889cfcb0a12e670f3aca96562",
+            "alignment_revision": "sha256:43e07c58b33954f7cfc2b1e747b15d6851e1adc2bed37f9b96e300e74a89eb98"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg028/tlg0018.tlg028.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "관조적 삶에 관하여",
+        "reference": "5",
+        "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:118ec4a797db5878adf128a63656ce8f6b42678889cfcb0a12e670f3aca96562",
+        "fixed_path": "releases/public-0.33/works/contempl/index.html#p-5"
+      }
+    },
+    {
+      "ref": "6",
+      "section": 6,
+      "original": "ἦ τοῦτό γε καὶ χλεύης ἄξιον· πῶς γὰρ ἂν ὁ αὐτὸς ἀθάνατός τε καὶ θνητὸς εἴη; δίχα τοῦ καὶ τὴν ἀρχὴν τῆς τούτων γενέσεως ἐπίληπτον εἶναι, μειρακιώδους ἀκρασίας ἀνάπλεων, ἣν τολμῶσιν οὐκ εὐαγῶς προσάπτειν ταῖς μακαρίαις καὶ θείαις δυνάμεσιν, εἰ γυναιξὶ θνηταῖς ἐπιμανέντες ὡμίλησαν οἱ παντὸς πάθους ἀμέτοχοι καὶ τρισευδαίμονες.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:488ded6b84b03b78ede731a32360c8ab21574297d97296a9b31fb12ddce15851",
+      "source_file_sha256": "7b2c44539b64dd9283477478f58473c4553bc2392d08d046f870d942795a8cd5",
+      "source_locator": {
+        "filename": "tlg0018.tlg028.1st1K-grc1.xml",
+        "reference": "6"
+      },
+      "encoded_printed_page": "v.6.p.48",
+      "korean": "그것은 참으로 비웃을 만하다. 같은 존재가 어떻게 불멸하면서 죽을 수 있겠는가? 게다가 그들이 태어난 유래 자체도 나무랄 만하다. 그 유래는 젊은이의 무절제로 가득하다. 사람들은 감히 그런 일을 복되고 신적인 능력들에게 불경하게 돌린다. 모든 감정에 흔들리지 않고 더없이 행복한 존재들이 죽을 여자들에게 미쳐 관계를 맺었다고 하기 때문이다.",
+      "translation_revision": "sha256:46cf83f45ced755a05a57c5617d4b62f6d796f3b45e82485a82a4be8ebde0e14",
+      "groups": [
+        {
+          "id": "a-59c624f70f5d0a85f113",
+          "source_range": [
+            0,
+            28
+          ],
+          "ko_range": [
+            0,
+            16
+          ],
+          "source_text": "ἦ τοῦτό γε καὶ χλεύης ἄξιον·",
+          "ko_text": "그것은 참으로 비웃을 만하다."
+        },
+        {
+          "id": "a-ee6c3c41bd005fef9fb1",
+          "source_range": [
+            29,
+            75
+          ],
+          "ko_range": [
+            17,
+            44
+          ],
+          "source_text": "πῶς γὰρ ἂν ὁ αὐτὸς ἀθάνατός τε καὶ θνητὸς εἴη;",
+          "ko_text": "같은 존재가 어떻게 불멸하면서 죽을 수 있겠는가?"
+        },
+        {
+          "id": "a-47bd4c7c7f9d1cf68b4c",
+          "source_range": [
+            76,
+            135
+          ],
+          "ko_range": [
+            45,
+            72
+          ],
+          "source_text": "δίχα τοῦ καὶ τὴν ἀρχὴν τῆς τούτων γενέσεως ἐπίληπτον εἶναι,",
+          "ko_text": "게다가 그들이 태어난 유래 자체도 나무랄 만하다."
+        },
+        {
+          "id": "a-3564f04acaf91a50b932",
+          "source_range": [
+            136,
+            167
+          ],
+          "ko_range": [
+            73,
+            94
+          ],
+          "source_text": "μειρακιώδους ἀκρασίας ἀνάπλεων,",
+          "ko_text": "그 유래는 젊은이의 무절제로 가득하다."
+        },
+        {
+          "id": "a-b31e7ce79bb5c46a6212",
+          "source_range": [
+            168,
+            238
+          ],
+          "ko_range": [
+            95,
+            132
+          ],
+          "source_text": "ἣν τολμῶσιν οὐκ εὐαγῶς προσάπτειν ταῖς μακαρίαις καὶ θείαις δυνάμεσιν,",
+          "ko_text": "사람들은 감히 그런 일을 복되고 신적인 능력들에게 불경하게 돌린다."
+        },
+        {
+          "id": "a-a2b02cdb966ab6ec20c5",
+          "source_range": [
+            239,
+            324
+          ],
+          "ko_range": [
+            133,
+            190
+          ],
+          "source_text": "εἰ γυναιξὶ θνηταῖς ἐπιμανέντες ὡμίλησαν οἱ παντὸς πάθους ἀμέτοχοι καὶ τρισευδαίμονες.",
+          "ko_text": "모든 감정에 흔들리지 않고 더없이 행복한 존재들이 죽을 여자들에게 미쳐 관계를 맺었다고 하기 때문이다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "contempl:6",
+      "html_path": "works/contempl/index.html#p-6",
+      "fixed_html_path": "releases/public-0.33/works/contempl/index.html#p-6",
+      "alignment_revision": "sha256:f6f1ff44c25f37b3fdf1a5f36b957d314f1b2610ae0a5b4d96ba85cb69db1ebb",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:488ded6b84b03b78ede731a32360c8ab21574297d97296a9b31fb12ddce15851",
+          "translation_revision": "sha256:46cf83f45ced755a05a57c5617d4b62f6d796f3b45e82485a82a4be8ebde0e14",
+          "alignment_revision": "sha256:f6f1ff44c25f37b3fdf1a5f36b957d314f1b2610ae0a5b4d96ba85cb69db1ebb"
+        },
+        "scoped_ai_review": {
+          "id": "contempl-addition-20261003",
+          "scope": "관조적 삶에 관하여 1-20절 전체, 21-90절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:488ded6b84b03b78ede731a32360c8ab21574297d97296a9b31fb12ddce15851",
+            "translation_revision": "sha256:46cf83f45ced755a05a57c5617d4b62f6d796f3b45e82485a82a4be8ebde0e14",
+            "alignment_revision": "sha256:f6f1ff44c25f37b3fdf1a5f36b957d314f1b2610ae0a5b4d96ba85cb69db1ebb"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg028/tlg0018.tlg028.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "관조적 삶에 관하여",
+        "reference": "6",
+        "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:46cf83f45ced755a05a57c5617d4b62f6d796f3b45e82485a82a4be8ebde0e14",
+        "fixed_path": "releases/public-0.33/works/contempl/index.html#p-6"
+      }
+    },
+    {
+      "ref": "7",
+      "section": 7,
+      "original": "ἀλλὰ τοὺς τὰ ξόανα καὶ ἀγάλματα; ὧν αἱ οὐσίαι λίθοι καὶ ξύλα, τὰ μέχρι πρὸ μικροῦ τελείως ἄμορφα, λιθοτόμων καὶ δρυοτόμων τῆς συμφυΐας αὐτὰ διακοψάντων, ὧν τὰ ἀδελφὰ μέρη καὶ συγγενῆ λουτροφόροι γεγόνασι καὶ ποδόνιπτρα καὶ ἄλλα ἄττα τῶν ἀτιμοτέρων, ἃ πρὸς τὰς ἐν σκότῳ χρείας ὑπηρετεῖ μᾶλλον ἢ τὰς ἐν φωτί.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:60bf87900a58980380758a646047d0a7ad77b68c4e3ed1bc3fba853b81f05977",
+      "source_file_sha256": "7b2c44539b64dd9283477478f58473c4553bc2392d08d046f870d942795a8cd5",
+      "source_locator": {
+        "filename": "tlg0018.tlg028.1st1K-grc1.xml",
+        "reference": "7"
+      },
+      "encoded_printed_page": "v.6.p.48",
+      "korean": "그러면 나무 신상과 조각상을 공경하는 사람들인가? 그 본체는 조금 전까지만 해도 전혀 모양이 없던 돌과 나무이다. 돌을 자르는 이와 나무를 베는 이가 본래 붙어 있던 것에서 떼어 냈다. 그와 한 몸이던 다른 부분들은 목욕물을 담는 그릇과 발 씻는 대야가 되었고, 그 밖의 더 하찮은 물건이 되었다. 빛 가운데서보다 어둠 속에서 필요한 일에 쓰이는 물건들이다.",
+      "translation_revision": "sha256:21d06536a15cdb81a7e0a6b4b1e6ed8e1859e98f7e0680f2b7c586ae582b42ee",
+      "groups": [
+        {
+          "id": "a-e1a5be952beb2bd0fd5f",
+          "source_range": [
+            0,
+            32
+          ],
+          "ko_range": [
+            0,
+            27
+          ],
+          "source_text": "ἀλλὰ τοὺς τὰ ξόανα καὶ ἀγάλματα;",
+          "ko_text": "그러면 나무 신상과 조각상을 공경하는 사람들인가?"
+        },
+        {
+          "id": "a-1a65db2b4f0eeea95860",
+          "source_range": [
+            33,
+            97
+          ],
+          "ko_range": [
+            28,
+            63
+          ],
+          "source_text": "ὧν αἱ οὐσίαι λίθοι καὶ ξύλα, τὰ μέχρι πρὸ μικροῦ τελείως ἄμορφα,",
+          "ko_text": "그 본체는 조금 전까지만 해도 전혀 모양이 없던 돌과 나무이다."
+        },
+        {
+          "id": "a-d11c634ad707b71458a1",
+          "source_range": [
+            98,
+            152
+          ],
+          "ko_range": [
+            64,
+            103
+          ],
+          "source_text": "λιθοτόμων καὶ δρυοτόμων τῆς συμφυΐας αὐτὰ διακοψάντων,",
+          "ko_text": "돌을 자르는 이와 나무를 베는 이가 본래 붙어 있던 것에서 떼어 냈다."
+        },
+        {
+          "id": "a-48b6eaf05da43460363d",
+          "source_range": [
+            153,
+            218
+          ],
+          "ko_range": [
+            104,
+            146
+          ],
+          "source_text": "ὧν τὰ ἀδελφὰ μέρη καὶ συγγενῆ λουτροφόροι γεγόνασι καὶ ποδόνιπτρα",
+          "ko_text": "그와 한 몸이던 다른 부분들은 목욕물을 담는 그릇과 발 씻는 대야가 되었고,"
+        },
+        {
+          "id": "a-3fa756823452eff3afdb",
+          "source_range": [
+            219,
+            306
+          ],
+          "ko_range": [
+            147,
+            200
+          ],
+          "source_text": "καὶ ἄλλα ἄττα τῶν ἀτιμοτέρων, ἃ πρὸς τὰς ἐν σκότῳ χρείας ὑπηρετεῖ μᾶλλον ἢ τὰς ἐν φωτί.",
+          "ko_text": "그 밖의 더 하찮은 물건이 되었다. 빛 가운데서보다 어둠 속에서 필요한 일에 쓰이는 물건들이다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "contempl:7",
+      "html_path": "works/contempl/index.html#p-7",
+      "fixed_html_path": "releases/public-0.33/works/contempl/index.html#p-7",
+      "alignment_revision": "sha256:a4d73b7254ea463588a1e4a2836076189ce2f4c2aaae001380497a0c2309e21e",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:60bf87900a58980380758a646047d0a7ad77b68c4e3ed1bc3fba853b81f05977",
+          "translation_revision": "sha256:21d06536a15cdb81a7e0a6b4b1e6ed8e1859e98f7e0680f2b7c586ae582b42ee",
+          "alignment_revision": "sha256:a4d73b7254ea463588a1e4a2836076189ce2f4c2aaae001380497a0c2309e21e"
+        },
+        "scoped_ai_review": {
+          "id": "contempl-addition-20261003",
+          "scope": "관조적 삶에 관하여 1-20절 전체, 21-90절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:60bf87900a58980380758a646047d0a7ad77b68c4e3ed1bc3fba853b81f05977",
+            "translation_revision": "sha256:21d06536a15cdb81a7e0a6b4b1e6ed8e1859e98f7e0680f2b7c586ae582b42ee",
+            "alignment_revision": "sha256:a4d73b7254ea463588a1e4a2836076189ce2f4c2aaae001380497a0c2309e21e"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg028/tlg0018.tlg028.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "관조적 삶에 관하여",
+        "reference": "7",
+        "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:21d06536a15cdb81a7e0a6b4b1e6ed8e1859e98f7e0680f2b7c586ae582b42ee",
+        "fixed_path": "releases/public-0.33/works/contempl/index.html#p-7"
+      }
+    },
+    {
+      "ref": "8",
+      "section": 8,
+      "original": "τῶν μὲν γὰρ παρ’ Αἰγυπτίοις οὐδὲ μεμνῆσθαι καλόν, οἳ ζῷα ἄλογα καὶ οὐχ ἥμερα μόνον ἀλλὰ καὶ θηρίων τὰ ἀγριώτατα παραγηόχασιν εἰς θεῶν τιμὰς ἐξ ἑκάστου τῶν κάτω σελήνης, χερσαίων μὲν λέοντα, ἐνύδρων δὲ τὸν ἐγχώριον κροκόδειλον, ἀεροπόρων δὲ ἴκτινον καὶ τὴν Αἰγυπτίαν ἶβιν.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:e02593f01218d4ef113ad56d6aff94eacc8e8b3a6a669d8775e99dec1633d16b",
+      "source_file_sha256": "7b2c44539b64dd9283477478f58473c4553bc2392d08d046f870d942795a8cd5",
+      "source_locator": {
+        "filename": "tlg0018.tlg028.1st1K-grc1.xml",
+        "reference": "8"
+      },
+      "encoded_printed_page": "v.6.p.48",
+      "korean": "이집트 사람들의 숭배는 입에 올리는 것조차 좋지 않다. 그들은 이성 없는 동물들을 신으로 공경하는 자리에 올렸다. 온순한 동물뿐 아니라 가장 사나운 짐승들도 그렇다. 달 아래의 각 부류에서 골랐다. 땅의 동물에서는 사자를, 물의 동물에서는 그 땅의 악어를, 하늘을 나는 동물에서는 솔개와 이집트의 따오기를 골랐다.",
+      "translation_revision": "sha256:37aef37beac59a71b22d4e04230af34b12a99b7436c4ae746b1045a813a14058",
+      "groups": [
+        {
+          "id": "a-352984ef9e92eb1059b4",
+          "source_range": [
+            0,
+            49
+          ],
+          "ko_range": [
+            0,
+            30
+          ],
+          "source_text": "τῶν μὲν γὰρ παρ’ Αἰγυπτίοις οὐδὲ μεμνῆσθαι καλόν,",
+          "ko_text": "이집트 사람들의 숭배는 입에 올리는 것조차 좋지 않다."
+        },
+        {
+          "id": "a-acfe9e9c10a04f237a62",
+          "source_range": [
+            50,
+            139
+          ],
+          "ko_range": [
+            31,
+            92
+          ],
+          "source_text": "οἳ ζῷα ἄλογα καὶ οὐχ ἥμερα μόνον ἀλλὰ καὶ θηρίων τὰ ἀγριώτατα παραγηόχασιν εἰς θεῶν τιμὰς",
+          "ko_text": "그들은 이성 없는 동물들을 신으로 공경하는 자리에 올렸다. 온순한 동물뿐 아니라 가장 사나운 짐승들도 그렇다."
+        },
+        {
+          "id": "a-5a4b8f8ae8aea99d64af",
+          "source_range": [
+            140,
+            168
+          ],
+          "ko_range": [
+            93,
+            110
+          ],
+          "source_text": "ἐξ ἑκάστου τῶν κάτω σελήνης,",
+          "ko_text": "달 아래의 각 부류에서 골랐다."
+        },
+        {
+          "id": "a-876abd64bcd97564684e",
+          "source_range": [
+            169,
+            226
+          ],
+          "ko_range": [
+            111,
+            143
+          ],
+          "source_text": "χερσαίων μὲν λέοντα, ἐνύδρων δὲ τὸν ἐγχώριον κροκόδειλον,",
+          "ko_text": "땅의 동물에서는 사자를, 물의 동물에서는 그 땅의 악어를,"
+        },
+        {
+          "id": "a-800242e008ca696e459b",
+          "source_range": [
+            227,
+            271
+          ],
+          "ko_range": [
+            144,
+            175
+          ],
+          "source_text": "ἀεροπόρων δὲ ἴκτινον καὶ τὴν Αἰγυπτίαν ἶβιν.",
+          "ko_text": "하늘을 나는 동물에서는 솔개와 이집트의 따오기를 골랐다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "contempl:8",
+      "html_path": "works/contempl/index.html#p-8",
+      "fixed_html_path": "releases/public-0.33/works/contempl/index.html#p-8",
+      "alignment_revision": "sha256:75f1dce4c6bdd05215e6e64cf16b0e238a2d8bddd8cb253fd6e33c833c9298fa",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:e02593f01218d4ef113ad56d6aff94eacc8e8b3a6a669d8775e99dec1633d16b",
+          "translation_revision": "sha256:37aef37beac59a71b22d4e04230af34b12a99b7436c4ae746b1045a813a14058",
+          "alignment_revision": "sha256:75f1dce4c6bdd05215e6e64cf16b0e238a2d8bddd8cb253fd6e33c833c9298fa"
+        },
+        "scoped_ai_review": {
+          "id": "contempl-addition-20261003",
+          "scope": "관조적 삶에 관하여 1-20절 전체, 21-90절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:e02593f01218d4ef113ad56d6aff94eacc8e8b3a6a669d8775e99dec1633d16b",
+            "translation_revision": "sha256:37aef37beac59a71b22d4e04230af34b12a99b7436c4ae746b1045a813a14058",
+            "alignment_revision": "sha256:75f1dce4c6bdd05215e6e64cf16b0e238a2d8bddd8cb253fd6e33c833c9298fa"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg028/tlg0018.tlg028.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "관조적 삶에 관하여",
+        "reference": "8",
+        "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:37aef37beac59a71b22d4e04230af34b12a99b7436c4ae746b1045a813a14058",
+        "fixed_path": "releases/public-0.33/works/contempl/index.html#p-8"
+      }
+    },
+    {
+      "ref": "9",
+      "section": 9,
+      "original": "καὶ ταῦτα ὁρῶντες γεννώμενα καὶ τροφῆς χρείαν ἔχοντα καὶ περὶ ἐδωδὴν ἄπληστα καὶ μεστὰ περιττωμάτων ἰοβόλα τε καὶ ἀνθρωποβόρα καὶ νόσοις ἁλωτὰ παντοίαις καὶ οὐ μόνον θανάτῳ τῷ κατὰ φύσιν ἀλλὰ καὶ βιαίῳ πολλάκις διαφθειρόμενα προσκυνοῦσιν, οἱ ἥμεροι τὰ ἀνήμερα καὶ ἀτίθασα καὶ οἱ λογικοὶ τὰ ἄλογα καὶ οἱ συγγένειαν ἔχοντες πρὸς τὸ θεῖον τὰ μηδ’ ἂν Θερσίτῃσι συγκριθέντα, οἱ ἄρχοντες καὶ δεσπόται τὰ ὑπήκοα φύσει καὶ δοῦλα.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:5e87d59bb4cb8e9f5f6eb7943587d3f50defdad2381559895224780afa9c9aa0",
+      "source_file_sha256": "7b2c44539b64dd9283477478f58473c4553bc2392d08d046f870d942795a8cd5",
+      "source_locator": {
+        "filename": "tlg0018.tlg028.1st1K-grc1.xml",
+        "reference": "9"
+      },
+      "encoded_printed_page": "v.6.p.48",
+      "korean": "그들은 그 동물들이 태어나고 먹이가 필요하며, 먹을 것을 탐하고 배설물로 가득하며, 독을 뿜고 사람을 먹으며, 온갖 병에 걸리고 자연사뿐 아니라 자주 비명에도 죽는다는 사실을 보면서도 절한다. 온순한 사람들이 사납고 길들지 않은 것에게, 이성을 지닌 사람들이 이성 없는 것에게 절한다. 신적인 것과 혈족 관계가 있는 사람들이 테르시테스와도 비교할 수 없는 것들에게 절한다. 통치자이며 주인인 사람들이 본래 복종하는 존재이며 노예인 것들에게 절한다.",
+      "translation_revision": "sha256:11c075f0add385945ab744b17138d6190f986bfb96c0513ac8d82dcc4a65e6dd",
+      "groups": [
+        {
+          "id": "a-c2322876ea8db420c5b5",
+          "source_range": [
+            0,
+            238
+          ],
+          "ko_range": [
+            0,
+            107
+          ],
+          "source_text": "καὶ ταῦτα ὁρῶντες γεννώμενα καὶ τροφῆς χρείαν ἔχοντα καὶ περὶ ἐδωδὴν ἄπληστα καὶ μεστὰ περιττωμάτων ἰοβόλα τε καὶ ἀνθρωποβόρα καὶ νόσοις ἁλωτὰ παντοίαις καὶ οὐ μόνον θανάτῳ τῷ κατὰ φύσιν ἀλλὰ καὶ βιαίῳ πολλάκις διαφθειρόμενα προσκυνοῦσιν,",
+          "ko_text": "그들은 그 동물들이 태어나고 먹이가 필요하며, 먹을 것을 탐하고 배설물로 가득하며, 독을 뿜고 사람을 먹으며, 온갖 병에 걸리고 자연사뿐 아니라 자주 비명에도 죽는다는 사실을 보면서도 절한다."
+        },
+        {
+          "id": "a-dfccea186a8be78e6102",
+          "source_range": [
+            239,
+            295
+          ],
+          "ko_range": [
+            108,
+            159
+          ],
+          "source_text": "οἱ ἥμεροι τὰ ἀνήμερα καὶ ἀτίθασα καὶ οἱ λογικοὶ τὰ ἄλογα",
+          "ko_text": "온순한 사람들이 사납고 길들지 않은 것에게, 이성을 지닌 사람들이 이성 없는 것에게 절한다."
+        },
+        {
+          "id": "a-2964e1ee56e0ad0897f0",
+          "source_range": [
+            296,
+            369
+          ],
+          "ko_range": [
+            160,
+            208
+          ],
+          "source_text": "καὶ οἱ συγγένειαν ἔχοντες πρὸς τὸ θεῖον τὰ μηδ’ ἂν Θερσίτῃσι συγκριθέντα,",
+          "ko_text": "신적인 것과 혈족 관계가 있는 사람들이 테르시테스와도 비교할 수 없는 것들에게 절한다."
+        },
+        {
+          "id": "a-9ce138a47d57da7b08fe",
+          "source_range": [
+            370,
+            421
+          ],
+          "ko_range": [
+            209,
+            250
+          ],
+          "source_text": "οἱ ἄρχοντες καὶ δεσπόται τὰ ὑπήκοα φύσει καὶ δοῦλα.",
+          "ko_text": "통치자이며 주인인 사람들이 본래 복종하는 존재이며 노예인 것들에게 절한다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "contempl:9",
+      "html_path": "works/contempl/index.html#p-9",
+      "fixed_html_path": "releases/public-0.33/works/contempl/index.html#p-9",
+      "alignment_revision": "sha256:9872c316ade1254bc099ffed7f51cc3ea678dbe65fc20a2466aed4165b02f011",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:5e87d59bb4cb8e9f5f6eb7943587d3f50defdad2381559895224780afa9c9aa0",
+          "translation_revision": "sha256:11c075f0add385945ab744b17138d6190f986bfb96c0513ac8d82dcc4a65e6dd",
+          "alignment_revision": "sha256:9872c316ade1254bc099ffed7f51cc3ea678dbe65fc20a2466aed4165b02f011"
+        },
+        "scoped_ai_review": {
+          "id": "contempl-addition-20261003",
+          "scope": "관조적 삶에 관하여 1-20절 전체, 21-90절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:5e87d59bb4cb8e9f5f6eb7943587d3f50defdad2381559895224780afa9c9aa0",
+            "translation_revision": "sha256:11c075f0add385945ab744b17138d6190f986bfb96c0513ac8d82dcc4a65e6dd",
+            "alignment_revision": "sha256:9872c316ade1254bc099ffed7f51cc3ea678dbe65fc20a2466aed4165b02f011"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg028/tlg0018.tlg028.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "관조적 삶에 관하여",
+        "reference": "9",
+        "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:11c075f0add385945ab744b17138d6190f986bfb96c0513ac8d82dcc4a65e6dd",
+        "fixed_path": "releases/public-0.33/works/contempl/index.html#p-9"
+      }
+    },
+    {
+      "ref": "10",
+      "section": 10,
+      "original": "Ἀλλ’ οὗτοι μέν, ἐπειδήπερ οὐ τοὺς ὁμοφύλους μόνον ἀλλὰ καὶ τοὺς πλησιάζοντας ἀναπιμπλᾶσι φλυαρίας, ἀθεράπευτοι διατελείτωσαν ὄψιν, τὴν ἀναγκαιοτάτην τῶν αἰσθήσεων, πεπηρωμένοι· λέγω δὲ οὐ τὴν σώματος, ἀλλὰ τὴν ψυχῆς, ᾗ τὸ ἀληθὲς καὶ τὸ ψεῦδος μόνῃ γνωρίζεται.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:f32f3ded8fa24081420b3d989b063fc7d86c767d79bfc505ca3b70628919edcc",
+      "source_file_sha256": "7b2c44539b64dd9283477478f58473c4553bc2392d08d046f870d942795a8cd5",
+      "source_locator": {
+        "filename": "tlg0018.tlg028.1st1K-grc1.xml",
+        "reference": "10"
+      },
+      "encoded_printed_page": "v.6.p.49",
+      "korean": "이들은 같은 민족뿐 아니라 가까이 있는 사람들까지 헛된 말로 가득 채운다. 치료받지 못한 채 지내게 두자. 그들은 감각 가운데 가장 필요한 시력을 잃었다. 내가 말하는 것은 몸의 시력이 아니라 영혼의 시력이다. 그것만이 진실과 거짓을 알아본다.",
+      "translation_revision": "sha256:19ef172277551aa770c7567ed6271c46660da72619a87b178eb46f1b7412162c",
+      "groups": [
+        {
+          "id": "a-2b738fe4173ca16857a6",
+          "source_range": [
+            0,
+            98
+          ],
+          "ko_range": [
+            0,
+            41
+          ],
+          "source_text": "Ἀλλ’ οὗτοι μέν, ἐπειδήπερ οὐ τοὺς ὁμοφύλους μόνον ἀλλὰ καὶ τοὺς πλησιάζοντας ἀναπιμπλᾶσι φλυαρίας,",
+          "ko_text": "이들은 같은 민족뿐 아니라 가까이 있는 사람들까지 헛된 말로 가득 채운다."
+        },
+        {
+          "id": "a-f22a202707db9d4484d9",
+          "source_range": [
+            99,
+            124
+          ],
+          "ko_range": [
+            42,
+            59
+          ],
+          "source_text": "ἀθεράπευτοι διατελείτωσαν",
+          "ko_text": "치료받지 못한 채 지내게 두자."
+        },
+        {
+          "id": "a-03932ccb251641576efd",
+          "source_range": [
+            125,
+            176
+          ],
+          "ko_range": [
+            60,
+            86
+          ],
+          "source_text": "ὄψιν, τὴν ἀναγκαιοτάτην τῶν αἰσθήσεων, πεπηρωμένοι·",
+          "ko_text": "그들은 감각 가운데 가장 필요한 시력을 잃었다."
+        },
+        {
+          "id": "a-ba6d90371fa35c63ffbd",
+          "source_range": [
+            177,
+            259
+          ],
+          "ko_range": [
+            87,
+            136
+          ],
+          "source_text": "λέγω δὲ οὐ τὴν σώματος, ἀλλὰ τὴν ψυχῆς, ᾗ τὸ ἀληθὲς καὶ τὸ ψεῦδος μόνῃ γνωρίζεται.",
+          "ko_text": "내가 말하는 것은 몸의 시력이 아니라 영혼의 시력이다. 그것만이 진실과 거짓을 알아본다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "contempl:10",
+      "html_path": "works/contempl/index.html#p-10",
+      "fixed_html_path": "releases/public-0.33/works/contempl/index.html#p-10",
+      "alignment_revision": "sha256:e563c25f9d742f2df7943e6ca7e151f58c6d35dced7d297c673e4de31a556464",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:f32f3ded8fa24081420b3d989b063fc7d86c767d79bfc505ca3b70628919edcc",
+          "translation_revision": "sha256:19ef172277551aa770c7567ed6271c46660da72619a87b178eb46f1b7412162c",
+          "alignment_revision": "sha256:e563c25f9d742f2df7943e6ca7e151f58c6d35dced7d297c673e4de31a556464"
+        },
+        "scoped_ai_review": {
+          "id": "contempl-addition-20261003",
+          "scope": "관조적 삶에 관하여 1-20절 전체, 21-90절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:f32f3ded8fa24081420b3d989b063fc7d86c767d79bfc505ca3b70628919edcc",
+            "translation_revision": "sha256:19ef172277551aa770c7567ed6271c46660da72619a87b178eb46f1b7412162c",
+            "alignment_revision": "sha256:e563c25f9d742f2df7943e6ca7e151f58c6d35dced7d297c673e4de31a556464"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg028/tlg0018.tlg028.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "관조적 삶에 관하여",
+        "reference": "10",
+        "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:19ef172277551aa770c7567ed6271c46660da72619a87b178eb46f1b7412162c",
+        "fixed_path": "releases/public-0.33/works/contempl/index.html#p-10"
+      }
+    },
+    {
+      "ref": "11",
+      "section": 11,
+      "original": "τὸ δὲ θεραπευτικὸν γένος βλέπειν ἀεὶ προδιδασκόμενον τῆς τοῦ ὄντος θέας ἐφιέσθω καὶ τὸν αἰσθητὸν ἥλιον ὑπερβαινέτω καὶ μηδέποτε τὴν τάξιν ταύτην λειπέτω πρὸς τελείαν ἄγουσαν εὐδαιμονίαν.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:8d7e70148d8ad71e3478f2e172e58b98601a8ce83d7853eb9e4285713a8acd4d",
+      "source_file_sha256": "7b2c44539b64dd9283477478f58473c4553bc2392d08d046f870d942795a8cd5",
+      "source_locator": {
+        "filename": "tlg0018.tlg028.1st1K-grc1.xml",
+        "reference": "11"
+      },
+      "encoded_printed_page": "v.6.p.49",
+      "korean": "테라페우타이의 무리는 늘 보는 법을 미리 배우며, 실재하시는 분을 바라보기를 갈망하라. 감각으로 보는 해보다 높이 나아가라. 완전한 행복에 이르는 이 질서를 결코 떠나지 말라.",
+      "translation_revision": "sha256:f92533e27a353bda37b97f540f5993a39540452edd2f52d5b877c28c9c90ef0b",
+      "groups": [
+        {
+          "id": "a-4cdbfe76a98af21d5f6c",
+          "source_range": [
+            0,
+            52
+          ],
+          "ko_range": [
+            0,
+            27
+          ],
+          "source_text": "τὸ δὲ θεραπευτικὸν γένος βλέπειν ἀεὶ προδιδασκόμενον",
+          "ko_text": "테라페우타이의 무리는 늘 보는 법을 미리 배우며,"
+        },
+        {
+          "id": "a-df6f3d184fe2a499f757",
+          "source_range": [
+            53,
+            79
+          ],
+          "ko_range": [
+            28,
+            48
+          ],
+          "source_text": "τῆς τοῦ ὄντος θέας ἐφιέσθω",
+          "ko_text": "실재하시는 분을 바라보기를 갈망하라."
+        },
+        {
+          "id": "a-0db7c80b06fa4d0d94ed",
+          "source_range": [
+            80,
+            114
+          ],
+          "ko_range": [
+            49,
+            69
+          ],
+          "source_text": "καὶ τὸν αἰσθητὸν ἥλιον ὑπερβαινέτω",
+          "ko_text": "감각으로 보는 해보다 높이 나아가라."
+        },
+        {
+          "id": "a-24736d084f27485e48af",
+          "source_range": [
+            115,
+            186
+          ],
+          "ko_range": [
+            70,
+            98
+          ],
+          "source_text": "καὶ μηδέποτε τὴν τάξιν ταύτην λειπέτω πρὸς τελείαν ἄγουσαν εὐδαιμονίαν.",
+          "ko_text": "완전한 행복에 이르는 이 질서를 결코 떠나지 말라."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "contempl:11",
+      "html_path": "works/contempl/index.html#p-11",
+      "fixed_html_path": "releases/public-0.33/works/contempl/index.html#p-11",
+      "alignment_revision": "sha256:964873b9890555b521a4379b07870e54991947c94266e352e7c5ffd36b5e8d17",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:8d7e70148d8ad71e3478f2e172e58b98601a8ce83d7853eb9e4285713a8acd4d",
+          "translation_revision": "sha256:f92533e27a353bda37b97f540f5993a39540452edd2f52d5b877c28c9c90ef0b",
+          "alignment_revision": "sha256:964873b9890555b521a4379b07870e54991947c94266e352e7c5ffd36b5e8d17"
+        },
+        "scoped_ai_review": {
+          "id": "contempl-addition-20261003",
+          "scope": "관조적 삶에 관하여 1-20절 전체, 21-90절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:8d7e70148d8ad71e3478f2e172e58b98601a8ce83d7853eb9e4285713a8acd4d",
+            "translation_revision": "sha256:f92533e27a353bda37b97f540f5993a39540452edd2f52d5b877c28c9c90ef0b",
+            "alignment_revision": "sha256:964873b9890555b521a4379b07870e54991947c94266e352e7c5ffd36b5e8d17"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg028/tlg0018.tlg028.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "관조적 삶에 관하여",
+        "reference": "11",
+        "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:f92533e27a353bda37b97f540f5993a39540452edd2f52d5b877c28c9c90ef0b",
+        "fixed_path": "releases/public-0.33/works/contempl/index.html#p-11"
+      }
+    },
+    {
+      "ref": "12",
+      "section": 12,
+      "original": "οἱ δὲ ἐπὶ θεραπείαν ἰόντες οὔτε ἐξ ἔθους οὔτε ἐκ παραινέσεως ἢ παρακλήσεώς τινων, ἀλλ’ ὑπ’ ἔρωτος ἁρπασθέντες οὐρανίου, καθάπερ οἱ βακχευόμενοι καὶ κορυβαντιῶντες ἐνθουσιάζουσι, μέχρις ἂν τὸ ποθούμενον ἴδωσιν.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:69ed742e0e8afa1d011bb678e8abd09b62134c14b5a8501fb133deb79a61f5ff",
+      "source_file_sha256": "7b2c44539b64dd9283477478f58473c4553bc2392d08d046f870d942795a8cd5",
+      "source_locator": {
+        "filename": "tlg0018.tlg028.1st1K-grc1.xml",
+        "reference": "12"
+      },
+      "encoded_printed_page": "v.6.p.49",
+      "korean": "이들은 습관이나 다른 사람의 권면이나 부름 때문에 섬김의 삶으로 들어가지 않는다. 하늘의 사랑에 사로잡혀 그렇게 한다. 바쿠스의 제의나 코뤼반테스의 제의에 참여하는 사람들처럼 신적인 열광에 들어가, 바라던 것을 볼 때까지 계속한다.",
+      "translation_revision": "sha256:a9cac56a61fe2db63f1c925eec087974da404d456c9be15cb3eaaaab29eaa2cb",
+      "groups": [
+        {
+          "id": "a-e4b1067c26467836429e",
+          "source_range": [
+            0,
+            81
+          ],
+          "ko_range": [
+            0,
+            45
+          ],
+          "source_text": "οἱ δὲ ἐπὶ θεραπείαν ἰόντες οὔτε ἐξ ἔθους οὔτε ἐκ παραινέσεως ἢ παρακλήσεώς τινων,",
+          "ko_text": "이들은 습관이나 다른 사람의 권면이나 부름 때문에 섬김의 삶으로 들어가지 않는다."
+        },
+        {
+          "id": "a-13162672c409f84217fc",
+          "source_range": [
+            82,
+            119
+          ],
+          "ko_range": [
+            46,
+            66
+          ],
+          "source_text": "ἀλλ’ ὑπ’ ἔρωτος ἁρπασθέντες οὐρανίου,",
+          "ko_text": "하늘의 사랑에 사로잡혀 그렇게 한다."
+        },
+        {
+          "id": "a-376c7be420afb5ace164",
+          "source_range": [
+            120,
+            209
+          ],
+          "ko_range": [
+            67,
+            129
+          ],
+          "source_text": "καθάπερ οἱ βακχευόμενοι καὶ κορυβαντιῶντες ἐνθουσιάζουσι, μέχρις ἂν τὸ ποθούμενον ἴδωσιν.",
+          "ko_text": "바쿠스의 제의나 코뤼반테스의 제의에 참여하는 사람들처럼 신적인 열광에 들어가, 바라던 것을 볼 때까지 계속한다."
+        }
+      ],
+      "notes": [
+        "바쿠스와 코뤼반테스의 제의에 참여하는 이들의 열광을 하늘의 사랑에 사로잡힌 상태의 비유로 사용한다. 테라페우타이들이 해당 제의에 참여했다는 서술은 이 문장에 없다."
+      ],
+      "work_passage_id": "contempl:12",
+      "html_path": "works/contempl/index.html#p-12",
+      "fixed_html_path": "releases/public-0.33/works/contempl/index.html#p-12",
+      "alignment_revision": "sha256:19b2ca721fc2e565910a5760cbeafe26c9010196990537468dfbd8e4fd73d2e7",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:69ed742e0e8afa1d011bb678e8abd09b62134c14b5a8501fb133deb79a61f5ff",
+          "translation_revision": "sha256:a9cac56a61fe2db63f1c925eec087974da404d456c9be15cb3eaaaab29eaa2cb",
+          "alignment_revision": "sha256:19b2ca721fc2e565910a5760cbeafe26c9010196990537468dfbd8e4fd73d2e7"
+        },
+        "scoped_ai_review": {
+          "id": "contempl-addition-20261003",
+          "scope": "관조적 삶에 관하여 1-20절 전체, 21-90절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:69ed742e0e8afa1d011bb678e8abd09b62134c14b5a8501fb133deb79a61f5ff",
+            "translation_revision": "sha256:a9cac56a61fe2db63f1c925eec087974da404d456c9be15cb3eaaaab29eaa2cb",
+            "alignment_revision": "sha256:19b2ca721fc2e565910a5760cbeafe26c9010196990537468dfbd8e4fd73d2e7"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg028/tlg0018.tlg028.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "관조적 삶에 관하여",
+        "reference": "12",
+        "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:a9cac56a61fe2db63f1c925eec087974da404d456c9be15cb3eaaaab29eaa2cb",
+        "fixed_path": "releases/public-0.33/works/contempl/index.html#p-12"
+      }
+    },
+    {
+      "ref": "13",
+      "section": 13,
+      "original": "εἶτα διὰ τὸν τῆς ἀθανάτου καὶ μακαρίας ζωῆς ἵμερον τετελευτηκέναι νομίζοντες ἤδη τὸν θνητὸν βίον ἀπολείπουσι τὰς οὐσίας υἱοῖς ἢ θυγατράσιν εἴτε καὶ ἄλλοις συγγενέσιν, ἑκουσίῳ γνώμῃ προκληρονομούμενοι, οἷς δὲ μὴ συγγενεῖς εἰσιν, ἑταίροις καὶ φίλοις· ἔδει γὰρ τοὺς τὸν βλέποντα πλοῦτον ἐξ ἑτοίμου λαβόντας τὸν τυφλὸν παραχωρῆσαι τοῖς ἔτι τὰς διανοίας τυφλώττουσιν.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:eeaa214c44660937a24e29e5da112b4d7c31a876b81c51f1c2418604a5136cb1",
+      "source_file_sha256": "7b2c44539b64dd9283477478f58473c4553bc2392d08d046f870d942795a8cd5",
+      "source_locator": {
+        "filename": "tlg0018.tlg028.1st1K-grc1.xml",
+        "reference": "13"
+      },
+      "encoded_printed_page": "v.6.p.49",
+      "korean": "불멸하고 복된 삶을 갈망하여, 이미 죽을 삶을 마쳤다고 여긴다. 재산을 아들이나 딸, 또는 다른 친척에게 남기고, 스스로 뜻하여 미리 상속하게 한다. 친척이 없는 이들은 동료와 친구에게 남긴다. 볼 줄 아는 부를 이미 얻은 사람들은 아직 정신이 눈먼 사람들에게 눈먼 부를 내어 주어야 했기 때문이다.",
+      "translation_revision": "sha256:d0efe983a23d6c05a33985101c6cd1769485ff00fc93908bb6b2c935384fd34f",
+      "groups": [
+        {
+          "id": "a-16a51519a020bd6f032c",
+          "source_range": [
+            0,
+            96
+          ],
+          "ko_range": [
+            0,
+            35
+          ],
+          "source_text": "εἶτα διὰ τὸν τῆς ἀθανάτου καὶ μακαρίας ζωῆς ἵμερον τετελευτηκέναι νομίζοντες ἤδη τὸν θνητὸν βίον",
+          "ko_text": "불멸하고 복된 삶을 갈망하여, 이미 죽을 삶을 마쳤다고 여긴다."
+        },
+        {
+          "id": "a-ba41f0b96a9fb4c915f5",
+          "source_range": [
+            97,
+            166
+          ],
+          "ko_range": [
+            36,
+            63
+          ],
+          "source_text": "ἀπολείπουσι τὰς οὐσίας υἱοῖς ἢ θυγατράσιν εἴτε καὶ ἄλλοις συγγενέσιν,",
+          "ko_text": "재산을 아들이나 딸, 또는 다른 친척에게 남기고,"
+        },
+        {
+          "id": "a-cb1c4c2f3ac140a5ad2c",
+          "source_range": [
+            167,
+            200
+          ],
+          "ko_range": [
+            64,
+            83
+          ],
+          "source_text": "ἑκουσίῳ γνώμῃ προκληρονομούμενοι,",
+          "ko_text": "스스로 뜻하여 미리 상속하게 한다."
+        },
+        {
+          "id": "a-ac86bb95e02431df45f0",
+          "source_range": [
+            201,
+            248
+          ],
+          "ko_range": [
+            84,
+            108
+          ],
+          "source_text": "οἷς δὲ μὴ συγγενεῖς εἰσιν, ἑταίροις καὶ φίλοις·",
+          "ko_text": "친척이 없는 이들은 동료와 친구에게 남긴다."
+        },
+        {
+          "id": "a-ef0d414bfcb0afe33ea2",
+          "source_range": [
+            249,
+            362
+          ],
+          "ko_range": [
+            109,
+            167
+          ],
+          "source_text": "ἔδει γὰρ τοὺς τὸν βλέποντα πλοῦτον ἐξ ἑτοίμου λαβόντας τὸν τυφλὸν παραχωρῆσαι τοῖς ἔτι τὰς διανοίας τυφλώττουσιν.",
+          "ko_text": "볼 줄 아는 부를 이미 얻은 사람들은 아직 정신이 눈먼 사람들에게 눈먼 부를 내어 주어야 했기 때문이다."
+        }
+      ],
+      "notes": [
+        "재산은 자녀와 친척, 친척이 없으면 동료와 친구에게 미리 상속한다. 14-16절은 재산을 방치한 그리스 철학자들과, 다른 사람의 궁핍을 덜어 주는 이 행동을 비교한다."
+      ],
+      "work_passage_id": "contempl:13",
+      "html_path": "works/contempl/index.html#p-13",
+      "fixed_html_path": "releases/public-0.33/works/contempl/index.html#p-13",
+      "alignment_revision": "sha256:08ea9497889d9a0484b71f20c68c3c3c128ce416e257b4eca21f940ece6b9a75",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:eeaa214c44660937a24e29e5da112b4d7c31a876b81c51f1c2418604a5136cb1",
+          "translation_revision": "sha256:d0efe983a23d6c05a33985101c6cd1769485ff00fc93908bb6b2c935384fd34f",
+          "alignment_revision": "sha256:08ea9497889d9a0484b71f20c68c3c3c128ce416e257b4eca21f940ece6b9a75"
+        },
+        "scoped_ai_review": {
+          "id": "contempl-addition-20261003",
+          "scope": "관조적 삶에 관하여 1-20절 전체, 21-90절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:eeaa214c44660937a24e29e5da112b4d7c31a876b81c51f1c2418604a5136cb1",
+            "translation_revision": "sha256:d0efe983a23d6c05a33985101c6cd1769485ff00fc93908bb6b2c935384fd34f",
+            "alignment_revision": "sha256:08ea9497889d9a0484b71f20c68c3c3c128ce416e257b4eca21f940ece6b9a75"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg028/tlg0018.tlg028.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "관조적 삶에 관하여",
+        "reference": "13",
+        "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:d0efe983a23d6c05a33985101c6cd1769485ff00fc93908bb6b2c935384fd34f",
+        "fixed_path": "releases/public-0.33/works/contempl/index.html#p-13"
+      }
+    },
+    {
+      "ref": "14",
+      "section": 14,
+      "original": "Ἀναξαγόραν καὶ Δημόκριτον Ἕλληνες ᾄδουσιν, ὅτι φιλοσοφίας ἱμέρῳ πληχθέντες μηλοβότους εἴασαν γενέσθαι τὰς οὐσίας· ἄγαμαι τοὺς ἄνδρας καὶ αὐτὸς γενομένους χρημάτων κρείττονας. ἀλλὰ πόσῳ βελτίονες οἱ μὴ θρέμμασιν ἐμβόσκεσθαι τὰς κτήσεις ἀνέντες, ἀλλὰ τὰς ἀνθρώπων ἐνδείας, συγγενῶν ἢ φίλων, ἐπανορθωσάμενοι καὶ ἐξ ἀπόρων εὐπόρους ἀποφήναντες; ἐκεῖνο μὲν γὰρ ἀπερίσκεπτον - ἵνα μὴ μανιῶδες ἐπ’ ἀνδρῶν, οὓς ἡ Ἑλλὰς ἐθαύμασεν, εἴπω τὸ ἔργον -, τοῦτο δὲ νηφάλιον καὶ μετὰ φρονήσεως ἠκριβωμένον περιττῆς.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:70c6c3dfd2db3f99b41bcc0536c52972069839a23dc7b5ff6298729e1e6ef4c2",
+      "source_file_sha256": "7b2c44539b64dd9283477478f58473c4553bc2392d08d046f870d942795a8cd5",
+      "source_locator": {
+        "filename": "tlg0018.tlg028.1st1K-grc1.xml",
+        "reference": "14"
+      },
+      "encoded_printed_page": "v.6.p.49",
+      "korean": "그리스인들은 아낙사고라스와 데모크리토스를 찬양한다. 철학을 향한 갈망에 사로잡혀 재산이 양의 목초지가 되도록 내버려 두었기 때문이다. 나도 재물보다 강해진 그 사람들에게 감탄한다. 하지만 가축들이 재산에서 풀을 뜯게 내버려 두지 않고, 친척이나 친구들의 궁핍을 해결하여 가난한 사람을 넉넉하게 만든 이들이 얼마나 더 훌륭한가? 앞의 행동은 분별이 없다. 그리스가 경탄한 사람들의 행동을 미친 짓이라고까지 말하지는 않겠다. 뒤의 행동은 맑은 정신으로, 뛰어난 분별에 따라 정확히 행한 것이다.",
+      "translation_revision": "sha256:e2ca9f1ddd4191c827e0c219179d77b9bd4192e7fd0ef37e1357431d06d4c8b3",
+      "groups": [
+        {
+          "id": "a-ef85fb84d805e5961198",
+          "source_range": [
+            0,
+            113
+          ],
+          "ko_range": [
+            0,
+            74
+          ],
+          "source_text": "Ἀναξαγόραν καὶ Δημόκριτον Ἕλληνες ᾄδουσιν, ὅτι φιλοσοφίας ἱμέρῳ πληχθέντες μηλοβότους εἴασαν γενέσθαι τὰς οὐσίας·",
+          "ko_text": "그리스인들은 아낙사고라스와 데모크리토스를 찬양한다. 철학을 향한 갈망에 사로잡혀 재산이 양의 목초지가 되도록 내버려 두었기 때문이다."
+        },
+        {
+          "id": "a-537ee3f6ddd95383bf7f",
+          "source_range": [
+            114,
+            174
+          ],
+          "ko_range": [
+            75,
+            100
+          ],
+          "source_text": "ἄγαμαι τοὺς ἄνδρας καὶ αὐτὸς γενομένους χρημάτων κρείττονας.",
+          "ko_text": "나도 재물보다 강해진 그 사람들에게 감탄한다."
+        },
+        {
+          "id": "a-156131655bd7adb828f4",
+          "source_range": [
+            175,
+            340
+          ],
+          "ko_range": [
+            101,
+            182
+          ],
+          "source_text": "ἀλλὰ πόσῳ βελτίονες οἱ μὴ θρέμμασιν ἐμβόσκεσθαι τὰς κτήσεις ἀνέντες, ἀλλὰ τὰς ἀνθρώπων ἐνδείας, συγγενῶν ἢ φίλων, ἐπανορθωσάμενοι καὶ ἐξ ἀπόρων εὐπόρους ἀποφήναντες;",
+          "ko_text": "하지만 가축들이 재산에서 풀을 뜯게 내버려 두지 않고, 친척이나 친구들의 궁핍을 해결하여 가난한 사람을 넉넉하게 만든 이들이 얼마나 더 훌륭한가?"
+        },
+        {
+          "id": "a-6f1102cd76af3d0958af",
+          "source_range": [
+            341,
+            438
+          ],
+          "ko_range": [
+            183,
+            235
+          ],
+          "source_text": "ἐκεῖνο μὲν γὰρ ἀπερίσκεπτον - ἵνα μὴ μανιῶδες ἐπ’ ἀνδρῶν, οὓς ἡ Ἑλλὰς ἐθαύμασεν, εἴπω τὸ ἔργον -,",
+          "ko_text": "앞의 행동은 분별이 없다. 그리스가 경탄한 사람들의 행동을 미친 짓이라고까지 말하지는 않겠다."
+        },
+        {
+          "id": "a-f6430793d922ad4164fd",
+          "source_range": [
+            439,
+            497
+          ],
+          "ko_range": [
+            236,
+            274
+          ],
+          "source_text": "τοῦτο δὲ νηφάλιον καὶ μετὰ φρονήσεως ἠκριβωμένον περιττῆς.",
+          "ko_text": "뒤의 행동은 맑은 정신으로, 뛰어난 분별에 따라 정확히 행한 것이다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "contempl:14",
+      "html_path": "works/contempl/index.html#p-14",
+      "fixed_html_path": "releases/public-0.33/works/contempl/index.html#p-14",
+      "alignment_revision": "sha256:b555fce07b225e1ae3bec9c49b41e471246777d6cc9c5b008d0a888320be454e",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:70c6c3dfd2db3f99b41bcc0536c52972069839a23dc7b5ff6298729e1e6ef4c2",
+          "translation_revision": "sha256:e2ca9f1ddd4191c827e0c219179d77b9bd4192e7fd0ef37e1357431d06d4c8b3",
+          "alignment_revision": "sha256:b555fce07b225e1ae3bec9c49b41e471246777d6cc9c5b008d0a888320be454e"
+        },
+        "scoped_ai_review": {
+          "id": "contempl-addition-20261003",
+          "scope": "관조적 삶에 관하여 1-20절 전체, 21-90절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:70c6c3dfd2db3f99b41bcc0536c52972069839a23dc7b5ff6298729e1e6ef4c2",
+            "translation_revision": "sha256:e2ca9f1ddd4191c827e0c219179d77b9bd4192e7fd0ef37e1357431d06d4c8b3",
+            "alignment_revision": "sha256:b555fce07b225e1ae3bec9c49b41e471246777d6cc9c5b008d0a888320be454e"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg028/tlg0018.tlg028.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "관조적 삶에 관하여",
+        "reference": "14",
+        "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:e2ca9f1ddd4191c827e0c219179d77b9bd4192e7fd0ef37e1357431d06d4c8b3",
+        "fixed_path": "releases/public-0.33/works/contempl/index.html#p-14"
+      }
+    },
+    {
+      "ref": "15",
+      "section": 15,
+      "original": "οἱ πολέμιοι τί πλέον δρῶσιν ἢ κείρουσι καὶ δενδροτομοῦσι τὴν τῶν ἀντιπάλων χώραν, ἵνα σπάνει τῶν ἀναγκαίων πιεσθέντες ἐνδῶσι; τοῦτο οἱ περὶ Δημόκριτον τοῖς ἀφ’ αἵματος εἰργάσαντο χειροποίητον ἔνδειαν καὶ πενίαν αὐτοῖς κατασκευάσαντες, οὐκ ἐξ ἐπιβουλῆς ἴσως, ἀλλὰ τῷ μὴ προϊδέσθαι καὶ περιαθρῆσαι τὸ τοῖς ἄλλοις συμφέρον.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:d94fd676fb9e0c894720257cbdbc887b1b182bc18a75a41f485073bf4b8d2cb9",
+      "source_file_sha256": "7b2c44539b64dd9283477478f58473c4553bc2392d08d046f870d942795a8cd5",
+      "source_locator": {
+        "filename": "tlg0018.tlg028.1st1K-grc1.xml",
+        "reference": "15"
+      },
+      "encoded_printed_page": "v.6.p.50",
+      "korean": "적들이 하는 일도 상대의 땅을 베어 내고 나무를 잘라, 필요한 것이 부족해 압박받고 항복하게 하는 것보다 더한가? 데모크리토스와 같은 이들은 자기 혈족에게 이런 일을 했다. 자기 손으로 그들에게 궁핍과 가난을 마련했다. 아마 악의를 품어서가 아니라, 다른 사람들에게 유익한 것을 미리 보고 두루 살피지 못해서 그랬을 것이다.",
+      "translation_revision": "sha256:5e50b239431f5a48fd0b7559269abca9fd784c852d09f18bba30baf1e266a47b",
+      "groups": [
+        {
+          "id": "a-c9a093bbbedb6f8be388",
+          "source_range": [
+            0,
+            125
+          ],
+          "ko_range": [
+            0,
+            63
+          ],
+          "source_text": "οἱ πολέμιοι τί πλέον δρῶσιν ἢ κείρουσι καὶ δενδροτομοῦσι τὴν τῶν ἀντιπάλων χώραν, ἵνα σπάνει τῶν ἀναγκαίων πιεσθέντες ἐνδῶσι;",
+          "ko_text": "적들이 하는 일도 상대의 땅을 베어 내고 나무를 잘라, 필요한 것이 부족해 압박받고 항복하게 하는 것보다 더한가?"
+        },
+        {
+          "id": "a-7534b39b884c7c232b4c",
+          "source_range": [
+            126,
+            234
+          ],
+          "ko_range": [
+            64,
+            122
+          ],
+          "source_text": "τοῦτο οἱ περὶ Δημόκριτον τοῖς ἀφ’ αἵματος εἰργάσαντο χειροποίητον ἔνδειαν καὶ πενίαν αὐτοῖς κατασκευάσαντες,",
+          "ko_text": "데모크리토스와 같은 이들은 자기 혈족에게 이런 일을 했다. 자기 손으로 그들에게 궁핍과 가난을 마련했다."
+        },
+        {
+          "id": "a-382a3acdd051061d2bed",
+          "source_range": [
+            235,
+            320
+          ],
+          "ko_range": [
+            123,
+            181
+          ],
+          "source_text": "οὐκ ἐξ ἐπιβουλῆς ἴσως, ἀλλὰ τῷ μὴ προϊδέσθαι καὶ περιαθρῆσαι τὸ τοῖς ἄλλοις συμφέρον.",
+          "ko_text": "아마 악의를 품어서가 아니라, 다른 사람들에게 유익한 것을 미리 보고 두루 살피지 못해서 그랬을 것이다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "contempl:15",
+      "html_path": "works/contempl/index.html#p-15",
+      "fixed_html_path": "releases/public-0.33/works/contempl/index.html#p-15",
+      "alignment_revision": "sha256:04a00afb5238856febb98919109ff5c95a238c28367836b906c5a9ec5d8058ad",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:d94fd676fb9e0c894720257cbdbc887b1b182bc18a75a41f485073bf4b8d2cb9",
+          "translation_revision": "sha256:5e50b239431f5a48fd0b7559269abca9fd784c852d09f18bba30baf1e266a47b",
+          "alignment_revision": "sha256:04a00afb5238856febb98919109ff5c95a238c28367836b906c5a9ec5d8058ad"
+        },
+        "scoped_ai_review": {
+          "id": "contempl-addition-20261003",
+          "scope": "관조적 삶에 관하여 1-20절 전체, 21-90절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:d94fd676fb9e0c894720257cbdbc887b1b182bc18a75a41f485073bf4b8d2cb9",
+            "translation_revision": "sha256:5e50b239431f5a48fd0b7559269abca9fd784c852d09f18bba30baf1e266a47b",
+            "alignment_revision": "sha256:04a00afb5238856febb98919109ff5c95a238c28367836b906c5a9ec5d8058ad"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg028/tlg0018.tlg028.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "관조적 삶에 관하여",
+        "reference": "15",
+        "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:5e50b239431f5a48fd0b7559269abca9fd784c852d09f18bba30baf1e266a47b",
+        "fixed_path": "releases/public-0.33/works/contempl/index.html#p-15"
+      }
+    },
+    {
+      "ref": "16",
+      "section": 16,
+      "original": "πόσῳ δὴ κρείττους οὗτοι καὶ θαυμασιώτεροι, χρησάμενοι μὲν οὐκ ἐλάττοσι ταῖς πρὸς φιλοσοφίαν ὁρμαῖς, μεγαλόνοιαν δὲ ὀλιγωρίας προτιμήσαντες καὶ χαρισάμενοι τὰς οὐσίας, ἀλλὰ μὴ διαφθείραντες, ἵνα καὶ ἑτέρους καὶ ἑαυτοὺς ὠφελήσωσι, τοὺς μὲν ἐν ἀφθόνοις περιουσίαις, ἑαυτοὺς δὲ ἐν τῷ φιλοσοφεῖν; αἱ γὰρ χρημάτων καὶ κτημάτων ἐπιμέλειαι τοὺς χρόνους ἀναλίσκουσι· χρόνου δὲ φείδεσθαι καλόν, ἐπειδὴ κατὰ τὸν ἰατρὸν Ἱπποκράτην „ὁ μὲν βίος βραχύς, ἡ δὲ τέχνη μακρή.“",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:49532fa178c5a6cba0ee5715d484401a21e19207b6df897d17362782a95ad2d3",
+      "source_file_sha256": "7b2c44539b64dd9283477478f58473c4553bc2392d08d046f870d942795a8cd5",
+      "source_locator": {
+        "filename": "tlg0018.tlg028.1st1K-grc1.xml",
+        "reference": "16"
+      },
+      "encoded_printed_page": "v.6.p.50",
+      "korean": "테라페우타이들은 얼마나 더 훌륭하고 경탄할 만한가? 철학을 향한 열정은 조금도 뒤지지 않았다. 그들은 무관심보다 큰마음을 택하여 재산을 망가뜨리지 않고 내어 주었다. 다른 사람과 자기 자신 모두에게 유익을 주려는 뜻이었다. 다른 사람은 풍성한 재산을 얻고, 자신은 철학에 전념하게 했다. 돈과 소유를 돌보는 일은 시간을 소모한다. 시간을 아끼는 것은 아름답다. 의사 히포크라테스가 말했듯 “삶은 짧고 기술은 길기” 때문이다.",
+      "translation_revision": "sha256:7711df83664ff67f7d64f49d6e82ca32046828549f95d8ce101672976df1854f",
+      "groups": [
+        {
+          "id": "a-2464550a007f2b5fa294",
+          "source_range": [
+            0,
+            99
+          ],
+          "ko_range": [
+            0,
+            52
+          ],
+          "source_text": "πόσῳ δὴ κρείττους οὗτοι καὶ θαυμασιώτεροι, χρησάμενοι μὲν οὐκ ἐλάττοσι ταῖς πρὸς φιλοσοφίαν ὁρμαῖς,",
+          "ko_text": "테라페우타이들은 얼마나 더 훌륭하고 경탄할 만한가? 철학을 향한 열정은 조금도 뒤지지 않았다."
+        },
+        {
+          "id": "a-1028c530d25a2c1a603f",
+          "source_range": [
+            100,
+            189
+          ],
+          "ko_range": [
+            53,
+            92
+          ],
+          "source_text": "μεγαλόνοιαν δὲ ὀλιγωρίας προτιμήσαντες καὶ χαρισάμενοι τὰς οὐσίας, ἀλλὰ μὴ διαφθείραντες,",
+          "ko_text": "그들은 무관심보다 큰마음을 택하여 재산을 망가뜨리지 않고 내어 주었다."
+        },
+        {
+          "id": "a-73a3c197e97e8bbed325",
+          "source_range": [
+            190,
+            291
+          ],
+          "ko_range": [
+            93,
+            160
+          ],
+          "source_text": "ἵνα καὶ ἑτέρους καὶ ἑαυτοὺς ὠφελήσωσι, τοὺς μὲν ἐν ἀφθόνοις περιουσίαις, ἑαυτοὺς δὲ ἐν τῷ φιλοσοφεῖν;",
+          "ko_text": "다른 사람과 자기 자신 모두에게 유익을 주려는 뜻이었다. 다른 사람은 풍성한 재산을 얻고, 자신은 철학에 전념하게 했다."
+        },
+        {
+          "id": "a-f37c747beee01e0eb801",
+          "source_range": [
+            292,
+            357
+          ],
+          "ko_range": [
+            161,
+            184
+          ],
+          "source_text": "αἱ γὰρ χρημάτων καὶ κτημάτων ἐπιμέλειαι τοὺς χρόνους ἀναλίσκουσι·",
+          "ko_text": "돈과 소유를 돌보는 일은 시간을 소모한다."
+        },
+        {
+          "id": "a-a92a9b828a59cb309216",
+          "source_range": [
+            358,
+            457
+          ],
+          "ko_range": [
+            185,
+            237
+          ],
+          "source_text": "χρόνου δὲ φείδεσθαι καλόν, ἐπειδὴ κατὰ τὸν ἰατρὸν Ἱπποκράτην „ὁ μὲν βίος βραχύς, ἡ δὲ τέχνη μακρή.“",
+          "ko_text": "시간을 아끼는 것은 아름답다. 의사 히포크라테스가 말했듯 “삶은 짧고 기술은 길기” 때문이다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "contempl:16",
+      "html_path": "works/contempl/index.html#p-16",
+      "fixed_html_path": "releases/public-0.33/works/contempl/index.html#p-16",
+      "alignment_revision": "sha256:2c8be8ee992dcf9d75f3ed92e880592693870637db4e0b467d67037ef360022e",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:49532fa178c5a6cba0ee5715d484401a21e19207b6df897d17362782a95ad2d3",
+          "translation_revision": "sha256:7711df83664ff67f7d64f49d6e82ca32046828549f95d8ce101672976df1854f",
+          "alignment_revision": "sha256:2c8be8ee992dcf9d75f3ed92e880592693870637db4e0b467d67037ef360022e"
+        },
+        "scoped_ai_review": {
+          "id": "contempl-addition-20261003",
+          "scope": "관조적 삶에 관하여 1-20절 전체, 21-90절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:49532fa178c5a6cba0ee5715d484401a21e19207b6df897d17362782a95ad2d3",
+            "translation_revision": "sha256:7711df83664ff67f7d64f49d6e82ca32046828549f95d8ce101672976df1854f",
+            "alignment_revision": "sha256:2c8be8ee992dcf9d75f3ed92e880592693870637db4e0b467d67037ef360022e"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg028/tlg0018.tlg028.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "관조적 삶에 관하여",
+        "reference": "16",
+        "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:7711df83664ff67f7d64f49d6e82ca32046828549f95d8ce101672976df1854f",
+        "fixed_path": "releases/public-0.33/works/contempl/index.html#p-16"
+      }
+    },
+    {
+      "ref": "17",
+      "section": 17,
+      "original": "τοῦτό μοι δοκεῖ καὶ Ὅμηρος αἰνίξασθαι ἐν Ἰλιάδι κατὰ τὴν ἀρχὴν τῆς τρισκαιδεκάτης ῥαψῳδίας διὰ τούτων τῶν ἐπῶν· „Μυσῶν τ’ ἀγχεμάχων καὶ ἀγαυῶν Ἱππημολγῶν, γλακτοφάγων ἀβίων τε, δικαιοτάτων ἀνθρώπων,“ ὡς τῆς μὲν περὶ βίον σπουδῆς καὶ χρηματισμὸν ἀδικίαν γεννώσης διὰ τὸ ἄνισον, δικαιοσύνην δὲ τῆς ἐναντίας προαιρέσεως ἕνεκα ἰσότητος, καθ’ ἣν ὁ τῆς φύσεως πλοῦτος ὥρισται καὶ παρευημερεῖ τὸν ἐν ταῖς κεναῖς δόξαις. ὅταν οὖν ἐκστῶσι τῶν οὐσιῶν,",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:8a1d832e40330f14ffb3f1f9f44c62093d3be4707253780e2bc1728ea6e6ed14",
+      "source_file_sha256": "7b2c44539b64dd9283477478f58473c4553bc2392d08d046f870d942795a8cd5",
+      "source_locator": {
+        "filename": "tlg0018.tlg028.1st1K-grc1.xml",
+        "reference": "17"
+      },
+      "encoded_printed_page": "v.6.p.51",
+      "korean": "호메로스도 일리아스 제13가 첫머리에서 다음 시구로 이것을 암시한 듯하다. “근접전의 뮈시아인들과 훌륭한 말젖 짜는 이들, 젖을 먹는 이들과 아비오이, 가장 정의로운 사람들.” 생계와 돈벌이에 몰두하면 불평등 때문에 불의가 생긴다는 것이다. 반대의 삶을 택하면 평등 때문에 정의가 생긴다. 평등에 따라 자연의 부가 정해지며, 그 부는 헛된 생각들이 부라고 여기는 것보다 풍성하다. 그러므로 그들이 재산을 떠나면,",
+      "translation_revision": "sha256:25066a53629feb663c6442d2f4e26bef45bac8f756dd2285b5b271f3d5976a30",
+      "groups": [
+        {
+          "id": "a-f4c5baf9f59640ee3e8a",
+          "source_range": [
+            0,
+            111
+          ],
+          "ko_range": [
+            0,
+            41
+          ],
+          "source_text": "τοῦτό μοι δοκεῖ καὶ Ὅμηρος αἰνίξασθαι ἐν Ἰλιάδι κατὰ τὴν ἀρχὴν τῆς τρισκαιδεκάτης ῥαψῳδίας διὰ τούτων τῶν ἐπῶν·",
+          "ko_text": "호메로스도 일리아스 제13가 첫머리에서 다음 시구로 이것을 암시한 듯하다."
+        },
+        {
+          "id": "a-90b67b28fc01799025f2",
+          "source_range": [
+            112,
+            199
+          ],
+          "ko_range": [
+            42,
+            98
+          ],
+          "source_text": "„Μυσῶν τ’ ἀγχεμάχων καὶ ἀγαυῶν Ἱππημολγῶν, γλακτοφάγων ἀβίων τε, δικαιοτάτων ἀνθρώπων,“",
+          "ko_text": "“근접전의 뮈시아인들과 훌륭한 말젖 짜는 이들, 젖을 먹는 이들과 아비오이, 가장 정의로운 사람들.”"
+        },
+        {
+          "id": "a-8c9f0e3b79b9aacc8022",
+          "source_range": [
+            200,
+            276
+          ],
+          "ko_range": [
+            99,
+            134
+          ],
+          "source_text": "ὡς τῆς μὲν περὶ βίον σπουδῆς καὶ χρηματισμὸν ἀδικίαν γεννώσης διὰ τὸ ἄνισον,",
+          "ko_text": "생계와 돈벌이에 몰두하면 불평등 때문에 불의가 생긴다는 것이다."
+        },
+        {
+          "id": "a-9bf389985b6399865799",
+          "source_range": [
+            277,
+            332
+          ],
+          "ko_range": [
+            135,
+            161
+          ],
+          "source_text": "δικαιοσύνην δὲ τῆς ἐναντίας προαιρέσεως ἕνεκα ἰσότητος,",
+          "ko_text": "반대의 삶을 택하면 평등 때문에 정의가 생긴다."
+        },
+        {
+          "id": "a-acf9f3e6d39539985e54",
+          "source_range": [
+            333,
+            412
+          ],
+          "ko_range": [
+            162,
+            212
+          ],
+          "source_text": "καθ’ ἣν ὁ τῆς φύσεως πλοῦτος ὥρισται καὶ παρευημερεῖ τὸν ἐν ταῖς κεναῖς δόξαις.",
+          "ko_text": "평등에 따라 자연의 부가 정해지며, 그 부는 헛된 생각들이 부라고 여기는 것보다 풍성하다."
+        },
+        {
+          "id": "a-2917f88437df05664e75",
+          "source_range": [
+            413,
+            441
+          ],
+          "ko_range": [
+            213,
+            230
+          ],
+          "source_text": "ὅταν οὖν ἐκστῶσι τῶν οὐσιῶν,",
+          "ko_text": "그러므로 그들이 재산을 떠나면,"
+        }
+      ],
+      "notes": [
+        "필론은 일리아스 제13가의 아비오이라는 이름을 생계와 재산에 매이지 않는 삶의 논증에 사용한다. 17절의 마지막 절은 18절로 이어져 재산을 떠난 뒤의 이주를 설명한다."
+      ],
+      "work_passage_id": "contempl:17",
+      "html_path": "works/contempl/index.html#p-17",
+      "fixed_html_path": "releases/public-0.33/works/contempl/index.html#p-17",
+      "alignment_revision": "sha256:2d75dbbd5fd8ccdc8b92cd6617c1f43fcb34ea79b58c4eb9299723527cc8cc3d",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:8a1d832e40330f14ffb3f1f9f44c62093d3be4707253780e2bc1728ea6e6ed14",
+          "translation_revision": "sha256:25066a53629feb663c6442d2f4e26bef45bac8f756dd2285b5b271f3d5976a30",
+          "alignment_revision": "sha256:2d75dbbd5fd8ccdc8b92cd6617c1f43fcb34ea79b58c4eb9299723527cc8cc3d"
+        },
+        "scoped_ai_review": {
+          "id": "contempl-addition-20261003",
+          "scope": "관조적 삶에 관하여 1-20절 전체, 21-90절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:8a1d832e40330f14ffb3f1f9f44c62093d3be4707253780e2bc1728ea6e6ed14",
+            "translation_revision": "sha256:25066a53629feb663c6442d2f4e26bef45bac8f756dd2285b5b271f3d5976a30",
+            "alignment_revision": "sha256:2d75dbbd5fd8ccdc8b92cd6617c1f43fcb34ea79b58c4eb9299723527cc8cc3d"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg028/tlg0018.tlg028.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "관조적 삶에 관하여",
+        "reference": "17",
+        "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:25066a53629feb663c6442d2f4e26bef45bac8f756dd2285b5b271f3d5976a30",
+        "fixed_path": "releases/public-0.33/works/contempl/index.html#p-17"
+      }
+    },
+    {
+      "ref": "18",
+      "section": 18,
+      "original": "ὑπ’ οὐδενὸς ἔτι δελεαζόμενοι φεύγουσιν ἀμεταστρεπτὶ καταλιπόντες ἀδελφούς, τέκνα, γυναῖκας, γονεῖς, πολυανθρώπους συγγενείας, φιλικὰς ἑταιρείας, τὰς πατρίδας, ἐν αἷς ἐγεννήθησαν καὶ ἐτράφησαν, ἐπειδὴ τὸ σύνηθες ὁλκὸν καὶ δελεάσαι δυνατώτατον.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:84871bad49710a7ed13349502de7b51e24f71f9fb00878fe0a6ddee47bf01cea",
+      "source_file_sha256": "7b2c44539b64dd9283477478f58473c4553bc2392d08d046f870d942795a8cd5",
+      "source_locator": {
+        "filename": "tlg0018.tlg028.1st1K-grc1.xml",
+        "reference": "18"
+      },
+      "encoded_printed_page": "v.6.p.51",
+      "korean": "더는 어떤 것에도 꾐을 받지 않고 돌아보지 않은 채 떠난다. 형제와 자녀와 아내와 부모, 많은 친족, 친한 동료들, 자신이 태어나고 자란 고국을 뒤에 둔다. 익숙한 것은 마음을 끌어당기며 무엇보다 강하게 유혹하기 때문이다.",
+      "translation_revision": "sha256:3a03bad1c9790a06018048729f5ce050bd49de4573a29c1397f6d14e03ad01a9",
+      "groups": [
+        {
+          "id": "a-a241d4aad2d6056064cb",
+          "source_range": [
+            0,
+            51
+          ],
+          "ko_range": [
+            0,
+            33
+          ],
+          "source_text": "ὑπ’ οὐδενὸς ἔτι δελεαζόμενοι φεύγουσιν ἀμεταστρεπτὶ",
+          "ko_text": "더는 어떤 것에도 꾐을 받지 않고 돌아보지 않은 채 떠난다."
+        },
+        {
+          "id": "a-195830fc5b2936bc8f08",
+          "source_range": [
+            52,
+            192
+          ],
+          "ko_range": [
+            34,
+            87
+          ],
+          "source_text": "καταλιπόντες ἀδελφούς, τέκνα, γυναῖκας, γονεῖς, πολυανθρώπους συγγενείας, φιλικὰς ἑταιρείας, τὰς πατρίδας, ἐν αἷς ἐγεννήθησαν καὶ ἐτράφησαν,",
+          "ko_text": "형제와 자녀와 아내와 부모, 많은 친족, 친한 동료들, 자신이 태어나고 자란 고국을 뒤에 둔다."
+        },
+        {
+          "id": "a-ad8f9c2a5140563855a6",
+          "source_range": [
+            193,
+            242
+          ],
+          "ko_range": [
+            88,
+            124
+          ],
+          "source_text": "ἐπειδὴ τὸ σύνηθες ὁλκὸν καὶ δελεάσαι δυνατώτατον.",
+          "ko_text": "익숙한 것은 마음을 끌어당기며 무엇보다 강하게 유혹하기 때문이다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "contempl:18",
+      "html_path": "works/contempl/index.html#p-18",
+      "fixed_html_path": "releases/public-0.33/works/contempl/index.html#p-18",
+      "alignment_revision": "sha256:e51fd4ad67ca4e462f4e2a990dd996922c5413143c1b18cad5d699606fdf0234",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:84871bad49710a7ed13349502de7b51e24f71f9fb00878fe0a6ddee47bf01cea",
+          "translation_revision": "sha256:3a03bad1c9790a06018048729f5ce050bd49de4573a29c1397f6d14e03ad01a9",
+          "alignment_revision": "sha256:e51fd4ad67ca4e462f4e2a990dd996922c5413143c1b18cad5d699606fdf0234"
+        },
+        "scoped_ai_review": {
+          "id": "contempl-addition-20261003",
+          "scope": "관조적 삶에 관하여 1-20절 전체, 21-90절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:84871bad49710a7ed13349502de7b51e24f71f9fb00878fe0a6ddee47bf01cea",
+            "translation_revision": "sha256:3a03bad1c9790a06018048729f5ce050bd49de4573a29c1397f6d14e03ad01a9",
+            "alignment_revision": "sha256:e51fd4ad67ca4e462f4e2a990dd996922c5413143c1b18cad5d699606fdf0234"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg028/tlg0018.tlg028.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "관조적 삶에 관하여",
+        "reference": "18",
+        "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:3a03bad1c9790a06018048729f5ce050bd49de4573a29c1397f6d14e03ad01a9",
+        "fixed_path": "releases/public-0.33/works/contempl/index.html#p-18"
+      }
+    },
+    {
+      "ref": "19",
+      "section": 19,
+      "original": "μετοικίζονται δὲ οὐκ εἰς ἑτέραν πόλιν, ὥσπερ οἱ πρᾶσιν αἰτούμενοι παρὰ τῶν κεκτημένων ἀτυχεῖς ἢ κακόδουλοι δεσποτῶν ὑπαλλαγήν, οὐκ ἐλευθερίαν, αὑτοῖς ἐκπορίζοντες - πᾶσα γὰρ πόλις, καὶ ἡ εὐνομωτάτη, γέμει θορύβων καὶ ταραχῶν ἀμυθήτων, ἃς οὐκ ἂν ὑπομείναι τις ἅπαξ ὑπὸ σοφίας ἀχθείς -,",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:f7ee900011b2aa97c387d9e8e2ef725ff7296e1996ebde827647f7dc831c018d",
+      "source_file_sha256": "7b2c44539b64dd9283477478f58473c4553bc2392d08d046f870d942795a8cd5",
+      "source_locator": {
+        "filename": "tlg0018.tlg028.1st1K-grc1.xml",
+        "reference": "19"
+      },
+      "encoded_printed_page": "v.6.p.51",
+      "korean": "그들은 다른 도시로 옮겨 가지 않는다. 불행하거나 고된 노역에 시달리는 노예가 주인에게 팔아 달라고 청하여 주인을 바꾸는 것과는 다르다. 그런 노예들은 자유를 얻지 못한다. 모든 도시는 가장 법이 잘 지켜지는 도시까지도 셀 수 없는 소란과 혼란으로 가득하다. 한 번 지혜의 인도를 받은 사람은 그런 일을 견딜 수 없을 것이다.",
+      "translation_revision": "sha256:037ceaf3ef970e8f52a3d668086ae37c24996a3514923df33d5c3baf07512b65",
+      "groups": [
+        {
+          "id": "a-b5bedc3fbe0fb6e1c9c1",
+          "source_range": [
+            0,
+            38
+          ],
+          "ko_range": [
+            0,
+            21
+          ],
+          "source_text": "μετοικίζονται δὲ οὐκ εἰς ἑτέραν πόλιν,",
+          "ko_text": "그들은 다른 도시로 옮겨 가지 않는다."
+        },
+        {
+          "id": "a-0374545c56ab51c5067d",
+          "source_range": [
+            39,
+            126
+          ],
+          "ko_range": [
+            22,
+            76
+          ],
+          "source_text": "ὥσπερ οἱ πρᾶσιν αἰτούμενοι παρὰ τῶν κεκτημένων ἀτυχεῖς ἢ κακόδουλοι δεσποτῶν ὑπαλλαγήν,",
+          "ko_text": "불행하거나 고된 노역에 시달리는 노예가 주인에게 팔아 달라고 청하여 주인을 바꾸는 것과는 다르다."
+        },
+        {
+          "id": "a-fa4559bee41350de715c",
+          "source_range": [
+            127,
+            162
+          ],
+          "ko_range": [
+            77,
+            96
+          ],
+          "source_text": "οὐκ ἐλευθερίαν, αὑτοῖς ἐκπορίζοντες",
+          "ko_text": "그런 노예들은 자유를 얻지 못한다."
+        },
+        {
+          "id": "a-8b0608feabc236d4a36c",
+          "source_range": [
+            163,
+            284
+          ],
+          "ko_range": [
+            97,
+            182
+          ],
+          "source_text": "- πᾶσα γὰρ πόλις, καὶ ἡ εὐνομωτάτη, γέμει θορύβων καὶ ταραχῶν ἀμυθήτων, ἃς οὐκ ἂν ὑπομείναι τις ἅπαξ ὑπὸ σοφίας ἀχθείς -,",
+          "ko_text": "모든 도시는 가장 법이 잘 지켜지는 도시까지도 셀 수 없는 소란과 혼란으로 가득하다. 한 번 지혜의 인도를 받은 사람은 그런 일을 견딜 수 없을 것이다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "contempl:19",
+      "html_path": "works/contempl/index.html#p-19",
+      "fixed_html_path": "releases/public-0.33/works/contempl/index.html#p-19",
+      "alignment_revision": "sha256:f7a8cb218f9a4fcb3e8d43340e95a538b57e9d4bd494244ad0b1b11711957b74",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:f7ee900011b2aa97c387d9e8e2ef725ff7296e1996ebde827647f7dc831c018d",
+          "translation_revision": "sha256:037ceaf3ef970e8f52a3d668086ae37c24996a3514923df33d5c3baf07512b65",
+          "alignment_revision": "sha256:f7a8cb218f9a4fcb3e8d43340e95a538b57e9d4bd494244ad0b1b11711957b74"
+        },
+        "scoped_ai_review": {
+          "id": "contempl-addition-20261003",
+          "scope": "관조적 삶에 관하여 1-20절 전체, 21-90절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:f7ee900011b2aa97c387d9e8e2ef725ff7296e1996ebde827647f7dc831c018d",
+            "translation_revision": "sha256:037ceaf3ef970e8f52a3d668086ae37c24996a3514923df33d5c3baf07512b65",
+            "alignment_revision": "sha256:f7a8cb218f9a4fcb3e8d43340e95a538b57e9d4bd494244ad0b1b11711957b74"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg028/tlg0018.tlg028.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "관조적 삶에 관하여",
+        "reference": "19",
+        "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:037ceaf3ef970e8f52a3d668086ae37c24996a3514923df33d5c3baf07512b65",
+        "fixed_path": "releases/public-0.33/works/contempl/index.html#p-19"
+      }
+    },
+    {
+      "ref": "20",
+      "section": 20,
+      "original": "ἀλλὰ τειχῶν ἔξω ποιοῦνται τὰς διατριβὰς ἐν κήποις ἢ μοναγρίαις ἐρημίαν μεταδιώκοντες, οὐ διά τινα ὠμὴν ἐπιτετηδευμένην μισανθρωπίαν, ἀλλὰ τὰς ἐκ τῶν ἀνομοίων τὸ ἦθος ἐπιμιξίας ἀλυσιτελεῖς καὶ βλαβερὰς εἰδότες.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:bf3da76c82a907118ff59e56de1e9d3d25a4b5b13e152e70654557f01673b7bf",
+      "source_file_sha256": "7b2c44539b64dd9283477478f58473c4553bc2392d08d046f870d942795a8cd5",
+      "source_locator": {
+        "filename": "tlg0018.tlg028.1st1K-grc1.xml",
+        "reference": "20"
+      },
+      "encoded_printed_page": "v.6.p.51",
+      "korean": "그들은 성벽 밖의 정원이나 외딴 농장에 거처를 두고, 고요한 곳을 찾는다. 일부러 잔인하게 사람을 미워해서 그러는 것은 아니다. 성품이 다른 사람들과 뒤섞여 지내는 일이 유익하지 않고 해롭다는 것을 알기 때문이다.",
+      "translation_revision": "sha256:af656752ab4d15a4c736a59b8386b5dafa0678277c6c72c12785681536420722",
+      "groups": [
+        {
+          "id": "a-051ed79eacb12c2f3d89",
+          "source_range": [
+            0,
+            62
+          ],
+          "ko_range": [
+            0,
+            29
+          ],
+          "source_text": "ἀλλὰ τειχῶν ἔξω ποιοῦνται τὰς διατριβὰς ἐν κήποις ἢ μοναγρίαις",
+          "ko_text": "그들은 성벽 밖의 정원이나 외딴 농장에 거처를 두고,"
+        },
+        {
+          "id": "a-642e90385340ea600d23",
+          "source_range": [
+            63,
+            85
+          ],
+          "ko_range": [
+            30,
+            41
+          ],
+          "source_text": "ἐρημίαν μεταδιώκοντες,",
+          "ko_text": "고요한 곳을 찾는다."
+        },
+        {
+          "id": "a-382155bbdd9c8284d3bf",
+          "source_range": [
+            86,
+            132
+          ],
+          "ko_range": [
+            42,
+            71
+          ],
+          "source_text": "οὐ διά τινα ὠμὴν ἐπιτετηδευμένην μισανθρωπίαν,",
+          "ko_text": "일부러 잔인하게 사람을 미워해서 그러는 것은 아니다."
+        },
+        {
+          "id": "a-2c74cc421a58685828ec",
+          "source_range": [
+            133,
+            209
+          ],
+          "ko_range": [
+            72,
+            119
+          ],
+          "source_text": "ἀλλὰ τὰς ἐκ τῶν ἀνομοίων τὸ ἦθος ἐπιμιξίας ἀλυσιτελεῖς καὶ βλαβερὰς εἰδότες.",
+          "ko_text": "성품이 다른 사람들과 뒤섞여 지내는 일이 유익하지 않고 해롭다는 것을 알기 때문이다."
+        }
+      ],
+      "notes": [
+        "거처는 성벽 밖의 정원이나 외딴 농장이다. 이 절은 사람을 미워하는 태도보다 성품이 다른 이들과 어울릴 때의 해로움을 거주지 선택의 이유로 설명한다."
+      ],
+      "work_passage_id": "contempl:20",
+      "html_path": "works/contempl/index.html#p-20",
+      "fixed_html_path": "releases/public-0.33/works/contempl/index.html#p-20",
+      "alignment_revision": "sha256:25a9042087757d12c4dee9ff98527cc5d647890f29765000801710cc412dc06f",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:bf3da76c82a907118ff59e56de1e9d3d25a4b5b13e152e70654557f01673b7bf",
+          "translation_revision": "sha256:af656752ab4d15a4c736a59b8386b5dafa0678277c6c72c12785681536420722",
+          "alignment_revision": "sha256:25a9042087757d12c4dee9ff98527cc5d647890f29765000801710cc412dc06f"
+        },
+        "scoped_ai_review": {
+          "id": "contempl-addition-20261003",
+          "scope": "관조적 삶에 관하여 1-20절 전체, 21-90절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:bf3da76c82a907118ff59e56de1e9d3d25a4b5b13e152e70654557f01673b7bf",
+            "translation_revision": "sha256:af656752ab4d15a4c736a59b8386b5dafa0678277c6c72c12785681536420722",
+            "alignment_revision": "sha256:25a9042087757d12c4dee9ff98527cc5d647890f29765000801710cc412dc06f"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg028/tlg0018.tlg028.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "관조적 삶에 관하여",
+        "reference": "20",
+        "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:af656752ab4d15a4c736a59b8386b5dafa0678277c6c72c12785681536420722",
+        "fixed_path": "releases/public-0.33/works/contempl/index.html#p-20"
+      }
+    }
+  ],
+  "related": [],
+  "aliases": [
+    "관조적 삶에 관하여",
+    "Contempl.",
+    "De vita contemplativa"
+  ],
+  "translationLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "sourceCommit": "03776b39f4047c5cff06f5296fae4b2bae4b08fb",
+  "licenseEvidence": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg028/tlg0018.tlg028.1st1K-grc1.xml",
+  "readerUrl": "https://archive.org/download/philonisalexandr0406philuoft/philonisalexandr0406philuoft.pdf",
+  "openAccessFullTextUrl": "https://archive.org/download/philonisalexandr0406philuoft/philonisalexandr0406philuoft.pdf",
+  "original_title": "Περὶ βίου θεωρητικοῦ",
+  "display_title": "관조적 삶에 관하여",
+  "reference_scheme": "section",
+  "coverage_label": "1-20절 수록",
+  "edition_id": "contempl-first1k-03776b39",
+  "source_file_sha256": "7b2c44539b64dd9283477478f58473c4553bc2392d08d046f870d942795a8cd5",
+  "display_author": "필론",
+  "scope": "관조적 삶에 관하여 1-20절 전체, 21-90절 미수록",
+  "coverage": "complete_scope",
+  "release_id": "public-0.33",
+  "source_language": "grc",
+  "source_kind": "edited_ancient_original",
+  "human_reviewed": false,
+  "translation_method": "고정 원어 본문에서 직접 번역",
+  "html_path": "works/contempl/index.html",
+  "json_path": "data/works/contempl.json",
+  "fixed_html_path": "releases/public-0.33/works/contempl/index.html",
+  "source_profile": "contempl-first1k-03776b39",
+  "source_decisions": [
+    {
+      "kind": "source_selection",
+      "verified": "2026-10-03",
+      "scope": "관조적 삶에 관하여 1-20절 전체, 21-90절 미수록",
+      "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg028/tlg0018.tlg028.1st1K-grc1.xml",
+      "license": "CC BY-SA 4.0",
+      "basis": "고정된 공개 원문 전사"
+    },
+    {
+      "ref": "2",
+      "kind": "note",
+      "action": "separated_from_body",
+      "text": "Tit. Φίλωνος ἱκέται ἣ περὶ ἀρετῶν δ’ C, φίλωνος περὶ βίου θεωρητικοῦ ἢ ἱκετῶν ἀρετῶν τὸ δ’ MG, τοῦ αὐτοῦ περὶ βίου θεωρητικοῦ ἢ ἱκετῶν ἀρετῶν τὸ δ΄ F, Φίλωνος ἰουδαίου περὶ βίου θεωρητικοῦ ἢ ἱκετῶν ἀρετῆς τὸ τέταρτον Α, περὶ βίου θεωρητικοῦ ἢ ἱκετῶν ἀρετῶν HP (v), περὶ βίου θεωρητικοῦ Arm"
+    },
+    {
+      "ref": "2",
+      "kind": "note",
+      "action": "separated_from_body",
+      "text": "1 διαλεχθείς] disputaturus Lat 2 τὸ γοῦν φορητότερον εἰπεῖν] ne mediocrius adseram Lat φορητότερον] ἀφορητότερον CHP Αrm (Conyb.), εὐφορητότερον mg C (Turn.) 3 διενεγκόντων Α 4 τῆς] τῆ F 5 ἐν om. Mang."
+    },
+    {
+      "ref": "2",
+      "kind": "note",
+      "action": "separated_from_body",
+      "text": "6 τοῖς om. Arm 8 δὲ ὅμως] δ’ ὁμοίως Α, οὖν F in ras. 11 διὰ] ἀπὸ A θεραπευτρίδαις P, θεραπευτίδες Α"
+    },
+    {
+      "ref": "2",
+      "kind": "note",
+      "action": "separated_from_body",
+      "text": "11 sqq. Euseb. Hist. eccl. II 17, 3 πρῶτόν γέ τοι τὸ μηθὲν πέρα τῆς ἀληθείας οἴκοθεν καὶ ἐξ ἑαυτοῦ προσθήσειν (l. 5), οἷς ἱστορήσειν ἔμελλεν, ἀπισχυρισάμενος (scil. Φίλων) ἐν ᾧ ἐπέγραψεν λόγῳ Περὶ βίου θεωρητικοῦ ἡ ἱκετῶν, θεραπευτὰς αὐτοὺς καὶ τὰς σὺν αὐτοῖς γυναῖκας θεραπευτρίδας ἀποκαλεῖσθαί φησιν, τἀς αἰτίας ἐπειπὼν τῆς τοιάσδε προσρήσεως, ἤτοι παρὰ τὸ τὰς ψυχὰς τῶν προσιόντων αὐτοῖς τῶν ἀπό κακίας παθῶν ἰατρῶν δίκην ἀπαλλάττοντας ἀκεῖσθαι καὶ θεραπεύειν ἡ τῆς περὶ τὸ θεῖον καθαρᾶς καὶ εἰλικρινοῦς θεραπείας τε καὶ θρησκείας ἕνεκα."
+    },
+    {
+      "ref": "6",
+      "kind": "note",
+      "action": "separated_from_body",
+      "text": "1 κρείττονα Α 2 ἐκείνη δὲ] ἡ δέ M 3 τε om. CF (v) ἅς] αἷς C 3. 4 ἐγκατέσκηψαν scripsi (coni. etiam Wendl.): κατέσκηψαν codd. (v) ; cf. quod det. pot. insid. sol. § 178 4 ἡδοναί τε καὶ Mang. καὶ ante λῦπαι om. HP (Turn.) 5 ἀνήνυτον] ἀνηκέστων A 7 τὸ ὂν ὄντως Arm ἐστὶν C 8 οἷς τίνας] οὓς τίνι vel οὗς τίσιν Arm τινάς ΜΑ 9 ἄρα] οὐκ ἄρα CMAP τολμῶντας Α (τιμ ss. man. rec.) 10 ἕτεροι] ἕτερος A μέν τὸ πῦρ transp. 12 διὰ τό ποτὸν εἶναι Arm 13 δήμητρα G πάντων δοκεῖ εἶναι Arm ζώων τε καὶ φυτῶν Arm 14 ἐστιν om. G εὑρέματα Α 15 αὑτῆς Α ὑποβεβλημένα (sed a in ras.) F 16 τοὺς] τὰς F 17 πλανήτας ἀστέρας transp. Α πλάνητας MH1P: πλανήτας ceteri (v) ἢ ante τὸν om. Turn. 18 καὶ post ἀλλὰ om. M γεγόνασιν corr. ex γέγονας F 19 ὑπό] ἀπό M 20 71 τοῦτο Arm: ἢ τοῦτο codd. (Turn.) ; ἦ om. Mang. ἂν om. F 21 δίχα καὶ τοῦ MGHP ἀνεπίληπτον F 22 ἀκρασίας] ἀκοῆς M, διανοίας HP ἀνάπλεων om. in lac. M εὐαγῶς] εὐλόγως Α"
+    },
+    {
+      "ref": "6",
+      "kind": "note",
+      "action": "separated_from_body",
+      "text": "10 sqq. cf. Diod. Sic. I 12. Plut. de Is. et Osir. 32 p. 363 d. Cornut. Theol. c. 3. 4. 19. 28. 16 sq. cf. Diod. I 11. Diog. La. I 10."
+    },
+    {
+      "ref": "10",
+      "kind": "note",
+      "action": "separated_from_body",
+      "text": "1 εἰ corr. in αἳ Η2, οἳ L γυναιξὶν C 2 οἱ ἀμέτοχοι παντὸς πάθους Arm εὑ τρισδαίμονες Α (ευ ss. man. rec.) 3 τοὺς om. CMHP1 Lat post ἀγάλματα add. σέβοντας Α (Mang.) 4 τελέως Α δρυτόμων CA (Mang.) 6 ποδόνιπτα Α ἄλλ’ ἅττα Α 7 ὑπερτερεῖ F ἢ πρὸς τὰς MG 8 ἄλογα ζῷα Arm Lat (Conyb.) ; cf. de decal. § 76 καὶ ante θηρίων om. C 9 παραγειόχασιν C, παραγνώκασιν (ωκ ex οχ corr.) Η ante ἐξ add. καὶ τῶν κατά σελήνην F 10 μὲν om. C κροκώδειλον C1 ἀεροπόρον H 11 ἰκτῆνον F, ἰκτῖνα GA ἴβιν codd. (v) 12 μετὰ περιττωμάτων F, περιττωμάτων μεστὰ HP (v) 13 ἰοβόλα] ἐπίβουλα coni. Mang. μόνω CM 14 τῴ om. F βιαίῳ CA Arm: βιαίως ceteri (Turn.) 15 ἀνήμερα καὶ om. C ἀτίθασσα CMA (v) 16 θερσίτησι C1 Arm: θηρσί τισι ceteri (v), monstris Lat 17 καὶ δοῦλα φύσει Arm, καὶ δοῦλα om. H 19 πλησιάζοντας αὑτοῖς Conybeare ex Arm Lat φλυαρίας om. Α ἀθεράπευτοι M Arm Lat: αὐτοὶ ἀθεράπευτοι FGHP (v), αὐτῆς, ἀθεράπευτοι CA διαλειπέτωσαν F 20. 21 τὴν τοῦ σώματος M (Mang.), τοῦ σώματος P 21 τὴν τῆς ψυχῆς M (Mang.), τῆς ψυχῆς FP τὸ ante ψεῦδος om. v μόνῃ om. M Arm (Conyb.)"
+    },
+    {
+      "ref": "10",
+      "kind": "note",
+      "action": "separated_from_body",
+      "text": "7 sqq. Aristid. Apolog. p. 107 ed. Harris (Texts and Studies I) Αἰγύπτιοι δέ . . . ἔτι καὶ ἄλογα ζῷα παρεισήγαγον θεοὺς εἶναι χερσαῖά τε καὶ ἔνυδρα καὶ τὰ φυτά καὶ βλαστά."
+    },
+    {
+      "ref": "15",
+      "kind": "note",
+      "action": "separated_from_body",
+      "text": "1 τό θεραπευτικὸν δὲ Η προδιδασκόμενον Conybeare (p. 200): προσδιδασκόμενον codd. (v) 2 ἀφιέσθω M αἰσθητὸν] νοητὸν Arm 3 δ’ AH 4 οὔτ’ (bis) FA οὔτε ἐκ] ἢ C παραινέσεως ἢ παρακλήσεως CFGA Lat: παρακλήσεως ἢ παραινέσεων M (Mang.), παραινέσεως ἢ om. HP (Turn.), ἢ παρακλήσεως om. Arm 5 ἀναρπασθέντες Α 6 μέχρι C 7 καὶ μακαρίας om. Arm ἵμερον ex ἥμερον corr. F2 8 ἤδη om. Arm 8. 9 οἱοῖς-ἄλλοις om. Arm 9 προκληρονομούμενοι Arm, praehereditati Lat: προσκληρονομούμενοι codd. (v) ῶν ῶν 10 μὴ] μηδὲ Α 11 τὸν τυφλόν M 12 Ἕλληνες om. M 13 ἱμέρω φιλοσοφίας transp. Α πλησθέντες Α μηλοβότας Α 14 αὐτὸς MA Arm (Mang. Conyb.): αὐτοὺς ceteri Lat γινομένους Α κρείττους C (v) 15 βελτίονες] κρείττονες HP 16 ἀνθρώπων] ἀνθρωπίνας M 17 μὴ] μὴ μόνον HP (v) 18 ἡ ἑλλὰς οὓς transp. Α ἡ om. F 19 νηφάλιόν τε καὶ M μετὰ om. M περιττῆς] περὶ(??) ἧς C, περὶ ἧς G, γρ. περὶ ἧς P, περιττῆς. περὶ ἧς M"
+    },
+    {
+      "ref": "15",
+      "kind": "note",
+      "action": "separated_from_body",
+      "text": "8 Euseb. Hist. eccl. II 17, 5 ὅμως δ’ οὖν ἐν πρώτοις τὴν ἀπόταξιν αὐτοῖς τῆς οὐσίας μαρτυρεῖ, φάσκων ἀρχομένους φιλοσοφεῖν ἐξίστασθαι τοῖς προσήκουσι τῶν ὑπαρχόντων. 12 cf. Philo de provid. II § 12. 13. Plat. Hipp. mai. 283a. Plut. Pericl. 16. de vitando aere alieno 8 p. 831 f. Cic. Tusc. V 114. Diog. La. II 6. Suid. Ἀναξαγόρας. de Democrito: Cic. de fin. V 87. Hor. Epist. I 12. 12. Lactant. Inst. div. III 23. Orig. c. Cels. II 84."
+    },
+    {
+      "ref": "17",
+      "kind": "note",
+      "action": "separated_from_body",
+      "text": "1 τί πλέον om. M δρῶσιν] ποιοῦσιν Α ἢ κείρουσι om. in lac. M κείρουσι] καίουσι A 2 ἐνδῶσιν C 3 ἑαυτοῖς F 4 μὴ om. F προίεσθαι Α 5 δὴ] δ’ ἂν A οὗτοι κρείττους transp. A 6 ταῖς] τοῖς Η φιλοσοφίαν] φαντασίαν CG mg F, φιλοσοφίαν mg C2 ὁρμαῖς] ὁρῶσι H 8 τοὺς Arm Lat (Conyb.): καὶ τοὺς codd. (v) 9 ἐν τῷ om. C 10 ἐπιμέλειαι] ἐπιθυμίαι Max. χρόνους] χρωμένους ΗΡ1 Arm (Conyb.) 11 ἰατρὸν om. Arm 12 αἰνίξεσθαι HP, αἰνίττεσθαι Α 13 κατ’ ἀρχὴν F ιγ΄ M διά] καὶ Η 15 τὲ M, τ’ om F ἀγαυῶν] ἀγανῶν C, ἀγαθῶν HP 16 γαλακτοφάγων MAHP, γλαγοφάγων G τ’ ἀβίων τε C ante δικαιοτάτων add. καὶ MH τ’ ἀνθρώπων F 17 περὶ om. F1, ss. F2 περὶ τὸν βίον Α καὶ ἀδικίαν Α, καὶ ss. Ρ2 διὰ] καὶ Α 18 δικαιοσύνης F ante τῆς add. διά MFHP, spat. 2 litt. G 19 τῆς om. F ὥριστο Α τὸν] τῶν MFH1P"
+    },
+    {
+      "ref": "17",
+      "kind": "note",
+      "action": "separated_from_body",
+      "text": "9-11 DK fol, 240r Φίλωνος ἐκ τοῦ περὶ βίου θεωρητικοῦ Maxim. Ecl. cap. 12 Flor. nr. 20 Φίλωνος: αἱ (ἐκ add. Max.) χρημάτων καὶ κτημάτων ἐπιμέλειαι (ἐπιθυμίαι Flor. Paris.) τοὺς χρόνους ἀναλίσκουσι· χρόνου δὲ φείδεσθαι καλόν. DR fol. 193r DV p. 563 Φίλωνος: χρόνου φείδεσθαι καλόν DM foL 215v Φίλωνος: χρόνον φοβεῖσθαι καλόν."
+    },
+    {
+      "ref": "17",
+      "kind": "note",
+      "action": "separated_from_body",
+      "text": "10-12 Clem. Alex. Strom. V 4, 22 p. 658 P. . . . οἷον ἀμέλει τὸ „χρόνου ἤτοι ἐπεὶ 6 βίος βραχὺς καὶ οὐ δεῖ τὸν χρόνον τοῦτον εἰς μάτην καταναλῶσαι. 11 Hippocr. Aphor. I 1. 15 Hom. II. N 5. 6."
+    }
+  ],
+  "source_collations": [],
+  "validation_records": [
+    {
+      "id": "contempl-addition-20261003",
+      "scope": "관조적 삶에 관하여 1-20절 전체, 21-90절 미수록",
+      "date": "2026-10-03",
+      "reviewer_type": "AI",
+      "human_reviewed": false,
+      "reading_record_count": 20,
+      "meaning_groups": 94,
+      "methods": [
+        "선정 범위의 공개 그리스어 본문을 읽고 한국어와 의미 대응을 작성했다.",
+        "인칭, 인물, 수치와 화자, 절 경계의 문장 연결을 대조했다."
+      ],
+      "sources": [
+        {
+          "work": "contempl",
+          "url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg028/tlg0018.tlg028.1st1K-grc1.xml",
+          "verified": "2026-10-03",
+          "status": 200,
+          "full_text": true,
+          "bytes": 138561,
+          "sha256": "7b2c44539b64dd9283477478f58473c4553bc2392d08d046f870d942795a8cd5",
+          "license": "CC BY-SA 4.0",
+          "license_evidence": "TEI publicationStmt availability licence",
+          "commit": "03776b39f4047c5cff06f5296fae4b2bae4b08fb",
+          "open_access_full_text_url": "https://archive.org/download/philonisalexandr0406philuoft/philonisalexandr0406philuoft.pdf",
+          "full_pdf_access_status": 206,
+          "pdf_bytes": 74783523,
+          "pdf_access_evidence": "Unauthenticated range GET0-1023; application/pdf; total74783523; prefix matches previously downloaded full PDF; University of Toronto scan",
+          "printed_source_license": "출판연도1902,1906,1915의 공개 인쇄본; 전자 전사는CC BY-SA4.0",
+          "pdf_pages_read": [
+            890
+          ],
+          "pdf_title_pages_read": [
+            7,
+            353,
+            761
+          ],
+          "printed_volume": 6
+        }
+      ],
+      "passages": [
+        {
+          "ref": "1",
+          "targets": {
+            "source_revision": "sha256:6658ba514cb6086c69454c5225f4dfe16570eb36d629d5f871ad40313288bc44",
+            "translation_revision": "sha256:cc9d67c7db66b020e4f5c906d0688fd511369a56eebed808f7ad951cb199b0a5",
+            "alignment_revision": "sha256:d87a2d8d00e9bd09693eb9e8ab594270935c7ffca82feb6d3d347396ba2187d9"
+          }
+        },
+        {
+          "ref": "2",
+          "targets": {
+            "source_revision": "sha256:0ed8149116fd3df9c88cf2a00d045b9cda69c78aca8fcfc6233f4ca835b623cf",
+            "translation_revision": "sha256:40ec592e858d4138e24c33503f6b401b9bc98599e4a2b332f7054ea82dd1d6c6",
+            "alignment_revision": "sha256:62b19afa92763c55ceedd90ff50aee3cf8b5e60a4ea494dac8a3a9d9ce1bad6a"
+          }
+        },
+        {
+          "ref": "3",
+          "targets": {
+            "source_revision": "sha256:1d40d78a2e1f024838f827be5ca6433696bfb500b268d35b2c4816d1fd2e5797",
+            "translation_revision": "sha256:a492a4d75de6e1b3f959f440a1ba37d7c66b8e82b9d3a2ffc4b9fdfe61047721",
+            "alignment_revision": "sha256:69ab613a9199823cf8d5b0b8559dacfeb91fa25add92fba11b9e2a33b8f6da0f"
+          }
+        },
+        {
+          "ref": "4",
+          "targets": {
+            "source_revision": "sha256:5231b32a5ede41997e887de55c72e78842efe6aece606abeac9ffbde98f91c0b",
+            "translation_revision": "sha256:f8e759bec2c0a1528984251fa1fa5941eebf8281fd202cb9ba8ac623436e613b",
+            "alignment_revision": "sha256:cd0c5adc202ca69569b11f504ef5234b15e30a10cf37698a608bf7a9fcef18be"
+          }
+        },
+        {
+          "ref": "5",
+          "targets": {
+            "source_revision": "sha256:67ab21ec2492b87f6a210bd9ae0eab19d77e35c418ce9f48435f17f5a3b12a2d",
+            "translation_revision": "sha256:118ec4a797db5878adf128a63656ce8f6b42678889cfcb0a12e670f3aca96562",
+            "alignment_revision": "sha256:43e07c58b33954f7cfc2b1e747b15d6851e1adc2bed37f9b96e300e74a89eb98"
+          }
+        },
+        {
+          "ref": "6",
+          "targets": {
+            "source_revision": "sha256:488ded6b84b03b78ede731a32360c8ab21574297d97296a9b31fb12ddce15851",
+            "translation_revision": "sha256:46cf83f45ced755a05a57c5617d4b62f6d796f3b45e82485a82a4be8ebde0e14",
+            "alignment_revision": "sha256:f6f1ff44c25f37b3fdf1a5f36b957d314f1b2610ae0a5b4d96ba85cb69db1ebb"
+          }
+        },
+        {
+          "ref": "7",
+          "targets": {
+            "source_revision": "sha256:60bf87900a58980380758a646047d0a7ad77b68c4e3ed1bc3fba853b81f05977",
+            "translation_revision": "sha256:21d06536a15cdb81a7e0a6b4b1e6ed8e1859e98f7e0680f2b7c586ae582b42ee",
+            "alignment_revision": "sha256:a4d73b7254ea463588a1e4a2836076189ce2f4c2aaae001380497a0c2309e21e"
+          }
+        },
+        {
+          "ref": "8",
+          "targets": {
+            "source_revision": "sha256:e02593f01218d4ef113ad56d6aff94eacc8e8b3a6a669d8775e99dec1633d16b",
+            "translation_revision": "sha256:37aef37beac59a71b22d4e04230af34b12a99b7436c4ae746b1045a813a14058",
+            "alignment_revision": "sha256:75f1dce4c6bdd05215e6e64cf16b0e238a2d8bddd8cb253fd6e33c833c9298fa"
+          }
+        },
+        {
+          "ref": "9",
+          "targets": {
+            "source_revision": "sha256:5e87d59bb4cb8e9f5f6eb7943587d3f50defdad2381559895224780afa9c9aa0",
+            "translation_revision": "sha256:11c075f0add385945ab744b17138d6190f986bfb96c0513ac8d82dcc4a65e6dd",
+            "alignment_revision": "sha256:9872c316ade1254bc099ffed7f51cc3ea678dbe65fc20a2466aed4165b02f011"
+          }
+        },
+        {
+          "ref": "10",
+          "targets": {
+            "source_revision": "sha256:f32f3ded8fa24081420b3d989b063fc7d86c767d79bfc505ca3b70628919edcc",
+            "translation_revision": "sha256:19ef172277551aa770c7567ed6271c46660da72619a87b178eb46f1b7412162c",
+            "alignment_revision": "sha256:e563c25f9d742f2df7943e6ca7e151f58c6d35dced7d297c673e4de31a556464"
+          }
+        },
+        {
+          "ref": "11",
+          "targets": {
+            "source_revision": "sha256:8d7e70148d8ad71e3478f2e172e58b98601a8ce83d7853eb9e4285713a8acd4d",
+            "translation_revision": "sha256:f92533e27a353bda37b97f540f5993a39540452edd2f52d5b877c28c9c90ef0b",
+            "alignment_revision": "sha256:964873b9890555b521a4379b07870e54991947c94266e352e7c5ffd36b5e8d17"
+          }
+        },
+        {
+          "ref": "12",
+          "targets": {
+            "source_revision": "sha256:69ed742e0e8afa1d011bb678e8abd09b62134c14b5a8501fb133deb79a61f5ff",
+            "translation_revision": "sha256:a9cac56a61fe2db63f1c925eec087974da404d456c9be15cb3eaaaab29eaa2cb",
+            "alignment_revision": "sha256:19b2ca721fc2e565910a5760cbeafe26c9010196990537468dfbd8e4fd73d2e7"
+          }
+        },
+        {
+          "ref": "13",
+          "targets": {
+            "source_revision": "sha256:eeaa214c44660937a24e29e5da112b4d7c31a876b81c51f1c2418604a5136cb1",
+            "translation_revision": "sha256:d0efe983a23d6c05a33985101c6cd1769485ff00fc93908bb6b2c935384fd34f",
+            "alignment_revision": "sha256:08ea9497889d9a0484b71f20c68c3c3c128ce416e257b4eca21f940ece6b9a75"
+          }
+        },
+        {
+          "ref": "14",
+          "targets": {
+            "source_revision": "sha256:70c6c3dfd2db3f99b41bcc0536c52972069839a23dc7b5ff6298729e1e6ef4c2",
+            "translation_revision": "sha256:e2ca9f1ddd4191c827e0c219179d77b9bd4192e7fd0ef37e1357431d06d4c8b3",
+            "alignment_revision": "sha256:b555fce07b225e1ae3bec9c49b41e471246777d6cc9c5b008d0a888320be454e"
+          }
+        },
+        {
+          "ref": "15",
+          "targets": {
+            "source_revision": "sha256:d94fd676fb9e0c894720257cbdbc887b1b182bc18a75a41f485073bf4b8d2cb9",
+            "translation_revision": "sha256:5e50b239431f5a48fd0b7559269abca9fd784c852d09f18bba30baf1e266a47b",
+            "alignment_revision": "sha256:04a00afb5238856febb98919109ff5c95a238c28367836b906c5a9ec5d8058ad"
+          }
+        },
+        {
+          "ref": "16",
+          "targets": {
+            "source_revision": "sha256:49532fa178c5a6cba0ee5715d484401a21e19207b6df897d17362782a95ad2d3",
+            "translation_revision": "sha256:7711df83664ff67f7d64f49d6e82ca32046828549f95d8ce101672976df1854f",
+            "alignment_revision": "sha256:2c8be8ee992dcf9d75f3ed92e880592693870637db4e0b467d67037ef360022e"
+          }
+        },
+        {
+          "ref": "17",
+          "targets": {
+            "source_revision": "sha256:8a1d832e40330f14ffb3f1f9f44c62093d3be4707253780e2bc1728ea6e6ed14",
+            "translation_revision": "sha256:25066a53629feb663c6442d2f4e26bef45bac8f756dd2285b5b271f3d5976a30",
+            "alignment_revision": "sha256:2d75dbbd5fd8ccdc8b92cd6617c1f43fcb34ea79b58c4eb9299723527cc8cc3d"
+          }
+        },
+        {
+          "ref": "18",
+          "targets": {
+            "source_revision": "sha256:84871bad49710a7ed13349502de7b51e24f71f9fb00878fe0a6ddee47bf01cea",
+            "translation_revision": "sha256:3a03bad1c9790a06018048729f5ce050bd49de4573a29c1397f6d14e03ad01a9",
+            "alignment_revision": "sha256:e51fd4ad67ca4e462f4e2a990dd996922c5413143c1b18cad5d699606fdf0234"
+          }
+        },
+        {
+          "ref": "19",
+          "targets": {
+            "source_revision": "sha256:f7ee900011b2aa97c387d9e8e2ef725ff7296e1996ebde827647f7dc831c018d",
+            "translation_revision": "sha256:037ceaf3ef970e8f52a3d668086ae37c24996a3514923df33d5c3baf07512b65",
+            "alignment_revision": "sha256:f7a8cb218f9a4fcb3e8d43340e95a538b57e9d4bd494244ad0b1b11711957b74"
+          }
+        },
+        {
+          "ref": "20",
+          "targets": {
+            "source_revision": "sha256:bf3da76c82a907118ff59e56de1e9d3d25a4b5b13e152e70654557f01673b7bf",
+            "translation_revision": "sha256:af656752ab4d15a4c736a59b8386b5dafa0678277c6c72c12785681536420722",
+            "alignment_revision": "sha256:25a9042087757d12c4dee9ff98527cc5d647890f29765000801710cc412dc06f"
+          }
+        }
+      ]
+    }
+  ],
+  "publication_status": "public_review_edition"
+}

@@ -1,0 +1,3871 @@
+{
+  "id": "song3",
+  "title": "세 젊은이의 찬가",
+  "author": "익명",
+  "abbreviation": "Song3",
+  "corpus": "jewish",
+  "language": "grc",
+  "genre": "찬가",
+  "period": "고대",
+  "region": "유대문헌 전승",
+  "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄.",
+  "summary": "하늘과 땅의 모든 피조물, 이스라엘과 세 젊은이에게 주님을 찬양하도록 권하는 찬가를 읽습니다.",
+  "topics": [
+    "찬양",
+    "창조",
+    "세 젊은이"
+  ],
+  "notes": [],
+  "sourceUrl": "https://github.com/eliranwong/LXX-Swete-1930/blob/1d3efc3c63bd384a4f3f07ed37eef54b0d45ac33/01-Swete_word_with_punctuations.csv",
+  "license": "GPL-3.0",
+  "licenseUrl": "https://www.gnu.org/licenses/gpl-3.0.html",
+  "sourceCredit": "그리스어 전사: Pasquale Amicarelli. 데이터 제공: Eliran Wong, LXX-Swete-1930. 원판 편집: Henry Barclay Swete.",
+  "verified": "2026-10-03",
+  "translationCredit": "Codex 작성, 원어 직접 번역 초안",
+  "reviewer": "학술 검토 전",
+  "translationLicense": "GPL-3.0",
+  "rightsNotice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 GPL-3.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요.",
+  "passages": [
+    {
+      "ref": "10.52",
+      "chapter": 10,
+      "verse": 52,
+      "original": "Ὕμνος τῶν πατέρων ἡμῶν. Εὐλογητὸς εἶ, Κύριε ὁ θεὸς τῶν πατέρων ἡμῶν, καὶ αἰνετὸς καὶ ὑπερυψούμενος εἰς τοὺς αἰῶνας· καὶ εὐλογητὸν τὸ ὄνομα τῆς δόξης σου τὸ ἅγιόν σου, καὶ ὑπεραινετὸν καὶ ὑπερυψούμενον εἰς τοὺς αἰῶνας.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:c8930de18f471ca1669fb2d4af6c51cfb7afe6f00eee66abfc9a7895fab8114f",
+      "source_file_sha256": "5cdeb6c993ff2883485b5c2006340bfd711a5d67b84f59aafac4e1caa4f6fbf4",
+      "reference_file_sha256": "39f71aabe259e3878a6d98df02f56eca8d62b1712491601f3812c81c9a1d3c6b",
+      "source_locator": {
+        "word_start": 608309,
+        "word_end_exclusive": 608346,
+        "reference_label": "Ode.10:52"
+      },
+      "base_original": "⸂⸆⸃ Ὕμνος τῶν πατέρων ἡμῶν. Εὐλογητὸς εἶ, Κύριε ὁ θεὸς τῶν πατέρων ἡμῶν, καὶ αἰνετὸς καὶ ὑπερυψούμενος εἰς τοὺς αἰῶνας· καὶ εὐλογητὸν τὸ ὄνομα τῆς δόξης σου τὸ ἅγιόν σου, καὶ ὑπεραινετὸν καὶ ὑπερυψούμενον εἰς τοὺς αἰῶνας.",
+      "source_collation": {
+        "selection_kind": "printed_body_transcription_correction",
+        "replacements": [
+          [
+            "⸂⸆⸃ ",
+            ""
+          ]
+        ],
+        "edition": "Swete 1930, vol. 3, 828쪽",
+        "printed_page": 828,
+        "pdf_page": 852,
+        "url": "https://archive.org/download/oldtestgreek00unknuoft/oldtestgreek00unknuoft.pdf",
+        "verified": "2026-10-03",
+        "reason": "인쇄면의 교감 및 단락 표식을 전자 전사가 본문에 넣은 위치에서 분리했다.",
+        "is_swete_body_reading": true
+      },
+      "ode": 10,
+      "korean": "우리 조상들의 찬가. 주님, 우리 조상들의 하나님, 당신은 찬송받으실 분이며 영원히 찬양과 높임을 받으십니다. 당신의 영광스러운 이름, 거룩한 이름은 찬송받으며, 영원히 지극한 찬양과 높임을 받습니다.",
+      "translation_revision": "sha256:d02991879d5e1d10cfdd633bce2a244ae4e50ceb4a74d582f0bf88b16eec666f",
+      "groups": [
+        {
+          "id": "a-3d7c192c97d6b0fa6440",
+          "source_range": [
+            0,
+            23
+          ],
+          "ko_range": [
+            0,
+            11
+          ],
+          "source_text": "Ὕμνος τῶν πατέρων ἡμῶν.",
+          "ko_text": "우리 조상들의 찬가."
+        },
+        {
+          "id": "a-d331e098e5c7e12fdfd8",
+          "source_range": [
+            24,
+            115
+          ],
+          "ko_range": [
+            12,
+            61
+          ],
+          "source_text": "Εὐλογητὸς εἶ, Κύριε ὁ θεὸς τῶν πατέρων ἡμῶν, καὶ αἰνετὸς καὶ ὑπερυψούμενος εἰς τοὺς αἰῶνας·",
+          "ko_text": "주님, 우리 조상들의 하나님, 당신은 찬송받으실 분이며 영원히 찬양과 높임을 받으십니다."
+        },
+        {
+          "id": "a-f7b01cc95625dbaddd5c",
+          "source_range": [
+            116,
+            166
+          ],
+          "ko_range": [
+            62,
+            90
+          ],
+          "source_text": "καὶ εὐλογητὸν τὸ ὄνομα τῆς δόξης σου τὸ ἅγιόν σου,",
+          "ko_text": "당신의 영광스러운 이름, 거룩한 이름은 찬송받으며,"
+        },
+        {
+          "id": "a-0f33a5b05e2c21a5004f",
+          "source_range": [
+            167,
+            217
+          ],
+          "ko_range": [
+            91,
+            112
+          ],
+          "source_text": "καὶ ὑπεραινετὸν καὶ ὑπερυψούμενον εἰς τοὺς αἰῶνας.",
+          "ko_text": "영원히 지극한 찬양과 높임을 받습니다."
+        }
+      ],
+      "notes": [
+        "Swete 제3권 828-830쪽의 제10송가는 우리 조상들의 찬가라는 표제를 둔다. 수록 범위는 52-88절이다. 다니엘의 전후 서사와 다른 판본의 더 긴 종결부는 이 송가의 채택 본문에 없다."
+      ],
+      "work_passage_id": "song3:10.52",
+      "html_path": "works/song3/index.html#p-10-52",
+      "fixed_html_path": "releases/public-0.33/works/song3/index.html#p-10-52",
+      "alignment_revision": "sha256:447f82f20fbfcd7d3a00e7a0b86d3a5ef2ee48046727f5c68523080f4b3c1d83",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_word_table_with_printed_collation",
+        "targets": {
+          "source_revision": "sha256:c8930de18f471ca1669fb2d4af6c51cfb7afe6f00eee66abfc9a7895fab8114f",
+          "translation_revision": "sha256:d02991879d5e1d10cfdd633bce2a244ae4e50ceb4a74d582f0bf88b16eec666f",
+          "alignment_revision": "sha256:447f82f20fbfcd7d3a00e7a0b86d3a5ef2ee48046727f5c68523080f4b3c1d83"
+        },
+        "scoped_ai_review": {
+          "id": "song3-addition-20261003",
+          "scope": "세 젊은이의 찬가 10.52-10.88 37절 전체 (Swete 송가집 번호)",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:c8930de18f471ca1669fb2d4af6c51cfb7afe6f00eee66abfc9a7895fab8114f",
+            "translation_revision": "sha256:d02991879d5e1d10cfdd633bce2a244ae4e50ceb4a74d582f0bf88b16eec666f",
+            "alignment_revision": "sha256:447f82f20fbfcd7d3a00e7a0b86d3a5ef2ee48046727f5c68523080f4b3c1d83"
+          }
+        }
+      },
+      "rights": {
+        "source": "GPL-3.0",
+        "source_url": "https://github.com/eliranwong/LXX-Swete-1930/blob/1d3efc3c63bd384a4f3f07ed37eef54b0d45ac33/01-Swete_word_with_punctuations.csv",
+        "license_url": "https://www.gnu.org/licenses/gpl-3.0.html",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "GPL-3.0",
+        "alignment_license": "GPL-3.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 GPL-3.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "익명",
+        "work": "세 젊은이의 찬가",
+        "reference": "10.52",
+        "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:d02991879d5e1d10cfdd633bce2a244ae4e50ceb4a74d582f0bf88b16eec666f",
+        "fixed_path": "releases/public-0.33/works/song3/index.html#p-10-52",
+        "collation_edition": "Swete 1930, vol. 3, 828쪽"
+      }
+    },
+    {
+      "ref": "10.53",
+      "chapter": 10,
+      "verse": 53,
+      "original": "εὐλογημένος εἶ ἐν τῷ ναῷ τῆς ἁγίας δόξης σου, καὶ ὑπερυμνητὸς καὶ ὑπερένδοξος εἰς τοὺς αἰῶνας.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:521dd81c2878d75aa0135c42afb79a1ea8b51f1cbc97f4adc00eb79d29d3cbe3",
+      "source_file_sha256": "5cdeb6c993ff2883485b5c2006340bfd711a5d67b84f59aafac4e1caa4f6fbf4",
+      "reference_file_sha256": "39f71aabe259e3878a6d98df02f56eca8d62b1712491601f3812c81c9a1d3c6b",
+      "source_locator": {
+        "word_start": 608346,
+        "word_end_exclusive": 608362,
+        "reference_label": "Ode.10:53"
+      },
+      "ode": 10,
+      "korean": "당신은 거룩한 영광의 성전에서 찬송받으실 분입니다. 영원히 지극한 찬양과 영광을 받으십니다.",
+      "translation_revision": "sha256:c56ff582f4c6e2930b69bf548a4be4d575bf5e1c5c5b8134b9aa37d6fc4e0176",
+      "groups": [
+        {
+          "id": "a-0a2ecf21634e2fb78799",
+          "source_range": [
+            0,
+            45
+          ],
+          "ko_range": [
+            0,
+            28
+          ],
+          "source_text": "εὐλογημένος εἶ ἐν τῷ ναῷ τῆς ἁγίας δόξης σου,",
+          "ko_text": "당신은 거룩한 영광의 성전에서 찬송받으실 분입니다."
+        },
+        {
+          "id": "a-6e032d280555aa35d12a",
+          "source_range": [
+            46,
+            94
+          ],
+          "ko_range": [
+            29,
+            51
+          ],
+          "source_text": "καὶ ὑπερυμνητὸς καὶ ὑπερένδοξος εἰς τοὺς αἰῶνας.",
+          "ko_text": "영원히 지극한 찬양과 영광을 받으십니다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "song3:10.53",
+      "html_path": "works/song3/index.html#p-10-53",
+      "fixed_html_path": "releases/public-0.33/works/song3/index.html#p-10-53",
+      "alignment_revision": "sha256:6345d0d8bc26e6d2dc2bb57f026b4ae67b782c1c2261763e63c84793a23d3fb3",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_word_table_extraction",
+        "targets": {
+          "source_revision": "sha256:521dd81c2878d75aa0135c42afb79a1ea8b51f1cbc97f4adc00eb79d29d3cbe3",
+          "translation_revision": "sha256:c56ff582f4c6e2930b69bf548a4be4d575bf5e1c5c5b8134b9aa37d6fc4e0176",
+          "alignment_revision": "sha256:6345d0d8bc26e6d2dc2bb57f026b4ae67b782c1c2261763e63c84793a23d3fb3"
+        },
+        "scoped_ai_review": {
+          "id": "song3-addition-20261003",
+          "scope": "세 젊은이의 찬가 10.52-10.88 37절 전체 (Swete 송가집 번호)",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:521dd81c2878d75aa0135c42afb79a1ea8b51f1cbc97f4adc00eb79d29d3cbe3",
+            "translation_revision": "sha256:c56ff582f4c6e2930b69bf548a4be4d575bf5e1c5c5b8134b9aa37d6fc4e0176",
+            "alignment_revision": "sha256:6345d0d8bc26e6d2dc2bb57f026b4ae67b782c1c2261763e63c84793a23d3fb3"
+          }
+        }
+      },
+      "rights": {
+        "source": "GPL-3.0",
+        "source_url": "https://github.com/eliranwong/LXX-Swete-1930/blob/1d3efc3c63bd384a4f3f07ed37eef54b0d45ac33/01-Swete_word_with_punctuations.csv",
+        "license_url": "https://www.gnu.org/licenses/gpl-3.0.html",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "GPL-3.0",
+        "alignment_license": "GPL-3.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 GPL-3.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "익명",
+        "work": "세 젊은이의 찬가",
+        "reference": "10.53",
+        "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:c56ff582f4c6e2930b69bf548a4be4d575bf5e1c5c5b8134b9aa37d6fc4e0176",
+        "fixed_path": "releases/public-0.33/works/song3/index.html#p-10-53"
+      }
+    },
+    {
+      "ref": "10.54",
+      "chapter": 10,
+      "verse": 54,
+      "original": "εὐλογημένος εἶ ὁ βλέπων ἀβύσσους, καθήμενος ἐπὶ τῶν χερουβείν, καὶ ὑπερυμνητὸς καὶ ὑπερυψούμενος εἰς τοὺς αἰῶνας.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:fd5f621e4b086dc54cf666dae2063e32ae7799b0221d6eb328ef1a885b5630b1",
+      "source_file_sha256": "5cdeb6c993ff2883485b5c2006340bfd711a5d67b84f59aafac4e1caa4f6fbf4",
+      "reference_file_sha256": "39f71aabe259e3878a6d98df02f56eca8d62b1712491601f3812c81c9a1d3c6b",
+      "source_locator": {
+        "word_start": 608362,
+        "word_end_exclusive": 608378,
+        "reference_label": "Ode.10:54"
+      },
+      "ode": 10,
+      "korean": "당신은 깊은 바다를 보시며 케루빔 위에 앉으신 분으로서 찬송받으실 분입니다. 영원히 지극한 찬양과 높임을 받으십니다.",
+      "translation_revision": "sha256:f54cefe17e860557e9e8355ba9c6dd06681c551f6fcb2cdf9b62bfbce1bf7873",
+      "groups": [
+        {
+          "id": "a-b5d377fc8eb4965f8b6b",
+          "source_range": [
+            0,
+            62
+          ],
+          "ko_range": [
+            0,
+            42
+          ],
+          "source_text": "εὐλογημένος εἶ ὁ βλέπων ἀβύσσους, καθήμενος ἐπὶ τῶν χερουβείν,",
+          "ko_text": "당신은 깊은 바다를 보시며 케루빔 위에 앉으신 분으로서 찬송받으실 분입니다."
+        },
+        {
+          "id": "a-8c20762dcfc4c1068f1c",
+          "source_range": [
+            63,
+            113
+          ],
+          "ko_range": [
+            43,
+            65
+          ],
+          "source_text": "καὶ ὑπερυμνητὸς καὶ ὑπερυψούμενος εἰς τοὺς αἰῶνας.",
+          "ko_text": "영원히 지극한 찬양과 높임을 받으십니다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "song3:10.54",
+      "html_path": "works/song3/index.html#p-10-54",
+      "fixed_html_path": "releases/public-0.33/works/song3/index.html#p-10-54",
+      "alignment_revision": "sha256:a461a6e95b68b48f6c19544fde636d8e14c2a2d42e68cae4151d9e2709a40517",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_word_table_extraction",
+        "targets": {
+          "source_revision": "sha256:fd5f621e4b086dc54cf666dae2063e32ae7799b0221d6eb328ef1a885b5630b1",
+          "translation_revision": "sha256:f54cefe17e860557e9e8355ba9c6dd06681c551f6fcb2cdf9b62bfbce1bf7873",
+          "alignment_revision": "sha256:a461a6e95b68b48f6c19544fde636d8e14c2a2d42e68cae4151d9e2709a40517"
+        },
+        "scoped_ai_review": {
+          "id": "song3-addition-20261003",
+          "scope": "세 젊은이의 찬가 10.52-10.88 37절 전체 (Swete 송가집 번호)",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:fd5f621e4b086dc54cf666dae2063e32ae7799b0221d6eb328ef1a885b5630b1",
+            "translation_revision": "sha256:f54cefe17e860557e9e8355ba9c6dd06681c551f6fcb2cdf9b62bfbce1bf7873",
+            "alignment_revision": "sha256:a461a6e95b68b48f6c19544fde636d8e14c2a2d42e68cae4151d9e2709a40517"
+          }
+        }
+      },
+      "rights": {
+        "source": "GPL-3.0",
+        "source_url": "https://github.com/eliranwong/LXX-Swete-1930/blob/1d3efc3c63bd384a4f3f07ed37eef54b0d45ac33/01-Swete_word_with_punctuations.csv",
+        "license_url": "https://www.gnu.org/licenses/gpl-3.0.html",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "GPL-3.0",
+        "alignment_license": "GPL-3.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 GPL-3.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "익명",
+        "work": "세 젊은이의 찬가",
+        "reference": "10.54",
+        "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:f54cefe17e860557e9e8355ba9c6dd06681c551f6fcb2cdf9b62bfbce1bf7873",
+        "fixed_path": "releases/public-0.33/works/song3/index.html#p-10-54"
+      }
+    },
+    {
+      "ref": "10.55",
+      "chapter": 10,
+      "verse": 55,
+      "original": "εὐλογημένος εἶ ἐπὶ θρόνου τῆς βασιλείας σου, καὶ ὑπερυμνητὸς καὶ ὑπερυψούμενος εἰς τοὺς αἰῶνας.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:23682c867e7db975b71e016e0f64b385846c93761917df1e59ea7bdd47041563",
+      "source_file_sha256": "5cdeb6c993ff2883485b5c2006340bfd711a5d67b84f59aafac4e1caa4f6fbf4",
+      "reference_file_sha256": "39f71aabe259e3878a6d98df02f56eca8d62b1712491601f3812c81c9a1d3c6b",
+      "source_locator": {
+        "word_start": 608378,
+        "word_end_exclusive": 608392,
+        "reference_label": "Ode.10:55"
+      },
+      "ode": 10,
+      "korean": "당신은 왕국의 보좌 위에서 찬송받으실 분입니다. 영원히 지극한 찬양과 높임을 받으십니다.",
+      "translation_revision": "sha256:faa813fb1536b61755b6ba0cecc4908c7965809b960f66dad59afa4727239053",
+      "groups": [
+        {
+          "id": "a-49806fb70b97f5867da2",
+          "source_range": [
+            0,
+            44
+          ],
+          "ko_range": [
+            0,
+            26
+          ],
+          "source_text": "εὐλογημένος εἶ ἐπὶ θρόνου τῆς βασιλείας σου,",
+          "ko_text": "당신은 왕국의 보좌 위에서 찬송받으실 분입니다."
+        },
+        {
+          "id": "a-fa610d67b29eb226f06a",
+          "source_range": [
+            45,
+            95
+          ],
+          "ko_range": [
+            27,
+            49
+          ],
+          "source_text": "καὶ ὑπερυμνητὸς καὶ ὑπερυψούμενος εἰς τοὺς αἰῶνας.",
+          "ko_text": "영원히 지극한 찬양과 높임을 받으십니다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "song3:10.55",
+      "html_path": "works/song3/index.html#p-10-55",
+      "fixed_html_path": "releases/public-0.33/works/song3/index.html#p-10-55",
+      "alignment_revision": "sha256:9bb2e35fc6f3f40a9c2fa00495eab9e2f42c748fd9028ea301cc119b0566c8d6",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_word_table_extraction",
+        "targets": {
+          "source_revision": "sha256:23682c867e7db975b71e016e0f64b385846c93761917df1e59ea7bdd47041563",
+          "translation_revision": "sha256:faa813fb1536b61755b6ba0cecc4908c7965809b960f66dad59afa4727239053",
+          "alignment_revision": "sha256:9bb2e35fc6f3f40a9c2fa00495eab9e2f42c748fd9028ea301cc119b0566c8d6"
+        },
+        "scoped_ai_review": {
+          "id": "song3-addition-20261003",
+          "scope": "세 젊은이의 찬가 10.52-10.88 37절 전체 (Swete 송가집 번호)",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:23682c867e7db975b71e016e0f64b385846c93761917df1e59ea7bdd47041563",
+            "translation_revision": "sha256:faa813fb1536b61755b6ba0cecc4908c7965809b960f66dad59afa4727239053",
+            "alignment_revision": "sha256:9bb2e35fc6f3f40a9c2fa00495eab9e2f42c748fd9028ea301cc119b0566c8d6"
+          }
+        }
+      },
+      "rights": {
+        "source": "GPL-3.0",
+        "source_url": "https://github.com/eliranwong/LXX-Swete-1930/blob/1d3efc3c63bd384a4f3f07ed37eef54b0d45ac33/01-Swete_word_with_punctuations.csv",
+        "license_url": "https://www.gnu.org/licenses/gpl-3.0.html",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "GPL-3.0",
+        "alignment_license": "GPL-3.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 GPL-3.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "익명",
+        "work": "세 젊은이의 찬가",
+        "reference": "10.55",
+        "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:faa813fb1536b61755b6ba0cecc4908c7965809b960f66dad59afa4727239053",
+        "fixed_path": "releases/public-0.33/works/song3/index.html#p-10-55"
+      }
+    },
+    {
+      "ref": "10.56",
+      "chapter": 10,
+      "verse": 56,
+      "original": "εὐλογημένος εἶ ἐν τῷ στερεώματι τοῦ οὐρανοῦ, καὶ ὑπερυμνητὸς καὶ ὑπερένδοξος εἰς τοὺς αἰῶνας.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:aa991f9de6fbb7f3e76ada6034aefbb92054428a1e26b9d8d207230167038530",
+      "source_file_sha256": "5cdeb6c993ff2883485b5c2006340bfd711a5d67b84f59aafac4e1caa4f6fbf4",
+      "reference_file_sha256": "39f71aabe259e3878a6d98df02f56eca8d62b1712491601f3812c81c9a1d3c6b",
+      "source_locator": {
+        "word_start": 608392,
+        "word_end_exclusive": 608406,
+        "reference_label": "Ode.10:56"
+      },
+      "ode": 10,
+      "korean": "당신은 하늘의 창공에서 찬송받으실 분입니다. 영원히 지극한 찬양과 영광을 받으십니다.",
+      "translation_revision": "sha256:9d802ef1004ca73b23934ee83f729578f9dd11e99665cf74fb5ffac75e028527",
+      "groups": [
+        {
+          "id": "a-3d12242ea63eef61cb2d",
+          "source_range": [
+            0,
+            44
+          ],
+          "ko_range": [
+            0,
+            24
+          ],
+          "source_text": "εὐλογημένος εἶ ἐν τῷ στερεώματι τοῦ οὐρανοῦ,",
+          "ko_text": "당신은 하늘의 창공에서 찬송받으실 분입니다."
+        },
+        {
+          "id": "a-4d95108d752f80f6f232",
+          "source_range": [
+            45,
+            93
+          ],
+          "ko_range": [
+            25,
+            47
+          ],
+          "source_text": "καὶ ὑπερυμνητὸς καὶ ὑπερένδοξος εἰς τοὺς αἰῶνας.",
+          "ko_text": "영원히 지극한 찬양과 영광을 받으십니다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "song3:10.56",
+      "html_path": "works/song3/index.html#p-10-56",
+      "fixed_html_path": "releases/public-0.33/works/song3/index.html#p-10-56",
+      "alignment_revision": "sha256:875bbdcda34c66f90e7af11faf2c9b012cc4c84b5ec0c6e9093e54e91df68930",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_word_table_extraction",
+        "targets": {
+          "source_revision": "sha256:aa991f9de6fbb7f3e76ada6034aefbb92054428a1e26b9d8d207230167038530",
+          "translation_revision": "sha256:9d802ef1004ca73b23934ee83f729578f9dd11e99665cf74fb5ffac75e028527",
+          "alignment_revision": "sha256:875bbdcda34c66f90e7af11faf2c9b012cc4c84b5ec0c6e9093e54e91df68930"
+        },
+        "scoped_ai_review": {
+          "id": "song3-addition-20261003",
+          "scope": "세 젊은이의 찬가 10.52-10.88 37절 전체 (Swete 송가집 번호)",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:aa991f9de6fbb7f3e76ada6034aefbb92054428a1e26b9d8d207230167038530",
+            "translation_revision": "sha256:9d802ef1004ca73b23934ee83f729578f9dd11e99665cf74fb5ffac75e028527",
+            "alignment_revision": "sha256:875bbdcda34c66f90e7af11faf2c9b012cc4c84b5ec0c6e9093e54e91df68930"
+          }
+        }
+      },
+      "rights": {
+        "source": "GPL-3.0",
+        "source_url": "https://github.com/eliranwong/LXX-Swete-1930/blob/1d3efc3c63bd384a4f3f07ed37eef54b0d45ac33/01-Swete_word_with_punctuations.csv",
+        "license_url": "https://www.gnu.org/licenses/gpl-3.0.html",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "GPL-3.0",
+        "alignment_license": "GPL-3.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 GPL-3.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "익명",
+        "work": "세 젊은이의 찬가",
+        "reference": "10.56",
+        "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:9d802ef1004ca73b23934ee83f729578f9dd11e99665cf74fb5ffac75e028527",
+        "fixed_path": "releases/public-0.33/works/song3/index.html#p-10-56"
+      }
+    },
+    {
+      "ref": "10.57",
+      "chapter": 10,
+      "verse": 57,
+      "original": "εὐλογεῖτε, πάντα τὰ ἔργα Κυρίου, τὸν κύριον· ὑμνεῖτε καὶ ὑπερυψοῦτε αὐτὸν εἰς τοὺς αἰῶνας.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:bf659c4efe7e7b684d8cf152376226b8477441bb0d30a996bce598099bd71321",
+      "source_file_sha256": "5cdeb6c993ff2883485b5c2006340bfd711a5d67b84f59aafac4e1caa4f6fbf4",
+      "reference_file_sha256": "39f71aabe259e3878a6d98df02f56eca8d62b1712491601f3812c81c9a1d3c6b",
+      "source_locator": {
+        "word_start": 608406,
+        "word_end_exclusive": 608420,
+        "reference_label": "Ode.10:57"
+      },
+      "ode": 10,
+      "korean": "주님의 모든 작품들아, 주님을 찬송하여라. 그분을 노래하고 영원히 높여라.",
+      "translation_revision": "sha256:589a3cfe09f4bd58a5838db3410bad4dd643a7d96301025dd7443b6111bd7f7c",
+      "groups": [
+        {
+          "id": "a-7d23d06fca980661b8a9",
+          "source_range": [
+            0,
+            44
+          ],
+          "ko_range": [
+            0,
+            23
+          ],
+          "source_text": "εὐλογεῖτε, πάντα τὰ ἔργα Κυρίου, τὸν κύριον·",
+          "ko_text": "주님의 모든 작품들아, 주님을 찬송하여라."
+        },
+        {
+          "id": "a-71d9bff548c53f1cb9f1",
+          "source_range": [
+            45,
+            90
+          ],
+          "ko_range": [
+            24,
+            41
+          ],
+          "source_text": "ὑμνεῖτε καὶ ὑπερυψοῦτε αὐτὸν εἰς τοὺς αἰῶνας.",
+          "ko_text": "그분을 노래하고 영원히 높여라."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "song3:10.57",
+      "html_path": "works/song3/index.html#p-10-57",
+      "fixed_html_path": "releases/public-0.33/works/song3/index.html#p-10-57",
+      "alignment_revision": "sha256:842dcc94e8ac7f25edfa49e722264911ddb6955c19e650714d347c1bbaa2d22d",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_word_table_extraction",
+        "targets": {
+          "source_revision": "sha256:bf659c4efe7e7b684d8cf152376226b8477441bb0d30a996bce598099bd71321",
+          "translation_revision": "sha256:589a3cfe09f4bd58a5838db3410bad4dd643a7d96301025dd7443b6111bd7f7c",
+          "alignment_revision": "sha256:842dcc94e8ac7f25edfa49e722264911ddb6955c19e650714d347c1bbaa2d22d"
+        },
+        "scoped_ai_review": {
+          "id": "song3-addition-20261003",
+          "scope": "세 젊은이의 찬가 10.52-10.88 37절 전체 (Swete 송가집 번호)",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:bf659c4efe7e7b684d8cf152376226b8477441bb0d30a996bce598099bd71321",
+            "translation_revision": "sha256:589a3cfe09f4bd58a5838db3410bad4dd643a7d96301025dd7443b6111bd7f7c",
+            "alignment_revision": "sha256:842dcc94e8ac7f25edfa49e722264911ddb6955c19e650714d347c1bbaa2d22d"
+          }
+        }
+      },
+      "rights": {
+        "source": "GPL-3.0",
+        "source_url": "https://github.com/eliranwong/LXX-Swete-1930/blob/1d3efc3c63bd384a4f3f07ed37eef54b0d45ac33/01-Swete_word_with_punctuations.csv",
+        "license_url": "https://www.gnu.org/licenses/gpl-3.0.html",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "GPL-3.0",
+        "alignment_license": "GPL-3.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 GPL-3.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "익명",
+        "work": "세 젊은이의 찬가",
+        "reference": "10.57",
+        "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:589a3cfe09f4bd58a5838db3410bad4dd643a7d96301025dd7443b6111bd7f7c",
+        "fixed_path": "releases/public-0.33/works/song3/index.html#p-10-57"
+      }
+    },
+    {
+      "ref": "10.58",
+      "chapter": 10,
+      "verse": 58,
+      "original": "εὐλογεῖτε, ἄγγελοι Κυρίου, τὸν κύριον· ὑμνεῖτε καὶ ὑπερυψοῦτε αὐτὸν εἰς τοὺς αἰῶνας.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:cb66fad050392d0234c50984892ac483f9e8ca7e2c3bec705303fac39d09befa",
+      "source_file_sha256": "5cdeb6c993ff2883485b5c2006340bfd711a5d67b84f59aafac4e1caa4f6fbf4",
+      "reference_file_sha256": "39f71aabe259e3878a6d98df02f56eca8d62b1712491601f3812c81c9a1d3c6b",
+      "source_locator": {
+        "word_start": 608420,
+        "word_end_exclusive": 608432,
+        "reference_label": "Ode.10:58"
+      },
+      "ode": 10,
+      "korean": "주님의 천사들아, 주님을 찬송하여라. 그분을 노래하고 영원히 높여라.",
+      "translation_revision": "sha256:688a24c852fea060cdf2f3b6219180b2aacb88f7bcc1460dbd846fbb3c444249",
+      "groups": [
+        {
+          "id": "a-193957d4c40d344448ea",
+          "source_range": [
+            0,
+            38
+          ],
+          "ko_range": [
+            0,
+            20
+          ],
+          "source_text": "εὐλογεῖτε, ἄγγελοι Κυρίου, τὸν κύριον·",
+          "ko_text": "주님의 천사들아, 주님을 찬송하여라."
+        },
+        {
+          "id": "a-55a577ab43a393aca182",
+          "source_range": [
+            39,
+            84
+          ],
+          "ko_range": [
+            21,
+            38
+          ],
+          "source_text": "ὑμνεῖτε καὶ ὑπερυψοῦτε αὐτὸν εἰς τοὺς αἰῶνας.",
+          "ko_text": "그분을 노래하고 영원히 높여라."
+        }
+      ],
+      "notes": [
+        "Swete 828쪽 인쇄면은 59절 하늘들을 58절 천사들 앞에 둔다. 이 자료는 단어표의 절 번호 순서대로 58절 다음에 59절을 표시한다."
+      ],
+      "work_passage_id": "song3:10.58",
+      "html_path": "works/song3/index.html#p-10-58",
+      "fixed_html_path": "releases/public-0.33/works/song3/index.html#p-10-58",
+      "alignment_revision": "sha256:c9bc48fbe457d05c3c1efd136813007ba423330ec7ee898d30709de289ea44e5",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_word_table_extraction",
+        "targets": {
+          "source_revision": "sha256:cb66fad050392d0234c50984892ac483f9e8ca7e2c3bec705303fac39d09befa",
+          "translation_revision": "sha256:688a24c852fea060cdf2f3b6219180b2aacb88f7bcc1460dbd846fbb3c444249",
+          "alignment_revision": "sha256:c9bc48fbe457d05c3c1efd136813007ba423330ec7ee898d30709de289ea44e5"
+        },
+        "scoped_ai_review": {
+          "id": "song3-addition-20261003",
+          "scope": "세 젊은이의 찬가 10.52-10.88 37절 전체 (Swete 송가집 번호)",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:cb66fad050392d0234c50984892ac483f9e8ca7e2c3bec705303fac39d09befa",
+            "translation_revision": "sha256:688a24c852fea060cdf2f3b6219180b2aacb88f7bcc1460dbd846fbb3c444249",
+            "alignment_revision": "sha256:c9bc48fbe457d05c3c1efd136813007ba423330ec7ee898d30709de289ea44e5"
+          }
+        }
+      },
+      "rights": {
+        "source": "GPL-3.0",
+        "source_url": "https://github.com/eliranwong/LXX-Swete-1930/blob/1d3efc3c63bd384a4f3f07ed37eef54b0d45ac33/01-Swete_word_with_punctuations.csv",
+        "license_url": "https://www.gnu.org/licenses/gpl-3.0.html",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "GPL-3.0",
+        "alignment_license": "GPL-3.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 GPL-3.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "익명",
+        "work": "세 젊은이의 찬가",
+        "reference": "10.58",
+        "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:688a24c852fea060cdf2f3b6219180b2aacb88f7bcc1460dbd846fbb3c444249",
+        "fixed_path": "releases/public-0.33/works/song3/index.html#p-10-58"
+      }
+    },
+    {
+      "ref": "10.59",
+      "chapter": 10,
+      "verse": 59,
+      "original": "εὐλογεῖτε, οὐρανοί, τὸν κύριον· ὑμνεῖτε καὶ ὑπερυψοῦτε αὐτὸν εἰς τοὺς αἰῶνας.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:121fced9a7fbb61b5e2aa8e5231a3ac74d9320c16076ef380a5a610035e0442e",
+      "source_file_sha256": "5cdeb6c993ff2883485b5c2006340bfd711a5d67b84f59aafac4e1caa4f6fbf4",
+      "reference_file_sha256": "39f71aabe259e3878a6d98df02f56eca8d62b1712491601f3812c81c9a1d3c6b",
+      "source_locator": {
+        "word_start": 608432,
+        "word_end_exclusive": 608443,
+        "reference_label": "Ode.10:59"
+      },
+      "ode": 10,
+      "korean": "하늘들아, 주님을 찬송하여라. 그분을 노래하고 영원히 높여라.",
+      "translation_revision": "sha256:9d164e4ed76c6087943dca8c4854931184da484f6a8ac4fce512e4dc0976d72d",
+      "groups": [
+        {
+          "id": "a-17d2a62dafab7003b4e4",
+          "source_range": [
+            0,
+            31
+          ],
+          "ko_range": [
+            0,
+            16
+          ],
+          "source_text": "εὐλογεῖτε, οὐρανοί, τὸν κύριον·",
+          "ko_text": "하늘들아, 주님을 찬송하여라."
+        },
+        {
+          "id": "a-6bfc6820729cc369d1a6",
+          "source_range": [
+            32,
+            77
+          ],
+          "ko_range": [
+            17,
+            34
+          ],
+          "source_text": "ὑμνεῖτε καὶ ὑπερυψοῦτε αὐτὸν εἰς τοὺς αἰῶνας.",
+          "ko_text": "그분을 노래하고 영원히 높여라."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "song3:10.59",
+      "html_path": "works/song3/index.html#p-10-59",
+      "fixed_html_path": "releases/public-0.33/works/song3/index.html#p-10-59",
+      "alignment_revision": "sha256:0fbb0c6a0c46736172f6d998acf4d91653863078beb113ca4081f90f6a549ae0",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_word_table_extraction",
+        "targets": {
+          "source_revision": "sha256:121fced9a7fbb61b5e2aa8e5231a3ac74d9320c16076ef380a5a610035e0442e",
+          "translation_revision": "sha256:9d164e4ed76c6087943dca8c4854931184da484f6a8ac4fce512e4dc0976d72d",
+          "alignment_revision": "sha256:0fbb0c6a0c46736172f6d998acf4d91653863078beb113ca4081f90f6a549ae0"
+        },
+        "scoped_ai_review": {
+          "id": "song3-addition-20261003",
+          "scope": "세 젊은이의 찬가 10.52-10.88 37절 전체 (Swete 송가집 번호)",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:121fced9a7fbb61b5e2aa8e5231a3ac74d9320c16076ef380a5a610035e0442e",
+            "translation_revision": "sha256:9d164e4ed76c6087943dca8c4854931184da484f6a8ac4fce512e4dc0976d72d",
+            "alignment_revision": "sha256:0fbb0c6a0c46736172f6d998acf4d91653863078beb113ca4081f90f6a549ae0"
+          }
+        }
+      },
+      "rights": {
+        "source": "GPL-3.0",
+        "source_url": "https://github.com/eliranwong/LXX-Swete-1930/blob/1d3efc3c63bd384a4f3f07ed37eef54b0d45ac33/01-Swete_word_with_punctuations.csv",
+        "license_url": "https://www.gnu.org/licenses/gpl-3.0.html",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "GPL-3.0",
+        "alignment_license": "GPL-3.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 GPL-3.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "익명",
+        "work": "세 젊은이의 찬가",
+        "reference": "10.59",
+        "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:9d164e4ed76c6087943dca8c4854931184da484f6a8ac4fce512e4dc0976d72d",
+        "fixed_path": "releases/public-0.33/works/song3/index.html#p-10-59"
+      }
+    },
+    {
+      "ref": "10.60",
+      "chapter": 10,
+      "verse": 60,
+      "original": "εὐλογεῖτε, ὕδατα πάντα τὰ ἐπάνω τοῦ οὐρανοῦ, τὸν κύριον· ὑμνεῖτε καὶ ὑπερυψοῦτε αὐτὸν εἰς τοὺς αἰῶνας.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:886c185225cde837007e5c3a3c44e6c04a138bc77b6e41ffb54dec30c4b3a243",
+      "source_file_sha256": "5cdeb6c993ff2883485b5c2006340bfd711a5d67b84f59aafac4e1caa4f6fbf4",
+      "reference_file_sha256": "39f71aabe259e3878a6d98df02f56eca8d62b1712491601f3812c81c9a1d3c6b",
+      "source_locator": {
+        "word_start": 608443,
+        "word_end_exclusive": 608459,
+        "reference_label": "Ode.10:60"
+      },
+      "ode": 10,
+      "korean": "하늘 위의 모든 물들아, 주님을 찬송하여라. 그분을 노래하고 영원히 높여라.",
+      "translation_revision": "sha256:c14f6257d3ceb8c9fb7c70f19204e2415bd8505e6e3af73058abc4f9ac89cbdb",
+      "groups": [
+        {
+          "id": "a-51fd9cf1567d9b8de6dc",
+          "source_range": [
+            0,
+            56
+          ],
+          "ko_range": [
+            0,
+            24
+          ],
+          "source_text": "εὐλογεῖτε, ὕδατα πάντα τὰ ἐπάνω τοῦ οὐρανοῦ, τὸν κύριον·",
+          "ko_text": "하늘 위의 모든 물들아, 주님을 찬송하여라."
+        },
+        {
+          "id": "a-2cba3195640f2637d0db",
+          "source_range": [
+            57,
+            102
+          ],
+          "ko_range": [
+            25,
+            42
+          ],
+          "source_text": "ὑμνεῖτε καὶ ὑπερυψοῦτε αὐτὸν εἰς τοὺς αἰῶνας.",
+          "ko_text": "그분을 노래하고 영원히 높여라."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "song3:10.60",
+      "html_path": "works/song3/index.html#p-10-60",
+      "fixed_html_path": "releases/public-0.33/works/song3/index.html#p-10-60",
+      "alignment_revision": "sha256:a8f99480adff96fa59fbf09d884502916435eac626892619aae63175d474e8d4",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_word_table_extraction",
+        "targets": {
+          "source_revision": "sha256:886c185225cde837007e5c3a3c44e6c04a138bc77b6e41ffb54dec30c4b3a243",
+          "translation_revision": "sha256:c14f6257d3ceb8c9fb7c70f19204e2415bd8505e6e3af73058abc4f9ac89cbdb",
+          "alignment_revision": "sha256:a8f99480adff96fa59fbf09d884502916435eac626892619aae63175d474e8d4"
+        },
+        "scoped_ai_review": {
+          "id": "song3-addition-20261003",
+          "scope": "세 젊은이의 찬가 10.52-10.88 37절 전체 (Swete 송가집 번호)",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:886c185225cde837007e5c3a3c44e6c04a138bc77b6e41ffb54dec30c4b3a243",
+            "translation_revision": "sha256:c14f6257d3ceb8c9fb7c70f19204e2415bd8505e6e3af73058abc4f9ac89cbdb",
+            "alignment_revision": "sha256:a8f99480adff96fa59fbf09d884502916435eac626892619aae63175d474e8d4"
+          }
+        }
+      },
+      "rights": {
+        "source": "GPL-3.0",
+        "source_url": "https://github.com/eliranwong/LXX-Swete-1930/blob/1d3efc3c63bd384a4f3f07ed37eef54b0d45ac33/01-Swete_word_with_punctuations.csv",
+        "license_url": "https://www.gnu.org/licenses/gpl-3.0.html",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "GPL-3.0",
+        "alignment_license": "GPL-3.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 GPL-3.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "익명",
+        "work": "세 젊은이의 찬가",
+        "reference": "10.60",
+        "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:c14f6257d3ceb8c9fb7c70f19204e2415bd8505e6e3af73058abc4f9ac89cbdb",
+        "fixed_path": "releases/public-0.33/works/song3/index.html#p-10-60"
+      }
+    },
+    {
+      "ref": "10.61",
+      "chapter": 10,
+      "verse": 61,
+      "original": "εὐλογεῖτε, πᾶσαι αἱ δυνάμεις Κυρίου, τὸν κύριον· ὑμνεῖτε καὶ ὑπερυψοῦτε αὐτὸν εἰς τοὺς αἰῶνας.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:4e28d3037b3eac781ff046cb1b626a74bc780e871a84685a1219d070be9d36b1",
+      "source_file_sha256": "5cdeb6c993ff2883485b5c2006340bfd711a5d67b84f59aafac4e1caa4f6fbf4",
+      "reference_file_sha256": "39f71aabe259e3878a6d98df02f56eca8d62b1712491601f3812c81c9a1d3c6b",
+      "source_locator": {
+        "word_start": 608459,
+        "word_end_exclusive": 608473,
+        "reference_label": "Ode.10:61"
+      },
+      "ode": 10,
+      "korean": "주님의 모든 능력들아, 주님을 찬송하여라. 그분을 노래하고 영원히 높여라.",
+      "translation_revision": "sha256:7c0725ab54e301049af5d3d6ba309a796c776cfebf5a9d7c56ac00e7b4eccf55",
+      "groups": [
+        {
+          "id": "a-83c69a17a61f7f9bffd8",
+          "source_range": [
+            0,
+            48
+          ],
+          "ko_range": [
+            0,
+            23
+          ],
+          "source_text": "εὐλογεῖτε, πᾶσαι αἱ δυνάμεις Κυρίου, τὸν κύριον·",
+          "ko_text": "주님의 모든 능력들아, 주님을 찬송하여라."
+        },
+        {
+          "id": "a-bf82e5898ae67f7a614d",
+          "source_range": [
+            49,
+            94
+          ],
+          "ko_range": [
+            24,
+            41
+          ],
+          "source_text": "ὑμνεῖτε καὶ ὑπερυψοῦτε αὐτὸν εἰς τοὺς αἰῶνας.",
+          "ko_text": "그분을 노래하고 영원히 높여라."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "song3:10.61",
+      "html_path": "works/song3/index.html#p-10-61",
+      "fixed_html_path": "releases/public-0.33/works/song3/index.html#p-10-61",
+      "alignment_revision": "sha256:6ccf4b8111696e5c3e24c7b4889c5926881a101d466dccfa72cf1eb9982e0b12",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_word_table_extraction",
+        "targets": {
+          "source_revision": "sha256:4e28d3037b3eac781ff046cb1b626a74bc780e871a84685a1219d070be9d36b1",
+          "translation_revision": "sha256:7c0725ab54e301049af5d3d6ba309a796c776cfebf5a9d7c56ac00e7b4eccf55",
+          "alignment_revision": "sha256:6ccf4b8111696e5c3e24c7b4889c5926881a101d466dccfa72cf1eb9982e0b12"
+        },
+        "scoped_ai_review": {
+          "id": "song3-addition-20261003",
+          "scope": "세 젊은이의 찬가 10.52-10.88 37절 전체 (Swete 송가집 번호)",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:4e28d3037b3eac781ff046cb1b626a74bc780e871a84685a1219d070be9d36b1",
+            "translation_revision": "sha256:7c0725ab54e301049af5d3d6ba309a796c776cfebf5a9d7c56ac00e7b4eccf55",
+            "alignment_revision": "sha256:6ccf4b8111696e5c3e24c7b4889c5926881a101d466dccfa72cf1eb9982e0b12"
+          }
+        }
+      },
+      "rights": {
+        "source": "GPL-3.0",
+        "source_url": "https://github.com/eliranwong/LXX-Swete-1930/blob/1d3efc3c63bd384a4f3f07ed37eef54b0d45ac33/01-Swete_word_with_punctuations.csv",
+        "license_url": "https://www.gnu.org/licenses/gpl-3.0.html",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "GPL-3.0",
+        "alignment_license": "GPL-3.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 GPL-3.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "익명",
+        "work": "세 젊은이의 찬가",
+        "reference": "10.61",
+        "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:7c0725ab54e301049af5d3d6ba309a796c776cfebf5a9d7c56ac00e7b4eccf55",
+        "fixed_path": "releases/public-0.33/works/song3/index.html#p-10-61"
+      }
+    },
+    {
+      "ref": "10.62",
+      "chapter": 10,
+      "verse": 62,
+      "original": "εὐλογεῖτε, ἥλιος καὶ σελήνη, τὸν κύριον· ὑμνεῖτε καὶ ὑπερυψοῦτε αὐτὸν εἰς τοὺς αἰῶνας.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:04ed68b2cd75db18bef27558dc1b8b247539b8d220cda0011879ea7da1e28693",
+      "source_file_sha256": "5cdeb6c993ff2883485b5c2006340bfd711a5d67b84f59aafac4e1caa4f6fbf4",
+      "reference_file_sha256": "39f71aabe259e3878a6d98df02f56eca8d62b1712491601f3812c81c9a1d3c6b",
+      "source_locator": {
+        "word_start": 608473,
+        "word_end_exclusive": 608486,
+        "reference_label": "Ode.10:62"
+      },
+      "ode": 10,
+      "korean": "해와 달아, 주님을 찬송하여라. 그분을 노래하고 영원히 높여라.",
+      "translation_revision": "sha256:d1695383a1d07ca1760a6946c07ede71a591cf61a7571d562b447abfb7f7337e",
+      "groups": [
+        {
+          "id": "a-553941672c3c39ebdc40",
+          "source_range": [
+            0,
+            40
+          ],
+          "ko_range": [
+            0,
+            17
+          ],
+          "source_text": "εὐλογεῖτε, ἥλιος καὶ σελήνη, τὸν κύριον·",
+          "ko_text": "해와 달아, 주님을 찬송하여라."
+        },
+        {
+          "id": "a-414b8093a6e431471655",
+          "source_range": [
+            41,
+            86
+          ],
+          "ko_range": [
+            18,
+            35
+          ],
+          "source_text": "ὑμνεῖτε καὶ ὑπερυψοῦτε αὐτὸν εἰς τοὺς αἰῶνας.",
+          "ko_text": "그분을 노래하고 영원히 높여라."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "song3:10.62",
+      "html_path": "works/song3/index.html#p-10-62",
+      "fixed_html_path": "releases/public-0.33/works/song3/index.html#p-10-62",
+      "alignment_revision": "sha256:e877e6e0f339951716e13a8a6910df09e986fdbc2ae40bb52d54d96136f86776",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_word_table_extraction",
+        "targets": {
+          "source_revision": "sha256:04ed68b2cd75db18bef27558dc1b8b247539b8d220cda0011879ea7da1e28693",
+          "translation_revision": "sha256:d1695383a1d07ca1760a6946c07ede71a591cf61a7571d562b447abfb7f7337e",
+          "alignment_revision": "sha256:e877e6e0f339951716e13a8a6910df09e986fdbc2ae40bb52d54d96136f86776"
+        },
+        "scoped_ai_review": {
+          "id": "song3-addition-20261003",
+          "scope": "세 젊은이의 찬가 10.52-10.88 37절 전체 (Swete 송가집 번호)",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:04ed68b2cd75db18bef27558dc1b8b247539b8d220cda0011879ea7da1e28693",
+            "translation_revision": "sha256:d1695383a1d07ca1760a6946c07ede71a591cf61a7571d562b447abfb7f7337e",
+            "alignment_revision": "sha256:e877e6e0f339951716e13a8a6910df09e986fdbc2ae40bb52d54d96136f86776"
+          }
+        }
+      },
+      "rights": {
+        "source": "GPL-3.0",
+        "source_url": "https://github.com/eliranwong/LXX-Swete-1930/blob/1d3efc3c63bd384a4f3f07ed37eef54b0d45ac33/01-Swete_word_with_punctuations.csv",
+        "license_url": "https://www.gnu.org/licenses/gpl-3.0.html",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "GPL-3.0",
+        "alignment_license": "GPL-3.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 GPL-3.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "익명",
+        "work": "세 젊은이의 찬가",
+        "reference": "10.62",
+        "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:d1695383a1d07ca1760a6946c07ede71a591cf61a7571d562b447abfb7f7337e",
+        "fixed_path": "releases/public-0.33/works/song3/index.html#p-10-62"
+      }
+    },
+    {
+      "ref": "10.63",
+      "chapter": 10,
+      "verse": 63,
+      "original": "εὐλογεῖτε, ἄστρα τοῦ οὐρανοῦ, τὸν κύριον· ὑμνεῖτε καὶ ὑπερυψοῦτε αὐτὸν εἰς τοὺς αἰῶνας.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:995561c084c8c447445f23d81e8e7def1f64d4ac740ae807372e590db224c92e",
+      "source_file_sha256": "5cdeb6c993ff2883485b5c2006340bfd711a5d67b84f59aafac4e1caa4f6fbf4",
+      "reference_file_sha256": "39f71aabe259e3878a6d98df02f56eca8d62b1712491601f3812c81c9a1d3c6b",
+      "source_locator": {
+        "word_start": 608486,
+        "word_end_exclusive": 608499,
+        "reference_label": "Ode.10:63"
+      },
+      "ode": 10,
+      "korean": "하늘의 별들아, 주님을 찬송하여라. 그분을 노래하고 영원히 높여라.",
+      "translation_revision": "sha256:4153de622d0eda11c3fccc154cfdd6ae46965386e39e11f5ddc92f91025ea6a1",
+      "groups": [
+        {
+          "id": "a-6efe7df7008350cd78b1",
+          "source_range": [
+            0,
+            41
+          ],
+          "ko_range": [
+            0,
+            19
+          ],
+          "source_text": "εὐλογεῖτε, ἄστρα τοῦ οὐρανοῦ, τὸν κύριον·",
+          "ko_text": "하늘의 별들아, 주님을 찬송하여라."
+        },
+        {
+          "id": "a-1cea1877c77d7c7895b0",
+          "source_range": [
+            42,
+            87
+          ],
+          "ko_range": [
+            20,
+            37
+          ],
+          "source_text": "ὑμνεῖτε καὶ ὑπερυψοῦτε αὐτὸν εἰς τοὺς αἰῶνας.",
+          "ko_text": "그분을 노래하고 영원히 높여라."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "song3:10.63",
+      "html_path": "works/song3/index.html#p-10-63",
+      "fixed_html_path": "releases/public-0.33/works/song3/index.html#p-10-63",
+      "alignment_revision": "sha256:63dc4b0febb00f80b4928e976db54c59271e92bf6ed8474aac1762951d5d72b9",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_word_table_extraction",
+        "targets": {
+          "source_revision": "sha256:995561c084c8c447445f23d81e8e7def1f64d4ac740ae807372e590db224c92e",
+          "translation_revision": "sha256:4153de622d0eda11c3fccc154cfdd6ae46965386e39e11f5ddc92f91025ea6a1",
+          "alignment_revision": "sha256:63dc4b0febb00f80b4928e976db54c59271e92bf6ed8474aac1762951d5d72b9"
+        },
+        "scoped_ai_review": {
+          "id": "song3-addition-20261003",
+          "scope": "세 젊은이의 찬가 10.52-10.88 37절 전체 (Swete 송가집 번호)",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:995561c084c8c447445f23d81e8e7def1f64d4ac740ae807372e590db224c92e",
+            "translation_revision": "sha256:4153de622d0eda11c3fccc154cfdd6ae46965386e39e11f5ddc92f91025ea6a1",
+            "alignment_revision": "sha256:63dc4b0febb00f80b4928e976db54c59271e92bf6ed8474aac1762951d5d72b9"
+          }
+        }
+      },
+      "rights": {
+        "source": "GPL-3.0",
+        "source_url": "https://github.com/eliranwong/LXX-Swete-1930/blob/1d3efc3c63bd384a4f3f07ed37eef54b0d45ac33/01-Swete_word_with_punctuations.csv",
+        "license_url": "https://www.gnu.org/licenses/gpl-3.0.html",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "GPL-3.0",
+        "alignment_license": "GPL-3.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 GPL-3.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "익명",
+        "work": "세 젊은이의 찬가",
+        "reference": "10.63",
+        "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:4153de622d0eda11c3fccc154cfdd6ae46965386e39e11f5ddc92f91025ea6a1",
+        "fixed_path": "releases/public-0.33/works/song3/index.html#p-10-63"
+      }
+    },
+    {
+      "ref": "10.64",
+      "chapter": 10,
+      "verse": 64,
+      "original": "εὐλογεῖτε, πᾶς ὄμβρος καὶ δρόσος, τὸν κύριον· ὑμνεῖτε καὶ ὑπερυψοῦτε αὐτὸν εἰς τοὺς αἰῶνας.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:cf16dfe9c95ad1a82e80447d6ccd88cfc22b8ffae48edec876ae36d0c141942e",
+      "source_file_sha256": "5cdeb6c993ff2883485b5c2006340bfd711a5d67b84f59aafac4e1caa4f6fbf4",
+      "reference_file_sha256": "39f71aabe259e3878a6d98df02f56eca8d62b1712491601f3812c81c9a1d3c6b",
+      "source_locator": {
+        "word_start": 608499,
+        "word_end_exclusive": 608513,
+        "reference_label": "Ode.10:64"
+      },
+      "ode": 10,
+      "korean": "모든 비와 이슬아, 주님을 찬송하여라. 그분을 노래하고 영원히 높여라.",
+      "translation_revision": "sha256:1d2e106377ac87ff6fe3a404324ef620bb4a1cdfac94de9c17bc4f0091eeca28",
+      "groups": [
+        {
+          "id": "a-864babe4b09b0eb72770",
+          "source_range": [
+            0,
+            45
+          ],
+          "ko_range": [
+            0,
+            21
+          ],
+          "source_text": "εὐλογεῖτε, πᾶς ὄμβρος καὶ δρόσος, τὸν κύριον·",
+          "ko_text": "모든 비와 이슬아, 주님을 찬송하여라."
+        },
+        {
+          "id": "a-b633651e7f39fd6bfcc7",
+          "source_range": [
+            46,
+            91
+          ],
+          "ko_range": [
+            22,
+            39
+          ],
+          "source_text": "ὑμνεῖτε καὶ ὑπερυψοῦτε αὐτὸν εἰς τοὺς αἰῶνας.",
+          "ko_text": "그분을 노래하고 영원히 높여라."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "song3:10.64",
+      "html_path": "works/song3/index.html#p-10-64",
+      "fixed_html_path": "releases/public-0.33/works/song3/index.html#p-10-64",
+      "alignment_revision": "sha256:a8d87979cf50f705c85c4e5513b3b78840dff65e8d45268af6fc7628322ae57c",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_word_table_extraction",
+        "targets": {
+          "source_revision": "sha256:cf16dfe9c95ad1a82e80447d6ccd88cfc22b8ffae48edec876ae36d0c141942e",
+          "translation_revision": "sha256:1d2e106377ac87ff6fe3a404324ef620bb4a1cdfac94de9c17bc4f0091eeca28",
+          "alignment_revision": "sha256:a8d87979cf50f705c85c4e5513b3b78840dff65e8d45268af6fc7628322ae57c"
+        },
+        "scoped_ai_review": {
+          "id": "song3-addition-20261003",
+          "scope": "세 젊은이의 찬가 10.52-10.88 37절 전체 (Swete 송가집 번호)",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:cf16dfe9c95ad1a82e80447d6ccd88cfc22b8ffae48edec876ae36d0c141942e",
+            "translation_revision": "sha256:1d2e106377ac87ff6fe3a404324ef620bb4a1cdfac94de9c17bc4f0091eeca28",
+            "alignment_revision": "sha256:a8d87979cf50f705c85c4e5513b3b78840dff65e8d45268af6fc7628322ae57c"
+          }
+        }
+      },
+      "rights": {
+        "source": "GPL-3.0",
+        "source_url": "https://github.com/eliranwong/LXX-Swete-1930/blob/1d3efc3c63bd384a4f3f07ed37eef54b0d45ac33/01-Swete_word_with_punctuations.csv",
+        "license_url": "https://www.gnu.org/licenses/gpl-3.0.html",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "GPL-3.0",
+        "alignment_license": "GPL-3.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 GPL-3.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "익명",
+        "work": "세 젊은이의 찬가",
+        "reference": "10.64",
+        "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:1d2e106377ac87ff6fe3a404324ef620bb4a1cdfac94de9c17bc4f0091eeca28",
+        "fixed_path": "releases/public-0.33/works/song3/index.html#p-10-64"
+      }
+    },
+    {
+      "ref": "10.65",
+      "chapter": 10,
+      "verse": 65,
+      "original": "εὐλογεῖτε, πάντα τὰ πνεύματα, τὸν κύριον· ὑμνεῖτε καὶ ὑπερυψοῦτε αὐτὸν εἰς τοὺς αἰῶνας.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:44cb3784d9b78265fbc4473d2b60d4afa1d2016af9db9d1a156b72092a7f4bc0",
+      "source_file_sha256": "5cdeb6c993ff2883485b5c2006340bfd711a5d67b84f59aafac4e1caa4f6fbf4",
+      "reference_file_sha256": "39f71aabe259e3878a6d98df02f56eca8d62b1712491601f3812c81c9a1d3c6b",
+      "source_locator": {
+        "word_start": 608513,
+        "word_end_exclusive": 608526,
+        "reference_label": "Ode.10:65"
+      },
+      "ode": 10,
+      "korean": "모든 바람들아, 주님을 찬송하여라. 그분을 노래하고 영원히 높여라.",
+      "translation_revision": "sha256:a79a3ee56fa19a31518f19a5768e46ae4774a3f7b2f2e4a66546ce1925475681",
+      "groups": [
+        {
+          "id": "a-83214aa2762d297c442f",
+          "source_range": [
+            0,
+            41
+          ],
+          "ko_range": [
+            0,
+            19
+          ],
+          "source_text": "εὐλογεῖτε, πάντα τὰ πνεύματα, τὸν κύριον·",
+          "ko_text": "모든 바람들아, 주님을 찬송하여라."
+        },
+        {
+          "id": "a-832893e2bcd5647cf3cd",
+          "source_range": [
+            42,
+            87
+          ],
+          "ko_range": [
+            20,
+            37
+          ],
+          "source_text": "ὑμνεῖτε καὶ ὑπερυψοῦτε αὐτὸν εἰς τοὺς αἰῶνας.",
+          "ko_text": "그분을 노래하고 영원히 높여라."
+        }
+      ],
+      "notes": [
+        "πνεύματα는 이 문맥에서 바람들로 읽었다. 앞 절의 비와 이슬, 뒤 절의 불과 열기, 추위와 더위와 함께 자연 현상의 찬양을 열거한다."
+      ],
+      "work_passage_id": "song3:10.65",
+      "html_path": "works/song3/index.html#p-10-65",
+      "fixed_html_path": "releases/public-0.33/works/song3/index.html#p-10-65",
+      "alignment_revision": "sha256:6cc916b0c4d05bf23d66aec73439a692aa3fcef8a695d135c15f884be46764e1",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_word_table_extraction",
+        "targets": {
+          "source_revision": "sha256:44cb3784d9b78265fbc4473d2b60d4afa1d2016af9db9d1a156b72092a7f4bc0",
+          "translation_revision": "sha256:a79a3ee56fa19a31518f19a5768e46ae4774a3f7b2f2e4a66546ce1925475681",
+          "alignment_revision": "sha256:6cc916b0c4d05bf23d66aec73439a692aa3fcef8a695d135c15f884be46764e1"
+        },
+        "scoped_ai_review": {
+          "id": "song3-addition-20261003",
+          "scope": "세 젊은이의 찬가 10.52-10.88 37절 전체 (Swete 송가집 번호)",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:44cb3784d9b78265fbc4473d2b60d4afa1d2016af9db9d1a156b72092a7f4bc0",
+            "translation_revision": "sha256:a79a3ee56fa19a31518f19a5768e46ae4774a3f7b2f2e4a66546ce1925475681",
+            "alignment_revision": "sha256:6cc916b0c4d05bf23d66aec73439a692aa3fcef8a695d135c15f884be46764e1"
+          }
+        }
+      },
+      "rights": {
+        "source": "GPL-3.0",
+        "source_url": "https://github.com/eliranwong/LXX-Swete-1930/blob/1d3efc3c63bd384a4f3f07ed37eef54b0d45ac33/01-Swete_word_with_punctuations.csv",
+        "license_url": "https://www.gnu.org/licenses/gpl-3.0.html",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "GPL-3.0",
+        "alignment_license": "GPL-3.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 GPL-3.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "익명",
+        "work": "세 젊은이의 찬가",
+        "reference": "10.65",
+        "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:a79a3ee56fa19a31518f19a5768e46ae4774a3f7b2f2e4a66546ce1925475681",
+        "fixed_path": "releases/public-0.33/works/song3/index.html#p-10-65"
+      }
+    },
+    {
+      "ref": "10.66",
+      "chapter": 10,
+      "verse": 66,
+      "original": "εὐλογεῖτε, πῦρ καὶ καῦμα, τὸν κύριον· ὑμνεῖτε καὶ ὑπερυψοῦτε αὐτὸν εἰς τοὺς αἰῶνας.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:be173c992a9585f93abfbe7f2e65cd2c1bc0077aa1201242edea6db6a664d418",
+      "source_file_sha256": "5cdeb6c993ff2883485b5c2006340bfd711a5d67b84f59aafac4e1caa4f6fbf4",
+      "reference_file_sha256": "39f71aabe259e3878a6d98df02f56eca8d62b1712491601f3812c81c9a1d3c6b",
+      "source_locator": {
+        "word_start": 608526,
+        "word_end_exclusive": 608539,
+        "reference_label": "Ode.10:66"
+      },
+      "ode": 10,
+      "korean": "불과 열기야, 주님을 찬송하여라. 그분을 노래하고 영원히 높여라.",
+      "translation_revision": "sha256:ee794a6647b6cd267e71e13db939c976725d7cfe4b70b5f2857e8bff20f19af7",
+      "groups": [
+        {
+          "id": "a-94da34c3b42acaea441a",
+          "source_range": [
+            0,
+            37
+          ],
+          "ko_range": [
+            0,
+            18
+          ],
+          "source_text": "εὐλογεῖτε, πῦρ καὶ καῦμα, τὸν κύριον·",
+          "ko_text": "불과 열기야, 주님을 찬송하여라."
+        },
+        {
+          "id": "a-def98a33d62985634f27",
+          "source_range": [
+            38,
+            83
+          ],
+          "ko_range": [
+            19,
+            36
+          ],
+          "source_text": "ὑμνεῖτε καὶ ὑπερυψοῦτε αὐτὸν εἰς τοὺς αἰῶνας.",
+          "ko_text": "그분을 노래하고 영원히 높여라."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "song3:10.66",
+      "html_path": "works/song3/index.html#p-10-66",
+      "fixed_html_path": "releases/public-0.33/works/song3/index.html#p-10-66",
+      "alignment_revision": "sha256:c4a77b2522686c448925eaf9f7f99aeb63a1eca0d69598adbeacfea3b0b07877",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_word_table_extraction",
+        "targets": {
+          "source_revision": "sha256:be173c992a9585f93abfbe7f2e65cd2c1bc0077aa1201242edea6db6a664d418",
+          "translation_revision": "sha256:ee794a6647b6cd267e71e13db939c976725d7cfe4b70b5f2857e8bff20f19af7",
+          "alignment_revision": "sha256:c4a77b2522686c448925eaf9f7f99aeb63a1eca0d69598adbeacfea3b0b07877"
+        },
+        "scoped_ai_review": {
+          "id": "song3-addition-20261003",
+          "scope": "세 젊은이의 찬가 10.52-10.88 37절 전체 (Swete 송가집 번호)",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:be173c992a9585f93abfbe7f2e65cd2c1bc0077aa1201242edea6db6a664d418",
+            "translation_revision": "sha256:ee794a6647b6cd267e71e13db939c976725d7cfe4b70b5f2857e8bff20f19af7",
+            "alignment_revision": "sha256:c4a77b2522686c448925eaf9f7f99aeb63a1eca0d69598adbeacfea3b0b07877"
+          }
+        }
+      },
+      "rights": {
+        "source": "GPL-3.0",
+        "source_url": "https://github.com/eliranwong/LXX-Swete-1930/blob/1d3efc3c63bd384a4f3f07ed37eef54b0d45ac33/01-Swete_word_with_punctuations.csv",
+        "license_url": "https://www.gnu.org/licenses/gpl-3.0.html",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "GPL-3.0",
+        "alignment_license": "GPL-3.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 GPL-3.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "익명",
+        "work": "세 젊은이의 찬가",
+        "reference": "10.66",
+        "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:ee794a6647b6cd267e71e13db939c976725d7cfe4b70b5f2857e8bff20f19af7",
+        "fixed_path": "releases/public-0.33/works/song3/index.html#p-10-66"
+      }
+    },
+    {
+      "ref": "10.67",
+      "chapter": 10,
+      "verse": 67,
+      "original": "εὐλογεῖτε, ψῦχος καὶ καύσων, τὸν κύριον· ὑμνεῖτε καὶ ὑπερυψοῦτε αὐτὸν εἰς τοὺς αἰῶνας.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:433165bd1a07a80530f20aac513ac4cdf2522f720dc54d73090153726b158b36",
+      "source_file_sha256": "5cdeb6c993ff2883485b5c2006340bfd711a5d67b84f59aafac4e1caa4f6fbf4",
+      "reference_file_sha256": "39f71aabe259e3878a6d98df02f56eca8d62b1712491601f3812c81c9a1d3c6b",
+      "source_locator": {
+        "word_start": 608539,
+        "word_end_exclusive": 608552,
+        "reference_label": "Ode.10:67"
+      },
+      "ode": 10,
+      "korean": "추위와 더위야, 주님을 찬송하여라. 그분을 노래하고 영원히 높여라.",
+      "translation_revision": "sha256:3830c79e0537620bd024e1b74fa8c86293731c0a75949c954e9baea968ed531a",
+      "groups": [
+        {
+          "id": "a-174d6cf15ff215237942",
+          "source_range": [
+            0,
+            40
+          ],
+          "ko_range": [
+            0,
+            19
+          ],
+          "source_text": "εὐλογεῖτε, ψῦχος καὶ καύσων, τὸν κύριον·",
+          "ko_text": "추위와 더위야, 주님을 찬송하여라."
+        },
+        {
+          "id": "a-75d18e92e0d1a7311672",
+          "source_range": [
+            41,
+            86
+          ],
+          "ko_range": [
+            20,
+            37
+          ],
+          "source_text": "ὑμνεῖτε καὶ ὑπερυψοῦτε αὐτὸν εἰς τοὺς αἰῶνας.",
+          "ko_text": "그분을 노래하고 영원히 높여라."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "song3:10.67",
+      "html_path": "works/song3/index.html#p-10-67",
+      "fixed_html_path": "releases/public-0.33/works/song3/index.html#p-10-67",
+      "alignment_revision": "sha256:c80ae3cf590701a0f7b4deddda2ed73d10c39fedb39a1a860476fce010fe8062",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_word_table_extraction",
+        "targets": {
+          "source_revision": "sha256:433165bd1a07a80530f20aac513ac4cdf2522f720dc54d73090153726b158b36",
+          "translation_revision": "sha256:3830c79e0537620bd024e1b74fa8c86293731c0a75949c954e9baea968ed531a",
+          "alignment_revision": "sha256:c80ae3cf590701a0f7b4deddda2ed73d10c39fedb39a1a860476fce010fe8062"
+        },
+        "scoped_ai_review": {
+          "id": "song3-addition-20261003",
+          "scope": "세 젊은이의 찬가 10.52-10.88 37절 전체 (Swete 송가집 번호)",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:433165bd1a07a80530f20aac513ac4cdf2522f720dc54d73090153726b158b36",
+            "translation_revision": "sha256:3830c79e0537620bd024e1b74fa8c86293731c0a75949c954e9baea968ed531a",
+            "alignment_revision": "sha256:c80ae3cf590701a0f7b4deddda2ed73d10c39fedb39a1a860476fce010fe8062"
+          }
+        }
+      },
+      "rights": {
+        "source": "GPL-3.0",
+        "source_url": "https://github.com/eliranwong/LXX-Swete-1930/blob/1d3efc3c63bd384a4f3f07ed37eef54b0d45ac33/01-Swete_word_with_punctuations.csv",
+        "license_url": "https://www.gnu.org/licenses/gpl-3.0.html",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "GPL-3.0",
+        "alignment_license": "GPL-3.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 GPL-3.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "익명",
+        "work": "세 젊은이의 찬가",
+        "reference": "10.67",
+        "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:3830c79e0537620bd024e1b74fa8c86293731c0a75949c954e9baea968ed531a",
+        "fixed_path": "releases/public-0.33/works/song3/index.html#p-10-67"
+      }
+    },
+    {
+      "ref": "10.68",
+      "chapter": 10,
+      "verse": 68,
+      "original": "εὐλογεῖτε, δρόσοι καὶ νιφετοί, τὸν κύριον· ὑμνεῖτε καὶ ὑπερυψοῦτε αὐτὸν εἰς τοὺς αἰῶνας.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:e596742fd3f976582701631193404e802d44661856745ba136b18a841062d444",
+      "source_file_sha256": "5cdeb6c993ff2883485b5c2006340bfd711a5d67b84f59aafac4e1caa4f6fbf4",
+      "reference_file_sha256": "39f71aabe259e3878a6d98df02f56eca8d62b1712491601f3812c81c9a1d3c6b",
+      "source_locator": {
+        "word_start": 608552,
+        "word_end_exclusive": 608565,
+        "reference_label": "Ode.10:68"
+      },
+      "ode": 10,
+      "korean": "이슬과 눈보라야, 주님을 찬송하여라. 그분을 노래하고 영원히 높여라.",
+      "translation_revision": "sha256:dc94ec2a577905dc380bd77631db6e1548a5d57f377c9904cbdbb61363b1b7b4",
+      "groups": [
+        {
+          "id": "a-7d1f8fdd09d41c9ecbcb",
+          "source_range": [
+            0,
+            42
+          ],
+          "ko_range": [
+            0,
+            20
+          ],
+          "source_text": "εὐλογεῖτε, δρόσοι καὶ νιφετοί, τὸν κύριον·",
+          "ko_text": "이슬과 눈보라야, 주님을 찬송하여라."
+        },
+        {
+          "id": "a-22ea04aab0917e2c3c4f",
+          "source_range": [
+            43,
+            88
+          ],
+          "ko_range": [
+            21,
+            38
+          ],
+          "source_text": "ὑμνεῖτε καὶ ὑπερυψοῦτε αὐτὸν εἰς τοὺς αἰῶνας.",
+          "ko_text": "그분을 노래하고 영원히 높여라."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "song3:10.68",
+      "html_path": "works/song3/index.html#p-10-68",
+      "fixed_html_path": "releases/public-0.33/works/song3/index.html#p-10-68",
+      "alignment_revision": "sha256:bd8fca9e4e3ed5107c4f6bf80ff280252d697849a59feccb8c4468a2e2cbdd41",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_word_table_extraction",
+        "targets": {
+          "source_revision": "sha256:e596742fd3f976582701631193404e802d44661856745ba136b18a841062d444",
+          "translation_revision": "sha256:dc94ec2a577905dc380bd77631db6e1548a5d57f377c9904cbdbb61363b1b7b4",
+          "alignment_revision": "sha256:bd8fca9e4e3ed5107c4f6bf80ff280252d697849a59feccb8c4468a2e2cbdd41"
+        },
+        "scoped_ai_review": {
+          "id": "song3-addition-20261003",
+          "scope": "세 젊은이의 찬가 10.52-10.88 37절 전체 (Swete 송가집 번호)",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:e596742fd3f976582701631193404e802d44661856745ba136b18a841062d444",
+            "translation_revision": "sha256:dc94ec2a577905dc380bd77631db6e1548a5d57f377c9904cbdbb61363b1b7b4",
+            "alignment_revision": "sha256:bd8fca9e4e3ed5107c4f6bf80ff280252d697849a59feccb8c4468a2e2cbdd41"
+          }
+        }
+      },
+      "rights": {
+        "source": "GPL-3.0",
+        "source_url": "https://github.com/eliranwong/LXX-Swete-1930/blob/1d3efc3c63bd384a4f3f07ed37eef54b0d45ac33/01-Swete_word_with_punctuations.csv",
+        "license_url": "https://www.gnu.org/licenses/gpl-3.0.html",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "GPL-3.0",
+        "alignment_license": "GPL-3.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 GPL-3.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "익명",
+        "work": "세 젊은이의 찬가",
+        "reference": "10.68",
+        "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:dc94ec2a577905dc380bd77631db6e1548a5d57f377c9904cbdbb61363b1b7b4",
+        "fixed_path": "releases/public-0.33/works/song3/index.html#p-10-68"
+      }
+    },
+    {
+      "ref": "10.69",
+      "chapter": 10,
+      "verse": 69,
+      "original": "εὐλογεῖτε, πάγος καὶ ψῦχος, τὸν κύριον· ὑμνεῖτε καὶ ὑπερυψοῦτε αὐτὸν εἰς τοὺς αἰῶνας.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:469569a312ecd007f7ae89231f22077f2b0b28a071e3756ef7bc01c7acbb91ea",
+      "source_file_sha256": "5cdeb6c993ff2883485b5c2006340bfd711a5d67b84f59aafac4e1caa4f6fbf4",
+      "reference_file_sha256": "39f71aabe259e3878a6d98df02f56eca8d62b1712491601f3812c81c9a1d3c6b",
+      "source_locator": {
+        "word_start": 608565,
+        "word_end_exclusive": 608578,
+        "reference_label": "Ode.10:69"
+      },
+      "ode": 10,
+      "korean": "얼음과 추위야, 주님을 찬송하여라. 그분을 노래하고 영원히 높여라.",
+      "translation_revision": "sha256:b093e342712dc861e561db92ea2ac7df5a4bb2994631462136e23c5d7fed1dac",
+      "groups": [
+        {
+          "id": "a-67dd75afd866b89a2008",
+          "source_range": [
+            0,
+            39
+          ],
+          "ko_range": [
+            0,
+            19
+          ],
+          "source_text": "εὐλογεῖτε, πάγος καὶ ψῦχος, τὸν κύριον·",
+          "ko_text": "얼음과 추위야, 주님을 찬송하여라."
+        },
+        {
+          "id": "a-4504698155149fbc5acf",
+          "source_range": [
+            40,
+            85
+          ],
+          "ko_range": [
+            20,
+            37
+          ],
+          "source_text": "ὑμνεῖτε καὶ ὑπερυψοῦτε αὐτὸν εἰς τοὺς αἰῶνας.",
+          "ko_text": "그분을 노래하고 영원히 높여라."
+        }
+      ],
+      "notes": [
+        "Swete 829쪽은 71-72절을 69-70절 앞에 인쇄한다. 이 자료의 본문 배열은 고정 단어표의 절 번호 순서를 따른다."
+      ],
+      "work_passage_id": "song3:10.69",
+      "html_path": "works/song3/index.html#p-10-69",
+      "fixed_html_path": "releases/public-0.33/works/song3/index.html#p-10-69",
+      "alignment_revision": "sha256:062ec2a5ae1c0fe4a6906a6f46526d54195bbc387fa8c5ab34c1db8cb1821d84",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_word_table_extraction",
+        "targets": {
+          "source_revision": "sha256:469569a312ecd007f7ae89231f22077f2b0b28a071e3756ef7bc01c7acbb91ea",
+          "translation_revision": "sha256:b093e342712dc861e561db92ea2ac7df5a4bb2994631462136e23c5d7fed1dac",
+          "alignment_revision": "sha256:062ec2a5ae1c0fe4a6906a6f46526d54195bbc387fa8c5ab34c1db8cb1821d84"
+        },
+        "scoped_ai_review": {
+          "id": "song3-addition-20261003",
+          "scope": "세 젊은이의 찬가 10.52-10.88 37절 전체 (Swete 송가집 번호)",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:469569a312ecd007f7ae89231f22077f2b0b28a071e3756ef7bc01c7acbb91ea",
+            "translation_revision": "sha256:b093e342712dc861e561db92ea2ac7df5a4bb2994631462136e23c5d7fed1dac",
+            "alignment_revision": "sha256:062ec2a5ae1c0fe4a6906a6f46526d54195bbc387fa8c5ab34c1db8cb1821d84"
+          }
+        }
+      },
+      "rights": {
+        "source": "GPL-3.0",
+        "source_url": "https://github.com/eliranwong/LXX-Swete-1930/blob/1d3efc3c63bd384a4f3f07ed37eef54b0d45ac33/01-Swete_word_with_punctuations.csv",
+        "license_url": "https://www.gnu.org/licenses/gpl-3.0.html",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "GPL-3.0",
+        "alignment_license": "GPL-3.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 GPL-3.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "익명",
+        "work": "세 젊은이의 찬가",
+        "reference": "10.69",
+        "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:b093e342712dc861e561db92ea2ac7df5a4bb2994631462136e23c5d7fed1dac",
+        "fixed_path": "releases/public-0.33/works/song3/index.html#p-10-69"
+      }
+    },
+    {
+      "ref": "10.70",
+      "chapter": 10,
+      "verse": 70,
+      "original": "εὐλογεῖτε, πάχναι καὶ χιόνες, τὸν κύριον· ὑμνεῖτε καὶ ὑπερυψοῦτε αὐτὸν εἰς τοὺς αἰῶνας.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:a2f128ddadbc2b8af61fee80444d3f068fa48059c25646cca76becd101fadb0e",
+      "source_file_sha256": "5cdeb6c993ff2883485b5c2006340bfd711a5d67b84f59aafac4e1caa4f6fbf4",
+      "reference_file_sha256": "39f71aabe259e3878a6d98df02f56eca8d62b1712491601f3812c81c9a1d3c6b",
+      "source_locator": {
+        "word_start": 608578,
+        "word_end_exclusive": 608591,
+        "reference_label": "Ode.10:70"
+      },
+      "ode": 10,
+      "korean": "서리와 눈아, 주님을 찬송하여라. 그분을 노래하고 영원히 높여라.",
+      "translation_revision": "sha256:d40a35a2e8963bc13910ad19b93a33da765f82ca15b7e7259c368ee98ebae5e6",
+      "groups": [
+        {
+          "id": "a-62f4373573e9489c2f91",
+          "source_range": [
+            0,
+            41
+          ],
+          "ko_range": [
+            0,
+            18
+          ],
+          "source_text": "εὐλογεῖτε, πάχναι καὶ χιόνες, τὸν κύριον·",
+          "ko_text": "서리와 눈아, 주님을 찬송하여라."
+        },
+        {
+          "id": "a-0f2a83ea97edb46087fe",
+          "source_range": [
+            42,
+            87
+          ],
+          "ko_range": [
+            19,
+            36
+          ],
+          "source_text": "ὑμνεῖτε καὶ ὑπερυψοῦτε αὐτὸν εἰς τοὺς αἰῶνας.",
+          "ko_text": "그분을 노래하고 영원히 높여라."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "song3:10.70",
+      "html_path": "works/song3/index.html#p-10-70",
+      "fixed_html_path": "releases/public-0.33/works/song3/index.html#p-10-70",
+      "alignment_revision": "sha256:8d92d2d1274b3874ed532161b1eadba5518a5e488771b76f7cf7a2f8f8492fae",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_word_table_extraction",
+        "targets": {
+          "source_revision": "sha256:a2f128ddadbc2b8af61fee80444d3f068fa48059c25646cca76becd101fadb0e",
+          "translation_revision": "sha256:d40a35a2e8963bc13910ad19b93a33da765f82ca15b7e7259c368ee98ebae5e6",
+          "alignment_revision": "sha256:8d92d2d1274b3874ed532161b1eadba5518a5e488771b76f7cf7a2f8f8492fae"
+        },
+        "scoped_ai_review": {
+          "id": "song3-addition-20261003",
+          "scope": "세 젊은이의 찬가 10.52-10.88 37절 전체 (Swete 송가집 번호)",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:a2f128ddadbc2b8af61fee80444d3f068fa48059c25646cca76becd101fadb0e",
+            "translation_revision": "sha256:d40a35a2e8963bc13910ad19b93a33da765f82ca15b7e7259c368ee98ebae5e6",
+            "alignment_revision": "sha256:8d92d2d1274b3874ed532161b1eadba5518a5e488771b76f7cf7a2f8f8492fae"
+          }
+        }
+      },
+      "rights": {
+        "source": "GPL-3.0",
+        "source_url": "https://github.com/eliranwong/LXX-Swete-1930/blob/1d3efc3c63bd384a4f3f07ed37eef54b0d45ac33/01-Swete_word_with_punctuations.csv",
+        "license_url": "https://www.gnu.org/licenses/gpl-3.0.html",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "GPL-3.0",
+        "alignment_license": "GPL-3.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 GPL-3.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "익명",
+        "work": "세 젊은이의 찬가",
+        "reference": "10.70",
+        "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:d40a35a2e8963bc13910ad19b93a33da765f82ca15b7e7259c368ee98ebae5e6",
+        "fixed_path": "releases/public-0.33/works/song3/index.html#p-10-70"
+      }
+    },
+    {
+      "ref": "10.71",
+      "chapter": 10,
+      "verse": 71,
+      "original": "εὐλογεῖτε, νύκτες καὶ ἡμέραι, τὸν κὺριον· ὑμνεῖτε καὶ ὑπερυψοῦτε αὐτὸν εἰς τοὺς αἰῶνας.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:16f1f4a1fd94c8475d2bb4a3562f9f0a66084348d648dc4105195f175148466f",
+      "source_file_sha256": "5cdeb6c993ff2883485b5c2006340bfd711a5d67b84f59aafac4e1caa4f6fbf4",
+      "reference_file_sha256": "39f71aabe259e3878a6d98df02f56eca8d62b1712491601f3812c81c9a1d3c6b",
+      "source_locator": {
+        "word_start": 608591,
+        "word_end_exclusive": 608604,
+        "reference_label": "Ode.10:71"
+      },
+      "ode": 10,
+      "korean": "밤과 낮아, 주님을 찬송하여라. 그분을 노래하고 영원히 높여라.",
+      "translation_revision": "sha256:72c7e7bb6aec7f6e87cfa539e95b51dcd78c6cf8da7d0a9729920642c8b82553",
+      "groups": [
+        {
+          "id": "a-3b1ad1b505b2d8d3c920",
+          "source_range": [
+            0,
+            41
+          ],
+          "ko_range": [
+            0,
+            17
+          ],
+          "source_text": "εὐλογεῖτε, νύκτες καὶ ἡμέραι, τὸν κὺριον·",
+          "ko_text": "밤과 낮아, 주님을 찬송하여라."
+        },
+        {
+          "id": "a-5ff11538320acc768560",
+          "source_range": [
+            42,
+            87
+          ],
+          "ko_range": [
+            18,
+            35
+          ],
+          "source_text": "ὑμνεῖτε καὶ ὑπερυψοῦτε αὐτὸν εἰς τοὺς αἰῶνας.",
+          "ko_text": "그분을 노래하고 영원히 높여라."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "song3:10.71",
+      "html_path": "works/song3/index.html#p-10-71",
+      "fixed_html_path": "releases/public-0.33/works/song3/index.html#p-10-71",
+      "alignment_revision": "sha256:71f7c881be214469292b9f1b68a8bd758c58e45bfd736919ee0c292c25beaf2b",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_word_table_extraction",
+        "targets": {
+          "source_revision": "sha256:16f1f4a1fd94c8475d2bb4a3562f9f0a66084348d648dc4105195f175148466f",
+          "translation_revision": "sha256:72c7e7bb6aec7f6e87cfa539e95b51dcd78c6cf8da7d0a9729920642c8b82553",
+          "alignment_revision": "sha256:71f7c881be214469292b9f1b68a8bd758c58e45bfd736919ee0c292c25beaf2b"
+        },
+        "scoped_ai_review": {
+          "id": "song3-addition-20261003",
+          "scope": "세 젊은이의 찬가 10.52-10.88 37절 전체 (Swete 송가집 번호)",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:16f1f4a1fd94c8475d2bb4a3562f9f0a66084348d648dc4105195f175148466f",
+            "translation_revision": "sha256:72c7e7bb6aec7f6e87cfa539e95b51dcd78c6cf8da7d0a9729920642c8b82553",
+            "alignment_revision": "sha256:71f7c881be214469292b9f1b68a8bd758c58e45bfd736919ee0c292c25beaf2b"
+          }
+        }
+      },
+      "rights": {
+        "source": "GPL-3.0",
+        "source_url": "https://github.com/eliranwong/LXX-Swete-1930/blob/1d3efc3c63bd384a4f3f07ed37eef54b0d45ac33/01-Swete_word_with_punctuations.csv",
+        "license_url": "https://www.gnu.org/licenses/gpl-3.0.html",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "GPL-3.0",
+        "alignment_license": "GPL-3.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 GPL-3.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "익명",
+        "work": "세 젊은이의 찬가",
+        "reference": "10.71",
+        "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:72c7e7bb6aec7f6e87cfa539e95b51dcd78c6cf8da7d0a9729920642c8b82553",
+        "fixed_path": "releases/public-0.33/works/song3/index.html#p-10-71"
+      }
+    },
+    {
+      "ref": "10.72",
+      "chapter": 10,
+      "verse": 72,
+      "original": "εὐλογεῖτε, φῶς καὶ σκότος, τὸν κύριον· ὑμνεῖτε καὶ ὑπερυψοῦτε αὐτὸν εἰς τοὺς αἰῶνας.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:8a278a228841afa7310243d9898bf63e8d82b2566ef83d722603fabd745bd4c9",
+      "source_file_sha256": "5cdeb6c993ff2883485b5c2006340bfd711a5d67b84f59aafac4e1caa4f6fbf4",
+      "reference_file_sha256": "39f71aabe259e3878a6d98df02f56eca8d62b1712491601f3812c81c9a1d3c6b",
+      "source_locator": {
+        "word_start": 608604,
+        "word_end_exclusive": 608617,
+        "reference_label": "Ode.10:72"
+      },
+      "ode": 10,
+      "korean": "빛과 어둠아, 주님을 찬송하여라. 그분을 노래하고 영원히 높여라.",
+      "translation_revision": "sha256:5d2b482e1b467252d81ee47733ca21a82fbd971f09dc0ea2fb40e66d03db57a8",
+      "groups": [
+        {
+          "id": "a-c40156cb5d12a425e984",
+          "source_range": [
+            0,
+            38
+          ],
+          "ko_range": [
+            0,
+            18
+          ],
+          "source_text": "εὐλογεῖτε, φῶς καὶ σκότος, τὸν κύριον·",
+          "ko_text": "빛과 어둠아, 주님을 찬송하여라."
+        },
+        {
+          "id": "a-7f1daaa6af82ef0a50be",
+          "source_range": [
+            39,
+            84
+          ],
+          "ko_range": [
+            19,
+            36
+          ],
+          "source_text": "ὑμνεῖτε καὶ ὑπερυψοῦτε αὐτὸν εἰς τοὺς αἰῶνας.",
+          "ko_text": "그분을 노래하고 영원히 높여라."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "song3:10.72",
+      "html_path": "works/song3/index.html#p-10-72",
+      "fixed_html_path": "releases/public-0.33/works/song3/index.html#p-10-72",
+      "alignment_revision": "sha256:6535b3f3e8d6a7d1319808e3d0eadabace86afcd1670f4398acebc7f8e0ae8a1",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_word_table_extraction",
+        "targets": {
+          "source_revision": "sha256:8a278a228841afa7310243d9898bf63e8d82b2566ef83d722603fabd745bd4c9",
+          "translation_revision": "sha256:5d2b482e1b467252d81ee47733ca21a82fbd971f09dc0ea2fb40e66d03db57a8",
+          "alignment_revision": "sha256:6535b3f3e8d6a7d1319808e3d0eadabace86afcd1670f4398acebc7f8e0ae8a1"
+        },
+        "scoped_ai_review": {
+          "id": "song3-addition-20261003",
+          "scope": "세 젊은이의 찬가 10.52-10.88 37절 전체 (Swete 송가집 번호)",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:8a278a228841afa7310243d9898bf63e8d82b2566ef83d722603fabd745bd4c9",
+            "translation_revision": "sha256:5d2b482e1b467252d81ee47733ca21a82fbd971f09dc0ea2fb40e66d03db57a8",
+            "alignment_revision": "sha256:6535b3f3e8d6a7d1319808e3d0eadabace86afcd1670f4398acebc7f8e0ae8a1"
+          }
+        }
+      },
+      "rights": {
+        "source": "GPL-3.0",
+        "source_url": "https://github.com/eliranwong/LXX-Swete-1930/blob/1d3efc3c63bd384a4f3f07ed37eef54b0d45ac33/01-Swete_word_with_punctuations.csv",
+        "license_url": "https://www.gnu.org/licenses/gpl-3.0.html",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "GPL-3.0",
+        "alignment_license": "GPL-3.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 GPL-3.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "익명",
+        "work": "세 젊은이의 찬가",
+        "reference": "10.72",
+        "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:5d2b482e1b467252d81ee47733ca21a82fbd971f09dc0ea2fb40e66d03db57a8",
+        "fixed_path": "releases/public-0.33/works/song3/index.html#p-10-72"
+      }
+    },
+    {
+      "ref": "10.73",
+      "chapter": 10,
+      "verse": 73,
+      "original": "εὐλογεῖτε, ἀστραπαὶ καὶ νεφέλαι, τὸν κύριον· ὑμνεῖτε καὶ ὑπερυψοῦτε αὐτὸν εἰς τοὺς αἰῶνας.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:1dd7e8b1ab877de6f42a40355b277974138145e4df50201f8b60bf38db6b8983",
+      "source_file_sha256": "5cdeb6c993ff2883485b5c2006340bfd711a5d67b84f59aafac4e1caa4f6fbf4",
+      "reference_file_sha256": "39f71aabe259e3878a6d98df02f56eca8d62b1712491601f3812c81c9a1d3c6b",
+      "source_locator": {
+        "word_start": 608617,
+        "word_end_exclusive": 608630,
+        "reference_label": "Ode.10:73"
+      },
+      "ode": 10,
+      "korean": "번개와 구름들아, 주님을 찬송하여라. 그분을 노래하고 영원히 높여라.",
+      "translation_revision": "sha256:10ca532fd79981f1c0aeef9db1675125181aa45cecab6113f3f842fb6d0c9f20",
+      "groups": [
+        {
+          "id": "a-1387c35803cd6887284c",
+          "source_range": [
+            0,
+            44
+          ],
+          "ko_range": [
+            0,
+            20
+          ],
+          "source_text": "εὐλογεῖτε, ἀστραπαὶ καὶ νεφέλαι, τὸν κύριον·",
+          "ko_text": "번개와 구름들아, 주님을 찬송하여라."
+        },
+        {
+          "id": "a-ee24cf4e0b0344f12374",
+          "source_range": [
+            45,
+            90
+          ],
+          "ko_range": [
+            21,
+            38
+          ],
+          "source_text": "ὑμνεῖτε καὶ ὑπερυψοῦτε αὐτὸν εἰς τοὺς αἰῶνας.",
+          "ko_text": "그분을 노래하고 영원히 높여라."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "song3:10.73",
+      "html_path": "works/song3/index.html#p-10-73",
+      "fixed_html_path": "releases/public-0.33/works/song3/index.html#p-10-73",
+      "alignment_revision": "sha256:7afaafefad47abca785b536784f4ea338c340ca157b7e3d8cfaa599e9f3f16ae",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_word_table_extraction",
+        "targets": {
+          "source_revision": "sha256:1dd7e8b1ab877de6f42a40355b277974138145e4df50201f8b60bf38db6b8983",
+          "translation_revision": "sha256:10ca532fd79981f1c0aeef9db1675125181aa45cecab6113f3f842fb6d0c9f20",
+          "alignment_revision": "sha256:7afaafefad47abca785b536784f4ea338c340ca157b7e3d8cfaa599e9f3f16ae"
+        },
+        "scoped_ai_review": {
+          "id": "song3-addition-20261003",
+          "scope": "세 젊은이의 찬가 10.52-10.88 37절 전체 (Swete 송가집 번호)",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:1dd7e8b1ab877de6f42a40355b277974138145e4df50201f8b60bf38db6b8983",
+            "translation_revision": "sha256:10ca532fd79981f1c0aeef9db1675125181aa45cecab6113f3f842fb6d0c9f20",
+            "alignment_revision": "sha256:7afaafefad47abca785b536784f4ea338c340ca157b7e3d8cfaa599e9f3f16ae"
+          }
+        }
+      },
+      "rights": {
+        "source": "GPL-3.0",
+        "source_url": "https://github.com/eliranwong/LXX-Swete-1930/blob/1d3efc3c63bd384a4f3f07ed37eef54b0d45ac33/01-Swete_word_with_punctuations.csv",
+        "license_url": "https://www.gnu.org/licenses/gpl-3.0.html",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "GPL-3.0",
+        "alignment_license": "GPL-3.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 GPL-3.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "익명",
+        "work": "세 젊은이의 찬가",
+        "reference": "10.73",
+        "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:10ca532fd79981f1c0aeef9db1675125181aa45cecab6113f3f842fb6d0c9f20",
+        "fixed_path": "releases/public-0.33/works/song3/index.html#p-10-73"
+      }
+    },
+    {
+      "ref": "10.74",
+      "chapter": 10,
+      "verse": 74,
+      "original": "εὐλογείτω ἡ γῆ τὸν κύριον· ὑμνείτω καὶ ὑπερυψούτω αὐτὸν εἰς τοὺς αἰῶνας.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:ae6246f2c3a04adfc7846a898037590f65257ff5b12683dee4581c843b684ad7",
+      "source_file_sha256": "5cdeb6c993ff2883485b5c2006340bfd711a5d67b84f59aafac4e1caa4f6fbf4",
+      "reference_file_sha256": "39f71aabe259e3878a6d98df02f56eca8d62b1712491601f3812c81c9a1d3c6b",
+      "source_locator": {
+        "word_start": 608630,
+        "word_end_exclusive": 608642,
+        "reference_label": "Ode.10:74"
+      },
+      "ode": 10,
+      "korean": "땅아, 주님을 찬송하여라. 그분을 노래하고 영원히 높여라.",
+      "translation_revision": "sha256:42ad782dc7edafc9367b9f133f11446add65cc574c65c47f9c42bced1092ee74",
+      "groups": [
+        {
+          "id": "a-872f74b33faf896c444f",
+          "source_range": [
+            0,
+            26
+          ],
+          "ko_range": [
+            0,
+            14
+          ],
+          "source_text": "εὐλογείτω ἡ γῆ τὸν κύριον·",
+          "ko_text": "땅아, 주님을 찬송하여라."
+        },
+        {
+          "id": "a-2f7125829e8ad3a83aa7",
+          "source_range": [
+            27,
+            72
+          ],
+          "ko_range": [
+            15,
+            32
+          ],
+          "source_text": "ὑμνείτω καὶ ὑπερυψούτω αὐτὸν εἰς τοὺς αἰῶνας.",
+          "ko_text": "그분을 노래하고 영원히 높여라."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "song3:10.74",
+      "html_path": "works/song3/index.html#p-10-74",
+      "fixed_html_path": "releases/public-0.33/works/song3/index.html#p-10-74",
+      "alignment_revision": "sha256:dd284c2c0d1e6e2ab8da0d6a102036056b10dcadb9afa6ed190266dba8c2ae22",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_word_table_extraction",
+        "targets": {
+          "source_revision": "sha256:ae6246f2c3a04adfc7846a898037590f65257ff5b12683dee4581c843b684ad7",
+          "translation_revision": "sha256:42ad782dc7edafc9367b9f133f11446add65cc574c65c47f9c42bced1092ee74",
+          "alignment_revision": "sha256:dd284c2c0d1e6e2ab8da0d6a102036056b10dcadb9afa6ed190266dba8c2ae22"
+        },
+        "scoped_ai_review": {
+          "id": "song3-addition-20261003",
+          "scope": "세 젊은이의 찬가 10.52-10.88 37절 전체 (Swete 송가집 번호)",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:ae6246f2c3a04adfc7846a898037590f65257ff5b12683dee4581c843b684ad7",
+            "translation_revision": "sha256:42ad782dc7edafc9367b9f133f11446add65cc574c65c47f9c42bced1092ee74",
+            "alignment_revision": "sha256:dd284c2c0d1e6e2ab8da0d6a102036056b10dcadb9afa6ed190266dba8c2ae22"
+          }
+        }
+      },
+      "rights": {
+        "source": "GPL-3.0",
+        "source_url": "https://github.com/eliranwong/LXX-Swete-1930/blob/1d3efc3c63bd384a4f3f07ed37eef54b0d45ac33/01-Swete_word_with_punctuations.csv",
+        "license_url": "https://www.gnu.org/licenses/gpl-3.0.html",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "GPL-3.0",
+        "alignment_license": "GPL-3.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 GPL-3.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "익명",
+        "work": "세 젊은이의 찬가",
+        "reference": "10.74",
+        "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:42ad782dc7edafc9367b9f133f11446add65cc574c65c47f9c42bced1092ee74",
+        "fixed_path": "releases/public-0.33/works/song3/index.html#p-10-74"
+      }
+    },
+    {
+      "ref": "10.75",
+      "chapter": 10,
+      "verse": 75,
+      "original": "εὐλογεῖτε, ὄρη καὶ βουνοί, τὸν κύριον· ὑμνεῖτε καὶ ὑπερυψοῦτε αὐτὸν εἰς τοὺς αἰῶνας.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:d726bff07c7ced4cc6c4a3663e9941ab32db1263f3297bbd25d411fb20d3f127",
+      "source_file_sha256": "5cdeb6c993ff2883485b5c2006340bfd711a5d67b84f59aafac4e1caa4f6fbf4",
+      "reference_file_sha256": "39f71aabe259e3878a6d98df02f56eca8d62b1712491601f3812c81c9a1d3c6b",
+      "source_locator": {
+        "word_start": 608642,
+        "word_end_exclusive": 608655,
+        "reference_label": "Ode.10:75"
+      },
+      "ode": 10,
+      "korean": "산과 언덕들아, 주님을 찬송하여라. 그분을 노래하고 영원히 높여라.",
+      "translation_revision": "sha256:9616f8f7b99f93b3f4a9acc75015a26ce6aef1ada05e5c643ae731734d868d24",
+      "groups": [
+        {
+          "id": "a-ce7b9664643e51840839",
+          "source_range": [
+            0,
+            38
+          ],
+          "ko_range": [
+            0,
+            19
+          ],
+          "source_text": "εὐλογεῖτε, ὄρη καὶ βουνοί, τὸν κύριον·",
+          "ko_text": "산과 언덕들아, 주님을 찬송하여라."
+        },
+        {
+          "id": "a-41a1168252c5eeb2edcd",
+          "source_range": [
+            39,
+            84
+          ],
+          "ko_range": [
+            20,
+            37
+          ],
+          "source_text": "ὑμνεῖτε καὶ ὑπερυψοῦτε αὐτὸν εἰς τοὺς αἰῶνας.",
+          "ko_text": "그분을 노래하고 영원히 높여라."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "song3:10.75",
+      "html_path": "works/song3/index.html#p-10-75",
+      "fixed_html_path": "releases/public-0.33/works/song3/index.html#p-10-75",
+      "alignment_revision": "sha256:0785321d7b7e678fcd8a9f0599e983a85fe0542aaf1df04389a9f5e07972a358",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_word_table_extraction",
+        "targets": {
+          "source_revision": "sha256:d726bff07c7ced4cc6c4a3663e9941ab32db1263f3297bbd25d411fb20d3f127",
+          "translation_revision": "sha256:9616f8f7b99f93b3f4a9acc75015a26ce6aef1ada05e5c643ae731734d868d24",
+          "alignment_revision": "sha256:0785321d7b7e678fcd8a9f0599e983a85fe0542aaf1df04389a9f5e07972a358"
+        },
+        "scoped_ai_review": {
+          "id": "song3-addition-20261003",
+          "scope": "세 젊은이의 찬가 10.52-10.88 37절 전체 (Swete 송가집 번호)",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:d726bff07c7ced4cc6c4a3663e9941ab32db1263f3297bbd25d411fb20d3f127",
+            "translation_revision": "sha256:9616f8f7b99f93b3f4a9acc75015a26ce6aef1ada05e5c643ae731734d868d24",
+            "alignment_revision": "sha256:0785321d7b7e678fcd8a9f0599e983a85fe0542aaf1df04389a9f5e07972a358"
+          }
+        }
+      },
+      "rights": {
+        "source": "GPL-3.0",
+        "source_url": "https://github.com/eliranwong/LXX-Swete-1930/blob/1d3efc3c63bd384a4f3f07ed37eef54b0d45ac33/01-Swete_word_with_punctuations.csv",
+        "license_url": "https://www.gnu.org/licenses/gpl-3.0.html",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "GPL-3.0",
+        "alignment_license": "GPL-3.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 GPL-3.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "익명",
+        "work": "세 젊은이의 찬가",
+        "reference": "10.75",
+        "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:9616f8f7b99f93b3f4a9acc75015a26ce6aef1ada05e5c643ae731734d868d24",
+        "fixed_path": "releases/public-0.33/works/song3/index.html#p-10-75"
+      }
+    },
+    {
+      "ref": "10.76",
+      "chapter": 10,
+      "verse": 76,
+      "original": "εὐλογεῖτε, πάντα τὰ φυόμενα ἐν τῇ γῇ, τὸν κύριον· ὑμνεῖτε καὶ ὑπερυψοῦτε αὐτὸν εἰς τοὺς αἰῶνας.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:9d8fff25204353a1406b8eafe5377f130554728de4edbbb2bf1cddb80bbf7e3a",
+      "source_file_sha256": "5cdeb6c993ff2883485b5c2006340bfd711a5d67b84f59aafac4e1caa4f6fbf4",
+      "reference_file_sha256": "39f71aabe259e3878a6d98df02f56eca8d62b1712491601f3812c81c9a1d3c6b",
+      "source_locator": {
+        "word_start": 608655,
+        "word_end_exclusive": 608671,
+        "reference_label": "Ode.10:76"
+      },
+      "ode": 10,
+      "korean": "땅에서 자라는 모든 것들아, 주님을 찬송하여라. 그분을 노래하고 영원히 높여라.",
+      "translation_revision": "sha256:386990009867962775dbcf517e1f9c03f72ec57ecd0e93e9ee6146ee30b2ecf2",
+      "groups": [
+        {
+          "id": "a-66f6cfb19e899c2ef4f1",
+          "source_range": [
+            0,
+            49
+          ],
+          "ko_range": [
+            0,
+            26
+          ],
+          "source_text": "εὐλογεῖτε, πάντα τὰ φυόμενα ἐν τῇ γῇ, τὸν κύριον·",
+          "ko_text": "땅에서 자라는 모든 것들아, 주님을 찬송하여라."
+        },
+        {
+          "id": "a-389c11209ed372038ff1",
+          "source_range": [
+            50,
+            95
+          ],
+          "ko_range": [
+            27,
+            44
+          ],
+          "source_text": "ὑμνεῖτε καὶ ὑπερυψοῦτε αὐτὸν εἰς τοὺς αἰῶνας.",
+          "ko_text": "그분을 노래하고 영원히 높여라."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "song3:10.76",
+      "html_path": "works/song3/index.html#p-10-76",
+      "fixed_html_path": "releases/public-0.33/works/song3/index.html#p-10-76",
+      "alignment_revision": "sha256:e339f98adf0e4dc4b7ff54de8ee7c9ac88aacb0fe0154b5c5887c3106fc2ba69",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_word_table_extraction",
+        "targets": {
+          "source_revision": "sha256:9d8fff25204353a1406b8eafe5377f130554728de4edbbb2bf1cddb80bbf7e3a",
+          "translation_revision": "sha256:386990009867962775dbcf517e1f9c03f72ec57ecd0e93e9ee6146ee30b2ecf2",
+          "alignment_revision": "sha256:e339f98adf0e4dc4b7ff54de8ee7c9ac88aacb0fe0154b5c5887c3106fc2ba69"
+        },
+        "scoped_ai_review": {
+          "id": "song3-addition-20261003",
+          "scope": "세 젊은이의 찬가 10.52-10.88 37절 전체 (Swete 송가집 번호)",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:9d8fff25204353a1406b8eafe5377f130554728de4edbbb2bf1cddb80bbf7e3a",
+            "translation_revision": "sha256:386990009867962775dbcf517e1f9c03f72ec57ecd0e93e9ee6146ee30b2ecf2",
+            "alignment_revision": "sha256:e339f98adf0e4dc4b7ff54de8ee7c9ac88aacb0fe0154b5c5887c3106fc2ba69"
+          }
+        }
+      },
+      "rights": {
+        "source": "GPL-3.0",
+        "source_url": "https://github.com/eliranwong/LXX-Swete-1930/blob/1d3efc3c63bd384a4f3f07ed37eef54b0d45ac33/01-Swete_word_with_punctuations.csv",
+        "license_url": "https://www.gnu.org/licenses/gpl-3.0.html",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "GPL-3.0",
+        "alignment_license": "GPL-3.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 GPL-3.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "익명",
+        "work": "세 젊은이의 찬가",
+        "reference": "10.76",
+        "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:386990009867962775dbcf517e1f9c03f72ec57ecd0e93e9ee6146ee30b2ecf2",
+        "fixed_path": "releases/public-0.33/works/song3/index.html#p-10-76"
+      }
+    },
+    {
+      "ref": "10.77",
+      "chapter": 10,
+      "verse": 77,
+      "original": "εὐλογεῖτε, αἱ πηγαί, τὸν κύριον· ὑμνεῖτε καὶ ὑπερυψοῦτε αὐτὸν εἰς τοὺς αἰῶνας.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:6da96afa22bc4a4177ed4f46388db9f011ad3ed9480547b2e16fce215d9fcc6d",
+      "source_file_sha256": "5cdeb6c993ff2883485b5c2006340bfd711a5d67b84f59aafac4e1caa4f6fbf4",
+      "reference_file_sha256": "39f71aabe259e3878a6d98df02f56eca8d62b1712491601f3812c81c9a1d3c6b",
+      "source_locator": {
+        "word_start": 608671,
+        "word_end_exclusive": 608683,
+        "reference_label": "Ode.10:77"
+      },
+      "ode": 10,
+      "korean": "샘들아, 주님을 찬송하여라. 그분을 노래하고 영원히 높여라.",
+      "translation_revision": "sha256:d82fcef238a5500d85b6c935236195629289fde17d46746c1e7ed4f02f61bb1e",
+      "groups": [
+        {
+          "id": "a-6777c13a704b2a70b732",
+          "source_range": [
+            0,
+            32
+          ],
+          "ko_range": [
+            0,
+            15
+          ],
+          "source_text": "εὐλογεῖτε, αἱ πηγαί, τὸν κύριον·",
+          "ko_text": "샘들아, 주님을 찬송하여라."
+        },
+        {
+          "id": "a-1cbec3432ef05a09e06e",
+          "source_range": [
+            33,
+            78
+          ],
+          "ko_range": [
+            16,
+            33
+          ],
+          "source_text": "ὑμνεῖτε καὶ ὑπερυψοῦτε αὐτὸν εἰς τοὺς αἰῶνας.",
+          "ko_text": "그분을 노래하고 영원히 높여라."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "song3:10.77",
+      "html_path": "works/song3/index.html#p-10-77",
+      "fixed_html_path": "releases/public-0.33/works/song3/index.html#p-10-77",
+      "alignment_revision": "sha256:c689157acee9751b3ae0ff291a3e3b2da1a5b2987a3c3478e0804315be56105a",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_word_table_extraction",
+        "targets": {
+          "source_revision": "sha256:6da96afa22bc4a4177ed4f46388db9f011ad3ed9480547b2e16fce215d9fcc6d",
+          "translation_revision": "sha256:d82fcef238a5500d85b6c935236195629289fde17d46746c1e7ed4f02f61bb1e",
+          "alignment_revision": "sha256:c689157acee9751b3ae0ff291a3e3b2da1a5b2987a3c3478e0804315be56105a"
+        },
+        "scoped_ai_review": {
+          "id": "song3-addition-20261003",
+          "scope": "세 젊은이의 찬가 10.52-10.88 37절 전체 (Swete 송가집 번호)",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:6da96afa22bc4a4177ed4f46388db9f011ad3ed9480547b2e16fce215d9fcc6d",
+            "translation_revision": "sha256:d82fcef238a5500d85b6c935236195629289fde17d46746c1e7ed4f02f61bb1e",
+            "alignment_revision": "sha256:c689157acee9751b3ae0ff291a3e3b2da1a5b2987a3c3478e0804315be56105a"
+          }
+        }
+      },
+      "rights": {
+        "source": "GPL-3.0",
+        "source_url": "https://github.com/eliranwong/LXX-Swete-1930/blob/1d3efc3c63bd384a4f3f07ed37eef54b0d45ac33/01-Swete_word_with_punctuations.csv",
+        "license_url": "https://www.gnu.org/licenses/gpl-3.0.html",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "GPL-3.0",
+        "alignment_license": "GPL-3.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 GPL-3.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "익명",
+        "work": "세 젊은이의 찬가",
+        "reference": "10.77",
+        "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:d82fcef238a5500d85b6c935236195629289fde17d46746c1e7ed4f02f61bb1e",
+        "fixed_path": "releases/public-0.33/works/song3/index.html#p-10-77"
+      }
+    },
+    {
+      "ref": "10.78",
+      "chapter": 10,
+      "verse": 78,
+      "original": "εὐλογεῖτε, θάλασσαι καὶ ποταμοί, τὸν κύριον· ὑμνεῖτε καὶ ὑπερυψοῦτε αὐτὸν εἰς τοὺς αἰῶνας.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:efed76c51038b76c2938f14aa42c489535ea745a803ea8b93313a35bfcd2eca3",
+      "source_file_sha256": "5cdeb6c993ff2883485b5c2006340bfd711a5d67b84f59aafac4e1caa4f6fbf4",
+      "reference_file_sha256": "39f71aabe259e3878a6d98df02f56eca8d62b1712491601f3812c81c9a1d3c6b",
+      "source_locator": {
+        "word_start": 608683,
+        "word_end_exclusive": 608696,
+        "reference_label": "Ode.10:78"
+      },
+      "ode": 10,
+      "korean": "바다와 강들아, 주님을 찬송하여라. 그분을 노래하고 영원히 높여라.",
+      "translation_revision": "sha256:4c924d5638e5eb788c59a1a50ace9b2840efc78601d8be1ec8663d1e442959ed",
+      "groups": [
+        {
+          "id": "a-d96735c9317835131a46",
+          "source_range": [
+            0,
+            44
+          ],
+          "ko_range": [
+            0,
+            19
+          ],
+          "source_text": "εὐλογεῖτε, θάλασσαι καὶ ποταμοί, τὸν κύριον·",
+          "ko_text": "바다와 강들아, 주님을 찬송하여라."
+        },
+        {
+          "id": "a-46e56d201a9b85fcb1e5",
+          "source_range": [
+            45,
+            90
+          ],
+          "ko_range": [
+            20,
+            37
+          ],
+          "source_text": "ὑμνεῖτε καὶ ὑπερυψοῦτε αὐτὸν εἰς τοὺς αἰῶνας.",
+          "ko_text": "그분을 노래하고 영원히 높여라."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "song3:10.78",
+      "html_path": "works/song3/index.html#p-10-78",
+      "fixed_html_path": "releases/public-0.33/works/song3/index.html#p-10-78",
+      "alignment_revision": "sha256:bd2d7f7f2ec209b51778bd040dba4a6a3038e419ecd781ab8bb95c099122b70c",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_word_table_extraction",
+        "targets": {
+          "source_revision": "sha256:efed76c51038b76c2938f14aa42c489535ea745a803ea8b93313a35bfcd2eca3",
+          "translation_revision": "sha256:4c924d5638e5eb788c59a1a50ace9b2840efc78601d8be1ec8663d1e442959ed",
+          "alignment_revision": "sha256:bd2d7f7f2ec209b51778bd040dba4a6a3038e419ecd781ab8bb95c099122b70c"
+        },
+        "scoped_ai_review": {
+          "id": "song3-addition-20261003",
+          "scope": "세 젊은이의 찬가 10.52-10.88 37절 전체 (Swete 송가집 번호)",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:efed76c51038b76c2938f14aa42c489535ea745a803ea8b93313a35bfcd2eca3",
+            "translation_revision": "sha256:4c924d5638e5eb788c59a1a50ace9b2840efc78601d8be1ec8663d1e442959ed",
+            "alignment_revision": "sha256:bd2d7f7f2ec209b51778bd040dba4a6a3038e419ecd781ab8bb95c099122b70c"
+          }
+        }
+      },
+      "rights": {
+        "source": "GPL-3.0",
+        "source_url": "https://github.com/eliranwong/LXX-Swete-1930/blob/1d3efc3c63bd384a4f3f07ed37eef54b0d45ac33/01-Swete_word_with_punctuations.csv",
+        "license_url": "https://www.gnu.org/licenses/gpl-3.0.html",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "GPL-3.0",
+        "alignment_license": "GPL-3.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 GPL-3.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "익명",
+        "work": "세 젊은이의 찬가",
+        "reference": "10.78",
+        "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:4c924d5638e5eb788c59a1a50ace9b2840efc78601d8be1ec8663d1e442959ed",
+        "fixed_path": "releases/public-0.33/works/song3/index.html#p-10-78"
+      }
+    },
+    {
+      "ref": "10.79",
+      "chapter": 10,
+      "verse": 79,
+      "original": "εὐλογεῖτε, κήτη καὶ πάντα τὰ κινούμενα ἐν τοῖς ὕδασιν, τὸν κύριον· ὑμνεῖτε καὶ ὑπερυψοῦτε αὐτὸν εἰς τοὺς αἰῶνας.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:645e1c8c51e63bd4b1311271b47928b482570ed6481d55e8f4a9a97dec8ddf7b",
+      "source_file_sha256": "5cdeb6c993ff2883485b5c2006340bfd711a5d67b84f59aafac4e1caa4f6fbf4",
+      "reference_file_sha256": "39f71aabe259e3878a6d98df02f56eca8d62b1712491601f3812c81c9a1d3c6b",
+      "source_locator": {
+        "word_start": 608696,
+        "word_end_exclusive": 608714,
+        "reference_label": "Ode.10:79"
+      },
+      "ode": 10,
+      "korean": "큰 바다짐승들과 물에서 움직이는 모든 것들아, 주님을 찬송하여라. 그분을 노래하고 영원히 높여라.",
+      "translation_revision": "sha256:81325330e9fec85226053bdc9c3777ad3c961ed2dd0ca73e77eb1e819c3818d9",
+      "groups": [
+        {
+          "id": "a-0cf8b432dba50fa618ba",
+          "source_range": [
+            0,
+            66
+          ],
+          "ko_range": [
+            0,
+            36
+          ],
+          "source_text": "εὐλογεῖτε, κήτη καὶ πάντα τὰ κινούμενα ἐν τοῖς ὕδασιν, τὸν κύριον·",
+          "ko_text": "큰 바다짐승들과 물에서 움직이는 모든 것들아, 주님을 찬송하여라."
+        },
+        {
+          "id": "a-06fed0ea9ad941ff1500",
+          "source_range": [
+            67,
+            112
+          ],
+          "ko_range": [
+            37,
+            54
+          ],
+          "source_text": "ὑμνεῖτε καὶ ὑπερυψοῦτε αὐτὸν εἰς τοὺς αἰῶνας.",
+          "ko_text": "그분을 노래하고 영원히 높여라."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "song3:10.79",
+      "html_path": "works/song3/index.html#p-10-79",
+      "fixed_html_path": "releases/public-0.33/works/song3/index.html#p-10-79",
+      "alignment_revision": "sha256:dae2e99cefaf2957ebb365023e3d15d68cbca6c95f600473525ef3277fe5c6c9",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_word_table_extraction",
+        "targets": {
+          "source_revision": "sha256:645e1c8c51e63bd4b1311271b47928b482570ed6481d55e8f4a9a97dec8ddf7b",
+          "translation_revision": "sha256:81325330e9fec85226053bdc9c3777ad3c961ed2dd0ca73e77eb1e819c3818d9",
+          "alignment_revision": "sha256:dae2e99cefaf2957ebb365023e3d15d68cbca6c95f600473525ef3277fe5c6c9"
+        },
+        "scoped_ai_review": {
+          "id": "song3-addition-20261003",
+          "scope": "세 젊은이의 찬가 10.52-10.88 37절 전체 (Swete 송가집 번호)",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:645e1c8c51e63bd4b1311271b47928b482570ed6481d55e8f4a9a97dec8ddf7b",
+            "translation_revision": "sha256:81325330e9fec85226053bdc9c3777ad3c961ed2dd0ca73e77eb1e819c3818d9",
+            "alignment_revision": "sha256:dae2e99cefaf2957ebb365023e3d15d68cbca6c95f600473525ef3277fe5c6c9"
+          }
+        }
+      },
+      "rights": {
+        "source": "GPL-3.0",
+        "source_url": "https://github.com/eliranwong/LXX-Swete-1930/blob/1d3efc3c63bd384a4f3f07ed37eef54b0d45ac33/01-Swete_word_with_punctuations.csv",
+        "license_url": "https://www.gnu.org/licenses/gpl-3.0.html",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "GPL-3.0",
+        "alignment_license": "GPL-3.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 GPL-3.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "익명",
+        "work": "세 젊은이의 찬가",
+        "reference": "10.79",
+        "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:81325330e9fec85226053bdc9c3777ad3c961ed2dd0ca73e77eb1e819c3818d9",
+        "fixed_path": "releases/public-0.33/works/song3/index.html#p-10-79"
+      }
+    },
+    {
+      "ref": "10.80",
+      "chapter": 10,
+      "verse": 80,
+      "original": "εὐλογεῖτε, πάντα τὰ πετεινὰ τοῦ οὐρανοῦ, τὸν κύριον· ὑμνεῖτε καὶ ὑπερυψοῦτε αὐτὸν εἰς τοὺς αἰῶνας.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:479862abd1ce01b42a1a6374f37c49dbb165a6a2c8aa86450188e573c5860a37",
+      "source_file_sha256": "5cdeb6c993ff2883485b5c2006340bfd711a5d67b84f59aafac4e1caa4f6fbf4",
+      "reference_file_sha256": "39f71aabe259e3878a6d98df02f56eca8d62b1712491601f3812c81c9a1d3c6b",
+      "source_locator": {
+        "word_start": 608714,
+        "word_end_exclusive": 608729,
+        "reference_label": "Ode.10:80"
+      },
+      "ode": 10,
+      "korean": "하늘의 모든 새들아, 주님을 찬송하여라. 그분을 노래하고 영원히 높여라.",
+      "translation_revision": "sha256:4029c3a397cd8d7485f0e8973fa9105ae20453a7697b4dcdbaa42c0b5f4f4af1",
+      "groups": [
+        {
+          "id": "a-04ac3ccb42d085ef1d88",
+          "source_range": [
+            0,
+            52
+          ],
+          "ko_range": [
+            0,
+            22
+          ],
+          "source_text": "εὐλογεῖτε, πάντα τὰ πετεινὰ τοῦ οὐρανοῦ, τὸν κύριον·",
+          "ko_text": "하늘의 모든 새들아, 주님을 찬송하여라."
+        },
+        {
+          "id": "a-596d0467643e17af761d",
+          "source_range": [
+            53,
+            98
+          ],
+          "ko_range": [
+            23,
+            40
+          ],
+          "source_text": "ὑμνεῖτε καὶ ὑπερυψοῦτε αὐτὸν εἰς τοὺς αἰῶνας.",
+          "ko_text": "그분을 노래하고 영원히 높여라."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "song3:10.80",
+      "html_path": "works/song3/index.html#p-10-80",
+      "fixed_html_path": "releases/public-0.33/works/song3/index.html#p-10-80",
+      "alignment_revision": "sha256:d3e263719e6216faf308fd2b23707d4e0d6029384dab94744a9fbdc62acd3ab9",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_word_table_extraction",
+        "targets": {
+          "source_revision": "sha256:479862abd1ce01b42a1a6374f37c49dbb165a6a2c8aa86450188e573c5860a37",
+          "translation_revision": "sha256:4029c3a397cd8d7485f0e8973fa9105ae20453a7697b4dcdbaa42c0b5f4f4af1",
+          "alignment_revision": "sha256:d3e263719e6216faf308fd2b23707d4e0d6029384dab94744a9fbdc62acd3ab9"
+        },
+        "scoped_ai_review": {
+          "id": "song3-addition-20261003",
+          "scope": "세 젊은이의 찬가 10.52-10.88 37절 전체 (Swete 송가집 번호)",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:479862abd1ce01b42a1a6374f37c49dbb165a6a2c8aa86450188e573c5860a37",
+            "translation_revision": "sha256:4029c3a397cd8d7485f0e8973fa9105ae20453a7697b4dcdbaa42c0b5f4f4af1",
+            "alignment_revision": "sha256:d3e263719e6216faf308fd2b23707d4e0d6029384dab94744a9fbdc62acd3ab9"
+          }
+        }
+      },
+      "rights": {
+        "source": "GPL-3.0",
+        "source_url": "https://github.com/eliranwong/LXX-Swete-1930/blob/1d3efc3c63bd384a4f3f07ed37eef54b0d45ac33/01-Swete_word_with_punctuations.csv",
+        "license_url": "https://www.gnu.org/licenses/gpl-3.0.html",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "GPL-3.0",
+        "alignment_license": "GPL-3.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 GPL-3.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "익명",
+        "work": "세 젊은이의 찬가",
+        "reference": "10.80",
+        "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:4029c3a397cd8d7485f0e8973fa9105ae20453a7697b4dcdbaa42c0b5f4f4af1",
+        "fixed_path": "releases/public-0.33/works/song3/index.html#p-10-80"
+      }
+    },
+    {
+      "ref": "10.81",
+      "chapter": 10,
+      "verse": 81,
+      "original": "εὐλογεῖτε, τὰ θηρία καὶ πάντα τὰ κτήνη, τὸν κύριον· ὑμνεῖτε καὶ ὑπερυψοῦτε αὐτὸν εἰς τοὺς αἰῶνας.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:f38b68767ff8b38b818bd545e16b54f687fa9507dc3c3fdc2fa377520b9a2c9b",
+      "source_file_sha256": "5cdeb6c993ff2883485b5c2006340bfd711a5d67b84f59aafac4e1caa4f6fbf4",
+      "reference_file_sha256": "39f71aabe259e3878a6d98df02f56eca8d62b1712491601f3812c81c9a1d3c6b",
+      "source_locator": {
+        "word_start": 608729,
+        "word_end_exclusive": 608745,
+        "reference_label": "Ode.10:81"
+      },
+      "ode": 10,
+      "korean": "들짐승들과 모든 가축들아, 주님을 찬송하여라. 그분을 노래하고 영원히 높여라.",
+      "translation_revision": "sha256:1ef8329e779dab8e6698e9e0da72feb7215709cd229e9d4df7bd3c2db67430aa",
+      "groups": [
+        {
+          "id": "a-12bba888c9f627855779",
+          "source_range": [
+            0,
+            51
+          ],
+          "ko_range": [
+            0,
+            25
+          ],
+          "source_text": "εὐλογεῖτε, τὰ θηρία καὶ πάντα τὰ κτήνη, τὸν κύριον·",
+          "ko_text": "들짐승들과 모든 가축들아, 주님을 찬송하여라."
+        },
+        {
+          "id": "a-95a494086abd45b31b7e",
+          "source_range": [
+            52,
+            97
+          ],
+          "ko_range": [
+            26,
+            43
+          ],
+          "source_text": "ὑμνεῖτε καὶ ὑπερυψοῦτε αὐτὸν εἰς τοὺς αἰῶνας.",
+          "ko_text": "그분을 노래하고 영원히 높여라."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "song3:10.81",
+      "html_path": "works/song3/index.html#p-10-81",
+      "fixed_html_path": "releases/public-0.33/works/song3/index.html#p-10-81",
+      "alignment_revision": "sha256:fcc5ced941d115840ae0e394f324d9f521a7caaef76571628aed98fd36b291bf",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_word_table_extraction",
+        "targets": {
+          "source_revision": "sha256:f38b68767ff8b38b818bd545e16b54f687fa9507dc3c3fdc2fa377520b9a2c9b",
+          "translation_revision": "sha256:1ef8329e779dab8e6698e9e0da72feb7215709cd229e9d4df7bd3c2db67430aa",
+          "alignment_revision": "sha256:fcc5ced941d115840ae0e394f324d9f521a7caaef76571628aed98fd36b291bf"
+        },
+        "scoped_ai_review": {
+          "id": "song3-addition-20261003",
+          "scope": "세 젊은이의 찬가 10.52-10.88 37절 전체 (Swete 송가집 번호)",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:f38b68767ff8b38b818bd545e16b54f687fa9507dc3c3fdc2fa377520b9a2c9b",
+            "translation_revision": "sha256:1ef8329e779dab8e6698e9e0da72feb7215709cd229e9d4df7bd3c2db67430aa",
+            "alignment_revision": "sha256:fcc5ced941d115840ae0e394f324d9f521a7caaef76571628aed98fd36b291bf"
+          }
+        }
+      },
+      "rights": {
+        "source": "GPL-3.0",
+        "source_url": "https://github.com/eliranwong/LXX-Swete-1930/blob/1d3efc3c63bd384a4f3f07ed37eef54b0d45ac33/01-Swete_word_with_punctuations.csv",
+        "license_url": "https://www.gnu.org/licenses/gpl-3.0.html",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "GPL-3.0",
+        "alignment_license": "GPL-3.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 GPL-3.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "익명",
+        "work": "세 젊은이의 찬가",
+        "reference": "10.81",
+        "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:1ef8329e779dab8e6698e9e0da72feb7215709cd229e9d4df7bd3c2db67430aa",
+        "fixed_path": "releases/public-0.33/works/song3/index.html#p-10-81"
+      }
+    },
+    {
+      "ref": "10.82",
+      "chapter": 10,
+      "verse": 82,
+      "original": "εὐλογεῖτε, υἱοὶ τῶν ἀνθρώπων, τὸν κύριον· ὑμνεῖτε καὶ ὑπερυψοῦτε αὐτὸν εἰς τοὺς αἰῶνας.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:a7a0fa564f19e39c36a692ed13be32d00a56070b47210a48dc8900ea6ee4fe07",
+      "source_file_sha256": "5cdeb6c993ff2883485b5c2006340bfd711a5d67b84f59aafac4e1caa4f6fbf4",
+      "reference_file_sha256": "39f71aabe259e3878a6d98df02f56eca8d62b1712491601f3812c81c9a1d3c6b",
+      "source_locator": {
+        "word_start": 608745,
+        "word_end_exclusive": 608758,
+        "reference_label": "Ode.10:82"
+      },
+      "ode": 10,
+      "korean": "사람의 자손들아, 주님을 찬송하여라. 그분을 노래하고 영원히 높여라.",
+      "translation_revision": "sha256:989848924913829791d52fc84e360bf2cb5189a4a723954959f81e3fcaf7986f",
+      "groups": [
+        {
+          "id": "a-5b1ca38e0b0cb7e5cf87",
+          "source_range": [
+            0,
+            41
+          ],
+          "ko_range": [
+            0,
+            20
+          ],
+          "source_text": "εὐλογεῖτε, υἱοὶ τῶν ἀνθρώπων, τὸν κύριον·",
+          "ko_text": "사람의 자손들아, 주님을 찬송하여라."
+        },
+        {
+          "id": "a-d4dd69c4411f0f8336c2",
+          "source_range": [
+            42,
+            87
+          ],
+          "ko_range": [
+            21,
+            38
+          ],
+          "source_text": "ὑμνεῖτε καὶ ὑπερυψοῦτε αὐτὸν εἰς τοὺς αἰῶνας.",
+          "ko_text": "그분을 노래하고 영원히 높여라."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "song3:10.82",
+      "html_path": "works/song3/index.html#p-10-82",
+      "fixed_html_path": "releases/public-0.33/works/song3/index.html#p-10-82",
+      "alignment_revision": "sha256:71266445b5a6e2b6975a9b6d9ac60167e09f9264d62a9d56bb881b0dd9709c25",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_word_table_extraction",
+        "targets": {
+          "source_revision": "sha256:a7a0fa564f19e39c36a692ed13be32d00a56070b47210a48dc8900ea6ee4fe07",
+          "translation_revision": "sha256:989848924913829791d52fc84e360bf2cb5189a4a723954959f81e3fcaf7986f",
+          "alignment_revision": "sha256:71266445b5a6e2b6975a9b6d9ac60167e09f9264d62a9d56bb881b0dd9709c25"
+        },
+        "scoped_ai_review": {
+          "id": "song3-addition-20261003",
+          "scope": "세 젊은이의 찬가 10.52-10.88 37절 전체 (Swete 송가집 번호)",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:a7a0fa564f19e39c36a692ed13be32d00a56070b47210a48dc8900ea6ee4fe07",
+            "translation_revision": "sha256:989848924913829791d52fc84e360bf2cb5189a4a723954959f81e3fcaf7986f",
+            "alignment_revision": "sha256:71266445b5a6e2b6975a9b6d9ac60167e09f9264d62a9d56bb881b0dd9709c25"
+          }
+        }
+      },
+      "rights": {
+        "source": "GPL-3.0",
+        "source_url": "https://github.com/eliranwong/LXX-Swete-1930/blob/1d3efc3c63bd384a4f3f07ed37eef54b0d45ac33/01-Swete_word_with_punctuations.csv",
+        "license_url": "https://www.gnu.org/licenses/gpl-3.0.html",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "GPL-3.0",
+        "alignment_license": "GPL-3.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 GPL-3.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "익명",
+        "work": "세 젊은이의 찬가",
+        "reference": "10.82",
+        "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:989848924913829791d52fc84e360bf2cb5189a4a723954959f81e3fcaf7986f",
+        "fixed_path": "releases/public-0.33/works/song3/index.html#p-10-82"
+      }
+    },
+    {
+      "ref": "10.83",
+      "chapter": 10,
+      "verse": 83,
+      "original": "εὐλογείτω Ἰσραὴλ τὸν κύριον· ὑμνείτω καὶ ὑπερυψούτω αὐτὸν εἰς τοὺς αἰῶνας.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:698cc94e374096ee828f7165a0dd6f5ed918f314df4f3f3f46282bb68380e185",
+      "source_file_sha256": "5cdeb6c993ff2883485b5c2006340bfd711a5d67b84f59aafac4e1caa4f6fbf4",
+      "reference_file_sha256": "39f71aabe259e3878a6d98df02f56eca8d62b1712491601f3812c81c9a1d3c6b",
+      "source_locator": {
+        "word_start": 608758,
+        "word_end_exclusive": 608769,
+        "reference_label": "Ode.10:83"
+      },
+      "ode": 10,
+      "korean": "이스라엘아, 주님을 찬송하여라. 그분을 노래하고 영원히 높여라.",
+      "translation_revision": "sha256:3ac0fcd0672d8ccad17e90151d7574d7e211096b5b5b8dec255d48f127337871",
+      "groups": [
+        {
+          "id": "a-2fdb3cfe497e7fcc1267",
+          "source_range": [
+            0,
+            28
+          ],
+          "ko_range": [
+            0,
+            17
+          ],
+          "source_text": "εὐλογείτω Ἰσραὴλ τὸν κύριον·",
+          "ko_text": "이스라엘아, 주님을 찬송하여라."
+        },
+        {
+          "id": "a-a56932bd8e1d658bf0f5",
+          "source_range": [
+            29,
+            74
+          ],
+          "ko_range": [
+            18,
+            35
+          ],
+          "source_text": "ὑμνείτω καὶ ὑπερυψούτω αὐτὸν εἰς τοὺς αἰῶνας.",
+          "ko_text": "그분을 노래하고 영원히 높여라."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "song3:10.83",
+      "html_path": "works/song3/index.html#p-10-83",
+      "fixed_html_path": "releases/public-0.33/works/song3/index.html#p-10-83",
+      "alignment_revision": "sha256:d4cde22fa27025c422dd4ffd590dd09f0497a26d789148683596f136e15ac044",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_word_table_extraction",
+        "targets": {
+          "source_revision": "sha256:698cc94e374096ee828f7165a0dd6f5ed918f314df4f3f3f46282bb68380e185",
+          "translation_revision": "sha256:3ac0fcd0672d8ccad17e90151d7574d7e211096b5b5b8dec255d48f127337871",
+          "alignment_revision": "sha256:d4cde22fa27025c422dd4ffd590dd09f0497a26d789148683596f136e15ac044"
+        },
+        "scoped_ai_review": {
+          "id": "song3-addition-20261003",
+          "scope": "세 젊은이의 찬가 10.52-10.88 37절 전체 (Swete 송가집 번호)",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:698cc94e374096ee828f7165a0dd6f5ed918f314df4f3f3f46282bb68380e185",
+            "translation_revision": "sha256:3ac0fcd0672d8ccad17e90151d7574d7e211096b5b5b8dec255d48f127337871",
+            "alignment_revision": "sha256:d4cde22fa27025c422dd4ffd590dd09f0497a26d789148683596f136e15ac044"
+          }
+        }
+      },
+      "rights": {
+        "source": "GPL-3.0",
+        "source_url": "https://github.com/eliranwong/LXX-Swete-1930/blob/1d3efc3c63bd384a4f3f07ed37eef54b0d45ac33/01-Swete_word_with_punctuations.csv",
+        "license_url": "https://www.gnu.org/licenses/gpl-3.0.html",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "GPL-3.0",
+        "alignment_license": "GPL-3.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 GPL-3.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "익명",
+        "work": "세 젊은이의 찬가",
+        "reference": "10.83",
+        "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:3ac0fcd0672d8ccad17e90151d7574d7e211096b5b5b8dec255d48f127337871",
+        "fixed_path": "releases/public-0.33/works/song3/index.html#p-10-83"
+      }
+    },
+    {
+      "ref": "10.84",
+      "chapter": 10,
+      "verse": 84,
+      "original": "εὐλογεῖτε, ἱερεῖς Κυρίου, τὸν κύριον· ὑμνεῖτε καὶ ὑπερυψοῦτε αὐτὸν εἰς τοὺς αἰῶνας.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:1a7c1ac786c20aafe936eb5adfededa389002bb6a45df7496d2666c1e78d48d5",
+      "source_file_sha256": "5cdeb6c993ff2883485b5c2006340bfd711a5d67b84f59aafac4e1caa4f6fbf4",
+      "reference_file_sha256": "39f71aabe259e3878a6d98df02f56eca8d62b1712491601f3812c81c9a1d3c6b",
+      "source_locator": {
+        "word_start": 608769,
+        "word_end_exclusive": 608781,
+        "reference_label": "Ode.10:84"
+      },
+      "ode": 10,
+      "korean": "주님의 제사장들아, 주님을 찬송하여라. 그분을 노래하고 영원히 높여라.",
+      "translation_revision": "sha256:dd23bab6cbc7afd549b85665a6bc808ba7624e846c4acb52b565c93f0f7e7ba7",
+      "groups": [
+        {
+          "id": "a-629e6eae229fe28d746f",
+          "source_range": [
+            0,
+            37
+          ],
+          "ko_range": [
+            0,
+            21
+          ],
+          "source_text": "εὐλογεῖτε, ἱερεῖς Κυρίου, τὸν κύριον·",
+          "ko_text": "주님의 제사장들아, 주님을 찬송하여라."
+        },
+        {
+          "id": "a-ce5e8f08b9af767a7114",
+          "source_range": [
+            38,
+            83
+          ],
+          "ko_range": [
+            22,
+            39
+          ],
+          "source_text": "ὑμνεῖτε καὶ ὑπερυψοῦτε αὐτὸν εἰς τοὺς αἰῶνας.",
+          "ko_text": "그분을 노래하고 영원히 높여라."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "song3:10.84",
+      "html_path": "works/song3/index.html#p-10-84",
+      "fixed_html_path": "releases/public-0.33/works/song3/index.html#p-10-84",
+      "alignment_revision": "sha256:6a7df6035b32abd9b8a25fe3d596daf4d8e6d356af9598d779812e0bd9121e4c",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_word_table_extraction",
+        "targets": {
+          "source_revision": "sha256:1a7c1ac786c20aafe936eb5adfededa389002bb6a45df7496d2666c1e78d48d5",
+          "translation_revision": "sha256:dd23bab6cbc7afd549b85665a6bc808ba7624e846c4acb52b565c93f0f7e7ba7",
+          "alignment_revision": "sha256:6a7df6035b32abd9b8a25fe3d596daf4d8e6d356af9598d779812e0bd9121e4c"
+        },
+        "scoped_ai_review": {
+          "id": "song3-addition-20261003",
+          "scope": "세 젊은이의 찬가 10.52-10.88 37절 전체 (Swete 송가집 번호)",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:1a7c1ac786c20aafe936eb5adfededa389002bb6a45df7496d2666c1e78d48d5",
+            "translation_revision": "sha256:dd23bab6cbc7afd549b85665a6bc808ba7624e846c4acb52b565c93f0f7e7ba7",
+            "alignment_revision": "sha256:6a7df6035b32abd9b8a25fe3d596daf4d8e6d356af9598d779812e0bd9121e4c"
+          }
+        }
+      },
+      "rights": {
+        "source": "GPL-3.0",
+        "source_url": "https://github.com/eliranwong/LXX-Swete-1930/blob/1d3efc3c63bd384a4f3f07ed37eef54b0d45ac33/01-Swete_word_with_punctuations.csv",
+        "license_url": "https://www.gnu.org/licenses/gpl-3.0.html",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "GPL-3.0",
+        "alignment_license": "GPL-3.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 GPL-3.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "익명",
+        "work": "세 젊은이의 찬가",
+        "reference": "10.84",
+        "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:dd23bab6cbc7afd549b85665a6bc808ba7624e846c4acb52b565c93f0f7e7ba7",
+        "fixed_path": "releases/public-0.33/works/song3/index.html#p-10-84"
+      }
+    },
+    {
+      "ref": "10.85",
+      "chapter": 10,
+      "verse": 85,
+      "original": "εὐλογεῖτε, δοῦλοι Κυρίου, τὸν κύριον· ὑμνεῖτε καὶ ὑπερυψοῦτε αὐτὸν εἰς τοὺς αἰῶνας.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:5f7ede83ba0ef7c4304f9c8a9d46577a569a25700f77fd7399c8f94cfc97939d",
+      "source_file_sha256": "5cdeb6c993ff2883485b5c2006340bfd711a5d67b84f59aafac4e1caa4f6fbf4",
+      "reference_file_sha256": "39f71aabe259e3878a6d98df02f56eca8d62b1712491601f3812c81c9a1d3c6b",
+      "source_locator": {
+        "word_start": 608781,
+        "word_end_exclusive": 608793,
+        "reference_label": "Ode.10:85"
+      },
+      "ode": 10,
+      "korean": "주님의 종들아, 주님을 찬송하여라. 그분을 노래하고 영원히 높여라.",
+      "translation_revision": "sha256:9e6ec3e83fa60d41ffddb4b355b39c68ab883197ae4ccab044091ed558c3b090",
+      "groups": [
+        {
+          "id": "a-5e8c0608df59895ad792",
+          "source_range": [
+            0,
+            37
+          ],
+          "ko_range": [
+            0,
+            19
+          ],
+          "source_text": "εὐλογεῖτε, δοῦλοι Κυρίου, τὸν κύριον·",
+          "ko_text": "주님의 종들아, 주님을 찬송하여라."
+        },
+        {
+          "id": "a-3ec2a5aec3d12df43d3d",
+          "source_range": [
+            38,
+            83
+          ],
+          "ko_range": [
+            20,
+            37
+          ],
+          "source_text": "ὑμνεῖτε καὶ ὑπερυψοῦτε αὐτὸν εἰς τοὺς αἰῶνας.",
+          "ko_text": "그분을 노래하고 영원히 높여라."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "song3:10.85",
+      "html_path": "works/song3/index.html#p-10-85",
+      "fixed_html_path": "releases/public-0.33/works/song3/index.html#p-10-85",
+      "alignment_revision": "sha256:e3132f995c496cd3c5cb733aca43d997edd31e40724ed51f0f7e06bdeab9cc49",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_word_table_extraction",
+        "targets": {
+          "source_revision": "sha256:5f7ede83ba0ef7c4304f9c8a9d46577a569a25700f77fd7399c8f94cfc97939d",
+          "translation_revision": "sha256:9e6ec3e83fa60d41ffddb4b355b39c68ab883197ae4ccab044091ed558c3b090",
+          "alignment_revision": "sha256:e3132f995c496cd3c5cb733aca43d997edd31e40724ed51f0f7e06bdeab9cc49"
+        },
+        "scoped_ai_review": {
+          "id": "song3-addition-20261003",
+          "scope": "세 젊은이의 찬가 10.52-10.88 37절 전체 (Swete 송가집 번호)",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:5f7ede83ba0ef7c4304f9c8a9d46577a569a25700f77fd7399c8f94cfc97939d",
+            "translation_revision": "sha256:9e6ec3e83fa60d41ffddb4b355b39c68ab883197ae4ccab044091ed558c3b090",
+            "alignment_revision": "sha256:e3132f995c496cd3c5cb733aca43d997edd31e40724ed51f0f7e06bdeab9cc49"
+          }
+        }
+      },
+      "rights": {
+        "source": "GPL-3.0",
+        "source_url": "https://github.com/eliranwong/LXX-Swete-1930/blob/1d3efc3c63bd384a4f3f07ed37eef54b0d45ac33/01-Swete_word_with_punctuations.csv",
+        "license_url": "https://www.gnu.org/licenses/gpl-3.0.html",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "GPL-3.0",
+        "alignment_license": "GPL-3.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 GPL-3.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "익명",
+        "work": "세 젊은이의 찬가",
+        "reference": "10.85",
+        "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:9e6ec3e83fa60d41ffddb4b355b39c68ab883197ae4ccab044091ed558c3b090",
+        "fixed_path": "releases/public-0.33/works/song3/index.html#p-10-85"
+      }
+    },
+    {
+      "ref": "10.86",
+      "chapter": 10,
+      "verse": 86,
+      "original": "εὐλογεῖτε, πνεύματα καὶ ψυχαὶ δικαίων, τὸν κύριον· ὑμνεῖτε καὶ ὑπερυψοῦτε αὐτὸν εἰς τοὺς αἰῶνας.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:2e95bdeb1e27d32b745aa4b3ff1b2b4a5fe5b44cbd3812c82b72715848967afc",
+      "source_file_sha256": "5cdeb6c993ff2883485b5c2006340bfd711a5d67b84f59aafac4e1caa4f6fbf4",
+      "reference_file_sha256": "39f71aabe259e3878a6d98df02f56eca8d62b1712491601f3812c81c9a1d3c6b",
+      "source_locator": {
+        "word_start": 608793,
+        "word_end_exclusive": 608807,
+        "reference_label": "Ode.10:86"
+      },
+      "ode": 10,
+      "korean": "의인들의 영들과 영혼들아, 주님을 찬송하여라. 그분을 노래하고 영원히 높여라.",
+      "translation_revision": "sha256:c9d614964df3eb35ec18d901e2fbc29ce4a43b3c1abedfc2d99ed1a2c652120b",
+      "groups": [
+        {
+          "id": "a-e6ad17a672d5b9803906",
+          "source_range": [
+            0,
+            50
+          ],
+          "ko_range": [
+            0,
+            25
+          ],
+          "source_text": "εὐλογεῖτε, πνεύματα καὶ ψυχαὶ δικαίων, τὸν κύριον·",
+          "ko_text": "의인들의 영들과 영혼들아, 주님을 찬송하여라."
+        },
+        {
+          "id": "a-8805e2c8ade2a0c474ab",
+          "source_range": [
+            51,
+            96
+          ],
+          "ko_range": [
+            26,
+            43
+          ],
+          "source_text": "ὑμνεῖτε καὶ ὑπερυψοῦτε αὐτὸν εἰς τοὺς αἰῶνας.",
+          "ko_text": "그분을 노래하고 영원히 높여라."
+        }
+      ],
+      "notes": [
+        "이 절은 의인들의 영들과 영혼들을 찬양의 주체로 부른다. 65절의 바람들과는 수식어와 문맥이 다르다."
+      ],
+      "work_passage_id": "song3:10.86",
+      "html_path": "works/song3/index.html#p-10-86",
+      "fixed_html_path": "releases/public-0.33/works/song3/index.html#p-10-86",
+      "alignment_revision": "sha256:1ee007d23847f94a6bcd78029023652abaf3b3100b2ede7c4cc86a4204b5e4a7",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_word_table_extraction",
+        "targets": {
+          "source_revision": "sha256:2e95bdeb1e27d32b745aa4b3ff1b2b4a5fe5b44cbd3812c82b72715848967afc",
+          "translation_revision": "sha256:c9d614964df3eb35ec18d901e2fbc29ce4a43b3c1abedfc2d99ed1a2c652120b",
+          "alignment_revision": "sha256:1ee007d23847f94a6bcd78029023652abaf3b3100b2ede7c4cc86a4204b5e4a7"
+        },
+        "scoped_ai_review": {
+          "id": "song3-addition-20261003",
+          "scope": "세 젊은이의 찬가 10.52-10.88 37절 전체 (Swete 송가집 번호)",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:2e95bdeb1e27d32b745aa4b3ff1b2b4a5fe5b44cbd3812c82b72715848967afc",
+            "translation_revision": "sha256:c9d614964df3eb35ec18d901e2fbc29ce4a43b3c1abedfc2d99ed1a2c652120b",
+            "alignment_revision": "sha256:1ee007d23847f94a6bcd78029023652abaf3b3100b2ede7c4cc86a4204b5e4a7"
+          }
+        }
+      },
+      "rights": {
+        "source": "GPL-3.0",
+        "source_url": "https://github.com/eliranwong/LXX-Swete-1930/blob/1d3efc3c63bd384a4f3f07ed37eef54b0d45ac33/01-Swete_word_with_punctuations.csv",
+        "license_url": "https://www.gnu.org/licenses/gpl-3.0.html",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "GPL-3.0",
+        "alignment_license": "GPL-3.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 GPL-3.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "익명",
+        "work": "세 젊은이의 찬가",
+        "reference": "10.86",
+        "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:c9d614964df3eb35ec18d901e2fbc29ce4a43b3c1abedfc2d99ed1a2c652120b",
+        "fixed_path": "releases/public-0.33/works/song3/index.html#p-10-86"
+      }
+    },
+    {
+      "ref": "10.87",
+      "chapter": 10,
+      "verse": 87,
+      "original": "εὐλογεῖτε, ὅσιοι καὶ ταπεινοὶ καρδίᾳ, τὸν κύριον· ὑμνεῖτε καὶ ὑπερυψοῦτε αὐτὸν εἰς τοὺς αἰῶνας.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:3fe1ba022020c9d974d4deca392c6a00a74c273091a2fd19736042a5352b87c3",
+      "source_file_sha256": "5cdeb6c993ff2883485b5c2006340bfd711a5d67b84f59aafac4e1caa4f6fbf4",
+      "reference_file_sha256": "39f71aabe259e3878a6d98df02f56eca8d62b1712491601f3812c81c9a1d3c6b",
+      "source_locator": {
+        "word_start": 608807,
+        "word_end_exclusive": 608821,
+        "reference_label": "Ode.10:87"
+      },
+      "ode": 10,
+      "korean": "거룩하며 마음이 겸손한 사람들아, 주님을 찬송하여라. 그분을 노래하고 영원히 높여라.",
+      "translation_revision": "sha256:f61d806386797ef1c392ae0b39202d13f7ef4a5b9b2ed7392f6caa43b8f6ba52",
+      "groups": [
+        {
+          "id": "a-facec31ebdd1ac26a5ee",
+          "source_range": [
+            0,
+            49
+          ],
+          "ko_range": [
+            0,
+            29
+          ],
+          "source_text": "εὐλογεῖτε, ὅσιοι καὶ ταπεινοὶ καρδίᾳ, τὸν κύριον·",
+          "ko_text": "거룩하며 마음이 겸손한 사람들아, 주님을 찬송하여라."
+        },
+        {
+          "id": "a-8100fc8a9d0df52294fd",
+          "source_range": [
+            50,
+            95
+          ],
+          "ko_range": [
+            30,
+            47
+          ],
+          "source_text": "ὑμνεῖτε καὶ ὑπερυψοῦτε αὐτὸν εἰς τοὺς αἰῶνας.",
+          "ko_text": "그분을 노래하고 영원히 높여라."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "song3:10.87",
+      "html_path": "works/song3/index.html#p-10-87",
+      "fixed_html_path": "releases/public-0.33/works/song3/index.html#p-10-87",
+      "alignment_revision": "sha256:758f3e2f7a2fc67aec161fcdfc72619a180b484aa112d80a574230861626d7f1",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_word_table_extraction",
+        "targets": {
+          "source_revision": "sha256:3fe1ba022020c9d974d4deca392c6a00a74c273091a2fd19736042a5352b87c3",
+          "translation_revision": "sha256:f61d806386797ef1c392ae0b39202d13f7ef4a5b9b2ed7392f6caa43b8f6ba52",
+          "alignment_revision": "sha256:758f3e2f7a2fc67aec161fcdfc72619a180b484aa112d80a574230861626d7f1"
+        },
+        "scoped_ai_review": {
+          "id": "song3-addition-20261003",
+          "scope": "세 젊은이의 찬가 10.52-10.88 37절 전체 (Swete 송가집 번호)",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:3fe1ba022020c9d974d4deca392c6a00a74c273091a2fd19736042a5352b87c3",
+            "translation_revision": "sha256:f61d806386797ef1c392ae0b39202d13f7ef4a5b9b2ed7392f6caa43b8f6ba52",
+            "alignment_revision": "sha256:758f3e2f7a2fc67aec161fcdfc72619a180b484aa112d80a574230861626d7f1"
+          }
+        }
+      },
+      "rights": {
+        "source": "GPL-3.0",
+        "source_url": "https://github.com/eliranwong/LXX-Swete-1930/blob/1d3efc3c63bd384a4f3f07ed37eef54b0d45ac33/01-Swete_word_with_punctuations.csv",
+        "license_url": "https://www.gnu.org/licenses/gpl-3.0.html",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "GPL-3.0",
+        "alignment_license": "GPL-3.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 GPL-3.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "익명",
+        "work": "세 젊은이의 찬가",
+        "reference": "10.87",
+        "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:f61d806386797ef1c392ae0b39202d13f7ef4a5b9b2ed7392f6caa43b8f6ba52",
+        "fixed_path": "releases/public-0.33/works/song3/index.html#p-10-87"
+      }
+    },
+    {
+      "ref": "10.88",
+      "chapter": 10,
+      "verse": 88,
+      "original": "εὐλογεῖτε, Ἁνανία, Ἀζαρία, Μισαήλ, τὸν κύριον· ὑμνεῖτε καὶ ὑπερυψοῦτε αὐτὸν εἰς τοὺς αἰῶνας.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:2d8d4c5159636d1bf12747a22c97049f6aaa18a8b6c682b5b7b7418325bf3c02",
+      "source_file_sha256": "5cdeb6c993ff2883485b5c2006340bfd711a5d67b84f59aafac4e1caa4f6fbf4",
+      "reference_file_sha256": "39f71aabe259e3878a6d98df02f56eca8d62b1712491601f3812c81c9a1d3c6b",
+      "source_locator": {
+        "word_start": 608821,
+        "word_end_exclusive": 608834,
+        "reference_label": "Ode.10:88"
+      },
+      "ode": 10,
+      "korean": "하나니야와 아자랴와 미사엘아, 주님을 찬송하여라. 그분을 노래하고 영원히 높여라.",
+      "translation_revision": "sha256:3324566e26de0fa4c9cbd7de68fbd9ab8d1073eba8ae15da9e2d56a0fef62f93",
+      "groups": [
+        {
+          "id": "a-d3cd86f4b171b782e202",
+          "source_range": [
+            0,
+            46
+          ],
+          "ko_range": [
+            0,
+            27
+          ],
+          "source_text": "εὐλογεῖτε, Ἁνανία, Ἀζαρία, Μισαήλ, τὸν κύριον·",
+          "ko_text": "하나니야와 아자랴와 미사엘아, 주님을 찬송하여라."
+        },
+        {
+          "id": "a-45e3c1c7da7fb23ae1a8",
+          "source_range": [
+            47,
+            92
+          ],
+          "ko_range": [
+            28,
+            45
+          ],
+          "source_text": "ὑμνεῖτε καὶ ὑπερυψοῦτε αὐτὸν εἰς τοὺς αἰῶνας.",
+          "ko_text": "그분을 노래하고 영원히 높여라."
+        }
+      ],
+      "notes": [
+        "제10송가의 채택 본문은 하나니야, 아자랴, 미사엘을 부르는 88절에서 끝난다. 같은 쪽 교감 장치는 다른 전승의 더 긴 종결 문장들을 별도로 기록한다."
+      ],
+      "work_passage_id": "song3:10.88",
+      "html_path": "works/song3/index.html#p-10-88",
+      "fixed_html_path": "releases/public-0.33/works/song3/index.html#p-10-88",
+      "alignment_revision": "sha256:51dfd771a105a3d40c92d99369a8932fa3b03b3fa8dfc8be8e1730c6a2313a90",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_word_table_extraction",
+        "targets": {
+          "source_revision": "sha256:2d8d4c5159636d1bf12747a22c97049f6aaa18a8b6c682b5b7b7418325bf3c02",
+          "translation_revision": "sha256:3324566e26de0fa4c9cbd7de68fbd9ab8d1073eba8ae15da9e2d56a0fef62f93",
+          "alignment_revision": "sha256:51dfd771a105a3d40c92d99369a8932fa3b03b3fa8dfc8be8e1730c6a2313a90"
+        },
+        "scoped_ai_review": {
+          "id": "song3-addition-20261003",
+          "scope": "세 젊은이의 찬가 10.52-10.88 37절 전체 (Swete 송가집 번호)",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:2d8d4c5159636d1bf12747a22c97049f6aaa18a8b6c682b5b7b7418325bf3c02",
+            "translation_revision": "sha256:3324566e26de0fa4c9cbd7de68fbd9ab8d1073eba8ae15da9e2d56a0fef62f93",
+            "alignment_revision": "sha256:51dfd771a105a3d40c92d99369a8932fa3b03b3fa8dfc8be8e1730c6a2313a90"
+          }
+        }
+      },
+      "rights": {
+        "source": "GPL-3.0",
+        "source_url": "https://github.com/eliranwong/LXX-Swete-1930/blob/1d3efc3c63bd384a4f3f07ed37eef54b0d45ac33/01-Swete_word_with_punctuations.csv",
+        "license_url": "https://www.gnu.org/licenses/gpl-3.0.html",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "GPL-3.0",
+        "alignment_license": "GPL-3.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 GPL-3.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "익명",
+        "work": "세 젊은이의 찬가",
+        "reference": "10.88",
+        "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:3324566e26de0fa4c9cbd7de68fbd9ab8d1073eba8ae15da9e2d56a0fef62f93",
+        "fixed_path": "releases/public-0.33/works/song3/index.html#p-10-88"
+      }
+    }
+  ],
+  "related": [],
+  "aliases": [
+    "세 젊은이의 찬가",
+    "Song3"
+  ],
+  "translationLicenseUrl": "https://www.gnu.org/licenses/gpl-3.0.html",
+  "sourceReferenceUrl": "https://github.com/eliranwong/LXX-Swete-1930/blob/1d3efc3c63bd384a4f3f07ed37eef54b0d45ac33/00-Swete_versification.csv",
+  "licenseEvidence": "https://github.com/eliranwong/LXX-Swete-1930/blob/1d3efc3c63bd384a4f3f07ed37eef54b0d45ac33/LICENSE",
+  "sourceCommit": "1d3efc3c63bd384a4f3f07ed37eef54b0d45ac33",
+  "readerUrl": "https://archive.org/download/oldtestgreek00unknuoft/oldtestgreek00unknuoft.pdf",
+  "openAccessFullTextUrl": "https://archive.org/download/oldtestgreek00unknuoft/oldtestgreek00unknuoft.pdf",
+  "original_title": "Ὕμνος τῶν πατέρων ἡμῶν",
+  "display_title": "세 젊은이의 찬가",
+  "reference_scheme": "ode_verse",
+  "coverage_label": "37절 전문",
+  "edition_id": "song3-swete-1d3efc3c",
+  "source_file_sha256": "5cdeb6c993ff2883485b5c2006340bfd711a5d67b84f59aafac4e1caa4f6fbf4",
+  "display_author": "익명",
+  "scope": "세 젊은이의 찬가 10.52-10.88 37절 전체 (Swete 송가집 번호)",
+  "coverage": "complete",
+  "release_id": "public-0.33",
+  "source_language": "grc",
+  "source_kind": "edited_ancient_original",
+  "human_reviewed": false,
+  "translation_method": "고정 원어 본문에서 직접 번역",
+  "html_path": "works/song3/index.html",
+  "json_path": "data/works/song3.json",
+  "fixed_html_path": "releases/public-0.33/works/song3/index.html",
+  "source_profile": "song3-swete-1d3efc3c",
+  "source_decisions": [
+    {
+      "kind": "source_selection",
+      "verified": "2026-10-03",
+      "scope": "세 젊은이의 찬가 10.52-10.88 37절 전체 (Swete 송가집 번호)",
+      "source_url": "https://github.com/eliranwong/LXX-Swete-1930/blob/1d3efc3c63bd384a4f3f07ed37eef54b0d45ac33/01-Swete_word_with_punctuations.csv",
+      "license": "GPL-3.0",
+      "basis": "고정된 공개 원문 전사"
+    },
+    {
+      "ref": "10.52",
+      "kind": "printed_collation",
+      "original_before": "⸂⸆⸃ Ὕμνος τῶν πατέρων ἡμῶν. Εὐλογητὸς εἶ, Κύριε ὁ θεὸς τῶν πατέρων ἡμῶν, καὶ αἰνετὸς καὶ ὑπερυψούμενος εἰς τοὺς αἰῶνας· καὶ εὐλογητὸν τὸ ὄνομα τῆς δόξης σου τὸ ἅγιόν σου, καὶ ὑπεραινετὸν καὶ ὑπερυψούμενον εἰς τοὺς αἰῶνας.",
+      "source_collation": {
+        "selection_kind": "printed_body_transcription_correction",
+        "replacements": [
+          [
+            "⸂⸆⸃ ",
+            ""
+          ]
+        ],
+        "edition": "Swete 1930, vol. 3, 828쪽",
+        "printed_page": 828,
+        "pdf_page": 852,
+        "url": "https://archive.org/download/oldtestgreek00unknuoft/oldtestgreek00unknuoft.pdf",
+        "verified": "2026-10-03",
+        "reason": "인쇄면의 교감 및 단락 표식을 전자 전사가 본문에 넣은 위치에서 분리했다.",
+        "is_swete_body_reading": true
+      }
+    }
+  ],
+  "source_collations": [
+    {
+      "reference": "10.52",
+      "selection_kind": "printed_body_transcription_correction",
+      "replacements": [
+        [
+          "⸂⸆⸃ ",
+          ""
+        ]
+      ],
+      "edition": "Swete 1930, vol. 3, 828쪽",
+      "printed_page": 828,
+      "pdf_page": 852,
+      "url": "https://archive.org/download/oldtestgreek00unknuoft/oldtestgreek00unknuoft.pdf",
+      "verified": "2026-10-03",
+      "reason": "인쇄면의 교감 및 단락 표식을 전자 전사가 본문에 넣은 위치에서 분리했다.",
+      "is_swete_body_reading": true
+    }
+  ],
+  "validation_records": [
+    {
+      "id": "song3-addition-20261003",
+      "scope": "세 젊은이의 찬가 10.52-10.88 37절 전체 (Swete 송가집 번호)",
+      "date": "2026-10-03",
+      "reviewer_type": "AI",
+      "human_reviewed": false,
+      "reading_record_count": 37,
+      "meaning_groups": 76,
+      "methods": [
+        "선정 범위의 공개 그리스어 본문을 읽고 한국어와 의미 대응을 작성했다.",
+        "인칭, 인물, 수치와 화자, 절 경계의 문장 연결을 대조했다."
+      ],
+      "sources": [
+        {
+          "work": "song3",
+          "url": "https://github.com/eliranwong/LXX-Swete-1930/blob/1d3efc3c63bd384a4f3f07ed37eef54b0d45ac33/01-Swete_word_with_punctuations.csv",
+          "verified": "2026-10-03",
+          "full_text": true,
+          "source_sha256": "5cdeb6c993ff2883485b5c2006340bfd711a5d67b84f59aafac4e1caa4f6fbf4",
+          "license": "GPL-3.0",
+          "license_evidence": "Pinned repository LICENSE",
+          "printed_pdf_url": "https://archive.org/download/oldtestgreek00unknuoft/oldtestgreek00unknuoft.pdf",
+          "status": 200,
+          "verification_evidence": "Pinned public raw word table fetched successfully; SHA256 matches canonical table",
+          "printed_pages": [
+            828,
+            829,
+            830
+          ],
+          "pdf_pages_read": [
+            852,
+            853,
+            854
+          ],
+          "open_access_full_text_url": "https://archive.org/download/oldtestgreek00unknuoft/oldtestgreek00unknuoft.pdf"
+        }
+      ],
+      "passages": [
+        {
+          "ref": "10.52",
+          "targets": {
+            "source_revision": "sha256:c8930de18f471ca1669fb2d4af6c51cfb7afe6f00eee66abfc9a7895fab8114f",
+            "translation_revision": "sha256:d02991879d5e1d10cfdd633bce2a244ae4e50ceb4a74d582f0bf88b16eec666f",
+            "alignment_revision": "sha256:447f82f20fbfcd7d3a00e7a0b86d3a5ef2ee48046727f5c68523080f4b3c1d83"
+          }
+        },
+        {
+          "ref": "10.53",
+          "targets": {
+            "source_revision": "sha256:521dd81c2878d75aa0135c42afb79a1ea8b51f1cbc97f4adc00eb79d29d3cbe3",
+            "translation_revision": "sha256:c56ff582f4c6e2930b69bf548a4be4d575bf5e1c5c5b8134b9aa37d6fc4e0176",
+            "alignment_revision": "sha256:6345d0d8bc26e6d2dc2bb57f026b4ae67b782c1c2261763e63c84793a23d3fb3"
+          }
+        },
+        {
+          "ref": "10.54",
+          "targets": {
+            "source_revision": "sha256:fd5f621e4b086dc54cf666dae2063e32ae7799b0221d6eb328ef1a885b5630b1",
+            "translation_revision": "sha256:f54cefe17e860557e9e8355ba9c6dd06681c551f6fcb2cdf9b62bfbce1bf7873",
+            "alignment_revision": "sha256:a461a6e95b68b48f6c19544fde636d8e14c2a2d42e68cae4151d9e2709a40517"
+          }
+        },
+        {
+          "ref": "10.55",
+          "targets": {
+            "source_revision": "sha256:23682c867e7db975b71e016e0f64b385846c93761917df1e59ea7bdd47041563",
+            "translation_revision": "sha256:faa813fb1536b61755b6ba0cecc4908c7965809b960f66dad59afa4727239053",
+            "alignment_revision": "sha256:9bb2e35fc6f3f40a9c2fa00495eab9e2f42c748fd9028ea301cc119b0566c8d6"
+          }
+        },
+        {
+          "ref": "10.56",
+          "targets": {
+            "source_revision": "sha256:aa991f9de6fbb7f3e76ada6034aefbb92054428a1e26b9d8d207230167038530",
+            "translation_revision": "sha256:9d802ef1004ca73b23934ee83f729578f9dd11e99665cf74fb5ffac75e028527",
+            "alignment_revision": "sha256:875bbdcda34c66f90e7af11faf2c9b012cc4c84b5ec0c6e9093e54e91df68930"
+          }
+        },
+        {
+          "ref": "10.57",
+          "targets": {
+            "source_revision": "sha256:bf659c4efe7e7b684d8cf152376226b8477441bb0d30a996bce598099bd71321",
+            "translation_revision": "sha256:589a3cfe09f4bd58a5838db3410bad4dd643a7d96301025dd7443b6111bd7f7c",
+            "alignment_revision": "sha256:842dcc94e8ac7f25edfa49e722264911ddb6955c19e650714d347c1bbaa2d22d"
+          }
+        },
+        {
+          "ref": "10.58",
+          "targets": {
+            "source_revision": "sha256:cb66fad050392d0234c50984892ac483f9e8ca7e2c3bec705303fac39d09befa",
+            "translation_revision": "sha256:688a24c852fea060cdf2f3b6219180b2aacb88f7bcc1460dbd846fbb3c444249",
+            "alignment_revision": "sha256:c9bc48fbe457d05c3c1efd136813007ba423330ec7ee898d30709de289ea44e5"
+          }
+        },
+        {
+          "ref": "10.59",
+          "targets": {
+            "source_revision": "sha256:121fced9a7fbb61b5e2aa8e5231a3ac74d9320c16076ef380a5a610035e0442e",
+            "translation_revision": "sha256:9d164e4ed76c6087943dca8c4854931184da484f6a8ac4fce512e4dc0976d72d",
+            "alignment_revision": "sha256:0fbb0c6a0c46736172f6d998acf4d91653863078beb113ca4081f90f6a549ae0"
+          }
+        },
+        {
+          "ref": "10.60",
+          "targets": {
+            "source_revision": "sha256:886c185225cde837007e5c3a3c44e6c04a138bc77b6e41ffb54dec30c4b3a243",
+            "translation_revision": "sha256:c14f6257d3ceb8c9fb7c70f19204e2415bd8505e6e3af73058abc4f9ac89cbdb",
+            "alignment_revision": "sha256:a8f99480adff96fa59fbf09d884502916435eac626892619aae63175d474e8d4"
+          }
+        },
+        {
+          "ref": "10.61",
+          "targets": {
+            "source_revision": "sha256:4e28d3037b3eac781ff046cb1b626a74bc780e871a84685a1219d070be9d36b1",
+            "translation_revision": "sha256:7c0725ab54e301049af5d3d6ba309a796c776cfebf5a9d7c56ac00e7b4eccf55",
+            "alignment_revision": "sha256:6ccf4b8111696e5c3e24c7b4889c5926881a101d466dccfa72cf1eb9982e0b12"
+          }
+        },
+        {
+          "ref": "10.62",
+          "targets": {
+            "source_revision": "sha256:04ed68b2cd75db18bef27558dc1b8b247539b8d220cda0011879ea7da1e28693",
+            "translation_revision": "sha256:d1695383a1d07ca1760a6946c07ede71a591cf61a7571d562b447abfb7f7337e",
+            "alignment_revision": "sha256:e877e6e0f339951716e13a8a6910df09e986fdbc2ae40bb52d54d96136f86776"
+          }
+        },
+        {
+          "ref": "10.63",
+          "targets": {
+            "source_revision": "sha256:995561c084c8c447445f23d81e8e7def1f64d4ac740ae807372e590db224c92e",
+            "translation_revision": "sha256:4153de622d0eda11c3fccc154cfdd6ae46965386e39e11f5ddc92f91025ea6a1",
+            "alignment_revision": "sha256:63dc4b0febb00f80b4928e976db54c59271e92bf6ed8474aac1762951d5d72b9"
+          }
+        },
+        {
+          "ref": "10.64",
+          "targets": {
+            "source_revision": "sha256:cf16dfe9c95ad1a82e80447d6ccd88cfc22b8ffae48edec876ae36d0c141942e",
+            "translation_revision": "sha256:1d2e106377ac87ff6fe3a404324ef620bb4a1cdfac94de9c17bc4f0091eeca28",
+            "alignment_revision": "sha256:a8d87979cf50f705c85c4e5513b3b78840dff65e8d45268af6fc7628322ae57c"
+          }
+        },
+        {
+          "ref": "10.65",
+          "targets": {
+            "source_revision": "sha256:44cb3784d9b78265fbc4473d2b60d4afa1d2016af9db9d1a156b72092a7f4bc0",
+            "translation_revision": "sha256:a79a3ee56fa19a31518f19a5768e46ae4774a3f7b2f2e4a66546ce1925475681",
+            "alignment_revision": "sha256:6cc916b0c4d05bf23d66aec73439a692aa3fcef8a695d135c15f884be46764e1"
+          }
+        },
+        {
+          "ref": "10.66",
+          "targets": {
+            "source_revision": "sha256:be173c992a9585f93abfbe7f2e65cd2c1bc0077aa1201242edea6db6a664d418",
+            "translation_revision": "sha256:ee794a6647b6cd267e71e13db939c976725d7cfe4b70b5f2857e8bff20f19af7",
+            "alignment_revision": "sha256:c4a77b2522686c448925eaf9f7f99aeb63a1eca0d69598adbeacfea3b0b07877"
+          }
+        },
+        {
+          "ref": "10.67",
+          "targets": {
+            "source_revision": "sha256:433165bd1a07a80530f20aac513ac4cdf2522f720dc54d73090153726b158b36",
+            "translation_revision": "sha256:3830c79e0537620bd024e1b74fa8c86293731c0a75949c954e9baea968ed531a",
+            "alignment_revision": "sha256:c80ae3cf590701a0f7b4deddda2ed73d10c39fedb39a1a860476fce010fe8062"
+          }
+        },
+        {
+          "ref": "10.68",
+          "targets": {
+            "source_revision": "sha256:e596742fd3f976582701631193404e802d44661856745ba136b18a841062d444",
+            "translation_revision": "sha256:dc94ec2a577905dc380bd77631db6e1548a5d57f377c9904cbdbb61363b1b7b4",
+            "alignment_revision": "sha256:bd8fca9e4e3ed5107c4f6bf80ff280252d697849a59feccb8c4468a2e2cbdd41"
+          }
+        },
+        {
+          "ref": "10.69",
+          "targets": {
+            "source_revision": "sha256:469569a312ecd007f7ae89231f22077f2b0b28a071e3756ef7bc01c7acbb91ea",
+            "translation_revision": "sha256:b093e342712dc861e561db92ea2ac7df5a4bb2994631462136e23c5d7fed1dac",
+            "alignment_revision": "sha256:062ec2a5ae1c0fe4a6906a6f46526d54195bbc387fa8c5ab34c1db8cb1821d84"
+          }
+        },
+        {
+          "ref": "10.70",
+          "targets": {
+            "source_revision": "sha256:a2f128ddadbc2b8af61fee80444d3f068fa48059c25646cca76becd101fadb0e",
+            "translation_revision": "sha256:d40a35a2e8963bc13910ad19b93a33da765f82ca15b7e7259c368ee98ebae5e6",
+            "alignment_revision": "sha256:8d92d2d1274b3874ed532161b1eadba5518a5e488771b76f7cf7a2f8f8492fae"
+          }
+        },
+        {
+          "ref": "10.71",
+          "targets": {
+            "source_revision": "sha256:16f1f4a1fd94c8475d2bb4a3562f9f0a66084348d648dc4105195f175148466f",
+            "translation_revision": "sha256:72c7e7bb6aec7f6e87cfa539e95b51dcd78c6cf8da7d0a9729920642c8b82553",
+            "alignment_revision": "sha256:71f7c881be214469292b9f1b68a8bd758c58e45bfd736919ee0c292c25beaf2b"
+          }
+        },
+        {
+          "ref": "10.72",
+          "targets": {
+            "source_revision": "sha256:8a278a228841afa7310243d9898bf63e8d82b2566ef83d722603fabd745bd4c9",
+            "translation_revision": "sha256:5d2b482e1b467252d81ee47733ca21a82fbd971f09dc0ea2fb40e66d03db57a8",
+            "alignment_revision": "sha256:6535b3f3e8d6a7d1319808e3d0eadabace86afcd1670f4398acebc7f8e0ae8a1"
+          }
+        },
+        {
+          "ref": "10.73",
+          "targets": {
+            "source_revision": "sha256:1dd7e8b1ab877de6f42a40355b277974138145e4df50201f8b60bf38db6b8983",
+            "translation_revision": "sha256:10ca532fd79981f1c0aeef9db1675125181aa45cecab6113f3f842fb6d0c9f20",
+            "alignment_revision": "sha256:7afaafefad47abca785b536784f4ea338c340ca157b7e3d8cfaa599e9f3f16ae"
+          }
+        },
+        {
+          "ref": "10.74",
+          "targets": {
+            "source_revision": "sha256:ae6246f2c3a04adfc7846a898037590f65257ff5b12683dee4581c843b684ad7",
+            "translation_revision": "sha256:42ad782dc7edafc9367b9f133f11446add65cc574c65c47f9c42bced1092ee74",
+            "alignment_revision": "sha256:dd284c2c0d1e6e2ab8da0d6a102036056b10dcadb9afa6ed190266dba8c2ae22"
+          }
+        },
+        {
+          "ref": "10.75",
+          "targets": {
+            "source_revision": "sha256:d726bff07c7ced4cc6c4a3663e9941ab32db1263f3297bbd25d411fb20d3f127",
+            "translation_revision": "sha256:9616f8f7b99f93b3f4a9acc75015a26ce6aef1ada05e5c643ae731734d868d24",
+            "alignment_revision": "sha256:0785321d7b7e678fcd8a9f0599e983a85fe0542aaf1df04389a9f5e07972a358"
+          }
+        },
+        {
+          "ref": "10.76",
+          "targets": {
+            "source_revision": "sha256:9d8fff25204353a1406b8eafe5377f130554728de4edbbb2bf1cddb80bbf7e3a",
+            "translation_revision": "sha256:386990009867962775dbcf517e1f9c03f72ec57ecd0e93e9ee6146ee30b2ecf2",
+            "alignment_revision": "sha256:e339f98adf0e4dc4b7ff54de8ee7c9ac88aacb0fe0154b5c5887c3106fc2ba69"
+          }
+        },
+        {
+          "ref": "10.77",
+          "targets": {
+            "source_revision": "sha256:6da96afa22bc4a4177ed4f46388db9f011ad3ed9480547b2e16fce215d9fcc6d",
+            "translation_revision": "sha256:d82fcef238a5500d85b6c935236195629289fde17d46746c1e7ed4f02f61bb1e",
+            "alignment_revision": "sha256:c689157acee9751b3ae0ff291a3e3b2da1a5b2987a3c3478e0804315be56105a"
+          }
+        },
+        {
+          "ref": "10.78",
+          "targets": {
+            "source_revision": "sha256:efed76c51038b76c2938f14aa42c489535ea745a803ea8b93313a35bfcd2eca3",
+            "translation_revision": "sha256:4c924d5638e5eb788c59a1a50ace9b2840efc78601d8be1ec8663d1e442959ed",
+            "alignment_revision": "sha256:bd2d7f7f2ec209b51778bd040dba4a6a3038e419ecd781ab8bb95c099122b70c"
+          }
+        },
+        {
+          "ref": "10.79",
+          "targets": {
+            "source_revision": "sha256:645e1c8c51e63bd4b1311271b47928b482570ed6481d55e8f4a9a97dec8ddf7b",
+            "translation_revision": "sha256:81325330e9fec85226053bdc9c3777ad3c961ed2dd0ca73e77eb1e819c3818d9",
+            "alignment_revision": "sha256:dae2e99cefaf2957ebb365023e3d15d68cbca6c95f600473525ef3277fe5c6c9"
+          }
+        },
+        {
+          "ref": "10.80",
+          "targets": {
+            "source_revision": "sha256:479862abd1ce01b42a1a6374f37c49dbb165a6a2c8aa86450188e573c5860a37",
+            "translation_revision": "sha256:4029c3a397cd8d7485f0e8973fa9105ae20453a7697b4dcdbaa42c0b5f4f4af1",
+            "alignment_revision": "sha256:d3e263719e6216faf308fd2b23707d4e0d6029384dab94744a9fbdc62acd3ab9"
+          }
+        },
+        {
+          "ref": "10.81",
+          "targets": {
+            "source_revision": "sha256:f38b68767ff8b38b818bd545e16b54f687fa9507dc3c3fdc2fa377520b9a2c9b",
+            "translation_revision": "sha256:1ef8329e779dab8e6698e9e0da72feb7215709cd229e9d4df7bd3c2db67430aa",
+            "alignment_revision": "sha256:fcc5ced941d115840ae0e394f324d9f521a7caaef76571628aed98fd36b291bf"
+          }
+        },
+        {
+          "ref": "10.82",
+          "targets": {
+            "source_revision": "sha256:a7a0fa564f19e39c36a692ed13be32d00a56070b47210a48dc8900ea6ee4fe07",
+            "translation_revision": "sha256:989848924913829791d52fc84e360bf2cb5189a4a723954959f81e3fcaf7986f",
+            "alignment_revision": "sha256:71266445b5a6e2b6975a9b6d9ac60167e09f9264d62a9d56bb881b0dd9709c25"
+          }
+        },
+        {
+          "ref": "10.83",
+          "targets": {
+            "source_revision": "sha256:698cc94e374096ee828f7165a0dd6f5ed918f314df4f3f3f46282bb68380e185",
+            "translation_revision": "sha256:3ac0fcd0672d8ccad17e90151d7574d7e211096b5b5b8dec255d48f127337871",
+            "alignment_revision": "sha256:d4cde22fa27025c422dd4ffd590dd09f0497a26d789148683596f136e15ac044"
+          }
+        },
+        {
+          "ref": "10.84",
+          "targets": {
+            "source_revision": "sha256:1a7c1ac786c20aafe936eb5adfededa389002bb6a45df7496d2666c1e78d48d5",
+            "translation_revision": "sha256:dd23bab6cbc7afd549b85665a6bc808ba7624e846c4acb52b565c93f0f7e7ba7",
+            "alignment_revision": "sha256:6a7df6035b32abd9b8a25fe3d596daf4d8e6d356af9598d779812e0bd9121e4c"
+          }
+        },
+        {
+          "ref": "10.85",
+          "targets": {
+            "source_revision": "sha256:5f7ede83ba0ef7c4304f9c8a9d46577a569a25700f77fd7399c8f94cfc97939d",
+            "translation_revision": "sha256:9e6ec3e83fa60d41ffddb4b355b39c68ab883197ae4ccab044091ed558c3b090",
+            "alignment_revision": "sha256:e3132f995c496cd3c5cb733aca43d997edd31e40724ed51f0f7e06bdeab9cc49"
+          }
+        },
+        {
+          "ref": "10.86",
+          "targets": {
+            "source_revision": "sha256:2e95bdeb1e27d32b745aa4b3ff1b2b4a5fe5b44cbd3812c82b72715848967afc",
+            "translation_revision": "sha256:c9d614964df3eb35ec18d901e2fbc29ce4a43b3c1abedfc2d99ed1a2c652120b",
+            "alignment_revision": "sha256:1ee007d23847f94a6bcd78029023652abaf3b3100b2ede7c4cc86a4204b5e4a7"
+          }
+        },
+        {
+          "ref": "10.87",
+          "targets": {
+            "source_revision": "sha256:3fe1ba022020c9d974d4deca392c6a00a74c273091a2fd19736042a5352b87c3",
+            "translation_revision": "sha256:f61d806386797ef1c392ae0b39202d13f7ef4a5b9b2ed7392f6caa43b8f6ba52",
+            "alignment_revision": "sha256:758f3e2f7a2fc67aec161fcdfc72619a180b484aa112d80a574230861626d7f1"
+          }
+        },
+        {
+          "ref": "10.88",
+          "targets": {
+            "source_revision": "sha256:2d8d4c5159636d1bf12747a22c97049f6aaa18a8b6c682b5b7b7418325bf3c02",
+            "translation_revision": "sha256:3324566e26de0fa4c9cbd7de68fbd9ab8d1073eba8ae15da9e2d56a0fef62f93",
+            "alignment_revision": "sha256:51dfd771a105a3d40c92d99369a8932fa3b03b3fa8dfc8be8e1730c6a2313a90"
+          }
+        }
+      ]
+    }
+  ],
+  "publication_status": "public_review_edition"
+}

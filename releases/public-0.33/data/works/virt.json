@@ -1,0 +1,2659 @@
+{
+  "id": "virt",
+  "title": "덕에 관하여",
+  "author": "필론",
+  "abbreviation": "Virt.",
+  "corpus": "jewish",
+  "language": "grc",
+  "genre": "성경 해석",
+  "period": "고대",
+  "region": "알렉산드리아",
+  "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 5, Reimer, 1906.",
+  "summary": "용기를 지식과 판단에 연결하고 가난과 질병에 맞서는 태도, 옷차림에 관한 율법을 해석하는 논증을 읽습니다.",
+  "topics": [
+    "용기",
+    "덕",
+    "율법",
+    "여성"
+  ],
+  "notes": [],
+  "sourceUrl": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg025/tlg0018.tlg025.1st1K-grc1.xml",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "sourceCredit": "전자 전사와 부호화: University of Leipzig, First1KGreek, Digital Divide Data. 원판 편집: Leopold Cohn.",
+  "verified": "2026-10-03",
+  "translationCredit": "Codex 작성, 원어 직접 번역 초안",
+  "reviewer": "학술 검토 전",
+  "translationLicense": "CC BY-SA 4.0",
+  "rightsNotice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요.",
+  "passages": [
+    {
+      "ref": "1",
+      "section": 1,
+      "original": "Περὶ δικαιοσύνης καὶ τῶν κατ’ αὐτὴν ὅσα καίρια πρότερον εἰπὼν μέτειμι τῶν ἑξῆς ἐπ’ ἀνδρείαν, οὐχ ἣν οἱ πολλοὶ νομίζουσι τὴν ἀρειμάνιον λύτταν ὀργῇ συμβούλῳ χρωμένην, ἀλλὰ τὴν ἐπιστήμην.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:d5a0928abecc4af1278e56e0a5da9b5340202f00090229cb7f74aa2631d97d83",
+      "source_file_sha256": "e2c1001ca3bf457a27cc4caaf784c3dfd436c823a5ced847dd3633a2f389e434",
+      "source_locator": {
+        "filename": "tlg0018.tlg025.1st1K-grc1.xml",
+        "reference": "1"
+      },
+      "korean": "앞에서 정의와 그에 속한 중요한 일들을 설명했다. 이제 그다음으로 용기를 다루겠다. 많은 사람이 용기라고 여기는, 분노를 조언자로 삼는 전쟁의 광기가 아니라 지식인 용기를 다루려는 것이다.",
+      "translation_revision": "sha256:663e8044a2218278d78063a5a159cb03f19c27b88ba70096c104362dda773323",
+      "groups": [
+        {
+          "id": "a-f990140ef1a4513f68f8",
+          "source_range": [
+            0,
+            61
+          ],
+          "ko_range": [
+            0,
+            27
+          ],
+          "source_text": "Περὶ δικαιοσύνης καὶ τῶν κατ’ αὐτὴν ὅσα καίρια πρότερον εἰπὼν",
+          "ko_text": "앞에서 정의와 그에 속한 중요한 일들을 설명했다."
+        },
+        {
+          "id": "a-1f5151cdaf9e1d3bc5d5",
+          "source_range": [
+            62,
+            92
+          ],
+          "ko_range": [
+            28,
+            46
+          ],
+          "source_text": "μέτειμι τῶν ἑξῆς ἐπ’ ἀνδρείαν,",
+          "ko_text": "이제 그다음으로 용기를 다루겠다."
+        },
+        {
+          "id": "a-a867a66e88e0e5fbe9e8",
+          "source_range": [
+            93,
+            185
+          ],
+          "ko_range": [
+            47,
+            105
+          ],
+          "source_text": "οὐχ ἣν οἱ πολλοὶ νομίζουσι τὴν ἀρειμάνιον λύτταν ὀργῇ συμβούλῳ χρωμένην, ἀλλὰ τὴν ἐπιστήμην.",
+          "ko_text": "많은 사람이 용기라고 여기는, 분노를 조언자로 삼는 전쟁의 광기가 아니라 지식인 용기를 다루려는 것이다."
+        }
+      ],
+      "notes": [
+        "필론은 정의에 관한 앞선 논의를 잇고 용기를 지식으로 설명한다. 몸의 힘으로 사람을 쓰러뜨리는 전쟁의 광기와, 지혜에 따라 공동체를 세우는 용기가 2-4절에서 대조된다."
+      ],
+      "work_passage_id": "virt:1",
+      "html_path": "works/virt/index.html#p-1",
+      "fixed_html_path": "releases/public-0.33/works/virt/index.html#p-1",
+      "alignment_revision": "sha256:b4c5846f1e3f7c1c7e278bf6fa51e164a3e65d15aeed15d35f28acd4c9799158",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:d5a0928abecc4af1278e56e0a5da9b5340202f00090229cb7f74aa2631d97d83",
+          "translation_revision": "sha256:663e8044a2218278d78063a5a159cb03f19c27b88ba70096c104362dda773323",
+          "alignment_revision": "sha256:b4c5846f1e3f7c1c7e278bf6fa51e164a3e65d15aeed15d35f28acd4c9799158"
+        },
+        "scoped_ai_review": {
+          "id": "virt-addition-20261003",
+          "scope": "덕에 관하여 1-20절 전체, 21-227절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:d5a0928abecc4af1278e56e0a5da9b5340202f00090229cb7f74aa2631d97d83",
+            "translation_revision": "sha256:663e8044a2218278d78063a5a159cb03f19c27b88ba70096c104362dda773323",
+            "alignment_revision": "sha256:b4c5846f1e3f7c1c7e278bf6fa51e164a3e65d15aeed15d35f28acd4c9799158"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg025/tlg0018.tlg025.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "덕에 관하여",
+        "reference": "1",
+        "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 5, Reimer, 1906.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:663e8044a2218278d78063a5a159cb03f19c27b88ba70096c104362dda773323",
+        "fixed_path": "releases/public-0.33/works/virt/index.html#p-1"
+      }
+    },
+    {
+      "ref": "2",
+      "section": 2,
+      "original": "θράσει μὲν γὰρ ἐπαιρόμενοί τινες, συμπραττούσης σωματικῆς ἰσχύος, ταχθέντες κατὰ πόλεμον ἐν ταῖς παντευχίαις ἡβηδὸν μυρίους ὅσους τῶν ἀντιπάλων κατέβαλον, ἀνοίκειον μὲν εὔφημον δ’ ἀριστείας ὄνομα καρπωσάμενοι, διαφερόντως ὑπὸ τῶν τὰ τοιαῦτα κρινόντων εὐκλεεῖς νίκῃ νομισθέντες, ἄγριοι καὶ θηριώδεις ἐκ φύσεως καὶ μελέτης γεγονότες, αἵματος ἀνθρωπείου δεδιψηκότες.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:899987bb39f3904cab66fcaf6859a65a8ed877fc85a6930f53b337db74cd9bea",
+      "source_file_sha256": "e2c1001ca3bf457a27cc4caaf784c3dfd436c823a5ced847dd3633a2f389e434",
+      "source_locator": {
+        "filename": "tlg0018.tlg025.1st1K-grc1.xml",
+        "reference": "2"
+      },
+      "encoded_printed_page": "v.5.p.267",
+      "korean": "어떤 사람들은 육체의 힘까지 더해져 무모함에 들떠, 전쟁에서 완전무장을 하고 늘어서 수많은 적을 젊은이들까지 모두 쓰러뜨렸다. 그들은 자신에게 어울리지 않으나 듣기 좋은 무공이라는 이름을 얻었다. 그런 일을 평가하는 사람들은 그들을 특히 승리의 명성이 높은 자들로 여겼다. 그러나 그들은 본성과 훈련으로 사납고 짐승 같아졌으며, 사람의 피에 목말라 있었다.",
+      "translation_revision": "sha256:5c3e985a591755037ebfe239023872041a22846563aee0316bb57011fdcd29ef",
+      "groups": [
+        {
+          "id": "a-7b71fb1b24b6604f6e00",
+          "source_range": [
+            0,
+            154
+          ],
+          "ko_range": [
+            0,
+            70
+          ],
+          "source_text": "θράσει μὲν γὰρ ἐπαιρόμενοί τινες, συμπραττούσης σωματικῆς ἰσχύος, ταχθέντες κατὰ πόλεμον ἐν ταῖς παντευχίαις ἡβηδὸν μυρίους ὅσους τῶν ἀντιπάλων κατέβαλον,",
+          "ko_text": "어떤 사람들은 육체의 힘까지 더해져 무모함에 들떠, 전쟁에서 완전무장을 하고 늘어서 수많은 적을 젊은이들까지 모두 쓰러뜨렸다."
+        },
+        {
+          "id": "a-1c11b56e39a9f18e0de4",
+          "source_range": [
+            155,
+            209
+          ],
+          "ko_range": [
+            71,
+            109
+          ],
+          "source_text": "ἀνοίκειον μὲν εὔφημον δ’ ἀριστείας ὄνομα καρπωσάμενοι,",
+          "ko_text": "그들은 자신에게 어울리지 않으나 듣기 좋은 무공이라는 이름을 얻었다."
+        },
+        {
+          "id": "a-a6958aa76973a47bcf76",
+          "source_range": [
+            210,
+            277
+          ],
+          "ko_range": [
+            110,
+            152
+          ],
+          "source_text": "διαφερόντως ὑπὸ τῶν τὰ τοιαῦτα κρινόντων εὐκλεεῖς νίκῃ νομισθέντες,",
+          "ko_text": "그런 일을 평가하는 사람들은 그들을 특히 승리의 명성이 높은 자들로 여겼다."
+        },
+        {
+          "id": "a-2cd02ffd381e913c553e",
+          "source_range": [
+            278,
+            363
+          ],
+          "ko_range": [
+            153,
+            199
+          ],
+          "source_text": "ἄγριοι καὶ θηριώδεις ἐκ φύσεως καὶ μελέτης γεγονότες, αἵματος ἀνθρωπείου δεδιψηκότες.",
+          "ko_text": "그러나 그들은 본성과 훈련으로 사납고 짐승 같아졌으며, 사람의 피에 목말라 있었다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "virt:2",
+      "html_path": "works/virt/index.html#p-2",
+      "fixed_html_path": "releases/public-0.33/works/virt/index.html#p-2",
+      "alignment_revision": "sha256:b8e233316cec9044da11ac9facfc4fc74019da1c7413b69c5866a783db453daf",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:899987bb39f3904cab66fcaf6859a65a8ed877fc85a6930f53b337db74cd9bea",
+          "translation_revision": "sha256:5c3e985a591755037ebfe239023872041a22846563aee0316bb57011fdcd29ef",
+          "alignment_revision": "sha256:b8e233316cec9044da11ac9facfc4fc74019da1c7413b69c5866a783db453daf"
+        },
+        "scoped_ai_review": {
+          "id": "virt-addition-20261003",
+          "scope": "덕에 관하여 1-20절 전체, 21-227절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:899987bb39f3904cab66fcaf6859a65a8ed877fc85a6930f53b337db74cd9bea",
+            "translation_revision": "sha256:5c3e985a591755037ebfe239023872041a22846563aee0316bb57011fdcd29ef",
+            "alignment_revision": "sha256:b8e233316cec9044da11ac9facfc4fc74019da1c7413b69c5866a783db453daf"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg025/tlg0018.tlg025.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "덕에 관하여",
+        "reference": "2",
+        "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 5, Reimer, 1906.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:5c3e985a591755037ebfe239023872041a22846563aee0316bb57011fdcd29ef",
+        "fixed_path": "releases/public-0.33/works/virt/index.html#p-2"
+      }
+    },
+    {
+      "ref": "3",
+      "section": 3,
+      "original": "εἰσὶ δ’ οἳ καὶ ἐν οἰκίᾳ διατρίβοντες, τῶν σωμάτων αὐτοῖς ἢ μακραῖς νόσοις ἢ ἐπιπόνῳ γήρᾳ κατεσκελετευμένων, ὑγιαίνοντες καὶ νεάζοντες τῷ κρείττονι μέρει τῆς ψυχῆς μεστοί τε φρονήματος καὶ θαρραλεωτάτης γέμοντες εὐτολμίας, ἀμυντηρίων ὅπλων μηδ’ ὄναρ ψαύοντες, βουλευμάτων ἀγαθῶν κοινωφελεστάταις εἰσηγήσεσι τά τε ἴδια ἑκάστων καὶ τὰ κοινὰ τῶν πατρίδων πεσόντα πολλάκις ἀνώρθωσαν, ἀνενδότοις καὶ ἀκαμπέσι χρησάμενοι τοῖς περὶ τοῦ συμφέροντος λογισμοῖς.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:7e73c10d359b55bef2dd7fa23a824cb6970789737587d7c7bd7e5fd78a4f92ab",
+      "source_file_sha256": "e2c1001ca3bf457a27cc4caaf784c3dfd436c823a5ced847dd3633a2f389e434",
+      "source_locator": {
+        "filename": "tlg0018.tlg025.1st1K-grc1.xml",
+        "reference": "3"
+      },
+      "encoded_printed_page": "v.5.p.267",
+      "korean": "집에서 지내는 사람들 가운데는 오랜 병이나 고된 노년 때문에 몸이 앙상해진 이들도 있다. 그들은 더 나은 부분인 영혼으로는 건강하고 젊다. 높은 뜻과 매우 담대한 용기로 가득하다. 방어용 무기를 꿈에서조차 건드리지 않으면서도, 좋은 계획에서 나온 가장 유익한 제안으로, 개인의 형편과 고국의 공적 사정이 무너졌을 때 여러 번 바로 세웠다. 유익한 일을 생각하는 데 물러서거나 굽히지 않았기 때문이다.",
+      "translation_revision": "sha256:80b05a49452c41eb5184797138b41bdb8c4ce9a707beee5c1ff3f503d3f88cca",
+      "groups": [
+        {
+          "id": "a-5241c0a288b8c00c135c",
+          "source_range": [
+            0,
+            107
+          ],
+          "ko_range": [
+            0,
+            49
+          ],
+          "source_text": "εἰσὶ δ’ οἳ καὶ ἐν οἰκίᾳ διατρίβοντες, τῶν σωμάτων αὐτοῖς ἢ μακραῖς νόσοις ἢ ἐπιπόνῳ γήρᾳ κατεσκελετευμένων,",
+          "ko_text": "집에서 지내는 사람들 가운데는 오랜 병이나 고된 노년 때문에 몸이 앙상해진 이들도 있다."
+        },
+        {
+          "id": "a-6a886d58f667c2fde315",
+          "source_range": [
+            108,
+            221
+          ],
+          "ko_range": [
+            50,
+            100
+          ],
+          "source_text": "ὑγιαίνοντες καὶ νεάζοντες τῷ κρείττονι μέρει τῆς ψυχῆς μεστοί τε φρονήματος καὶ θαρραλεωτάτης γέμοντες εὐτολμίας,",
+          "ko_text": "그들은 더 나은 부분인 영혼으로는 건강하고 젊다. 높은 뜻과 매우 담대한 용기로 가득하다."
+        },
+        {
+          "id": "a-a02f4716dbaee9ff8dc0",
+          "source_range": [
+            222,
+            258
+          ],
+          "ko_range": [
+            101,
+            126
+          ],
+          "source_text": "ἀμυντηρίων ὅπλων μηδ’ ὄναρ ψαύοντες,",
+          "ko_text": "방어용 무기를 꿈에서조차 건드리지 않으면서도,"
+        },
+        {
+          "id": "a-f3daa6a3f678bb99588b",
+          "source_range": [
+            259,
+            378
+          ],
+          "ko_range": [
+            127,
+            189
+          ],
+          "source_text": "βουλευμάτων ἀγαθῶν κοινωφελεστάταις εἰσηγήσεσι τά τε ἴδια ἑκάστων καὶ τὰ κοινὰ τῶν πατρίδων πεσόντα πολλάκις ἀνώρθωσαν,",
+          "ko_text": "좋은 계획에서 나온 가장 유익한 제안으로, 개인의 형편과 고국의 공적 사정이 무너졌을 때 여러 번 바로 세웠다."
+        },
+        {
+          "id": "a-e578c952b501dfaefab0",
+          "source_range": [
+            379,
+            450
+          ],
+          "ko_range": [
+            190,
+            223
+          ],
+          "source_text": "ἀνενδότοις καὶ ἀκαμπέσι χρησάμενοι τοῖς περὶ τοῦ συμφέροντος λογισμοῖς.",
+          "ko_text": "유익한 일을 생각하는 데 물러서거나 굽히지 않았기 때문이다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "virt:3",
+      "html_path": "works/virt/index.html#p-3",
+      "fixed_html_path": "releases/public-0.33/works/virt/index.html#p-3",
+      "alignment_revision": "sha256:b41ad8a153941326ddae159333d2f663d75b6e9d9d8a0cabd5a4139870357f08",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:7e73c10d359b55bef2dd7fa23a824cb6970789737587d7c7bd7e5fd78a4f92ab",
+          "translation_revision": "sha256:80b05a49452c41eb5184797138b41bdb8c4ce9a707beee5c1ff3f503d3f88cca",
+          "alignment_revision": "sha256:b41ad8a153941326ddae159333d2f663d75b6e9d9d8a0cabd5a4139870357f08"
+        },
+        "scoped_ai_review": {
+          "id": "virt-addition-20261003",
+          "scope": "덕에 관하여 1-20절 전체, 21-227절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:7e73c10d359b55bef2dd7fa23a824cb6970789737587d7c7bd7e5fd78a4f92ab",
+            "translation_revision": "sha256:80b05a49452c41eb5184797138b41bdb8c4ce9a707beee5c1ff3f503d3f88cca",
+            "alignment_revision": "sha256:b41ad8a153941326ddae159333d2f663d75b6e9d9d8a0cabd5a4139870357f08"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg025/tlg0018.tlg025.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "덕에 관하여",
+        "reference": "3",
+        "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 5, Reimer, 1906.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:80b05a49452c41eb5184797138b41bdb8c4ce9a707beee5c1ff3f503d3f88cca",
+        "fixed_path": "releases/public-0.33/works/virt/index.html#p-3"
+      }
+    },
+    {
+      "ref": "4",
+      "section": 4,
+      "original": "οὗτοι μὲν οὖν τὴν ἀληθῆ διαπονοῦσιν ἀνδρείαν ἀσκηταὶ σοφίας ὄντες, ἐκεῖνοι δὲ τὴν ψευδώνυμον ἀμαθίᾳ, νόσῳ δυσθεραπεύτῳ, βιοῦντες, ἣν θρασύτητα κυρίως ἄν τις προσαγορεύσειεν, ὥσπερ φασὶν ἐν τοῖς νομίσμασι τὸ παράσημον ἐμφέρειαν τῆς ἀληθοῦς εἰκόνος.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:9b99c8b5c2b37cdfb6749492ace0230977ee75f06519f49647774deac4343600",
+      "source_file_sha256": "e2c1001ca3bf457a27cc4caaf784c3dfd436c823a5ced847dd3633a2f389e434",
+      "source_locator": {
+        "filename": "tlg0018.tlg025.1st1K-grc1.xml",
+        "reference": "4"
+      },
+      "encoded_printed_page": "v.5.p.267",
+      "korean": "이 사람들은 지혜를 훈련하는 이로서 참된 용기를 힘써 익힌다. 앞서 말한 사람들은 고치기 어려운 병인 무지 속에서 살아가며 이름만 용기인 것을 익힌다. 그것은 정확히는 무모함이라고 불러야 할 것이다. 화폐에서 위조된 것이 진짜 모습과 닮은 형상을 지닌다고 말하는 것과 같다.",
+      "translation_revision": "sha256:6ad5d9f4d258e551109f121d18b6653905a97ce785280c1ed3aa6f95847d595c",
+      "groups": [
+        {
+          "id": "a-5760f4449b03b9bc49e4",
+          "source_range": [
+            0,
+            66
+          ],
+          "ko_range": [
+            0,
+            34
+          ],
+          "source_text": "οὗτοι μὲν οὖν τὴν ἀληθῆ διαπονοῦσιν ἀνδρείαν ἀσκηταὶ σοφίας ὄντες,",
+          "ko_text": "이 사람들은 지혜를 훈련하는 이로서 참된 용기를 힘써 익힌다."
+        },
+        {
+          "id": "a-ce952b681e29e8ab364d",
+          "source_range": [
+            67,
+            129
+          ],
+          "ko_range": [
+            35,
+            84
+          ],
+          "source_text": "ἐκεῖνοι δὲ τὴν ψευδώνυμον ἀμαθίᾳ, νόσῳ δυσθεραπεύτῳ, βιοῦντες,",
+          "ko_text": "앞서 말한 사람들은 고치기 어려운 병인 무지 속에서 살아가며 이름만 용기인 것을 익힌다."
+        },
+        {
+          "id": "a-b6aa83e0c4fea5f87d7f",
+          "source_range": [
+            130,
+            247
+          ],
+          "ko_range": [
+            85,
+            153
+          ],
+          "source_text": "ἣν θρασύτητα κυρίως ἄν τις προσαγορεύσειεν, ὥσπερ φασὶν ἐν τοῖς νομίσμασι τὸ παράσημον ἐμφέρειαν τῆς ἀληθοῦς εἰκόνος.",
+          "ko_text": "그것은 정확히는 무모함이라고 불러야 할 것이다. 화폐에서 위조된 것이 진짜 모습과 닮은 형상을 지닌다고 말하는 것과 같다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "virt:4",
+      "html_path": "works/virt/index.html#p-4",
+      "fixed_html_path": "releases/public-0.33/works/virt/index.html#p-4",
+      "alignment_revision": "sha256:a7ce0c736976a7140a8b00c1a52cf7e1c52db4fc977bc2c43441e707a4c689a2",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:9b99c8b5c2b37cdfb6749492ace0230977ee75f06519f49647774deac4343600",
+          "translation_revision": "sha256:6ad5d9f4d258e551109f121d18b6653905a97ce785280c1ed3aa6f95847d595c",
+          "alignment_revision": "sha256:a7ce0c736976a7140a8b00c1a52cf7e1c52db4fc977bc2c43441e707a4c689a2"
+        },
+        "scoped_ai_review": {
+          "id": "virt-addition-20261003",
+          "scope": "덕에 관하여 1-20절 전체, 21-227절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:9b99c8b5c2b37cdfb6749492ace0230977ee75f06519f49647774deac4343600",
+            "translation_revision": "sha256:6ad5d9f4d258e551109f121d18b6653905a97ce785280c1ed3aa6f95847d595c",
+            "alignment_revision": "sha256:a7ce0c736976a7140a8b00c1a52cf7e1c52db4fc977bc2c43441e707a4c689a2"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg025/tlg0018.tlg025.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "덕에 관하여",
+        "reference": "4",
+        "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 5, Reimer, 1906.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:6ad5d9f4d258e551109f121d18b6653905a97ce785280c1ed3aa6f95847d595c",
+        "fixed_path": "releases/public-0.33/works/virt/index.html#p-4"
+      }
+    },
+    {
+      "ref": "5",
+      "section": 5,
+      "original": "Οὐκ ὀλίγα μέντοι καὶ ἄλλα δυσυπομόνητα τῶν κατὰ τὸν ἀνθρώπινον βίον ὡμολόγηται, πενία καὶ ἀδοξία καὶ πήρωσις καὶ νόσων ἰδέαι πολύτροποι, πρὸς ἃς οἱ μὲν ὀλιγόφρονες μαλακίζονται, μηδ’ ὅσον ὑπ’ ἀτολμίας ἐγερθῆναι δυνάμενοι, ὅσοι δὲ φρονήσεως ὑπόπλεῳ καὶ γενναιότητος ἐπαποδύονται καρτερῶς καὶ σφόδρα ἐρρωμένως ἀντιφιλονεικοῦντες, τὰς ἀπειλὰς καὶ ἐπανατάσεις αὐτῶν πολὺν γέλωτα καὶ χλεύην τιθέμενοι, πενίᾳ μὲν πλοῦτον ἀντιτάττοντες, οὐ τὸν τυφλὸν ἀλλὰ τὸν ὀξὺ καθορῶντα, οὗ τὰ ἀγάλματα καὶ κειμήλια ψυχὴ πέφυκε ταμιεύειν.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:db8e7771ae39cba78e3f0998a0af8564d8f695210181987ef62068371423192c",
+      "source_file_sha256": "e2c1001ca3bf457a27cc4caaf784c3dfd436c823a5ced847dd3633a2f389e434",
+      "source_locator": {
+        "filename": "tlg0018.tlg025.1st1K-grc1.xml",
+        "reference": "5"
+      },
+      "encoded_printed_page": "v.5.p.267",
+      "korean": "인간의 삶에는 견디기 어려운 다른 일도 적지 않다고 인정된다. 가난, 불명예, 장애, 여러 종류의 질병이 그렇다. 생각이 짧은 사람들은 이런 일 앞에서 약해져, 겁 때문에 일어날 힘조차 내지 못한다. 분별과 고귀한 마음으로 가득한 이들은 끈기 있게 나서서 아주 힘차게 맞서 싸운다. 그런 일들이 위협하고 덮쳐 와도 크게 웃고 비웃는다. 그들은 가난에 부를 맞세운다. 눈먼 부가 아니라 날카롭게 보는 부이다. 영혼은 본래 그 부의 장식과 보물을 간직한다.",
+      "translation_revision": "sha256:cf2a2ae3099ad23bbc07d46f18360fc0e89767abe84bfc037d775552ce480e7f",
+      "groups": [
+        {
+          "id": "a-e39b8fe032fbd12feebc",
+          "source_range": [
+            0,
+            136
+          ],
+          "ko_range": [
+            0,
+            63
+          ],
+          "source_text": "Οὐκ ὀλίγα μέντοι καὶ ἄλλα δυσυπομόνητα τῶν κατὰ τὸν ἀνθρώπινον βίον ὡμολόγηται, πενία καὶ ἀδοξία καὶ πήρωσις καὶ νόσων ἰδέαι πολύτροποι,",
+          "ko_text": "인간의 삶에는 견디기 어려운 다른 일도 적지 않다고 인정된다. 가난, 불명예, 장애, 여러 종류의 질병이 그렇다."
+        },
+        {
+          "id": "a-e30e0a4ae07c7865ae6b",
+          "source_range": [
+            137,
+            221
+          ],
+          "ko_range": [
+            64,
+            111
+          ],
+          "source_text": "πρὸς ἃς οἱ μὲν ὀλιγόφρονες μαλακίζονται, μηδ’ ὅσον ὑπ’ ἀτολμίας ἐγερθῆναι δυνάμενοι,",
+          "ko_text": "생각이 짧은 사람들은 이런 일 앞에서 약해져, 겁 때문에 일어날 힘조차 내지 못한다."
+        },
+        {
+          "id": "a-6252d3b65e17af5ed5d5",
+          "source_range": [
+            222,
+            327
+          ],
+          "ko_range": [
+            112,
+            157
+          ],
+          "source_text": "ὅσοι δὲ φρονήσεως ὑπόπλεῳ καὶ γενναιότητος ἐπαποδύονται καρτερῶς καὶ σφόδρα ἐρρωμένως ἀντιφιλονεικοῦντες,",
+          "ko_text": "분별과 고귀한 마음으로 가득한 이들은 끈기 있게 나서서 아주 힘차게 맞서 싸운다."
+        },
+        {
+          "id": "a-fdfcbd3918d2aff79a8a",
+          "source_range": [
+            328,
+            396
+          ],
+          "ko_range": [
+            158,
+            187
+          ],
+          "source_text": "τὰς ἀπειλὰς καὶ ἐπανατάσεις αὐτῶν πολὺν γέλωτα καὶ χλεύην τιθέμενοι,",
+          "ko_text": "그런 일들이 위협하고 덮쳐 와도 크게 웃고 비웃는다."
+        },
+        {
+          "id": "a-60d81779e8abaf5c2ced",
+          "source_range": [
+            397,
+            518
+          ],
+          "ko_range": [
+            188,
+            253
+          ],
+          "source_text": "πενίᾳ μὲν πλοῦτον ἀντιτάττοντες, οὐ τὸν τυφλὸν ἀλλὰ τὸν ὀξὺ καθορῶντα, οὗ τὰ ἀγάλματα καὶ κειμήλια ψυχὴ πέφυκε ταμιεύειν.",
+          "ko_text": "그들은 가난에 부를 맞세운다. 눈먼 부가 아니라 날카롭게 보는 부이다. 영혼은 본래 그 부의 장식과 보물을 간직한다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "virt:5",
+      "html_path": "works/virt/index.html#p-5",
+      "fixed_html_path": "releases/public-0.33/works/virt/index.html#p-5",
+      "alignment_revision": "sha256:7eef8c5e3a571542bc59524a098430ce6b85cdf388b0222760c342c6d1bacd90",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:db8e7771ae39cba78e3f0998a0af8564d8f695210181987ef62068371423192c",
+          "translation_revision": "sha256:cf2a2ae3099ad23bbc07d46f18360fc0e89767abe84bfc037d775552ce480e7f",
+          "alignment_revision": "sha256:7eef8c5e3a571542bc59524a098430ce6b85cdf388b0222760c342c6d1bacd90"
+        },
+        "scoped_ai_review": {
+          "id": "virt-addition-20261003",
+          "scope": "덕에 관하여 1-20절 전체, 21-227절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:db8e7771ae39cba78e3f0998a0af8564d8f695210181987ef62068371423192c",
+            "translation_revision": "sha256:cf2a2ae3099ad23bbc07d46f18360fc0e89767abe84bfc037d775552ce480e7f",
+            "alignment_revision": "sha256:7eef8c5e3a571542bc59524a098430ce6b85cdf388b0222760c342c6d1bacd90"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg025/tlg0018.tlg025.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "덕에 관하여",
+        "reference": "5",
+        "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 5, Reimer, 1906.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:cf2a2ae3099ad23bbc07d46f18360fc0e89767abe84bfc037d775552ce480e7f",
+        "fixed_path": "releases/public-0.33/works/virt/index.html#p-5"
+      }
+    },
+    {
+      "ref": "6",
+      "section": 6,
+      "original": "μυρίους γὰρ πενία κατεπάλαισεν, οἳ τρόπον ἀθλητῶν ἀπειρηκότων ὑπ’ ἀνανδρίας κατέπεσον μαλακισθέντες· ἐνδεὴς δὲ παρ’ ἀληθείᾳ δικαζούσῃ τὸ παράπαν οὐδὲ εἷς ἐστι χορηγὸν ἔχων τὸν τῆς φύσεως ἀκαθαίρετον πλοῦτον· ἀέρα μέν, τὴν πρώτην καὶ ἀναγκαιοτάτην καὶ συνεχῆ τροφήν, ἀδιαστάτως μεθ’ ἡμέραν τε καὶ νύκτωρ ἀναπνεόμενον, ἔπειτα δὲ πηγὰς ἀφθόνους καὶ ποταμῶν οὐ χειμάρρων μόνον ἀλλὰ καὶ αὐθιγενῶν ῥεῖθρα ἀέναα πρὸς ποτοῦ χρῆσιν, ἔπειτα εἰς ἐδωδὴν φορὰς παντοίων καρπῶν καὶ δένδρων ἰδέας, αἳ τὰς ἐτησίους ὀπώρας ἀεὶ φέρουσι· τούτων γὰρ ἄπορος οὐδείς, ἀλλὰ πάντες οἱ πανταχοῦ πολλὴν ἄγουσι περιουσίαν.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:0eb87f70b8a5a7f04220b2337a8be8b4abaa5871fc4d9cf7532f66862c00fbfe",
+      "source_file_sha256": "e2c1001ca3bf457a27cc4caaf784c3dfd436c823a5ced847dd3633a2f389e434",
+      "source_locator": {
+        "filename": "tlg0018.tlg025.1st1K-grc1.xml",
+        "reference": "6"
+      },
+      "encoded_printed_page": "v.5.p.268",
+      "korean": "가난은 수많은 사람을 넘어뜨렸다. 그들은 지친 선수들처럼 용기가 없어 약해지고 쓰러졌다. 그러나 진실이 판결한다면, 무너뜨릴 수 없는 자연의 부를 공급자로 둔 사람은 그 누구도 궁핍하지 않다. 먼저 공기가 있다. 가장 먼저 필요하고 꼭 필요하며 끊임없이 공급되는 양식으로, 밤낮 쉬지 않고 들이마신다. 다음으로 풍성한 샘과 강의 끝없이 흐르는 물이 있어 마실 수 있다. 비에만 의존하는 강뿐 아니라 샘에서 솟는 강도 있다. 다음으로 먹을 수 있는 온갖 열매의 수확과 여러 나무가 있다. 나무들은 해마다 계절의 과일을 내어 준다. 이런 것들에서 궁핍한 사람은 아무도 없으며, 어디에 있든 모든 사람에게 큰 풍요가 있다.",
+      "translation_revision": "sha256:72f0858e181038deb22566ed68ba639e59e522cee8785363de97baf67b32fa81",
+      "groups": [
+        {
+          "id": "a-ff751008fbf7fab5f914",
+          "source_range": [
+            0,
+            100
+          ],
+          "ko_range": [
+            0,
+            49
+          ],
+          "source_text": "μυρίους γὰρ πενία κατεπάλαισεν, οἳ τρόπον ἀθλητῶν ἀπειρηκότων ὑπ’ ἀνανδρίας κατέπεσον μαλακισθέντες·",
+          "ko_text": "가난은 수많은 사람을 넘어뜨렸다. 그들은 지친 선수들처럼 용기가 없어 약해지고 쓰러졌다."
+        },
+        {
+          "id": "a-f222830511d7612bc8f9",
+          "source_range": [
+            101,
+            207
+          ],
+          "ko_range": [
+            50,
+            107
+          ],
+          "source_text": "ἐνδεὴς δὲ παρ’ ἀληθείᾳ δικαζούσῃ τὸ παράπαν οὐδὲ εἷς ἐστι χορηγὸν ἔχων τὸν τῆς φύσεως ἀκαθαίρετον πλοῦτον·",
+          "ko_text": "그러나 진실이 판결한다면, 무너뜨릴 수 없는 자연의 부를 공급자로 둔 사람은 그 누구도 궁핍하지 않다."
+        },
+        {
+          "id": "a-8385353a792e4faf43ef",
+          "source_range": [
+            208,
+            316
+          ],
+          "ko_range": [
+            108,
+            168
+          ],
+          "source_text": "ἀέρα μέν, τὴν πρώτην καὶ ἀναγκαιοτάτην καὶ συνεχῆ τροφήν, ἀδιαστάτως μεθ’ ἡμέραν τε καὶ νύκτωρ ἀναπνεόμενον,",
+          "ko_text": "먼저 공기가 있다. 가장 먼저 필요하고 꼭 필요하며 끊임없이 공급되는 양식으로, 밤낮 쉬지 않고 들이마신다."
+        },
+        {
+          "id": "a-56aaa1d81866a0063a0f",
+          "source_range": [
+            317,
+            423
+          ],
+          "ko_range": [
+            169,
+            236
+          ],
+          "source_text": "ἔπειτα δὲ πηγὰς ἀφθόνους καὶ ποταμῶν οὐ χειμάρρων μόνον ἀλλὰ καὶ αὐθιγενῶν ῥεῖθρα ἀέναα πρὸς ποτοῦ χρῆσιν,",
+          "ko_text": "다음으로 풍성한 샘과 강의 끝없이 흐르는 물이 있어 마실 수 있다. 비에만 의존하는 강뿐 아니라 샘에서 솟는 강도 있다."
+        },
+        {
+          "id": "a-6f7d1c1c47b045dcb538",
+          "source_range": [
+            424,
+            518
+          ],
+          "ko_range": [
+            237,
+            295
+          ],
+          "source_text": "ἔπειτα εἰς ἐδωδὴν φορὰς παντοίων καρπῶν καὶ δένδρων ἰδέας, αἳ τὰς ἐτησίους ὀπώρας ἀεὶ φέρουσι·",
+          "ko_text": "다음으로 먹을 수 있는 온갖 열매의 수확과 여러 나무가 있다. 나무들은 해마다 계절의 과일을 내어 준다."
+        },
+        {
+          "id": "a-7eb30f884041213ccce1",
+          "source_range": [
+            519,
+            594
+          ],
+          "ko_range": [
+            296,
+            345
+          ],
+          "source_text": "τούτων γὰρ ἄπορος οὐδείς, ἀλλὰ πάντες οἱ πανταχοῦ πολλὴν ἄγουσι περιουσίαν.",
+          "ko_text": "이런 것들에서 궁핍한 사람은 아무도 없으며, 어디에 있든 모든 사람에게 큰 풍요가 있다."
+        }
+      ],
+      "notes": [
+        "자연의 부를 말하는 논증은 공기, 마실 물, 먹을 열매를 예로 든다. 이것을 몸을 지키는 부로 설명한 뒤 8절에서는 지혜가 주는 영혼의 부를 다룬다."
+      ],
+      "work_passage_id": "virt:6",
+      "html_path": "works/virt/index.html#p-6",
+      "fixed_html_path": "releases/public-0.33/works/virt/index.html#p-6",
+      "alignment_revision": "sha256:99fdc9cac036ac70e26ab651346922ebb787ea6e173e31bfa361c23a2ea70ecc",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:0eb87f70b8a5a7f04220b2337a8be8b4abaa5871fc4d9cf7532f66862c00fbfe",
+          "translation_revision": "sha256:72f0858e181038deb22566ed68ba639e59e522cee8785363de97baf67b32fa81",
+          "alignment_revision": "sha256:99fdc9cac036ac70e26ab651346922ebb787ea6e173e31bfa361c23a2ea70ecc"
+        },
+        "scoped_ai_review": {
+          "id": "virt-addition-20261003",
+          "scope": "덕에 관하여 1-20절 전체, 21-227절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:0eb87f70b8a5a7f04220b2337a8be8b4abaa5871fc4d9cf7532f66862c00fbfe",
+            "translation_revision": "sha256:72f0858e181038deb22566ed68ba639e59e522cee8785363de97baf67b32fa81",
+            "alignment_revision": "sha256:99fdc9cac036ac70e26ab651346922ebb787ea6e173e31bfa361c23a2ea70ecc"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg025/tlg0018.tlg025.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "덕에 관하여",
+        "reference": "6",
+        "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 5, Reimer, 1906.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:72f0858e181038deb22566ed68ba639e59e522cee8785363de97baf67b32fa81",
+        "fixed_path": "releases/public-0.33/works/virt/index.html#p-6"
+      }
+    },
+    {
+      "ref": "7",
+      "section": 7,
+      "original": "εἰ δέ τινες τὸν τῆς φύσεως πλοῦτον παρ’ οὐδὲν θέμενοι τὸν τῶν κενῶν δοξῶν διώκουσι, τυφλῷ πρὸ βλέποντος σκηριπτόμενοι καὶ ἡγεμόνι τῆς",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:aa05c2d434306a6a5f7450df589fbefa7e285af00403a8510db9523bd6ad81be",
+      "source_file_sha256": "e2c1001ca3bf457a27cc4caaf784c3dfd436c823a5ced847dd3633a2f389e434",
+      "source_locator": {
+        "filename": "tlg0018.tlg025.1st1K-grc1.xml",
+        "reference": "7"
+      },
+      "encoded_printed_page": "v.5.p.268",
+      "korean": "그런데 어떤 사람들은 자연의 부를 아무것도 아닌 것으로 여기고 헛된 생각들이 부라고 여기는 것을 쫓는다. 보는 사람 대신 눈먼 사람에게 의지하고, 길의 인도자로",
+      "translation_revision": "sha256:37648dde799bf982a56ae0377160107b546c33370fe27595cc347b33dccdf5da",
+      "groups": [
+        {
+          "id": "a-7d9c9e0375b8fdda85d2",
+          "source_range": [
+            0,
+            83
+          ],
+          "ko_range": [
+            0,
+            58
+          ],
+          "source_text": "εἰ δέ τινες τὸν τῆς φύσεως πλοῦτον παρ’ οὐδὲν θέμενοι τὸν τῶν κενῶν δοξῶν διώκουσι,",
+          "ko_text": "그런데 어떤 사람들은 자연의 부를 아무것도 아닌 것으로 여기고 헛된 생각들이 부라고 여기는 것을 쫓는다."
+        },
+        {
+          "id": "a-8e64a51bdc16debab42f",
+          "source_range": [
+            84,
+            133
+          ],
+          "ko_range": [
+            59,
+            89
+          ],
+          "source_text": "τυφλῷ πρὸ βλέποντος σκηριπτόμενοι καὶ ἡγεμόνι τῆς",
+          "ko_text": "보는 사람 대신 눈먼 사람에게 의지하고, 길의 인도자로"
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "virt:7",
+      "html_path": "works/virt/index.html#p-7",
+      "fixed_html_path": "releases/public-0.33/works/virt/index.html#p-7",
+      "alignment_revision": "sha256:8eb263d0e69d9fdf0259424db80628f3ecfd5bbaf769ca264b2b507eddb1b8c6",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:aa05c2d434306a6a5f7450df589fbefa7e285af00403a8510db9523bd6ad81be",
+          "translation_revision": "sha256:37648dde799bf982a56ae0377160107b546c33370fe27595cc347b33dccdf5da",
+          "alignment_revision": "sha256:8eb263d0e69d9fdf0259424db80628f3ecfd5bbaf769ca264b2b507eddb1b8c6"
+        },
+        "scoped_ai_review": {
+          "id": "virt-addition-20261003",
+          "scope": "덕에 관하여 1-20절 전체, 21-227절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:aa05c2d434306a6a5f7450df589fbefa7e285af00403a8510db9523bd6ad81be",
+            "translation_revision": "sha256:37648dde799bf982a56ae0377160107b546c33370fe27595cc347b33dccdf5da",
+            "alignment_revision": "sha256:8eb263d0e69d9fdf0259424db80628f3ecfd5bbaf769ca264b2b507eddb1b8c6"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg025/tlg0018.tlg025.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "덕에 관하여",
+        "reference": "7",
+        "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 5, Reimer, 1906.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:37648dde799bf982a56ae0377160107b546c33370fe27595cc347b33dccdf5da",
+        "fixed_path": "releases/public-0.33/works/virt/index.html#p-7"
+      }
+    },
+    {
+      "ref": "8",
+      "section": 8,
+      "original": "ὁδοῦ χρώμενοι πεπηρωμένῳ, πίπτειν ἐξ ἀνάγκης ὀφείλουσιν. ὁ μὲν δὴ σώματος δορυφόρος πλοῦτος φύσεως εὕρημα καὶ δῶρον ὢν ἤδη λέλεκται. τὸν δὲ σεμνότερον, ὃς οὐ πᾶσιν ἀλλὰ τοῖς ἀληθῶς σεμνοῖς καὶ θεσπεσίοις ἀνδράσι πρόσεστι, μηνυτέον. τοῦτον τὸν πλοῦτον σοφία χορηγεῖ διὰ λογικῶν καὶ ἠθικῶν καὶ φυσικῶν δογμάτων καὶ θεωρημάτων, ἐξ ὧν φύεσθαι τὰς ἀρετὰς συμβέβηκεν, αἳ τῆς ψυχῆς ὑποτέμνονται τὴν πολυτέλειαν εὐκολίας καὶ ὀλιγοδεΐας ἔρωτας ἐντίκτουσαι κατὰ τὴν πρὸς θεὸν ἐξομοίωσιν.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:c7128f7f41430ed4c77950eee77d42880e4acf71872fbb2b9197b73efe1eff9c",
+      "source_file_sha256": "e2c1001ca3bf457a27cc4caaf784c3dfd436c823a5ced847dd3633a2f389e434",
+      "source_locator": {
+        "filename": "tlg0018.tlg025.1st1K-grc1.xml",
+        "reference": "8"
+      },
+      "encoded_printed_page": "v.5.p.268",
+      "korean": "눈을 쓰지 못하는 사람을 삼으니, 반드시 넘어질 수밖에 없다. 몸을 지키는 호위병인 부가 자연의 발견이며 선물이라는 것은 이미 말했다. 이제 더 존귀한 부를 알려야 한다. 모든 사람에게 있는 부가 아니라, 참으로 존귀하고 신적인 사람들에게 있는 부이다. 지혜는 이 부를 논리와 윤리와 자연에 관한 가르침과 탐구로 공급한다. 거기서 덕들이 자라난다. 덕들은 하나님을 닮고자 편안한 만족과 적게 필요한 삶을 사랑하게 하며, 영혼의 사치를 덜어 낸다.",
+      "translation_revision": "sha256:804b9cdbb389a9387bb5de65a6b605846e26d8e6200e07811529eb34582b051c",
+      "groups": [
+        {
+          "id": "a-c623ffeb42e9c1e77b18",
+          "source_range": [
+            0,
+            56
+          ],
+          "ko_range": [
+            0,
+            34
+          ],
+          "source_text": "ὁδοῦ χρώμενοι πεπηρωμένῳ, πίπτειν ἐξ ἀνάγκης ὀφείλουσιν.",
+          "ko_text": "눈을 쓰지 못하는 사람을 삼으니, 반드시 넘어질 수밖에 없다."
+        },
+        {
+          "id": "a-f4441c35c4e0ac6f9d81",
+          "source_range": [
+            57,
+            132
+          ],
+          "ko_range": [
+            35,
+            75
+          ],
+          "source_text": "ὁ μὲν δὴ σώματος δορυφόρος πλοῦτος φύσεως εὕρημα καὶ δῶρον ὢν ἤδη λέλεκται.",
+          "ko_text": "몸을 지키는 호위병인 부가 자연의 발견이며 선물이라는 것은 이미 말했다."
+        },
+        {
+          "id": "a-016c0e32d476300c0741",
+          "source_range": [
+            133,
+            231
+          ],
+          "ko_range": [
+            76,
+            141
+          ],
+          "source_text": "τὸν δὲ σεμνότερον, ὃς οὐ πᾶσιν ἀλλὰ τοῖς ἀληθῶς σεμνοῖς καὶ θεσπεσίοις ἀνδράσι πρόσεστι, μηνυτέον.",
+          "ko_text": "이제 더 존귀한 부를 알려야 한다. 모든 사람에게 있는 부가 아니라, 참으로 존귀하고 신적인 사람들에게 있는 부이다."
+        },
+        {
+          "id": "a-7c79d5509672fea865ed",
+          "source_range": [
+            232,
+            324
+          ],
+          "ko_range": [
+            142,
+            180
+          ],
+          "source_text": "τοῦτον τὸν πλοῦτον σοφία χορηγεῖ διὰ λογικῶν καὶ ἠθικῶν καὶ φυσικῶν δογμάτων καὶ θεωρημάτων,",
+          "ko_text": "지혜는 이 부를 논리와 윤리와 자연에 관한 가르침과 탐구로 공급한다."
+        },
+        {
+          "id": "a-5aa9eb8ed87d9a554ba0",
+          "source_range": [
+            325,
+            477
+          ],
+          "ko_range": [
+            181,
+            249
+          ],
+          "source_text": "ἐξ ὧν φύεσθαι τὰς ἀρετὰς συμβέβηκεν, αἳ τῆς ψυχῆς ὑποτέμνονται τὴν πολυτέλειαν εὐκολίας καὶ ὀλιγοδεΐας ἔρωτας ἐντίκτουσαι κατὰ τὴν πρὸς θεὸν ἐξομοίωσιν.",
+          "ko_text": "거기서 덕들이 자라난다. 덕들은 하나님을 닮고자 편안한 만족과 적게 필요한 삶을 사랑하게 하며, 영혼의 사치를 덜어 낸다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "virt:8",
+      "html_path": "works/virt/index.html#p-8",
+      "fixed_html_path": "releases/public-0.33/works/virt/index.html#p-8",
+      "alignment_revision": "sha256:70f54b65c23b883e3244586a3dcb7806a9343b261ed6e56ce06d46eeee91ea0d",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:c7128f7f41430ed4c77950eee77d42880e4acf71872fbb2b9197b73efe1eff9c",
+          "translation_revision": "sha256:804b9cdbb389a9387bb5de65a6b605846e26d8e6200e07811529eb34582b051c",
+          "alignment_revision": "sha256:70f54b65c23b883e3244586a3dcb7806a9343b261ed6e56ce06d46eeee91ea0d"
+        },
+        "scoped_ai_review": {
+          "id": "virt-addition-20261003",
+          "scope": "덕에 관하여 1-20절 전체, 21-227절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:c7128f7f41430ed4c77950eee77d42880e4acf71872fbb2b9197b73efe1eff9c",
+            "translation_revision": "sha256:804b9cdbb389a9387bb5de65a6b605846e26d8e6200e07811529eb34582b051c",
+            "alignment_revision": "sha256:70f54b65c23b883e3244586a3dcb7806a9343b261ed6e56ce06d46eeee91ea0d"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg025/tlg0018.tlg025.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "덕에 관하여",
+        "reference": "8",
+        "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 5, Reimer, 1906.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:804b9cdbb389a9387bb5de65a6b605846e26d8e6200e07811529eb34582b051c",
+        "fixed_path": "releases/public-0.33/works/virt/index.html#p-8"
+      }
+    },
+    {
+      "ref": "9",
+      "section": 9,
+      "original": "ἔστι γὰρ ὁ μὲν θεὸς ἀνεπιδεής, οὐδενὸς χρεῖος ὤν, ἀλλ’ αὐτὸς αὐταρκέστατος ἑαυτῷ· ὁ δὲ φαῦλος πολυδεής, ἀεὶ διψῶν τῶν ἀπόντων ἀπλήστου καὶ ἀκορέστου χάριν ἐπιθυμίας, ἣν πυρὸς τρόπον ἀναρριπίζων καὶ ἀναφλέγων ἐπὶ πάντα μικρά τε αὖ καὶ μεγάλα τείνει· ὁ δὲ σπουδαῖος ὀλιγοδεής, ἀθανάτου καὶ θνητῆς φύσεως μεθόριος, τὸ μὲν ἐπιδεὲς ἔχων διὰ σῶμα θνητόν, τὸ δὲ μὴ πολυδεὲς διὰ ψυχὴν ἐφιεμένην ἀθανασίας.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:d38550a09a214f01f8710db94208fcc15d431c2a3bf61197ba6c76d3b90438c3",
+      "source_file_sha256": "e2c1001ca3bf457a27cc4caaf784c3dfd436c823a5ced847dd3633a2f389e434",
+      "source_locator": {
+        "filename": "tlg0018.tlg025.1st1K-grc1.xml",
+        "reference": "9"
+      },
+      "encoded_printed_page": "v.5.p.269",
+      "korean": "하나님은 아무것도 부족하지 않으시며 필요가 없으시다. 자기 안에서 가장 충족하신다. 악한 사람은 많은 것이 필요하여, 없는 것에 늘 목말라한다. 채워도 채워지지 않는 욕망 때문이다. 그는 그 욕망을 불처럼 부채질하고 타오르게 하여, 크고 작은 모든 것에 뻗게 한다. 훌륭한 사람은 필요한 것이 적으며, 불멸하는 본성과 죽을 본성의 경계에 있다. 죽을 몸 때문에 필요가 있지만, 불멸을 갈망하는 영혼 때문에 많은 것이 필요하지는 않다.",
+      "translation_revision": "sha256:fa3c3027f38f068387082c0fe0fb98b81ca4f91f27bcbb895acfd54658f73e8c",
+      "groups": [
+        {
+          "id": "a-9b9ad420d365c2fffb39",
+          "source_range": [
+            0,
+            81
+          ],
+          "ko_range": [
+            0,
+            46
+          ],
+          "source_text": "ἔστι γὰρ ὁ μὲν θεὸς ἀνεπιδεής, οὐδενὸς χρεῖος ὤν, ἀλλ’ αὐτὸς αὐταρκέστατος ἑαυτῷ·",
+          "ko_text": "하나님은 아무것도 부족하지 않으시며 필요가 없으시다. 자기 안에서 가장 충족하신다."
+        },
+        {
+          "id": "a-420e407660c5fedd1311",
+          "source_range": [
+            82,
+            125
+          ],
+          "ko_range": [
+            47,
+            80
+          ],
+          "source_text": "ὁ δὲ φαῦλος πολυδεής, ἀεὶ διψῶν τῶν ἀπόντων",
+          "ko_text": "악한 사람은 많은 것이 필요하여, 없는 것에 늘 목말라한다."
+        },
+        {
+          "id": "a-d3ca3b982be172698aaf",
+          "source_range": [
+            126,
+            165
+          ],
+          "ko_range": [
+            81,
+            101
+          ],
+          "source_text": "ἀπλήστου καὶ ἀκορέστου χάριν ἐπιθυμίας,",
+          "ko_text": "채워도 채워지지 않는 욕망 때문이다."
+        },
+        {
+          "id": "a-42e26738fa314b17f2f0",
+          "source_range": [
+            166,
+            248
+          ],
+          "ko_range": [
+            102,
+            148
+          ],
+          "source_text": "ἣν πυρὸς τρόπον ἀναρριπίζων καὶ ἀναφλέγων ἐπὶ πάντα μικρά τε αὖ καὶ μεγάλα τείνει·",
+          "ko_text": "그는 그 욕망을 불처럼 부채질하고 타오르게 하여, 크고 작은 모든 것에 뻗게 한다."
+        },
+        {
+          "id": "a-05dcde86f03d29f45893",
+          "source_range": [
+            249,
+            311
+          ],
+          "ko_range": [
+            149,
+            192
+          ],
+          "source_text": "ὁ δὲ σπουδαῖος ὀλιγοδεής, ἀθανάτου καὶ θνητῆς φύσεως μεθόριος,",
+          "ko_text": "훌륭한 사람은 필요한 것이 적으며, 불멸하는 본성과 죽을 본성의 경계에 있다."
+        },
+        {
+          "id": "a-ace79b6f6bb2d937f765",
+          "source_range": [
+            312,
+            397
+          ],
+          "ko_range": [
+            193,
+            242
+          ],
+          "source_text": "τὸ μὲν ἐπιδεὲς ἔχων διὰ σῶμα θνητόν, τὸ δὲ μὴ πολυδεὲς διὰ ψυχὴν ἐφιεμένην ἀθανασίας.",
+          "ko_text": "죽을 몸 때문에 필요가 있지만, 불멸을 갈망하는 영혼 때문에 많은 것이 필요하지는 않다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "virt:9",
+      "html_path": "works/virt/index.html#p-9",
+      "fixed_html_path": "releases/public-0.33/works/virt/index.html#p-9",
+      "alignment_revision": "sha256:4d00fbd1b41361ad2121fb525e22ed9006e37410ec7ef521aa7a4a8dc428f080",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:d38550a09a214f01f8710db94208fcc15d431c2a3bf61197ba6c76d3b90438c3",
+          "translation_revision": "sha256:fa3c3027f38f068387082c0fe0fb98b81ca4f91f27bcbb895acfd54658f73e8c",
+          "alignment_revision": "sha256:4d00fbd1b41361ad2121fb525e22ed9006e37410ec7ef521aa7a4a8dc428f080"
+        },
+        "scoped_ai_review": {
+          "id": "virt-addition-20261003",
+          "scope": "덕에 관하여 1-20절 전체, 21-227절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:d38550a09a214f01f8710db94208fcc15d431c2a3bf61197ba6c76d3b90438c3",
+            "translation_revision": "sha256:fa3c3027f38f068387082c0fe0fb98b81ca4f91f27bcbb895acfd54658f73e8c",
+            "alignment_revision": "sha256:4d00fbd1b41361ad2121fb525e22ed9006e37410ec7ef521aa7a4a8dc428f080"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg025/tlg0018.tlg025.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "덕에 관하여",
+        "reference": "9",
+        "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 5, Reimer, 1906.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:fa3c3027f38f068387082c0fe0fb98b81ca4f91f27bcbb895acfd54658f73e8c",
+        "fixed_path": "releases/public-0.33/works/virt/index.html#p-9"
+      }
+    },
+    {
+      "ref": "10",
+      "section": 10,
+      "original": "οὕτως μὲν πενίᾳ πλοῦτον ἀντιτάττουσιν· ἀδοξίᾳ δὲ εὔκλειαν· ὁ γὰρ ἔπαινος ὁρμητήριον ἔχων καλοκἀγαθίαν καὶ ὥσπερ ἀπὸ ἀενάου πηγῆς ἐκεῖθεν ῥέων ἀνεξετάστων ἀνθρώπων οὐκ ἐνομιλεῖ πλήθεσι τὰς τῆς ψυχῆς ἀνωμαλίας ἀβεβαίοις φωναῖς ἀπογυμνοῦν εἰωθότων, ἃς ἔστιν ὅτε λημμάτων αἰσχρῶν ἐπευωνίζοντες οὐκ ἐρυθριῶσιν κατὰ τῶν ἀριστίνδην ἐπιλεγομένων. ὀλίγος δὲ τούτων ἀριθμός ἐστιν· ἀρετὴ γὰρ οὐ πολύχουν ἐν θνητῷ γένει.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:4c592e8a78aef1a033cc9fe58aa3e21f53647b94f5e7613236da9e9208a87192",
+      "source_file_sha256": "e2c1001ca3bf457a27cc4caaf784c3dfd436c823a5ced847dd3633a2f389e434",
+      "source_locator": {
+        "filename": "tlg0018.tlg025.1st1K-grc1.xml",
+        "reference": "10"
+      },
+      "encoded_printed_page": "v.5.p.269",
+      "korean": "그들은 이렇게 가난에 부를 맞세운다. 불명예에는 좋은 명성을 맞세운다. 훌륭한 삶에서 출발하여 마르지 않는 샘처럼 거기서 흐르는 칭찬은, 스스로 살피지 않는 군중과 어울리지 않는다. 그들은 흔들리는 말로 자기 영혼의 불안정함을 드러내곤 한다. 때로는 부끄러운 보수를 받고, 가장 뛰어나다고 뽑힌 이들을 상대로 그런 말을 팔면서도 얼굴을 붉히지 않는다. 뛰어난 이들의 수는 적다. 죽을 사람들 가운데 덕은 흔하지 않기 때문이다.",
+      "translation_revision": "sha256:3878a348cfad815c8ffaf535816ba94366ee636259657d09e6b9e5b1736fad08",
+      "groups": [
+        {
+          "id": "a-2106d619af8df49cac52",
+          "source_range": [
+            0,
+            38
+          ],
+          "ko_range": [
+            0,
+            20
+          ],
+          "source_text": "οὕτως μὲν πενίᾳ πλοῦτον ἀντιτάττουσιν·",
+          "ko_text": "그들은 이렇게 가난에 부를 맞세운다."
+        },
+        {
+          "id": "a-aaeac16de4fc248cafae",
+          "source_range": [
+            39,
+            58
+          ],
+          "ko_range": [
+            21,
+            39
+          ],
+          "source_text": "ἀδοξίᾳ δὲ εὔκλειαν·",
+          "ko_text": "불명예에는 좋은 명성을 맞세운다."
+        },
+        {
+          "id": "a-b73a95a8cf58e89e88e5",
+          "source_range": [
+            59,
+            183
+          ],
+          "ko_range": [
+            40,
+            101
+          ],
+          "source_text": "ὁ γὰρ ἔπαινος ὁρμητήριον ἔχων καλοκἀγαθίαν καὶ ὥσπερ ἀπὸ ἀενάου πηγῆς ἐκεῖθεν ῥέων ἀνεξετάστων ἀνθρώπων οὐκ ἐνομιλεῖ πλήθεσι",
+          "ko_text": "훌륭한 삶에서 출발하여 마르지 않는 샘처럼 거기서 흐르는 칭찬은, 스스로 살피지 않는 군중과 어울리지 않는다."
+        },
+        {
+          "id": "a-88ad07f9b9492b467a77",
+          "source_range": [
+            184,
+            245
+          ],
+          "ko_range": [
+            102,
+            135
+          ],
+          "source_text": "τὰς τῆς ψυχῆς ἀνωμαλίας ἀβεβαίοις φωναῖς ἀπογυμνοῦν εἰωθότων,",
+          "ko_text": "그들은 흔들리는 말로 자기 영혼의 불안정함을 드러내곤 한다."
+        },
+        {
+          "id": "a-ed67cce6d489c62c51f9",
+          "source_range": [
+            246,
+            338
+          ],
+          "ko_range": [
+            136,
+            196
+          ],
+          "source_text": "ἃς ἔστιν ὅτε λημμάτων αἰσχρῶν ἐπευωνίζοντες οὐκ ἐρυθριῶσιν κατὰ τῶν ἀριστίνδην ἐπιλεγομένων.",
+          "ko_text": "때로는 부끄러운 보수를 받고, 가장 뛰어나다고 뽑힌 이들을 상대로 그런 말을 팔면서도 얼굴을 붉히지 않는다."
+        },
+        {
+          "id": "a-6e9bf6a8b5826c063f48",
+          "source_range": [
+            339,
+            408
+          ],
+          "ko_range": [
+            197,
+            238
+          ],
+          "source_text": "ὀλίγος δὲ τούτων ἀριθμός ἐστιν· ἀρετὴ γὰρ οὐ πολύχουν ἐν θνητῷ γένει.",
+          "ko_text": "뛰어난 이들의 수는 적다. 죽을 사람들 가운데 덕은 흔하지 않기 때문이다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "virt:10",
+      "html_path": "works/virt/index.html#p-10",
+      "fixed_html_path": "releases/public-0.33/works/virt/index.html#p-10",
+      "alignment_revision": "sha256:bbf95ad4813497387af2f067efbc6e6c068179d41c4dc882d20870ba57d8694e",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:4c592e8a78aef1a033cc9fe58aa3e21f53647b94f5e7613236da9e9208a87192",
+          "translation_revision": "sha256:3878a348cfad815c8ffaf535816ba94366ee636259657d09e6b9e5b1736fad08",
+          "alignment_revision": "sha256:bbf95ad4813497387af2f067efbc6e6c068179d41c4dc882d20870ba57d8694e"
+        },
+        "scoped_ai_review": {
+          "id": "virt-addition-20261003",
+          "scope": "덕에 관하여 1-20절 전체, 21-227절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:4c592e8a78aef1a033cc9fe58aa3e21f53647b94f5e7613236da9e9208a87192",
+            "translation_revision": "sha256:3878a348cfad815c8ffaf535816ba94366ee636259657d09e6b9e5b1736fad08",
+            "alignment_revision": "sha256:bbf95ad4813497387af2f067efbc6e6c068179d41c4dc882d20870ba57d8694e"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg025/tlg0018.tlg025.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "덕에 관하여",
+        "reference": "10",
+        "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 5, Reimer, 1906.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:3878a348cfad815c8ffaf535816ba94366ee636259657d09e6b9e5b1736fad08",
+        "fixed_path": "releases/public-0.33/works/virt/index.html#p-10"
+      }
+    },
+    {
+      "ref": "11",
+      "section": 11,
+      "original": "πηρώσει γε μὴν αἰσθήσεων, ᾗ συζῶντες ἔτι μυρίοι προαπέθανον τῷ μηδὲν ἀλεξίκακον εὑρεῖν δύνασθαι φάρμακον, ἀντικάθηται φρόνησις, τὸ κρατιστεῦον τῶν ἐν ἡμῖν, ἐνομματοῦσα διάνοιαν, ἣ πρὸς ὀξυωπίαν τῶν σώματος ὀφθαλμῶν ὅλῳ, φασί, καὶ τῷ παντὶ διενήνοχεν.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:49479c09bd4876d3d0fa83ff1e7053e30022042fd0911699172f0eb3c172a5d7",
+      "source_file_sha256": "e2c1001ca3bf457a27cc4caaf784c3dfd436c823a5ced847dd3633a2f389e434",
+      "source_locator": {
+        "filename": "tlg0018.tlg025.1st1K-grc1.xml",
+        "reference": "11"
+      },
+      "encoded_printed_page": "v.5.p.269",
+      "korean": "감각의 장애와 더불어 살아가는 수많은 사람은 악을 막을 약을 찾지 못해, 아직 살아 있는데도 미리 죽어 버렸다. 그런 장애에 분별이 맞선다. 분별은 우리 안에서 가장 강한 것으로, 정신에 눈을 열어 준다. 정신은 시력의 날카로움에서 육체의 눈보다 모든 면에서 훨씬 뛰어나다고들 말한다.",
+      "translation_revision": "sha256:8868322e6a5a6fd10e65aa56f95262db0f450ad62f8f7a0d77f5122d6dc8fc1f",
+      "groups": [
+        {
+          "id": "a-e872d99674b547085e2c",
+          "source_range": [
+            0,
+            105
+          ],
+          "ko_range": [
+            0,
+            62
+          ],
+          "source_text": "πηρώσει γε μὴν αἰσθήσεων, ᾗ συζῶντες ἔτι μυρίοι προαπέθανον τῷ μηδὲν ἀλεξίκακον εὑρεῖν δύνασθαι φάρμακον,",
+          "ko_text": "감각의 장애와 더불어 살아가는 수많은 사람은 악을 막을 약을 찾지 못해, 아직 살아 있는데도 미리 죽어 버렸다."
+        },
+        {
+          "id": "a-71e6a8a8af5439655367",
+          "source_range": [
+            106,
+            127
+          ],
+          "ko_range": [
+            63,
+            78
+          ],
+          "source_text": "ἀντικάθηται φρόνησις,",
+          "ko_text": "그런 장애에 분별이 맞선다."
+        },
+        {
+          "id": "a-62812ca572f9189ee6ae",
+          "source_range": [
+            128,
+            177
+          ],
+          "ko_range": [
+            79,
+            114
+          ],
+          "source_text": "τὸ κρατιστεῦον τῶν ἐν ἡμῖν, ἐνομματοῦσα διάνοιαν,",
+          "ko_text": "분별은 우리 안에서 가장 강한 것으로, 정신에 눈을 열어 준다."
+        },
+        {
+          "id": "a-ea2b34337e1078400bdc",
+          "source_range": [
+            178,
+            250
+          ],
+          "ko_range": [
+            115,
+            159
+          ],
+          "source_text": "ἣ πρὸς ὀξυωπίαν τῶν σώματος ὀφθαλμῶν ὅλῳ, φασί, καὶ τῷ παντὶ διενήνοχεν.",
+          "ko_text": "정신은 시력의 날카로움에서 육체의 눈보다 모든 면에서 훨씬 뛰어나다고들 말한다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "virt:11",
+      "html_path": "works/virt/index.html#p-11",
+      "fixed_html_path": "releases/public-0.33/works/virt/index.html#p-11",
+      "alignment_revision": "sha256:82682d7f340c5eedbf60b82e5f1c1e39d0d9895dbe266f6bd72afa9b5771ffda",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:49479c09bd4876d3d0fa83ff1e7053e30022042fd0911699172f0eb3c172a5d7",
+          "translation_revision": "sha256:8868322e6a5a6fd10e65aa56f95262db0f450ad62f8f7a0d77f5122d6dc8fc1f",
+          "alignment_revision": "sha256:82682d7f340c5eedbf60b82e5f1c1e39d0d9895dbe266f6bd72afa9b5771ffda"
+        },
+        "scoped_ai_review": {
+          "id": "virt-addition-20261003",
+          "scope": "덕에 관하여 1-20절 전체, 21-227절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:49479c09bd4876d3d0fa83ff1e7053e30022042fd0911699172f0eb3c172a5d7",
+            "translation_revision": "sha256:8868322e6a5a6fd10e65aa56f95262db0f450ad62f8f7a0d77f5122d6dc8fc1f",
+            "alignment_revision": "sha256:82682d7f340c5eedbf60b82e5f1c1e39d0d9895dbe266f6bd72afa9b5771ffda"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg025/tlg0018.tlg025.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "덕에 관하여",
+        "reference": "11",
+        "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 5, Reimer, 1906.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:8868322e6a5a6fd10e65aa56f95262db0f450ad62f8f7a0d77f5122d6dc8fc1f",
+        "fixed_path": "releases/public-0.33/works/virt/index.html#p-11"
+      }
+    },
+    {
+      "ref": "12",
+      "section": 12,
+      "original": "οἱ μὲν γὰρ τὰς ἐπιφανείας τῶν ὁρατῶν καταθεῶνται, ἅμα δεόμενοι φωτὸς ἔξωθεν, ἡ δὲ καὶ διὰ βάθους χωρεῖ τῶν σωμάτων, ὅλα δι’ ὅλων καθ’ ἕκαστα τῶν μερῶν ἀκριβοῦσα καὶ περιαθροῦσα καὶ τὰς τῶν ἀσωμάτων φύσεις, ἃς ἐπισκοπεῖν αἴσθησις ἀδυνατεῖ· σχεδὸν γὰρ πᾶσαν ὀξυωπίαν ὀφθαλμοῦ καταλαμβάνει, μὴ προσδεομένη νόθου φωτός, ἀστὴρ οὖσα αὐτὴ καὶ σχεδόν τι τῶν ἐπουρανίων ἀπεικόνισμα καὶ μίμημα.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:9ed8d6bc9cfbaf6ee36d8d4bd4b9dc68d22bbbc8e0730c6a80b3dbc4df9734ae",
+      "source_file_sha256": "e2c1001ca3bf457a27cc4caaf784c3dfd436c823a5ced847dd3633a2f389e434",
+      "source_locator": {
+        "filename": "tlg0018.tlg025.1st1K-grc1.xml",
+        "reference": "12"
+      },
+      "encoded_printed_page": "v.5.p.269",
+      "korean": "육체의 눈은 보이는 것의 겉면만 바라보고, 밖에서 오는 빛도 필요로 한다. 정신은 몸의 깊은 곳까지 들어가 각각의 부분을 통해 전체를 정확히 파악하고 두루 살핀다. 몸이 없는 것들의 본성도 살핀다. 감각은 그것들을 관찰할 수 없다. 정신은 눈의 날카로운 시력을 거의 모두 갖추면서도 외부의 빛을 더 필요로 하지 않는다. 정신 자체가 별이며, 거의 하늘의 것들을 본뜬 모상이기 때문이다.",
+      "translation_revision": "sha256:9c364de711d90e4b2fc1056bb325fa3e0c0576c8a468a19ff4d77e9ad6042a12",
+      "groups": [
+        {
+          "id": "a-40b74b1fe0a927b311b2",
+          "source_range": [
+            0,
+            76
+          ],
+          "ko_range": [
+            0,
+            41
+          ],
+          "source_text": "οἱ μὲν γὰρ τὰς ἐπιφανείας τῶν ὁρατῶν καταθεῶνται, ἅμα δεόμενοι φωτὸς ἔξωθεν,",
+          "ko_text": "육체의 눈은 보이는 것의 겉면만 바라보고, 밖에서 오는 빛도 필요로 한다."
+        },
+        {
+          "id": "a-e943b76af7551449f6aa",
+          "source_range": [
+            77,
+            205
+          ],
+          "ko_range": [
+            42,
+            110
+          ],
+          "source_text": "ἡ δὲ καὶ διὰ βάθους χωρεῖ τῶν σωμάτων, ὅλα δι’ ὅλων καθ’ ἕκαστα τῶν μερῶν ἀκριβοῦσα καὶ περιαθροῦσα καὶ τὰς τῶν ἀσωμάτων φύσεις,",
+          "ko_text": "정신은 몸의 깊은 곳까지 들어가 각각의 부분을 통해 전체를 정확히 파악하고 두루 살핀다. 몸이 없는 것들의 본성도 살핀다."
+        },
+        {
+          "id": "a-1d9fb83d868af3b4ac1d",
+          "source_range": [
+            206,
+            238
+          ],
+          "ko_range": [
+            111,
+            129
+          ],
+          "source_text": "ἃς ἐπισκοπεῖν αἴσθησις ἀδυνατεῖ·",
+          "ko_text": "감각은 그것들을 관찰할 수 없다."
+        },
+        {
+          "id": "a-77b6221b3867982fa129",
+          "source_range": [
+            239,
+            384
+          ],
+          "ko_range": [
+            130,
+            215
+          ],
+          "source_text": "σχεδὸν γὰρ πᾶσαν ὀξυωπίαν ὀφθαλμοῦ καταλαμβάνει, μὴ προσδεομένη νόθου φωτός, ἀστὴρ οὖσα αὐτὴ καὶ σχεδόν τι τῶν ἐπουρανίων ἀπεικόνισμα καὶ μίμημα.",
+          "ko_text": "정신은 눈의 날카로운 시력을 거의 모두 갖추면서도 외부의 빛을 더 필요로 하지 않는다. 정신 자체가 별이며, 거의 하늘의 것들을 본뜬 모상이기 때문이다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "virt:12",
+      "html_path": "works/virt/index.html#p-12",
+      "fixed_html_path": "releases/public-0.33/works/virt/index.html#p-12",
+      "alignment_revision": "sha256:c2952bf8684a3ac155bcb23b843e5ce6719bfcce09378b3a0bd93fb0010e6b62",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:9ed8d6bc9cfbaf6ee36d8d4bd4b9dc68d22bbbc8e0730c6a80b3dbc4df9734ae",
+          "translation_revision": "sha256:9c364de711d90e4b2fc1056bb325fa3e0c0576c8a468a19ff4d77e9ad6042a12",
+          "alignment_revision": "sha256:c2952bf8684a3ac155bcb23b843e5ce6719bfcce09378b3a0bd93fb0010e6b62"
+        },
+        "scoped_ai_review": {
+          "id": "virt-addition-20261003",
+          "scope": "덕에 관하여 1-20절 전체, 21-227절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:9ed8d6bc9cfbaf6ee36d8d4bd4b9dc68d22bbbc8e0730c6a80b3dbc4df9734ae",
+            "translation_revision": "sha256:9c364de711d90e4b2fc1056bb325fa3e0c0576c8a468a19ff4d77e9ad6042a12",
+            "alignment_revision": "sha256:c2952bf8684a3ac155bcb23b843e5ce6719bfcce09378b3a0bd93fb0010e6b62"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg025/tlg0018.tlg025.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "덕에 관하여",
+        "reference": "12",
+        "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 5, Reimer, 1906.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:9c364de711d90e4b2fc1056bb325fa3e0c0576c8a468a19ff4d77e9ad6042a12",
+        "fixed_path": "releases/public-0.33/works/virt/index.html#p-12"
+      }
+    },
+    {
+      "ref": "13",
+      "section": 13,
+      "original": "νόσοι γε μὴν σωμάτων ὑγιαινούσης ψυχῆς ἥκιστα βλάπτουσιν· ὑγεία δὲ ψυχῆς εὐκρασία δυνάμεών ἐστι τῆς τε κατὰ τὸν θυμὸν καὶ τὴν ἐπιθυμίαν καὶ τὸν λόγον, ἐπικρατούσης τῆς λογικῆς καὶ ὥσπερ ἀφηνιαστὰς ἵππους ἡνιοχούσης ἑκατέρας.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:70bc4cc51afcc02d84be04c092752e8d4f2bf110d21ef17d526aba636438aae9",
+      "source_file_sha256": "e2c1001ca3bf457a27cc4caaf784c3dfd436c823a5ced847dd3633a2f389e434",
+      "source_locator": {
+        "filename": "tlg0018.tlg025.1st1K-grc1.xml",
+        "reference": "13"
+      },
+      "encoded_printed_page": "v.5.p.270",
+      "korean": "영혼이 건강하면 몸의 질병은 해를 거의 끼치지 않는다. 영혼의 건강은 분노와 욕망과 이성의 능력들이 잘 어우러지는 것이다. 이성의 능력이 지배하면서, 다른 두 능력을 날뛰는 말처럼 몰아간다.",
+      "translation_revision": "sha256:8beeebaba4232b6c323fb2750fca21359fa5888b174c8101d4f74f6c4e3637ef",
+      "groups": [
+        {
+          "id": "a-18f69ef7e4f924767fb1",
+          "source_range": [
+            0,
+            57
+          ],
+          "ko_range": [
+            0,
+            30
+          ],
+          "source_text": "νόσοι γε μὴν σωμάτων ὑγιαινούσης ψυχῆς ἥκιστα βλάπτουσιν·",
+          "ko_text": "영혼이 건강하면 몸의 질병은 해를 거의 끼치지 않는다."
+        },
+        {
+          "id": "a-1fe12f0439b9e4994ff9",
+          "source_range": [
+            58,
+            150
+          ],
+          "ko_range": [
+            31,
+            68
+          ],
+          "source_text": "ὑγεία δὲ ψυχῆς εὐκρασία δυνάμεών ἐστι τῆς τε κατὰ τὸν θυμὸν καὶ τὴν ἐπιθυμίαν καὶ τὸν λόγον,",
+          "ko_text": "영혼의 건강은 분노와 욕망과 이성의 능력들이 잘 어우러지는 것이다."
+        },
+        {
+          "id": "a-5c7a9dbfa4780415d8b9",
+          "source_range": [
+            151,
+            224
+          ],
+          "ko_range": [
+            69,
+            106
+          ],
+          "source_text": "ἐπικρατούσης τῆς λογικῆς καὶ ὥσπερ ἀφηνιαστὰς ἵππους ἡνιοχούσης ἑκατέρας.",
+          "ko_text": "이성의 능력이 지배하면서, 다른 두 능력을 날뛰는 말처럼 몰아간다."
+        }
+      ],
+      "notes": [
+        "영혼의 건강은 분노, 욕망, 이성의 능력이 어우러지는 상태이며, 이성이 다른 두 능력을 말처럼 다스리는 것으로 정의된다. 마카베오기 제4서의 경건한 이성과 감정의 논증을 비교할 수 있다."
+      ],
+      "work_passage_id": "virt:13",
+      "html_path": "works/virt/index.html#p-13",
+      "fixed_html_path": "releases/public-0.33/works/virt/index.html#p-13",
+      "alignment_revision": "sha256:0c145560a20b1a21fe44c8187fed13afe91c6105104cca2d3d02c86bc1b579f9",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:70bc4cc51afcc02d84be04c092752e8d4f2bf110d21ef17d526aba636438aae9",
+          "translation_revision": "sha256:8beeebaba4232b6c323fb2750fca21359fa5888b174c8101d4f74f6c4e3637ef",
+          "alignment_revision": "sha256:0c145560a20b1a21fe44c8187fed13afe91c6105104cca2d3d02c86bc1b579f9"
+        },
+        "scoped_ai_review": {
+          "id": "virt-addition-20261003",
+          "scope": "덕에 관하여 1-20절 전체, 21-227절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:70bc4cc51afcc02d84be04c092752e8d4f2bf110d21ef17d526aba636438aae9",
+            "translation_revision": "sha256:8beeebaba4232b6c323fb2750fca21359fa5888b174c8101d4f74f6c4e3637ef",
+            "alignment_revision": "sha256:0c145560a20b1a21fe44c8187fed13afe91c6105104cca2d3d02c86bc1b579f9"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg025/tlg0018.tlg025.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "덕에 관하여",
+        "reference": "13",
+        "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 5, Reimer, 1906.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:8beeebaba4232b6c323fb2750fca21359fa5888b174c8101d4f74f6c4e3637ef",
+        "fixed_path": "releases/public-0.33/works/virt/index.html#p-13"
+      }
+    },
+    {
+      "ref": "14",
+      "section": 14,
+      "original": "ὄνομα ταύτης ἴδιον τῆς ὑγείας ἐστὶ σωφροσύνη, σωτηρίαν τῷ φρονοῦντι τῶν ἐν ἡμῖν ἀπεργαζομένη· κινδυνεῦον γὰρ αὐτὸ πολλάκις ὑπὸ τῆς τῶν παθῶν φορᾶς κατακλύζεσθαι ὑποβρύχιον οὐκ ἐᾷ χωρεῖν, ἀλλὰ ἀνέλκει καὶ μετέωρον ἐξαίρει ψυχοῦσα καὶ ζῳογονοῦσα καὶ τρόπον τινὰ ἀπαθανατίζουσα.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:2f35afe96988824e328fe800f11f58750a96c366971a3467b442e9601078a6a6",
+      "source_file_sha256": "e2c1001ca3bf457a27cc4caaf784c3dfd436c823a5ced847dd3633a2f389e434",
+      "source_locator": {
+        "filename": "tlg0018.tlg025.1st1K-grc1.xml",
+        "reference": "14"
+      },
+      "encoded_printed_page": "v.5.p.270",
+      "base_original": "ὄνομα ταύτης ἴδιον τῆς ὑγείας ἐστὶ σωφροσύνη, σωτηρίαν τῷ φρονοῦντι τῶν ἐν ἡμῖν ἀπεργαζομένη· \\κινδυνεῦον γὰρ αὐτὸ πολλάκις ὑπὸ τῆς τῶν παθῶν φορᾶς κατακλύζεσθαι ὑποβρύχιον οὐκ ἐᾷ χωρεῖν, ἀλλὰ ἀνέλκει καὶ μετέωρον ἐξαίρει ψυχοῦσα καὶ ζῳογονοῦσα καὶ τρόπον τινὰ ἀπαθανατίζουσα.",
+      "source_collation": {
+        "selection_kind": "printed_body_transcription_correction",
+        "replacements": [
+          [
+            "\\",
+            ""
+          ]
+        ],
+        "edition": "Cohn1906, vol.5,270쪽",
+        "printed_page": 270,
+        "pdf_page": 652,
+        "url": "https://archive.org/download/philonisalexandr0406philuoft/philonisalexandr0406philuoft.pdf",
+        "verified": "2026-10-03",
+        "reason": "인쇄본문의 κινδυνεῦον 앞에는 전자 TEI의 역슬래시가 없다."
+      },
+      "korean": "이 건강의 고유한 이름은 절제이다. 절제는 우리 안의 생각하는 부분을 안전하게 지켜 준다. 그 부분은 감정의 물결에 자주 휩쓸릴 위험이 있지만, 절제는 그것이 물 아래로 가라앉지 못하게 한다. 도리어 끌어 올려 높이 세우고 숨을 불어넣으며 살려 낸다. 어떤 의미에서는 죽지 않게 한다.",
+      "translation_revision": "sha256:70b65c4516dd2cd2836b1f1b78d0aac6f8a0da0a61ab4c513ae70a5632817ef1",
+      "groups": [
+        {
+          "id": "a-5bf067666f1d4577c7b3",
+          "source_range": [
+            0,
+            45
+          ],
+          "ko_range": [
+            0,
+            19
+          ],
+          "source_text": "ὄνομα ταύτης ἴδιον τῆς ὑγείας ἐστὶ σωφροσύνη,",
+          "ko_text": "이 건강의 고유한 이름은 절제이다."
+        },
+        {
+          "id": "a-41eda7da365c7c80e44c",
+          "source_range": [
+            46,
+            93
+          ],
+          "ko_range": [
+            20,
+            50
+          ],
+          "source_text": "σωτηρίαν τῷ φρονοῦντι τῶν ἐν ἡμῖν ἀπεργαζομένη·",
+          "ko_text": "절제는 우리 안의 생각하는 부분을 안전하게 지켜 준다."
+        },
+        {
+          "id": "a-ef94d3a79eb6d2afd964",
+          "source_range": [
+            94,
+            186
+          ],
+          "ko_range": [
+            51,
+            107
+          ],
+          "source_text": "κινδυνεῦον γὰρ αὐτὸ πολλάκις ὑπὸ τῆς τῶν παθῶν φορᾶς κατακλύζεσθαι ὑποβρύχιον οὐκ ἐᾷ χωρεῖν,",
+          "ko_text": "그 부분은 감정의 물결에 자주 휩쓸릴 위험이 있지만, 절제는 그것이 물 아래로 가라앉지 못하게 한다."
+        },
+        {
+          "id": "a-5b88185d3b5a99f23b1d",
+          "source_range": [
+            187,
+            275
+          ],
+          "ko_range": [
+            108,
+            159
+          ],
+          "source_text": "ἀλλὰ ἀνέλκει καὶ μετέωρον ἐξαίρει ψυχοῦσα καὶ ζῳογονοῦσα καὶ τρόπον τινὰ ἀπαθανατίζουσα.",
+          "ko_text": "도리어 끌어 올려 높이 세우고 숨을 불어넣으며 살려 낸다. 어떤 의미에서는 죽지 않게 한다."
+        }
+      ],
+      "notes": [
+        "Cohn1906판270쪽의 κινδυνεῦον 앞에는 전자 TEI에 있는 역슬래시가 없다. 인쇄본문에 맞춘 수정과 원래 문자열은 원문 결정 기록에 있다."
+      ],
+      "work_passage_id": "virt:14",
+      "html_path": "works/virt/index.html#p-14",
+      "fixed_html_path": "releases/public-0.33/works/virt/index.html#p-14",
+      "alignment_revision": "sha256:f4b94fb6168e6c17f3778e3ac10ee33ac560a0c7150e513e5e5372767f716a1a",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_with_printed_collation",
+        "targets": {
+          "source_revision": "sha256:2f35afe96988824e328fe800f11f58750a96c366971a3467b442e9601078a6a6",
+          "translation_revision": "sha256:70b65c4516dd2cd2836b1f1b78d0aac6f8a0da0a61ab4c513ae70a5632817ef1",
+          "alignment_revision": "sha256:f4b94fb6168e6c17f3778e3ac10ee33ac560a0c7150e513e5e5372767f716a1a"
+        },
+        "scoped_ai_review": {
+          "id": "virt-addition-20261003",
+          "scope": "덕에 관하여 1-20절 전체, 21-227절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:2f35afe96988824e328fe800f11f58750a96c366971a3467b442e9601078a6a6",
+            "translation_revision": "sha256:70b65c4516dd2cd2836b1f1b78d0aac6f8a0da0a61ab4c513ae70a5632817ef1",
+            "alignment_revision": "sha256:f4b94fb6168e6c17f3778e3ac10ee33ac560a0c7150e513e5e5372767f716a1a"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg025/tlg0018.tlg025.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "덕에 관하여",
+        "reference": "14",
+        "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 5, Reimer, 1906.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:70b65c4516dd2cd2836b1f1b78d0aac6f8a0da0a61ab4c513ae70a5632817ef1",
+        "fixed_path": "releases/public-0.33/works/virt/index.html#p-14",
+        "collation_edition": "Cohn1906, vol.5,270쪽"
+      }
+    },
+    {
+      "ref": "15",
+      "section": 15,
+      "original": "πάντα δὲ τὰ εἰρημένα ὑφηγήσεις εἰσὶ καὶ διδασκαλίαι πολλαχοῦ τῆς νομοθεσίας ἐστηλιτευμέναι, τοὺς μὲν εὐπειθεῖς μαλακώτερον ἀναπείθουσαι τοὺς δὲ ἀπειθεστέρους ἐμβριθέστερον καταφρονεῖν τῶν περὶ σῶμα καὶ ἐκτός, ἓν μὲν τέλος ἡγουμένους τὸ κατ’ ἀρετὴν βιοῦν, ζηλοῦντας δὲ καὶ τἄλλα ὅσα ἀγωγὰ πρὸς τοῦτο.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:7a8641d4c94c017bb3b8cc7fe5abf41b1df6e0c028188025ee677648853946f5",
+      "source_file_sha256": "e2c1001ca3bf457a27cc4caaf784c3dfd436c823a5ced847dd3633a2f389e434",
+      "source_locator": {
+        "filename": "tlg0018.tlg025.1st1K-grc1.xml",
+        "reference": "15"
+      },
+      "encoded_printed_page": "v.5.p.270",
+      "korean": "앞서 말한 모든 것은 율법의 여러 곳에 새겨진 설명과 가르침이다. 잘 따르는 이들은 부드럽게, 잘 따르지 않는 이들은 더 엄하게 설득하여 몸과 외적인 것을 가볍게 여기게 한다. 덕을 따라 사는 것을 유일한 목적으로 여기고, 그 목적에 이끄는 다른 모든 것도 힘써 구하게 한다.",
+      "translation_revision": "sha256:8aa8247edd051aa5c5b28f30b796705a0e88887d0f0437376a077dab873938b1",
+      "groups": [
+        {
+          "id": "a-6aade9d310c1b9b8bef3",
+          "source_range": [
+            0,
+            91
+          ],
+          "ko_range": [
+            0,
+            36
+          ],
+          "source_text": "πάντα δὲ τὰ εἰρημένα ὑφηγήσεις εἰσὶ καὶ διδασκαλίαι πολλαχοῦ τῆς νομοθεσίας ἐστηλιτευμέναι,",
+          "ko_text": "앞서 말한 모든 것은 율법의 여러 곳에 새겨진 설명과 가르침이다."
+        },
+        {
+          "id": "a-7a2e31e068feac882f8f",
+          "source_range": [
+            92,
+            208
+          ],
+          "ko_range": [
+            37,
+            98
+          ],
+          "source_text": "τοὺς μὲν εὐπειθεῖς μαλακώτερον ἀναπείθουσαι τοὺς δὲ ἀπειθεστέρους ἐμβριθέστερον καταφρονεῖν τῶν περὶ σῶμα καὶ ἐκτός,",
+          "ko_text": "잘 따르는 이들은 부드럽게, 잘 따르지 않는 이들은 더 엄하게 설득하여 몸과 외적인 것을 가볍게 여기게 한다."
+        },
+        {
+          "id": "a-901199c01f5866b20e07",
+          "source_range": [
+            209,
+            299
+          ],
+          "ko_range": [
+            99,
+            154
+          ],
+          "source_text": "ἓν μὲν τέλος ἡγουμένους τὸ κατ’ ἀρετὴν βιοῦν, ζηλοῦντας δὲ καὶ τἄλλα ὅσα ἀγωγὰ πρὸς τοῦτο.",
+          "ko_text": "덕을 따라 사는 것을 유일한 목적으로 여기고, 그 목적에 이끄는 다른 모든 것도 힘써 구하게 한다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "virt:15",
+      "html_path": "works/virt/index.html#p-15",
+      "fixed_html_path": "releases/public-0.33/works/virt/index.html#p-15",
+      "alignment_revision": "sha256:3bd04205213e0f0eb63a66ef47d6f1e7163889a4e5cc98858257952ac37d14a5",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:7a8641d4c94c017bb3b8cc7fe5abf41b1df6e0c028188025ee677648853946f5",
+          "translation_revision": "sha256:8aa8247edd051aa5c5b28f30b796705a0e88887d0f0437376a077dab873938b1",
+          "alignment_revision": "sha256:3bd04205213e0f0eb63a66ef47d6f1e7163889a4e5cc98858257952ac37d14a5"
+        },
+        "scoped_ai_review": {
+          "id": "virt-addition-20261003",
+          "scope": "덕에 관하여 1-20절 전체, 21-227절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:7a8641d4c94c017bb3b8cc7fe5abf41b1df6e0c028188025ee677648853946f5",
+            "translation_revision": "sha256:8aa8247edd051aa5c5b28f30b796705a0e88887d0f0437376a077dab873938b1",
+            "alignment_revision": "sha256:3bd04205213e0f0eb63a66ef47d6f1e7163889a4e5cc98858257952ac37d14a5"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg025/tlg0018.tlg025.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "덕에 관하여",
+        "reference": "15",
+        "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 5, Reimer, 1906.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:8aa8247edd051aa5c5b28f30b796705a0e88887d0f0437376a077dab873938b1",
+        "fixed_path": "releases/public-0.33/works/virt/index.html#p-15"
+      }
+    },
+    {
+      "ref": "16",
+      "section": 16,
+      "original": "καὶ εἴ γε μὴ διὰ τῶν προτέρων ἐτύγχανον ἕκαστα διεξεληλυθὼς τῶν εἰς ἀτυφίαν, ἐπειρώμην ἂν ἀπομηκύνειν ἐν τῷ παρόντι συνυφαίνων καὶ συνείρων τὰ δοκοῦντα σποράδην κεῖσθαι ἐν τόποις διαφέρουσιν·",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:4bbd4a9ed8847fcfef2370b3cdcfdab4e43c3d22cff4074147bd33c14c0ecb84",
+      "source_file_sha256": "e2c1001ca3bf457a27cc4caaf784c3dfd436c823a5ced847dd3633a2f389e434",
+      "source_locator": {
+        "filename": "tlg0018.tlg025.1st1K-grc1.xml",
+        "reference": "16"
+      },
+      "encoded_printed_page": "v.5.p.270",
+      "korean": "나는 교만을 버리는 데 관한 각각의 내용을 앞선 저술에서 이미 설명했다. 그렇지 않았다면, 다른 곳에 흩어져 있는 듯한 내용들을 엮고 이어서 여기서 더 길게 설명하려 했을 것이다.",
+      "translation_revision": "sha256:9eff9292cb6c4e02c8383a324778472bea5a6c63bdeb8bb6320a12c20cb213c9",
+      "groups": [
+        {
+          "id": "a-c0fa47e1a09278a5ddd1",
+          "source_range": [
+            0,
+            76
+          ],
+          "ko_range": [
+            0,
+            40
+          ],
+          "source_text": "καὶ εἴ γε μὴ διὰ τῶν προτέρων ἐτύγχανον ἕκαστα διεξεληλυθὼς τῶν εἰς ἀτυφίαν,",
+          "ko_text": "나는 교만을 버리는 데 관한 각각의 내용을 앞선 저술에서 이미 설명했다."
+        },
+        {
+          "id": "a-9fb0dc852de97b947ae8",
+          "source_range": [
+            77,
+            191
+          ],
+          "ko_range": [
+            41,
+            100
+          ],
+          "source_text": "ἐπειρώμην ἂν ἀπομηκύνειν ἐν τῷ παρόντι συνυφαίνων καὶ συνείρων τὰ δοκοῦντα σποράδην κεῖσθαι ἐν τόποις διαφέρουσιν·",
+          "ko_text": "그렇지 않았다면, 다른 곳에 흩어져 있는 듯한 내용들을 엮고 이어서 여기서 더 길게 설명하려 했을 것이다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "virt:16",
+      "html_path": "works/virt/index.html#p-16",
+      "fixed_html_path": "releases/public-0.33/works/virt/index.html#p-16",
+      "alignment_revision": "sha256:f76a7529b5759148f8c16b8ee0675f1ebbb574af5c2733db6174bb85de84bc87",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:4bbd4a9ed8847fcfef2370b3cdcfdab4e43c3d22cff4074147bd33c14c0ecb84",
+          "translation_revision": "sha256:9eff9292cb6c4e02c8383a324778472bea5a6c63bdeb8bb6320a12c20cb213c9",
+          "alignment_revision": "sha256:f76a7529b5759148f8c16b8ee0675f1ebbb574af5c2733db6174bb85de84bc87"
+        },
+        "scoped_ai_review": {
+          "id": "virt-addition-20261003",
+          "scope": "덕에 관하여 1-20절 전체, 21-227절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:4bbd4a9ed8847fcfef2370b3cdcfdab4e43c3d22cff4074147bd33c14c0ecb84",
+            "translation_revision": "sha256:9eff9292cb6c4e02c8383a324778472bea5a6c63bdeb8bb6320a12c20cb213c9",
+            "alignment_revision": "sha256:f76a7529b5759148f8c16b8ee0675f1ebbb574af5c2733db6174bb85de84bc87"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg025/tlg0018.tlg025.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "덕에 관하여",
+        "reference": "16",
+        "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 5, Reimer, 1906.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:9eff9292cb6c4e02c8383a324778472bea5a6c63bdeb8bb6320a12c20cb213c9",
+        "fixed_path": "releases/public-0.33/works/virt/index.html#p-16"
+      }
+    },
+    {
+      "ref": "17",
+      "section": 17,
+      "original": "εἰρηκὼς δ’ ὅσα καιρὸς παλιλλογεῖν οὐ δικαιῶ. τοὺς μέντοι μὴ ἀποκνοῦντας ἀλλὰ διὰ σπουδῆς τιθεμένους ἐντυγχάνειν ταῖς πρὸ τούτων βίβλοις δεῖ νοῆσαι, ὅτι πάντα τὰ περὶ ἀτυφίας λεχθέντα σχεδόν ἐστι περὶ ἀνδρείας, ἐπειδήπερ εὐτόνου καὶ γενναίας καὶ σφόδρα νενευρωμένης ψυχῆς ἐστι καταφρονῆσαι πάντων ὅσα τῦφος εἴωθε σεμνοποιεῖν ἐπὶ διαφθορᾷ τοῦ πρὸς ἀλήθειαν βίου.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:96fea183a580688fdb11e18d6ff7abedf21e98baf4f90f3e9ff4e042582f8aa9",
+      "source_file_sha256": "e2c1001ca3bf457a27cc4caaf784c3dfd436c823a5ced847dd3633a2f389e434",
+      "source_locator": {
+        "filename": "tlg0018.tlg025.1st1K-grc1.xml",
+        "reference": "17"
+      },
+      "encoded_printed_page": "v.5.p.271",
+      "korean": "필요한 만큼 말했으므로, 같은 말을 되풀이하는 것이 옳다고 여기지 않는다. 앞선 책들을 읽는 일을 꺼리지 않고 힘써 읽는 사람들은, 교만을 버리는 데 관한 말이 거의 모두 용기에 관한 말임을 알아야 한다. 참된 삶을 망가뜨리면서도 허영이 늘 높여 주는 모든 것을 가볍게 여기는 일은, 힘 있고 고귀하며 아주 굳센 영혼의 일이기 때문이다.",
+      "translation_revision": "sha256:600001d5db6380a1daee635049e887af62081e986548e163a664e63bd74be42c",
+      "groups": [
+        {
+          "id": "a-6a0bb0dea2547e228f45",
+          "source_range": [
+            0,
+            44
+          ],
+          "ko_range": [
+            0,
+            41
+          ],
+          "source_text": "εἰρηκὼς δ’ ὅσα καιρὸς παλιλλογεῖν οὐ δικαιῶ.",
+          "ko_text": "필요한 만큼 말했으므로, 같은 말을 되풀이하는 것이 옳다고 여기지 않는다."
+        },
+        {
+          "id": "a-0e435cf84c11719bae9c",
+          "source_range": [
+            45,
+            209
+          ],
+          "ko_range": [
+            42,
+            114
+          ],
+          "source_text": "τοὺς μέντοι μὴ ἀποκνοῦντας ἀλλὰ διὰ σπουδῆς τιθεμένους ἐντυγχάνειν ταῖς πρὸ τούτων βίβλοις δεῖ νοῆσαι, ὅτι πάντα τὰ περὶ ἀτυφίας λεχθέντα σχεδόν ἐστι περὶ ἀνδρείας,",
+          "ko_text": "앞선 책들을 읽는 일을 꺼리지 않고 힘써 읽는 사람들은, 교만을 버리는 데 관한 말이 거의 모두 용기에 관한 말임을 알아야 한다."
+        },
+        {
+          "id": "a-d948e48da0350dcf168b",
+          "source_range": [
+            210,
+            360
+          ],
+          "ko_range": [
+            115,
+            188
+          ],
+          "source_text": "ἐπειδήπερ εὐτόνου καὶ γενναίας καὶ σφόδρα νενευρωμένης ψυχῆς ἐστι καταφρονῆσαι πάντων ὅσα τῦφος εἴωθε σεμνοποιεῖν ἐπὶ διαφθορᾷ τοῦ πρὸς ἀλήθειαν βίου.",
+          "ko_text": "참된 삶을 망가뜨리면서도 허영이 늘 높여 주는 모든 것을 가볍게 여기는 일은, 힘 있고 고귀하며 아주 굳센 영혼의 일이기 때문이다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "virt:17",
+      "html_path": "works/virt/index.html#p-17",
+      "fixed_html_path": "releases/public-0.33/works/virt/index.html#p-17",
+      "alignment_revision": "sha256:e59b8ce546b005e021bcb3578be20693d8b987629d33ff7e2d79181e1514787b",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:96fea183a580688fdb11e18d6ff7abedf21e98baf4f90f3e9ff4e042582f8aa9",
+          "translation_revision": "sha256:600001d5db6380a1daee635049e887af62081e986548e163a664e63bd74be42c",
+          "alignment_revision": "sha256:e59b8ce546b005e021bcb3578be20693d8b987629d33ff7e2d79181e1514787b"
+        },
+        "scoped_ai_review": {
+          "id": "virt-addition-20261003",
+          "scope": "덕에 관하여 1-20절 전체, 21-227절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:96fea183a580688fdb11e18d6ff7abedf21e98baf4f90f3e9ff4e042582f8aa9",
+            "translation_revision": "sha256:600001d5db6380a1daee635049e887af62081e986548e163a664e63bd74be42c",
+            "alignment_revision": "sha256:e59b8ce546b005e021bcb3578be20693d8b987629d33ff7e2d79181e1514787b"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg025/tlg0018.tlg025.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "덕에 관하여",
+        "reference": "17",
+        "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 5, Reimer, 1906.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:600001d5db6380a1daee635049e887af62081e986548e163a664e63bd74be42c",
+        "fixed_path": "releases/public-0.33/works/virt/index.html#p-17"
+      }
+    },
+    {
+      "ref": "18",
+      "section": 18,
+      "original": "Τοσαύτη δέ τίς ἐστι τῷ νόμῳ σπουδὴ καὶ φιλοτιμία περὶ τοῦ γυμνάσαι καὶ συγκροτῆσαι ψυχὴν πρὸς ἀνδρείαν, ὥστε καὶ περὶ ἐσθημάτων ὁποῖα ἐχρῆν ἀμπέχεσθαι διετάξατο ἀπειπὼν ἀνὰ κράτος ἀνδρὶ γυναικὸς ἀμπεχόνην ἀναλαμβάνειν, ἕνεκα τοῦ μηδὲν ἴχνος ἢ σκιὰν αὐτὸ μόνον τοῦ θήλεος ἐπὶ λύμῃ τῆς ἄρσενος γενεᾶς προσάψασθαι· βούλεται γὰρ ἑπόμενος ἀεὶ τῇ φύσει τὰ οἰκεῖα καὶ συνῳδὰ ἀλλήλοις ἄχρι τῶν ἐσχάτων καὶ δι’ εὐτέλειαν ἀφανεστέρων εἶναι δοκούντων νομοθετεῖν.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:ca0b66cbd6f2171e771bb0cd3c56db52baf8e644caec057a4220a4efabbf5457",
+      "source_file_sha256": "e2c1001ca3bf457a27cc4caaf784c3dfd436c823a5ced847dd3633a2f389e434",
+      "source_locator": {
+        "filename": "tlg0018.tlg025.1st1K-grc1.xml",
+        "reference": "18"
+      },
+      "encoded_printed_page": "v.5.p.271",
+      "korean": "율법은 영혼을 용기에 맞게 훈련하고 준비시키는 데 이토록 열심과 관심을 기울인다. 그래서 어떤 옷을 입어야 하는지도 규정했다. 남자가 여자의 옷을 입는 일을 강하게 금했다. 남성의 부류를 해치지 않도록, 여성적인 것의 흔적이나 그림자조차 붙이지 않으려는 뜻이다. 율법은 늘 자연을 따라, 서로 어울리고 조화를 이루는 것들을 규정하려 한다. 가장 사소하여 하찮음 때문에 눈에 띄지 않는다고 여겨지는 것들까지도 그렇다.",
+      "translation_revision": "sha256:54e4c829caadf60b3ad39bea93124be6c7e319b907a178da774d236479ffd440",
+      "groups": [
+        {
+          "id": "a-2d2a8238623804e3d790",
+          "source_range": [
+            0,
+            103
+          ],
+          "ko_range": [
+            0,
+            45
+          ],
+          "source_text": "Τοσαύτη δέ τίς ἐστι τῷ νόμῳ σπουδὴ καὶ φιλοτιμία περὶ τοῦ γυμνάσαι καὶ συγκροτῆσαι ψυχὴν πρὸς ἀνδρείαν,",
+          "ko_text": "율법은 영혼을 용기에 맞게 훈련하고 준비시키는 데 이토록 열심과 관심을 기울인다."
+        },
+        {
+          "id": "a-fca5bf8bbb90abb4be43",
+          "source_range": [
+            104,
+            160
+          ],
+          "ko_range": [
+            46,
+            70
+          ],
+          "source_text": "ὥστε καὶ περὶ ἐσθημάτων ὁποῖα ἐχρῆν ἀμπέχεσθαι διετάξατο",
+          "ko_text": "그래서 어떤 옷을 입어야 하는지도 규정했다."
+        },
+        {
+          "id": "a-6b693247db38fbd6fdb0",
+          "source_range": [
+            161,
+            218
+          ],
+          "ko_range": [
+            71,
+            96
+          ],
+          "source_text": "ἀπειπὼν ἀνὰ κράτος ἀνδρὶ γυναικὸς ἀμπεχόνην ἀναλαμβάνειν,",
+          "ko_text": "남자가 여자의 옷을 입는 일을 강하게 금했다."
+        },
+        {
+          "id": "a-76c651ea954e08fb5c08",
+          "source_range": [
+            219,
+            311
+          ],
+          "ko_range": [
+            97,
+            146
+          ],
+          "source_text": "ἕνεκα τοῦ μηδὲν ἴχνος ἢ σκιὰν αὐτὸ μόνον τοῦ θήλεος ἐπὶ λύμῃ τῆς ἄρσενος γενεᾶς προσάψασθαι·",
+          "ko_text": "남성의 부류를 해치지 않도록, 여성적인 것의 흔적이나 그림자조차 붙이지 않으려는 뜻이다."
+        },
+        {
+          "id": "a-8e243bb89d069ab7c4a6",
+          "source_range": [
+            312,
+            451
+          ],
+          "ko_range": [
+            147,
+            232
+          ],
+          "source_text": "βούλεται γὰρ ἑπόμενος ἀεὶ τῇ φύσει τὰ οἰκεῖα καὶ συνῳδὰ ἀλλήλοις ἄχρι τῶν ἐσχάτων καὶ δι’ εὐτέλειαν ἀφανεστέρων εἶναι δοκούντων νομοθετεῖν.",
+          "ko_text": "율법은 늘 자연을 따라, 서로 어울리고 조화를 이루는 것들을 규정하려 한다. 가장 사소하여 하찮음 때문에 눈에 띄지 않는다고 여겨지는 것들까지도 그렇다."
+        }
+      ],
+      "notes": [
+        "18-20절은 복장 규정을 남녀의 몸과 역할, 용기의 문제에 연결하는 필론의 해석이다. 남자의 여성 복장을 금한 이유를 여성적인 흔적이 남성에게 붙는 것으로 설명한다. 이 논증은 그의 시대와 저술의 성별 이해를 담는다."
+      ],
+      "work_passage_id": "virt:18",
+      "html_path": "works/virt/index.html#p-18",
+      "fixed_html_path": "releases/public-0.33/works/virt/index.html#p-18",
+      "alignment_revision": "sha256:72e8be306078472b5727f821189d5b9c74299f4fa02e0ddb150317f168587afc",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:ca0b66cbd6f2171e771bb0cd3c56db52baf8e644caec057a4220a4efabbf5457",
+          "translation_revision": "sha256:54e4c829caadf60b3ad39bea93124be6c7e319b907a178da774d236479ffd440",
+          "alignment_revision": "sha256:72e8be306078472b5727f821189d5b9c74299f4fa02e0ddb150317f168587afc"
+        },
+        "scoped_ai_review": {
+          "id": "virt-addition-20261003",
+          "scope": "덕에 관하여 1-20절 전체, 21-227절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:ca0b66cbd6f2171e771bb0cd3c56db52baf8e644caec057a4220a4efabbf5457",
+            "translation_revision": "sha256:54e4c829caadf60b3ad39bea93124be6c7e319b907a178da774d236479ffd440",
+            "alignment_revision": "sha256:72e8be306078472b5727f821189d5b9c74299f4fa02e0ddb150317f168587afc"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg025/tlg0018.tlg025.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "덕에 관하여",
+        "reference": "18",
+        "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 5, Reimer, 1906.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:54e4c829caadf60b3ad39bea93124be6c7e319b907a178da774d236479ffd440",
+        "fixed_path": "releases/public-0.33/works/virt/index.html#p-18"
+      }
+    },
+    {
+      "ref": "19",
+      "section": 19,
+      "original": "ἐπειδὴ γὰρ τύπους σωμάτων ἑώρα καθάπερ ἐπὶ πλάτους χαραχθέντας ἀνομοίους ἀνδρός τε αὖ καὶ γυναικὸς καὶ βίον ἑκατέρῳ τῶν εἰδῶν οὐ τὸν αὐτὸν ἀπονεμηθέντα-τῷ μὲν γὰρ ὁ κατοικίδιος, τῷ δ’ ὁ πολιτικὸς προσκεκλήρωται -, κἀν τοῖς ἄλλοις ὅσα μὴ φύσεως μὲν ἔργα ἦν, φύσει δὲ ἀκόλουθα γνώμης ἀγαθῆς εὑρήματα, συμφέρον ἔκρινε διατάξασθαι· ταῦτα δ’ ἦν τὰ περὶ δίαιταν καὶ ἀμπεχόνην καὶ εἴ τι ὁμοιότροπον.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:208830ba88692487eae216b09159d3d9219c4571661b9f3e62b4be51b14837bf",
+      "source_file_sha256": "e2c1001ca3bf457a27cc4caaf784c3dfd436c823a5ced847dd3633a2f389e434",
+      "source_locator": {
+        "filename": "tlg0018.tlg025.1st1K-grc1.xml",
+        "reference": "19"
+      },
+      "encoded_printed_page": "v.5.p.271",
+      "korean": "입법자는 남자와 여자의 몸이 서로 다른 형상으로 넓게 새겨져 있음을 보았다. 각 성별에 같은 삶이 주어지지 않았다고 보았다. 한쪽에는 집 안의 삶이, 다른 쪽에는 공적인 삶이 주어졌기 때문이다. 그래서 자연이 직접 만든 것은 아니지만 자연을 따라 좋은 판단으로 찾아낸 다른 일들도 규정하는 것이 유익하다고 판단했다. 식생활과 옷차림, 그와 비슷한 일들이 그것이다.",
+      "translation_revision": "sha256:3bbdecd8b7938e2c11012729a29e590803d2a9c3c40f25d4c6628edbd9d162bb",
+      "groups": [
+        {
+          "id": "a-d1deeaf94622d68ef0a7",
+          "source_range": [
+            0,
+            98
+          ],
+          "ko_range": [
+            0,
+            42
+          ],
+          "source_text": "ἐπειδὴ γὰρ τύπους σωμάτων ἑώρα καθάπερ ἐπὶ πλάτους χαραχθέντας ἀνομοίους ἀνδρός τε αὖ καὶ γυναικὸς",
+          "ko_text": "입법자는 남자와 여자의 몸이 서로 다른 형상으로 넓게 새겨져 있음을 보았다."
+        },
+        {
+          "id": "a-3733df08437b5cb42c0d",
+          "source_range": [
+            99,
+            213
+          ],
+          "ko_range": [
+            43,
+            108
+          ],
+          "source_text": "καὶ βίον ἑκατέρῳ τῶν εἰδῶν οὐ τὸν αὐτὸν ἀπονεμηθέντα-τῷ μὲν γὰρ ὁ κατοικίδιος, τῷ δ’ ὁ πολιτικὸς προσκεκλήρωται -,",
+          "ko_text": "각 성별에 같은 삶이 주어지지 않았다고 보았다. 한쪽에는 집 안의 삶이, 다른 쪽에는 공적인 삶이 주어졌기 때문이다."
+        },
+        {
+          "id": "a-24ff9ed1f90c45422cd1",
+          "source_range": [
+            214,
+            327
+          ],
+          "ko_range": [
+            109,
+            176
+          ],
+          "source_text": "κἀν τοῖς ἄλλοις ὅσα μὴ φύσεως μὲν ἔργα ἦν, φύσει δὲ ἀκόλουθα γνώμης ἀγαθῆς εὑρήματα, συμφέρον ἔκρινε διατάξασθαι·",
+          "ko_text": "그래서 자연이 직접 만든 것은 아니지만 자연을 따라 좋은 판단으로 찾아낸 다른 일들도 규정하는 것이 유익하다고 판단했다."
+        },
+        {
+          "id": "a-041e30f0373b710c46ff",
+          "source_range": [
+            328,
+            392
+          ],
+          "ko_range": [
+            177,
+            203
+          ],
+          "source_text": "ταῦτα δ’ ἦν τὰ περὶ δίαιταν καὶ ἀμπεχόνην καὶ εἴ τι ὁμοιότροπον.",
+          "ko_text": "식생활과 옷차림, 그와 비슷한 일들이 그것이다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "virt:19",
+      "html_path": "works/virt/index.html#p-19",
+      "fixed_html_path": "releases/public-0.33/works/virt/index.html#p-19",
+      "alignment_revision": "sha256:83c1dd4994580faf575766940132f69f3d24bed0e0805583ee2f345ee383fc29",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:208830ba88692487eae216b09159d3d9219c4571661b9f3e62b4be51b14837bf",
+          "translation_revision": "sha256:3bbdecd8b7938e2c11012729a29e590803d2a9c3c40f25d4c6628edbd9d162bb",
+          "alignment_revision": "sha256:83c1dd4994580faf575766940132f69f3d24bed0e0805583ee2f345ee383fc29"
+        },
+        "scoped_ai_review": {
+          "id": "virt-addition-20261003",
+          "scope": "덕에 관하여 1-20절 전체, 21-227절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:208830ba88692487eae216b09159d3d9219c4571661b9f3e62b4be51b14837bf",
+            "translation_revision": "sha256:3bbdecd8b7938e2c11012729a29e590803d2a9c3c40f25d4c6628edbd9d162bb",
+            "alignment_revision": "sha256:83c1dd4994580faf575766940132f69f3d24bed0e0805583ee2f345ee383fc29"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg025/tlg0018.tlg025.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "덕에 관하여",
+        "reference": "19",
+        "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 5, Reimer, 1906.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:3bbdecd8b7938e2c11012729a29e590803d2a9c3c40f25d4c6628edbd9d162bb",
+        "fixed_path": "releases/public-0.33/works/virt/index.html#p-19"
+      }
+    },
+    {
+      "ref": "20",
+      "section": 20,
+      "original": "ἠρρενῶσθαι γὰρ τόν γε πρὸς ἀλήθειαν ἄνδρα κἀν τούτοις ἠξίωσε καὶ μάλιστα ἐν ἐσθήμασιν, ἃ ἐπιφερόμενος ἀεὶ μεθ’ ἡμέραν τε καὶ νύκτωρ ὀφείλει μηδὲν ἔχειν ἀνανδρίας ὑπόμνημα.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:0cdfa4738d76fcc05633588379618575ffa783e14c93ac05a593a7c5c34676cb",
+      "source_file_sha256": "e2c1001ca3bf457a27cc4caaf784c3dfd436c823a5ced847dd3633a2f389e434",
+      "source_locator": {
+        "filename": "tlg0018.tlg025.1st1K-grc1.xml",
+        "reference": "20"
+      },
+      "encoded_printed_page": "v.5.p.271",
+      "korean": "그는 참된 남자가 이런 일에서도 남성답고, 특히 옷차림에서 그러해야 한다고 요구했다. 옷은 밤낮 늘 입고 다니므로, 용기 없음의 흔적을 조금도 지녀서는 안 된다는 것이다.",
+      "translation_revision": "sha256:169a3e537def14d8d52862def2ade3a3931d53199b51ddcbddcfb545ff432370",
+      "groups": [
+        {
+          "id": "a-f40db7df8192abdea7eb",
+          "source_range": [
+            0,
+            86
+          ],
+          "ko_range": [
+            0,
+            47
+          ],
+          "source_text": "ἠρρενῶσθαι γὰρ τόν γε πρὸς ἀλήθειαν ἄνδρα κἀν τούτοις ἠξίωσε καὶ μάλιστα ἐν ἐσθήμασιν,",
+          "ko_text": "그는 참된 남자가 이런 일에서도 남성답고, 특히 옷차림에서 그러해야 한다고 요구했다."
+        },
+        {
+          "id": "a-d17b1db59c502167d5ad",
+          "source_range": [
+            87,
+            171
+          ],
+          "ko_range": [
+            48,
+            95
+          ],
+          "source_text": "ἃ ἐπιφερόμενος ἀεὶ μεθ’ ἡμέραν τε καὶ νύκτωρ ὀφείλει μηδὲν ἔχειν ἀνανδρίας ὑπόμνημα.",
+          "ko_text": "옷은 밤낮 늘 입고 다니므로, 용기 없음의 흔적을 조금도 지녀서는 안 된다는 것이다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "virt:20",
+      "html_path": "works/virt/index.html#p-20",
+      "fixed_html_path": "releases/public-0.33/works/virt/index.html#p-20",
+      "alignment_revision": "sha256:46c0b1e086a51792665dc9cb4afebbc7377823d3f369527d483f0fb7c7d8f07d",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:0cdfa4738d76fcc05633588379618575ffa783e14c93ac05a593a7c5c34676cb",
+          "translation_revision": "sha256:169a3e537def14d8d52862def2ade3a3931d53199b51ddcbddcfb545ff432370",
+          "alignment_revision": "sha256:46c0b1e086a51792665dc9cb4afebbc7377823d3f369527d483f0fb7c7d8f07d"
+        },
+        "scoped_ai_review": {
+          "id": "virt-addition-20261003",
+          "scope": "덕에 관하여 1-20절 전체, 21-227절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:0cdfa4738d76fcc05633588379618575ffa783e14c93ac05a593a7c5c34676cb",
+            "translation_revision": "sha256:169a3e537def14d8d52862def2ade3a3931d53199b51ddcbddcfb545ff432370",
+            "alignment_revision": "sha256:46c0b1e086a51792665dc9cb4afebbc7377823d3f369527d483f0fb7c7d8f07d"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg025/tlg0018.tlg025.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "덕에 관하여",
+        "reference": "20",
+        "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 5, Reimer, 1906.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:169a3e537def14d8d52862def2ade3a3931d53199b51ddcbddcfb545ff432370",
+        "fixed_path": "releases/public-0.33/works/virt/index.html#p-20"
+      }
+    }
+  ],
+  "related": [],
+  "aliases": [
+    "덕에 관하여",
+    "Virt.",
+    "De virtutibus",
+    "덕론"
+  ],
+  "translationLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "sourceCommit": "03776b39f4047c5cff06f5296fae4b2bae4b08fb",
+  "licenseEvidence": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg025/tlg0018.tlg025.1st1K-grc1.xml",
+  "readerUrl": "https://archive.org/download/philonisalexandr0406philuoft/philonisalexandr0406philuoft.pdf",
+  "openAccessFullTextUrl": "https://archive.org/download/philonisalexandr0406philuoft/philonisalexandr0406philuoft.pdf",
+  "original_title": "Περὶ ἀρετῶν",
+  "display_title": "덕에 관하여",
+  "reference_scheme": "section",
+  "coverage_label": "1-20절 수록",
+  "edition_id": "virt-first1k-03776b39",
+  "source_file_sha256": "e2c1001ca3bf457a27cc4caaf784c3dfd436c823a5ced847dd3633a2f389e434",
+  "display_author": "필론",
+  "scope": "덕에 관하여 1-20절 전체, 21-227절 미수록",
+  "coverage": "complete_scope",
+  "release_id": "public-0.33",
+  "source_language": "grc",
+  "source_kind": "edited_ancient_original",
+  "human_reviewed": false,
+  "translation_method": "고정 원어 본문에서 직접 번역",
+  "html_path": "works/virt/index.html",
+  "json_path": "data/works/virt.json",
+  "fixed_html_path": "releases/public-0.33/works/virt/index.html",
+  "source_profile": "virt-first1k-03776b39",
+  "source_decisions": [
+    {
+      "kind": "source_selection",
+      "verified": "2026-10-03",
+      "scope": "덕에 관하여 1-20절 전체, 21-227절 미수록",
+      "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg025/tlg0018.tlg025.1st1K-grc1.xml",
+      "license": "CC BY-SA 4.0",
+      "basis": "고정된 공개 원문 전사"
+    },
+    {
+      "ref": "1",
+      "kind": "note",
+      "action": "separated_from_body",
+      "text": "II p. 375 M."
+    },
+    {
+      "ref": "2",
+      "kind": "note",
+      "action": "separated_from_body",
+      "text": "1 φῶνος περὶ γ' ἀρετῶν ἅς σὺν ἄλλαις ἀνέγραψε μωυσῆς περὶ ἀνδρείας καὶ φιλανθρωπίας καὶ μετανοίας S, περὶ ἀρετῶν ἤτοι περὶ ἀνδρείας καὶ εὐσεβείας καὶ φιλανθρωπίας καὶ μετανοίας:-περὶ ἀνδρείας BEK, τοῦ αὐτοῦ φίλωνος τοῦ ἑβραίου περὶ ἀρετῶν ἤτοι περὶ ἀνδρείς καὶ εὐσεβείας καὶ φιλανθρωπίας καὶ μετανοίας: περὶ ἀνδρείας M, φίλωνος περὶ ἀρετῶν ἤτοι ἀνδρείας καὶ εὐσεβείας καὶ φιλανθρωπίας καὶ μετανοίας VO, τοῦ αὐτοῦ περὶ ἀρετῶν, ἀνδρείας καὶ εὐσεβείας καὶ μετανοίας καὶ φιλανθρωπίας F, περὶ ἀρετῶν ἤτοι περὶ ἀνδρείας καὶ εὐσεβείας HP, τοῦ αὐτοῦ φίλωνος περὶ ἀνδρίας Α, περὶ ἀνδρείας G 6 λόγος οὗτος ἀνακεφαλαίωσιν περιέχει τῶν ὄπισθεν εἰρημένων περὶ μώσεως ἤγουν βίου αὐτοῦ καὶ ἀρετῆς καὶ τῶν ἐκ θεοῦ πορισθέντων αὐτῷ χαρισμάτων mg V2OK 6.7 πρότερον εἰπὼν] προειπὼν BEK1M 7 εἰπὼν] εἶπον· S τῶν] τὸ H2 (v), τῶν eras. VK, oui. KO ἀνδρίαν AEFGO 8 ἀρειμάνειον K, ἀρειμανίαν G, ἀριμανίαν S (ἀρειμάνειον ν) ὀργὴν Β1Ε συμβόλῳ VO τὴν oni. Α ἐπιστήμη ’MAPV’ 10 ὅσους μυρίους transp. EKM 11 τῶν ἀντιπάλων katqebalon Α: ἀνελόντες τῶν ἀντιπάλων ceteri (Turn.) μέν] οὐ γάρ V2OF δὲ G, δ’ oin. SVOF 12 ἐκαρπώσαντο V2OKF τὰ om. A ευ ἐπικρινόντων coni. Mang. ἀκλεεῖς Κ 13 νίκη VOKF: νίκην ceteri (v) ; νικηταὶ coni. Mang. κομισθέντες Α"
+    },
+    {
+      "ref": "6",
+      "kind": "note",
+      "action": "separated_from_body",
+      "text": "1 δὲ Κ eras. V, om. OF 2 αὐτῶν VOF, αὐτοῖς om. A μακροῖς ΗΚ (v) 2. 3 κατεσκλετευμένων M, κατεσκλητευμένων H2, κατεσκηλιτευμένων VO 4 θαρραλεωτάτης V2OFH: θαρραλεότητος ceteri 5 μηδ’] οὐδ’ F κοινωφελεστάταις om. Α G δ’ ante εἰσηγήσεσι add. K τά τε ἴδια ἑκάστων om. Α τε] δὲ SG 7 χρησάμενοι SVOF: χρώμενοι ceteri (v) 9 ἀνδρίαν AEFGO ἀμαθία v: ἀμαθίαν codd. 10 νόσον δυσθεράπευτον Κ βιοῦντες] νοσοῦντες BEKM; συμβιοῦντες coni. Mang. 11 post παράσημον ss. παραβάλλεσθαι Κ2, add. προβάλλεσθαι V2OF ἐμφέρειν BEKM 13 οὐχ S1, corr. S2 δυσπόνητα Α τῶν] τὸν G 14 ὁμολογεῖται S καὶ πήρωσις om. OF 15 εἰδέαι S 16 ὑπόπλεω V2OKF: ora. Α, ὐπόπλεοι ceteri (v) 17 γενναιότατοι H (Turn.) 17. 18 ἀντιφιλονικοῦντες S 18 ἐπανατάσεις AH: ἐπαναστάσεις ceteri χλεὐγην S1, corr. S2 20 οὗ] οὐ AG d ante ψυχὴ add. AP2 ψυχὴ VOFH2: ψυχὴν ceteri 21 κατεπάλεσεν S (αι ss. S2), κατεπάλεσεν P 21.22 ὑπ’ ἀνανδρίας EVO: ὑπ’ ἀνδρίας Α, δι’ ἀνανδρίαν F, ἐπ’ ἀνανδρείας M, ὑπ’ ἀνανδρείας ceteri 22 δικάζουσι L (Turn.) 23 ἐστὶν S ἔχον M, ἔχων om. HP1 ἀκαθαίρετον] ἀναφαίρετον coui. Mang."
+    },
+    {
+      "ref": "9",
+      "kind": "note",
+      "action": "separated_from_body",
+      "text": "3 Μόνων Κ 4 ἀέναα] ἀένεα E, ἀένναα ceteri 5 εἰδέας S αἲ] αἱ S1EK1 φέρουσι VOFAH-: φέρουσαι ceteii 6 ἄγουσιν S 7 παρ’ οὐδὲν om. SVOFG θέμενοι] ἀποθέμενοι V-OF 7. 8 καινῶν δοξῶν E, κενοδόξων S (Maug.) 8 προσβλέποντος FH1, προβλἐποντι VO, ὡς βλέποντι AP2 9 πεπειρωμἐνω M 10 δορυφορούμενος Α οὐ ante φύσεως add. V2OK2F φύσεως om. M εὕρημα Κ: εὕρεμα G, εὕρεμα ceteri (v) ὣν] ὧν SBE, ὂν Α 13 tert. καὶ om. S 15 εὐκολίας] εὐτελείας F ὀλιγοδείας KAP: ὀλιγοδεείας ceteri ὀλιγοδείας v) 16 ἀνεπιδεής] ἀνενδεὴς ’M χρεῖος ὤν scripsi: χρέως ὢ corr. ex ὁ) ὢν S, χρήζων ceteri (v) 17 πολυδεής D (-ές DK): πολυτελὴς VOFH2, ὁ πολυτελὴς ceteri ὁ ante ἀεὶ add. BEKM ἀεὶ διψῶν] ἐπιδιψῶν S 19 ἀναρυπίζων S1 καὶ ἀναφλέγων om. AIIP (Turn.) μικρά τε αὗ KD: τε αὖ μικρὰ DR, αὖ μικρά AGHP (v), μικρά τε oni. SBEM, τε αὖ ora. VOF τείνει] τινί G, τινά DK, ἀπότεινέ V2OK2F"
+    },
+    {
+      "ref": "9",
+      "kind": "note",
+      "action": "separated_from_body",
+      "text": "16 cf. Clem. Alex. Poed. III 1 p. 250 p. ἀνενδεὴς δὲ μόνος 6 θεός. Strom. II IS p. 41 1 P. ἀνενδεὲς μὲν γὰρ τὸ θεῖον καὶ ἀπαθές. 17-19 DK fol. 82v DM fol. 39v DL fol. 67r DP fol. 24r et 87r Φίλωνος ἐκ τοῦ περὶ ἀρετῶν DR fol. 46r DV p. 378 Mei. Barocc. fol. 71r Φίλωνος 6 φαῦλος ἀιὶ πολυδεὴς - ἐπὶ πάντα μικρά τε αὖ καὶ μεγάλα τείνει."
+    },
+    {
+      "ref": "13",
+      "kind": "note",
+      "action": "separated_from_body",
+      "text": "1 ὁ ὀλιγοδεής ’P, καὶ ὀλιγοδεής ADL Georg. μεθόριον VOK2FDL Georg. 2 τὸ σῶμα BEKMDM τὸ θνητὸν V2OKF μὴ om. M πολυδεὲς D: πολυειδὲς Georg., πολυτελές codd. 3 οὕτως SG: οὕτω ceteri 4 δέ SVOFG: ἂν δ’ ceteri καλοκαγαθίας Κ 5 ἀπὸ SVOF: ἀπ’ ceteri ἀενάου BEK-: ἀεννάου ceteri (v) G πλήθεσι S: πλῆθος G, πλήθει ceteri (v) 7.8 κατὰ τῶν ἀριστίνδην ἐπιλεγομένων S: oni. ceteri (Turn.) 9 θνητῶν SK1 πληρώσει SG ἧ συζῶντες V2OF: αἷς ζῶντες ceteri (v) 10 μύριοι VOF προσαπέθανον V2OF μηδὲ Η (Turn.) 11 τῶν om. BEKMA διάνοια SV1GHP τὴν διάνοιαν V2OK2F 12 τῶν τοῦ σώματος ΒΕΚM (Mang.) ὅλῳ-παντί] παντάπασιν ἐγκρινομένη V2OF φασί] φησί G, φωτὶ Κ παντὶ] πάντων SBEKMG 13 οἱ corr. in ἡ Α καταθεᾶται (d corr. ex ῶν) Α 14 δεομένη ἡ corr. ex οἱ) A 17 πᾶσαν SVOF: ἅπασαν ceteri (v) 15 ἀστὴρ οὖσα SVOF: d; τηροῦσα ceteri αὐτὴ SVOF: αὕτως (sic) Κ, αὕτη ceteri (v)"
+    },
+    {
+      "ref": "13",
+      "kind": "note",
+      "action": "separated_from_body",
+      "text": "1-3 DR fol. 212v τοῦ αὐτοῦ ἐκ τοῦ περὶ τριῶν ἀρετῶν DM fol. 80v DL fol. 170V DP fol. 78r et 238r Φίλωνος DV p.365 Εὐαγρίου Max. Ecl. cap. 13 lo. Georgides Laur.VII 15 fol. 71 r Φίλωνος: ὁ σπουδαῖος ὀλιγοδεής-διὰ διὰ ψυχὴν ἐφιεμένην ἀθανασίας."
+    },
+    {
+      "ref": "13",
+      "kind": "note",
+      "action": "separated_from_body",
+      "text": "1.2 Clem. Alex. Slrom. II 18 p.471P. 1 P. 6 γάρ σπουδαῖος ὀλιγοδεής, ἀθανάτου καὶ θνητῆς φύσεως μεθόριος, τὸ μέν ἐνδεές διά τε τὸ σῶμα διά τε τὴν γένεσιν αὐτὴν ἔχων, ὀλίγων δὲ διὰ τὴν λογικὴν ἐγκράτἑαν δεῖσθαι δεδιδαγμένος."
+    },
+    {
+      "ref": "17",
+      "kind": "note",
+      "action": "separated_from_body",
+      "text": "1 ἐστὶν S ἐπιθυμίαν] ἐπιμυθίαν L (Turn.) 3 ἐστὶ τῆς ὑγείας trausp. Α, τῆς ὑγείας otn. M ὑγίας Ε, ὑγιείας F εὐφροσύνη Α 4 σωτηρία G 5 φορᾶς VOKFH-: φθοράς ceteri ὑποβρύχιον VOF: βρύχιον ceteri (v) 6 ἀλλὰ SAG: ἀλλ’ ceteri ψυχοῦσα B-MGH: ψύχουσα ceteri 7 ἀθανατίζουσα BEKM πάντα VOF: πᾶν SB1EGH1P, πάντων B2KMAH2 τὰ εἰρημένα V2OF: τούτων Α, τῶν εἰρημένων ceteri 7.8 ὑφυγήσεις εἰσὶν S 9 εὐπαθεῖς S δὲ SMFG: δ’ ceteri εὐπειθεστέρους M 10 τὸ σῶμα VOKHP (v), τῶν σῶμα F τῶν ἐκτὸς VOF ἓν μὲν οὑν τέλειον Α 10. 11 ἡγουμένους Β2KMV2OF (coni. Maug.): ἡγούμενοι SB1EV1H1P, ἡγούμεναι Η2 (v), ἡγούμενον G. ἡγούμεθα Α 11 τὸ . . . βιοῦν codd.: τὸν . . . βίον v τἄλλα FG ἀγωγὰ] ἀγαθὰ A 12 τοῦτο Κ (conieceram): τούτοις VOFA, τούτους ceteri (τοῦτον ν) καὶ SGH: κἂν ceteri μὴ post προτέρων transp. Α πρότερον GHP (v) 13 εἰς SA: ἐς ceteri (v) ἐπιρώμην S1, ἐπὶ ῥώμην G1 14 ἐν τόποις om. M 15 εἰρηκὼς] εἰρηνικῶς M δέ F ὅσα καιρὸς SVG: ὅσα 6 καιρὸς ἀπῄτει V-OF, ὅσα δίδωσιν 6 καιρὸς ceteri (v) δικαιῶν S δικαιῶ corr. Mang.): δίκαιον ceteri μὴ om. F 16 τιθεμένοις 16 τιθεμένων S τούτου Α; ταύτης conicio 17 δεῖ νοῆσαι v: νοῆσαι δεῖ G, ἔστι νοῆσαι Ap2, νοῆσαι (om. δεῖ) ceteri ἀνδρίας AEFG 18 ἐπειδὴ M 19 ἐπὶ διαφορᾶ AK, ἐπειδὴ ἄφθορα G"
+    },
+    {
+      "ref": "17",
+      "kind": "note",
+      "action": "separated_from_body",
+      "text": "4 Plat. Gralyl. 411e σωφροσύνη δὲ σιυτηρία οὗ νῦν δὴ ἐσκέμμεθα, φρονψσεως."
+    },
+    {
+      "ref": "14",
+      "kind": "non_greek_transcription_character",
+      "action": "removed_backslash_before_Greek_word",
+      "before": "\\κινδυνεῦον",
+      "after": "κινδυνεῦον",
+      "basis": "채택 TEI의 그리스어 단어 앞에 있는 기술 문자, 원본 XML 보존",
+      "printed_page": 270,
+      "pdf_page": 652
+    }
+  ],
+  "source_collations": [
+    {
+      "reference": "14",
+      "selection_kind": "printed_body_transcription_correction",
+      "replacements": [
+        [
+          "\\",
+          ""
+        ]
+      ],
+      "edition": "Cohn1906, vol.5,270쪽",
+      "printed_page": 270,
+      "pdf_page": 652,
+      "url": "https://archive.org/download/philonisalexandr0406philuoft/philonisalexandr0406philuoft.pdf",
+      "verified": "2026-10-03",
+      "reason": "인쇄본문의 κινδυνεῦον 앞에는 전자 TEI의 역슬래시가 없다."
+    }
+  ],
+  "validation_records": [
+    {
+      "id": "virt-addition-20261003",
+      "scope": "덕에 관하여 1-20절 전체, 21-227절 미수록",
+      "date": "2026-10-03",
+      "reviewer_type": "AI",
+      "human_reviewed": false,
+      "reading_record_count": 20,
+      "meaning_groups": 79,
+      "methods": [
+        "선정 범위의 공개 그리스어 본문을 읽고 한국어와 의미 대응을 작성했다.",
+        "인칭, 인물, 수치와 화자, 절 경계의 문장 연결을 대조했다."
+      ],
+      "sources": [
+        {
+          "work": "virt",
+          "url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg025/tlg0018.tlg025.1st1K-grc1.xml",
+          "verified": "2026-10-03",
+          "status": 200,
+          "full_text": true,
+          "bytes": 377366,
+          "sha256": "e2c1001ca3bf457a27cc4caaf784c3dfd436c823a5ced847dd3633a2f389e434",
+          "license": "CC BY-SA 4.0",
+          "license_evidence": "TEI publicationStmt availability licence",
+          "commit": "03776b39f4047c5cff06f5296fae4b2bae4b08fb",
+          "open_access_full_text_url": "https://archive.org/download/philonisalexandr0406philuoft/philonisalexandr0406philuoft.pdf",
+          "full_pdf_access_status": 206,
+          "pdf_bytes": 74783523,
+          "pdf_access_evidence": "Unauthenticated range GET0-1023; application/pdf; total74783523; prefix matches previously downloaded full PDF; University of Toronto scan",
+          "printed_source_license": "출판연도1902,1906,1915의 공개 인쇄본; 전자 전사는CC BY-SA4.0",
+          "pdf_pages_read": [
+            648,
+            652
+          ],
+          "pdf_title_pages_read": [
+            7,
+            353,
+            761
+          ],
+          "printed_volume": 5
+        }
+      ],
+      "passages": [
+        {
+          "ref": "1",
+          "targets": {
+            "source_revision": "sha256:d5a0928abecc4af1278e56e0a5da9b5340202f00090229cb7f74aa2631d97d83",
+            "translation_revision": "sha256:663e8044a2218278d78063a5a159cb03f19c27b88ba70096c104362dda773323",
+            "alignment_revision": "sha256:b4c5846f1e3f7c1c7e278bf6fa51e164a3e65d15aeed15d35f28acd4c9799158"
+          }
+        },
+        {
+          "ref": "2",
+          "targets": {
+            "source_revision": "sha256:899987bb39f3904cab66fcaf6859a65a8ed877fc85a6930f53b337db74cd9bea",
+            "translation_revision": "sha256:5c3e985a591755037ebfe239023872041a22846563aee0316bb57011fdcd29ef",
+            "alignment_revision": "sha256:b8e233316cec9044da11ac9facfc4fc74019da1c7413b69c5866a783db453daf"
+          }
+        },
+        {
+          "ref": "3",
+          "targets": {
+            "source_revision": "sha256:7e73c10d359b55bef2dd7fa23a824cb6970789737587d7c7bd7e5fd78a4f92ab",
+            "translation_revision": "sha256:80b05a49452c41eb5184797138b41bdb8c4ce9a707beee5c1ff3f503d3f88cca",
+            "alignment_revision": "sha256:b41ad8a153941326ddae159333d2f663d75b6e9d9d8a0cabd5a4139870357f08"
+          }
+        },
+        {
+          "ref": "4",
+          "targets": {
+            "source_revision": "sha256:9b99c8b5c2b37cdfb6749492ace0230977ee75f06519f49647774deac4343600",
+            "translation_revision": "sha256:6ad5d9f4d258e551109f121d18b6653905a97ce785280c1ed3aa6f95847d595c",
+            "alignment_revision": "sha256:a7ce0c736976a7140a8b00c1a52cf7e1c52db4fc977bc2c43441e707a4c689a2"
+          }
+        },
+        {
+          "ref": "5",
+          "targets": {
+            "source_revision": "sha256:db8e7771ae39cba78e3f0998a0af8564d8f695210181987ef62068371423192c",
+            "translation_revision": "sha256:cf2a2ae3099ad23bbc07d46f18360fc0e89767abe84bfc037d775552ce480e7f",
+            "alignment_revision": "sha256:7eef8c5e3a571542bc59524a098430ce6b85cdf388b0222760c342c6d1bacd90"
+          }
+        },
+        {
+          "ref": "6",
+          "targets": {
+            "source_revision": "sha256:0eb87f70b8a5a7f04220b2337a8be8b4abaa5871fc4d9cf7532f66862c00fbfe",
+            "translation_revision": "sha256:72f0858e181038deb22566ed68ba639e59e522cee8785363de97baf67b32fa81",
+            "alignment_revision": "sha256:99fdc9cac036ac70e26ab651346922ebb787ea6e173e31bfa361c23a2ea70ecc"
+          }
+        },
+        {
+          "ref": "7",
+          "targets": {
+            "source_revision": "sha256:aa05c2d434306a6a5f7450df589fbefa7e285af00403a8510db9523bd6ad81be",
+            "translation_revision": "sha256:37648dde799bf982a56ae0377160107b546c33370fe27595cc347b33dccdf5da",
+            "alignment_revision": "sha256:8eb263d0e69d9fdf0259424db80628f3ecfd5bbaf769ca264b2b507eddb1b8c6"
+          }
+        },
+        {
+          "ref": "8",
+          "targets": {
+            "source_revision": "sha256:c7128f7f41430ed4c77950eee77d42880e4acf71872fbb2b9197b73efe1eff9c",
+            "translation_revision": "sha256:804b9cdbb389a9387bb5de65a6b605846e26d8e6200e07811529eb34582b051c",
+            "alignment_revision": "sha256:70f54b65c23b883e3244586a3dcb7806a9343b261ed6e56ce06d46eeee91ea0d"
+          }
+        },
+        {
+          "ref": "9",
+          "targets": {
+            "source_revision": "sha256:d38550a09a214f01f8710db94208fcc15d431c2a3bf61197ba6c76d3b90438c3",
+            "translation_revision": "sha256:fa3c3027f38f068387082c0fe0fb98b81ca4f91f27bcbb895acfd54658f73e8c",
+            "alignment_revision": "sha256:4d00fbd1b41361ad2121fb525e22ed9006e37410ec7ef521aa7a4a8dc428f080"
+          }
+        },
+        {
+          "ref": "10",
+          "targets": {
+            "source_revision": "sha256:4c592e8a78aef1a033cc9fe58aa3e21f53647b94f5e7613236da9e9208a87192",
+            "translation_revision": "sha256:3878a348cfad815c8ffaf535816ba94366ee636259657d09e6b9e5b1736fad08",
+            "alignment_revision": "sha256:bbf95ad4813497387af2f067efbc6e6c068179d41c4dc882d20870ba57d8694e"
+          }
+        },
+        {
+          "ref": "11",
+          "targets": {
+            "source_revision": "sha256:49479c09bd4876d3d0fa83ff1e7053e30022042fd0911699172f0eb3c172a5d7",
+            "translation_revision": "sha256:8868322e6a5a6fd10e65aa56f95262db0f450ad62f8f7a0d77f5122d6dc8fc1f",
+            "alignment_revision": "sha256:82682d7f340c5eedbf60b82e5f1c1e39d0d9895dbe266f6bd72afa9b5771ffda"
+          }
+        },
+        {
+          "ref": "12",
+          "targets": {
+            "source_revision": "sha256:9ed8d6bc9cfbaf6ee36d8d4bd4b9dc68d22bbbc8e0730c6a80b3dbc4df9734ae",
+            "translation_revision": "sha256:9c364de711d90e4b2fc1056bb325fa3e0c0576c8a468a19ff4d77e9ad6042a12",
+            "alignment_revision": "sha256:c2952bf8684a3ac155bcb23b843e5ce6719bfcce09378b3a0bd93fb0010e6b62"
+          }
+        },
+        {
+          "ref": "13",
+          "targets": {
+            "source_revision": "sha256:70bc4cc51afcc02d84be04c092752e8d4f2bf110d21ef17d526aba636438aae9",
+            "translation_revision": "sha256:8beeebaba4232b6c323fb2750fca21359fa5888b174c8101d4f74f6c4e3637ef",
+            "alignment_revision": "sha256:0c145560a20b1a21fe44c8187fed13afe91c6105104cca2d3d02c86bc1b579f9"
+          }
+        },
+        {
+          "ref": "14",
+          "targets": {
+            "source_revision": "sha256:2f35afe96988824e328fe800f11f58750a96c366971a3467b442e9601078a6a6",
+            "translation_revision": "sha256:70b65c4516dd2cd2836b1f1b78d0aac6f8a0da0a61ab4c513ae70a5632817ef1",
+            "alignment_revision": "sha256:f4b94fb6168e6c17f3778e3ac10ee33ac560a0c7150e513e5e5372767f716a1a"
+          }
+        },
+        {
+          "ref": "15",
+          "targets": {
+            "source_revision": "sha256:7a8641d4c94c017bb3b8cc7fe5abf41b1df6e0c028188025ee677648853946f5",
+            "translation_revision": "sha256:8aa8247edd051aa5c5b28f30b796705a0e88887d0f0437376a077dab873938b1",
+            "alignment_revision": "sha256:3bd04205213e0f0eb63a66ef47d6f1e7163889a4e5cc98858257952ac37d14a5"
+          }
+        },
+        {
+          "ref": "16",
+          "targets": {
+            "source_revision": "sha256:4bbd4a9ed8847fcfef2370b3cdcfdab4e43c3d22cff4074147bd33c14c0ecb84",
+            "translation_revision": "sha256:9eff9292cb6c4e02c8383a324778472bea5a6c63bdeb8bb6320a12c20cb213c9",
+            "alignment_revision": "sha256:f76a7529b5759148f8c16b8ee0675f1ebbb574af5c2733db6174bb85de84bc87"
+          }
+        },
+        {
+          "ref": "17",
+          "targets": {
+            "source_revision": "sha256:96fea183a580688fdb11e18d6ff7abedf21e98baf4f90f3e9ff4e042582f8aa9",
+            "translation_revision": "sha256:600001d5db6380a1daee635049e887af62081e986548e163a664e63bd74be42c",
+            "alignment_revision": "sha256:e59b8ce546b005e021bcb3578be20693d8b987629d33ff7e2d79181e1514787b"
+          }
+        },
+        {
+          "ref": "18",
+          "targets": {
+            "source_revision": "sha256:ca0b66cbd6f2171e771bb0cd3c56db52baf8e644caec057a4220a4efabbf5457",
+            "translation_revision": "sha256:54e4c829caadf60b3ad39bea93124be6c7e319b907a178da774d236479ffd440",
+            "alignment_revision": "sha256:72e8be306078472b5727f821189d5b9c74299f4fa02e0ddb150317f168587afc"
+          }
+        },
+        {
+          "ref": "19",
+          "targets": {
+            "source_revision": "sha256:208830ba88692487eae216b09159d3d9219c4571661b9f3e62b4be51b14837bf",
+            "translation_revision": "sha256:3bbdecd8b7938e2c11012729a29e590803d2a9c3c40f25d4c6628edbd9d162bb",
+            "alignment_revision": "sha256:83c1dd4994580faf575766940132f69f3d24bed0e0805583ee2f345ee383fc29"
+          }
+        },
+        {
+          "ref": "20",
+          "targets": {
+            "source_revision": "sha256:0cdfa4738d76fcc05633588379618575ffa783e14c93ac05a593a7c5c34676cb",
+            "translation_revision": "sha256:169a3e537def14d8d52862def2ade3a3931d53199b51ddcbddcfb545ff432370",
+            "alignment_revision": "sha256:46c0b1e086a51792665dc9cb4afebbc7377823d3f369527d483f0fb7c7d8f07d"
+          }
+        }
+      ]
+    }
+  ],
+  "publication_status": "public_review_edition"
+}

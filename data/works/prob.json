@@ -1,0 +1,2621 @@
+{
+  "id": "prob",
+  "title": "선한 사람은 모두 자유롭다",
+  "author": "필론",
+  "abbreviation": "Prob.",
+  "corpus": "jewish",
+  "language": "grc",
+  "genre": "철학적 논설",
+  "period": "고대",
+  "region": "알렉산드리아",
+  "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
+  "summary": "자유와 노예 상태를 지혜와 삶의 선택에 연결하는 첫 논증을 읽습니다.",
+  "topics": [
+    "자유",
+    "노예",
+    "지혜",
+    "철학"
+  ],
+  "notes": [],
+  "sourceUrl": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg027/tlg0018.tlg027.1st1K-grc1.xml",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "sourceCredit": "전자 전사와 부호화: University of Leipzig, First1KGreek, Digital Divide Data. 원판 편집: Leopold Cohn, Siegfried Reiter.",
+  "verified": "2026-10-03",
+  "translationCredit": "Codex 작성, 원어 직접 번역 초안",
+  "reviewer": "학술 검토 전",
+  "translationLicense": "CC BY-SA 4.0",
+  "rightsNotice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요.",
+  "passages": [
+    {
+      "ref": "1",
+      "section": 1,
+      "original": "Ὁ μὲν πρότερος λόγος ἦν ἡμῖν, ὦ Θεόδοτε, περὶ τοῦ δοῦλον εἶναι πάντα φαῦλον, ὡς καὶ διὰ πολλῶν καὶ εἰκότων καὶ ἀληθῶν ἐπιστωσάμεθα· οὑτοσὶ δ’ ἐκείνου συγγενής, ὁμοπάτριος καὶ ὁμομήτριος ἀδελφὸς καὶ τρόπον τινὰ δίδυμος, καθ’ ὃν ἐπιδείξομεν, ὅτι πᾶς ὁ ἀστεῖος ἐλεύθερος.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:2944990e358fea097b92e151552f480c084a1d8b71ccf73acc6ee51a46079f46",
+      "source_file_sha256": "9a2f287c2293f22b2357f2e5df07b1b551f70aa65d53bb519fb1d7c03418a49b",
+      "source_locator": {
+        "filename": "tlg0018.tlg027.1st1K-grc1.xml",
+        "reference": "1"
+      },
+      "korean": "테오도토스여, 앞선 논의는 악한 사람은 모두 노예라는 것이었다. 우리는 여러 그럴듯하고 참된 논거로 그것을 입증했다. 지금 논의는 그 논의의 혈족이며, 같은 아버지와 어머니에게서 난 형제이고, 어떤 의미에서는 쌍둥이이다. 여기서는 훌륭한 사람은 모두 자유롭다는 것을 밝히겠다.",
+      "translation_revision": "sha256:11db625b00c116c78d0d6efed201518dd6e81d3a3f15a3f0f4a1258836a83cf4",
+      "groups": [
+        {
+          "id": "a-76a5c3664e0aba688ff7",
+          "source_range": [
+            0,
+            76
+          ],
+          "ko_range": [
+            0,
+            35
+          ],
+          "source_text": "Ὁ μὲν πρότερος λόγος ἦν ἡμῖν, ὦ Θεόδοτε, περὶ τοῦ δοῦλον εἶναι πάντα φαῦλον,",
+          "ko_text": "테오도토스여, 앞선 논의는 악한 사람은 모두 노예라는 것이었다."
+        },
+        {
+          "id": "a-a66df0a82d82228f1373",
+          "source_range": [
+            77,
+            131
+          ],
+          "ko_range": [
+            36,
+            65
+          ],
+          "source_text": "ὡς καὶ διὰ πολλῶν καὶ εἰκότων καὶ ἀληθῶν ἐπιστωσάμεθα·",
+          "ko_text": "우리는 여러 그럴듯하고 참된 논거로 그것을 입증했다."
+        },
+        {
+          "id": "a-2fc25e1cfb35dca9ddf4",
+          "source_range": [
+            132,
+            218
+          ],
+          "ko_range": [
+            66,
+            123
+          ],
+          "source_text": "οὑτοσὶ δ’ ἐκείνου συγγενής, ὁμοπάτριος καὶ ὁμομήτριος ἀδελφὸς καὶ τρόπον τινὰ δίδυμος,",
+          "ko_text": "지금 논의는 그 논의의 혈족이며, 같은 아버지와 어머니에게서 난 형제이고, 어떤 의미에서는 쌍둥이이다."
+        },
+        {
+          "id": "a-43048acf6c0b3c1781b8",
+          "source_range": [
+            219,
+            268
+          ],
+          "ko_range": [
+            124,
+            154
+          ],
+          "source_text": "καθ’ ὃν ἐπιδείξομεν, ὅτι πᾶς ὁ ἀστεῖος ἐλεύθερος.",
+          "ko_text": "여기서는 훌륭한 사람은 모두 자유롭다는 것을 밝히겠다."
+        }
+      ],
+      "notes": [
+        "필론은 테오도토스에게 말을 걸며 앞선 논의를 악한 사람은 모두 노예라는 명제로 요약한다. 지금의 명제는 선한 사람은 모두 자유롭다는 것으로, 두 논의를 형제와 쌍둥이에 비유한다."
+      ],
+      "work_passage_id": "prob:1",
+      "html_path": "works/prob/index.html#p-1",
+      "fixed_html_path": "releases/public-0.33/works/prob/index.html#p-1",
+      "alignment_revision": "sha256:2e35bf29206473812f3df460dea9b8a5375a162348e63c19a9ebc0b486f7a68f",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:2944990e358fea097b92e151552f480c084a1d8b71ccf73acc6ee51a46079f46",
+          "translation_revision": "sha256:11db625b00c116c78d0d6efed201518dd6e81d3a3f15a3f0f4a1258836a83cf4",
+          "alignment_revision": "sha256:2e35bf29206473812f3df460dea9b8a5375a162348e63c19a9ebc0b486f7a68f"
+        },
+        "scoped_ai_review": {
+          "id": "prob-addition-20261003",
+          "scope": "선한 사람은 모두 자유롭다 1-20절 전체, 21-160절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:2944990e358fea097b92e151552f480c084a1d8b71ccf73acc6ee51a46079f46",
+            "translation_revision": "sha256:11db625b00c116c78d0d6efed201518dd6e81d3a3f15a3f0f4a1258836a83cf4",
+            "alignment_revision": "sha256:2e35bf29206473812f3df460dea9b8a5375a162348e63c19a9ebc0b486f7a68f"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg027/tlg0018.tlg027.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "선한 사람은 모두 자유롭다",
+        "reference": "1",
+        "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:11db625b00c116c78d0d6efed201518dd6e81d3a3f15a3f0f4a1258836a83cf4",
+        "fixed_path": "releases/public-0.33/works/prob/index.html#p-1"
+      }
+    },
+    {
+      "ref": "2",
+      "section": 2,
+      "original": "τὸν μὲν οὖν τῶν Πυθαγορείων ἱερώτατον θίασον λόγος ἔχει μετὰ πολλῶν καὶ ἄλλων καλῶν καὶ τοῦτ’ ἀναδιδάσκειν, \"ταῖς λεωφόροις μὴ βαδίζειν ὁδοῖς“, οὐχ ἵνα κρημνοβατῶμεν - οὐ γὰρ ποσὶ κάματον παρήγγελλεν -, ἀλλ’ αἰνιττόμενος διὰ συμβόλου τὸ μήτε λόγοις μήτ’ ἔργοις δημώδεσι καὶ πεπατημένοις χρῆσθαι.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:719891a2eea87a4ef12730d49d01ce8584d6380f6ce03455f06ff729155357ec",
+      "source_file_sha256": "9a2f287c2293f22b2357f2e5df07b1b551f70aa65d53bb519fb1d7c03418a49b",
+      "source_locator": {
+        "filename": "tlg0018.tlg027.1st1K-grc1.xml",
+        "reference": "2"
+      },
+      "korean": "피타고라스 학파의 가장 거룩한 모임은 다른 많은 훌륭한 가르침과 함께 이것도 가르쳤다고 한다. “큰길로 다니지 말라.” 절벽으로 다니라는 뜻은 아니다. 발에 고생을 명한 것이 아니기 때문이다. 이 말은 상징을 통해, 말이나 행동에서 대중이 흔히 쓰고 밟아 놓은 길을 따르지 말라는 뜻을 암시한다.",
+      "translation_revision": "sha256:ed7c0dcdd8be7a8e36ede1fc457458febdceee3455415e20cd89369c7631b7d5",
+      "groups": [
+        {
+          "id": "a-aad52ccf3f6fe4c7e9a0",
+          "source_range": [
+            0,
+            107
+          ],
+          "ko_range": [
+            0,
+            52
+          ],
+          "source_text": "τὸν μὲν οὖν τῶν Πυθαγορείων ἱερώτατον θίασον λόγος ἔχει μετὰ πολλῶν καὶ ἄλλων καλῶν καὶ τοῦτ’ ἀναδιδάσκειν,",
+          "ko_text": "피타고라스 학파의 가장 거룩한 모임은 다른 많은 훌륭한 가르침과 함께 이것도 가르쳤다고 한다."
+        },
+        {
+          "id": "a-22f0815da8a815ce4b78",
+          "source_range": [
+            108,
+            143
+          ],
+          "ko_range": [
+            53,
+            66
+          ],
+          "source_text": "\"ταῖς λεωφόροις μὴ βαδίζειν ὁδοῖς“,",
+          "ko_text": "“큰길로 다니지 말라.”"
+        },
+        {
+          "id": "a-a6aa5e94b1d0db32b8ae",
+          "source_range": [
+            144,
+            202
+          ],
+          "ko_range": [
+            67,
+            107
+          ],
+          "source_text": "οὐχ ἵνα κρημνοβατῶμεν - οὐ γὰρ ποσὶ κάματον παρήγγελλεν -,",
+          "ko_text": "절벽으로 다니라는 뜻은 아니다. 발에 고생을 명한 것이 아니기 때문이다."
+        },
+        {
+          "id": "a-8a424b29501ee5f65287",
+          "source_range": [
+            203,
+            295
+          ],
+          "ko_range": [
+            108,
+            165
+          ],
+          "source_text": "ἀλλ’ αἰνιττόμενος διὰ συμβόλου τὸ μήτε λόγοις μήτ’ ἔργοις δημώδεσι καὶ πεπατημένοις χρῆσθαι.",
+          "ko_text": "이 말은 상징을 통해, 말이나 행동에서 대중이 흔히 쓰고 밟아 놓은 길을 따르지 말라는 뜻을 암시한다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "prob:2",
+      "html_path": "works/prob/index.html#p-2",
+      "fixed_html_path": "releases/public-0.33/works/prob/index.html#p-2",
+      "alignment_revision": "sha256:8c51165722af07b40e418f8e622ab6765777bb7924cfcedd15e18553f08004c9",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:719891a2eea87a4ef12730d49d01ce8584d6380f6ce03455f06ff729155357ec",
+          "translation_revision": "sha256:ed7c0dcdd8be7a8e36ede1fc457458febdceee3455415e20cd89369c7631b7d5",
+          "alignment_revision": "sha256:8c51165722af07b40e418f8e622ab6765777bb7924cfcedd15e18553f08004c9"
+        },
+        "scoped_ai_review": {
+          "id": "prob-addition-20261003",
+          "scope": "선한 사람은 모두 자유롭다 1-20절 전체, 21-160절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:719891a2eea87a4ef12730d49d01ce8584d6380f6ce03455f06ff729155357ec",
+            "translation_revision": "sha256:ed7c0dcdd8be7a8e36ede1fc457458febdceee3455415e20cd89369c7631b7d5",
+            "alignment_revision": "sha256:8c51165722af07b40e418f8e622ab6765777bb7924cfcedd15e18553f08004c9"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg027/tlg0018.tlg027.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "선한 사람은 모두 자유롭다",
+        "reference": "2",
+        "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:ed7c0dcdd8be7a8e36ede1fc457458febdceee3455415e20cd89369c7631b7d5",
+        "fixed_path": "releases/public-0.33/works/prob/index.html#p-2"
+      }
+    },
+    {
+      "ref": "3",
+      "section": 3,
+      "original": "ὅσοι δὲ φιλοσοφίαν γνησίως ἠσπάσαντο, καταπειθεῖς γενόμενοι τῷ προστάγματι νόμον αὐτὸ μᾶλλον δὲ θεσμὸν ἰσούμενον χρησμῷ ὑπετόπησαν, δόξας δ’ ἀγελαίους ὑπερκύψαντες ἀτραπὸν ἄλλην ἐκαινοτόμησαν ἄβατον ἰδιώταις λόγων καὶ δογμάτων, ἰδέας ἀνατείλαντες ὧν οὐδενὶ μὴ καθαρῷ θέμις ψαύειν.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:598ac7131673a8f86f719eda6593e96e2cc750e1c06536dd1db96ab4d7afaaaf",
+      "source_file_sha256": "9a2f287c2293f22b2357f2e5df07b1b551f70aa65d53bb519fb1d7c03418a49b",
+      "source_locator": {
+        "filename": "tlg0018.tlg027.1st1K-grc1.xml",
+        "reference": "3"
+      },
+      "encoded_printed_page": "v.6.p.2",
+      "korean": "참으로 철학을 받아들인 사람들은 그 명령에 순종하여 그것을 법으로, 더 정확히는 신탁과 같은 규정으로 여겼다. 그들은 무리의 의견을 넘어, 평범한 사람은 밟을 수 없는 논의와 가르침의 새로운 길을 냈다. 정결하지 않은 사람은 손댈 수 없는 관념들을 드러냈다.",
+      "translation_revision": "sha256:4f19d311eb4b6ca44936d8c1b80fa35d699002fe56057aaefe8e920927d46d00",
+      "groups": [
+        {
+          "id": "a-6c0aa3543fe7697a068f",
+          "source_range": [
+            0,
+            131
+          ],
+          "ko_range": [
+            0,
+            61
+          ],
+          "source_text": "ὅσοι δὲ φιλοσοφίαν γνησίως ἠσπάσαντο, καταπειθεῖς γενόμενοι τῷ προστάγματι νόμον αὐτὸ μᾶλλον δὲ θεσμὸν ἰσούμενον χρησμῷ ὑπετόπησαν,",
+          "ko_text": "참으로 철학을 받아들인 사람들은 그 명령에 순종하여 그것을 법으로, 더 정확히는 신탁과 같은 규정으로 여겼다."
+        },
+        {
+          "id": "a-0407929ef1ff4e302e43",
+          "source_range": [
+            132,
+            227
+          ],
+          "ko_range": [
+            62,
+            113
+          ],
+          "source_text": "δόξας δ’ ἀγελαίους ὑπερκύψαντες ἀτραπὸν ἄλλην ἐκαινοτόμησαν ἄβατον ἰδιώταις λόγων καὶ δογμάτων,",
+          "ko_text": "그들은 무리의 의견을 넘어, 평범한 사람은 밟을 수 없는 논의와 가르침의 새로운 길을 냈다."
+        },
+        {
+          "id": "a-4de86b17d25042533b2a",
+          "source_range": [
+            228,
+            280
+          ],
+          "ko_range": [
+            114,
+            144
+          ],
+          "source_text": "ἰδέας ἀνατείλαντες ὧν οὐδενὶ μὴ καθαρῷ θέμις ψαύειν.",
+          "ko_text": "정결하지 않은 사람은 손댈 수 없는 관념들을 드러냈다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "prob:3",
+      "html_path": "works/prob/index.html#p-3",
+      "fixed_html_path": "releases/public-0.33/works/prob/index.html#p-3",
+      "alignment_revision": "sha256:850a7dac3a0b228fc50b00d07396a3505808eceaf17d58ee20b93e9047618428",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:598ac7131673a8f86f719eda6593e96e2cc750e1c06536dd1db96ab4d7afaaaf",
+          "translation_revision": "sha256:4f19d311eb4b6ca44936d8c1b80fa35d699002fe56057aaefe8e920927d46d00",
+          "alignment_revision": "sha256:850a7dac3a0b228fc50b00d07396a3505808eceaf17d58ee20b93e9047618428"
+        },
+        "scoped_ai_review": {
+          "id": "prob-addition-20261003",
+          "scope": "선한 사람은 모두 자유롭다 1-20절 전체, 21-160절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:598ac7131673a8f86f719eda6593e96e2cc750e1c06536dd1db96ab4d7afaaaf",
+            "translation_revision": "sha256:4f19d311eb4b6ca44936d8c1b80fa35d699002fe56057aaefe8e920927d46d00",
+            "alignment_revision": "sha256:850a7dac3a0b228fc50b00d07396a3505808eceaf17d58ee20b93e9047618428"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg027/tlg0018.tlg027.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "선한 사람은 모두 자유롭다",
+        "reference": "3",
+        "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:4f19d311eb4b6ca44936d8c1b80fa35d699002fe56057aaefe8e920927d46d00",
+        "fixed_path": "releases/public-0.33/works/prob/index.html#p-3"
+      }
+    },
+    {
+      "ref": "4",
+      "section": 4,
+      "original": "λέγω δὲ μὴ καθαρούς, ὅσοι ἢ παιδείας εἰς ἅπαν ἄγευστοι διετέλεσαν ἢ πλαγίως ἀλλὰ μὴ ἐπ’ εὐθείας αὐτὴν ἐδέξαντο κάλλος τὸ σοφίας εἰς τὸ σοφιστείας αἶσχος μεταχαράξαντες.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:182f9107d86b691b612c5942016424cd114b87a91744b6a9ac2268a0427ad3a9",
+      "source_file_sha256": "9a2f287c2293f22b2357f2e5df07b1b551f70aa65d53bb519fb1d7c03418a49b",
+      "source_locator": {
+        "filename": "tlg0018.tlg027.1st1K-grc1.xml",
+        "reference": "4"
+      },
+      "encoded_printed_page": "v.6.p.2",
+      "korean": "내가 정결하지 않다고 부르는 이들은 배움을 전혀 맛보지 못한 사람들이거나, 배움을 곧게 받아들이지 않고 비스듬히 받아들여, 지혜의 아름다움을 궤변의 추함으로 바꾼 사람들이다.",
+      "translation_revision": "sha256:ca57f7ae3aaa2d4b278931d5557bb7959c4df7792a20dc754720e606109371ee",
+      "groups": [
+        {
+          "id": "a-1cae91d0a0b54aed44c2",
+          "source_range": [
+            0,
+            65
+          ],
+          "ko_range": [
+            0,
+            41
+          ],
+          "source_text": "λέγω δὲ μὴ καθαρούς, ὅσοι ἢ παιδείας εἰς ἅπαν ἄγευστοι διετέλεσαν",
+          "ko_text": "내가 정결하지 않다고 부르는 이들은 배움을 전혀 맛보지 못한 사람들이거나,"
+        },
+        {
+          "id": "a-3eb59d90fd08c97c356d",
+          "source_range": [
+            66,
+            168
+          ],
+          "ko_range": [
+            42,
+            97
+          ],
+          "source_text": "ἢ πλαγίως ἀλλὰ μὴ ἐπ’ εὐθείας αὐτὴν ἐδέξαντο κάλλος τὸ σοφίας εἰς τὸ σοφιστείας αἶσχος μεταχαράξαντες.",
+          "ko_text": "배움을 곧게 받아들이지 않고 비스듬히 받아들여, 지혜의 아름다움을 궤변의 추함으로 바꾼 사람들이다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "prob:4",
+      "html_path": "works/prob/index.html#p-4",
+      "fixed_html_path": "releases/public-0.33/works/prob/index.html#p-4",
+      "alignment_revision": "sha256:60fafd4a3d74cbef2410dfd0ac16c86216ec2268e4d84fe9bdcd48d516080437",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:182f9107d86b691b612c5942016424cd114b87a91744b6a9ac2268a0427ad3a9",
+          "translation_revision": "sha256:ca57f7ae3aaa2d4b278931d5557bb7959c4df7792a20dc754720e606109371ee",
+          "alignment_revision": "sha256:60fafd4a3d74cbef2410dfd0ac16c86216ec2268e4d84fe9bdcd48d516080437"
+        },
+        "scoped_ai_review": {
+          "id": "prob-addition-20261003",
+          "scope": "선한 사람은 모두 자유롭다 1-20절 전체, 21-160절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:182f9107d86b691b612c5942016424cd114b87a91744b6a9ac2268a0427ad3a9",
+            "translation_revision": "sha256:ca57f7ae3aaa2d4b278931d5557bb7959c4df7792a20dc754720e606109371ee",
+            "alignment_revision": "sha256:60fafd4a3d74cbef2410dfd0ac16c86216ec2268e4d84fe9bdcd48d516080437"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg027/tlg0018.tlg027.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "선한 사람은 모두 자유롭다",
+        "reference": "4",
+        "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:ca57f7ae3aaa2d4b278931d5557bb7959c4df7792a20dc754720e606109371ee",
+        "fixed_path": "releases/public-0.33/works/prob/index.html#p-4"
+      }
+    },
+    {
+      "ref": "5",
+      "section": 5,
+      "original": "οὗτοι τὸ νοητὸν φῶς ἰδεῖν οὐ δυνάμενοι δι’ ἀσθένειαν τοῦ κατὰ ψυχὴν ὄμματος, ὃ ταῖς μαρμαρυγαῖς πέφυκεν ἐπισκιάζεσθαι, καθάπερ ἐν νυκτὶ διάγοντες ἀπιστοῦσι τοῖς ἐν ἡμέρᾳ ζῶσι καὶ ὅς’ ἂν αὐγαῖς ἀκράτοις τῶν ἡλιακῶν ἀκτίνων εἰλικρινέστατα περιαθρήσαντες διηγῶνται τεράστια νομίζουσι φάσμασιν ἐοικότα, τῶν ἐν τοῖς θαύμασιν οὐ διαφέροντα.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:d923cec01892b35be74fb84a48515d5e2175b385c21a713a7fc9a4ee2eb8d129",
+      "source_file_sha256": "9a2f287c2293f22b2357f2e5df07b1b551f70aa65d53bb519fb1d7c03418a49b",
+      "source_locator": {
+        "filename": "tlg0018.tlg027.1st1K-grc1.xml",
+        "reference": "5"
+      },
+      "encoded_printed_page": "v.6.p.2",
+      "korean": "이들은 영혼의 눈이 약해서 지성의 빛을 볼 수 없다. 그 눈은 빛의 번쩍임에 가려지고 만다. 밤에 사는 사람처럼, 낮에 사는 사람들을 믿지 않는다. 낮에 사는 이들이 섞이지 않은 햇빛 속에서 사물을 가장 분명하게 두루 살펴 전하는 이야기를, 환영 같은 기괴한 일로 여긴다. 놀라운 구경거리와 다르지 않다고 생각한다.",
+      "translation_revision": "sha256:b352de0ff96d9d8ad5a41644125b731aeba16b4ffe2d1b4634b4dd26dd1b869a",
+      "groups": [
+        {
+          "id": "a-5e0293fb08c80e60cf81",
+          "source_range": [
+            0,
+            118
+          ],
+          "ko_range": [
+            0,
+            51
+          ],
+          "source_text": "οὗτοι τὸ νοητὸν φῶς ἰδεῖν οὐ δυνάμενοι δι’ ἀσθένειαν τοῦ κατὰ ψυχὴν ὄμματος, ὃ ταῖς μαρμαρυγαῖς πέφυκεν ἐπισκιάζεσθαι,",
+          "ko_text": "이들은 영혼의 눈이 약해서 지성의 빛을 볼 수 없다. 그 눈은 빛의 번쩍임에 가려지고 만다."
+        },
+        {
+          "id": "a-8e8cd477549d1973fece",
+          "source_range": [
+            119,
+            174
+          ],
+          "ko_range": [
+            52,
+            82
+          ],
+          "source_text": "καθάπερ ἐν νυκτὶ διάγοντες ἀπιστοῦσι τοῖς ἐν ἡμέρᾳ ζῶσι",
+          "ko_text": "밤에 사는 사람처럼, 낮에 사는 사람들을 믿지 않는다."
+        },
+        {
+          "id": "a-28d233d9672406a3db07",
+          "source_range": [
+            175,
+            261
+          ],
+          "ko_range": [
+            83,
+            134
+          ],
+          "source_text": "καὶ ὅς’ ἂν αὐγαῖς ἀκράτοις τῶν ἡλιακῶν ἀκτίνων εἰλικρινέστατα περιαθρήσαντες διηγῶνται",
+          "ko_text": "낮에 사는 이들이 섞이지 않은 햇빛 속에서 사물을 가장 분명하게 두루 살펴 전하는 이야기를,"
+        },
+        {
+          "id": "a-c9b6217d00c6adf3fe7e",
+          "source_range": [
+            262,
+            334
+          ],
+          "ko_range": [
+            135,
+            176
+          ],
+          "source_text": "τεράστια νομίζουσι φάσμασιν ἐοικότα, τῶν ἐν τοῖς θαύμασιν οὐ διαφέροντα.",
+          "ko_text": "환영 같은 기괴한 일로 여긴다. 놀라운 구경거리와 다르지 않다고 생각한다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "prob:5",
+      "html_path": "works/prob/index.html#p-5",
+      "fixed_html_path": "releases/public-0.33/works/prob/index.html#p-5",
+      "alignment_revision": "sha256:57fe2b9820c714924e6e079677849babef80b1ebaafd38a8be254c8017afd7f1",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:d923cec01892b35be74fb84a48515d5e2175b385c21a713a7fc9a4ee2eb8d129",
+          "translation_revision": "sha256:b352de0ff96d9d8ad5a41644125b731aeba16b4ffe2d1b4634b4dd26dd1b869a",
+          "alignment_revision": "sha256:57fe2b9820c714924e6e079677849babef80b1ebaafd38a8be254c8017afd7f1"
+        },
+        "scoped_ai_review": {
+          "id": "prob-addition-20261003",
+          "scope": "선한 사람은 모두 자유롭다 1-20절 전체, 21-160절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:d923cec01892b35be74fb84a48515d5e2175b385c21a713a7fc9a4ee2eb8d129",
+            "translation_revision": "sha256:b352de0ff96d9d8ad5a41644125b731aeba16b4ffe2d1b4634b4dd26dd1b869a",
+            "alignment_revision": "sha256:57fe2b9820c714924e6e079677849babef80b1ebaafd38a8be254c8017afd7f1"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg027/tlg0018.tlg027.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "선한 사람은 모두 자유롭다",
+        "reference": "5",
+        "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:b352de0ff96d9d8ad5a41644125b731aeba16b4ffe2d1b4634b4dd26dd1b869a",
+        "fixed_path": "releases/public-0.33/works/prob/index.html#p-5"
+      }
+    },
+    {
+      "ref": "6",
+      "section": 6,
+      "original": "πῶς γὰρ οὐκ ἐκτόπια καὶ θαύματ’ ὄντως, φυγάδας μὲν καλεῖν τοὺς μὴ μόνον ἐν μέσῃ τῇ πόλει διατρίβοντας, ἀλλὰ καὶ βουλεύοντας καὶ δικάζοντας καὶ ἐκκλησιάζοντας, ἔστι δ’ ὅτε καὶ ἀγορανομίας καὶ γυμνασιαρχίας καὶ τὰς ἄλλας λειτουργίας ὑπομένοντας,",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:b1c040c01dd16213d67e24f516c6f18b901c30a38cc660cc7095cf86566ca278",
+      "source_file_sha256": "9a2f287c2293f22b2357f2e5df07b1b551f70aa65d53bb519fb1d7c03418a49b",
+      "source_locator": {
+        "filename": "tlg0018.tlg027.1st1K-grc1.xml",
+        "reference": "6"
+      },
+      "encoded_printed_page": "v.6.p.2",
+      "korean": "다음과 같은 일이 어떻게 이상하고 참으로 놀랍지 않겠는가? 그들은 사람들을 추방된 자라고 부른다. 그런데 그 사람들은 도시 한복판에 머물 뿐 아니라, 의회에 참여하고 재판하며 민회에도 참여한다. 때로는 시장 감독이나 체육장 감독, 다른 공적 봉사도 맡는다.",
+      "translation_revision": "sha256:1b02208b773ea1a8611bd53e6200883ce3151db419863386f23e965fcc35c58c",
+      "groups": [
+        {
+          "id": "a-ca56526aac280285943a",
+          "source_range": [
+            0,
+            38
+          ],
+          "ko_range": [
+            0,
+            32
+          ],
+          "source_text": "πῶς γὰρ οὐκ ἐκτόπια καὶ θαύματ’ ὄντως,",
+          "ko_text": "다음과 같은 일이 어떻게 이상하고 참으로 놀랍지 않겠는가?"
+        },
+        {
+          "id": "a-9371bdec17052502852f",
+          "source_range": [
+            39,
+            57
+          ],
+          "ko_range": [
+            33,
+            54
+          ],
+          "source_text": "φυγάδας μὲν καλεῖν",
+          "ko_text": "그들은 사람들을 추방된 자라고 부른다."
+        },
+        {
+          "id": "a-213f78083d0256d95584",
+          "source_range": [
+            58,
+            158
+          ],
+          "ko_range": [
+            55,
+            108
+          ],
+          "source_text": "τοὺς μὴ μόνον ἐν μέσῃ τῇ πόλει διατρίβοντας, ἀλλὰ καὶ βουλεύοντας καὶ δικάζοντας καὶ ἐκκλησιάζοντας,",
+          "ko_text": "그런데 그 사람들은 도시 한복판에 머물 뿐 아니라, 의회에 참여하고 재판하며 민회에도 참여한다."
+        },
+        {
+          "id": "a-aa022496284fbf85e550",
+          "source_range": [
+            159,
+            243
+          ],
+          "ko_range": [
+            109,
+            143
+          ],
+          "source_text": "ἔστι δ’ ὅτε καὶ ἀγορανομίας καὶ γυμνασιαρχίας καὶ τὰς ἄλλας λειτουργίας ὑπομένοντας,",
+          "ko_text": "때로는 시장 감독이나 체육장 감독, 다른 공적 봉사도 맡는다."
+        }
+      ],
+      "notes": [
+        "6-10절은 철학적 명칭이 통상적인 법적 신분과 재산 상태에 어긋나 보인다는 반론을 열거한다. 도시에서 공직을 수행하는 사람을 추방자로, 실제 추방된 사람을 시민으로 부르는 역설이 먼저 나온다."
+      ],
+      "work_passage_id": "prob:6",
+      "html_path": "works/prob/index.html#p-6",
+      "fixed_html_path": "releases/public-0.33/works/prob/index.html#p-6",
+      "alignment_revision": "sha256:29921bd17f76f697ddb4d17d6dec29de24f428bfc50f62518c0717831f64e548",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:b1c040c01dd16213d67e24f516c6f18b901c30a38cc660cc7095cf86566ca278",
+          "translation_revision": "sha256:1b02208b773ea1a8611bd53e6200883ce3151db419863386f23e965fcc35c58c",
+          "alignment_revision": "sha256:29921bd17f76f697ddb4d17d6dec29de24f428bfc50f62518c0717831f64e548"
+        },
+        "scoped_ai_review": {
+          "id": "prob-addition-20261003",
+          "scope": "선한 사람은 모두 자유롭다 1-20절 전체, 21-160절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:b1c040c01dd16213d67e24f516c6f18b901c30a38cc660cc7095cf86566ca278",
+            "translation_revision": "sha256:1b02208b773ea1a8611bd53e6200883ce3151db419863386f23e965fcc35c58c",
+            "alignment_revision": "sha256:29921bd17f76f697ddb4d17d6dec29de24f428bfc50f62518c0717831f64e548"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg027/tlg0018.tlg027.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "선한 사람은 모두 자유롭다",
+        "reference": "6",
+        "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:1b02208b773ea1a8611bd53e6200883ce3151db419863386f23e965fcc35c58c",
+        "fixed_path": "releases/public-0.33/works/prob/index.html#p-6"
+      }
+    },
+    {
+      "ref": "7",
+      "section": 7,
+      "original": "πολίτας δὲ τοὺς ἢ μὴ ἐγγραφέντας τὸ παράπαν ἢ ὧν ἀτιμία καὶ φυγὴ κατέγνωσται, πέραν ὅρων ἀνθρώπους ἐληλαμένους, οὐ μόνον οὐκ ἐπιβῆναι τῆς χώρας ἀλλ’ οὐδ’ ἐξ ἀπόπτου τὸ πατρῷον ἔδαφος θεάσασθαι δυναμένους, εἰ μή τισι Ποιναῖς ἐλαύνοιντο θανατῶντες; ἔφεδροι γὰρ καταστειχόντων κολασταὶ μυρίοι, καὶ δι’ ἑαυτῶν ἠκονημένοι καὶ νόμων προστάξεσιν ὑπηρετοῦντες.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:446a05c6944d6bc22a95010986dd0d968a6d5c017cd8d4be17c77a131d3c5c25",
+      "source_file_sha256": "9a2f287c2293f22b2357f2e5df07b1b551f70aa65d53bb519fb1d7c03418a49b",
+      "source_locator": {
+        "filename": "tlg0018.tlg027.1st1K-grc1.xml",
+        "reference": "7"
+      },
+      "encoded_printed_page": "v.6.p.3",
+      "korean": "반면 전혀 시민 명부에 등록되지 않은 이들을 시민이라고 부른다. 또는 시민권 박탈과 추방을 선고받아 국경 밖으로 쫓겨난 사람들을 그렇게 부른다. 그들은 고국의 땅을 밟을 수 없고 멀리서 바라볼 수도 없다. 죽기를 자청하며 벌의 여신들에게 내몰리는 경우가 아니고서는 그렇다. 돌아오는 사람들에게는 수많은 처벌자가 기다리고 있다. 그들은 스스로도 날카롭게 벼르고 있으며 법의 명령을 따른다.",
+      "translation_revision": "sha256:b2b0af42575ee98971305187543af8d72f835ea39e43c22bd4f88aef7b0d5081",
+      "groups": [
+        {
+          "id": "a-90c887e68c0eec467702",
+          "source_range": [
+            0,
+            43
+          ],
+          "ko_range": [
+            0,
+            35
+          ],
+          "source_text": "πολίτας δὲ τοὺς ἢ μὴ ἐγγραφέντας τὸ παράπαν",
+          "ko_text": "반면 전혀 시민 명부에 등록되지 않은 이들을 시민이라고 부른다."
+        },
+        {
+          "id": "a-f5dd63c888e9d11bc296",
+          "source_range": [
+            44,
+            111
+          ],
+          "ko_range": [
+            36,
+            80
+          ],
+          "source_text": "ἢ ὧν ἀτιμία καὶ φυγὴ κατέγνωσται, πέραν ὅρων ἀνθρώπους ἐληλαμένους,",
+          "ko_text": "또는 시민권 박탈과 추방을 선고받아 국경 밖으로 쫓겨난 사람들을 그렇게 부른다."
+        },
+        {
+          "id": "a-1dd94c20df96506c1836",
+          "source_range": [
+            112,
+            204
+          ],
+          "ko_range": [
+            81,
+            114
+          ],
+          "source_text": "οὐ μόνον οὐκ ἐπιβῆναι τῆς χώρας ἀλλ’ οὐδ’ ἐξ ἀπόπτου τὸ πατρῷον ἔδαφος θεάσασθαι δυναμένους,",
+          "ko_text": "그들은 고국의 땅을 밟을 수 없고 멀리서 바라볼 수도 없다."
+        },
+        {
+          "id": "a-facfc2470570628d7678",
+          "source_range": [
+            205,
+            246
+          ],
+          "ko_range": [
+            115,
+            152
+          ],
+          "source_text": "εἰ μή τισι Ποιναῖς ἐλαύνοιντο θανατῶντες;",
+          "ko_text": "죽기를 자청하며 벌의 여신들에게 내몰리는 경우가 아니고서는 그렇다."
+        },
+        {
+          "id": "a-cc6008444fca4f9e34b4",
+          "source_range": [
+            247,
+            352
+          ],
+          "ko_range": [
+            153,
+            216
+          ],
+          "source_text": "ἔφεδροι γὰρ καταστειχόντων κολασταὶ μυρίοι, καὶ δι’ ἑαυτῶν ἠκονημένοι καὶ νόμων προστάξεσιν ὑπηρετοῦντες.",
+          "ko_text": "돌아오는 사람들에게는 수많은 처벌자가 기다리고 있다. 그들은 스스로도 날카롭게 벼르고 있으며 법의 명령을 따른다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "prob:7",
+      "html_path": "works/prob/index.html#p-7",
+      "fixed_html_path": "releases/public-0.33/works/prob/index.html#p-7",
+      "alignment_revision": "sha256:385402ac34ed48fa6c4f9ac09f397a2dd6e8fcb3c2b2544a2c431edd96b438c6",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:446a05c6944d6bc22a95010986dd0d968a6d5c017cd8d4be17c77a131d3c5c25",
+          "translation_revision": "sha256:b2b0af42575ee98971305187543af8d72f835ea39e43c22bd4f88aef7b0d5081",
+          "alignment_revision": "sha256:385402ac34ed48fa6c4f9ac09f397a2dd6e8fcb3c2b2544a2c431edd96b438c6"
+        },
+        "scoped_ai_review": {
+          "id": "prob-addition-20261003",
+          "scope": "선한 사람은 모두 자유롭다 1-20절 전체, 21-160절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:446a05c6944d6bc22a95010986dd0d968a6d5c017cd8d4be17c77a131d3c5c25",
+            "translation_revision": "sha256:b2b0af42575ee98971305187543af8d72f835ea39e43c22bd4f88aef7b0d5081",
+            "alignment_revision": "sha256:385402ac34ed48fa6c4f9ac09f397a2dd6e8fcb3c2b2544a2c431edd96b438c6"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg027/tlg0018.tlg027.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "선한 사람은 모두 자유롭다",
+        "reference": "7",
+        "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:b2b0af42575ee98971305187543af8d72f835ea39e43c22bd4f88aef7b0d5081",
+        "fixed_path": "releases/public-0.33/works/prob/index.html#p-7"
+      }
+    },
+    {
+      "ref": "8",
+      "section": 8,
+      "original": "πῶς δὲ οὐ παράλογα καὶ γέμοντα πολλῆς ἀναισχυντίας ἢ μανίας ἢ οὐκ ἔχω τί λέγω -διὰ γὰρ ὑπερβολὴν οὐδ’ οἰκείων ὀνομάτων εὐπορῆσαι ῥᾴδιον-πλουσίους μὲν ὀνομάζειν τοὺς ἀπορωτάτους καὶ τῶν ἀναγκαίων ἐνδεεῖς, λυπρῶς καὶ ἀθλίως ἀποζῶντας, μόλις τὸ ἐφήμερον ἐκπορίζοντας, ἐν εὐθηνίᾳ κοινῇ λιμὸν ἐξαίρετον ἔχοντας, ἀρετῆς αὔρᾳ, καθάπερ ἀέρι φασὶ τοὺς τέττιγας, τρεφομένους,",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:d0a35d1fb69152584373e328aa664427a190a45e42571c97773f792973b33a89",
+      "source_file_sha256": "9a2f287c2293f22b2357f2e5df07b1b551f70aa65d53bb519fb1d7c03418a49b",
+      "source_locator": {
+        "filename": "tlg0018.tlg027.1st1K-grc1.xml",
+        "reference": "8"
+      },
+      "encoded_printed_page": "v.6.p.3",
+      "korean": "또 사람들을 부자라고 부르는 것은 얼마나 터무니없고, 뻔뻔하거나 미친 일인가? 무슨 말을 해야 할지도 모르겠다. 너무 지나쳐서 알맞은 이름을 쉽게 찾을 수도 없다. 그런데 이들은 가장 가난하고 꼭 필요한 것조차 부족한 사람들이다. 괴롭고 비참하게 살며 하루 먹을 것을 간신히 마련한다. 모두가 풍성할 때 혼자만 굶주리고, 매미가 공기를 먹고 산다고 하듯 덕의 바람을 먹고 산다.",
+      "translation_revision": "sha256:cfb2c296519f453095b96b9c1ad043dbc58924393b6d6c93ec9e5a25407ff83c",
+      "groups": [
+        {
+          "id": "a-6a95a758ad21bf16e7f7",
+          "source_range": [
+            0,
+            159
+          ],
+          "ko_range": [
+            0,
+            91
+          ],
+          "source_text": "πῶς δὲ οὐ παράλογα καὶ γέμοντα πολλῆς ἀναισχυντίας ἢ μανίας ἢ οὐκ ἔχω τί λέγω -διὰ γὰρ ὑπερβολὴν οὐδ’ οἰκείων ὀνομάτων εὐπορῆσαι ῥᾴδιον-πλουσίους μὲν ὀνομάζειν",
+          "ko_text": "또 사람들을 부자라고 부르는 것은 얼마나 터무니없고, 뻔뻔하거나 미친 일인가? 무슨 말을 해야 할지도 모르겠다. 너무 지나쳐서 알맞은 이름을 쉽게 찾을 수도 없다."
+        },
+        {
+          "id": "a-25643aa946eb326a3115",
+          "source_range": [
+            160,
+            203
+          ],
+          "ko_range": [
+            92,
+            128
+          ],
+          "source_text": "τοὺς ἀπορωτάτους καὶ τῶν ἀναγκαίων ἐνδεεῖς,",
+          "ko_text": "그런데 이들은 가장 가난하고 꼭 필요한 것조차 부족한 사람들이다."
+        },
+        {
+          "id": "a-8e4b897fd56fc6f7ab94",
+          "source_range": [
+            204,
+            264
+          ],
+          "ko_range": [
+            129,
+            159
+          ],
+          "source_text": "λυπρῶς καὶ ἀθλίως ἀποζῶντας, μόλις τὸ ἐφήμερον ἐκπορίζοντας,",
+          "ko_text": "괴롭고 비참하게 살며 하루 먹을 것을 간신히 마련한다."
+        },
+        {
+          "id": "a-c547678e6febdd0e06f3",
+          "source_range": [
+            265,
+            306
+          ],
+          "ko_range": [
+            160,
+            179
+          ],
+          "source_text": "ἐν εὐθηνίᾳ κοινῇ λιμὸν ἐξαίρετον ἔχοντας,",
+          "ko_text": "모두가 풍성할 때 혼자만 굶주리고,"
+        },
+        {
+          "id": "a-f225f2fd51da5fc66579",
+          "source_range": [
+            307,
+            365
+          ],
+          "ko_range": [
+            180,
+            211
+          ],
+          "source_text": "ἀρετῆς αὔρᾳ, καθάπερ ἀέρι φασὶ τοὺς τέττιγας, τρεφομένους,",
+          "ko_text": "매미가 공기를 먹고 산다고 하듯 덕의 바람을 먹고 산다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "prob:8",
+      "html_path": "works/prob/index.html#p-8",
+      "fixed_html_path": "releases/public-0.33/works/prob/index.html#p-8",
+      "alignment_revision": "sha256:aafbe8948cd4b0b9a05b623e26bd3a4be014f86e58e3512a45b6f14bfeced52e",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:d0a35d1fb69152584373e328aa664427a190a45e42571c97773f792973b33a89",
+          "translation_revision": "sha256:cfb2c296519f453095b96b9c1ad043dbc58924393b6d6c93ec9e5a25407ff83c",
+          "alignment_revision": "sha256:aafbe8948cd4b0b9a05b623e26bd3a4be014f86e58e3512a45b6f14bfeced52e"
+        },
+        "scoped_ai_review": {
+          "id": "prob-addition-20261003",
+          "scope": "선한 사람은 모두 자유롭다 1-20절 전체, 21-160절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:d0a35d1fb69152584373e328aa664427a190a45e42571c97773f792973b33a89",
+            "translation_revision": "sha256:cfb2c296519f453095b96b9c1ad043dbc58924393b6d6c93ec9e5a25407ff83c",
+            "alignment_revision": "sha256:aafbe8948cd4b0b9a05b623e26bd3a4be014f86e58e3512a45b6f14bfeced52e"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg027/tlg0018.tlg027.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "선한 사람은 모두 자유롭다",
+        "reference": "8",
+        "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:cfb2c296519f453095b96b9c1ad043dbc58924393b6d6c93ec9e5a25407ff83c",
+        "fixed_path": "releases/public-0.33/works/prob/index.html#p-8"
+      }
+    },
+    {
+      "ref": "9",
+      "section": 9,
+      "original": "πένητας δὲ τοὺς ἀργύρῳ καὶ χρυσῷ καὶ πλήθει κτημάτων καὶ προσόδων καὶ ἄλλων ἀμυθήτων ἀγαθῶν ἀφθονίᾳ περιρρεομένους, ὧν ὁ πλοῦτος οὐ συγγενεῖς καὶ φίλους αὐτὸ μόνον ὤνησεν, ἀλλὰ καὶ τῆς οἰκίας ἔξω προελθὼν μεγάλους ὁμίλους δημοτῶν καὶ φυλετῶν, διαβὰς δ’ ἔτι μεῖζον καὶ πόλει χορηγεῖ τὰ πάντα, ὧν εἰρήνη χρεῖος ἢ πόλεμος;",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:53b361acfd006e4f9d36cbd1799fa4888915e2bafc9f5dda2e4fae51cb904e0b",
+      "source_file_sha256": "9a2f287c2293f22b2357f2e5df07b1b551f70aa65d53bb519fb1d7c03418a49b",
+      "source_locator": {
+        "filename": "tlg0018.tlg027.1st1K-grc1.xml",
+        "reference": "9"
+      },
+      "encoded_printed_page": "v.6.p.3",
+      "korean": "반면 은과 금, 수많은 소유와 수입, 그 밖에 셀 수 없는 재물이 풍성하게 넘치는 사람들을 가난하다고 부른다. 그들의 부는 친척과 친구에게만 도움이 된 것이 아니다. 집 밖으로 나가 같은 구역과 같은 부족에 속한 큰 무리의 사람들에게도 도움이 되었다. 더 멀리 나아가, 평화나 전쟁 때 도시가 필요로 하는 모든 것을 공급하기까지 한다.",
+      "translation_revision": "sha256:aa760a3bfb443c0dc4341649739035178da018c295948f29c19a0f3e0d1bdf82",
+      "groups": [
+        {
+          "id": "a-c76a878b2f8858746060",
+          "source_range": [
+            0,
+            115
+          ],
+          "ko_range": [
+            0,
+            61
+          ],
+          "source_text": "πένητας δὲ τοὺς ἀργύρῳ καὶ χρυσῷ καὶ πλήθει κτημάτων καὶ προσόδων καὶ ἄλλων ἀμυθήτων ἀγαθῶν ἀφθονίᾳ περιρρεομένους,",
+          "ko_text": "반면 은과 금, 수많은 소유와 수입, 그 밖에 셀 수 없는 재물이 풍성하게 넘치는 사람들을 가난하다고 부른다."
+        },
+        {
+          "id": "a-765237e16e07a74d17ce",
+          "source_range": [
+            116,
+            171
+          ],
+          "ko_range": [
+            62,
+            92
+          ],
+          "source_text": "ὧν ὁ πλοῦτος οὐ συγγενεῖς καὶ φίλους αὐτὸ μόνον ὤνησεν,",
+          "ko_text": "그들의 부는 친척과 친구에게만 도움이 된 것이 아니다."
+        },
+        {
+          "id": "a-d02861937a9b3cdf469d",
+          "source_range": [
+            172,
+            242
+          ],
+          "ko_range": [
+            93,
+            140
+          ],
+          "source_text": "ἀλλὰ καὶ τῆς οἰκίας ἔξω προελθὼν μεγάλους ὁμίλους δημοτῶν καὶ φυλετῶν,",
+          "ko_text": "집 밖으로 나가 같은 구역과 같은 부족에 속한 큰 무리의 사람들에게도 도움이 되었다."
+        },
+        {
+          "id": "a-28bf0c26fea86e0c2565",
+          "source_range": [
+            243,
+            319
+          ],
+          "ko_range": [
+            141,
+            187
+          ],
+          "source_text": "διαβὰς δ’ ἔτι μεῖζον καὶ πόλει χορηγεῖ τὰ πάντα, ὧν εἰρήνη χρεῖος ἢ πόλεμος;",
+          "ko_text": "더 멀리 나아가, 평화나 전쟁 때 도시가 필요로 하는 모든 것을 공급하기까지 한다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "prob:9",
+      "html_path": "works/prob/index.html#p-9",
+      "fixed_html_path": "releases/public-0.33/works/prob/index.html#p-9",
+      "alignment_revision": "sha256:9d3756fab33c68847c247ac49d53f259c844d110c3c5a2e5d4cf48ba09573aab",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:53b361acfd006e4f9d36cbd1799fa4888915e2bafc9f5dda2e4fae51cb904e0b",
+          "translation_revision": "sha256:aa760a3bfb443c0dc4341649739035178da018c295948f29c19a0f3e0d1bdf82",
+          "alignment_revision": "sha256:9d3756fab33c68847c247ac49d53f259c844d110c3c5a2e5d4cf48ba09573aab"
+        },
+        "scoped_ai_review": {
+          "id": "prob-addition-20261003",
+          "scope": "선한 사람은 모두 자유롭다 1-20절 전체, 21-160절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:53b361acfd006e4f9d36cbd1799fa4888915e2bafc9f5dda2e4fae51cb904e0b",
+            "translation_revision": "sha256:aa760a3bfb443c0dc4341649739035178da018c295948f29c19a0f3e0d1bdf82",
+            "alignment_revision": "sha256:9d3756fab33c68847c247ac49d53f259c844d110c3c5a2e5d4cf48ba09573aab"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg027/tlg0018.tlg027.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "선한 사람은 모두 자유롭다",
+        "reference": "9",
+        "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:aa760a3bfb443c0dc4341649739035178da018c295948f29c19a0f3e0d1bdf82",
+        "fixed_path": "releases/public-0.33/works/prob/index.html#p-9"
+      }
+    },
+    {
+      "ref": "10",
+      "section": 10,
+      "original": "ἀπὸ δὲ τῆς αὐτῆς ὀνειρώξεως τοῖς μὲν ἀμφιθαλέσι καὶ τῷ ὄντι εὐπατρίδαις, ὧν οὐ γονεῖς μόνον ἀλλὰ καὶ πάπποι καὶ πρόγονοι μέχρι τῶν ἀρχηγετῶν καὶ πρὸς ἀνδρῶν καὶ πρὸς γυναικῶν ἐπιφανέστατοι γεγόνασι, δουλείαν ἐτόλμησαν ἐπιφημίσαι, τοῖς δ’ ἐκ τριγονίας στιγματίαις, πεδότριψι καὶ παλαιοδούλοις, ἐλευθερίαν.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:a31c78e545fa0b91e54775e5e6a87d1578f337005b84475162d1e608127fcb38",
+      "source_file_sha256": "9a2f287c2293f22b2357f2e5df07b1b551f70aa65d53bb519fb1d7c03418a49b",
+      "source_locator": {
+        "filename": "tlg0018.tlg027.1st1K-grc1.xml",
+        "reference": "10"
+      },
+      "encoded_printed_page": "v.6.p.3",
+      "korean": "같은 몽상에 빠져 그들은 양쪽 혈통이 훌륭한, 참으로 좋은 가문의 사람들을 감히 노예라고 불렀다. 이 사람들은 부모뿐 아니라 양가 조상과 시조들까지 가장 명망 높았다. 반면 삼 대째 낙인을 찍힌 노예, 족쇄를 끌며 살아온 오래된 노예들에게는 자유롭다는 이름을 붙였다.",
+      "translation_revision": "sha256:7e3c0586a96aa8a1fc0a52df8dc49b0e88547cd8ccc0c2897839ce70fed0525e",
+      "groups": [
+        {
+          "id": "a-eb302e90686b660f758b",
+          "source_range": [
+            0,
+            72
+          ],
+          "ko_range": [
+            0,
+            41
+          ],
+          "source_text": "ἀπὸ δὲ τῆς αὐτῆς ὀνειρώξεως τοῖς μὲν ἀμφιθαλέσι καὶ τῷ ὄντι εὐπατρίδαις,",
+          "ko_text": "같은 몽상에 빠져 그들은 양쪽 혈통이 훌륭한, 참으로 좋은 가문의 사람들을"
+        },
+        {
+          "id": "a-b48f807f13545dbb1797",
+          "source_range": [
+            73,
+            229
+          ],
+          "ko_range": [
+            42,
+            93
+          ],
+          "source_text": "ὧν οὐ γονεῖς μόνον ἀλλὰ καὶ πάπποι καὶ πρόγονοι μέχρι τῶν ἀρχηγετῶν καὶ πρὸς ἀνδρῶν καὶ πρὸς γυναικῶν ἐπιφανέστατοι γεγόνασι, δουλείαν ἐτόλμησαν ἐπιφημίσαι,",
+          "ko_text": "감히 노예라고 불렀다. 이 사람들은 부모뿐 아니라 양가 조상과 시조들까지 가장 명망 높았다."
+        },
+        {
+          "id": "a-e0415d8fc6277d1f18bf",
+          "source_range": [
+            230,
+            304
+          ],
+          "ko_range": [
+            94,
+            149
+          ],
+          "source_text": "τοῖς δ’ ἐκ τριγονίας στιγματίαις, πεδότριψι καὶ παλαιοδούλοις, ἐλευθερίαν.",
+          "ko_text": "반면 삼 대째 낙인을 찍힌 노예, 족쇄를 끌며 살아온 오래된 노예들에게는 자유롭다는 이름을 붙였다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "prob:10",
+      "html_path": "works/prob/index.html#p-10",
+      "fixed_html_path": "releases/public-0.33/works/prob/index.html#p-10",
+      "alignment_revision": "sha256:a8c8b167d02fab22d363df4c9652f42b947b1fd944e89f569edc715828be3376",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:a31c78e545fa0b91e54775e5e6a87d1578f337005b84475162d1e608127fcb38",
+          "translation_revision": "sha256:7e3c0586a96aa8a1fc0a52df8dc49b0e88547cd8ccc0c2897839ce70fed0525e",
+          "alignment_revision": "sha256:a8c8b167d02fab22d363df4c9652f42b947b1fd944e89f569edc715828be3376"
+        },
+        "scoped_ai_review": {
+          "id": "prob-addition-20261003",
+          "scope": "선한 사람은 모두 자유롭다 1-20절 전체, 21-160절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:a31c78e545fa0b91e54775e5e6a87d1578f337005b84475162d1e608127fcb38",
+            "translation_revision": "sha256:7e3c0586a96aa8a1fc0a52df8dc49b0e88547cd8ccc0c2897839ce70fed0525e",
+            "alignment_revision": "sha256:a8c8b167d02fab22d363df4c9652f42b947b1fd944e89f569edc715828be3376"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg027/tlg0018.tlg027.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "선한 사람은 모두 자유롭다",
+        "reference": "10",
+        "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:7e3c0586a96aa8a1fc0a52df8dc49b0e88547cd8ccc0c2897839ce70fed0525e",
+        "fixed_path": "releases/public-0.33/works/prob/index.html#p-10"
+      }
+    },
+    {
+      "ref": "11",
+      "section": 11,
+      "original": "ἐστὶ δὲ τὰ τοιαῦτα, ὡς ἔφην, πρόφασις ἀνθρώπων, οἳ διάνοιαν μὲν ἠμαύρωνται, δοῦλοι δ’ εἰσὶ δόξης ἐπανέχοντες αἰσθήσεσιν, ὧν τὸ συνέδριον ὑπὸ τῶν κρινομένων ἀεὶ δεκαζόμενον ἀβέβαιον.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:debb6b0489eee5380a817c1547c5e41d82546245e80f7bbd74061ae3317f479d",
+      "source_file_sha256": "9a2f287c2293f22b2357f2e5df07b1b551f70aa65d53bb519fb1d7c03418a49b",
+      "source_locator": {
+        "filename": "tlg0018.tlg027.1st1K-grc1.xml",
+        "reference": "11"
+      },
+      "encoded_printed_page": "v.6.p.3",
+      "korean": "내가 말했듯 이런 반론은 정신이 어두워진 사람들의 구실이다. 그들은 의견의 노예이며 감각에 기대고 있다. 감각의 재판정은 판단받는 사물들에게 늘 뇌물을 받으므로 믿을 수 없다.",
+      "translation_revision": "sha256:2f5943ca42364b6f7f7ad398d39ba7826d1c3dbc1584729e2e122d7e84b5fd90",
+      "groups": [
+        {
+          "id": "a-31f05ababc9342617d00",
+          "source_range": [
+            0,
+            75
+          ],
+          "ko_range": [
+            0,
+            33
+          ],
+          "source_text": "ἐστὶ δὲ τὰ τοιαῦτα, ὡς ἔφην, πρόφασις ἀνθρώπων, οἳ διάνοιαν μὲν ἠμαύρωνται,",
+          "ko_text": "내가 말했듯 이런 반론은 정신이 어두워진 사람들의 구실이다."
+        },
+        {
+          "id": "a-e50e3f45d9bf4e7d47f8",
+          "source_range": [
+            76,
+            120
+          ],
+          "ko_range": [
+            34,
+            58
+          ],
+          "source_text": "δοῦλοι δ’ εἰσὶ δόξης ἐπανέχοντες αἰσθήσεσιν,",
+          "ko_text": "그들은 의견의 노예이며 감각에 기대고 있다."
+        },
+        {
+          "id": "a-5821f04af99deb659751",
+          "source_range": [
+            121,
+            181
+          ],
+          "ko_range": [
+            59,
+            98
+          ],
+          "source_text": "ὧν τὸ συνέδριον ὑπὸ τῶν κρινομένων ἀεὶ δεκαζόμενον ἀβέβαιον.",
+          "ko_text": "감각의 재판정은 판단받는 사물들에게 늘 뇌물을 받으므로 믿을 수 없다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "prob:11",
+      "html_path": "works/prob/index.html#p-11",
+      "fixed_html_path": "releases/public-0.33/works/prob/index.html#p-11",
+      "alignment_revision": "sha256:c2bafda8ee7b03eb12935ed8f40c2e901183675a03483c2fb0c03d9360c89a33",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:debb6b0489eee5380a817c1547c5e41d82546245e80f7bbd74061ae3317f479d",
+          "translation_revision": "sha256:2f5943ca42364b6f7f7ad398d39ba7826d1c3dbc1584729e2e122d7e84b5fd90",
+          "alignment_revision": "sha256:c2bafda8ee7b03eb12935ed8f40c2e901183675a03483c2fb0c03d9360c89a33"
+        },
+        "scoped_ai_review": {
+          "id": "prob-addition-20261003",
+          "scope": "선한 사람은 모두 자유롭다 1-20절 전체, 21-160절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:debb6b0489eee5380a817c1547c5e41d82546245e80f7bbd74061ae3317f479d",
+            "translation_revision": "sha256:2f5943ca42364b6f7f7ad398d39ba7826d1c3dbc1584729e2e122d7e84b5fd90",
+            "alignment_revision": "sha256:c2bafda8ee7b03eb12935ed8f40c2e901183675a03483c2fb0c03d9360c89a33"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg027/tlg0018.tlg027.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "선한 사람은 모두 자유롭다",
+        "reference": "11",
+        "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:2f5943ca42364b6f7f7ad398d39ba7826d1c3dbc1584729e2e122d7e84b5fd90",
+        "fixed_path": "releases/public-0.33/works/prob/index.html#p-11"
+      }
+    },
+    {
+      "ref": "12",
+      "section": 12,
+      "original": "χρῆν δὲ αὐτούς, εἴπερ ὅλως ἐζήλουν ἀλήθειαν, μὴ τῶν τὰ σώματα καμνόντων ἐν τῷ φρονεῖν ἐλαττοῦσθαι· ἐκεῖνοι μὲν γὰρ ἑαυτοὺς ἐπιτρέπουσιν ἰατροῖς ὑγείας ὀρεγόμενοι, κατοκνοῦσι δ’ οὗτοι νόσον ψυχῆς, ἀπαιδευσίαν, ἀπώσασθαι, γενόμενοι σοφῶν ἀνδρῶν ὁμιληταί, παρ’ ὧν οὐ μόνον ἔστιν ἀπομαθεῖν ἀμαθίαν, ἀλλὰ καὶ τὸ ἴδιον ἀνθρώπου κτῆμα προσλαβεῖν, ἐπιστήμην.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:cffc1943d551ee742ad86a2721c9500cef6c90a675ad7609bf8f17c1a1dc1a5a",
+      "source_file_sha256": "9a2f287c2293f22b2357f2e5df07b1b551f70aa65d53bb519fb1d7c03418a49b",
+      "source_locator": {
+        "filename": "tlg0018.tlg027.1st1K-grc1.xml",
+        "reference": "12"
+      },
+      "encoded_printed_page": "v.6.p.4",
+      "korean": "그들이 참으로 진실을 갈망했다면, 생각하는 일에서 몸이 아픈 사람들보다 못해서는 안 되었다. 몸이 아픈 사람들은 건강을 원하며 의사에게 자신을 맡긴다. 그런데 이 사람들은 영혼의 병인 무교육을 떨쳐 내기를 꺼린다. 지혜로운 사람들과 교유하면 될 일이다. 그들에게서 무지를 버릴 뿐 아니라 인간의 고유한 소유인 지식을 얻을 수도 있다.",
+      "translation_revision": "sha256:6c2fa7de66fc728570db0e3aa884e41d10f7fda1cfdf30f9eb9c2e068998a6b7",
+      "groups": [
+        {
+          "id": "a-e7dce43b102269035712",
+          "source_range": [
+            0,
+            98
+          ],
+          "ko_range": [
+            0,
+            51
+          ],
+          "source_text": "χρῆν δὲ αὐτούς, εἴπερ ὅλως ἐζήλουν ἀλήθειαν, μὴ τῶν τὰ σώματα καμνόντων ἐν τῷ φρονεῖν ἐλαττοῦσθαι·",
+          "ko_text": "그들이 참으로 진실을 갈망했다면, 생각하는 일에서 몸이 아픈 사람들보다 못해서는 안 되었다."
+        },
+        {
+          "id": "a-79d85dd42b8ae728d8d2",
+          "source_range": [
+            99,
+            162
+          ],
+          "ko_range": [
+            52,
+            84
+          ],
+          "source_text": "ἐκεῖνοι μὲν γὰρ ἑαυτοὺς ἐπιτρέπουσιν ἰατροῖς ὑγείας ὀρεγόμενοι,",
+          "ko_text": "몸이 아픈 사람들은 건강을 원하며 의사에게 자신을 맡긴다."
+        },
+        {
+          "id": "a-052f1e6986e17c18fcf5",
+          "source_range": [
+            163,
+            219
+          ],
+          "ko_range": [
+            85,
+            119
+          ],
+          "source_text": "κατοκνοῦσι δ’ οὗτοι νόσον ψυχῆς, ἀπαιδευσίαν, ἀπώσασθαι,",
+          "ko_text": "그런데 이 사람들은 영혼의 병인 무교육을 떨쳐 내기를 꺼린다."
+        },
+        {
+          "id": "a-d588cfdaeea1cc6cc946",
+          "source_range": [
+            220,
+            252
+          ],
+          "ko_range": [
+            120,
+            141
+          ],
+          "source_text": "γενόμενοι σοφῶν ἀνδρῶν ὁμιληταί,",
+          "ko_text": "지혜로운 사람들과 교유하면 될 일이다."
+        },
+        {
+          "id": "a-c5f6f93f23b573d9ef35",
+          "source_range": [
+            253,
+            350
+          ],
+          "ko_range": [
+            142,
+            186
+          ],
+          "source_text": "παρ’ ὧν οὐ μόνον ἔστιν ἀπομαθεῖν ἀμαθίαν, ἀλλὰ καὶ τὸ ἴδιον ἀνθρώπου κτῆμα προσλαβεῖν, ἐπιστήμην.",
+          "ko_text": "그들에게서 무지를 버릴 뿐 아니라 인간의 고유한 소유인 지식을 얻을 수도 있다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "prob:12",
+      "html_path": "works/prob/index.html#p-12",
+      "fixed_html_path": "releases/public-0.33/works/prob/index.html#p-12",
+      "alignment_revision": "sha256:45fe359b44090b00e1df3d5812149b000ac7be5dbbe41c4555b9ea0f2989b965",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:cffc1943d551ee742ad86a2721c9500cef6c90a675ad7609bf8f17c1a1dc1a5a",
+          "translation_revision": "sha256:6c2fa7de66fc728570db0e3aa884e41d10f7fda1cfdf30f9eb9c2e068998a6b7",
+          "alignment_revision": "sha256:45fe359b44090b00e1df3d5812149b000ac7be5dbbe41c4555b9ea0f2989b965"
+        },
+        "scoped_ai_review": {
+          "id": "prob-addition-20261003",
+          "scope": "선한 사람은 모두 자유롭다 1-20절 전체, 21-160절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:cffc1943d551ee742ad86a2721c9500cef6c90a675ad7609bf8f17c1a1dc1a5a",
+            "translation_revision": "sha256:6c2fa7de66fc728570db0e3aa884e41d10f7fda1cfdf30f9eb9c2e068998a6b7",
+            "alignment_revision": "sha256:45fe359b44090b00e1df3d5812149b000ac7be5dbbe41c4555b9ea0f2989b965"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg027/tlg0018.tlg027.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "선한 사람은 모두 자유롭다",
+        "reference": "12",
+        "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:6c2fa7de66fc728570db0e3aa884e41d10f7fda1cfdf30f9eb9c2e068998a6b7",
+        "fixed_path": "releases/public-0.33/works/prob/index.html#p-12"
+      }
+    },
+    {
+      "ref": "13",
+      "section": 13,
+      "original": "ἐπειδὴ δὲ κατὰ τὸν ἱερώτατον Πλάτωνα „φθόνος ἔξω θείου χοροῦ ἵσταται\", θειότατον δὲ καὶ κοινωνικώτατον σοφία, συγκλείει μὲν οὐδέποτε τὸ ἑαυτῆς φροντιστήριον, ἀναπεπταμένη δὲ ἀεὶ δέχεται τοὺς ποτίμων διψῶντας λόγων, οἷς ἀκράτου διδασκαλίας ἄφθονον ἐπαντλοῦσα νᾶμα μεθύειν τὴν νηφάλιον ἀναπείθει μέθην.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:84196d9f5b90a0dcfe3a0860d00378ff0c2dfa1148de70ad5001c01bbc16bb9c",
+      "source_file_sha256": "9a2f287c2293f22b2357f2e5df07b1b551f70aa65d53bb519fb1d7c03418a49b",
+      "source_locator": {
+        "filename": "tlg0018.tlg027.1st1K-grc1.xml",
+        "reference": "13"
+      },
+      "encoded_printed_page": "v.6.p.4",
+      "korean": "가장 거룩한 플라톤에 따르면 “시기는 신적인 무리 밖에 서 있다.” 지혜는 가장 신적이며 가장 널리 나누는 것이다. 지혜는 자기 배움의 집을 결코 닫지 않는다. 늘 열어 두고 마실 만한 말에 목마른 사람들을 받아들인다. 그들에게 섞이지 않은 가르침의 물줄기를 풍성하게 길어 주며, 맑은 정신으로 취하는 취기를 맛보게 한다.",
+      "translation_revision": "sha256:749fbc211694b62deca5c8cc6b5609ef8a1c386456913e7a30dafb21162f9352",
+      "groups": [
+        {
+          "id": "a-b282f6a661c19ff6d75f",
+          "source_range": [
+            0,
+            70
+          ],
+          "ko_range": [
+            0,
+            37
+          ],
+          "source_text": "ἐπειδὴ δὲ κατὰ τὸν ἱερώτατον Πλάτωνα „φθόνος ἔξω θείου χοροῦ ἵσταται\",",
+          "ko_text": "가장 거룩한 플라톤에 따르면 “시기는 신적인 무리 밖에 서 있다.”"
+        },
+        {
+          "id": "a-debc2622374a2a30cfb6",
+          "source_range": [
+            71,
+            109
+          ],
+          "ko_range": [
+            38,
+            64
+          ],
+          "source_text": "θειότατον δὲ καὶ κοινωνικώτατον σοφία,",
+          "ko_text": "지혜는 가장 신적이며 가장 널리 나누는 것이다."
+        },
+        {
+          "id": "a-add464ed07e6be6b6e16",
+          "source_range": [
+            110,
+            214
+          ],
+          "ko_range": [
+            65,
+            122
+          ],
+          "source_text": "συγκλείει μὲν οὐδέποτε τὸ ἑαυτῆς φροντιστήριον, ἀναπεπταμένη δὲ ἀεὶ δέχεται τοὺς ποτίμων διψῶντας λόγων,",
+          "ko_text": "지혜는 자기 배움의 집을 결코 닫지 않는다. 늘 열어 두고 마실 만한 말에 목마른 사람들을 받아들인다."
+        },
+        {
+          "id": "a-71dc7d9ea5bcb1f4a1c8",
+          "source_range": [
+            215,
+            300
+          ],
+          "ko_range": [
+            123,
+            180
+          ],
+          "source_text": "οἷς ἀκράτου διδασκαλίας ἄφθονον ἐπαντλοῦσα νᾶμα μεθύειν τὴν νηφάλιον ἀναπείθει μέθην.",
+          "ko_text": "그들에게 섞이지 않은 가르침의 물줄기를 풍성하게 길어 주며, 맑은 정신으로 취하는 취기를 맛보게 한다."
+        }
+      ],
+      "notes": [
+        "필론은 플라톤의 시기에 관한 말을 인용한 뒤 지혜의 배움터가 늘 열려 있다고 설명한다. 맑은 정신의 취기라는 표현은 가르침을 마시는 비유의 결론이다."
+      ],
+      "work_passage_id": "prob:13",
+      "html_path": "works/prob/index.html#p-13",
+      "fixed_html_path": "releases/public-0.33/works/prob/index.html#p-13",
+      "alignment_revision": "sha256:e653820897d06d2013f140d9b6193838f56073e4bef953a2ca1dd8a9ffde200e",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:84196d9f5b90a0dcfe3a0860d00378ff0c2dfa1148de70ad5001c01bbc16bb9c",
+          "translation_revision": "sha256:749fbc211694b62deca5c8cc6b5609ef8a1c386456913e7a30dafb21162f9352",
+          "alignment_revision": "sha256:e653820897d06d2013f140d9b6193838f56073e4bef953a2ca1dd8a9ffde200e"
+        },
+        "scoped_ai_review": {
+          "id": "prob-addition-20261003",
+          "scope": "선한 사람은 모두 자유롭다 1-20절 전체, 21-160절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:84196d9f5b90a0dcfe3a0860d00378ff0c2dfa1148de70ad5001c01bbc16bb9c",
+            "translation_revision": "sha256:749fbc211694b62deca5c8cc6b5609ef8a1c386456913e7a30dafb21162f9352",
+            "alignment_revision": "sha256:e653820897d06d2013f140d9b6193838f56073e4bef953a2ca1dd8a9ffde200e"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg027/tlg0018.tlg027.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "선한 사람은 모두 자유롭다",
+        "reference": "13",
+        "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:749fbc211694b62deca5c8cc6b5609ef8a1c386456913e7a30dafb21162f9352",
+        "fixed_path": "releases/public-0.33/works/prob/index.html#p-13"
+      }
+    },
+    {
+      "ref": "14",
+      "section": 14,
+      "original": "οἱ δὲ ὥσπερ ἐν ταῖς τελεταῖς ἱεροφαντηθέντες, ὅταν ὀργίων γεμισθῶσι, πολλὰ τῆς πρόσθεν ὀλιγωρίας ἑαυτοὺς κακίζουσιν, ὡς οὐ φεισάμενοι χρόνου, βίον δὲ τρίψαντες ἀβίωτον, ἐν ᾧ φρονήσεως ἐχήρευσαν.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:4de49e8c452df5da0265695e84a76a5a2c5d2b9e819b6de7d5a2898df65db5c8",
+      "source_file_sha256": "9a2f287c2293f22b2357f2e5df07b1b551f70aa65d53bb519fb1d7c03418a49b",
+      "source_locator": {
+        "filename": "tlg0018.tlg027.1st1K-grc1.xml",
+        "reference": "14"
+      },
+      "encoded_printed_page": "v.6.p.4",
+      "korean": "그들은 입문 의례에서 거룩한 것을 전수받듯, 비밀스러운 가르침으로 가득 채워지고 나면, 전에 소홀했던 자신을 심하게 책망한다. 시간을 아끼지 못하고, 분별이 없는 동안 살 만하지 않은 삶을 허비했기 때문이다.",
+      "translation_revision": "sha256:22375f47c66ff8b94fd24c99ff8201c9a05c2f6b1300a5ef7dddfc1f05a3de87",
+      "groups": [
+        {
+          "id": "a-b5ca0cb1535c4208e360",
+          "source_range": [
+            0,
+            68
+          ],
+          "ko_range": [
+            0,
+            48
+          ],
+          "source_text": "οἱ δὲ ὥσπερ ἐν ταῖς τελεταῖς ἱεροφαντηθέντες, ὅταν ὀργίων γεμισθῶσι,",
+          "ko_text": "그들은 입문 의례에서 거룩한 것을 전수받듯, 비밀스러운 가르침으로 가득 채워지고 나면,"
+        },
+        {
+          "id": "a-10d1a982ca92a6ea1237",
+          "source_range": [
+            69,
+            116
+          ],
+          "ko_range": [
+            49,
+            70
+          ],
+          "source_text": "πολλὰ τῆς πρόσθεν ὀλιγωρίας ἑαυτοὺς κακίζουσιν,",
+          "ko_text": "전에 소홀했던 자신을 심하게 책망한다."
+        },
+        {
+          "id": "a-5319b9380c4c35690b21",
+          "source_range": [
+            117,
+            194
+          ],
+          "ko_range": [
+            71,
+            116
+          ],
+          "source_text": "ὡς οὐ φεισάμενοι χρόνου, βίον δὲ τρίψαντες ἀβίωτον, ἐν ᾧ φρονήσεως ἐχήρευσαν.",
+          "ko_text": "시간을 아끼지 못하고, 분별이 없는 동안 살 만하지 않은 삶을 허비했기 때문이다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "prob:14",
+      "html_path": "works/prob/index.html#p-14",
+      "fixed_html_path": "releases/public-0.33/works/prob/index.html#p-14",
+      "alignment_revision": "sha256:80d4d638cfa3af5c593bd61b14f5783069035ac46538e2360ff7bf6955c038b2",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:4de49e8c452df5da0265695e84a76a5a2c5d2b9e819b6de7d5a2898df65db5c8",
+          "translation_revision": "sha256:22375f47c66ff8b94fd24c99ff8201c9a05c2f6b1300a5ef7dddfc1f05a3de87",
+          "alignment_revision": "sha256:80d4d638cfa3af5c593bd61b14f5783069035ac46538e2360ff7bf6955c038b2"
+        },
+        "scoped_ai_review": {
+          "id": "prob-addition-20261003",
+          "scope": "선한 사람은 모두 자유롭다 1-20절 전체, 21-160절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:4de49e8c452df5da0265695e84a76a5a2c5d2b9e819b6de7d5a2898df65db5c8",
+            "translation_revision": "sha256:22375f47c66ff8b94fd24c99ff8201c9a05c2f6b1300a5ef7dddfc1f05a3de87",
+            "alignment_revision": "sha256:80d4d638cfa3af5c593bd61b14f5783069035ac46538e2360ff7bf6955c038b2"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg027/tlg0018.tlg027.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "선한 사람은 모두 자유롭다",
+        "reference": "14",
+        "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:22375f47c66ff8b94fd24c99ff8201c9a05c2f6b1300a5ef7dddfc1f05a3de87",
+        "fixed_path": "releases/public-0.33/works/prob/index.html#p-14"
+      }
+    },
+    {
+      "ref": "15",
+      "section": 15,
+      "original": "ἄξιον οὖν νεότητα τὴν πανταχοῦ πᾶσαν τὰς ἀπαρχὰς τῆς πρώτης ἀκμῆς μηδενὶ μᾶλλον ἢ παιδείᾳ ἀναθεῖναι, ᾗ καὶ ἐνηβῆσαι καὶ ἐγγηράσαι καλόν· ὥσπερ γάρ, φασί, τὰ καινὰ τῶν ἀγγείων ἀναφέρει τὰς τῶν πρώτων εἰς αὐτὰ ἐγχυθέντων ὀσμάς, οὕτως καὶ αἱ τῶν νέων ψυχαὶ τοὺς πρώτους τῶν φαντασιῶν τύπους ἀνεξαλείπτους ἐναποματτόμεναι, τῇ φορᾷ τῶν αὖθις ἐπεισρεόντων ἥκιστα κατακλυζόμεναι, τὸ ἀρχαῖον διαφαίνουσιν εἶδος.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:14cd1b0c002fb4697029f1eebb4c4da05e433ed3f33128daf1f379d00d80eed3",
+      "source_file_sha256": "9a2f287c2293f22b2357f2e5df07b1b551f70aa65d53bb519fb1d7c03418a49b",
+      "source_locator": {
+        "filename": "tlg0018.tlg027.1st1K-grc1.xml",
+        "reference": "15"
+      },
+      "encoded_printed_page": "v.6.p.4",
+      "korean": "그러므로 어디에 있든 모든 젊은이가 첫 전성기의 맏물을 무엇보다 배움에 바치는 것이 마땅하다. 배움 안에서 젊은 시절을 보내고 늙어 가는 것은 아름답다. 새 그릇은 처음 담았던 것의 냄새를 풍긴다고들 말한다. 그처럼 젊은이의 영혼도 처음 받은 인상의 모양을 지워지지 않게 찍어 둔다. 뒤에 흘러드는 것들의 물결에 거의 휩쓸리지 않고, 처음의 모습을 드러낸다.",
+      "translation_revision": "sha256:dde97e8322bf0f2b192aa0523984f3a5913af617a25660851926177d5a90c406",
+      "groups": [
+        {
+          "id": "a-7496f65db6fc8c12389d",
+          "source_range": [
+            0,
+            100
+          ],
+          "ko_range": [
+            0,
+            52
+          ],
+          "source_text": "ἄξιον οὖν νεότητα τὴν πανταχοῦ πᾶσαν τὰς ἀπαρχὰς τῆς πρώτης ἀκμῆς μηδενὶ μᾶλλον ἢ παιδείᾳ ἀναθεῖναι,",
+          "ko_text": "그러므로 어디에 있든 모든 젊은이가 첫 전성기의 맏물을 무엇보다 배움에 바치는 것이 마땅하다."
+        },
+        {
+          "id": "a-3f40a42b813f05e07554",
+          "source_range": [
+            101,
+            136
+          ],
+          "ko_range": [
+            53,
+            85
+          ],
+          "source_text": "ᾗ καὶ ἐνηβῆσαι καὶ ἐγγηράσαι καλόν·",
+          "ko_text": "배움 안에서 젊은 시절을 보내고 늙어 가는 것은 아름답다."
+        },
+        {
+          "id": "a-047dbff7e9a02e49f113",
+          "source_range": [
+            137,
+            225
+          ],
+          "ko_range": [
+            86,
+            116
+          ],
+          "source_text": "ὥσπερ γάρ, φασί, τὰ καινὰ τῶν ἀγγείων ἀναφέρει τὰς τῶν πρώτων εἰς αὐτὰ ἐγχυθέντων ὀσμάς,",
+          "ko_text": "새 그릇은 처음 담았던 것의 냄새를 풍긴다고들 말한다."
+        },
+        {
+          "id": "a-3f5ce2dd2a2b959c8b10",
+          "source_range": [
+            226,
+            318
+          ],
+          "ko_range": [
+            117,
+            158
+          ],
+          "source_text": "οὕτως καὶ αἱ τῶν νέων ψυχαὶ τοὺς πρώτους τῶν φαντασιῶν τύπους ἀνεξαλείπτους ἐναποματτόμεναι,",
+          "ko_text": "그처럼 젊은이의 영혼도 처음 받은 인상의 모양을 지워지지 않게 찍어 둔다."
+        },
+        {
+          "id": "a-bcfe77c0f90e144ffa96",
+          "source_range": [
+            319,
+            403
+          ],
+          "ko_range": [
+            159,
+            200
+          ],
+          "source_text": "τῇ φορᾷ τῶν αὖθις ἐπεισρεόντων ἥκιστα κατακλυζόμεναι, τὸ ἀρχαῖον διαφαίνουσιν εἶδος.",
+          "ko_text": "뒤에 흘러드는 것들의 물결에 거의 휩쓸리지 않고, 처음의 모습을 드러낸다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "prob:15",
+      "html_path": "works/prob/index.html#p-15",
+      "fixed_html_path": "releases/public-0.33/works/prob/index.html#p-15",
+      "alignment_revision": "sha256:ea47132d85a656e975afa891fab1352ec67a8e1986560cdcd35c13cada081965",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:14cd1b0c002fb4697029f1eebb4c4da05e433ed3f33128daf1f379d00d80eed3",
+          "translation_revision": "sha256:dde97e8322bf0f2b192aa0523984f3a5913af617a25660851926177d5a90c406",
+          "alignment_revision": "sha256:ea47132d85a656e975afa891fab1352ec67a8e1986560cdcd35c13cada081965"
+        },
+        "scoped_ai_review": {
+          "id": "prob-addition-20261003",
+          "scope": "선한 사람은 모두 자유롭다 1-20절 전체, 21-160절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:14cd1b0c002fb4697029f1eebb4c4da05e433ed3f33128daf1f379d00d80eed3",
+            "translation_revision": "sha256:dde97e8322bf0f2b192aa0523984f3a5913af617a25660851926177d5a90c406",
+            "alignment_revision": "sha256:ea47132d85a656e975afa891fab1352ec67a8e1986560cdcd35c13cada081965"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg027/tlg0018.tlg027.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "선한 사람은 모두 자유롭다",
+        "reference": "15",
+        "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:dde97e8322bf0f2b192aa0523984f3a5913af617a25660851926177d5a90c406",
+        "fixed_path": "releases/public-0.33/works/prob/index.html#p-15"
+      }
+    },
+    {
+      "ref": "16",
+      "section": 16,
+      "original": "Ἅλις μὲν δὴ τούτων. ἀκριβωτέον δὲ τὸ ζητούμενον, ἵνα μὴ τῇ τῶν ὀνομάτων ἀσαφείᾳ παραγόμενοι πλαζώμεθα, καταλαβόντες δὲ περὶ οὗ ὁ λόγος τὰς ἀποδείξεις εὐσκόπως ἐφαρμόττωμεν.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:df50b90f5a43ea1cc97460528b0bd971f7d5414b9212f144abed9ed80fb3fdb1",
+      "source_file_sha256": "9a2f287c2293f22b2357f2e5df07b1b551f70aa65d53bb519fb1d7c03418a49b",
+      "source_locator": {
+        "filename": "tlg0018.tlg027.1st1K-grc1.xml",
+        "reference": "16"
+      },
+      "encoded_printed_page": "v.6.p.5",
+      "korean": "이에 관해서는 충분히 말했다. 이제 찾는 것을 정확히 밝혀, 이름의 불분명함에 이끌려 헤매지 않도록 해야 한다. 논의의 대상을 파악한 뒤, 그것을 향해 논증을 적절히 적용하자.",
+      "translation_revision": "sha256:03a8d9bdd3ba834bc782bea8841bea68b009f86dbeb5b82fde0f24932994f260",
+      "groups": [
+        {
+          "id": "a-2a96a2cd1a69698edde5",
+          "source_range": [
+            0,
+            19
+          ],
+          "ko_range": [
+            0,
+            16
+          ],
+          "source_text": "Ἅλις μὲν δὴ τούτων.",
+          "ko_text": "이에 관해서는 충분히 말했다."
+        },
+        {
+          "id": "a-284d634a6fef90c73e9b",
+          "source_range": [
+            20,
+            102
+          ],
+          "ko_range": [
+            17,
+            62
+          ],
+          "source_text": "ἀκριβωτέον δὲ τὸ ζητούμενον, ἵνα μὴ τῇ τῶν ὀνομάτων ἀσαφείᾳ παραγόμενοι πλαζώμεθα,",
+          "ko_text": "이제 찾는 것을 정확히 밝혀, 이름의 불분명함에 이끌려 헤매지 않도록 해야 한다."
+        },
+        {
+          "id": "a-42f90c26156778d7de08",
+          "source_range": [
+            103,
+            172
+          ],
+          "ko_range": [
+            63,
+            98
+          ],
+          "source_text": "καταλαβόντες δὲ περὶ οὗ ὁ λόγος τὰς ἀποδείξεις εὐσκόπως ἐφαρμόττωμεν.",
+          "ko_text": "논의의 대상을 파악한 뒤, 그것을 향해 논증을 적절히 적용하자."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "prob:16",
+      "html_path": "works/prob/index.html#p-16",
+      "fixed_html_path": "releases/public-0.33/works/prob/index.html#p-16",
+      "alignment_revision": "sha256:89a01f98a3cb05daed956a6fba4135761bd7d29ed20eee41e516c6cb2717f3e6",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:df50b90f5a43ea1cc97460528b0bd971f7d5414b9212f144abed9ed80fb3fdb1",
+          "translation_revision": "sha256:03a8d9bdd3ba834bc782bea8841bea68b009f86dbeb5b82fde0f24932994f260",
+          "alignment_revision": "sha256:89a01f98a3cb05daed956a6fba4135761bd7d29ed20eee41e516c6cb2717f3e6"
+        },
+        "scoped_ai_review": {
+          "id": "prob-addition-20261003",
+          "scope": "선한 사람은 모두 자유롭다 1-20절 전체, 21-160절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:df50b90f5a43ea1cc97460528b0bd971f7d5414b9212f144abed9ed80fb3fdb1",
+            "translation_revision": "sha256:03a8d9bdd3ba834bc782bea8841bea68b009f86dbeb5b82fde0f24932994f260",
+            "alignment_revision": "sha256:89a01f98a3cb05daed956a6fba4135761bd7d29ed20eee41e516c6cb2717f3e6"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg027/tlg0018.tlg027.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "선한 사람은 모두 자유롭다",
+        "reference": "16",
+        "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:03a8d9bdd3ba834bc782bea8841bea68b009f86dbeb5b82fde0f24932994f260",
+        "fixed_path": "releases/public-0.33/works/prob/index.html#p-16"
+      }
+    },
+    {
+      "ref": "17",
+      "section": 17,
+      "original": "δουλεία τοίνυν ἡ μὲν ψυχῶν, ἡ δὲ σωμάτων λέγεται· δεσπόται δὲ τῶν μὲν σωμάτων ἄνθρωποι, ψυχῶν δὲ κακίαι καὶ πάθη. κατὰ ταὐτὰ δὲ καὶ ἐλευθερία· ἡ μὲν γὰρ ἄδειαν σωμάτων ἀπ’ ἀνθρώπων δυνατωτέρων, ἡ δὲ διανοίας ἐκεχειρίαν ἀπὸ τῆς τῶν παθῶν δυναστείας ἐργάζεται.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:c9175c34d2bb07b9bee4019e7d8d39107f1b071e247f388fe7a87dda4b89a3c6",
+      "source_file_sha256": "9a2f287c2293f22b2357f2e5df07b1b551f70aa65d53bb519fb1d7c03418a49b",
+      "source_locator": {
+        "filename": "tlg0018.tlg027.1st1K-grc1.xml",
+        "reference": "17"
+      },
+      "encoded_printed_page": "v.6.p.5",
+      "korean": "노예 상태에는 영혼의 노예 상태와 몸의 노예 상태가 있다고 한다. 몸의 주인은 사람이며, 영혼의 주인은 악과 감정이다. 자유도 같은 방식으로 나뉜다. 하나는 몸을 더 강한 사람들로부터 안전하게 한다. 다른 하나는 정신을 감정의 지배에서 벗어나 쉬게 한다.",
+      "translation_revision": "sha256:baa0581b855a636662b4d7cd602d23fa012f0ab0692544b096a5390201d8a393",
+      "groups": [
+        {
+          "id": "a-b43af7cf1d1a7d0b82cc",
+          "source_range": [
+            0,
+            49
+          ],
+          "ko_range": [
+            0,
+            36
+          ],
+          "source_text": "δουλεία τοίνυν ἡ μὲν ψυχῶν, ἡ δὲ σωμάτων λέγεται·",
+          "ko_text": "노예 상태에는 영혼의 노예 상태와 몸의 노예 상태가 있다고 한다."
+        },
+        {
+          "id": "a-75de2e79c3be5de42e43",
+          "source_range": [
+            50,
+            113
+          ],
+          "ko_range": [
+            37,
+            66
+          ],
+          "source_text": "δεσπόται δὲ τῶν μὲν σωμάτων ἄνθρωποι, ψυχῶν δὲ κακίαι καὶ πάθη.",
+          "ko_text": "몸의 주인은 사람이며, 영혼의 주인은 악과 감정이다."
+        },
+        {
+          "id": "a-ff66a3e47dfdc6e49b74",
+          "source_range": [
+            114,
+            142
+          ],
+          "ko_range": [
+            67,
+            83
+          ],
+          "source_text": "κατὰ ταὐτὰ δὲ καὶ ἐλευθερία·",
+          "ko_text": "자유도 같은 방식으로 나뉜다."
+        },
+        {
+          "id": "a-f24756112e5bb3ec8b52",
+          "source_range": [
+            143,
+            193
+          ],
+          "ko_range": [
+            84,
+            111
+          ],
+          "source_text": "ἡ μὲν γὰρ ἄδειαν σωμάτων ἀπ’ ἀνθρώπων δυνατωτέρων,",
+          "ko_text": "하나는 몸을 더 강한 사람들로부터 안전하게 한다."
+        },
+        {
+          "id": "a-d3b154321e0a20e35f4e",
+          "source_range": [
+            194,
+            258
+          ],
+          "ko_range": [
+            112,
+            142
+          ],
+          "source_text": "ἡ δὲ διανοίας ἐκεχειρίαν ἀπὸ τῆς τῶν παθῶν δυναστείας ἐργάζεται.",
+          "ko_text": "다른 하나는 정신을 감정의 지배에서 벗어나 쉬게 한다."
+        }
+      ],
+      "notes": [
+        "이 절은 몸의 노예 상태와 영혼의 노예 상태를 정의한다. 몸의 주인은 사람, 영혼의 주인은 악과 감정이다. 같은 방식으로 자유의 두 뜻을 설명한다."
+      ],
+      "work_passage_id": "prob:17",
+      "html_path": "works/prob/index.html#p-17",
+      "fixed_html_path": "releases/public-0.33/works/prob/index.html#p-17",
+      "alignment_revision": "sha256:67c031dfaf4180964ec2de7f0ea8201763aa31bdb5f9d1a32d1a8bd38fbf6c51",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:c9175c34d2bb07b9bee4019e7d8d39107f1b071e247f388fe7a87dda4b89a3c6",
+          "translation_revision": "sha256:baa0581b855a636662b4d7cd602d23fa012f0ab0692544b096a5390201d8a393",
+          "alignment_revision": "sha256:67c031dfaf4180964ec2de7f0ea8201763aa31bdb5f9d1a32d1a8bd38fbf6c51"
+        },
+        "scoped_ai_review": {
+          "id": "prob-addition-20261003",
+          "scope": "선한 사람은 모두 자유롭다 1-20절 전체, 21-160절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:c9175c34d2bb07b9bee4019e7d8d39107f1b071e247f388fe7a87dda4b89a3c6",
+            "translation_revision": "sha256:baa0581b855a636662b4d7cd602d23fa012f0ab0692544b096a5390201d8a393",
+            "alignment_revision": "sha256:67c031dfaf4180964ec2de7f0ea8201763aa31bdb5f9d1a32d1a8bd38fbf6c51"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg027/tlg0018.tlg027.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "선한 사람은 모두 자유롭다",
+        "reference": "17",
+        "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:baa0581b855a636662b4d7cd602d23fa012f0ab0692544b096a5390201d8a393",
+        "fixed_path": "releases/public-0.33/works/prob/index.html#p-17"
+      }
+    },
+    {
+      "ref": "18",
+      "section": 18,
+      "original": "τὸ μὲν οὖν πρότερον οὐδὲ εἷς ζητεῖ· μυρίαι γὰρ αἱ ἀνθρώπων τύχαι, καὶ πολλοὶ πολλάκις καιροῖς ἀβουλήτοις τῶν σφόδρα ἀστείων τὴν ἐκ γένους ἀπέβαλον ἐλευθερίαν· ἀλλ’ ἔστιν ἡ σκέψις περὶ τρόπων, οὓς οὔτ’ ἐπιθυμίαι οὔτε φόβοι οὔθ’ ἡδοναὶ οὔτε λῦπαι κατέζευξαν, ὥσπερ ἐξ εἱρκτῆς προεληλυθότων καὶ δεσμῶν οἷς ἐπεσφίγγοντο διαφειμένων.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:7ae3f0d6088ddd1ff07563e032ea751b01b4d4dbd26fa793235e8c708242255c",
+      "source_file_sha256": "9a2f287c2293f22b2357f2e5df07b1b551f70aa65d53bb519fb1d7c03418a49b",
+      "source_locator": {
+        "filename": "tlg0018.tlg027.1st1K-grc1.xml",
+        "reference": "18"
+      },
+      "encoded_printed_page": "v.6.p.5",
+      "korean": "앞의 의미는 아무도 여기서 탐구하지 않는다. 인간의 운명은 가지가지다. 아주 훌륭한 사람들 가운데도 원치 않는 상황에서 태어날 때의 자유를 잃은 이들이 여러 번 있었다. 여기서 살피는 것은 성품이다. 욕망이나 두려움, 즐거움이나 슬픔에 멍에를 매이지 않은 성품이다. 마치 감옥에서 나오고, 자신을 조이던 쇠사슬을 풀어 버린 것과 같다.",
+      "translation_revision": "sha256:55cc5e26207760101e66e3bcde5ca33eb861d7f97d126a67d7f560dc7fe1aa86",
+      "groups": [
+        {
+          "id": "a-a835532fe734db45d298",
+          "source_range": [
+            0,
+            35
+          ],
+          "ko_range": [
+            0,
+            24
+          ],
+          "source_text": "τὸ μὲν οὖν πρότερον οὐδὲ εἷς ζητεῖ·",
+          "ko_text": "앞의 의미는 아무도 여기서 탐구하지 않는다."
+        },
+        {
+          "id": "a-6c81e8eb1cc4e74eb8d1",
+          "source_range": [
+            36,
+            158
+          ],
+          "ko_range": [
+            25,
+            94
+          ],
+          "source_text": "μυρίαι γὰρ αἱ ἀνθρώπων τύχαι, καὶ πολλοὶ πολλάκις καιροῖς ἀβουλήτοις τῶν σφόδρα ἀστείων τὴν ἐκ γένους ἀπέβαλον ἐλευθερίαν·",
+          "ko_text": "인간의 운명은 가지가지다. 아주 훌륭한 사람들 가운데도 원치 않는 상황에서 태어날 때의 자유를 잃은 이들이 여러 번 있었다."
+        },
+        {
+          "id": "a-4dd94676201b990cc23a",
+          "source_range": [
+            159,
+            256
+          ],
+          "ko_range": [
+            95,
+            148
+          ],
+          "source_text": "ἀλλ’ ἔστιν ἡ σκέψις περὶ τρόπων, οὓς οὔτ’ ἐπιθυμίαι οὔτε φόβοι οὔθ’ ἡδοναὶ οὔτε λῦπαι κατέζευξαν,",
+          "ko_text": "여기서 살피는 것은 성품이다. 욕망이나 두려움, 즐거움이나 슬픔에 멍에를 매이지 않은 성품이다."
+        },
+        {
+          "id": "a-b6877a5a7517953be6be",
+          "source_range": [
+            257,
+            328
+          ],
+          "ko_range": [
+            149,
+            187
+          ],
+          "source_text": "ὥσπερ ἐξ εἱρκτῆς προεληλυθότων καὶ δεσμῶν οἷς ἐπεσφίγγοντο διαφειμένων.",
+          "ko_text": "마치 감옥에서 나오고, 자신을 조이던 쇠사슬을 풀어 버린 것과 같다."
+        }
+      ],
+      "notes": [
+        "태어날 때의 자유를 잃은 훌륭한 사람도 있을 수 있다는 사실을 명시한다. 여기서 탐구하는 자유는 욕망, 두려움, 즐거움, 슬픔에 매이지 않는 성품이다."
+      ],
+      "work_passage_id": "prob:18",
+      "html_path": "works/prob/index.html#p-18",
+      "fixed_html_path": "releases/public-0.33/works/prob/index.html#p-18",
+      "alignment_revision": "sha256:db4cd41c83e098655ee4d5dd7e6fb5ca156fd3997b00c0442797dd78fb053d5a",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:7ae3f0d6088ddd1ff07563e032ea751b01b4d4dbd26fa793235e8c708242255c",
+          "translation_revision": "sha256:55cc5e26207760101e66e3bcde5ca33eb861d7f97d126a67d7f560dc7fe1aa86",
+          "alignment_revision": "sha256:db4cd41c83e098655ee4d5dd7e6fb5ca156fd3997b00c0442797dd78fb053d5a"
+        },
+        "scoped_ai_review": {
+          "id": "prob-addition-20261003",
+          "scope": "선한 사람은 모두 자유롭다 1-20절 전체, 21-160절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:7ae3f0d6088ddd1ff07563e032ea751b01b4d4dbd26fa793235e8c708242255c",
+            "translation_revision": "sha256:55cc5e26207760101e66e3bcde5ca33eb861d7f97d126a67d7f560dc7fe1aa86",
+            "alignment_revision": "sha256:db4cd41c83e098655ee4d5dd7e6fb5ca156fd3997b00c0442797dd78fb053d5a"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg027/tlg0018.tlg027.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "선한 사람은 모두 자유롭다",
+        "reference": "18",
+        "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:55cc5e26207760101e66e3bcde5ca33eb861d7f97d126a67d7f560dc7fe1aa86",
+        "fixed_path": "releases/public-0.33/works/prob/index.html#p-18"
+      }
+    },
+    {
+      "ref": "19",
+      "section": 19,
+      "original": "ἀνελόντες οὖν ἐκποδὼν τὰς προφασιστικὰς εὑρεσιλογίας καὶ τὰ φύσεως μὲν ἀλλότρια δόξης δ’ ἠρτημένα ὀνόματα οἰκοτρίβων ἢ ἀργυρωνήτων ἢ αἰχμαλώτων τὸν ἀψευδῶς ἐλεύθερον ἀναζητῶμεν, ᾧ μόνῳ τὸ αὐτοκρατὲς πρόσεστι, κἂν μυρίοι γράφωσι δεσπότας ἑαυτούς. ἀναφθέγξεται γὰρ ἐκεῖνο τὸ Σοφόκλειον οὐδὲν τῶν πυθοχρήστων διαφέρον· \"θεὸς ἐμὸς ἄρχων, θνητὸς δ’ οὐδείς”. τῷ γὰρ ὄντι μόνος ἐλεύθερος ὁ μόνῳ θεῷ χρώμενος ἡγεμόνι,",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:ccaf83b03ba2f035db7fe52e9379f587d01056ab0e1be28b7898d99b59c0186c",
+      "source_file_sha256": "9a2f287c2293f22b2357f2e5df07b1b551f70aa65d53bb519fb1d7c03418a49b",
+      "source_locator": {
+        "filename": "tlg0018.tlg027.1st1K-grc1.xml",
+        "reference": "19"
+      },
+      "encoded_printed_page": "v.6.p.5",
+      "korean": "구실을 만들려고 내세우는 말장난과, 본성과 관계없이 의견에 달린 이름들을 치우자. 집에서 태어난 노예, 돈으로 산 노예, 전쟁 포로라는 이름들이다. 그리고 참으로 자유로운 사람을 찾자. 오직 그에게만 스스로를 다스리는 권한이 있다. 수많은 사람이 자신을 그의 주인으로 적는다 해도 그렇다. 그는 델포이의 신탁과 다를 바 없는 소포클레스의 말을 외칠 것이다. “하나님이 나의 통치자이며, 죽을 사람은 아무도 아니다.” 참으로 오직 하나님만을 인도자로 삼는 사람만이 자유롭다.",
+      "translation_revision": "sha256:d88dff90ddcdc55ddf0c7226951721174da6057cf341886733e3cb7848494753",
+      "groups": [
+        {
+          "id": "a-1a6b4df4e93c6457546c",
+          "source_range": [
+            0,
+            143
+          ],
+          "ko_range": [
+            0,
+            82
+          ],
+          "source_text": "ἀνελόντες οὖν ἐκποδὼν τὰς προφασιστικὰς εὑρεσιλογίας καὶ τὰ φύσεως μὲν ἀλλότρια δόξης δ’ ἠρτημένα ὀνόματα οἰκοτρίβων ἢ ἀργυρωνήτων ἢ αἰχμαλώτων",
+          "ko_text": "구실을 만들려고 내세우는 말장난과, 본성과 관계없이 의견에 달린 이름들을 치우자. 집에서 태어난 노예, 돈으로 산 노예, 전쟁 포로라는 이름들이다."
+        },
+        {
+          "id": "a-c326f90fb8d58dfc74c2",
+          "source_range": [
+            144,
+            177
+          ],
+          "ko_range": [
+            83,
+            103
+          ],
+          "source_text": "τὸν ἀψευδῶς ἐλεύθερον ἀναζητῶμεν,",
+          "ko_text": "그리고 참으로 자유로운 사람을 찾자."
+        },
+        {
+          "id": "a-9ad0537b12585a7a68c7",
+          "source_range": [
+            178,
+            245
+          ],
+          "ko_range": [
+            104,
+            161
+          ],
+          "source_text": "ᾧ μόνῳ τὸ αὐτοκρατὲς πρόσεστι, κἂν μυρίοι γράφωσι δεσπότας ἑαυτούς.",
+          "ko_text": "오직 그에게만 스스로를 다스리는 권한이 있다. 수많은 사람이 자신을 그의 주인으로 적는다 해도 그렇다."
+        },
+        {
+          "id": "a-037ac0f23cb7e520ae09",
+          "source_range": [
+            246,
+            315
+          ],
+          "ko_range": [
+            162,
+            199
+          ],
+          "source_text": "ἀναφθέγξεται γὰρ ἐκεῖνο τὸ Σοφόκλειον οὐδὲν τῶν πυθοχρήστων διαφέρον·",
+          "ko_text": "그는 델포이의 신탁과 다를 바 없는 소포클레스의 말을 외칠 것이다."
+        },
+        {
+          "id": "a-b57660a33a44f6812cf2",
+          "source_range": [
+            316,
+            352
+          ],
+          "ko_range": [
+            200,
+            232
+          ],
+          "source_text": "\"θεὸς ἐμὸς ἄρχων, θνητὸς δ’ οὐδείς”.",
+          "ko_text": "“하나님이 나의 통치자이며, 죽을 사람은 아무도 아니다.”"
+        },
+        {
+          "id": "a-334bb749a3c71ddf2109",
+          "source_range": [
+            353,
+            409
+          ],
+          "ko_range": [
+            233,
+            264
+          ],
+          "source_text": "τῷ γὰρ ὄντι μόνος ἐλεύθερος ὁ μόνῳ θεῷ χρώμενος ἡγεμόνι,",
+          "ko_text": "참으로 오직 하나님만을 인도자로 삼는 사람만이 자유롭다."
+        }
+      ],
+      "notes": [
+        "집에서 태어난 노예, 돈으로 산 노예, 전쟁 포로라는 사회적 명칭을 제쳐 둔 뒤 스스로 다스리는 권한을 논한다. 하나님이 나의 통치자라는 소포클레스의 말을 그 논증에 인용한다."
+      ],
+      "work_passage_id": "prob:19",
+      "html_path": "works/prob/index.html#p-19",
+      "fixed_html_path": "releases/public-0.33/works/prob/index.html#p-19",
+      "alignment_revision": "sha256:3462c93bbfbee958711c103bff61deedf9f9300c8675f0e1a89175327a836c47",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:ccaf83b03ba2f035db7fe52e9379f587d01056ab0e1be28b7898d99b59c0186c",
+          "translation_revision": "sha256:d88dff90ddcdc55ddf0c7226951721174da6057cf341886733e3cb7848494753",
+          "alignment_revision": "sha256:3462c93bbfbee958711c103bff61deedf9f9300c8675f0e1a89175327a836c47"
+        },
+        "scoped_ai_review": {
+          "id": "prob-addition-20261003",
+          "scope": "선한 사람은 모두 자유롭다 1-20절 전체, 21-160절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:ccaf83b03ba2f035db7fe52e9379f587d01056ab0e1be28b7898d99b59c0186c",
+            "translation_revision": "sha256:d88dff90ddcdc55ddf0c7226951721174da6057cf341886733e3cb7848494753",
+            "alignment_revision": "sha256:3462c93bbfbee958711c103bff61deedf9f9300c8675f0e1a89175327a836c47"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg027/tlg0018.tlg027.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "선한 사람은 모두 자유롭다",
+        "reference": "19",
+        "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:d88dff90ddcdc55ddf0c7226951721174da6057cf341886733e3cb7848494753",
+        "fixed_path": "releases/public-0.33/works/prob/index.html#p-19"
+      }
+    },
+    {
+      "ref": "20",
+      "section": 20,
+      "original": "κατ’ ἐμὴν δὲ διάνοιαν καὶ τῶν ἄλλων ἡγεμών, ἐπιτετραμμένος τὰ περίγεια, οἷα μεγάλου βασιλέως, θνητὸς ἀθανάτου, διάδοχος. ἀλλ’ ὁ μὲν περὶ ἀρχῆς τοῦ σοφοῦ λόγος εἰς καιρὸν ἐπιτηδειότερον ὑπερκείσθω, τὸν δὲ περὶ ἐλευθερίας τὰ νῦν ἀκριβωτέον.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:957f6260414654374c6a35951600e687696da6323890c23ce0192bbac0e732b1",
+      "source_file_sha256": "9a2f287c2293f22b2357f2e5df07b1b551f70aa65d53bb519fb1d7c03418a49b",
+      "source_locator": {
+        "filename": "tlg0018.tlg027.1st1K-grc1.xml",
+        "reference": "20"
+      },
+      "encoded_printed_page": "v.6.p.6",
+      "korean": "내 생각에 그는 다른 이들의 인도자이기도 하다. 죽을 사람으로서 불멸하신 분을 계승하여, 위대한 왕의 후계자처럼 땅의 일을 맡았기 때문이다. 지혜자의 통치에 관한 논의는 더 알맞은 때로 미루자. 지금은 자유에 관한 논의를 정확히 살펴보자.",
+      "translation_revision": "sha256:10e7723b74e1848009d13093871f8bc06c234a2c460da69d6758e6ec48f411e4",
+      "groups": [
+        {
+          "id": "a-36d0897f1ecec9422200",
+          "source_range": [
+            0,
+            120
+          ],
+          "ko_range": [
+            0,
+            78
+          ],
+          "source_text": "κατ’ ἐμὴν δὲ διάνοιαν καὶ τῶν ἄλλων ἡγεμών, ἐπιτετραμμένος τὰ περίγεια, οἷα μεγάλου βασιλέως, θνητὸς ἀθανάτου, διάδοχος.",
+          "ko_text": "내 생각에 그는 다른 이들의 인도자이기도 하다. 죽을 사람으로서 불멸하신 분을 계승하여, 위대한 왕의 후계자처럼 땅의 일을 맡았기 때문이다."
+        },
+        {
+          "id": "a-0ddb47ee8a46d98869e2",
+          "source_range": [
+            121,
+            196
+          ],
+          "ko_range": [
+            79,
+            108
+          ],
+          "source_text": "ἀλλ’ ὁ μὲν περὶ ἀρχῆς τοῦ σοφοῦ λόγος εἰς καιρὸν ἐπιτηδειότερον ὑπερκείσθω,",
+          "ko_text": "지혜자의 통치에 관한 논의는 더 알맞은 때로 미루자."
+        },
+        {
+          "id": "a-583c4a20d0e52c82b642",
+          "source_range": [
+            197,
+            238
+          ],
+          "ko_range": [
+            109,
+            133
+          ],
+          "source_text": "τὸν δὲ περὶ ἐλευθερίας τὰ νῦν ἀκριβωτέον.",
+          "ko_text": "지금은 자유에 관한 논의를 정확히 살펴보자."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "prob:20",
+      "html_path": "works/prob/index.html#p-20",
+      "fixed_html_path": "releases/public-0.33/works/prob/index.html#p-20",
+      "alignment_revision": "sha256:2b0b75e242eda240884642189045b867fd82ec1d0d044203a78fbaa8d41d0431",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_xml_extraction",
+        "targets": {
+          "source_revision": "sha256:957f6260414654374c6a35951600e687696da6323890c23ce0192bbac0e732b1",
+          "translation_revision": "sha256:10e7723b74e1848009d13093871f8bc06c234a2c460da69d6758e6ec48f411e4",
+          "alignment_revision": "sha256:2b0b75e242eda240884642189045b867fd82ec1d0d044203a78fbaa8d41d0431"
+        },
+        "scoped_ai_review": {
+          "id": "prob-addition-20261003",
+          "scope": "선한 사람은 모두 자유롭다 1-20절 전체, 21-160절 미수록",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:957f6260414654374c6a35951600e687696da6323890c23ce0192bbac0e732b1",
+            "translation_revision": "sha256:10e7723b74e1848009d13093871f8bc06c234a2c460da69d6758e6ec48f411e4",
+            "alignment_revision": "sha256:2b0b75e242eda240884642189045b867fd82ec1d0d044203a78fbaa8d41d0431"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-SA 4.0",
+        "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg027/tlg0018.tlg027.1st1K-grc1.xml",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-SA 4.0",
+        "alignment_license": "CC BY-SA 4.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-SA 4.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "필론",
+        "work": "선한 사람은 모두 자유롭다",
+        "reference": "20",
+        "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:10e7723b74e1848009d13093871f8bc06c234a2c460da69d6758e6ec48f411e4",
+        "fixed_path": "releases/public-0.33/works/prob/index.html#p-20"
+      }
+    }
+  ],
+  "related": [],
+  "aliases": [
+    "선한 사람은 모두 자유롭다",
+    "Prob.",
+    "Quod omnis probus liber sit",
+    "자유론"
+  ],
+  "translationLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "sourceCommit": "03776b39f4047c5cff06f5296fae4b2bae4b08fb",
+  "licenseEvidence": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg027/tlg0018.tlg027.1st1K-grc1.xml",
+  "readerUrl": "https://archive.org/download/philonisalexandr0406philuoft/philonisalexandr0406philuoft.pdf",
+  "openAccessFullTextUrl": "https://archive.org/download/philonisalexandr0406philuoft/philonisalexandr0406philuoft.pdf",
+  "original_title": "Περὶ τοῦ πάντα σπουδαῖον ἐλεύθερον εἶναι",
+  "display_title": "선한 사람은 모두 자유롭다",
+  "reference_scheme": "section",
+  "coverage_label": "1-20절 수록",
+  "edition_id": "prob-first1k-03776b39",
+  "source_file_sha256": "9a2f287c2293f22b2357f2e5df07b1b551f70aa65d53bb519fb1d7c03418a49b",
+  "display_author": "필론",
+  "scope": "선한 사람은 모두 자유롭다 1-20절 전체, 21-160절 미수록",
+  "coverage": "complete_scope",
+  "release_id": "public-0.33",
+  "source_language": "grc",
+  "source_kind": "edited_ancient_original",
+  "human_reviewed": false,
+  "translation_method": "고정 원어 본문에서 직접 번역",
+  "html_path": "works/prob/index.html",
+  "json_path": "data/works/prob.json",
+  "fixed_html_path": "releases/public-0.33/works/prob/index.html",
+  "source_profile": "prob-first1k-03776b39",
+  "source_decisions": [
+    {
+      "kind": "source_selection",
+      "verified": "2026-10-03",
+      "scope": "선한 사람은 모두 자유롭다 1-20절 전체, 21-160절 미수록",
+      "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg027/tlg0018.tlg027.1st1K-grc1.xml",
+      "license": "CC BY-SA 4.0",
+      "basis": "고정된 공개 원문 전사"
+    },
+    {
+      "ref": "1",
+      "kind": "note",
+      "action": "separated_from_body",
+      "text": "p. 445 M."
+    },
+    {
+      "ref": "3",
+      "kind": "note",
+      "action": "separated_from_body",
+      "text": "Tit. Φίλωνος τοῦ τοῦ πάντα σπουδαῖον ἐλεύθερον εἶναι M (Eus): φῶνος περὶ τοῦ πάντα σπουδαῖον εἶναι ἐλεύθερον G, φίλωνος ἰουδαίου περὶ τοῦ πάντα σπουδαῖον εἶναι ἐλεύθερον AQ, τοῦ αὐτοῦ περὶ τοῦ πάντα σπουδαῖον εἶναι ἐλεύθερον F, περὶ τοῦ πάντα σπουδαῖον εἶναι ἐλεύθερον HP, φίλωνος ὅτι πᾶς ἀστεῖος ἐλεύθερος T 3 πρότερος] πρῶτος QT ὦ om. QT 3. 4 δοῦλον εἶναι πάντα φαῦλον M (cf. Eus. Hist. eccl. II 18,6): πάντα δοῦλον εἶναι φαῦλον F, πάντα δοῦλον εἶναι φαῦλον ceteri (v) 4 καὶ ἀληθῶν om. Q ἀληθῶν M: ἀληθινῶν ceteri (v) 5 δέ M 6 δίδυμον ’P ante ἀστεῖος om. G 7 οὖν om. Α πυθαγορίων MP 8 τοῦτο AT, ταῦτ’ F 10 παρήγγελλεν MF-: παρήγγειλεν ceteri (Turn.) 10. 11 μήτε λόγοις μήτ’ ἔργοις] μήτ’ ἔργοις μήτε λόγοις MHP (v) 11. 2, 1 φιλοσοφίας γνησίας ἐσπάσαντο coni. Mang."
+    },
+    {
+      "ref": "3",
+      "kind": "note",
+      "action": "separated_from_body",
+      "text": "3 cf. Diog. La. VII 121 (Stoicorum doctrina) μόνον τ’ ἐλεύθερον (scil. τὸν σοφὸν εἶναι), τοὺς δὲ φαύλους δούλους. Cic. Parad. V Ὅτι μόνος 6 σοφὸς ἐλεύθερος καὶ πᾶς ἄφρων δοῦλος. 8 cf. Diog. La. VIII 17 ἣν δ’ αὐτῷ (Pythagorae) τὰ σύμβολα τάδε· „. . . τὰς λεωφόρους μὴ βαδίειν“, Aelian. Var. Hist. IV 17 προσέταττε δὲ 6 αὐτὸς Πυθαγόρας . . . μηδέ βαδίζειν τὰς λεωφόρους ὁδούς. Clem. Alex. Strom. V b p. 664 P. καὶ Πυθαγόρας οὐκ ὀκνεῖ ἀπαγορεύειν τὰς λεωφόρους ὁδοὺς βαδίζειν, προστάττων μὴ δεῖν ταῖς τῶν πολλῶν ἕπεσθαι γνώμαις ἀκρίτοις καὶ ἀνομολογουμέναις οὔσαις. Porphyr. Vita Pythag. 42 ἦν δὲ καὶ ἄλλο εἶδος τῶν συμβόλων τοιοῦτον· „. . . τὰς δέ λεωφόρους μὴ βαδίζειν“, δι’ οὗ ταῖς τῶν πολλῶν ἕπεσθαι γνώμαις ἐκώλυεν."
+    },
+    {
+      "ref": "7",
+      "kind": "note",
+      "action": "separated_from_body",
+      "text": "1 γινόμενοι HAQT προστάγματι] πράγματι AQT νόμον M: λόγον ceteri (v; αὐτὸν P 2 ὑπετόπασαν Α δόξας δ’ GA: δόξας (om. δ’) ceteri, καὶ δόξας v ἀγελαίας GT 3 ἄλλην codd.: ἄβατον Mang. ἄβατον hoc loco M: om. ceteri ἰδιώτας Turn. 4 ἀνατείλαντες M: ἀνατείλαντες ceteri (v) ψαύειν M: ψαῦσαι ceteri (v) 6 αὐτὴν ἐδέξαντο] αὐτῆς ἐγεύσαντο AQT (Mang.) σοφιστείας GH, σοφιστίας P Urbin. : σοφίας ceteri 6. 7 μεταχαράξαντες] παραχαράξαντες HP (v) 7 οὗτοι γὰρ G τὸ om. M Urbin. οὐ MFGA Urbin.: μὴ HPQT (v) 8 κατὰ ψυχὴν] κατ’ ὄψιν QT 9 ὅσ’ FGAP: ὅσα Η (v), ὅσοι M, ὡς QT 10 αὐγαῖς M: αὐτοῖς ceteri (v) ; ἐν αὐγαῖς conicio ἀκράτοις τῶν ἡλιακῶν M ἀκτίνων addidi): ἀκτίνων κρατούντων FG, ἀκτίνων κρατούντων ἡλιακῶν AQT, ἡλιακῶν ἀκτίνων ἐπικρατούντων HP (v) εἱλικρινεστέραις M παραθρήσαντες A 10. 11 διηγῶνται] διάγονται M; ἐκεῖνοι διηγῶνται conicio 11 φάσματα AQT ἐοικότα-θαύματ᾿ (12) om. AQT τοῖς om. Mang. 12 ἔκτοπα F θαύματα F2, αὐτόματα M ante φυγάδας add. ὡς AQT 13 καὶ δικάζοντας om. AQT 16 ἢ om. F πέραν ὅρων] πέραν ὁρῶν G, πέρας ὅρων F, περιορᾶν HP (Turn.) 17 ἐπιβῆναι] ἀποβῆναι AQ 18 ἔδαφος] πέδον F in textu, ἔδαφος mg F δυνάμενοι M"
+    },
+    {
+      "ref": "7",
+      "kind": "note",
+      "action": "separated_from_body",
+      "text": "4-9 Cod. Urbin. gr. fol. 306V: φῶνος· λέγω ὸἑ μὴ καθαροὺς - ἀπιστοῦσι τοῖς ἐν ἡμέρᾳ ζῶσιν. 7-11 cf. Plat. Resp. VII 514 ss. 17 sq. Etiseb. Hist. eccl. III 6,3 τὸ πᾶν ἔθνος (ludaeorum) ἐξ ἐκείνου καὶ τῆς περὶ τά Ἱεροσόλυμα γῆς πάμπαν ἐπιβαίνειν εἴργεται νόμου δόγματι καὶ διατάξεσιν Ἀδριανοῦ, ὡς ἄν μηδ’ ἐξ ἀπόπτου θεωροῖεν τὸ πατρῷον ἔδαφος, ἐγκελευσαμένου· Ἀρίστων 6 Πελλαῖος ἱστορεῖ."
+    },
+    {
+      "ref": "12",
+      "kind": "note",
+      "action": "separated_from_body",
+      "text": "1 κατὰ στειχόντων MA, καταστιχόντων P (Turn.) 1. 2 δι’ αὐτῶν M 2 δ’ M 3 λέγω] λέγειν GAQT 4 οὐδ’] οὐκ QT 5 ἐνδεεῖς] ἐπιδεεῖς HP (v) λυπηρῶς M (Mang.) 6 ἐκπορίζοντας] εὐπορίζοντας F, κομίζοντας H (v) ἐν] ἢ T 7 κοινῇ] πολλὴ M αὔραις M ἀέρος Α, ἀέρι om. QT, δρόσῳ coni. Mang. 8 τοὺς] τῶν ἐν QT 8. 9 κτημάτων] χρημάτων Α 11 οἰκίας] οἰκείας FH2 11. 12 δ’ ἔτι] δέ τι Η (v), τὲ (om. δ’) M 12 εἰρήνην M πόλεμον M 13 δὲ] γὰρ M 14 μόνον M: μόνοι ceteri (v) 15 alterum πρὸς om. Α ἐτόλμησαν M: ἐπετόλμησαν ceteri (v) 16 τριγονίας MFG: τριγενείας ceteri (v) στιγματίαις] μαστιγίαις QT, ἐπηματίοισ M πεδότριψι MG (Wilamowitz): παιδότριψι ceteri (v) ; οἰκότριψι coni. Mang. παλαιοδούλοις] παλιμβόλοις coni. Wilamowitz, sed cf. § 147 17 ἀνθρώπων] ἀνδρῶν M 19 δεκαζόμενον v (Turn.): δικαζόμενον codd. ἀβέβαιον] οὐ βέβαιον Α ἐχρῆν AQT δ’ GA"
+    },
+    {
+      "ref": "12",
+      "kind": "note",
+      "action": "separated_from_body",
+      "text": "7 Philo de vita contempl. § 35 . . . ἐθισθέντες, ὥσπερ φασὶ τὸ τῶν τεττίγων γένος, ἀέρι τρέφεσθαι. cf. Plat. Phaedr. 259 c . . . ἐξ ὧν τὸ τεττίγων γένος μετ’ ἐκεῖνο φύεται, γέρας τοῦτο παρὰ Μουσῶν λαβόν, μηδὲν τροφῆς δεῖσθαι, ἀλλ’ ἄσιτόν τε καὶ ἄποτον εὐθὺς γενόμενον ἅδειν, ἕως ἄν τελευτήσῃ. Theocr. IV 16 μὴ πρῶκας σιτίζεται ὥσπερ ὁ τέττιξ. Vergil. Ecl. V 77 dumque thymo pascentur apes, dum rore cicadae. Plin. Nat. Hist, XI 91 Chamaeleonum stelliones qui quodam modo naturam habent, rore tantum viventes praeterque araneis, (92) Similis cicadis vita."
+    },
+    {
+      "ref": "16",
+      "kind": "note",
+      "action": "separated_from_body",
+      "text": "1 ἐζήλουν] ἐζήτουν M 2 ἑαυτοῖς H1P 6 δεῖ om. FG; γὰρ conicio ἱερώτατον M: λιγυρώτατον ceteri (v) 7 δέ M: τε ceteri (Turn., om. Mang.) κοινωνικώτατον] κοινότατον Turn. 8 ἀναπεπταμένη Η2: ἀναπεπταμένως MQT, ἀναπεπταμένῳ GAH1P, ἀναπεπταμένοις F δέ om. FT ἀεὶ M: om. ceteri (Turn.) δέχεται codd: εἰσδέχεται Mang. ποτίμοις διψῶντας λόγοις F 9 οἷς] εἰς M ἐπαντλοῦσα] γρ. ἐπαντλοῦντες mg M 10 δέ MA: δ’ ceteri 11 γεμισθῶσι] μεθυσθῶσι G; γε μυηθῶσι coni. Mang. κακίζωσιν H1P 12 χρόνου M: χρόνων ceteri (Turn.) 14 μηδενὶ ἄλλω μᾶλλον G ἐνηβάσαι Α καὶ αἰ 15 φασί] φησι M καινά M: κοινὰ F, κενὰ Α, κενὰ ceteri (Turn.) ἀναφέρει codd.: ἀναφέρειν v πρώτων] πρώτως MA, πρῶτον QT 16 ἐγχυθέντων εἰς αὐτὰ transp. M ἐγχυθέντων MQT: ἐκχυθέντων ceteri οὕτως M: οὕτω ceteri (v) τῶν νέων codd.: τῶν om. v τοὺς om. AQT 18 ἐπιρρεόντων M κατακλυζόμεναι] κατασκευαζόμεναι HP (Turn.) 19 τούτων] τοῦτο QT 20 ὀνομάτων] νοημάτων coni. Mang. ἀσαφείᾳ] ἀσφαλεία M"
+    },
+    {
+      "ref": "16",
+      "kind": "note",
+      "action": "separated_from_body",
+      "text": "6 Plat. Phaedr. 247 a. 7 cf. Diog. La. VII 123 κοινωνικὸς γὰρ φύσει καὶ πρακτικός (ὁ σπουδαῖος). 8 ποτίμων λόγων: Plat. Phaedr. 243 d ἐπιθυμῶ ποτίμῳ οἷον ἁλμυρὰν ἀκοὴν ἀποκλύσασθαι. 15 Horat. Episi. I 2,69 quo semel est imbuta recens, servabit odorem | testa diu. Quintil. I 1, 5 et natura tenacissimi sumus eorum, quae rudibus annis percepimus, ut sapor, quo nova imbuas, durat. cf. A. Otto, Die ӧrter der ӧmer 346."
+    },
+    {
+      "ref": "20",
+      "kind": "note",
+      "action": "separated_from_body",
+      "text": "1 εὐσκόπως] εὐκόλως F ἐφαρμόττομεν M, ἐφαρμόσωμεν AQT δουλεία μὲν τοίνυν M 2 ψυχῶν] ψυχῆς HP (Turn.) 3 κακίαι M: κακία ceteri (Turn.) καταυτὰ M (κατὰ ταὐτὰ scripsi): κατὰ ταὐτὸν F, κατὰ τὰ αὐτὰ ceteri (v) ἐλευθερίαι M (ἐλευθερία scripsi): ἡ ἐλευθερία ceteri (v) 4 σωμάτων] σώμασιν M ἀπ’] ἐπ’ F δυνατωτέρων] σωμάτων δυνατωτέρων Η (v) 5 ἐκκεχειρίαν APQT δυναστείας] διανοίας HP (Turn.), δυναστείας mg P οὑν] δὴ M 6 μυρίων AQT αἱ M: om. ceteri (v) τύχαι M: ψυχαὶ ceteri (Turn.) πολλοῖς F 7 καιροῖς] καὶ τοῖς QT σφόδρ’ FGH 8 σκῆψις HP, post σκέψις add. τούτων F 9 οὔτε ἡδοναὶ M εἰρκτῆς MPT 10 ἐκποδὼν] ἐκ ποδῶν FG, ἐκ προγόνων M 11 προφητικάς G; σοφιστικάς coni. Mang. εὑρεσιλογίας] ἐλευθερίας Η mg P (v) εὑρησιλογίας G 12 ἡ ἀργυρωνήτων ἢ M: καὶ ἀργυρωνήτων (om. altero ἡ) ceteri (Turu.) 13 ἐπιζητῶμεν AQT 14 ἀναφθέγγεται F 14. 15 τῶν πυθοχρήστῳ Α 16 ἐμὸς codd.: ἐμοὶ v θνητὸς] θνητῶν HP (v) δ’ MA: δὲ ceteri (v) οὐδείς AQT: οὐδὲ εἷς ceteri (v) 17 μόνῳ] μόνος QT δέ om. QT"
+    },
+    {
+      "ref": "20",
+      "kind": "note",
+      "action": "separated_from_body",
+      "text": "1 sqq. Ambros. Epist. 37, 24 . . . gemina enim servitus est, altera corporis, animarum altera: domini autem corporis quidem homines, animarum autem malitiae et passiones, a quibus sola animi libertas sapientem vindicat, ut servitio ei liceat exire. 13 Philo de post. Caini § 138 τοῦτο δ’ ἐστὶ τὸ δογματικώτατον (τὸ δόγμα τὸ Στωικὸν coni. Wendl.), ὅτι 6 σοφὸς μόνος ἐλεύθερός τε καὶ ἄρχων, κἄν μυρίους τοῦ σώματος ἔχῃ δεσπότας. 14 sqq. Ambros. Epist. 37, 28 Quis est qui Sophoclea in medium ferat carmina dicentia: „Iupiter mihi praeest, nullus autem hominum?\" 16 Soph. frg. 688,3 ap. Arist. Eth. Eud. 7,10 p. 1242a 37, ubi εὺς ἐμὸς ἄρχων· fortasse etiam Philo Ζεὺς scripsit, si quidem Ambrosius Philonem transscribens vertit lupiter."
+    }
+  ],
+  "source_collations": [],
+  "validation_records": [
+    {
+      "id": "prob-addition-20261003",
+      "scope": "선한 사람은 모두 자유롭다 1-20절 전체, 21-160절 미수록",
+      "date": "2026-10-03",
+      "reviewer_type": "AI",
+      "human_reviewed": false,
+      "reading_record_count": 20,
+      "meaning_groups": 79,
+      "methods": [
+        "선정 범위의 공개 그리스어 본문을 읽고 한국어와 의미 대응을 작성했다.",
+        "인칭, 인물, 수치와 화자, 절 경계의 문장 연결을 대조했다."
+      ],
+      "sources": [
+        {
+          "work": "prob",
+          "url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018/tlg027/tlg0018.tlg027.1st1K-grc1.xml",
+          "verified": "2026-10-03",
+          "status": 200,
+          "full_text": true,
+          "bytes": 233686,
+          "sha256": "9a2f287c2293f22b2357f2e5df07b1b551f70aa65d53bb519fb1d7c03418a49b",
+          "license": "CC BY-SA 4.0",
+          "license_evidence": "TEI publicationStmt availability licence",
+          "commit": "03776b39f4047c5cff06f5296fae4b2bae4b08fb",
+          "open_access_full_text_url": "https://archive.org/download/philonisalexandr0406philuoft/philonisalexandr0406philuoft.pdf",
+          "full_pdf_access_status": 206,
+          "pdf_bytes": 74783523,
+          "pdf_access_evidence": "Unauthenticated range GET0-1023; application/pdf; total74783523; prefix matches previously downloaded full PDF; University of Toronto scan",
+          "printed_source_license": "출판연도1902,1906,1915의 공개 인쇄본; 전자 전사는CC BY-SA4.0",
+          "pdf_pages_read": [
+            845
+          ],
+          "pdf_title_pages_read": [
+            7,
+            353,
+            761
+          ],
+          "printed_volume": 6
+        }
+      ],
+      "passages": [
+        {
+          "ref": "1",
+          "targets": {
+            "source_revision": "sha256:2944990e358fea097b92e151552f480c084a1d8b71ccf73acc6ee51a46079f46",
+            "translation_revision": "sha256:11db625b00c116c78d0d6efed201518dd6e81d3a3f15a3f0f4a1258836a83cf4",
+            "alignment_revision": "sha256:2e35bf29206473812f3df460dea9b8a5375a162348e63c19a9ebc0b486f7a68f"
+          }
+        },
+        {
+          "ref": "2",
+          "targets": {
+            "source_revision": "sha256:719891a2eea87a4ef12730d49d01ce8584d6380f6ce03455f06ff729155357ec",
+            "translation_revision": "sha256:ed7c0dcdd8be7a8e36ede1fc457458febdceee3455415e20cd89369c7631b7d5",
+            "alignment_revision": "sha256:8c51165722af07b40e418f8e622ab6765777bb7924cfcedd15e18553f08004c9"
+          }
+        },
+        {
+          "ref": "3",
+          "targets": {
+            "source_revision": "sha256:598ac7131673a8f86f719eda6593e96e2cc750e1c06536dd1db96ab4d7afaaaf",
+            "translation_revision": "sha256:4f19d311eb4b6ca44936d8c1b80fa35d699002fe56057aaefe8e920927d46d00",
+            "alignment_revision": "sha256:850a7dac3a0b228fc50b00d07396a3505808eceaf17d58ee20b93e9047618428"
+          }
+        },
+        {
+          "ref": "4",
+          "targets": {
+            "source_revision": "sha256:182f9107d86b691b612c5942016424cd114b87a91744b6a9ac2268a0427ad3a9",
+            "translation_revision": "sha256:ca57f7ae3aaa2d4b278931d5557bb7959c4df7792a20dc754720e606109371ee",
+            "alignment_revision": "sha256:60fafd4a3d74cbef2410dfd0ac16c86216ec2268e4d84fe9bdcd48d516080437"
+          }
+        },
+        {
+          "ref": "5",
+          "targets": {
+            "source_revision": "sha256:d923cec01892b35be74fb84a48515d5e2175b385c21a713a7fc9a4ee2eb8d129",
+            "translation_revision": "sha256:b352de0ff96d9d8ad5a41644125b731aeba16b4ffe2d1b4634b4dd26dd1b869a",
+            "alignment_revision": "sha256:57fe2b9820c714924e6e079677849babef80b1ebaafd38a8be254c8017afd7f1"
+          }
+        },
+        {
+          "ref": "6",
+          "targets": {
+            "source_revision": "sha256:b1c040c01dd16213d67e24f516c6f18b901c30a38cc660cc7095cf86566ca278",
+            "translation_revision": "sha256:1b02208b773ea1a8611bd53e6200883ce3151db419863386f23e965fcc35c58c",
+            "alignment_revision": "sha256:29921bd17f76f697ddb4d17d6dec29de24f428bfc50f62518c0717831f64e548"
+          }
+        },
+        {
+          "ref": "7",
+          "targets": {
+            "source_revision": "sha256:446a05c6944d6bc22a95010986dd0d968a6d5c017cd8d4be17c77a131d3c5c25",
+            "translation_revision": "sha256:b2b0af42575ee98971305187543af8d72f835ea39e43c22bd4f88aef7b0d5081",
+            "alignment_revision": "sha256:385402ac34ed48fa6c4f9ac09f397a2dd6e8fcb3c2b2544a2c431edd96b438c6"
+          }
+        },
+        {
+          "ref": "8",
+          "targets": {
+            "source_revision": "sha256:d0a35d1fb69152584373e328aa664427a190a45e42571c97773f792973b33a89",
+            "translation_revision": "sha256:cfb2c296519f453095b96b9c1ad043dbc58924393b6d6c93ec9e5a25407ff83c",
+            "alignment_revision": "sha256:aafbe8948cd4b0b9a05b623e26bd3a4be014f86e58e3512a45b6f14bfeced52e"
+          }
+        },
+        {
+          "ref": "9",
+          "targets": {
+            "source_revision": "sha256:53b361acfd006e4f9d36cbd1799fa4888915e2bafc9f5dda2e4fae51cb904e0b",
+            "translation_revision": "sha256:aa760a3bfb443c0dc4341649739035178da018c295948f29c19a0f3e0d1bdf82",
+            "alignment_revision": "sha256:9d3756fab33c68847c247ac49d53f259c844d110c3c5a2e5d4cf48ba09573aab"
+          }
+        },
+        {
+          "ref": "10",
+          "targets": {
+            "source_revision": "sha256:a31c78e545fa0b91e54775e5e6a87d1578f337005b84475162d1e608127fcb38",
+            "translation_revision": "sha256:7e3c0586a96aa8a1fc0a52df8dc49b0e88547cd8ccc0c2897839ce70fed0525e",
+            "alignment_revision": "sha256:a8c8b167d02fab22d363df4c9652f42b947b1fd944e89f569edc715828be3376"
+          }
+        },
+        {
+          "ref": "11",
+          "targets": {
+            "source_revision": "sha256:debb6b0489eee5380a817c1547c5e41d82546245e80f7bbd74061ae3317f479d",
+            "translation_revision": "sha256:2f5943ca42364b6f7f7ad398d39ba7826d1c3dbc1584729e2e122d7e84b5fd90",
+            "alignment_revision": "sha256:c2bafda8ee7b03eb12935ed8f40c2e901183675a03483c2fb0c03d9360c89a33"
+          }
+        },
+        {
+          "ref": "12",
+          "targets": {
+            "source_revision": "sha256:cffc1943d551ee742ad86a2721c9500cef6c90a675ad7609bf8f17c1a1dc1a5a",
+            "translation_revision": "sha256:6c2fa7de66fc728570db0e3aa884e41d10f7fda1cfdf30f9eb9c2e068998a6b7",
+            "alignment_revision": "sha256:45fe359b44090b00e1df3d5812149b000ac7be5dbbe41c4555b9ea0f2989b965"
+          }
+        },
+        {
+          "ref": "13",
+          "targets": {
+            "source_revision": "sha256:84196d9f5b90a0dcfe3a0860d00378ff0c2dfa1148de70ad5001c01bbc16bb9c",
+            "translation_revision": "sha256:749fbc211694b62deca5c8cc6b5609ef8a1c386456913e7a30dafb21162f9352",
+            "alignment_revision": "sha256:e653820897d06d2013f140d9b6193838f56073e4bef953a2ca1dd8a9ffde200e"
+          }
+        },
+        {
+          "ref": "14",
+          "targets": {
+            "source_revision": "sha256:4de49e8c452df5da0265695e84a76a5a2c5d2b9e819b6de7d5a2898df65db5c8",
+            "translation_revision": "sha256:22375f47c66ff8b94fd24c99ff8201c9a05c2f6b1300a5ef7dddfc1f05a3de87",
+            "alignment_revision": "sha256:80d4d638cfa3af5c593bd61b14f5783069035ac46538e2360ff7bf6955c038b2"
+          }
+        },
+        {
+          "ref": "15",
+          "targets": {
+            "source_revision": "sha256:14cd1b0c002fb4697029f1eebb4c4da05e433ed3f33128daf1f379d00d80eed3",
+            "translation_revision": "sha256:dde97e8322bf0f2b192aa0523984f3a5913af617a25660851926177d5a90c406",
+            "alignment_revision": "sha256:ea47132d85a656e975afa891fab1352ec67a8e1986560cdcd35c13cada081965"
+          }
+        },
+        {
+          "ref": "16",
+          "targets": {
+            "source_revision": "sha256:df50b90f5a43ea1cc97460528b0bd971f7d5414b9212f144abed9ed80fb3fdb1",
+            "translation_revision": "sha256:03a8d9bdd3ba834bc782bea8841bea68b009f86dbeb5b82fde0f24932994f260",
+            "alignment_revision": "sha256:89a01f98a3cb05daed956a6fba4135761bd7d29ed20eee41e516c6cb2717f3e6"
+          }
+        },
+        {
+          "ref": "17",
+          "targets": {
+            "source_revision": "sha256:c9175c34d2bb07b9bee4019e7d8d39107f1b071e247f388fe7a87dda4b89a3c6",
+            "translation_revision": "sha256:baa0581b855a636662b4d7cd602d23fa012f0ab0692544b096a5390201d8a393",
+            "alignment_revision": "sha256:67c031dfaf4180964ec2de7f0ea8201763aa31bdb5f9d1a32d1a8bd38fbf6c51"
+          }
+        },
+        {
+          "ref": "18",
+          "targets": {
+            "source_revision": "sha256:7ae3f0d6088ddd1ff07563e032ea751b01b4d4dbd26fa793235e8c708242255c",
+            "translation_revision": "sha256:55cc5e26207760101e66e3bcde5ca33eb861d7f97d126a67d7f560dc7fe1aa86",
+            "alignment_revision": "sha256:db4cd41c83e098655ee4d5dd7e6fb5ca156fd3997b00c0442797dd78fb053d5a"
+          }
+        },
+        {
+          "ref": "19",
+          "targets": {
+            "source_revision": "sha256:ccaf83b03ba2f035db7fe52e9379f587d01056ab0e1be28b7898d99b59c0186c",
+            "translation_revision": "sha256:d88dff90ddcdc55ddf0c7226951721174da6057cf341886733e3cb7848494753",
+            "alignment_revision": "sha256:3462c93bbfbee958711c103bff61deedf9f9300c8675f0e1a89175327a836c47"
+          }
+        },
+        {
+          "ref": "20",
+          "targets": {
+            "source_revision": "sha256:957f6260414654374c6a35951600e687696da6323890c23ce0192bbac0e732b1",
+            "translation_revision": "sha256:10e7723b74e1848009d13093871f8bc06c234a2c460da69d6758e6ec48f411e4",
+            "alignment_revision": "sha256:2b0b75e242eda240884642189045b867fd82ec1d0d044203a78fbaa8d41d0431"
+          }
+        }
+      ]
+    }
+  ],
+  "publication_status": "public_review_edition"
+}

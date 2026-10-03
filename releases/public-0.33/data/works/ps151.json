@@ -1,0 +1,849 @@
+{
+  "id": "ps151",
+  "title": "시편 151편",
+  "author": "익명",
+  "abbreviation": "Ps.151",
+  "corpus": "jewish",
+  "language": "grc",
+  "genre": "시편",
+  "period": "고대",
+  "region": "유대문헌 전승",
+  "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907.",
+  "summary": "작은 목동 다윗의 선택과 기름부음, 골리앗을 이긴 일을 다윗의 목소리로 읽습니다.",
+  "topics": [
+    "다윗",
+    "선택",
+    "골리앗"
+  ],
+  "notes": [],
+  "sourceUrl": "https://github.com/eliranwong/LXX-Swete-1930/blob/1d3efc3c63bd384a4f3f07ed37eef54b0d45ac33/01-Swete_word_with_punctuations.csv",
+  "license": "GPL-3.0",
+  "licenseUrl": "https://www.gnu.org/licenses/gpl-3.0.html",
+  "sourceCredit": "그리스어 전사: Pasquale Amicarelli. 데이터 제공: Eliran Wong, LXX-Swete-1930. 원판 편집: Henry Barclay Swete.",
+  "verified": "2026-10-03",
+  "translationCredit": "Codex 작성, 원어 직접 번역 초안",
+  "reviewer": "학술 검토 전",
+  "translationLicense": "GPL-3.0",
+  "rightsNotice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 GPL-3.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요.",
+  "passages": [
+    {
+      "ref": "151.1",
+      "chapter": 151,
+      "verse": 1,
+      "original": "Οὗτος ὁ ψαλμὸς ἰδιόγραφος εἰς Δαυεὶδ καὶ ἔξωθεν τοῦ ἀριθμοῦ, ὅτε ἐμονομάχησεν τῷ Γολιάδ. Μικρὸς ἤμην ἐν τοῖς ἀδελφοῖς μου, καὶ νεώτερος ἐν τῷ οἴκῳ τοῦ πατρός μου· ἐποίμαινον τὰ πρόβατα τοῦ πατρός μου.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:c249569a87dec317053999c332afcd552c0d0cc7c1702f176071cb3897d94ad7",
+      "source_file_sha256": "5cdeb6c993ff2883485b5c2006340bfd711a5d67b84f59aafac4e1caa4f6fbf4",
+      "reference_file_sha256": "39f71aabe259e3878a6d98df02f56eca8d62b1712491601f3812c81c9a1d3c6b",
+      "source_locator": {
+        "word_start": 326687,
+        "word_end_exclusive": 326721,
+        "reference_label": "Psa.151:1"
+      },
+      "psalm": 151,
+      "korean": "이 시편은 다윗 자신의 시로, 수에 포함되지 않는다. 그가 골리앗과 홀로 싸울 때의 시이다. 나는 형제들 가운데 작았고, 아버지 집에서 가장 어렸다. 아버지의 양들을 돌보았다.",
+      "translation_revision": "sha256:73c98737963f8d32f69a5cc66ebb4fb8a8b70daccf95731d43ae3207d4f50d66",
+      "groups": [
+        {
+          "id": "a-0c5a51ff802e726692a0",
+          "source_range": [
+            0,
+            88
+          ],
+          "ko_range": [
+            0,
+            51
+          ],
+          "source_text": "Οὗτος ὁ ψαλμὸς ἰδιόγραφος εἰς Δαυεὶδ καὶ ἔξωθεν τοῦ ἀριθμοῦ, ὅτε ἐμονομάχησεν τῷ Γολιάδ.",
+          "ko_text": "이 시편은 다윗 자신의 시로, 수에 포함되지 않는다. 그가 골리앗과 홀로 싸울 때의 시이다."
+        },
+        {
+          "id": "a-7896baf88d0efc258d8d",
+          "source_range": [
+            89,
+            162
+          ],
+          "ko_range": [
+            52,
+            83
+          ],
+          "source_text": "Μικρὸς ἤμην ἐν τοῖς ἀδελφοῖς μου, καὶ νεώτερος ἐν τῷ οἴκῳ τοῦ πατρός μου·",
+          "ko_text": "나는 형제들 가운데 작았고, 아버지 집에서 가장 어렸다."
+        },
+        {
+          "id": "a-1bcb0b1acde6c6c6fc9b",
+          "source_range": [
+            163,
+            200
+          ],
+          "ko_range": [
+            84,
+            98
+          ],
+          "source_text": "ἐποίμαινον τὰ πρόβατα τοῦ πατρός μου.",
+          "ko_text": "아버지의 양들을 돌보았다."
+        }
+      ],
+      "notes": [
+        "Swete 제2권 415쪽의 표제는 이 시편을 다윗의 시로 부르며, 수 밖에 있다고 설명한다. 전자 단어표는 이 표제를 첫 절에 붙여 두었다. 표제와 첫 절은 별도의 의미구로 번역했다."
+      ],
+      "work_passage_id": "ps151:151.1",
+      "html_path": "works/ps151/index.html#p-151-1",
+      "fixed_html_path": "releases/public-0.33/works/ps151/index.html#p-151-1",
+      "alignment_revision": "sha256:c17eea34f42bd9e39feb88bda0ea13150d9692af9e7eeeff37c2e049d1d1a3e9",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_word_table_extraction",
+        "targets": {
+          "source_revision": "sha256:c249569a87dec317053999c332afcd552c0d0cc7c1702f176071cb3897d94ad7",
+          "translation_revision": "sha256:73c98737963f8d32f69a5cc66ebb4fb8a8b70daccf95731d43ae3207d4f50d66",
+          "alignment_revision": "sha256:c17eea34f42bd9e39feb88bda0ea13150d9692af9e7eeeff37c2e049d1d1a3e9"
+        },
+        "scoped_ai_review": {
+          "id": "ps151-addition-20261003",
+          "scope": "시편 151편 151.1-151.7 7절 전체",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:c249569a87dec317053999c332afcd552c0d0cc7c1702f176071cb3897d94ad7",
+            "translation_revision": "sha256:73c98737963f8d32f69a5cc66ebb4fb8a8b70daccf95731d43ae3207d4f50d66",
+            "alignment_revision": "sha256:c17eea34f42bd9e39feb88bda0ea13150d9692af9e7eeeff37c2e049d1d1a3e9"
+          }
+        }
+      },
+      "rights": {
+        "source": "GPL-3.0",
+        "source_url": "https://github.com/eliranwong/LXX-Swete-1930/blob/1d3efc3c63bd384a4f3f07ed37eef54b0d45ac33/01-Swete_word_with_punctuations.csv",
+        "license_url": "https://www.gnu.org/licenses/gpl-3.0.html",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "GPL-3.0",
+        "alignment_license": "GPL-3.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 GPL-3.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "익명",
+        "work": "시편 151편",
+        "reference": "151.1",
+        "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:73c98737963f8d32f69a5cc66ebb4fb8a8b70daccf95731d43ae3207d4f50d66",
+        "fixed_path": "releases/public-0.33/works/ps151/index.html#p-151-1"
+      }
+    },
+    {
+      "ref": "151.2",
+      "chapter": 151,
+      "verse": 2,
+      "original": "αἱ χεῖρές μου ἐποίησαν ὄργανον, οἱ δάκτυλοί μου ἥρμοσαν ψαλτήριον.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:1ba95723d2e54ce9c6e3d02776cfb30d201ae2f07ba7a831a0f5addb517a101c",
+      "source_file_sha256": "5cdeb6c993ff2883485b5c2006340bfd711a5d67b84f59aafac4e1caa4f6fbf4",
+      "reference_file_sha256": "39f71aabe259e3878a6d98df02f56eca8d62b1712491601f3812c81c9a1d3c6b",
+      "source_locator": {
+        "word_start": 326721,
+        "word_end_exclusive": 326731,
+        "reference_label": "Psa.151:2"
+      },
+      "psalm": 151,
+      "korean": "내 손은 악기를 만들었고, 내 손가락은 수금을 조율했다.",
+      "translation_revision": "sha256:4e14a075febdd5bbb16a3842b178dcb98267c499d8f5cbf942745643d4ffa2c8",
+      "groups": [
+        {
+          "id": "a-903529b679800f39bf68",
+          "source_range": [
+            0,
+            31
+          ],
+          "ko_range": [
+            0,
+            14
+          ],
+          "source_text": "αἱ χεῖρές μου ἐποίησαν ὄργανον,",
+          "ko_text": "내 손은 악기를 만들었고,"
+        },
+        {
+          "id": "a-7bb035836b3f5be0cdc2",
+          "source_range": [
+            32,
+            66
+          ],
+          "ko_range": [
+            15,
+            31
+          ],
+          "source_text": "οἱ δάκτυλοί μου ἥρμοσαν ψαλτήριον.",
+          "ko_text": "내 손가락은 수금을 조율했다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "ps151:151.2",
+      "html_path": "works/ps151/index.html#p-151-2",
+      "fixed_html_path": "releases/public-0.33/works/ps151/index.html#p-151-2",
+      "alignment_revision": "sha256:59574fbfc125f693c9d4c06ce361e67c557d6549f1fd37768d78fe662c6b6e72",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_word_table_extraction",
+        "targets": {
+          "source_revision": "sha256:1ba95723d2e54ce9c6e3d02776cfb30d201ae2f07ba7a831a0f5addb517a101c",
+          "translation_revision": "sha256:4e14a075febdd5bbb16a3842b178dcb98267c499d8f5cbf942745643d4ffa2c8",
+          "alignment_revision": "sha256:59574fbfc125f693c9d4c06ce361e67c557d6549f1fd37768d78fe662c6b6e72"
+        },
+        "scoped_ai_review": {
+          "id": "ps151-addition-20261003",
+          "scope": "시편 151편 151.1-151.7 7절 전체",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:1ba95723d2e54ce9c6e3d02776cfb30d201ae2f07ba7a831a0f5addb517a101c",
+            "translation_revision": "sha256:4e14a075febdd5bbb16a3842b178dcb98267c499d8f5cbf942745643d4ffa2c8",
+            "alignment_revision": "sha256:59574fbfc125f693c9d4c06ce361e67c557d6549f1fd37768d78fe662c6b6e72"
+          }
+        }
+      },
+      "rights": {
+        "source": "GPL-3.0",
+        "source_url": "https://github.com/eliranwong/LXX-Swete-1930/blob/1d3efc3c63bd384a4f3f07ed37eef54b0d45ac33/01-Swete_word_with_punctuations.csv",
+        "license_url": "https://www.gnu.org/licenses/gpl-3.0.html",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "GPL-3.0",
+        "alignment_license": "GPL-3.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 GPL-3.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "익명",
+        "work": "시편 151편",
+        "reference": "151.2",
+        "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:4e14a075febdd5bbb16a3842b178dcb98267c499d8f5cbf942745643d4ffa2c8",
+        "fixed_path": "releases/public-0.33/works/ps151/index.html#p-151-2"
+      }
+    },
+    {
+      "ref": "151.3",
+      "chapter": 151,
+      "verse": 3,
+      "original": "καὶ τίς ἀναγγελεῖ τῷ κυρίῳ μου; αὐτὸς Κύριος, αὐτὸς εἰσακούει.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:e1b730878f31d8ed04dabd37d55bd7a72ffd40b58599e5e9622fe3c34b0bbbed",
+      "source_file_sha256": "5cdeb6c993ff2883485b5c2006340bfd711a5d67b84f59aafac4e1caa4f6fbf4",
+      "reference_file_sha256": "39f71aabe259e3878a6d98df02f56eca8d62b1712491601f3812c81c9a1d3c6b",
+      "source_locator": {
+        "word_start": 326731,
+        "word_end_exclusive": 326741,
+        "reference_label": "Psa.151:3"
+      },
+      "psalm": 151,
+      "korean": "누가 나의 주님께 알리겠는가? 주님 자신이, 바로 그분이 들으신다.",
+      "translation_revision": "sha256:152a489d6d80e8ba246ce34c4ab05e0b4414f2f204ba67df20a263423b7484f9",
+      "groups": [
+        {
+          "id": "a-fca56aa5693513ccaa27",
+          "source_range": [
+            0,
+            31
+          ],
+          "ko_range": [
+            0,
+            16
+          ],
+          "source_text": "καὶ τίς ἀναγγελεῖ τῷ κυρίῳ μου;",
+          "ko_text": "누가 나의 주님께 알리겠는가?"
+        },
+        {
+          "id": "a-65344a6c93a37190eebb",
+          "source_range": [
+            32,
+            62
+          ],
+          "ko_range": [
+            17,
+            37
+          ],
+          "source_text": "αὐτὸς Κύριος, αὐτὸς εἰσακούει.",
+          "ko_text": "주님 자신이, 바로 그분이 들으신다."
+        }
+      ],
+      "notes": [
+        "그리스어는 누가 나의 주님께 알리겠는가라고 묻고, 주님 자신이 들으신다고 답한다. 사람의 보고보다 주님의 직접 들으심을 강조한다."
+      ],
+      "work_passage_id": "ps151:151.3",
+      "html_path": "works/ps151/index.html#p-151-3",
+      "fixed_html_path": "releases/public-0.33/works/ps151/index.html#p-151-3",
+      "alignment_revision": "sha256:51d973995896cc81a20bbddaebdbc9e19a8d93bc3104a2e60e29904861e30cbf",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_word_table_extraction",
+        "targets": {
+          "source_revision": "sha256:e1b730878f31d8ed04dabd37d55bd7a72ffd40b58599e5e9622fe3c34b0bbbed",
+          "translation_revision": "sha256:152a489d6d80e8ba246ce34c4ab05e0b4414f2f204ba67df20a263423b7484f9",
+          "alignment_revision": "sha256:51d973995896cc81a20bbddaebdbc9e19a8d93bc3104a2e60e29904861e30cbf"
+        },
+        "scoped_ai_review": {
+          "id": "ps151-addition-20261003",
+          "scope": "시편 151편 151.1-151.7 7절 전체",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:e1b730878f31d8ed04dabd37d55bd7a72ffd40b58599e5e9622fe3c34b0bbbed",
+            "translation_revision": "sha256:152a489d6d80e8ba246ce34c4ab05e0b4414f2f204ba67df20a263423b7484f9",
+            "alignment_revision": "sha256:51d973995896cc81a20bbddaebdbc9e19a8d93bc3104a2e60e29904861e30cbf"
+          }
+        }
+      },
+      "rights": {
+        "source": "GPL-3.0",
+        "source_url": "https://github.com/eliranwong/LXX-Swete-1930/blob/1d3efc3c63bd384a4f3f07ed37eef54b0d45ac33/01-Swete_word_with_punctuations.csv",
+        "license_url": "https://www.gnu.org/licenses/gpl-3.0.html",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "GPL-3.0",
+        "alignment_license": "GPL-3.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 GPL-3.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "익명",
+        "work": "시편 151편",
+        "reference": "151.3",
+        "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:152a489d6d80e8ba246ce34c4ab05e0b4414f2f204ba67df20a263423b7484f9",
+        "fixed_path": "releases/public-0.33/works/ps151/index.html#p-151-3"
+      }
+    },
+    {
+      "ref": "151.4",
+      "chapter": 151,
+      "verse": 4,
+      "original": "αὐτὸς ἐξαπέστειλεν τὸν ἄγγελον αὐτοῦ, καὶ ἦρέν με ἐκ τῶν προβάτων τοῦ πατρός μου, καὶ ἔχρισέν με ἐν τῷ ἐλαίῳ τῆς χρίσεως αὐτοῦ.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:54086e9956960060d2b99268265e1f802468a195e5e31e68c5cb83aabaeca84c",
+      "source_file_sha256": "5cdeb6c993ff2883485b5c2006340bfd711a5d67b84f59aafac4e1caa4f6fbf4",
+      "reference_file_sha256": "39f71aabe259e3878a6d98df02f56eca8d62b1712491601f3812c81c9a1d3c6b",
+      "source_locator": {
+        "word_start": 326741,
+        "word_end_exclusive": 326764,
+        "reference_label": "Psa.151:4"
+      },
+      "psalm": 151,
+      "korean": "그분이 자기 사자를 보내셨고, 아버지의 양들 가운데서 나를 데려오셨으며, 그분의 기름붓는 기름으로 내게 기름을 부으셨다.",
+      "translation_revision": "sha256:d927a60600b792c847f43654bcf9760d2af6e6ee59199f3c518246a669569563",
+      "groups": [
+        {
+          "id": "a-7a82eb76b4e86f921378",
+          "source_range": [
+            0,
+            37
+          ],
+          "ko_range": [
+            0,
+            16
+          ],
+          "source_text": "αὐτὸς ἐξαπέστειλεν τὸν ἄγγελον αὐτοῦ,",
+          "ko_text": "그분이 자기 사자를 보내셨고,"
+        },
+        {
+          "id": "a-c45c3887f267dddf46d0",
+          "source_range": [
+            38,
+            81
+          ],
+          "ko_range": [
+            17,
+            40
+          ],
+          "source_text": "καὶ ἦρέν με ἐκ τῶν προβάτων τοῦ πατρός μου,",
+          "ko_text": "아버지의 양들 가운데서 나를 데려오셨으며,"
+        },
+        {
+          "id": "a-5f3beb90c7f0798521ab",
+          "source_range": [
+            82,
+            127
+          ],
+          "ko_range": [
+            41,
+            67
+          ],
+          "source_text": "καὶ ἔχρισέν με ἐν τῷ ἐλαίῳ τῆς χρίσεως αὐτοῦ.",
+          "ko_text": "그분의 기름붓는 기름으로 내게 기름을 부으셨다."
+        }
+      ],
+      "notes": [
+        "본문의 ἄγγελος는 사자를 뜻한다. 이 절은 그 사자가 누구인지 이름을 제시하지 않는다. 기름을 부으시는 주체는 이어지는 문장에서 주님이다."
+      ],
+      "work_passage_id": "ps151:151.4",
+      "html_path": "works/ps151/index.html#p-151-4",
+      "fixed_html_path": "releases/public-0.33/works/ps151/index.html#p-151-4",
+      "alignment_revision": "sha256:04f4245c8bf1b018db1a085637eec2aee0787931908d8805287cbbe045423f28",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_word_table_extraction",
+        "targets": {
+          "source_revision": "sha256:54086e9956960060d2b99268265e1f802468a195e5e31e68c5cb83aabaeca84c",
+          "translation_revision": "sha256:d927a60600b792c847f43654bcf9760d2af6e6ee59199f3c518246a669569563",
+          "alignment_revision": "sha256:04f4245c8bf1b018db1a085637eec2aee0787931908d8805287cbbe045423f28"
+        },
+        "scoped_ai_review": {
+          "id": "ps151-addition-20261003",
+          "scope": "시편 151편 151.1-151.7 7절 전체",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:54086e9956960060d2b99268265e1f802468a195e5e31e68c5cb83aabaeca84c",
+            "translation_revision": "sha256:d927a60600b792c847f43654bcf9760d2af6e6ee59199f3c518246a669569563",
+            "alignment_revision": "sha256:04f4245c8bf1b018db1a085637eec2aee0787931908d8805287cbbe045423f28"
+          }
+        }
+      },
+      "rights": {
+        "source": "GPL-3.0",
+        "source_url": "https://github.com/eliranwong/LXX-Swete-1930/blob/1d3efc3c63bd384a4f3f07ed37eef54b0d45ac33/01-Swete_word_with_punctuations.csv",
+        "license_url": "https://www.gnu.org/licenses/gpl-3.0.html",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "GPL-3.0",
+        "alignment_license": "GPL-3.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 GPL-3.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "익명",
+        "work": "시편 151편",
+        "reference": "151.4",
+        "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:d927a60600b792c847f43654bcf9760d2af6e6ee59199f3c518246a669569563",
+        "fixed_path": "releases/public-0.33/works/ps151/index.html#p-151-4"
+      }
+    },
+    {
+      "ref": "151.5",
+      "chapter": 151,
+      "verse": 5,
+      "original": "οἱ ἀδελφοί μου καλοὶ καὶ μεγάλοι, καὶ οὐκ εὐδόκησεν ἐν αὐτοῖς Κύριος.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:afb8f162255c9f2a7934fc209fce6b8521b92520fd311858657c6a1b867d7186",
+      "source_file_sha256": "5cdeb6c993ff2883485b5c2006340bfd711a5d67b84f59aafac4e1caa4f6fbf4",
+      "reference_file_sha256": "39f71aabe259e3878a6d98df02f56eca8d62b1712491601f3812c81c9a1d3c6b",
+      "source_locator": {
+        "word_start": 326764,
+        "word_end_exclusive": 326776,
+        "reference_label": "Psa.151:5"
+      },
+      "psalm": 151,
+      "korean": "내 형제들은 아름답고 컸지만, 주님은 그들을 기뻐하지 않으셨다.",
+      "translation_revision": "sha256:f61f237c906fe15b2e572ad765e975d8a0bb6ae407fa3aa2dbe67960f184870c",
+      "groups": [
+        {
+          "id": "a-7d972ef29528ea635087",
+          "source_range": [
+            0,
+            33
+          ],
+          "ko_range": [
+            0,
+            16
+          ],
+          "source_text": "οἱ ἀδελφοί μου καλοὶ καὶ μεγάλοι,",
+          "ko_text": "내 형제들은 아름답고 컸지만,"
+        },
+        {
+          "id": "a-1e69851cf43c283acbff",
+          "source_range": [
+            34,
+            69
+          ],
+          "ko_range": [
+            17,
+            35
+          ],
+          "source_text": "καὶ οὐκ εὐδόκησεν ἐν αὐτοῖς Κύριος.",
+          "ko_text": "주님은 그들을 기뻐하지 않으셨다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "ps151:151.5",
+      "html_path": "works/ps151/index.html#p-151-5",
+      "fixed_html_path": "releases/public-0.33/works/ps151/index.html#p-151-5",
+      "alignment_revision": "sha256:4b24563e0cabc6b675b6d89a348806a04ea7a5d0baf9c68d805b93e5af92b5d5",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_word_table_extraction",
+        "targets": {
+          "source_revision": "sha256:afb8f162255c9f2a7934fc209fce6b8521b92520fd311858657c6a1b867d7186",
+          "translation_revision": "sha256:f61f237c906fe15b2e572ad765e975d8a0bb6ae407fa3aa2dbe67960f184870c",
+          "alignment_revision": "sha256:4b24563e0cabc6b675b6d89a348806a04ea7a5d0baf9c68d805b93e5af92b5d5"
+        },
+        "scoped_ai_review": {
+          "id": "ps151-addition-20261003",
+          "scope": "시편 151편 151.1-151.7 7절 전체",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:afb8f162255c9f2a7934fc209fce6b8521b92520fd311858657c6a1b867d7186",
+            "translation_revision": "sha256:f61f237c906fe15b2e572ad765e975d8a0bb6ae407fa3aa2dbe67960f184870c",
+            "alignment_revision": "sha256:4b24563e0cabc6b675b6d89a348806a04ea7a5d0baf9c68d805b93e5af92b5d5"
+          }
+        }
+      },
+      "rights": {
+        "source": "GPL-3.0",
+        "source_url": "https://github.com/eliranwong/LXX-Swete-1930/blob/1d3efc3c63bd384a4f3f07ed37eef54b0d45ac33/01-Swete_word_with_punctuations.csv",
+        "license_url": "https://www.gnu.org/licenses/gpl-3.0.html",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "GPL-3.0",
+        "alignment_license": "GPL-3.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 GPL-3.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "익명",
+        "work": "시편 151편",
+        "reference": "151.5",
+        "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:f61f237c906fe15b2e572ad765e975d8a0bb6ae407fa3aa2dbe67960f184870c",
+        "fixed_path": "releases/public-0.33/works/ps151/index.html#p-151-5"
+      }
+    },
+    {
+      "ref": "151.6",
+      "chapter": 151,
+      "verse": 6,
+      "original": "ἐξῆλθον εἰς συνάντησιν τῷ ἀλλοφύλῳ, καὶ ἐπικατηράσατό με ἐν τοῖς εἰδώλοις αὐτοῦ·",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:62b2c5f32a6debb08acff519062617315a231bcb00be0f2228454a9370219da6",
+      "source_file_sha256": "5cdeb6c993ff2883485b5c2006340bfd711a5d67b84f59aafac4e1caa4f6fbf4",
+      "reference_file_sha256": "39f71aabe259e3878a6d98df02f56eca8d62b1712491601f3812c81c9a1d3c6b",
+      "source_locator": {
+        "word_start": 326776,
+        "word_end_exclusive": 326788,
+        "reference_label": "Psa.151:6"
+      },
+      "psalm": 151,
+      "korean": "나는 이방인을 맞으러 나갔고, 그는 자기 우상들을 들어 나를 저주했다.",
+      "translation_revision": "sha256:af7cddd2b6687ab3d27562c836bbbcf086c8dbc97ce424169b823c05d411ae21",
+      "groups": [
+        {
+          "id": "a-578a392d04b6d2a92937",
+          "source_range": [
+            0,
+            35
+          ],
+          "ko_range": [
+            0,
+            16
+          ],
+          "source_text": "ἐξῆλθον εἰς συνάντησιν τῷ ἀλλοφύλῳ,",
+          "ko_text": "나는 이방인을 맞으러 나갔고,"
+        },
+        {
+          "id": "a-a30de28b3a06650aa100",
+          "source_range": [
+            36,
+            80
+          ],
+          "ko_range": [
+            17,
+            39
+          ],
+          "source_text": "καὶ ἐπικατηράσατό με ἐν τοῖς εἰδώλοις αὐτοῦ·",
+          "ko_text": "그는 자기 우상들을 들어 나를 저주했다."
+        }
+      ],
+      "notes": [],
+      "work_passage_id": "ps151:151.6",
+      "html_path": "works/ps151/index.html#p-151-6",
+      "fixed_html_path": "releases/public-0.33/works/ps151/index.html#p-151-6",
+      "alignment_revision": "sha256:48877bc814167a9435f61186972f0e618f88805264ee2bd8dad853956014d311",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_word_table_extraction",
+        "targets": {
+          "source_revision": "sha256:62b2c5f32a6debb08acff519062617315a231bcb00be0f2228454a9370219da6",
+          "translation_revision": "sha256:af7cddd2b6687ab3d27562c836bbbcf086c8dbc97ce424169b823c05d411ae21",
+          "alignment_revision": "sha256:48877bc814167a9435f61186972f0e618f88805264ee2bd8dad853956014d311"
+        },
+        "scoped_ai_review": {
+          "id": "ps151-addition-20261003",
+          "scope": "시편 151편 151.1-151.7 7절 전체",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:62b2c5f32a6debb08acff519062617315a231bcb00be0f2228454a9370219da6",
+            "translation_revision": "sha256:af7cddd2b6687ab3d27562c836bbbcf086c8dbc97ce424169b823c05d411ae21",
+            "alignment_revision": "sha256:48877bc814167a9435f61186972f0e618f88805264ee2bd8dad853956014d311"
+          }
+        }
+      },
+      "rights": {
+        "source": "GPL-3.0",
+        "source_url": "https://github.com/eliranwong/LXX-Swete-1930/blob/1d3efc3c63bd384a4f3f07ed37eef54b0d45ac33/01-Swete_word_with_punctuations.csv",
+        "license_url": "https://www.gnu.org/licenses/gpl-3.0.html",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "GPL-3.0",
+        "alignment_license": "GPL-3.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 GPL-3.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "익명",
+        "work": "시편 151편",
+        "reference": "151.6",
+        "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:af7cddd2b6687ab3d27562c836bbbcf086c8dbc97ce424169b823c05d411ae21",
+        "fixed_path": "releases/public-0.33/works/ps151/index.html#p-151-6"
+      }
+    },
+    {
+      "ref": "151.7",
+      "chapter": 151,
+      "verse": 7,
+      "original": "ἐγὼ δὲ σπασάμενος τὴν παρ᾽ αὐτοῦ μάχαιραν ἀπεκεφάλισα αὐτόν, καὶ ἦρα ὄνειδος ἐξ υἱῶν Ἰσραήλ.",
+      "source_layer": "edited_body",
+      "source_language": "grc",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:7cbc342fe63c7f780a15de1eefc065bffb05802a6528b2cdf82ee6406a1756ec",
+      "source_file_sha256": "5cdeb6c993ff2883485b5c2006340bfd711a5d67b84f59aafac4e1caa4f6fbf4",
+      "reference_file_sha256": "39f71aabe259e3878a6d98df02f56eca8d62b1712491601f3812c81c9a1d3c6b",
+      "source_locator": {
+        "word_start": 326788,
+        "word_end_exclusive": 326803,
+        "reference_label": "Psa.151:7"
+      },
+      "psalm": 151,
+      "korean": "나는 그의 칼을 빼어 그의 머리를 베었고, 이스라엘 자손에게서 치욕을 없앴다.",
+      "translation_revision": "sha256:76a56fa4937b5ba57ca09e178f062bde0a2e4f161f805c22ac207f195c41b9d4",
+      "groups": [
+        {
+          "id": "a-cd623025dd52ec7c7c49",
+          "source_range": [
+            0,
+            41
+          ],
+          "ko_range": [
+            0,
+            11
+          ],
+          "source_text": "ἐγὼ δὲ σπασάμενος τὴν παρ᾽ αὐτοῦ μάχαιραν",
+          "ko_text": "나는 그의 칼을 빼어"
+        },
+        {
+          "id": "a-b93a3d63450fba7161eb",
+          "source_range": [
+            42,
+            60
+          ],
+          "ko_range": [
+            12,
+            23
+          ],
+          "source_text": "ἀπεκεφάλισα αὐτόν,",
+          "ko_text": "그의 머리를 베었고,"
+        },
+        {
+          "id": "a-ad803e9d59bf0bbe201e",
+          "source_range": [
+            61,
+            92
+          ],
+          "ko_range": [
+            24,
+            43
+          ],
+          "source_text": "καὶ ἦρα ὄνειδος ἐξ υἱῶν Ἰσραήλ.",
+          "ko_text": "이스라엘 자손에게서 치욕을 없앴다."
+        }
+      ],
+      "notes": [
+        "다윗의 마지막 행위는 골리앗의 칼로 머리를 베고 이스라엘의 치욕을 없앤 것이다. 이 자료에는 그리스어 7절과 표제 전체를 수록했다."
+      ],
+      "work_passage_id": "ps151:151.7",
+      "html_path": "works/ps151/index.html#p-151-7",
+      "fixed_html_path": "releases/public-0.33/works/ps151/index.html#p-151-7",
+      "alignment_revision": "sha256:cb57e19905ce27810437ac8343705e024aab66f7823dd12b511076282e08b9e5",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_word_table_extraction",
+        "targets": {
+          "source_revision": "sha256:7cbc342fe63c7f780a15de1eefc065bffb05802a6528b2cdf82ee6406a1756ec",
+          "translation_revision": "sha256:76a56fa4937b5ba57ca09e178f062bde0a2e4f161f805c22ac207f195c41b9d4",
+          "alignment_revision": "sha256:cb57e19905ce27810437ac8343705e024aab66f7823dd12b511076282e08b9e5"
+        },
+        "scoped_ai_review": {
+          "id": "ps151-addition-20261003",
+          "scope": "시편 151편 151.1-151.7 7절 전체",
+          "date": "2026-10-03",
+          "targets": {
+            "source_revision": "sha256:7cbc342fe63c7f780a15de1eefc065bffb05802a6528b2cdf82ee6406a1756ec",
+            "translation_revision": "sha256:76a56fa4937b5ba57ca09e178f062bde0a2e4f161f805c22ac207f195c41b9d4",
+            "alignment_revision": "sha256:cb57e19905ce27810437ac8343705e024aab66f7823dd12b511076282e08b9e5"
+          }
+        }
+      },
+      "rights": {
+        "source": "GPL-3.0",
+        "source_url": "https://github.com/eliranwong/LXX-Swete-1930/blob/1d3efc3c63bd384a4f3f07ed37eef54b0d45ac33/01-Swete_word_with_punctuations.csv",
+        "license_url": "https://www.gnu.org/licenses/gpl-3.0.html",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "GPL-3.0",
+        "alignment_license": "GPL-3.0",
+        "notice": "그리스어 전사, 한국어 번역, 번역 메모와 의미 대응은 GPL-3.0로 제공합니다. 한국어와 의미 대응은 Codex가 2026-10-03에 작성했습니다. 원문 출처와 변경 기록을 표시하고 같은 이용허락을 유지하세요."
+      },
+      "citation": {
+        "author": "익명",
+        "work": "시편 151편",
+        "reference": "151.7",
+        "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907.",
+        "release": "public-0.33",
+        "translation_revision": "sha256:76a56fa4937b5ba57ca09e178f062bde0a2e4f161f805c22ac207f195c41b9d4",
+        "fixed_path": "releases/public-0.33/works/ps151/index.html#p-151-7"
+      }
+    }
+  ],
+  "related": [],
+  "aliases": [
+    "시편 151편",
+    "Ps.151"
+  ],
+  "translationLicenseUrl": "https://www.gnu.org/licenses/gpl-3.0.html",
+  "sourceReferenceUrl": "https://github.com/eliranwong/LXX-Swete-1930/blob/1d3efc3c63bd384a4f3f07ed37eef54b0d45ac33/00-Swete_versification.csv",
+  "licenseEvidence": "https://github.com/eliranwong/LXX-Swete-1930/blob/1d3efc3c63bd384a4f3f07ed37eef54b0d45ac33/LICENSE",
+  "sourceCommit": "1d3efc3c63bd384a4f3f07ed37eef54b0d45ac33",
+  "readerUrl": "https://archive.org/download/oldtestamenting02swet/oldtestamenting02swet.pdf",
+  "openAccessFullTextUrl": "https://archive.org/download/oldtestamenting02swet/oldtestamenting02swet.pdf",
+  "original_title": "Ψαλμὸς ρναʹ",
+  "display_title": "시편 151편",
+  "reference_scheme": "psalm_verse",
+  "coverage_label": "7절 전문",
+  "edition_id": "ps151-swete-1d3efc3c",
+  "source_file_sha256": "5cdeb6c993ff2883485b5c2006340bfd711a5d67b84f59aafac4e1caa4f6fbf4",
+  "display_author": "익명",
+  "scope": "시편 151편 151.1-151.7 7절 전체",
+  "coverage": "complete",
+  "release_id": "public-0.33",
+  "source_language": "grc",
+  "source_kind": "edited_ancient_original",
+  "human_reviewed": false,
+  "translation_method": "고정 원어 본문에서 직접 번역",
+  "html_path": "works/ps151/index.html",
+  "json_path": "data/works/ps151.json",
+  "fixed_html_path": "releases/public-0.33/works/ps151/index.html",
+  "source_profile": "ps151-swete-1d3efc3c",
+  "source_decisions": [
+    {
+      "kind": "source_selection",
+      "verified": "2026-10-03",
+      "scope": "시편 151편 151.1-151.7 7절 전체",
+      "source_url": "https://github.com/eliranwong/LXX-Swete-1930/blob/1d3efc3c63bd384a4f3f07ed37eef54b0d45ac33/01-Swete_word_with_punctuations.csv",
+      "license": "GPL-3.0",
+      "basis": "고정된 공개 원문 전사"
+    }
+  ],
+  "source_collations": [],
+  "validation_records": [
+    {
+      "id": "ps151-addition-20261003",
+      "scope": "시편 151편 151.1-151.7 7절 전체",
+      "date": "2026-10-03",
+      "reviewer_type": "AI",
+      "human_reviewed": false,
+      "reading_record_count": 7,
+      "meaning_groups": 17,
+      "methods": [
+        "선정 범위의 공개 그리스어 본문을 읽고 한국어와 의미 대응을 작성했다.",
+        "인칭, 인물, 수치와 화자, 절 경계의 문장 연결을 대조했다."
+      ],
+      "sources": [
+        {
+          "work": "ps151",
+          "url": "https://github.com/eliranwong/LXX-Swete-1930/blob/1d3efc3c63bd384a4f3f07ed37eef54b0d45ac33/01-Swete_word_with_punctuations.csv",
+          "verified": "2026-10-03",
+          "full_text": true,
+          "source_sha256": "5cdeb6c993ff2883485b5c2006340bfd711a5d67b84f59aafac4e1caa4f6fbf4",
+          "license": "GPL-3.0",
+          "license_evidence": "Pinned repository LICENSE",
+          "printed_pdf_url": "https://archive.org/download/oldtestamenting02swet/oldtestamenting02swet.pdf",
+          "status": 200,
+          "verification_evidence": "Pinned public raw word table fetched successfully; SHA256 matches canonical table",
+          "printed_pages": [
+            415
+          ],
+          "pdf_pages_read": [
+            435
+          ],
+          "open_access_full_text_url": "https://archive.org/download/oldtestamenting02swet/oldtestamenting02swet.pdf"
+        }
+      ],
+      "passages": [
+        {
+          "ref": "151.1",
+          "targets": {
+            "source_revision": "sha256:c249569a87dec317053999c332afcd552c0d0cc7c1702f176071cb3897d94ad7",
+            "translation_revision": "sha256:73c98737963f8d32f69a5cc66ebb4fb8a8b70daccf95731d43ae3207d4f50d66",
+            "alignment_revision": "sha256:c17eea34f42bd9e39feb88bda0ea13150d9692af9e7eeeff37c2e049d1d1a3e9"
+          }
+        },
+        {
+          "ref": "151.2",
+          "targets": {
+            "source_revision": "sha256:1ba95723d2e54ce9c6e3d02776cfb30d201ae2f07ba7a831a0f5addb517a101c",
+            "translation_revision": "sha256:4e14a075febdd5bbb16a3842b178dcb98267c499d8f5cbf942745643d4ffa2c8",
+            "alignment_revision": "sha256:59574fbfc125f693c9d4c06ce361e67c557d6549f1fd37768d78fe662c6b6e72"
+          }
+        },
+        {
+          "ref": "151.3",
+          "targets": {
+            "source_revision": "sha256:e1b730878f31d8ed04dabd37d55bd7a72ffd40b58599e5e9622fe3c34b0bbbed",
+            "translation_revision": "sha256:152a489d6d80e8ba246ce34c4ab05e0b4414f2f204ba67df20a263423b7484f9",
+            "alignment_revision": "sha256:51d973995896cc81a20bbddaebdbc9e19a8d93bc3104a2e60e29904861e30cbf"
+          }
+        },
+        {
+          "ref": "151.4",
+          "targets": {
+            "source_revision": "sha256:54086e9956960060d2b99268265e1f802468a195e5e31e68c5cb83aabaeca84c",
+            "translation_revision": "sha256:d927a60600b792c847f43654bcf9760d2af6e6ee59199f3c518246a669569563",
+            "alignment_revision": "sha256:04f4245c8bf1b018db1a085637eec2aee0787931908d8805287cbbe045423f28"
+          }
+        },
+        {
+          "ref": "151.5",
+          "targets": {
+            "source_revision": "sha256:afb8f162255c9f2a7934fc209fce6b8521b92520fd311858657c6a1b867d7186",
+            "translation_revision": "sha256:f61f237c906fe15b2e572ad765e975d8a0bb6ae407fa3aa2dbe67960f184870c",
+            "alignment_revision": "sha256:4b24563e0cabc6b675b6d89a348806a04ea7a5d0baf9c68d805b93e5af92b5d5"
+          }
+        },
+        {
+          "ref": "151.6",
+          "targets": {
+            "source_revision": "sha256:62b2c5f32a6debb08acff519062617315a231bcb00be0f2228454a9370219da6",
+            "translation_revision": "sha256:af7cddd2b6687ab3d27562c836bbbcf086c8dbc97ce424169b823c05d411ae21",
+            "alignment_revision": "sha256:48877bc814167a9435f61186972f0e618f88805264ee2bd8dad853956014d311"
+          }
+        },
+        {
+          "ref": "151.7",
+          "targets": {
+            "source_revision": "sha256:7cbc342fe63c7f780a15de1eefc065bffb05802a6528b2cdf82ee6406a1756ec",
+            "translation_revision": "sha256:76a56fa4937b5ba57ca09e178f062bde0a2e4f161f805c22ac207f195c41b9d4",
+            "alignment_revision": "sha256:cb57e19905ce27810437ac8343705e024aab66f7823dd12b511076282e08b9e5"
+          }
+        }
+      ]
+    }
+  ],
+  "publication_status": "public_review_edition"
+}
