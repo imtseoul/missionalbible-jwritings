@@ -114,7 +114,7 @@
       ],
       "work_passage_id": "joseph:1",
       "html_path": "works/joseph/index.html#p-1",
-      "fixed_html_path": "releases/public-0.35/works/joseph/index.html#p-1",
+      "fixed_html_path": "releases/public-0.35.1/works/joseph/index.html#p-1",
       "alignment_revision": "sha256:31fce9298a7e4e585e6d411358fd708f0091aafd74297ba7dd328e8c2e000ac7",
       "review_state": {
         "human_reviewed": false,
@@ -150,9 +150,9 @@
         "work": "요셉에 관하여",
         "reference": "1",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:2ceba45d034745bc2e8ceafbb063199502444569a5b625ca957d44a54271a90b",
-        "fixed_path": "releases/public-0.35/works/joseph/index.html#p-1"
+        "fixed_path": "releases/public-0.35.1/works/joseph/index.html#p-1"
       }
     },
     {
@@ -216,7 +216,7 @@
       ],
       "work_passage_id": "joseph:2",
       "html_path": "works/joseph/index.html#p-2",
-      "fixed_html_path": "releases/public-0.35/works/joseph/index.html#p-2",
+      "fixed_html_path": "releases/public-0.35.1/works/joseph/index.html#p-2",
       "alignment_revision": "sha256:2cd23c25331484ce260360fd1e6338ec111a6b6d8f697ad6462b1307b98b9d1c",
       "review_state": {
         "human_reviewed": false,
@@ -252,9 +252,9 @@
         "work": "요셉에 관하여",
         "reference": "2",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:7b32fc9d8b35e748ed925a46c1545607323fb81ca0b7d022f07da6a7184614b3",
-        "fixed_path": "releases/public-0.35/works/joseph/index.html#p-2"
+        "fixed_path": "releases/public-0.35.1/works/joseph/index.html#p-2"
       }
     },
     {
@@ -304,7 +304,7 @@
       "notes": [],
       "work_passage_id": "joseph:3",
       "html_path": "works/joseph/index.html#p-3",
-      "fixed_html_path": "releases/public-0.35/works/joseph/index.html#p-3",
+      "fixed_html_path": "releases/public-0.35.1/works/joseph/index.html#p-3",
       "alignment_revision": "sha256:1536b11ffb8c9c2b0b38a325faf80df9bd80e2bd747324928bd6d517df6b59d2",
       "review_state": {
         "human_reviewed": false,
@@ -340,9 +340,9 @@
         "work": "요셉에 관하여",
         "reference": "3",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:459959ecb50116eec7f3caaf7825144a55e7c010f6f69682a0539b9ae3a76ad5",
-        "fixed_path": "releases/public-0.35/works/joseph/index.html#p-3"
+        "fixed_path": "releases/public-0.35.1/works/joseph/index.html#p-3"
       }
     },
     {
@@ -405,7 +405,7 @@
       "notes": [],
       "work_passage_id": "joseph:4",
       "html_path": "works/joseph/index.html#p-4",
-      "fixed_html_path": "releases/public-0.35/works/joseph/index.html#p-4",
+      "fixed_html_path": "releases/public-0.35.1/works/joseph/index.html#p-4",
       "alignment_revision": "sha256:be9c762b37edbdac11c45593d44d4c33bc3b30c9d135e6b61bd7afdc033e38c6",
       "review_state": {
         "human_reviewed": false,
@@ -441,9 +441,9 @@
         "work": "요셉에 관하여",
         "reference": "4",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:f250268604d1df5d4b69deca5b25119de3651589611d9f1f5abee1af0b1cd372",
-        "fixed_path": "releases/public-0.35/works/joseph/index.html#p-4"
+        "fixed_path": "releases/public-0.35.1/works/joseph/index.html#p-4"
       }
     },
     {
@@ -532,7 +532,7 @@
       "notes": [],
       "work_passage_id": "joseph:5",
       "html_path": "works/joseph/index.html#p-5",
-      "fixed_html_path": "releases/public-0.35/works/joseph/index.html#p-5",
+      "fixed_html_path": "releases/public-0.35.1/works/joseph/index.html#p-5",
       "alignment_revision": "sha256:a3517e7d9981fa0f683c1011c1ca59ea3055b50bf68341a8bb1d65d864c0dfcc",
       "review_state": {
         "human_reviewed": false,
@@ -568,9 +568,9 @@
         "work": "요셉에 관하여",
         "reference": "5",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:efd09755dd0598d23b1cf2402a1e4f17d4170cb393845c0573ea5452280a741a",
-        "fixed_path": "releases/public-0.35/works/joseph/index.html#p-5"
+        "fixed_path": "releases/public-0.35.1/works/joseph/index.html#p-5"
       }
     },
     {
@@ -646,7 +646,7 @@
       "notes": [],
       "work_passage_id": "joseph:6",
       "html_path": "works/joseph/index.html#p-6",
-      "fixed_html_path": "releases/public-0.35/works/joseph/index.html#p-6",
+      "fixed_html_path": "releases/public-0.35.1/works/joseph/index.html#p-6",
       "alignment_revision": "sha256:0fa587c6ef71ffb9e456f85ec7f0aec3d32228e911c5aad41ab4f93558167408",
       "review_state": {
         "human_reviewed": false,
@@ -682,9 +682,9 @@
         "work": "요셉에 관하여",
         "reference": "6",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:2349cb6861ab0b3e400bba9b544cdd78ccba8046e30fb87a7a5ea555629ec3e2",
-        "fixed_path": "releases/public-0.35/works/joseph/index.html#p-6"
+        "fixed_path": "releases/public-0.35.1/works/joseph/index.html#p-6"
       }
     },
     {
@@ -760,7 +760,7 @@
       "notes": [],
       "work_passage_id": "joseph:7",
       "html_path": "works/joseph/index.html#p-7",
-      "fixed_html_path": "releases/public-0.35/works/joseph/index.html#p-7",
+      "fixed_html_path": "releases/public-0.35.1/works/joseph/index.html#p-7",
       "alignment_revision": "sha256:ae2556af2a2924e015f0b6d3077dcc1ef7cffd57c2a954ab6141b6c7b8f94ecf",
       "review_state": {
         "human_reviewed": false,
@@ -796,9 +796,9 @@
         "work": "요셉에 관하여",
         "reference": "7",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:5d7328d8f2fbcd9787838e18fdf38b4096515a29c9c9be1f8af1957d83168c9d",
-        "fixed_path": "releases/public-0.35/works/joseph/index.html#p-7"
+        "fixed_path": "releases/public-0.35.1/works/joseph/index.html#p-7"
       }
     },
     {
@@ -861,7 +861,7 @@
       "notes": [],
       "work_passage_id": "joseph:8",
       "html_path": "works/joseph/index.html#p-8",
-      "fixed_html_path": "releases/public-0.35/works/joseph/index.html#p-8",
+      "fixed_html_path": "releases/public-0.35.1/works/joseph/index.html#p-8",
       "alignment_revision": "sha256:a22e0a6eff2a605a9195b3018d7c57754a4e716571a4bf564b95cd8e9371fc5b",
       "review_state": {
         "human_reviewed": false,
@@ -897,9 +897,9 @@
         "work": "요셉에 관하여",
         "reference": "8",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:cd2a8e5a1844cdd76690dacf55907f7c4e13bc1ebfd3aea312171607c459c9f0",
-        "fixed_path": "releases/public-0.35/works/joseph/index.html#p-8"
+        "fixed_path": "releases/public-0.35.1/works/joseph/index.html#p-8"
       }
     },
     {
@@ -977,7 +977,7 @@
       ],
       "work_passage_id": "joseph:9",
       "html_path": "works/joseph/index.html#p-9",
-      "fixed_html_path": "releases/public-0.35/works/joseph/index.html#p-9",
+      "fixed_html_path": "releases/public-0.35.1/works/joseph/index.html#p-9",
       "alignment_revision": "sha256:dd87286006ee3422ae2ec1a4b73c7072a2e09df0d718bb1526e741ddee2ee801",
       "review_state": {
         "human_reviewed": false,
@@ -1013,9 +1013,9 @@
         "work": "요셉에 관하여",
         "reference": "9",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:042f8a61b7e9197a057e4585c93f2d43c0a40ac3f52f6b25d6d0bfbc73722336",
-        "fixed_path": "releases/public-0.35/works/joseph/index.html#p-9"
+        "fixed_path": "releases/public-0.35.1/works/joseph/index.html#p-9"
       }
     },
     {
@@ -1091,7 +1091,7 @@
       "notes": [],
       "work_passage_id": "joseph:10",
       "html_path": "works/joseph/index.html#p-10",
-      "fixed_html_path": "releases/public-0.35/works/joseph/index.html#p-10",
+      "fixed_html_path": "releases/public-0.35.1/works/joseph/index.html#p-10",
       "alignment_revision": "sha256:378fcba74c93b32ec2c417b60416f992efc360ff8f69fe31954a7a82cba382f9",
       "review_state": {
         "human_reviewed": false,
@@ -1127,9 +1127,9 @@
         "work": "요셉에 관하여",
         "reference": "10",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:33c235e22df4433308230a7d0668ec2225d51c835a74d6653b0e90553b548f37",
-        "fixed_path": "releases/public-0.35/works/joseph/index.html#p-10"
+        "fixed_path": "releases/public-0.35.1/works/joseph/index.html#p-10"
       }
     },
     {
@@ -1179,7 +1179,7 @@
       "notes": [],
       "work_passage_id": "joseph:11",
       "html_path": "works/joseph/index.html#p-11",
-      "fixed_html_path": "releases/public-0.35/works/joseph/index.html#p-11",
+      "fixed_html_path": "releases/public-0.35.1/works/joseph/index.html#p-11",
       "alignment_revision": "sha256:dc2417c7473024c5c7b9534879ff3360b26ede7d786d92cd18295e802ad484f0",
       "review_state": {
         "human_reviewed": false,
@@ -1215,9 +1215,9 @@
         "work": "요셉에 관하여",
         "reference": "11",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:0dc339e0ee793d2749c50dba67b52293a74a443c34f836683ea8072ce173a176",
-        "fixed_path": "releases/public-0.35/works/joseph/index.html#p-11"
+        "fixed_path": "releases/public-0.35.1/works/joseph/index.html#p-11"
       }
     },
     {
@@ -1332,7 +1332,7 @@
       "notes": [],
       "work_passage_id": "joseph:12",
       "html_path": "works/joseph/index.html#p-12",
-      "fixed_html_path": "releases/public-0.35/works/joseph/index.html#p-12",
+      "fixed_html_path": "releases/public-0.35.1/works/joseph/index.html#p-12",
       "alignment_revision": "sha256:27cc94616e88c1c79d24a1da89e0d107e6f325b45861062e45cca49e2e275afd",
       "review_state": {
         "human_reviewed": false,
@@ -1368,9 +1368,9 @@
         "work": "요셉에 관하여",
         "reference": "12",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:7c88dfde6396506d1a11df960ed798fa6bdf6ddf0fbf5f6aa394975725f48058",
-        "fixed_path": "releases/public-0.35/works/joseph/index.html#p-12"
+        "fixed_path": "releases/public-0.35.1/works/joseph/index.html#p-12"
       }
     },
     {
@@ -1448,7 +1448,7 @@
       ],
       "work_passage_id": "joseph:13",
       "html_path": "works/joseph/index.html#p-13",
-      "fixed_html_path": "releases/public-0.35/works/joseph/index.html#p-13",
+      "fixed_html_path": "releases/public-0.35.1/works/joseph/index.html#p-13",
       "alignment_revision": "sha256:3fb2eebfaf821e4b264bbef1fc94ed9a42327605f4d55c3bb7c28cbd8abf56a4",
       "review_state": {
         "human_reviewed": false,
@@ -1484,9 +1484,9 @@
         "work": "요셉에 관하여",
         "reference": "13",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:497e51a2455ad48135dfabb29793899f3b9ebed1ea2f0b595df01f10865fa61e",
-        "fixed_path": "releases/public-0.35/works/joseph/index.html#p-13"
+        "fixed_path": "releases/public-0.35.1/works/joseph/index.html#p-13"
       }
     },
     {
@@ -1564,7 +1564,7 @@
       ],
       "work_passage_id": "joseph:14",
       "html_path": "works/joseph/index.html#p-14",
-      "fixed_html_path": "releases/public-0.35/works/joseph/index.html#p-14",
+      "fixed_html_path": "releases/public-0.35.1/works/joseph/index.html#p-14",
       "alignment_revision": "sha256:6975ec5d18397d3229d5b81de44832e60c031b3e22cf5e6c6ae265a112ee67dc",
       "review_state": {
         "human_reviewed": false,
@@ -1600,9 +1600,9 @@
         "work": "요셉에 관하여",
         "reference": "14",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:b27aaec4960d5bec14af328ce409f92603adde189e4dbc49586f932c1c87dfdc",
-        "fixed_path": "releases/public-0.35/works/joseph/index.html#p-14"
+        "fixed_path": "releases/public-0.35.1/works/joseph/index.html#p-14"
       }
     },
     {
@@ -1691,7 +1691,7 @@
       "notes": [],
       "work_passage_id": "joseph:15",
       "html_path": "works/joseph/index.html#p-15",
-      "fixed_html_path": "releases/public-0.35/works/joseph/index.html#p-15",
+      "fixed_html_path": "releases/public-0.35.1/works/joseph/index.html#p-15",
       "alignment_revision": "sha256:32f89c53dce1bb5761d1a98c24d4362277cd4f485916fa6f9413a44361d538cf",
       "review_state": {
         "human_reviewed": false,
@@ -1727,9 +1727,9 @@
         "work": "요셉에 관하여",
         "reference": "15",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:1de8a865f7f33878fa7a235ff6d203db7ef73543df9e14200a852de4d6c0463f",
-        "fixed_path": "releases/public-0.35/works/joseph/index.html#p-15"
+        "fixed_path": "releases/public-0.35.1/works/joseph/index.html#p-15"
       }
     },
     {
@@ -1805,7 +1805,7 @@
       "notes": [],
       "work_passage_id": "joseph:16",
       "html_path": "works/joseph/index.html#p-16",
-      "fixed_html_path": "releases/public-0.35/works/joseph/index.html#p-16",
+      "fixed_html_path": "releases/public-0.35.1/works/joseph/index.html#p-16",
       "alignment_revision": "sha256:a05e72c2525e0f8a033ce21fd83e45403470ce19ebd68f9cf9857e2d6b7e398a",
       "review_state": {
         "human_reviewed": false,
@@ -1841,9 +1841,9 @@
         "work": "요셉에 관하여",
         "reference": "16",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:97331530b4d7a24c7e644d5006bd9a29a6476ec9e9cc944712b88dcd4328570d",
-        "fixed_path": "releases/public-0.35/works/joseph/index.html#p-16"
+        "fixed_path": "releases/public-0.35.1/works/joseph/index.html#p-16"
       }
     },
     {
@@ -1945,7 +1945,7 @@
       "notes": [],
       "work_passage_id": "joseph:17",
       "html_path": "works/joseph/index.html#p-17",
-      "fixed_html_path": "releases/public-0.35/works/joseph/index.html#p-17",
+      "fixed_html_path": "releases/public-0.35.1/works/joseph/index.html#p-17",
       "alignment_revision": "sha256:69163994a7e91b86f46ae229efe91bcafa7cd394cc7745583a39ccbab3bedadf",
       "review_state": {
         "human_reviewed": false,
@@ -1981,9 +1981,9 @@
         "work": "요셉에 관하여",
         "reference": "17",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:4910b886ae156e53c362c60e25033526a81dab7d3a1f1dc10682926045cd2688",
-        "fixed_path": "releases/public-0.35/works/joseph/index.html#p-17"
+        "fixed_path": "releases/public-0.35.1/works/joseph/index.html#p-17"
       }
     },
     {
@@ -2074,7 +2074,7 @@
       ],
       "work_passage_id": "joseph:18",
       "html_path": "works/joseph/index.html#p-18",
-      "fixed_html_path": "releases/public-0.35/works/joseph/index.html#p-18",
+      "fixed_html_path": "releases/public-0.35.1/works/joseph/index.html#p-18",
       "alignment_revision": "sha256:03d1dc6a3240421aa8fa5d98ac257487237adb9cac83e0b06de2471099322720",
       "review_state": {
         "human_reviewed": false,
@@ -2110,9 +2110,9 @@
         "work": "요셉에 관하여",
         "reference": "18",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:b249162eddcc3dfe29bdb34bfafa7ebfa4620383e1dc821cc5fb69f9ec5396be",
-        "fixed_path": "releases/public-0.35/works/joseph/index.html#p-18"
+        "fixed_path": "releases/public-0.35.1/works/joseph/index.html#p-18"
       }
     },
     {
@@ -2188,7 +2188,7 @@
       "notes": [],
       "work_passage_id": "joseph:19",
       "html_path": "works/joseph/index.html#p-19",
-      "fixed_html_path": "releases/public-0.35/works/joseph/index.html#p-19",
+      "fixed_html_path": "releases/public-0.35.1/works/joseph/index.html#p-19",
       "alignment_revision": "sha256:f19bbf9af6c842b29b2bcfcf57ca4e725c31b23090a190f90dd0b169a835e9bd",
       "review_state": {
         "human_reviewed": false,
@@ -2224,9 +2224,9 @@
         "work": "요셉에 관하여",
         "reference": "19",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:e1633086d8d442760161303d9f171565b97f6594e43aaa2860854f1081a58bd0",
-        "fixed_path": "releases/public-0.35/works/joseph/index.html#p-19"
+        "fixed_path": "releases/public-0.35.1/works/joseph/index.html#p-19"
       }
     },
     {
@@ -2341,7 +2341,7 @@
       "notes": [],
       "work_passage_id": "joseph:20",
       "html_path": "works/joseph/index.html#p-20",
-      "fixed_html_path": "releases/public-0.35/works/joseph/index.html#p-20",
+      "fixed_html_path": "releases/public-0.35.1/works/joseph/index.html#p-20",
       "alignment_revision": "sha256:91135754a68750cbb69ff85bc97c12ddcad135f75a4a8c5ca6341f26f77f420a",
       "review_state": {
         "human_reviewed": false,
@@ -2377,9 +2377,9 @@
         "work": "요셉에 관하여",
         "reference": "20",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:fa44af2c3f03ade01c1d73495410c1c7ce72099610453188f26536a152ef5a4f",
-        "fixed_path": "releases/public-0.35/works/joseph/index.html#p-20"
+        "fixed_path": "releases/public-0.35.1/works/joseph/index.html#p-20"
       }
     },
     {
@@ -2441,7 +2441,7 @@
       ],
       "work_passage_id": "joseph:21",
       "html_path": "works/joseph/index.html#p-21",
-      "fixed_html_path": "releases/public-0.35/works/joseph/index.html#p-21",
+      "fixed_html_path": "releases/public-0.35.1/works/joseph/index.html#p-21",
       "alignment_revision": "sha256:e0a0547dd86cbe12b93c0c4c520bfd131a165930c4b39d0e96fc8eb619546ba5",
       "review_state": {
         "human_reviewed": false,
@@ -2477,9 +2477,9 @@
         "work": "요셉에 관하여",
         "reference": "21",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:0fcd5c21ebe487dc492d0e43750a31d868d1410d7ce0d55cc004c94e9f557f8a",
-        "fixed_path": "releases/public-0.35/works/joseph/index.html#p-21"
+        "fixed_path": "releases/public-0.35.1/works/joseph/index.html#p-21"
       }
     },
     {
@@ -2568,7 +2568,7 @@
       "notes": [],
       "work_passage_id": "joseph:22",
       "html_path": "works/joseph/index.html#p-22",
-      "fixed_html_path": "releases/public-0.35/works/joseph/index.html#p-22",
+      "fixed_html_path": "releases/public-0.35.1/works/joseph/index.html#p-22",
       "alignment_revision": "sha256:d6dceb25a73c060797aa468b555ef978835427c3f6b27955aaec5c53c3b6a9ca",
       "review_state": {
         "human_reviewed": false,
@@ -2604,9 +2604,9 @@
         "work": "요셉에 관하여",
         "reference": "22",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:b7cf7227645265c9bc75ad4cd907177e722101c82d25416cbe9ce64e154664f0",
-        "fixed_path": "releases/public-0.35/works/joseph/index.html#p-22"
+        "fixed_path": "releases/public-0.35.1/works/joseph/index.html#p-22"
       }
     },
     {
@@ -2695,7 +2695,7 @@
       "notes": [],
       "work_passage_id": "joseph:23",
       "html_path": "works/joseph/index.html#p-23",
-      "fixed_html_path": "releases/public-0.35/works/joseph/index.html#p-23",
+      "fixed_html_path": "releases/public-0.35.1/works/joseph/index.html#p-23",
       "alignment_revision": "sha256:c9bdee7336b496a7989231456319a9561a386d795716f8410aa07dd31ac76115",
       "review_state": {
         "human_reviewed": false,
@@ -2731,9 +2731,9 @@
         "work": "요셉에 관하여",
         "reference": "23",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:8a0ee9a871e8fbf954abff84f03b41c3a2fb37735a8d5681be5cd6aebbb09ee1",
-        "fixed_path": "releases/public-0.35/works/joseph/index.html#p-23"
+        "fixed_path": "releases/public-0.35.1/works/joseph/index.html#p-23"
       }
     },
     {
@@ -2824,7 +2824,7 @@
       ],
       "work_passage_id": "joseph:24",
       "html_path": "works/joseph/index.html#p-24",
-      "fixed_html_path": "releases/public-0.35/works/joseph/index.html#p-24",
+      "fixed_html_path": "releases/public-0.35.1/works/joseph/index.html#p-24",
       "alignment_revision": "sha256:19ab85f8796173412c4a6c77bc3902c788040cccf97fc8d7fd1df8148ad9281f",
       "review_state": {
         "human_reviewed": false,
@@ -2860,9 +2860,9 @@
         "work": "요셉에 관하여",
         "reference": "24",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:a0a35736a0edbfb9b6e7fe47c82e78229895c1ab5963cebf0f4b4866f95d9a60",
-        "fixed_path": "releases/public-0.35/works/joseph/index.html#p-24"
+        "fixed_path": "releases/public-0.35.1/works/joseph/index.html#p-24"
       }
     },
     {
@@ -2977,7 +2977,7 @@
       "notes": [],
       "work_passage_id": "joseph:25",
       "html_path": "works/joseph/index.html#p-25",
-      "fixed_html_path": "releases/public-0.35/works/joseph/index.html#p-25",
+      "fixed_html_path": "releases/public-0.35.1/works/joseph/index.html#p-25",
       "alignment_revision": "sha256:d9142e22bc25a7859091a851d4f631090418f9fe664e26937d8dcaa1b4757e55",
       "review_state": {
         "human_reviewed": false,
@@ -3013,9 +3013,9 @@
         "work": "요셉에 관하여",
         "reference": "25",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:bcd39f24ef9a7250758bb98eb6edc210971dbf27aa71acb8c7510b9ff8fa746a",
-        "fixed_path": "releases/public-0.35/works/joseph/index.html#p-25"
+        "fixed_path": "releases/public-0.35.1/works/joseph/index.html#p-25"
       }
     },
     {
@@ -3130,7 +3130,7 @@
       "notes": [],
       "work_passage_id": "joseph:26",
       "html_path": "works/joseph/index.html#p-26",
-      "fixed_html_path": "releases/public-0.35/works/joseph/index.html#p-26",
+      "fixed_html_path": "releases/public-0.35.1/works/joseph/index.html#p-26",
       "alignment_revision": "sha256:96b5d7ad59405f01c50a2e7b557a0a704096702be3fb45a6336ea8104e333394",
       "review_state": {
         "human_reviewed": false,
@@ -3166,9 +3166,9 @@
         "work": "요셉에 관하여",
         "reference": "26",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:966d2949a037012603af3685b9a6c485039357252d04b6a6c528706ae32b2183",
-        "fixed_path": "releases/public-0.35/works/joseph/index.html#p-26"
+        "fixed_path": "releases/public-0.35.1/works/joseph/index.html#p-26"
       }
     },
     {
@@ -3272,7 +3272,7 @@
       ],
       "work_passage_id": "joseph:27",
       "html_path": "works/joseph/index.html#p-27",
-      "fixed_html_path": "releases/public-0.35/works/joseph/index.html#p-27",
+      "fixed_html_path": "releases/public-0.35.1/works/joseph/index.html#p-27",
       "alignment_revision": "sha256:164a971f083799e6e4eeba8d4334e2a7aaac6ce201ff0355bf4c4fc8aa9d056b",
       "review_state": {
         "human_reviewed": false,
@@ -3308,9 +3308,9 @@
         "work": "요셉에 관하여",
         "reference": "27",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:23981a80a8432e822a3114340167ecf305fd8dd0c7a01e5e97fb3cd44870701f",
-        "fixed_path": "releases/public-0.35/works/joseph/index.html#p-27"
+        "fixed_path": "releases/public-0.35.1/works/joseph/index.html#p-27"
       }
     },
     {
@@ -3424,7 +3424,7 @@
       ],
       "work_passage_id": "joseph:28",
       "html_path": "works/joseph/index.html#p-28",
-      "fixed_html_path": "releases/public-0.35/works/joseph/index.html#p-28",
+      "fixed_html_path": "releases/public-0.35.1/works/joseph/index.html#p-28",
       "alignment_revision": "sha256:9f49b4dc4546ff08f723ed33318fdc5b8f17dfc5f5eb292947bd47686052d25d",
       "review_state": {
         "human_reviewed": false,
@@ -3460,9 +3460,9 @@
         "work": "요셉에 관하여",
         "reference": "28",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:5358d82782ddfda8350d4dbd1968ad3f12f2b981b88c0da0ca7ee47547232404",
-        "fixed_path": "releases/public-0.35/works/joseph/index.html#p-28"
+        "fixed_path": "releases/public-0.35.1/works/joseph/index.html#p-28"
       }
     },
     {
@@ -3540,7 +3540,7 @@
       ],
       "work_passage_id": "joseph:29",
       "html_path": "works/joseph/index.html#p-29",
-      "fixed_html_path": "releases/public-0.35/works/joseph/index.html#p-29",
+      "fixed_html_path": "releases/public-0.35.1/works/joseph/index.html#p-29",
       "alignment_revision": "sha256:e99a11a9689d04771626c7f86c0604ca15557667d978d05838440dd124ba5e4a",
       "review_state": {
         "human_reviewed": false,
@@ -3576,9 +3576,9 @@
         "work": "요셉에 관하여",
         "reference": "29",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:863d1f753f0eb8cfbe7c44edcc3199e330d85b34c87933418419e01809d08ac7",
-        "fixed_path": "releases/public-0.35/works/joseph/index.html#p-29"
+        "fixed_path": "releases/public-0.35.1/works/joseph/index.html#p-29"
       }
     },
     {
@@ -3667,7 +3667,7 @@
       "notes": [],
       "work_passage_id": "joseph:30",
       "html_path": "works/joseph/index.html#p-30",
-      "fixed_html_path": "releases/public-0.35/works/joseph/index.html#p-30",
+      "fixed_html_path": "releases/public-0.35.1/works/joseph/index.html#p-30",
       "alignment_revision": "sha256:3ef2b2410f69df48237ba2edb82b1b5ae6f7bde85e549e02313dbf773e15dc61",
       "review_state": {
         "human_reviewed": false,
@@ -3703,9 +3703,9 @@
         "work": "요셉에 관하여",
         "reference": "30",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:8a987091c190f2ea1f3c36afabf84425642464ab7c69c02ef1a401ebb65d92fd",
-        "fixed_path": "releases/public-0.35/works/joseph/index.html#p-30"
+        "fixed_path": "releases/public-0.35.1/works/joseph/index.html#p-30"
       }
     },
     {
@@ -3755,7 +3755,7 @@
       "notes": [],
       "work_passage_id": "joseph:31",
       "html_path": "works/joseph/index.html#p-31",
-      "fixed_html_path": "releases/public-0.35/works/joseph/index.html#p-31",
+      "fixed_html_path": "releases/public-0.35.1/works/joseph/index.html#p-31",
       "alignment_revision": "sha256:76f1a822e1d11798bd75734df9cc68c1f7bdaca5c5509f7e8cac5da69cec95c0",
       "review_state": {
         "human_reviewed": false,
@@ -3791,9 +3791,9 @@
         "work": "요셉에 관하여",
         "reference": "31",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:70fd6651154e9ebf47e18c5bd68235f322ca7cffab15c113d74771cc8ade52d9",
-        "fixed_path": "releases/public-0.35/works/joseph/index.html#p-31"
+        "fixed_path": "releases/public-0.35.1/works/joseph/index.html#p-31"
       }
     },
     {
@@ -3869,7 +3869,7 @@
       "notes": [],
       "work_passage_id": "joseph:32",
       "html_path": "works/joseph/index.html#p-32",
-      "fixed_html_path": "releases/public-0.35/works/joseph/index.html#p-32",
+      "fixed_html_path": "releases/public-0.35.1/works/joseph/index.html#p-32",
       "alignment_revision": "sha256:23966d8bbc3f47121d886b5352fc34743a451b2dc17f83c841231446372157c3",
       "review_state": {
         "human_reviewed": false,
@@ -3905,9 +3905,9 @@
         "work": "요셉에 관하여",
         "reference": "32",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:a046d66e59ab043a27ce74439d14f42d8d31894ed8cad1f9935cb9d1bdcf630b",
-        "fixed_path": "releases/public-0.35/works/joseph/index.html#p-32"
+        "fixed_path": "releases/public-0.35.1/works/joseph/index.html#p-32"
       }
     },
     {
@@ -3983,7 +3983,7 @@
       "notes": [],
       "work_passage_id": "joseph:33",
       "html_path": "works/joseph/index.html#p-33",
-      "fixed_html_path": "releases/public-0.35/works/joseph/index.html#p-33",
+      "fixed_html_path": "releases/public-0.35.1/works/joseph/index.html#p-33",
       "alignment_revision": "sha256:9d8f13279ddcd9e9b4395e0098911a1560a2bc754e76a8cc618c85a28c2e2890",
       "review_state": {
         "human_reviewed": false,
@@ -4019,9 +4019,9 @@
         "work": "요셉에 관하여",
         "reference": "33",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:16bc55503acc8de8a29993a2abb419b0baff1c00d201b8df919b5e0a29df44fb",
-        "fixed_path": "releases/public-0.35/works/joseph/index.html#p-33"
+        "fixed_path": "releases/public-0.35.1/works/joseph/index.html#p-33"
       }
     },
     {
@@ -4123,7 +4123,7 @@
       "notes": [],
       "work_passage_id": "joseph:34",
       "html_path": "works/joseph/index.html#p-34",
-      "fixed_html_path": "releases/public-0.35/works/joseph/index.html#p-34",
+      "fixed_html_path": "releases/public-0.35.1/works/joseph/index.html#p-34",
       "alignment_revision": "sha256:07eebd55865eec683ba5a4d5d7c4d2738d3feddb16d37c35f6b4164e68d91f86",
       "review_state": {
         "human_reviewed": false,
@@ -4159,9 +4159,9 @@
         "work": "요셉에 관하여",
         "reference": "34",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:c7858411282c406a0906b0c8e49f6a534433b887c3f39ef50e4ce80113fcd051",
-        "fixed_path": "releases/public-0.35/works/joseph/index.html#p-34"
+        "fixed_path": "releases/public-0.35.1/works/joseph/index.html#p-34"
       }
     },
     {
@@ -4239,7 +4239,7 @@
       ],
       "work_passage_id": "joseph:35",
       "html_path": "works/joseph/index.html#p-35",
-      "fixed_html_path": "releases/public-0.35/works/joseph/index.html#p-35",
+      "fixed_html_path": "releases/public-0.35.1/works/joseph/index.html#p-35",
       "alignment_revision": "sha256:c9f413645f50c95237ca157f4cfaa5d394d3358087171879b5028177dec6668a",
       "review_state": {
         "human_reviewed": false,
@@ -4275,9 +4275,9 @@
         "work": "요셉에 관하여",
         "reference": "35",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:89220a1e9fd67ef8101f045234b0238d37c9216f4338d773fb6783a9e4046847",
-        "fixed_path": "releases/public-0.35/works/joseph/index.html#p-35"
+        "fixed_path": "releases/public-0.35.1/works/joseph/index.html#p-35"
       }
     },
     {
@@ -4366,7 +4366,7 @@
       "notes": [],
       "work_passage_id": "joseph:36",
       "html_path": "works/joseph/index.html#p-36",
-      "fixed_html_path": "releases/public-0.35/works/joseph/index.html#p-36",
+      "fixed_html_path": "releases/public-0.35.1/works/joseph/index.html#p-36",
       "alignment_revision": "sha256:0350a543fc9c43b68e3ebf7600eb4d40689907db005301c13d36d54fba434bca",
       "review_state": {
         "human_reviewed": false,
@@ -4402,9 +4402,9 @@
         "work": "요셉에 관하여",
         "reference": "36",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:f6613029bfb139337289a93cbe559cd8e7f97aa0149ec58dfe3e54eff0b7d4e4",
-        "fixed_path": "releases/public-0.35/works/joseph/index.html#p-36"
+        "fixed_path": "releases/public-0.35.1/works/joseph/index.html#p-36"
       }
     },
     {
@@ -4480,7 +4480,7 @@
       "notes": [],
       "work_passage_id": "joseph:37",
       "html_path": "works/joseph/index.html#p-37",
-      "fixed_html_path": "releases/public-0.35/works/joseph/index.html#p-37",
+      "fixed_html_path": "releases/public-0.35.1/works/joseph/index.html#p-37",
       "alignment_revision": "sha256:444a75209b96cab32b92238b09ec0ff2b9f9377c3bd939c43963328e5210f055",
       "review_state": {
         "human_reviewed": false,
@@ -4516,9 +4516,9 @@
         "work": "요셉에 관하여",
         "reference": "37",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:e4dc47f9cd76418ceab40d6613f41b8201672a134e2baa8faf74cefa52f674d8",
-        "fixed_path": "releases/public-0.35/works/joseph/index.html#p-37"
+        "fixed_path": "releases/public-0.35.1/works/joseph/index.html#p-37"
       }
     },
     {
@@ -4609,7 +4609,7 @@
       ],
       "work_passage_id": "joseph:38",
       "html_path": "works/joseph/index.html#p-38",
-      "fixed_html_path": "releases/public-0.35/works/joseph/index.html#p-38",
+      "fixed_html_path": "releases/public-0.35.1/works/joseph/index.html#p-38",
       "alignment_revision": "sha256:d8c0bff7fee60f67d80fb4940903349f34d127f20231b00aee986fe7da34fd83",
       "review_state": {
         "human_reviewed": false,
@@ -4645,9 +4645,9 @@
         "work": "요셉에 관하여",
         "reference": "38",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:2f3046e35ac998fce97a3864e0c51e3cc0b3dfab6985d40e4e1ee7bb7a403725",
-        "fixed_path": "releases/public-0.35/works/joseph/index.html#p-38"
+        "fixed_path": "releases/public-0.35.1/works/joseph/index.html#p-38"
       }
     },
     {
@@ -4710,7 +4710,7 @@
       "notes": [],
       "work_passage_id": "joseph:39",
       "html_path": "works/joseph/index.html#p-39",
-      "fixed_html_path": "releases/public-0.35/works/joseph/index.html#p-39",
+      "fixed_html_path": "releases/public-0.35.1/works/joseph/index.html#p-39",
       "alignment_revision": "sha256:bb39130b7f82327f492740038fb87941cde68a9d60529120b219dc48a1620992",
       "review_state": {
         "human_reviewed": false,
@@ -4746,9 +4746,9 @@
         "work": "요셉에 관하여",
         "reference": "39",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:a4e1423f0a264a7931bfc8c4aa4b3dbe44801872dd5db8d19e121d9ddc856eb0",
-        "fixed_path": "releases/public-0.35/works/joseph/index.html#p-39"
+        "fixed_path": "releases/public-0.35.1/works/joseph/index.html#p-39"
       }
     },
     {
@@ -4839,7 +4839,7 @@
       ],
       "work_passage_id": "joseph:40",
       "html_path": "works/joseph/index.html#p-40",
-      "fixed_html_path": "releases/public-0.35/works/joseph/index.html#p-40",
+      "fixed_html_path": "releases/public-0.35.1/works/joseph/index.html#p-40",
       "alignment_revision": "sha256:aec093ef588c2dccce28e3d8c7d48a212566173ab771ff6ed7a38ebc402f05ac",
       "review_state": {
         "human_reviewed": false,
@@ -4875,9 +4875,9 @@
         "work": "요셉에 관하여",
         "reference": "40",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:ca0b41f5fccf4b79b2192aa5803f8523794891a67716cda98e10d6c87c65bf71",
-        "fixed_path": "releases/public-0.35/works/joseph/index.html#p-40"
+        "fixed_path": "releases/public-0.35.1/works/joseph/index.html#p-40"
       }
     }
   ],
@@ -4902,14 +4902,14 @@
   "display_author": "필론",
   "scope": "요셉에 관하여 1-40절 전체, 41-270절 미수록",
   "coverage": "complete_scope",
-  "release_id": "public-0.35",
+  "release_id": "public-0.35.1",
   "source_language": "grc",
   "source_kind": "edited_ancient_original",
   "human_reviewed": false,
   "translation_method": "고정 원어 본문에서 직접 번역",
   "html_path": "works/joseph/index.html",
   "json_path": "data/works/joseph.json",
-  "fixed_html_path": "releases/public-0.35/works/joseph/index.html",
+  "fixed_html_path": "releases/public-0.35.1/works/joseph/index.html",
   "source_profile": "joseph-first1k-03776b39",
   "source_decisions": [
     {

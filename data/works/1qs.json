@@ -290,7 +290,7 @@
       ],
       "work_passage_id": "1qs:1.1-6",
       "html_path": "works/1qs/index.html#p-1-1-6",
-      "fixed_html_path": "releases/public-0.35/works/1qs/index.html#p-1-1-6",
+      "fixed_html_path": "releases/public-0.35.1/works/1qs/index.html#p-1-1-6",
       "alignment_revision": "sha256:54350facbcc2e99d1158ec7263c8cb2f28dcf0041ee58ab953e7b3055ca18178",
       "review_state": {
         "human_reviewed": false,
@@ -316,9 +316,9 @@
         "work": "공동체 규칙",
         "reference": "1.1-6",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QS 1-11열.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:792b1f797621e2b79503c40796d5d9b1d976348d2584aa720466bbd178ee800c",
-        "fixed_path": "releases/public-0.35/works/1qs/index.html#p-1-1-6"
+        "fixed_path": "releases/public-0.35.1/works/1qs/index.html#p-1-1-6"
       }
     },
     {
@@ -566,7 +566,7 @@
       "notes": [],
       "work_passage_id": "1qs:1.6-13",
       "html_path": "works/1qs/index.html#p-1-6-13",
-      "fixed_html_path": "releases/public-0.35/works/1qs/index.html#p-1-6-13",
+      "fixed_html_path": "releases/public-0.35.1/works/1qs/index.html#p-1-6-13",
       "alignment_revision": "sha256:49ec7bebf7d9558d784ccf222d4ac5d7508e0067312c7eeda102efa904194b75",
       "review_state": {
         "human_reviewed": false,
@@ -592,9 +592,9 @@
         "work": "공동체 규칙",
         "reference": "1.6-13",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QS 1-11열.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:ae8ce94aa9c12c2f0fd5a1e9a5866af9271898eabc0fa856997c4efc6897bdcf",
-        "fixed_path": "releases/public-0.35/works/1qs/index.html#p-1-6-13"
+        "fixed_path": "releases/public-0.35.1/works/1qs/index.html#p-1-6-13"
       }
     },
     {
@@ -806,7 +806,7 @@
       ],
       "work_passage_id": "1qs:1.13-18",
       "html_path": "works/1qs/index.html#p-1-13-18",
-      "fixed_html_path": "releases/public-0.35/works/1qs/index.html#p-1-13-18",
+      "fixed_html_path": "releases/public-0.35.1/works/1qs/index.html#p-1-13-18",
       "alignment_revision": "sha256:b431e64255e60c78f972c57511b42dcc161383c9187fb3015d1198488a9d489a",
       "review_state": {
         "human_reviewed": false,
@@ -832,9 +832,9 @@
         "work": "공동체 규칙",
         "reference": "1.13-18",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QS 1-11열.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:bf4c6756aac4837c63f8534a316ddf1a3dca51eb9014871a7db1a509fd3f0ba2",
-        "fixed_path": "releases/public-0.35/works/1qs/index.html#p-1-13-18"
+        "fixed_path": "releases/public-0.35.1/works/1qs/index.html#p-1-13-18"
       }
     },
     {
@@ -1243,7 +1243,7 @@
       ],
       "work_passage_id": "1qs:1.18-26",
       "html_path": "works/1qs/index.html#p-1-18-26",
-      "fixed_html_path": "releases/public-0.35/works/1qs/index.html#p-1-18-26",
+      "fixed_html_path": "releases/public-0.35.1/works/1qs/index.html#p-1-18-26",
       "alignment_revision": "sha256:27a52db4de829d4d273adf0222530ab17ac3b7aeb6f6cecde035bab10d974293",
       "review_state": {
         "human_reviewed": false,
@@ -1269,9 +1269,9 @@
         "work": "공동체 규칙",
         "reference": "1.18-26",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QS 1-11열.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:0a7cea2b00d4e605d6b5cdf49e8807665b71d5c47d210b9d525c0b4c0a506632",
-        "fixed_path": "releases/public-0.35/works/1qs/index.html#p-1-18-26"
+        "fixed_path": "releases/public-0.35.1/works/1qs/index.html#p-1-18-26"
       }
     },
     {
@@ -1488,7 +1488,7 @@
       ],
       "work_passage_id": "1qs:2.1-5",
       "html_path": "works/1qs/index.html#p-2-1-5",
-      "fixed_html_path": "releases/public-0.35/works/1qs/index.html#p-2-1-5",
+      "fixed_html_path": "releases/public-0.35.1/works/1qs/index.html#p-2-1-5",
       "alignment_revision": "sha256:46cb307b10684e75cae5be43db4b2b368bf5cf130d34728d61527406c0dd262a",
       "review_state": {
         "human_reviewed": false,
@@ -1514,9 +1514,9 @@
         "work": "공동체 규칙",
         "reference": "2.1-5",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QS 1-11열.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:ad6a26224998cf44961a7c2b6283187daacbb7544109b4cfe6f9256e00724a7f",
-        "fixed_path": "releases/public-0.35/works/1qs/index.html#p-2-1-5"
+        "fixed_path": "releases/public-0.35.1/works/1qs/index.html#p-2-1-5"
       }
     },
     {
@@ -1712,7 +1712,7 @@
       ],
       "work_passage_id": "1qs:2.5-10",
       "html_path": "works/1qs/index.html#p-2-5-10",
-      "fixed_html_path": "releases/public-0.35/works/1qs/index.html#p-2-5-10",
+      "fixed_html_path": "releases/public-0.35.1/works/1qs/index.html#p-2-5-10",
       "alignment_revision": "sha256:cecb02d4b7d2c1fa0558009c8a22ebcad9d90f50a23e6452b20cf63c6c2bce11",
       "review_state": {
         "human_reviewed": false,
@@ -1738,9 +1738,9 @@
         "work": "공동체 규칙",
         "reference": "2.5-10",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QS 1-11열.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:810d355506b7dd90be2c610e9daf6482e3a188f76c467f3b22ee042b0e0766a7",
-        "fixed_path": "releases/public-0.35/works/1qs/index.html#p-2-5-10"
+        "fixed_path": "releases/public-0.35.1/works/1qs/index.html#p-2-5-10"
       }
     },
     {
@@ -1993,7 +1993,7 @@
       ],
       "work_passage_id": "1qs:2.11-17",
       "html_path": "works/1qs/index.html#p-2-11-17",
-      "fixed_html_path": "releases/public-0.35/works/1qs/index.html#p-2-11-17",
+      "fixed_html_path": "releases/public-0.35.1/works/1qs/index.html#p-2-11-17",
       "alignment_revision": "sha256:607eae3f3c94fc5cbd635f297363bad79e0c212e893ac1ca580d4f673ef8af52",
       "review_state": {
         "human_reviewed": false,
@@ -2019,9 +2019,9 @@
         "work": "공동체 규칙",
         "reference": "2.11-17",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QS 1-11열.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:3358f7eb470f6ac72bd35b83eb692768c994391908473bd91cdc1b2113a50705",
-        "fixed_path": "releases/public-0.35/works/1qs/index.html#p-2-11-17"
+        "fixed_path": "releases/public-0.35.1/works/1qs/index.html#p-2-11-17"
       }
     },
     {
@@ -2242,7 +2242,7 @@
       "notes": [],
       "work_passage_id": "1qs:2.17-23",
       "html_path": "works/1qs/index.html#p-2-17-23",
-      "fixed_html_path": "releases/public-0.35/works/1qs/index.html#p-2-17-23",
+      "fixed_html_path": "releases/public-0.35.1/works/1qs/index.html#p-2-17-23",
       "alignment_revision": "sha256:ca70e3c5fc1a5a6c16625282337b86dccdce62b42e68e9c83ca7541809acfdc9",
       "review_state": {
         "human_reviewed": false,
@@ -2268,9 +2268,9 @@
         "work": "공동체 규칙",
         "reference": "2.17-23",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QS 1-11열.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:ebb03cd31fb79930e65f7132c3ce4ffff2b4c769562e51e5cddbbcde189a549c",
-        "fixed_path": "releases/public-0.35/works/1qs/index.html#p-2-17-23"
+        "fixed_path": "releases/public-0.35.1/works/1qs/index.html#p-2-17-23"
       }
     },
     {
@@ -2478,7 +2478,7 @@
       "notes": [],
       "work_passage_id": "1qs:2.23-3.1",
       "html_path": "works/1qs/index.html#p-2-23-3-1",
-      "fixed_html_path": "releases/public-0.35/works/1qs/index.html#p-2-23-3-1",
+      "fixed_html_path": "releases/public-0.35.1/works/1qs/index.html#p-2-23-3-1",
       "alignment_revision": "sha256:2b91f1bcb325e1ea6e0b0110ac590c96909de094f6448bcd3d2a9f5fc406f4e9",
       "review_state": {
         "human_reviewed": false,
@@ -2504,9 +2504,9 @@
         "work": "공동체 규칙",
         "reference": "2.23-3.1",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QS 1-11열.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:1368a4d1c417ea6720f4d38b2091c3fa884e5796a206cf9389bbfdbc897de906",
-        "fixed_path": "releases/public-0.35/works/1qs/index.html#p-2-23-3-1"
+        "fixed_path": "releases/public-0.35.1/works/1qs/index.html#p-2-23-3-1"
       }
     },
     {
@@ -2736,7 +2736,7 @@
       ],
       "work_passage_id": "1qs:3.2-6",
       "html_path": "works/1qs/index.html#p-3-2-6",
-      "fixed_html_path": "releases/public-0.35/works/1qs/index.html#p-3-2-6",
+      "fixed_html_path": "releases/public-0.35.1/works/1qs/index.html#p-3-2-6",
       "alignment_revision": "sha256:09e64ab0ea1e4239a8c487085c91fcceec67da976134fc619829c193d7344a8f",
       "review_state": {
         "human_reviewed": false,
@@ -2762,9 +2762,9 @@
         "work": "공동체 규칙",
         "reference": "3.2-6",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QS 1-11열.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:655121324e91d80ff18c43f18a962cf6b1536db339eb63c4ae99bc8e0d86fb67",
-        "fixed_path": "releases/public-0.35/works/1qs/index.html#p-3-2-6"
+        "fixed_path": "releases/public-0.35.1/works/1qs/index.html#p-3-2-6"
       }
     },
     {
@@ -2958,7 +2958,7 @@
       "notes": [],
       "work_passage_id": "1qs:3.6-11",
       "html_path": "works/1qs/index.html#p-3-6-11",
-      "fixed_html_path": "releases/public-0.35/works/1qs/index.html#p-3-6-11",
+      "fixed_html_path": "releases/public-0.35.1/works/1qs/index.html#p-3-6-11",
       "alignment_revision": "sha256:d5cc75d24125c1b1b12f1b96f3ee7a4a38537bb2eaacba9d0d2dae3e5404eacd",
       "review_state": {
         "human_reviewed": false,
@@ -2984,9 +2984,9 @@
         "work": "공동체 규칙",
         "reference": "3.6-11",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QS 1-11열.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:3074baa6505c664757b232e7dae2d5fde8ec62555e56f1ff30298e1d1658eaa3",
-        "fixed_path": "releases/public-0.35/works/1qs/index.html#p-3-6-11"
+        "fixed_path": "releases/public-0.35.1/works/1qs/index.html#p-3-6-11"
       }
     },
     {
@@ -3170,7 +3170,7 @@
       ],
       "work_passage_id": "1qs:3.11-16",
       "html_path": "works/1qs/index.html#p-3-11-16",
-      "fixed_html_path": "releases/public-0.35/works/1qs/index.html#p-3-11-16",
+      "fixed_html_path": "releases/public-0.35.1/works/1qs/index.html#p-3-11-16",
       "alignment_revision": "sha256:1bbcc2ec0250a70313c9326368dc583a946d0bd48ed2f3812b2b32785772061b",
       "review_state": {
         "human_reviewed": false,
@@ -3212,9 +3212,9 @@
         "work": "공동체 규칙",
         "reference": "3.11-16",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QS 1-11열.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:f5b485d8a9f2e8512c567058c431b15794cc80edf3e0761fe38c0c5af7d28add",
-        "fixed_path": "releases/public-0.35/works/1qs/index.html#p-3-11-16"
+        "fixed_path": "releases/public-0.35.1/works/1qs/index.html#p-3-11-16"
       }
     },
     {
@@ -3424,7 +3424,7 @@
       ],
       "work_passage_id": "1qs:3.16-21",
       "html_path": "works/1qs/index.html#p-3-16-21",
-      "fixed_html_path": "releases/public-0.35/works/1qs/index.html#p-3-16-21",
+      "fixed_html_path": "releases/public-0.35.1/works/1qs/index.html#p-3-16-21",
       "alignment_revision": "sha256:bcb150325abdadb29edc81df118e60a5d94da1e8d7039e47f4b6ef5754d76267",
       "review_state": {
         "human_reviewed": false,
@@ -3468,9 +3468,9 @@
         "work": "공동체 규칙",
         "reference": "3.16-21",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QS 1-11열.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:e44a0afe00610b87153dce7f5f39b6852a1c5b8a33be1d341463a86203c34519",
-        "fixed_path": "releases/public-0.35/works/1qs/index.html#p-3-16-21"
+        "fixed_path": "releases/public-0.35.1/works/1qs/index.html#p-3-16-21"
       }
     },
     {
@@ -3771,7 +3771,7 @@
       ],
       "work_passage_id": "1qs:3.21-26",
       "html_path": "works/1qs/index.html#p-3-21-26",
-      "fixed_html_path": "releases/public-0.35/works/1qs/index.html#p-3-21-26",
+      "fixed_html_path": "releases/public-0.35.1/works/1qs/index.html#p-3-21-26",
       "alignment_revision": "sha256:eab2c84256018df439c52b117ff0fe992bc1931ef49b51d5ef8913a5d8267657",
       "review_state": {
         "human_reviewed": false,
@@ -3815,9 +3815,9 @@
         "work": "공동체 규칙",
         "reference": "3.21-26",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QS 1-11열.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:5475c3c49c0539ac9e48c362760566484cd205e01b24108c90da541cba19ad64",
-        "fixed_path": "releases/public-0.35/works/1qs/index.html#p-3-21-26"
+        "fixed_path": "releases/public-0.35.1/works/1qs/index.html#p-3-21-26"
       }
     },
     {
@@ -4125,7 +4125,7 @@
       "notes": [],
       "work_passage_id": "1qs:3.26-4.6",
       "html_path": "works/1qs/index.html#p-3-26-4-6",
-      "fixed_html_path": "releases/public-0.35/works/1qs/index.html#p-3-26-4-6",
+      "fixed_html_path": "releases/public-0.35.1/works/1qs/index.html#p-3-26-4-6",
       "alignment_revision": "sha256:76e7a302eb5cc6fb627dc923df66a2e5f1af73201629ef385070b77f4f6a20ec",
       "review_state": {
         "human_reviewed": false,
@@ -4170,9 +4170,9 @@
         "work": "공동체 규칙",
         "reference": "3.26-4.6",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QS 1-11열.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:fce7adfaf771e68c3deaf4d03755a8def866f1e9b670672872a8f52fed8547f5",
-        "fixed_path": "releases/public-0.35/works/1qs/index.html#p-3-26-4-6"
+        "fixed_path": "releases/public-0.35.1/works/1qs/index.html#p-3-26-4-6"
       }
     },
     {
@@ -4405,7 +4405,7 @@
       "notes": [],
       "work_passage_id": "1qs:4.6-11",
       "html_path": "works/1qs/index.html#p-4-6-11",
-      "fixed_html_path": "releases/public-0.35/works/1qs/index.html#p-4-6-11",
+      "fixed_html_path": "releases/public-0.35.1/works/1qs/index.html#p-4-6-11",
       "alignment_revision": "sha256:b7dd833fb607894b96df921c00c9bb8f94808babe7867f7f8fc378cb20b876f7",
       "review_state": {
         "human_reviewed": false,
@@ -4449,9 +4449,9 @@
         "work": "공동체 규칙",
         "reference": "4.6-11",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QS 1-11열.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:c04181943f1ed6a3d8a3e4e996971fb9c59ad59f53e7507bc71d7e6832c8b47c",
-        "fixed_path": "releases/public-0.35/works/1qs/index.html#p-4-6-11"
+        "fixed_path": "releases/public-0.35.1/works/1qs/index.html#p-4-6-11"
       }
     },
     {
@@ -4632,7 +4632,7 @@
       "notes": [],
       "work_passage_id": "1qs:4.11-16",
       "html_path": "works/1qs/index.html#p-4-11-16",
-      "fixed_html_path": "releases/public-0.35/works/1qs/index.html#p-4-11-16",
+      "fixed_html_path": "releases/public-0.35.1/works/1qs/index.html#p-4-11-16",
       "alignment_revision": "sha256:67e8463ea5437c5a26ad6dbbd5c3a4918d70db818a2ac7c308181d1e9fb9dd39",
       "review_state": {
         "human_reviewed": false,
@@ -4676,9 +4676,9 @@
         "work": "공동체 규칙",
         "reference": "4.11-16",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QS 1-11열.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:c1a501bd5ecd96732d656595f6cd04147c2f255f811c530de387fe4435b6da37",
-        "fixed_path": "releases/public-0.35/works/1qs/index.html#p-4-11-16"
+        "fixed_path": "releases/public-0.35.1/works/1qs/index.html#p-4-11-16"
       }
     },
     {
@@ -4870,7 +4870,7 @@
       ],
       "work_passage_id": "1qs:4.16-20",
       "html_path": "works/1qs/index.html#p-4-16-20",
-      "fixed_html_path": "releases/public-0.35/works/1qs/index.html#p-4-16-20",
+      "fixed_html_path": "releases/public-0.35.1/works/1qs/index.html#p-4-16-20",
       "alignment_revision": "sha256:1ea09f38a1e8c706030a2bab220af7301c97a8a6b963a3b50cdec37edc65f7af",
       "review_state": {
         "human_reviewed": false,
@@ -4913,9 +4913,9 @@
         "work": "공동체 규칙",
         "reference": "4.16-20",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QS 1-11열.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:7056407aa4b9b9eb7cba73b1f8f594c35c9006365d2aecce12afa95bda03017f",
-        "fixed_path": "releases/public-0.35/works/1qs/index.html#p-4-16-20"
+        "fixed_path": "releases/public-0.35.1/works/1qs/index.html#p-4-16-20"
       }
     },
     {
@@ -5111,7 +5111,7 @@
       ],
       "work_passage_id": "1qs:4.20-23",
       "html_path": "works/1qs/index.html#p-4-20-23",
-      "fixed_html_path": "releases/public-0.35/works/1qs/index.html#p-4-20-23",
+      "fixed_html_path": "releases/public-0.35.1/works/1qs/index.html#p-4-20-23",
       "alignment_revision": "sha256:3f6d5310acb5b169685f3f7b0679d33620cb5f4ae1778bf254d056ab002a5da0",
       "review_state": {
         "human_reviewed": false,
@@ -5153,9 +5153,9 @@
         "work": "공동체 규칙",
         "reference": "4.20-23",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QS 1-11열.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:6e8711afd697c3520fd9f32052629b7d6375a6a37402c859c55b2eeaeead57b1",
-        "fixed_path": "releases/public-0.35/works/1qs/index.html#p-4-20-23"
+        "fixed_path": "releases/public-0.35.1/works/1qs/index.html#p-4-20-23"
       }
     },
     {
@@ -5370,7 +5370,7 @@
       ],
       "work_passage_id": "1qs:4.23-26",
       "html_path": "works/1qs/index.html#p-4-23-26",
-      "fixed_html_path": "releases/public-0.35/works/1qs/index.html#p-4-23-26",
+      "fixed_html_path": "releases/public-0.35.1/works/1qs/index.html#p-4-23-26",
       "alignment_revision": "sha256:840b7269415ae1c882e1f566efdfebfd13743f1dc0cfddef8f984e9c4b1a15c2",
       "review_state": {
         "human_reviewed": false,
@@ -5412,9 +5412,9 @@
         "work": "공동체 규칙",
         "reference": "4.23-26",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QS 1-11열.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:a84098bc69c74c6b453d37e2a5b9fb82653bf1bc65276ee642674584d08ba7fc",
-        "fixed_path": "releases/public-0.35/works/1qs/index.html#p-4-23-26"
+        "fixed_path": "releases/public-0.35.1/works/1qs/index.html#p-4-23-26"
       }
     },
     {
@@ -5603,7 +5603,7 @@
       "notes": [],
       "work_passage_id": "1qs:4.26-5.3",
       "html_path": "works/1qs/index.html#p-4-26-5-3",
-      "fixed_html_path": "releases/public-0.35/works/1qs/index.html#p-4-26-5-3",
+      "fixed_html_path": "releases/public-0.35.1/works/1qs/index.html#p-4-26-5-3",
       "alignment_revision": "sha256:3dae1fdf99c06d0a2dab6e4cee3ceeaf6d38c1f9b13643f7519e92d05d777c9a",
       "review_state": {
         "human_reviewed": false,
@@ -5642,9 +5642,9 @@
         "work": "공동체 규칙",
         "reference": "4.26-5.3",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QS 1-11열.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:7d5201d4382ca64736c771be9cd103488c78365e4136fbc16b80e35b1b67d73c",
-        "fixed_path": "releases/public-0.35/works/1qs/index.html#p-4-26-5-3"
+        "fixed_path": "releases/public-0.35.1/works/1qs/index.html#p-4-26-5-3"
       }
     },
     {
@@ -5880,7 +5880,7 @@
       "notes": [],
       "work_passage_id": "1qs:5.3-7",
       "html_path": "works/1qs/index.html#p-5-3-7",
-      "fixed_html_path": "releases/public-0.35/works/1qs/index.html#p-5-3-7",
+      "fixed_html_path": "releases/public-0.35.1/works/1qs/index.html#p-5-3-7",
       "alignment_revision": "sha256:ed37d71fb1dd0627406fad4d38d1c28c5b00e735e35153f5e7185e10a8c6884a",
       "review_state": {
         "human_reviewed": false,
@@ -5906,9 +5906,9 @@
         "work": "공동체 규칙",
         "reference": "5.3-7",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QS 1-11열.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:f85c3a0b6e7bf3a2af7f7bffe155a9e8992a5e19c44ca91b793cb037294d30f6",
-        "fixed_path": "releases/public-0.35/works/1qs/index.html#p-5-3-7"
+        "fixed_path": "releases/public-0.35.1/works/1qs/index.html#p-5-3-7"
       }
     },
     {
@@ -6074,7 +6074,7 @@
       "notes": [],
       "work_passage_id": "1qs:5.7-10",
       "html_path": "works/1qs/index.html#p-5-7-10",
-      "fixed_html_path": "releases/public-0.35/works/1qs/index.html#p-5-7-10",
+      "fixed_html_path": "releases/public-0.35.1/works/1qs/index.html#p-5-7-10",
       "alignment_revision": "sha256:c8615190055087af4aba3cc8a90c499845b4e6ffbc5db47d1b3ed274e3cff1fd",
       "review_state": {
         "human_reviewed": false,
@@ -6100,9 +6100,9 @@
         "work": "공동체 규칙",
         "reference": "5.7-10",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QS 1-11열.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:d2547182681fec3d4add292f56b2966f0e4a865823aa83ee12163e4506fe08c6",
-        "fixed_path": "releases/public-0.35/works/1qs/index.html#p-5-7-10"
+        "fixed_path": "releases/public-0.35.1/works/1qs/index.html#p-5-7-10"
       }
     },
     {
@@ -6264,7 +6264,7 @@
       "notes": [],
       "work_passage_id": "1qs:5.10-13",
       "html_path": "works/1qs/index.html#p-5-10-13",
-      "fixed_html_path": "releases/public-0.35/works/1qs/index.html#p-5-10-13",
+      "fixed_html_path": "releases/public-0.35.1/works/1qs/index.html#p-5-10-13",
       "alignment_revision": "sha256:50fd3fe94bcd8a84ce64ee5718089a6a5ff15e1121b5fcce7b6ade81d9270f31",
       "review_state": {
         "human_reviewed": false,
@@ -6290,9 +6290,9 @@
         "work": "공동체 규칙",
         "reference": "5.10-13",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QS 1-11열.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:39ca33440b56d97aed8f080aa2e7af8f04ca95c6d95a5991b33b71cf011dba50",
-        "fixed_path": "releases/public-0.35/works/1qs/index.html#p-5-10-13"
+        "fixed_path": "releases/public-0.35.1/works/1qs/index.html#p-5-10-13"
       }
     },
     {
@@ -6496,7 +6496,7 @@
       ],
       "work_passage_id": "1qs:5.13-17",
       "html_path": "works/1qs/index.html#p-5-13-17",
-      "fixed_html_path": "releases/public-0.35/works/1qs/index.html#p-5-13-17",
+      "fixed_html_path": "releases/public-0.35.1/works/1qs/index.html#p-5-13-17",
       "alignment_revision": "sha256:3ef4d2f4c1eb15befb8563d38b4da2ea05a1679761306aadd76bf6c521f372f5",
       "review_state": {
         "human_reviewed": false,
@@ -6522,9 +6522,9 @@
         "work": "공동체 규칙",
         "reference": "5.13-17",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QS 1-11열.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:669465aaed45388c69dac7d39e118b6c93082c6cde83fc74a4340a19a84a5c05",
-        "fixed_path": "releases/public-0.35/works/1qs/index.html#p-5-13-17"
+        "fixed_path": "releases/public-0.35.1/works/1qs/index.html#p-5-13-17"
       }
     },
     {
@@ -6748,7 +6748,7 @@
       "notes": [],
       "work_passage_id": "1qs:5.17-22",
       "html_path": "works/1qs/index.html#p-5-17-22",
-      "fixed_html_path": "releases/public-0.35/works/1qs/index.html#p-5-17-22",
+      "fixed_html_path": "releases/public-0.35.1/works/1qs/index.html#p-5-17-22",
       "alignment_revision": "sha256:d02199ec09608c54bcb567e6303080fe941bec6163715b5b951e9228d2b8b191",
       "review_state": {
         "human_reviewed": false,
@@ -6774,9 +6774,9 @@
         "work": "공동체 규칙",
         "reference": "5.17-22",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QS 1-11열.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:2b728464b9bce63f6d9667330b5adf2e1923e986a27b8c6037edc9c3c446f8f8",
-        "fixed_path": "releases/public-0.35/works/1qs/index.html#p-5-17-22"
+        "fixed_path": "releases/public-0.35.1/works/1qs/index.html#p-5-17-22"
       }
     },
     {
@@ -6957,7 +6957,7 @@
       "notes": [],
       "work_passage_id": "1qs:5.23-26",
       "html_path": "works/1qs/index.html#p-5-23-26",
-      "fixed_html_path": "releases/public-0.35/works/1qs/index.html#p-5-23-26",
+      "fixed_html_path": "releases/public-0.35.1/works/1qs/index.html#p-5-23-26",
       "alignment_revision": "sha256:6c74462e3461fefda93f3af8ffa81c3b421959a8001084fa84bda2e744041d28",
       "review_state": {
         "human_reviewed": false,
@@ -6983,9 +6983,9 @@
         "work": "공동체 규칙",
         "reference": "5.23-26",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QS 1-11열.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:97850f7c97d0be99195ffab0d1aed2d2b707c7de2538b3e7ef3a3be41e9e024f",
-        "fixed_path": "releases/public-0.35/works/1qs/index.html#p-5-23-26"
+        "fixed_path": "releases/public-0.35.1/works/1qs/index.html#p-5-23-26"
       }
     },
     {
@@ -7202,7 +7202,7 @@
       ],
       "work_passage_id": "1qs:5.26-6.3",
       "html_path": "works/1qs/index.html#p-5-26-6-3",
-      "fixed_html_path": "releases/public-0.35/works/1qs/index.html#p-5-26-6-3",
+      "fixed_html_path": "releases/public-0.35.1/works/1qs/index.html#p-5-26-6-3",
       "alignment_revision": "sha256:6c595b92a1773913a1dd5d5822f75c18e0bf73c84dc11ee1dc58bc5cedd80e7c",
       "review_state": {
         "human_reviewed": false,
@@ -7228,9 +7228,9 @@
         "work": "공동체 규칙",
         "reference": "5.26-6.3",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QS 1-11열.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:adfae9116e9b214f7f82abad6fbc62ab4ebd6d161ebeac67a38d10e9e56248db",
-        "fixed_path": "releases/public-0.35/works/1qs/index.html#p-5-26-6-3"
+        "fixed_path": "releases/public-0.35.1/works/1qs/index.html#p-5-26-6-3"
       }
     },
     {
@@ -7410,7 +7410,7 @@
       ],
       "work_passage_id": "1qs:6.3-6",
       "html_path": "works/1qs/index.html#p-6-3-6",
-      "fixed_html_path": "releases/public-0.35/works/1qs/index.html#p-6-3-6",
+      "fixed_html_path": "releases/public-0.35.1/works/1qs/index.html#p-6-3-6",
       "alignment_revision": "sha256:d8758b60f8618af1cef84899b8b65cdec497f75d7940d732a3d39d3032b1aa3d",
       "review_state": {
         "human_reviewed": false,
@@ -7436,9 +7436,9 @@
         "work": "공동체 규칙",
         "reference": "6.3-6",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QS 1-11열.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:f3d709665ef4a11043b5975edac57c93932a375a8f86e44f67bfe95f98cc6a78",
-        "fixed_path": "releases/public-0.35/works/1qs/index.html#p-6-3-6"
+        "fixed_path": "releases/public-0.35.1/works/1qs/index.html#p-6-3-6"
       }
     },
     {
@@ -7595,7 +7595,7 @@
       "notes": [],
       "work_passage_id": "1qs:6.6-9",
       "html_path": "works/1qs/index.html#p-6-6-9",
-      "fixed_html_path": "releases/public-0.35/works/1qs/index.html#p-6-6-9",
+      "fixed_html_path": "releases/public-0.35.1/works/1qs/index.html#p-6-6-9",
       "alignment_revision": "sha256:398b9743fff530f300d772bc54625ae2c895f573e0d78adc5098d767a534fb7d",
       "review_state": {
         "human_reviewed": false,
@@ -7621,9 +7621,9 @@
         "work": "공동체 규칙",
         "reference": "6.6-9",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QS 1-11열.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:0a4e5cf22770de621557106b2aee3736056224385da29ef9f314d19d02485f95",
-        "fixed_path": "releases/public-0.35/works/1qs/index.html#p-6-6-9"
+        "fixed_path": "releases/public-0.35.1/works/1qs/index.html#p-6-6-9"
       }
     },
     {
@@ -7793,7 +7793,7 @@
       "notes": [],
       "work_passage_id": "1qs:6.9-12",
       "html_path": "works/1qs/index.html#p-6-9-12",
-      "fixed_html_path": "releases/public-0.35/works/1qs/index.html#p-6-9-12",
+      "fixed_html_path": "releases/public-0.35.1/works/1qs/index.html#p-6-9-12",
       "alignment_revision": "sha256:c7f73c260e41ca73b4ce81e46881fbef4e9ea7fcbaf9665a2659ede08f734985",
       "review_state": {
         "human_reviewed": false,
@@ -7819,9 +7819,9 @@
         "work": "공동체 규칙",
         "reference": "6.9-12",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QS 1-11열.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:f820db5067f999cb0d87884ad91bfe6691f8b4da5e5c695c125961a40a2e50c1",
-        "fixed_path": "releases/public-0.35/works/1qs/index.html#p-6-9-12"
+        "fixed_path": "releases/public-0.35.1/works/1qs/index.html#p-6-9-12"
       }
     },
     {
@@ -7983,7 +7983,7 @@
       "notes": [],
       "work_passage_id": "1qs:6.12-15",
       "html_path": "works/1qs/index.html#p-6-12-15",
-      "fixed_html_path": "releases/public-0.35/works/1qs/index.html#p-6-12-15",
+      "fixed_html_path": "releases/public-0.35.1/works/1qs/index.html#p-6-12-15",
       "alignment_revision": "sha256:9f17e41826e534783cdaff6088647dd5f543f1b46a20c45d942bbf284130aaea",
       "review_state": {
         "human_reviewed": false,
@@ -8009,9 +8009,9 @@
         "work": "공동체 규칙",
         "reference": "6.12-15",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QS 1-11열.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:4fa1cae8f4b28983d84f83dc6439f62811b881c6598148e0b4597069934f2eb0",
-        "fixed_path": "releases/public-0.35/works/1qs/index.html#p-6-12-15"
+        "fixed_path": "releases/public-0.35.1/works/1qs/index.html#p-6-12-15"
       }
     },
     {
@@ -8175,7 +8175,7 @@
       ],
       "work_passage_id": "1qs:6.15-18",
       "html_path": "works/1qs/index.html#p-6-15-18",
-      "fixed_html_path": "releases/public-0.35/works/1qs/index.html#p-6-15-18",
+      "fixed_html_path": "releases/public-0.35.1/works/1qs/index.html#p-6-15-18",
       "alignment_revision": "sha256:b677fb0d19edf2e04d2b3f8eedde026228e5b7acecd9fdbc0d1de1ba6c289732",
       "review_state": {
         "human_reviewed": false,
@@ -8201,9 +8201,9 @@
         "work": "공동체 규칙",
         "reference": "6.15-18",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QS 1-11열.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:bcee4ea9cbd00e359ddf4b1b848dbc20fab91b084adb82b8891d45f96b6c244a",
-        "fixed_path": "releases/public-0.35/works/1qs/index.html#p-6-15-18"
+        "fixed_path": "releases/public-0.35.1/works/1qs/index.html#p-6-15-18"
       }
     },
     {
@@ -8375,7 +8375,7 @@
       ],
       "work_passage_id": "1qs:6.18-21",
       "html_path": "works/1qs/index.html#p-6-18-21",
-      "fixed_html_path": "releases/public-0.35/works/1qs/index.html#p-6-18-21",
+      "fixed_html_path": "releases/public-0.35.1/works/1qs/index.html#p-6-18-21",
       "alignment_revision": "sha256:382fe81595be7b3d7ead023f5e2b5182cf18c8055dd6885b7649a7c21bbaaeaa",
       "review_state": {
         "human_reviewed": false,
@@ -8401,9 +8401,9 @@
         "work": "공동체 규칙",
         "reference": "6.18-21",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QS 1-11열.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:3580c59980ed0163cc08e2be754729d6d216922366982efe47c02852899fca60",
-        "fixed_path": "releases/public-0.35/works/1qs/index.html#p-6-18-21"
+        "fixed_path": "releases/public-0.35.1/works/1qs/index.html#p-6-18-21"
       }
     },
     {
@@ -8657,7 +8657,7 @@
       ],
       "work_passage_id": "1qs:6.21-27",
       "html_path": "works/1qs/index.html#p-6-21-27",
-      "fixed_html_path": "releases/public-0.35/works/1qs/index.html#p-6-21-27",
+      "fixed_html_path": "releases/public-0.35.1/works/1qs/index.html#p-6-21-27",
       "alignment_revision": "sha256:31c4bc7381e1481ef6de1807f1ef1ddddefaac7bfe0d2669b5f350c620b777f7",
       "review_state": {
         "human_reviewed": false,
@@ -8683,9 +8683,9 @@
         "work": "공동체 규칙",
         "reference": "6.21-27",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QS 1-11열.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:2eb39636fc301a4e72fde0d9bdc8c9f432442faa21c3e0c3cd5877ac06872b5d",
-        "fixed_path": "releases/public-0.35/works/1qs/index.html#p-6-21-27"
+        "fixed_path": "releases/public-0.35.1/works/1qs/index.html#p-6-21-27"
       }
     },
     {
@@ -8939,7 +8939,7 @@
       ],
       "work_passage_id": "1qs:6.27-7.2",
       "html_path": "works/1qs/index.html#p-6-27-7-2",
-      "fixed_html_path": "releases/public-0.35/works/1qs/index.html#p-6-27-7-2",
+      "fixed_html_path": "releases/public-0.35.1/works/1qs/index.html#p-6-27-7-2",
       "alignment_revision": "sha256:b797f4bf8e668f03df2a700fbde2e45f297d37d79c3a43594984c5d8a99897fe",
       "review_state": {
         "human_reviewed": false,
@@ -8965,9 +8965,9 @@
         "work": "공동체 규칙",
         "reference": "6.27-7.2",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QS 1-11열.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:380c6bf5349773b24fdb5094f0a18b57182963c4c4d79565c02aef6d90e25dea",
-        "fixed_path": "releases/public-0.35/works/1qs/index.html#p-6-27-7-2"
+        "fixed_path": "releases/public-0.35.1/works/1qs/index.html#p-6-27-7-2"
       }
     },
     {
@@ -9120,7 +9120,7 @@
       "notes": [],
       "work_passage_id": "1qs:7.2-5",
       "html_path": "works/1qs/index.html#p-7-2-5",
-      "fixed_html_path": "releases/public-0.35/works/1qs/index.html#p-7-2-5",
+      "fixed_html_path": "releases/public-0.35.1/works/1qs/index.html#p-7-2-5",
       "alignment_revision": "sha256:240040c72ff5958e36a36edc37cf3e0bbc24f95a6ab405a8364810d60c8e41bb",
       "review_state": {
         "human_reviewed": false,
@@ -9146,9 +9146,9 @@
         "work": "공동체 규칙",
         "reference": "7.2-5",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QS 1-11열.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:4d4d139d13afd74f15999a0195997f78b933a3a6d91baac6adc7a75d1927b9fc",
-        "fixed_path": "releases/public-0.35/works/1qs/index.html#p-7-2-5"
+        "fixed_path": "releases/public-0.35.1/works/1qs/index.html#p-7-2-5"
       }
     },
     {
@@ -9420,7 +9420,7 @@
       ],
       "work_passage_id": "1qs:7.5-8",
       "html_path": "works/1qs/index.html#p-7-5-8",
-      "fixed_html_path": "releases/public-0.35/works/1qs/index.html#p-7-5-8",
+      "fixed_html_path": "releases/public-0.35.1/works/1qs/index.html#p-7-5-8",
       "alignment_revision": "sha256:c5f7d60ed6f55fd88c8aafc7917059f92ae23429eb6b235b88d6736fe6d683e7",
       "review_state": {
         "human_reviewed": false,
@@ -9446,9 +9446,9 @@
         "work": "공동체 규칙",
         "reference": "7.5-8",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QS 1-11열.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:5f9449acf75ec4a9fdb9e7ceb33a1c37f745f06f5888707e327efa7e74cbedb0",
-        "fixed_path": "releases/public-0.35/works/1qs/index.html#p-7-5-8"
+        "fixed_path": "releases/public-0.35.1/works/1qs/index.html#p-7-5-8"
       }
     },
     {
@@ -9663,7 +9663,7 @@
       "notes": [],
       "work_passage_id": "1qs:7.9-12",
       "html_path": "works/1qs/index.html#p-7-9-12",
-      "fixed_html_path": "releases/public-0.35/works/1qs/index.html#p-7-9-12",
+      "fixed_html_path": "releases/public-0.35.1/works/1qs/index.html#p-7-9-12",
       "alignment_revision": "sha256:07a60486dfa7b311732127b0c856dc872ebff63f186bb8b8e2f7d90b20b9c280",
       "review_state": {
         "human_reviewed": false,
@@ -9689,9 +9689,9 @@
         "work": "공동체 규칙",
         "reference": "7.9-12",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QS 1-11열.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:1ea718d89acaa85ac00ef68309b40ee6e42a87b4a574018f790727c72f458889",
-        "fixed_path": "releases/public-0.35/works/1qs/index.html#p-7-9-12"
+        "fixed_path": "releases/public-0.35.1/works/1qs/index.html#p-7-9-12"
       }
     },
     {
@@ -9847,7 +9847,7 @@
       ],
       "work_passage_id": "1qs:7.12-15",
       "html_path": "works/1qs/index.html#p-7-12-15",
-      "fixed_html_path": "releases/public-0.35/works/1qs/index.html#p-7-12-15",
+      "fixed_html_path": "releases/public-0.35.1/works/1qs/index.html#p-7-12-15",
       "alignment_revision": "sha256:ad86fcb60519f6d4f8e73a5bad736d3257c6d37d7658957edcd0edab99430415",
       "review_state": {
         "human_reviewed": false,
@@ -9873,9 +9873,9 @@
         "work": "공동체 규칙",
         "reference": "7.12-15",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QS 1-11열.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:b9c4e5c09f890a5bcf533d7f52fcf4d740d520c65b725e1b0f5f6a5f178142b1",
-        "fixed_path": "releases/public-0.35/works/1qs/index.html#p-7-12-15"
+        "fixed_path": "releases/public-0.35.1/works/1qs/index.html#p-7-12-15"
       }
     },
     {
@@ -10042,7 +10042,7 @@
       "notes": [],
       "work_passage_id": "1qs:7.15-19",
       "html_path": "works/1qs/index.html#p-7-15-19",
-      "fixed_html_path": "releases/public-0.35/works/1qs/index.html#p-7-15-19",
+      "fixed_html_path": "releases/public-0.35.1/works/1qs/index.html#p-7-15-19",
       "alignment_revision": "sha256:8895274cd16298779f8058f07c38e26b0cf19d745d444d172d87f87fb98fc68f",
       "review_state": {
         "human_reviewed": false,
@@ -10068,9 +10068,9 @@
         "work": "공동체 규칙",
         "reference": "7.15-19",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QS 1-11열.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:f1752b3fcc77eee651ef410725b14a6ebaf31d5e702f459dd356d127ab2b23ba",
-        "fixed_path": "releases/public-0.35/works/1qs/index.html#p-7-15-19"
+        "fixed_path": "releases/public-0.35.1/works/1qs/index.html#p-7-15-19"
       }
     },
     {
@@ -10497,7 +10497,7 @@
       ],
       "work_passage_id": "1qs:7.19-24",
       "html_path": "works/1qs/index.html#p-7-19-24",
-      "fixed_html_path": "releases/public-0.35/works/1qs/index.html#p-7-19-24",
+      "fixed_html_path": "releases/public-0.35.1/works/1qs/index.html#p-7-19-24",
       "alignment_revision": "sha256:4d9f122090c809feb6afd49f424a24939fbdb23c1ac1f2705e4c5c2c493bc745",
       "review_state": {
         "human_reviewed": false,
@@ -10523,9 +10523,9 @@
         "work": "공동체 규칙",
         "reference": "7.19-24",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QS 1-11열.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:9a1daef9a737fe42c0f8da95b1886ecefcacce267f23dff4a577839b15985aea",
-        "fixed_path": "releases/public-0.35/works/1qs/index.html#p-7-19-24"
+        "fixed_path": "releases/public-0.35.1/works/1qs/index.html#p-7-19-24"
       }
     },
     {
@@ -10808,7 +10808,7 @@
       "notes": [],
       "work_passage_id": "1qs:7.24-8.4",
       "html_path": "works/1qs/index.html#p-7-24-8-4",
-      "fixed_html_path": "releases/public-0.35/works/1qs/index.html#p-7-24-8-4",
+      "fixed_html_path": "releases/public-0.35.1/works/1qs/index.html#p-7-24-8-4",
       "alignment_revision": "sha256:23c5e38e02a325a51fb570f08e83f6caaec987c5bbe59b88d77dbf3ff4be8d14",
       "review_state": {
         "human_reviewed": false,
@@ -10834,9 +10834,9 @@
         "work": "공동체 규칙",
         "reference": "7.24-8.4",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QS 1-11열.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:3c4d54c59b65d5f8f7e9e1ace3268a104db70f32ba3f2a28ca32f3f3888dd62e",
-        "fixed_path": "releases/public-0.35/works/1qs/index.html#p-7-24-8-4"
+        "fixed_path": "releases/public-0.35.1/works/1qs/index.html#p-7-24-8-4"
       }
     },
     {
@@ -11191,7 +11191,7 @@
       ],
       "work_passage_id": "1qs:8.4-10",
       "html_path": "works/1qs/index.html#p-8-4-10",
-      "fixed_html_path": "releases/public-0.35/works/1qs/index.html#p-8-4-10",
+      "fixed_html_path": "releases/public-0.35.1/works/1qs/index.html#p-8-4-10",
       "alignment_revision": "sha256:ebdfd33278781fea52a65de3e386d131dd717f35a2d29501a4b46bddb06547af",
       "review_state": {
         "human_reviewed": false,
@@ -11217,9 +11217,9 @@
         "work": "공동체 규칙",
         "reference": "8.4-10",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QS 1-11열.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:d342cef7a70bb6e8f4daf23dfd269a38a09f2381ad964518de34cf575419e6c5",
-        "fixed_path": "releases/public-0.35/works/1qs/index.html#p-8-4-10"
+        "fixed_path": "releases/public-0.35.1/works/1qs/index.html#p-8-4-10"
       }
     },
     {
@@ -11494,7 +11494,7 @@
       ],
       "work_passage_id": "1qs:8.10-14",
       "html_path": "works/1qs/index.html#p-8-10-14",
-      "fixed_html_path": "releases/public-0.35/works/1qs/index.html#p-8-10-14",
+      "fixed_html_path": "releases/public-0.35.1/works/1qs/index.html#p-8-10-14",
       "alignment_revision": "sha256:c7744f5994aa4eac3b10e78c1b46b5e33bbc9e0a79e847ef1200e37f13345d8f",
       "review_state": {
         "human_reviewed": false,
@@ -11520,9 +11520,9 @@
         "work": "공동체 규칙",
         "reference": "8.10-14",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QS 1-11열.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:629ae6c5d8b502af9e4cb7e693a56ffc425a2ea89f6e520b8dcb9633f7661036",
-        "fixed_path": "releases/public-0.35/works/1qs/index.html#p-8-10-14"
+        "fixed_path": "releases/public-0.35.1/works/1qs/index.html#p-8-10-14"
       }
     },
     {
@@ -11725,7 +11725,7 @@
       "notes": [],
       "work_passage_id": "1qs:8.15-19",
       "html_path": "works/1qs/index.html#p-8-15-19",
-      "fixed_html_path": "releases/public-0.35/works/1qs/index.html#p-8-15-19",
+      "fixed_html_path": "releases/public-0.35.1/works/1qs/index.html#p-8-15-19",
       "alignment_revision": "sha256:4e949394194ca249d0685714833cb3b276a5403a15f9fe20bf5fbb9a622617b5",
       "review_state": {
         "human_reviewed": false,
@@ -11751,9 +11751,9 @@
         "work": "공동체 규칙",
         "reference": "8.15-19",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QS 1-11열.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:4f3bb6130807ab3e25d16a2127a1315f427b2a1840aaffbb548db11b14271447",
-        "fixed_path": "releases/public-0.35/works/1qs/index.html#p-8-15-19"
+        "fixed_path": "releases/public-0.35.1/works/1qs/index.html#p-8-15-19"
       }
     },
     {
@@ -11930,7 +11930,7 @@
       "notes": [],
       "work_passage_id": "1qs:8.19-24",
       "html_path": "works/1qs/index.html#p-8-19-24",
-      "fixed_html_path": "releases/public-0.35/works/1qs/index.html#p-8-19-24",
+      "fixed_html_path": "releases/public-0.35.1/works/1qs/index.html#p-8-19-24",
       "alignment_revision": "sha256:7911fe020e41eb92183838759d965d46d2a419ac9ba23b484d6649d2f8423143",
       "review_state": {
         "human_reviewed": false,
@@ -11956,9 +11956,9 @@
         "work": "공동체 규칙",
         "reference": "8.19-24",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QS 1-11열.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:60f027a5163c97aee204a4ada1a75bf1ac84798c1a720c7f07404f34d2385f5c",
-        "fixed_path": "releases/public-0.35/works/1qs/index.html#p-8-19-24"
+        "fixed_path": "releases/public-0.35.1/works/1qs/index.html#p-8-19-24"
       }
     },
     {
@@ -12185,7 +12185,7 @@
       "notes": [],
       "work_passage_id": "1qs:8.24-9.1",
       "html_path": "works/1qs/index.html#p-8-24-9-1",
-      "fixed_html_path": "releases/public-0.35/works/1qs/index.html#p-8-24-9-1",
+      "fixed_html_path": "releases/public-0.35.1/works/1qs/index.html#p-8-24-9-1",
       "alignment_revision": "sha256:a669c2cdea6629bea92579c74c0305a504da77d9bd476e181a305d0e42b27b43",
       "review_state": {
         "human_reviewed": false,
@@ -12211,9 +12211,9 @@
         "work": "공동체 규칙",
         "reference": "8.24-9.1",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QS 1-11열.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:b34ec04829d0a0dfc3d1134285e3a4c6fe6c1b50a8f90454be726f7e350bd1bb",
-        "fixed_path": "releases/public-0.35/works/1qs/index.html#p-8-24-9-1"
+        "fixed_path": "releases/public-0.35.1/works/1qs/index.html#p-8-24-9-1"
       }
     },
     {
@@ -12396,7 +12396,7 @@
       ],
       "work_passage_id": "1qs:9.1-6",
       "html_path": "works/1qs/index.html#p-9-1-6",
-      "fixed_html_path": "releases/public-0.35/works/1qs/index.html#p-9-1-6",
+      "fixed_html_path": "releases/public-0.35.1/works/1qs/index.html#p-9-1-6",
       "alignment_revision": "sha256:8d1babe3b154e7a31c4492690893f8f6e37868fef52542a58c62954057f6354f",
       "review_state": {
         "human_reviewed": false,
@@ -12422,9 +12422,9 @@
         "work": "공동체 규칙",
         "reference": "9.1-6",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QS 1-11열.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:fe1cd288751bca6bea6df74333eaff1d3249c975263f1234db3e9970a5d6e5b9",
-        "fixed_path": "releases/public-0.35/works/1qs/index.html#p-9-1-6"
+        "fixed_path": "releases/public-0.35.1/works/1qs/index.html#p-9-1-6"
       }
     },
     {
@@ -12602,7 +12602,7 @@
       ],
       "work_passage_id": "1qs:9.7-11",
       "html_path": "works/1qs/index.html#p-9-7-11",
-      "fixed_html_path": "releases/public-0.35/works/1qs/index.html#p-9-7-11",
+      "fixed_html_path": "releases/public-0.35.1/works/1qs/index.html#p-9-7-11",
       "alignment_revision": "sha256:b00c804b9c6d3f11d5b0a5df45793b2fafa2888c02a9950a4604780bf357b68a",
       "review_state": {
         "human_reviewed": false,
@@ -12628,9 +12628,9 @@
         "work": "공동체 규칙",
         "reference": "9.7-11",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QS 1-11열.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:73519dbe821ac06ffc4bc1e8c6b6d9c879562a49c0b1b5fa642fef0a97001da1",
-        "fixed_path": "releases/public-0.35/works/1qs/index.html#p-9-7-11"
+        "fixed_path": "releases/public-0.35.1/works/1qs/index.html#p-9-7-11"
       }
     },
     {
@@ -12836,7 +12836,7 @@
       "notes": [],
       "work_passage_id": "1qs:9.12-16",
       "html_path": "works/1qs/index.html#p-9-12-16",
-      "fixed_html_path": "releases/public-0.35/works/1qs/index.html#p-9-12-16",
+      "fixed_html_path": "releases/public-0.35.1/works/1qs/index.html#p-9-12-16",
       "alignment_revision": "sha256:06175c1425bd0e0c3f4d25e97f810a29d7c5308ef300a7e0eb5d5ba1ae2e2e47",
       "review_state": {
         "human_reviewed": false,
@@ -12862,9 +12862,9 @@
         "work": "공동체 규칙",
         "reference": "9.12-16",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QS 1-11열.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:f8b8e8bb04c420add514a4eaec2b78baa4e3b6d62c2412fa7c87d39613262cbc",
-        "fixed_path": "releases/public-0.35/works/1qs/index.html#p-9-12-16"
+        "fixed_path": "releases/public-0.35.1/works/1qs/index.html#p-9-12-16"
       }
     },
     {
@@ -13104,7 +13104,7 @@
       "notes": [],
       "work_passage_id": "1qs:9.16-21",
       "html_path": "works/1qs/index.html#p-9-16-21",
-      "fixed_html_path": "releases/public-0.35/works/1qs/index.html#p-9-16-21",
+      "fixed_html_path": "releases/public-0.35.1/works/1qs/index.html#p-9-16-21",
       "alignment_revision": "sha256:52cdba8453b0494aeca7754e449bb1c410d2eaf8ea8acfdc09875d3bf42c92b4",
       "review_state": {
         "human_reviewed": false,
@@ -13130,9 +13130,9 @@
         "work": "공동체 규칙",
         "reference": "9.16-21",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QS 1-11열.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:6f856d4b56897f07ddfc06f2f680c5192d832ff82550ba03e5e2ff9d4950e36d",
-        "fixed_path": "releases/public-0.35/works/1qs/index.html#p-9-16-21"
+        "fixed_path": "releases/public-0.35.1/works/1qs/index.html#p-9-16-21"
       }
     },
     {
@@ -13311,7 +13311,7 @@
       "notes": [],
       "work_passage_id": "1qs:9.21-24",
       "html_path": "works/1qs/index.html#p-9-21-24",
-      "fixed_html_path": "releases/public-0.35/works/1qs/index.html#p-9-21-24",
+      "fixed_html_path": "releases/public-0.35.1/works/1qs/index.html#p-9-21-24",
       "alignment_revision": "sha256:f900b0e648a8dfbfc0b0e9c539a2b16d63d1df030b4ff49a4d9ed89226de2ff5",
       "review_state": {
         "human_reviewed": false,
@@ -13337,9 +13337,9 @@
         "work": "공동체 규칙",
         "reference": "9.21-24",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QS 1-11열.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:2115a9c7f69c22561c42753bafcc6cfd54651cb1f7de19c2253f9a17d2b1c7c1",
-        "fixed_path": "releases/public-0.35/works/1qs/index.html#p-9-21-24"
+        "fixed_path": "releases/public-0.35.1/works/1qs/index.html#p-9-21-24"
       }
     },
     {
@@ -13599,7 +13599,7 @@
       ],
       "work_passage_id": "1qs:9.25-10.2",
       "html_path": "works/1qs/index.html#p-9-25-10-2",
-      "fixed_html_path": "releases/public-0.35/works/1qs/index.html#p-9-25-10-2",
+      "fixed_html_path": "releases/public-0.35.1/works/1qs/index.html#p-9-25-10-2",
       "alignment_revision": "sha256:f07f29225f6e08fe9957bbd0cb67cc2291d623e1bac69462070c2ba92d91bd6b",
       "review_state": {
         "human_reviewed": false,
@@ -13625,9 +13625,9 @@
         "work": "공동체 규칙",
         "reference": "9.25-10.2",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QS 1-11열.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:8213f9fb3b2a8ff30bd2d4b504449430c0ef599044b29eee8d5c9e6ced01724d",
-        "fixed_path": "releases/public-0.35/works/1qs/index.html#p-9-25-10-2"
+        "fixed_path": "releases/public-0.35.1/works/1qs/index.html#p-9-25-10-2"
       }
     },
     {
@@ -13850,7 +13850,7 @@
       ],
       "work_passage_id": "1qs:10.2-6",
       "html_path": "works/1qs/index.html#p-10-2-6",
-      "fixed_html_path": "releases/public-0.35/works/1qs/index.html#p-10-2-6",
+      "fixed_html_path": "releases/public-0.35.1/works/1qs/index.html#p-10-2-6",
       "alignment_revision": "sha256:8a8e473b16e83063c3e91b49afd7460817e7403d0010f38f790a874ed7818255",
       "review_state": {
         "human_reviewed": false,
@@ -13876,9 +13876,9 @@
         "work": "공동체 규칙",
         "reference": "10.2-6",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QS 1-11열.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:16e2e1608bf0575ce7dc6438377a2943e1aa48b98016c5b4546d004a321a07ec",
-        "fixed_path": "releases/public-0.35/works/1qs/index.html#p-10-2-6"
+        "fixed_path": "releases/public-0.35.1/works/1qs/index.html#p-10-2-6"
       }
     },
     {
@@ -14119,7 +14119,7 @@
       ],
       "work_passage_id": "1qs:10.6-9",
       "html_path": "works/1qs/index.html#p-10-6-9",
-      "fixed_html_path": "releases/public-0.35/works/1qs/index.html#p-10-6-9",
+      "fixed_html_path": "releases/public-0.35.1/works/1qs/index.html#p-10-6-9",
       "alignment_revision": "sha256:0f663ce9b5639e7d4dd1ab01fd9625e262b11887c6c318381ef2570d528be762",
       "review_state": {
         "human_reviewed": false,
@@ -14145,9 +14145,9 @@
         "work": "공동체 규칙",
         "reference": "10.6-9",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QS 1-11열.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:290aebdddea48af163dd276151829e47f35540e367ed29697fcaa28c13d67a4c",
-        "fixed_path": "releases/public-0.35/works/1qs/index.html#p-10-6-9"
+        "fixed_path": "releases/public-0.35.1/works/1qs/index.html#p-10-6-9"
       }
     },
     {
@@ -14357,7 +14357,7 @@
       "notes": [],
       "work_passage_id": "1qs:10.10-14",
       "html_path": "works/1qs/index.html#p-10-10-14",
-      "fixed_html_path": "releases/public-0.35/works/1qs/index.html#p-10-10-14",
+      "fixed_html_path": "releases/public-0.35.1/works/1qs/index.html#p-10-10-14",
       "alignment_revision": "sha256:4fba7a8e533db1d314660a7fc46b7ba186e6b3e8cf7af2d589e29f4872f2fdd4",
       "review_state": {
         "human_reviewed": false,
@@ -14383,9 +14383,9 @@
         "work": "공동체 규칙",
         "reference": "10.10-14",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QS 1-11열.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:45d152ec306e3345bb4dc222af3d2c9f6da8de24a7d6c5bc4265fb4225d66b52",
-        "fixed_path": "releases/public-0.35/works/1qs/index.html#p-10-10-14"
+        "fixed_path": "releases/public-0.35.1/works/1qs/index.html#p-10-10-14"
       }
     },
     {
@@ -14565,7 +14565,7 @@
       "notes": [],
       "work_passage_id": "1qs:10.14-18",
       "html_path": "works/1qs/index.html#p-10-14-18",
-      "fixed_html_path": "releases/public-0.35/works/1qs/index.html#p-10-14-18",
+      "fixed_html_path": "releases/public-0.35.1/works/1qs/index.html#p-10-14-18",
       "alignment_revision": "sha256:8b1b1d1242c8966938a03e682999116913d805a0096468fe3731842ee2c2fa6f",
       "review_state": {
         "human_reviewed": false,
@@ -14591,9 +14591,9 @@
         "work": "공동체 규칙",
         "reference": "10.14-18",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QS 1-11열.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:a514842a384d14c959e134424093c33ad23b2d5a8d13c428131e3b945f353bad",
-        "fixed_path": "releases/public-0.35/works/1qs/index.html#p-10-14-18"
+        "fixed_path": "releases/public-0.35.1/works/1qs/index.html#p-10-14-18"
       }
     },
     {
@@ -14789,7 +14789,7 @@
       "notes": [],
       "work_passage_id": "1qs:10.18-21",
       "html_path": "works/1qs/index.html#p-10-18-21",
-      "fixed_html_path": "releases/public-0.35/works/1qs/index.html#p-10-18-21",
+      "fixed_html_path": "releases/public-0.35.1/works/1qs/index.html#p-10-18-21",
       "alignment_revision": "sha256:64416a76b1bd7ffea35c1eae4190c6fb88d83e105bb703dd7778a87ee3a5ac62",
       "review_state": {
         "human_reviewed": false,
@@ -14815,9 +14815,9 @@
         "work": "공동체 규칙",
         "reference": "10.18-21",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QS 1-11열.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:218d3a1b4ac4032d3f0cab35a3664dad4af1a0dbac7a48f47c0d67e5a05d895c",
-        "fixed_path": "releases/public-0.35/works/1qs/index.html#p-10-18-21"
+        "fixed_path": "releases/public-0.35.1/works/1qs/index.html#p-10-18-21"
       }
     },
     {
@@ -15017,7 +15017,7 @@
       "notes": [],
       "work_passage_id": "1qs:10.21-25",
       "html_path": "works/1qs/index.html#p-10-21-25",
-      "fixed_html_path": "releases/public-0.35/works/1qs/index.html#p-10-21-25",
+      "fixed_html_path": "releases/public-0.35.1/works/1qs/index.html#p-10-21-25",
       "alignment_revision": "sha256:20a1b95c807031d5e8c78a30d14c99d67bc78f0fdf8ab42716c76269b2e424f7",
       "review_state": {
         "human_reviewed": false,
@@ -15043,9 +15043,9 @@
         "work": "공동체 규칙",
         "reference": "10.21-25",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QS 1-11열.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:e670c1ab886b6194cd4b6285ad74a551b82d3a2245476868572d5941b6a9a003",
-        "fixed_path": "releases/public-0.35/works/1qs/index.html#p-10-21-25"
+        "fixed_path": "releases/public-0.35.1/works/1qs/index.html#p-10-21-25"
       }
     },
     {
@@ -15310,7 +15310,7 @@
       ],
       "work_passage_id": "1qs:10.25-11.3",
       "html_path": "works/1qs/index.html#p-10-25-11-3",
-      "fixed_html_path": "releases/public-0.35/works/1qs/index.html#p-10-25-11-3",
+      "fixed_html_path": "releases/public-0.35.1/works/1qs/index.html#p-10-25-11-3",
       "alignment_revision": "sha256:e7ce21573de19bbafdb07af322b8c959ec0d0ddfa713033ea3d46f877b77431a",
       "review_state": {
         "human_reviewed": false,
@@ -15336,9 +15336,9 @@
         "work": "공동체 규칙",
         "reference": "10.25-11.3",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QS 1-11열.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:a6f365acdd2d84ea0a6ebe8c08a270cbfee4a532f35570c3e362a8415b7724ee",
-        "fixed_path": "releases/public-0.35/works/1qs/index.html#p-10-25-11-3"
+        "fixed_path": "releases/public-0.35.1/works/1qs/index.html#p-10-25-11-3"
       }
     },
     {
@@ -15545,7 +15545,7 @@
       ],
       "work_passage_id": "1qs:11.3-7",
       "html_path": "works/1qs/index.html#p-11-3-7",
-      "fixed_html_path": "releases/public-0.35/works/1qs/index.html#p-11-3-7",
+      "fixed_html_path": "releases/public-0.35.1/works/1qs/index.html#p-11-3-7",
       "alignment_revision": "sha256:5dfdde02e1b45d392729deea014880f64bd49fcfb6d59aa91ed1c9c43334189c",
       "review_state": {
         "human_reviewed": false,
@@ -15571,9 +15571,9 @@
         "work": "공동체 규칙",
         "reference": "11.3-7",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QS 1-11열.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:793d6256cf6aead8b7e0d9610ebe65da545e08b843f9aca1a2e984bee8e7c368",
-        "fixed_path": "releases/public-0.35/works/1qs/index.html#p-11-3-7"
+        "fixed_path": "releases/public-0.35.1/works/1qs/index.html#p-11-3-7"
       }
     },
     {
@@ -15825,7 +15825,7 @@
       ],
       "work_passage_id": "1qs:11.7-10",
       "html_path": "works/1qs/index.html#p-11-7-10",
-      "fixed_html_path": "releases/public-0.35/works/1qs/index.html#p-11-7-10",
+      "fixed_html_path": "releases/public-0.35.1/works/1qs/index.html#p-11-7-10",
       "alignment_revision": "sha256:0dbf0773f0afb9f5840ddf8f6df026061105b222bf3cad504394630d8e752aa4",
       "review_state": {
         "human_reviewed": false,
@@ -15851,9 +15851,9 @@
         "work": "공동체 규칙",
         "reference": "11.7-10",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QS 1-11열.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:652f1873e2b67851a6e7bea489acabfeb1958e2bb779db94a72156b753b817ab",
-        "fixed_path": "releases/public-0.35/works/1qs/index.html#p-11-7-10"
+        "fixed_path": "releases/public-0.35.1/works/1qs/index.html#p-11-7-10"
       }
     },
     {
@@ -16048,7 +16048,7 @@
       ],
       "work_passage_id": "1qs:11.10-14",
       "html_path": "works/1qs/index.html#p-11-10-14",
-      "fixed_html_path": "releases/public-0.35/works/1qs/index.html#p-11-10-14",
+      "fixed_html_path": "releases/public-0.35.1/works/1qs/index.html#p-11-10-14",
       "alignment_revision": "sha256:620da6666e669dc115fb6a8dd2db400598f68bc4e8b2f46a64242b200135e579",
       "review_state": {
         "human_reviewed": false,
@@ -16074,9 +16074,9 @@
         "work": "공동체 규칙",
         "reference": "11.10-14",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QS 1-11열.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:3804e04e821e2389f1f56fe8b7f533d574f2c8b3a626771e3ad6778e5082cebb",
-        "fixed_path": "releases/public-0.35/works/1qs/index.html#p-11-10-14"
+        "fixed_path": "releases/public-0.35.1/works/1qs/index.html#p-11-10-14"
       }
     },
     {
@@ -16238,7 +16238,7 @@
       "notes": [],
       "work_passage_id": "1qs:11.14-17",
       "html_path": "works/1qs/index.html#p-11-14-17",
-      "fixed_html_path": "releases/public-0.35/works/1qs/index.html#p-11-14-17",
+      "fixed_html_path": "releases/public-0.35.1/works/1qs/index.html#p-11-14-17",
       "alignment_revision": "sha256:c4059a4ec193b6632c8ea8703d78559de07fc29d325a89763006ef34ea7db1cb",
       "review_state": {
         "human_reviewed": false,
@@ -16264,9 +16264,9 @@
         "work": "공동체 규칙",
         "reference": "11.14-17",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QS 1-11열.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:12293805aef6722bee24982650a53890928f3bb76175a395009d9438cb87cbd9",
-        "fixed_path": "releases/public-0.35/works/1qs/index.html#p-11-14-17"
+        "fixed_path": "releases/public-0.35.1/works/1qs/index.html#p-11-14-17"
       }
     },
     {
@@ -16465,7 +16465,7 @@
       ],
       "work_passage_id": "1qs:11.17-21",
       "html_path": "works/1qs/index.html#p-11-17-21",
-      "fixed_html_path": "releases/public-0.35/works/1qs/index.html#p-11-17-21",
+      "fixed_html_path": "releases/public-0.35.1/works/1qs/index.html#p-11-17-21",
       "alignment_revision": "sha256:e959c2b4462c5e66671c319efab015c3e5b833bae8cdd2aacd9a00a822c90530",
       "review_state": {
         "human_reviewed": false,
@@ -16491,9 +16491,9 @@
         "work": "공동체 규칙",
         "reference": "11.17-21",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QS 1-11열.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:2542d546ef306863cb3f25959d2a80847309eb8c34d3a39b4266fa111c4a1ebd",
-        "fixed_path": "releases/public-0.35/works/1qs/index.html#p-11-17-21"
+        "fixed_path": "releases/public-0.35.1/works/1qs/index.html#p-11-17-21"
       }
     },
     {
@@ -16601,7 +16601,7 @@
       "notes": [],
       "work_passage_id": "1qs:11.21-22",
       "html_path": "works/1qs/index.html#p-11-21-22",
-      "fixed_html_path": "releases/public-0.35/works/1qs/index.html#p-11-21-22",
+      "fixed_html_path": "releases/public-0.35.1/works/1qs/index.html#p-11-21-22",
       "alignment_revision": "sha256:1e30c054cb32d768a79b9f513a2f6ef7ba5b8ddec98f11634875a8b830fe0245",
       "review_state": {
         "human_reviewed": false,
@@ -16627,9 +16627,9 @@
         "work": "공동체 규칙",
         "reference": "11.21-22",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QS 1-11열.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:23df4d2fefe518cbdc4a5733a8a1032034db9217d17509c381f77361cb0baff5",
-        "fixed_path": "releases/public-0.35/works/1qs/index.html#p-11-21-22"
+        "fixed_path": "releases/public-0.35.1/works/1qs/index.html#p-11-21-22"
       }
     }
   ],
@@ -16646,14 +16646,14 @@
   "display_author": "익명",
   "scope": "공동체 규칙 1QS 1-11열 283행의 전사본 전체",
   "coverage": "complete",
-  "release_id": "public-0.35",
+  "release_id": "public-0.35.1",
   "source_language": "he",
   "source_kind": "edited_ancient_original",
   "human_reviewed": false,
   "translation_method": "고정 히브리어 전사에서 직접 번역",
   "html_path": "works/1qs/index.html",
   "json_path": "data/works/1qs.json",
-  "fixed_html_path": "releases/public-0.35/works/1qs/index.html",
+  "fixed_html_path": "releases/public-0.35.1/works/1qs/index.html",
   "source_profile": "1qs-etcbc-2.0.1-47ecc17",
   "source_decisions": [
     {

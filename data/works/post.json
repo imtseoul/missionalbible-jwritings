@@ -88,7 +88,7 @@
       ],
       "work_passage_id": "post:1",
       "html_path": "works/post/index.html#p-1",
-      "fixed_html_path": "releases/public-0.35/works/post/index.html#p-1",
+      "fixed_html_path": "releases/public-0.35.1/works/post/index.html#p-1",
       "alignment_revision": "sha256:56e8eef8bb4258a3282f834ee1e923ef1d7218feba511ace5b11f65ad9404fb0",
       "review_state": {
         "human_reviewed": false,
@@ -124,9 +124,9 @@
         "work": "카인의 후손에 관하여",
         "reference": "1",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:6ae986786ce75556b74027493cbfdf5343d3cc8d4fd64d99e08ae3557eb4c23a",
-        "fixed_path": "releases/public-0.35/works/post/index.html#p-1"
+        "fixed_path": "releases/public-0.35.1/works/post/index.html#p-1"
       }
     },
     {
@@ -175,7 +175,7 @@
       "notes": [],
       "work_passage_id": "post:2",
       "html_path": "works/post/index.html#p-2",
-      "fixed_html_path": "releases/public-0.35/works/post/index.html#p-2",
+      "fixed_html_path": "releases/public-0.35.1/works/post/index.html#p-2",
       "alignment_revision": "sha256:825c8afb41f0cc9d3ffc76e0217da4e7d43de586a321b2111b1ba2ba87478979",
       "review_state": {
         "human_reviewed": false,
@@ -211,9 +211,9 @@
         "work": "카인의 후손에 관하여",
         "reference": "2",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:6fd7d450bbb0bc93f337a07e684b392a33635a7697caf42da2b6b93978ea85da",
-        "fixed_path": "releases/public-0.35/works/post/index.html#p-2"
+        "fixed_path": "releases/public-0.35.1/works/post/index.html#p-2"
       }
     },
     {
@@ -275,7 +275,7 @@
       "notes": [],
       "work_passage_id": "post:3",
       "html_path": "works/post/index.html#p-3",
-      "fixed_html_path": "releases/public-0.35/works/post/index.html#p-3",
+      "fixed_html_path": "releases/public-0.35.1/works/post/index.html#p-3",
       "alignment_revision": "sha256:f7b4d7a09ae9781217db27967242812dbf2f01f0fc7165bdd407f2e654c62ad4",
       "review_state": {
         "human_reviewed": false,
@@ -311,9 +311,9 @@
         "work": "카인의 후손에 관하여",
         "reference": "3",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:61288e70f242304ba23f67d5952f77aba76e835c788b52e3f526e5c4106ce259",
-        "fixed_path": "releases/public-0.35/works/post/index.html#p-3"
+        "fixed_path": "releases/public-0.35.1/works/post/index.html#p-3"
       }
     },
     {
@@ -388,7 +388,7 @@
       "notes": [],
       "work_passage_id": "post:4",
       "html_path": "works/post/index.html#p-4",
-      "fixed_html_path": "releases/public-0.35/works/post/index.html#p-4",
+      "fixed_html_path": "releases/public-0.35.1/works/post/index.html#p-4",
       "alignment_revision": "sha256:b439189657552292fb63197ca1eb95a46d8e5c4dcc6fe458ded47775abb1aa7e",
       "review_state": {
         "human_reviewed": false,
@@ -424,9 +424,9 @@
         "work": "카인의 후손에 관하여",
         "reference": "4",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:04b10dce14328fc5b79100e303caf226fb434eb73a509142e07ebddf462395aa",
-        "fixed_path": "releases/public-0.35/works/post/index.html#p-4"
+        "fixed_path": "releases/public-0.35.1/works/post/index.html#p-4"
       }
     },
     {
@@ -517,7 +517,7 @@
       "notes": [],
       "work_passage_id": "post:5",
       "html_path": "works/post/index.html#p-5",
-      "fixed_html_path": "releases/public-0.35/works/post/index.html#p-5",
+      "fixed_html_path": "releases/public-0.35.1/works/post/index.html#p-5",
       "alignment_revision": "sha256:870485d1f33839ce14163a957f2ff9a9343f0f243c2800da3fbf756323dd422a",
       "review_state": {
         "human_reviewed": false,
@@ -553,9 +553,9 @@
         "work": "카인의 후손에 관하여",
         "reference": "5",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:f456411c97506669b1b502580c09a495504d635643b146b4592a50612584dcbb",
-        "fixed_path": "releases/public-0.35/works/post/index.html#p-5"
+        "fixed_path": "releases/public-0.35.1/works/post/index.html#p-5"
       }
     },
     {
@@ -619,7 +619,7 @@
       ],
       "work_passage_id": "post:6",
       "html_path": "works/post/index.html#p-6",
-      "fixed_html_path": "releases/public-0.35/works/post/index.html#p-6",
+      "fixed_html_path": "releases/public-0.35.1/works/post/index.html#p-6",
       "alignment_revision": "sha256:73cd1340c28d7e1e7011c77c02c02644e208806cea53fa98a2ccec03129a077d",
       "review_state": {
         "human_reviewed": false,
@@ -655,9 +655,9 @@
         "work": "카인의 후손에 관하여",
         "reference": "6",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:a7131b2c2a6a95babb7db0690ee03a868817f6b305df228e81a21e39d2d0a6de",
-        "fixed_path": "releases/public-0.35/works/post/index.html#p-6"
+        "fixed_path": "releases/public-0.35.1/works/post/index.html#p-6"
       }
     },
     {
@@ -745,7 +745,7 @@
       "notes": [],
       "work_passage_id": "post:7",
       "html_path": "works/post/index.html#p-7",
-      "fixed_html_path": "releases/public-0.35/works/post/index.html#p-7",
+      "fixed_html_path": "releases/public-0.35.1/works/post/index.html#p-7",
       "alignment_revision": "sha256:742dacc74dbbf9c1b3aadc52e0bf05e0d8db41bbb8ac59e8a44730030f804e8a",
       "review_state": {
         "human_reviewed": false,
@@ -781,9 +781,9 @@
         "work": "카인의 후손에 관하여",
         "reference": "7",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:0716bbca6818902372be4aa9f87bf05e82e113f0b329462189ccfcd1bbb58e44",
-        "fixed_path": "releases/public-0.35/works/post/index.html#p-7"
+        "fixed_path": "releases/public-0.35.1/works/post/index.html#p-7"
       }
     },
     {
@@ -845,7 +845,7 @@
       "notes": [],
       "work_passage_id": "post:8",
       "html_path": "works/post/index.html#p-8",
-      "fixed_html_path": "releases/public-0.35/works/post/index.html#p-8",
+      "fixed_html_path": "releases/public-0.35.1/works/post/index.html#p-8",
       "alignment_revision": "sha256:d37a43d83090b3378385ef780c917f2a6fffa06905173c4c038da7644f6278c3",
       "review_state": {
         "human_reviewed": false,
@@ -881,9 +881,9 @@
         "work": "카인의 후손에 관하여",
         "reference": "8",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:5d63f6caaa74d57f54380fc2fd821212d60c5941fa9a61829800cfdd4dc2080b",
-        "fixed_path": "releases/public-0.35/works/post/index.html#p-8"
+        "fixed_path": "releases/public-0.35.1/works/post/index.html#p-8"
       }
     },
     {
@@ -971,7 +971,7 @@
       "notes": [],
       "work_passage_id": "post:9",
       "html_path": "works/post/index.html#p-9",
-      "fixed_html_path": "releases/public-0.35/works/post/index.html#p-9",
+      "fixed_html_path": "releases/public-0.35.1/works/post/index.html#p-9",
       "alignment_revision": "sha256:807440e2a7049076b0d429f75eeae07b8fcb50bf0312323bd76c8bcba4dc9848",
       "review_state": {
         "human_reviewed": false,
@@ -1007,9 +1007,9 @@
         "work": "카인의 후손에 관하여",
         "reference": "9",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:50dc74afe96653b602b39252cc51cd0d6d2daff0dbc52401f964c898f0eb6cc8",
-        "fixed_path": "releases/public-0.35/works/post/index.html#p-9"
+        "fixed_path": "releases/public-0.35.1/works/post/index.html#p-9"
       }
     },
     {
@@ -1115,7 +1115,7 @@
       ],
       "work_passage_id": "post:10",
       "html_path": "works/post/index.html#p-10",
-      "fixed_html_path": "releases/public-0.35/works/post/index.html#p-10",
+      "fixed_html_path": "releases/public-0.35.1/works/post/index.html#p-10",
       "alignment_revision": "sha256:6ca3b5c0f452729d323293c11f7552eb23fe7b4e6dd11e27ebbf6cf67bfa767b",
       "review_state": {
         "human_reviewed": false,
@@ -1151,9 +1151,9 @@
         "work": "카인의 후손에 관하여",
         "reference": "10",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:62a2177a7504d8442b08514cf61f9251c6d3edebb8b0b6433c92a73d728df0ac",
-        "fixed_path": "releases/public-0.35/works/post/index.html#p-10",
+        "fixed_path": "releases/public-0.35.1/works/post/index.html#p-10",
         "collation_edition": "Wendland 1897, vol. 2"
       }
     },
@@ -1219,7 +1219,7 @@
       "notes": [],
       "work_passage_id": "post:11",
       "html_path": "works/post/index.html#p-11",
-      "fixed_html_path": "releases/public-0.35/works/post/index.html#p-11",
+      "fixed_html_path": "releases/public-0.35.1/works/post/index.html#p-11",
       "alignment_revision": "sha256:9c0da6e46972423ec494f7df8467f4c008ac37d4ca3edef9bfbc8b8b68fca311",
       "review_state": {
         "human_reviewed": false,
@@ -1255,9 +1255,9 @@
         "work": "카인의 후손에 관하여",
         "reference": "11",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:5b4344a0c7816b95304f68f69c97ee3f008e028f81d41ea402f7ca1451ea70ea",
-        "fixed_path": "releases/public-0.35/works/post/index.html#p-11"
+        "fixed_path": "releases/public-0.35.1/works/post/index.html#p-11"
       }
     },
     {
@@ -1360,7 +1360,7 @@
       ],
       "work_passage_id": "post:12",
       "html_path": "works/post/index.html#p-12",
-      "fixed_html_path": "releases/public-0.35/works/post/index.html#p-12",
+      "fixed_html_path": "releases/public-0.35.1/works/post/index.html#p-12",
       "alignment_revision": "sha256:ac559b4633174faf698bff2824ea8f88c558c6fa40180fdb39066f5057c8b635",
       "review_state": {
         "human_reviewed": false,
@@ -1396,9 +1396,9 @@
         "work": "카인의 후손에 관하여",
         "reference": "12",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:e2dadfeed7ad130e1042fc0ffe5e8c115c9a102507c68d8e359c6f8d615a1676",
-        "fixed_path": "releases/public-0.35/works/post/index.html#p-12"
+        "fixed_path": "releases/public-0.35.1/works/post/index.html#p-12"
       }
     },
     {
@@ -1512,7 +1512,7 @@
       "notes": [],
       "work_passage_id": "post:13",
       "html_path": "works/post/index.html#p-13",
-      "fixed_html_path": "releases/public-0.35/works/post/index.html#p-13",
+      "fixed_html_path": "releases/public-0.35.1/works/post/index.html#p-13",
       "alignment_revision": "sha256:3525368000def31b7043df116aae445dc9dfe06846abab8b1469a6d80512a8dd",
       "review_state": {
         "human_reviewed": false,
@@ -1548,9 +1548,9 @@
         "work": "카인의 후손에 관하여",
         "reference": "13",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:c65868bae3c563c61ca3625e71033d176754d6e172348f6f95990d28c69a4313",
-        "fixed_path": "releases/public-0.35/works/post/index.html#p-13"
+        "fixed_path": "releases/public-0.35.1/works/post/index.html#p-13"
       }
     },
     {
@@ -1656,7 +1656,7 @@
       ],
       "work_passage_id": "post:14",
       "html_path": "works/post/index.html#p-14",
-      "fixed_html_path": "releases/public-0.35/works/post/index.html#p-14",
+      "fixed_html_path": "releases/public-0.35.1/works/post/index.html#p-14",
       "alignment_revision": "sha256:d99ed69247c64791194c439f65f74fc5c35114d21392d24ee49b82b06f520183",
       "review_state": {
         "human_reviewed": false,
@@ -1692,9 +1692,9 @@
         "work": "카인의 후손에 관하여",
         "reference": "14",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:eae86d862223f7f0a5b724945d6405286115a7df4259de6120f4520a3848478c",
-        "fixed_path": "releases/public-0.35/works/post/index.html#p-14"
+        "fixed_path": "releases/public-0.35.1/works/post/index.html#p-14"
       }
     },
     {
@@ -1771,7 +1771,7 @@
       ],
       "work_passage_id": "post:15",
       "html_path": "works/post/index.html#p-15",
-      "fixed_html_path": "releases/public-0.35/works/post/index.html#p-15",
+      "fixed_html_path": "releases/public-0.35.1/works/post/index.html#p-15",
       "alignment_revision": "sha256:97c3c367aeaeb88ae0e79951545a757ee44539ab5014e14f9bbe287160e8cb8b",
       "review_state": {
         "human_reviewed": false,
@@ -1807,9 +1807,9 @@
         "work": "카인의 후손에 관하여",
         "reference": "15",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:04e100cf13da81c922ec3b07d0c41c1f1fa19dcac4bce799463b865caf66211b",
-        "fixed_path": "releases/public-0.35/works/post/index.html#p-15"
+        "fixed_path": "releases/public-0.35.1/works/post/index.html#p-15"
       }
     },
     {
@@ -1884,7 +1884,7 @@
       "notes": [],
       "work_passage_id": "post:16",
       "html_path": "works/post/index.html#p-16",
-      "fixed_html_path": "releases/public-0.35/works/post/index.html#p-16",
+      "fixed_html_path": "releases/public-0.35.1/works/post/index.html#p-16",
       "alignment_revision": "sha256:cb84a3634e35ff2ba07c0b10e1b0d13ef64405569e100db9cf9eb2416aa1d006",
       "review_state": {
         "human_reviewed": false,
@@ -1920,9 +1920,9 @@
         "work": "카인의 후손에 관하여",
         "reference": "16",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:8d97e86ba73c525af7ede2c3138d09c00a65fbaa76a73aa4513a8daddcfd8cb6",
-        "fixed_path": "releases/public-0.35/works/post/index.html#p-16"
+        "fixed_path": "releases/public-0.35.1/works/post/index.html#p-16"
       }
     },
     {
@@ -1997,7 +1997,7 @@
       "notes": [],
       "work_passage_id": "post:17",
       "html_path": "works/post/index.html#p-17",
-      "fixed_html_path": "releases/public-0.35/works/post/index.html#p-17",
+      "fixed_html_path": "releases/public-0.35.1/works/post/index.html#p-17",
       "alignment_revision": "sha256:f230da1ca74b201f28baf01e2bd0c55802f275808a44a1885571310c6c15dcfd",
       "review_state": {
         "human_reviewed": false,
@@ -2033,9 +2033,9 @@
         "work": "카인의 후손에 관하여",
         "reference": "17",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:e66a0b76ace0c30fd32c6e0025c925f096169515f0ef2dae3741413eb116edff",
-        "fixed_path": "releases/public-0.35/works/post/index.html#p-17"
+        "fixed_path": "releases/public-0.35.1/works/post/index.html#p-17"
       }
     },
     {
@@ -2136,7 +2136,7 @@
       "notes": [],
       "work_passage_id": "post:18",
       "html_path": "works/post/index.html#p-18",
-      "fixed_html_path": "releases/public-0.35/works/post/index.html#p-18",
+      "fixed_html_path": "releases/public-0.35.1/works/post/index.html#p-18",
       "alignment_revision": "sha256:8bd635d27902ad8e92480750116e764e64301a317aa92dc5636dcf387b5198c5",
       "review_state": {
         "human_reviewed": false,
@@ -2172,9 +2172,9 @@
         "work": "카인의 후손에 관하여",
         "reference": "18",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:416c8d024d5a605fedb48d17dc6c214af47edc0d87702b7eff2a2867faf8d0ce",
-        "fixed_path": "releases/public-0.35/works/post/index.html#p-18"
+        "fixed_path": "releases/public-0.35.1/works/post/index.html#p-18"
       }
     },
     {
@@ -2291,7 +2291,7 @@
       "notes": [],
       "work_passage_id": "post:19",
       "html_path": "works/post/index.html#p-19",
-      "fixed_html_path": "releases/public-0.35/works/post/index.html#p-19",
+      "fixed_html_path": "releases/public-0.35.1/works/post/index.html#p-19",
       "alignment_revision": "sha256:1d9fbe29584eab01cac9b18a9b82385c194dc328efa8ca71cadb95502a8bda77",
       "review_state": {
         "human_reviewed": false,
@@ -2327,9 +2327,9 @@
         "work": "카인의 후손에 관하여",
         "reference": "19",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:379c872d45a888d79c58cd7dfc2797a2bd1a3a3396877cce75517dd9d6e9e69c",
-        "fixed_path": "releases/public-0.35/works/post/index.html#p-19"
+        "fixed_path": "releases/public-0.35.1/works/post/index.html#p-19"
       }
     },
     {
@@ -2406,7 +2406,7 @@
       ],
       "work_passage_id": "post:20",
       "html_path": "works/post/index.html#p-20",
-      "fixed_html_path": "releases/public-0.35/works/post/index.html#p-20",
+      "fixed_html_path": "releases/public-0.35.1/works/post/index.html#p-20",
       "alignment_revision": "sha256:b2917b5b17333bf2d7454f8c2db056234abf253515d291aa1acecd969ace3a87",
       "review_state": {
         "human_reviewed": false,
@@ -2442,9 +2442,9 @@
         "work": "카인의 후손에 관하여",
         "reference": "20",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:8a301441014f444ccc30419f1ad966ce2d6766c75f3d503182042ee21829cba8",
-        "fixed_path": "releases/public-0.35/works/post/index.html#p-20"
+        "fixed_path": "releases/public-0.35.1/works/post/index.html#p-20"
       }
     }
   ],
@@ -2467,14 +2467,14 @@
   "display_author": "필론",
   "scope": "카인의 후손에 관하여 1-20절 전체, 21-185절 미수록",
   "coverage": "complete_scope",
-  "release_id": "public-0.35",
+  "release_id": "public-0.35.1",
   "source_language": "grc",
   "source_kind": "edited_ancient_original",
   "human_reviewed": false,
   "translation_method": "고정 원어 본문에서 직접 번역",
   "html_path": "works/post/index.html",
   "json_path": "data/works/post.json",
-  "fixed_html_path": "releases/public-0.35/works/post/index.html",
+  "fixed_html_path": "releases/public-0.35.1/works/post/index.html",
   "source_profile": "post-first1k-03776b39",
   "source_decisions": [
     {

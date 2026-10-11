@@ -88,7 +88,7 @@
       ],
       "work_passage_id": "virt:1",
       "html_path": "works/virt/index.html#p-1",
-      "fixed_html_path": "releases/public-0.35/works/virt/index.html#p-1",
+      "fixed_html_path": "releases/public-0.35.1/works/virt/index.html#p-1",
       "alignment_revision": "sha256:b4c5846f1e3f7c1c7e278bf6fa51e164a3e65d15aeed15d35f28acd4c9799158",
       "review_state": {
         "human_reviewed": false,
@@ -124,9 +124,9 @@
         "work": "덕에 관하여",
         "reference": "1",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 5, Reimer, 1906.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:663e8044a2218278d78063a5a159cb03f19c27b88ba70096c104362dda773323",
-        "fixed_path": "releases/public-0.35/works/virt/index.html#p-1"
+        "fixed_path": "releases/public-0.35.1/works/virt/index.html#p-1"
       }
     },
     {
@@ -202,7 +202,7 @@
       "notes": [],
       "work_passage_id": "virt:2",
       "html_path": "works/virt/index.html#p-2",
-      "fixed_html_path": "releases/public-0.35/works/virt/index.html#p-2",
+      "fixed_html_path": "releases/public-0.35.1/works/virt/index.html#p-2",
       "alignment_revision": "sha256:b8e233316cec9044da11ac9facfc4fc74019da1c7413b69c5866a783db453daf",
       "review_state": {
         "human_reviewed": false,
@@ -238,9 +238,9 @@
         "work": "덕에 관하여",
         "reference": "2",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 5, Reimer, 1906.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:5c3e985a591755037ebfe239023872041a22846563aee0316bb57011fdcd29ef",
-        "fixed_path": "releases/public-0.35/works/virt/index.html#p-2"
+        "fixed_path": "releases/public-0.35.1/works/virt/index.html#p-2"
       }
     },
     {
@@ -329,7 +329,7 @@
       "notes": [],
       "work_passage_id": "virt:3",
       "html_path": "works/virt/index.html#p-3",
-      "fixed_html_path": "releases/public-0.35/works/virt/index.html#p-3",
+      "fixed_html_path": "releases/public-0.35.1/works/virt/index.html#p-3",
       "alignment_revision": "sha256:b41ad8a153941326ddae159333d2f663d75b6e9d9d8a0cabd5a4139870357f08",
       "review_state": {
         "human_reviewed": false,
@@ -365,9 +365,9 @@
         "work": "덕에 관하여",
         "reference": "3",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 5, Reimer, 1906.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:80b05a49452c41eb5184797138b41bdb8c4ce9a707beee5c1ff3f503d3f88cca",
-        "fixed_path": "releases/public-0.35/works/virt/index.html#p-3"
+        "fixed_path": "releases/public-0.35.1/works/virt/index.html#p-3"
       }
     },
     {
@@ -430,7 +430,7 @@
       "notes": [],
       "work_passage_id": "virt:4",
       "html_path": "works/virt/index.html#p-4",
-      "fixed_html_path": "releases/public-0.35/works/virt/index.html#p-4",
+      "fixed_html_path": "releases/public-0.35.1/works/virt/index.html#p-4",
       "alignment_revision": "sha256:a7ce0c736976a7140a8b00c1a52cf7e1c52db4fc977bc2c43441e707a4c689a2",
       "review_state": {
         "human_reviewed": false,
@@ -466,9 +466,9 @@
         "work": "덕에 관하여",
         "reference": "4",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 5, Reimer, 1906.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:6ad5d9f4d258e551109f121d18b6653905a97ce785280c1ed3aa6f95847d595c",
-        "fixed_path": "releases/public-0.35/works/virt/index.html#p-4"
+        "fixed_path": "releases/public-0.35.1/works/virt/index.html#p-4"
       }
     },
     {
@@ -557,7 +557,7 @@
       "notes": [],
       "work_passage_id": "virt:5",
       "html_path": "works/virt/index.html#p-5",
-      "fixed_html_path": "releases/public-0.35/works/virt/index.html#p-5",
+      "fixed_html_path": "releases/public-0.35.1/works/virt/index.html#p-5",
       "alignment_revision": "sha256:7eef8c5e3a571542bc59524a098430ce6b85cdf388b0222760c342c6d1bacd90",
       "review_state": {
         "human_reviewed": false,
@@ -593,9 +593,9 @@
         "work": "덕에 관하여",
         "reference": "5",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 5, Reimer, 1906.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:cf2a2ae3099ad23bbc07d46f18360fc0e89767abe84bfc037d775552ce480e7f",
-        "fixed_path": "releases/public-0.35/works/virt/index.html#p-5"
+        "fixed_path": "releases/public-0.35.1/works/virt/index.html#p-5"
       }
     },
     {
@@ -699,7 +699,7 @@
       ],
       "work_passage_id": "virt:6",
       "html_path": "works/virt/index.html#p-6",
-      "fixed_html_path": "releases/public-0.35/works/virt/index.html#p-6",
+      "fixed_html_path": "releases/public-0.35.1/works/virt/index.html#p-6",
       "alignment_revision": "sha256:99fdc9cac036ac70e26ab651346922ebb787ea6e173e31bfa361c23a2ea70ecc",
       "review_state": {
         "human_reviewed": false,
@@ -735,9 +735,9 @@
         "work": "덕에 관하여",
         "reference": "6",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 5, Reimer, 1906.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:72f0858e181038deb22566ed68ba639e59e522cee8785363de97baf67b32fa81",
-        "fixed_path": "releases/public-0.35/works/virt/index.html#p-6"
+        "fixed_path": "releases/public-0.35.1/works/virt/index.html#p-6"
       }
     },
     {
@@ -787,7 +787,7 @@
       "notes": [],
       "work_passage_id": "virt:7",
       "html_path": "works/virt/index.html#p-7",
-      "fixed_html_path": "releases/public-0.35/works/virt/index.html#p-7",
+      "fixed_html_path": "releases/public-0.35.1/works/virt/index.html#p-7",
       "alignment_revision": "sha256:8eb263d0e69d9fdf0259424db80628f3ecfd5bbaf769ca264b2b507eddb1b8c6",
       "review_state": {
         "human_reviewed": false,
@@ -823,9 +823,9 @@
         "work": "덕에 관하여",
         "reference": "7",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 5, Reimer, 1906.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:37648dde799bf982a56ae0377160107b546c33370fe27595cc347b33dccdf5da",
-        "fixed_path": "releases/public-0.35/works/virt/index.html#p-7"
+        "fixed_path": "releases/public-0.35.1/works/virt/index.html#p-7"
       }
     },
     {
@@ -914,7 +914,7 @@
       "notes": [],
       "work_passage_id": "virt:8",
       "html_path": "works/virt/index.html#p-8",
-      "fixed_html_path": "releases/public-0.35/works/virt/index.html#p-8",
+      "fixed_html_path": "releases/public-0.35.1/works/virt/index.html#p-8",
       "alignment_revision": "sha256:70f54b65c23b883e3244586a3dcb7806a9343b261ed6e56ce06d46eeee91ea0d",
       "review_state": {
         "human_reviewed": false,
@@ -950,9 +950,9 @@
         "work": "덕에 관하여",
         "reference": "8",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 5, Reimer, 1906.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:804b9cdbb389a9387bb5de65a6b605846e26d8e6200e07811529eb34582b051c",
-        "fixed_path": "releases/public-0.35/works/virt/index.html#p-8"
+        "fixed_path": "releases/public-0.35.1/works/virt/index.html#p-8"
       }
     },
     {
@@ -1054,7 +1054,7 @@
       "notes": [],
       "work_passage_id": "virt:9",
       "html_path": "works/virt/index.html#p-9",
-      "fixed_html_path": "releases/public-0.35/works/virt/index.html#p-9",
+      "fixed_html_path": "releases/public-0.35.1/works/virt/index.html#p-9",
       "alignment_revision": "sha256:4d00fbd1b41361ad2121fb525e22ed9006e37410ec7ef521aa7a4a8dc428f080",
       "review_state": {
         "human_reviewed": false,
@@ -1090,9 +1090,9 @@
         "work": "덕에 관하여",
         "reference": "9",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 5, Reimer, 1906.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:fa3c3027f38f068387082c0fe0fb98b81ca4f91f27bcbb895acfd54658f73e8c",
-        "fixed_path": "releases/public-0.35/works/virt/index.html#p-9"
+        "fixed_path": "releases/public-0.35.1/works/virt/index.html#p-9"
       }
     },
     {
@@ -1194,7 +1194,7 @@
       "notes": [],
       "work_passage_id": "virt:10",
       "html_path": "works/virt/index.html#p-10",
-      "fixed_html_path": "releases/public-0.35/works/virt/index.html#p-10",
+      "fixed_html_path": "releases/public-0.35.1/works/virt/index.html#p-10",
       "alignment_revision": "sha256:bbf95ad4813497387af2f067efbc6e6c068179d41c4dc882d20870ba57d8694e",
       "review_state": {
         "human_reviewed": false,
@@ -1230,9 +1230,9 @@
         "work": "덕에 관하여",
         "reference": "10",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 5, Reimer, 1906.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:3878a348cfad815c8ffaf535816ba94366ee636259657d09e6b9e5b1736fad08",
-        "fixed_path": "releases/public-0.35/works/virt/index.html#p-10"
+        "fixed_path": "releases/public-0.35.1/works/virt/index.html#p-10"
       }
     },
     {
@@ -1308,7 +1308,7 @@
       "notes": [],
       "work_passage_id": "virt:11",
       "html_path": "works/virt/index.html#p-11",
-      "fixed_html_path": "releases/public-0.35/works/virt/index.html#p-11",
+      "fixed_html_path": "releases/public-0.35.1/works/virt/index.html#p-11",
       "alignment_revision": "sha256:82682d7f340c5eedbf60b82e5f1c1e39d0d9895dbe266f6bd72afa9b5771ffda",
       "review_state": {
         "human_reviewed": false,
@@ -1344,9 +1344,9 @@
         "work": "덕에 관하여",
         "reference": "11",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 5, Reimer, 1906.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:8868322e6a5a6fd10e65aa56f95262db0f450ad62f8f7a0d77f5122d6dc8fc1f",
-        "fixed_path": "releases/public-0.35/works/virt/index.html#p-11"
+        "fixed_path": "releases/public-0.35.1/works/virt/index.html#p-11"
       }
     },
     {
@@ -1422,7 +1422,7 @@
       "notes": [],
       "work_passage_id": "virt:12",
       "html_path": "works/virt/index.html#p-12",
-      "fixed_html_path": "releases/public-0.35/works/virt/index.html#p-12",
+      "fixed_html_path": "releases/public-0.35.1/works/virt/index.html#p-12",
       "alignment_revision": "sha256:c2952bf8684a3ac155bcb23b843e5ce6719bfcce09378b3a0bd93fb0010e6b62",
       "review_state": {
         "human_reviewed": false,
@@ -1458,9 +1458,9 @@
         "work": "덕에 관하여",
         "reference": "12",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 5, Reimer, 1906.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:9c364de711d90e4b2fc1056bb325fa3e0c0576c8a468a19ff4d77e9ad6042a12",
-        "fixed_path": "releases/public-0.35/works/virt/index.html#p-12"
+        "fixed_path": "releases/public-0.35.1/works/virt/index.html#p-12"
       }
     },
     {
@@ -1525,7 +1525,7 @@
       ],
       "work_passage_id": "virt:13",
       "html_path": "works/virt/index.html#p-13",
-      "fixed_html_path": "releases/public-0.35/works/virt/index.html#p-13",
+      "fixed_html_path": "releases/public-0.35.1/works/virt/index.html#p-13",
       "alignment_revision": "sha256:0c145560a20b1a21fe44c8187fed13afe91c6105104cca2d3d02c86bc1b579f9",
       "review_state": {
         "human_reviewed": false,
@@ -1561,9 +1561,9 @@
         "work": "덕에 관하여",
         "reference": "13",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 5, Reimer, 1906.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:8beeebaba4232b6c323fb2750fca21359fa5888b174c8101d4f74f6c4e3637ef",
-        "fixed_path": "releases/public-0.35/works/virt/index.html#p-13"
+        "fixed_path": "releases/public-0.35.1/works/virt/index.html#p-13"
       }
     },
     {
@@ -1657,7 +1657,7 @@
       ],
       "work_passage_id": "virt:14",
       "html_path": "works/virt/index.html#p-14",
-      "fixed_html_path": "releases/public-0.35/works/virt/index.html#p-14",
+      "fixed_html_path": "releases/public-0.35.1/works/virt/index.html#p-14",
       "alignment_revision": "sha256:f4b94fb6168e6c17f3778e3ac10ee33ac560a0c7150e513e5e5372767f716a1a",
       "review_state": {
         "human_reviewed": false,
@@ -1693,9 +1693,9 @@
         "work": "덕에 관하여",
         "reference": "14",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 5, Reimer, 1906.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:70b65c4516dd2cd2836b1f1b78d0aac6f8a0da0a61ab4c513ae70a5632817ef1",
-        "fixed_path": "releases/public-0.35/works/virt/index.html#p-14",
+        "fixed_path": "releases/public-0.35.1/works/virt/index.html#p-14",
         "collation_edition": "Cohn1906, vol.5,270쪽"
       }
     },
@@ -1759,7 +1759,7 @@
       "notes": [],
       "work_passage_id": "virt:15",
       "html_path": "works/virt/index.html#p-15",
-      "fixed_html_path": "releases/public-0.35/works/virt/index.html#p-15",
+      "fixed_html_path": "releases/public-0.35.1/works/virt/index.html#p-15",
       "alignment_revision": "sha256:3bd04205213e0f0eb63a66ef47d6f1e7163889a4e5cc98858257952ac37d14a5",
       "review_state": {
         "human_reviewed": false,
@@ -1795,9 +1795,9 @@
         "work": "덕에 관하여",
         "reference": "15",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 5, Reimer, 1906.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:8aa8247edd051aa5c5b28f30b796705a0e88887d0f0437376a077dab873938b1",
-        "fixed_path": "releases/public-0.35/works/virt/index.html#p-15"
+        "fixed_path": "releases/public-0.35.1/works/virt/index.html#p-15"
       }
     },
     {
@@ -1847,7 +1847,7 @@
       "notes": [],
       "work_passage_id": "virt:16",
       "html_path": "works/virt/index.html#p-16",
-      "fixed_html_path": "releases/public-0.35/works/virt/index.html#p-16",
+      "fixed_html_path": "releases/public-0.35.1/works/virt/index.html#p-16",
       "alignment_revision": "sha256:f76a7529b5759148f8c16b8ee0675f1ebbb574af5c2733db6174bb85de84bc87",
       "review_state": {
         "human_reviewed": false,
@@ -1883,9 +1883,9 @@
         "work": "덕에 관하여",
         "reference": "16",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 5, Reimer, 1906.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:9eff9292cb6c4e02c8383a324778472bea5a6c63bdeb8bb6320a12c20cb213c9",
-        "fixed_path": "releases/public-0.35/works/virt/index.html#p-16"
+        "fixed_path": "releases/public-0.35.1/works/virt/index.html#p-16"
       }
     },
     {
@@ -1948,7 +1948,7 @@
       "notes": [],
       "work_passage_id": "virt:17",
       "html_path": "works/virt/index.html#p-17",
-      "fixed_html_path": "releases/public-0.35/works/virt/index.html#p-17",
+      "fixed_html_path": "releases/public-0.35.1/works/virt/index.html#p-17",
       "alignment_revision": "sha256:e59b8ce546b005e021bcb3578be20693d8b987629d33ff7e2d79181e1514787b",
       "review_state": {
         "human_reviewed": false,
@@ -1984,9 +1984,9 @@
         "work": "덕에 관하여",
         "reference": "17",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 5, Reimer, 1906.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:600001d5db6380a1daee635049e887af62081e986548e163a664e63bd74be42c",
-        "fixed_path": "releases/public-0.35/works/virt/index.html#p-17"
+        "fixed_path": "releases/public-0.35.1/works/virt/index.html#p-17"
       }
     },
     {
@@ -2077,7 +2077,7 @@
       ],
       "work_passage_id": "virt:18",
       "html_path": "works/virt/index.html#p-18",
-      "fixed_html_path": "releases/public-0.35/works/virt/index.html#p-18",
+      "fixed_html_path": "releases/public-0.35.1/works/virt/index.html#p-18",
       "alignment_revision": "sha256:72e8be306078472b5727f821189d5b9c74299f4fa02e0ddb150317f168587afc",
       "review_state": {
         "human_reviewed": false,
@@ -2113,9 +2113,9 @@
         "work": "덕에 관하여",
         "reference": "18",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 5, Reimer, 1906.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:54e4c829caadf60b3ad39bea93124be6c7e319b907a178da774d236479ffd440",
-        "fixed_path": "releases/public-0.35/works/virt/index.html#p-18"
+        "fixed_path": "releases/public-0.35.1/works/virt/index.html#p-18"
       }
     },
     {
@@ -2191,7 +2191,7 @@
       "notes": [],
       "work_passage_id": "virt:19",
       "html_path": "works/virt/index.html#p-19",
-      "fixed_html_path": "releases/public-0.35/works/virt/index.html#p-19",
+      "fixed_html_path": "releases/public-0.35.1/works/virt/index.html#p-19",
       "alignment_revision": "sha256:83c1dd4994580faf575766940132f69f3d24bed0e0805583ee2f345ee383fc29",
       "review_state": {
         "human_reviewed": false,
@@ -2227,9 +2227,9 @@
         "work": "덕에 관하여",
         "reference": "19",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 5, Reimer, 1906.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:3bbdecd8b7938e2c11012729a29e590803d2a9c3c40f25d4c6628edbd9d162bb",
-        "fixed_path": "releases/public-0.35/works/virt/index.html#p-19"
+        "fixed_path": "releases/public-0.35.1/works/virt/index.html#p-19"
       }
     },
     {
@@ -2279,7 +2279,7 @@
       "notes": [],
       "work_passage_id": "virt:20",
       "html_path": "works/virt/index.html#p-20",
-      "fixed_html_path": "releases/public-0.35/works/virt/index.html#p-20",
+      "fixed_html_path": "releases/public-0.35.1/works/virt/index.html#p-20",
       "alignment_revision": "sha256:46c0b1e086a51792665dc9cb4afebbc7377823d3f369527d483f0fb7c7d8f07d",
       "review_state": {
         "human_reviewed": false,
@@ -2315,9 +2315,9 @@
         "work": "덕에 관하여",
         "reference": "20",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 5, Reimer, 1906.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:169a3e537def14d8d52862def2ade3a3931d53199b51ddcbddcfb545ff432370",
-        "fixed_path": "releases/public-0.35/works/virt/index.html#p-20"
+        "fixed_path": "releases/public-0.35.1/works/virt/index.html#p-20"
       }
     },
     {
@@ -2382,7 +2382,7 @@
       ],
       "work_passage_id": "virt:21",
       "html_path": "works/virt/index.html#p-21",
-      "fixed_html_path": "releases/public-0.35/works/virt/index.html#p-21",
+      "fixed_html_path": "releases/public-0.35.1/works/virt/index.html#p-21",
       "alignment_revision": "sha256:b604459d7718dd0a43fdfba07f5ce4ee0e53bf7cfc5e6373bbf7838300774b01",
       "review_state": {
         "human_reviewed": false,
@@ -2418,9 +2418,9 @@
         "work": "덕에 관하여",
         "reference": "21",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 5, Reimer, 1906.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:1627b12209c303e4ffb9e076521ce7691082266fb1bba9f1c19e2281648d3d5d",
-        "fixed_path": "releases/public-0.35/works/virt/index.html#p-21"
+        "fixed_path": "releases/public-0.35.1/works/virt/index.html#p-21"
       }
     },
     {
@@ -2522,7 +2522,7 @@
       "notes": [],
       "work_passage_id": "virt:22",
       "html_path": "works/virt/index.html#p-22",
-      "fixed_html_path": "releases/public-0.35/works/virt/index.html#p-22",
+      "fixed_html_path": "releases/public-0.35.1/works/virt/index.html#p-22",
       "alignment_revision": "sha256:ef2867445fc75ae096fca28cbd6131dbf50e528665c22e5897df6cf80c2269f2",
       "review_state": {
         "human_reviewed": false,
@@ -2558,9 +2558,9 @@
         "work": "덕에 관하여",
         "reference": "22",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 5, Reimer, 1906.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:bae865547dfe486b8d61a3813b7e578092f6c65a17e1cc30c7ea6bbe2f4996a4",
-        "fixed_path": "releases/public-0.35/works/virt/index.html#p-22"
+        "fixed_path": "releases/public-0.35.1/works/virt/index.html#p-22"
       }
     },
     {
@@ -2638,7 +2638,7 @@
       ],
       "work_passage_id": "virt:23",
       "html_path": "works/virt/index.html#p-23",
-      "fixed_html_path": "releases/public-0.35/works/virt/index.html#p-23",
+      "fixed_html_path": "releases/public-0.35.1/works/virt/index.html#p-23",
       "alignment_revision": "sha256:a232f26a9441012ff775cd14fbe0b55499987d2b218d487953337ca10d7287b0",
       "review_state": {
         "human_reviewed": false,
@@ -2674,9 +2674,9 @@
         "work": "덕에 관하여",
         "reference": "23",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 5, Reimer, 1906.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:512a308b994d0a0b254e0d11e490451ee521e2f787675d3020186e263b044f46",
-        "fixed_path": "releases/public-0.35/works/virt/index.html#p-23"
+        "fixed_path": "releases/public-0.35.1/works/virt/index.html#p-23"
       }
     },
     {
@@ -2752,7 +2752,7 @@
       "notes": [],
       "work_passage_id": "virt:24",
       "html_path": "works/virt/index.html#p-24",
-      "fixed_html_path": "releases/public-0.35/works/virt/index.html#p-24",
+      "fixed_html_path": "releases/public-0.35.1/works/virt/index.html#p-24",
       "alignment_revision": "sha256:dab7a631945baef7c8bf4565df827d7ed4ebfc2c47c919d6850544f9463f8014",
       "review_state": {
         "human_reviewed": false,
@@ -2788,9 +2788,9 @@
         "work": "덕에 관하여",
         "reference": "24",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 5, Reimer, 1906.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:7857008704b80c6aca2262bbc1cb5b7b70af202a4c5d84fa90562278002d3f92",
-        "fixed_path": "releases/public-0.35/works/virt/index.html#p-24"
+        "fixed_path": "releases/public-0.35.1/works/virt/index.html#p-24"
       }
     },
     {
@@ -2866,7 +2866,7 @@
       "notes": [],
       "work_passage_id": "virt:25",
       "html_path": "works/virt/index.html#p-25",
-      "fixed_html_path": "releases/public-0.35/works/virt/index.html#p-25",
+      "fixed_html_path": "releases/public-0.35.1/works/virt/index.html#p-25",
       "alignment_revision": "sha256:f602093d4f83e5e96c5f7ac86f957c943488441f1ba4abf5c849e3fa51b39b1b",
       "review_state": {
         "human_reviewed": false,
@@ -2902,9 +2902,9 @@
         "work": "덕에 관하여",
         "reference": "25",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 5, Reimer, 1906.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:f05e9027a2856fb7175ef30c5999844d2c59d0ffc0b88bece8f4b6e0d9f640d0",
-        "fixed_path": "releases/public-0.35/works/virt/index.html#p-25"
+        "fixed_path": "releases/public-0.35.1/works/virt/index.html#p-25"
       }
     },
     {
@@ -2993,7 +2993,7 @@
       "notes": [],
       "work_passage_id": "virt:26",
       "html_path": "works/virt/index.html#p-26",
-      "fixed_html_path": "releases/public-0.35/works/virt/index.html#p-26",
+      "fixed_html_path": "releases/public-0.35.1/works/virt/index.html#p-26",
       "alignment_revision": "sha256:23493774c32f08edf680a8b5a2c4f44ed0ad80cd9529af11e671da633d534118",
       "review_state": {
         "human_reviewed": false,
@@ -3029,9 +3029,9 @@
         "work": "덕에 관하여",
         "reference": "26",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 5, Reimer, 1906.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:f0c3f496ee9c136e57ddf9f7c8c82be6f205249e1b6c8c369bc479d1c893a1eb",
-        "fixed_path": "releases/public-0.35/works/virt/index.html#p-26"
+        "fixed_path": "releases/public-0.35.1/works/virt/index.html#p-26"
       }
     },
     {
@@ -3094,7 +3094,7 @@
       "notes": [],
       "work_passage_id": "virt:27",
       "html_path": "works/virt/index.html#p-27",
-      "fixed_html_path": "releases/public-0.35/works/virt/index.html#p-27",
+      "fixed_html_path": "releases/public-0.35.1/works/virt/index.html#p-27",
       "alignment_revision": "sha256:bcbe825000ffe1abc1eb6583a01afc44863b742b91b649aca641df6754a73ef3",
       "review_state": {
         "human_reviewed": false,
@@ -3130,9 +3130,9 @@
         "work": "덕에 관하여",
         "reference": "27",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 5, Reimer, 1906.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:b1075fb43634265fb1cb193de2fb4adbdb9c217072516c750892162f613a9c0f",
-        "fixed_path": "releases/public-0.35/works/virt/index.html#p-27"
+        "fixed_path": "releases/public-0.35.1/works/virt/index.html#p-27"
       }
     },
     {
@@ -3233,7 +3233,7 @@
       ],
       "work_passage_id": "virt:28",
       "html_path": "works/virt/index.html#p-28",
-      "fixed_html_path": "releases/public-0.35/works/virt/index.html#p-28",
+      "fixed_html_path": "releases/public-0.35.1/works/virt/index.html#p-28",
       "alignment_revision": "sha256:adb0d979d545ccaacab0cc68d04bea92dbd9770f4cc606b6f6c89c3991c87768",
       "review_state": {
         "human_reviewed": false,
@@ -3269,9 +3269,9 @@
         "work": "덕에 관하여",
         "reference": "28",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 5, Reimer, 1906.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:9f30cdbbd9e97fb2b5bd7662376901f656131429d8e7d4433c901ced07e84399",
-        "fixed_path": "releases/public-0.35/works/virt/index.html#p-28"
+        "fixed_path": "releases/public-0.35.1/works/virt/index.html#p-28"
       }
     },
     {
@@ -3388,7 +3388,7 @@
       ],
       "work_passage_id": "virt:29",
       "html_path": "works/virt/index.html#p-29",
-      "fixed_html_path": "releases/public-0.35/works/virt/index.html#p-29",
+      "fixed_html_path": "releases/public-0.35.1/works/virt/index.html#p-29",
       "alignment_revision": "sha256:fb0485c9819004e5c349b6715613d1cefaed166a381170b7af1da50fd48d1268",
       "review_state": {
         "human_reviewed": false,
@@ -3424,9 +3424,9 @@
         "work": "덕에 관하여",
         "reference": "29",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 5, Reimer, 1906.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:2205a16d3ba3c6cc4eb2aa5d371adf0939851ac8e418e5e2be9de73d04953d63",
-        "fixed_path": "releases/public-0.35/works/virt/index.html#p-29"
+        "fixed_path": "releases/public-0.35.1/works/virt/index.html#p-29"
       }
     },
     {
@@ -3515,7 +3515,7 @@
       "notes": [],
       "work_passage_id": "virt:30",
       "html_path": "works/virt/index.html#p-30",
-      "fixed_html_path": "releases/public-0.35/works/virt/index.html#p-30",
+      "fixed_html_path": "releases/public-0.35.1/works/virt/index.html#p-30",
       "alignment_revision": "sha256:9e75c4049f06881c23933fcc3a546853eb4ce972262dd36ddb57c5930ebb30af",
       "review_state": {
         "human_reviewed": false,
@@ -3551,9 +3551,9 @@
         "work": "덕에 관하여",
         "reference": "30",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 5, Reimer, 1906.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:49aff981acfeb1dc931776b7c7e55bd582c9b2d81059f7dd3ff21fa0735bf026",
-        "fixed_path": "releases/public-0.35/works/virt/index.html#p-30"
+        "fixed_path": "releases/public-0.35.1/works/virt/index.html#p-30"
       }
     },
     {
@@ -3655,7 +3655,7 @@
       "notes": [],
       "work_passage_id": "virt:31",
       "html_path": "works/virt/index.html#p-31",
-      "fixed_html_path": "releases/public-0.35/works/virt/index.html#p-31",
+      "fixed_html_path": "releases/public-0.35.1/works/virt/index.html#p-31",
       "alignment_revision": "sha256:234d7bf7bc69782e55adb9c2f81736f04c27fb56a92e7a7ba4bfa0496a1cd07c",
       "review_state": {
         "human_reviewed": false,
@@ -3691,9 +3691,9 @@
         "work": "덕에 관하여",
         "reference": "31",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 5, Reimer, 1906.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:959a2b0fcc78ba3a2f83fff8b64fd998b09dca820fc4a6d1738ba585afb35801",
-        "fixed_path": "releases/public-0.35/works/virt/index.html#p-31"
+        "fixed_path": "releases/public-0.35.1/works/virt/index.html#p-31"
       }
     },
     {
@@ -3800,7 +3800,7 @@
       ],
       "work_passage_id": "virt:32",
       "html_path": "works/virt/index.html#p-32",
-      "fixed_html_path": "releases/public-0.35/works/virt/index.html#p-32",
+      "fixed_html_path": "releases/public-0.35.1/works/virt/index.html#p-32",
       "alignment_revision": "sha256:fa7fecb23308a83c19ebfdbcf49fcf05eb444bccbb419404a6d894f52d39f6cc",
       "review_state": {
         "human_reviewed": false,
@@ -3836,9 +3836,9 @@
         "work": "덕에 관하여",
         "reference": "32",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 5, Reimer, 1906.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:ccbe24600053d5d16190bf171a99bf546317b51d8bae7265187a760cb84a3dcd",
-        "fixed_path": "releases/public-0.35/works/virt/index.html#p-32",
+        "fixed_path": "releases/public-0.35.1/works/virt/index.html#p-32",
         "collation_edition": "Cohn1906,vol.5,275쪽"
       }
     },
@@ -3902,7 +3902,7 @@
       "notes": [],
       "work_passage_id": "virt:33",
       "html_path": "works/virt/index.html#p-33",
-      "fixed_html_path": "releases/public-0.35/works/virt/index.html#p-33",
+      "fixed_html_path": "releases/public-0.35.1/works/virt/index.html#p-33",
       "alignment_revision": "sha256:863805831943fb185c13ce844d8add74258c31b98c778cecee1c74fd7f433bb9",
       "review_state": {
         "human_reviewed": false,
@@ -3938,9 +3938,9 @@
         "work": "덕에 관하여",
         "reference": "33",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 5, Reimer, 1906.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:ac49b920a18b7e9c3eab88505cabd6ddabcc73a6d7aa46bbf37e7c95e6e5c1eb",
-        "fixed_path": "releases/public-0.35/works/virt/index.html#p-33"
+        "fixed_path": "releases/public-0.35.1/works/virt/index.html#p-33"
       }
     },
     {
@@ -4044,7 +4044,7 @@
       ],
       "work_passage_id": "virt:34",
       "html_path": "works/virt/index.html#p-34",
-      "fixed_html_path": "releases/public-0.35/works/virt/index.html#p-34",
+      "fixed_html_path": "releases/public-0.35.1/works/virt/index.html#p-34",
       "alignment_revision": "sha256:2cea2935bab73952f6fed94b038a86ef806af01a2a9a3690c3431533a7d51bc4",
       "review_state": {
         "human_reviewed": false,
@@ -4080,9 +4080,9 @@
         "work": "덕에 관하여",
         "reference": "34",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 5, Reimer, 1906.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:b0fc717f083c30ac5d184025c4a0898625a29bfd14f56d45c1ebec812b354d3c",
-        "fixed_path": "releases/public-0.35/works/virt/index.html#p-34"
+        "fixed_path": "releases/public-0.35.1/works/virt/index.html#p-34"
       }
     },
     {
@@ -4171,7 +4171,7 @@
       "notes": [],
       "work_passage_id": "virt:35",
       "html_path": "works/virt/index.html#p-35",
-      "fixed_html_path": "releases/public-0.35/works/virt/index.html#p-35",
+      "fixed_html_path": "releases/public-0.35.1/works/virt/index.html#p-35",
       "alignment_revision": "sha256:b9f5ac16160fc706daa1f15c386ac26ff598e0fec53fb4bef0738c97ee6b67a8",
       "review_state": {
         "human_reviewed": false,
@@ -4207,9 +4207,9 @@
         "work": "덕에 관하여",
         "reference": "35",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 5, Reimer, 1906.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:d0643d71aaaf1346eb28c435aba0e047099000dcecd3521f287b51afef852ae6",
-        "fixed_path": "releases/public-0.35/works/virt/index.html#p-35"
+        "fixed_path": "releases/public-0.35.1/works/virt/index.html#p-35"
       }
     },
     {
@@ -4272,7 +4272,7 @@
       "notes": [],
       "work_passage_id": "virt:36",
       "html_path": "works/virt/index.html#p-36",
-      "fixed_html_path": "releases/public-0.35/works/virt/index.html#p-36",
+      "fixed_html_path": "releases/public-0.35.1/works/virt/index.html#p-36",
       "alignment_revision": "sha256:892386d4f8fdd1b53948ce2db0f0400d2c079ae2b03d83e1ab3d5352722810e6",
       "review_state": {
         "human_reviewed": false,
@@ -4308,9 +4308,9 @@
         "work": "덕에 관하여",
         "reference": "36",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 5, Reimer, 1906.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:d7a3f9c42ab75391c332612c413b98f3133c1d88c7a25669686befcd3660f5e5",
-        "fixed_path": "releases/public-0.35/works/virt/index.html#p-36"
+        "fixed_path": "releases/public-0.35.1/works/virt/index.html#p-36"
       }
     },
     {
@@ -4414,7 +4414,7 @@
       ],
       "work_passage_id": "virt:37",
       "html_path": "works/virt/index.html#p-37",
-      "fixed_html_path": "releases/public-0.35/works/virt/index.html#p-37",
+      "fixed_html_path": "releases/public-0.35.1/works/virt/index.html#p-37",
       "alignment_revision": "sha256:62100fb53733510e3efdde1bfe6f66d4af3ee0323dc55ac6fa2a41fa01fdbf92",
       "review_state": {
         "human_reviewed": false,
@@ -4450,9 +4450,9 @@
         "work": "덕에 관하여",
         "reference": "37",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 5, Reimer, 1906.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:71c621095cf9a2b84fa32d70db5d786222e2844b76702f05f1d463591075ab3a",
-        "fixed_path": "releases/public-0.35/works/virt/index.html#p-37"
+        "fixed_path": "releases/public-0.35.1/works/virt/index.html#p-37"
       }
     },
     {
@@ -4528,7 +4528,7 @@
       "notes": [],
       "work_passage_id": "virt:38",
       "html_path": "works/virt/index.html#p-38",
-      "fixed_html_path": "releases/public-0.35/works/virt/index.html#p-38",
+      "fixed_html_path": "releases/public-0.35.1/works/virt/index.html#p-38",
       "alignment_revision": "sha256:bc4653a8c15e310e30124542803491fef30189ff5a56a4f29a7ae90162e77dab",
       "review_state": {
         "human_reviewed": false,
@@ -4564,9 +4564,9 @@
         "work": "덕에 관하여",
         "reference": "38",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 5, Reimer, 1906.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:a62470ffcdb9200e9992a0443335b51f45417668a9eefe76ccc42d213cf0ea5a",
-        "fixed_path": "releases/public-0.35/works/virt/index.html#p-38"
+        "fixed_path": "releases/public-0.35.1/works/virt/index.html#p-38"
       }
     },
     {
@@ -4642,7 +4642,7 @@
       "notes": [],
       "work_passage_id": "virt:39",
       "html_path": "works/virt/index.html#p-39",
-      "fixed_html_path": "releases/public-0.35/works/virt/index.html#p-39",
+      "fixed_html_path": "releases/public-0.35.1/works/virt/index.html#p-39",
       "alignment_revision": "sha256:76bf55b47b956a1d1a0e83c6dc8be5824c6ed7cdf3449961ec28579996eef276",
       "review_state": {
         "human_reviewed": false,
@@ -4678,9 +4678,9 @@
         "work": "덕에 관하여",
         "reference": "39",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 5, Reimer, 1906.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:c8043a9eea18f291847d8c06f47c8e956ff1b9a0aed8eb92ba514ee4ebabdb07",
-        "fixed_path": "releases/public-0.35/works/virt/index.html#p-39"
+        "fixed_path": "releases/public-0.35.1/works/virt/index.html#p-39"
       }
     },
     {
@@ -4771,7 +4771,7 @@
       ],
       "work_passage_id": "virt:40",
       "html_path": "works/virt/index.html#p-40",
-      "fixed_html_path": "releases/public-0.35/works/virt/index.html#p-40",
+      "fixed_html_path": "releases/public-0.35.1/works/virt/index.html#p-40",
       "alignment_revision": "sha256:14cb8485015c0a23a6af89b6d7ee0857a59b3c96dc07ed7b9e4a0230d315bd76",
       "review_state": {
         "human_reviewed": false,
@@ -4807,9 +4807,9 @@
         "work": "덕에 관하여",
         "reference": "40",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 5, Reimer, 1906.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:0b2e46ad043b854e09d3834251b9f05effc28052c4bcd98a3f9833ffc71ab3a1",
-        "fixed_path": "releases/public-0.35/works/virt/index.html#p-40"
+        "fixed_path": "releases/public-0.35.1/works/virt/index.html#p-40"
       }
     }
   ],
@@ -4834,14 +4834,14 @@
   "display_author": "필론",
   "scope": "덕에 관하여 1-40절 전체, 41-227절 미수록",
   "coverage": "complete_scope",
-  "release_id": "public-0.35",
+  "release_id": "public-0.35.1",
   "source_language": "grc",
   "source_kind": "edited_ancient_original",
   "human_reviewed": false,
   "translation_method": "고정 원어 본문에서 직접 번역",
   "html_path": "works/virt/index.html",
   "json_path": "data/works/virt.json",
-  "fixed_html_path": "releases/public-0.35/works/virt/index.html",
+  "fixed_html_path": "releases/public-0.35.1/works/virt/index.html",
   "source_profile": "virt-first1k-03776b39",
   "source_decisions": [
     {

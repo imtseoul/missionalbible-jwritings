@@ -78,7 +78,7 @@
       ],
       "work_passage_id": "esdras1:1.1",
       "html_path": "works/esdras1/index.html#p-1-1",
-      "fixed_html_path": "releases/public-0.35/works/esdras1/index.html#p-1-1",
+      "fixed_html_path": "releases/public-0.35.1/works/esdras1/index.html#p-1-1",
       "alignment_revision": "sha256:2f9de5f77e6e114eb723b3667262aa9d635787be7f7a19e32de76ee181d84334",
       "review_state": {
         "human_reviewed": false,
@@ -114,9 +114,9 @@
         "work": "에스드라 제1서",
         "reference": "1.1",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:73885a1773044ece2d05693264bf733f65f2791890601045a41b6e08c624d30e",
-        "fixed_path": "releases/public-0.35/works/esdras1/index.html#p-1-1"
+        "fixed_path": "releases/public-0.35.1/works/esdras1/index.html#p-1-1"
       }
     },
     {
@@ -155,7 +155,7 @@
       "notes": [],
       "work_passage_id": "esdras1:1.2",
       "html_path": "works/esdras1/index.html#p-1-2",
-      "fixed_html_path": "releases/public-0.35/works/esdras1/index.html#p-1-2",
+      "fixed_html_path": "releases/public-0.35.1/works/esdras1/index.html#p-1-2",
       "alignment_revision": "sha256:28a6ec588e085b458a94b6335251c3121b65c1012b332a5623ab7e73cdde9982",
       "review_state": {
         "human_reviewed": false,
@@ -191,9 +191,9 @@
         "work": "에스드라 제1서",
         "reference": "1.2",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:58dc9fc750c377ec6b44199d68c573941791be870c608f3965bb07bd44b0c4bf",
-        "fixed_path": "releases/public-0.35/works/esdras1/index.html#p-1-2"
+        "fixed_path": "releases/public-0.35.1/works/esdras1/index.html#p-1-2"
       }
     },
     {
@@ -245,7 +245,7 @@
       "notes": [],
       "work_passage_id": "esdras1:1.3",
       "html_path": "works/esdras1/index.html#p-1-3",
-      "fixed_html_path": "releases/public-0.35/works/esdras1/index.html#p-1-3",
+      "fixed_html_path": "releases/public-0.35.1/works/esdras1/index.html#p-1-3",
       "alignment_revision": "sha256:5cbab46511a882ceba0f6549943aed6052c87ec216651fbc19fb6629dc48b523",
       "review_state": {
         "human_reviewed": false,
@@ -281,9 +281,9 @@
         "work": "에스드라 제1서",
         "reference": "1.3",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:e55b918f2724dcb425543792083abb7ecea33873a12154e141710f25ace924ed",
-        "fixed_path": "releases/public-0.35/works/esdras1/index.html#p-1-3"
+        "fixed_path": "releases/public-0.35.1/works/esdras1/index.html#p-1-3"
       }
     },
     {
@@ -348,7 +348,7 @@
       "notes": [],
       "work_passage_id": "esdras1:1.4",
       "html_path": "works/esdras1/index.html#p-1-4",
-      "fixed_html_path": "releases/public-0.35/works/esdras1/index.html#p-1-4",
+      "fixed_html_path": "releases/public-0.35.1/works/esdras1/index.html#p-1-4",
       "alignment_revision": "sha256:3f99e613e86aaad0d3c7f7f289895a16d44e0d343af34b192731e3838e221b09",
       "review_state": {
         "human_reviewed": false,
@@ -384,9 +384,9 @@
         "work": "에스드라 제1서",
         "reference": "1.4",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:7482427231f391425a9b0c72d33b3cc57bdee66b384f339747822b4c2a379474",
-        "fixed_path": "releases/public-0.35/works/esdras1/index.html#p-1-4"
+        "fixed_path": "releases/public-0.35.1/works/esdras1/index.html#p-1-4"
       }
     },
     {
@@ -425,7 +425,7 @@
       "notes": [],
       "work_passage_id": "esdras1:1.5",
       "html_path": "works/esdras1/index.html#p-1-5",
-      "fixed_html_path": "releases/public-0.35/works/esdras1/index.html#p-1-5",
+      "fixed_html_path": "releases/public-0.35.1/works/esdras1/index.html#p-1-5",
       "alignment_revision": "sha256:cdefa8f969684074d3cbeccc2cede49f94f0bf707adcf585a18c07c8673410b6",
       "review_state": {
         "human_reviewed": false,
@@ -461,9 +461,9 @@
         "work": "에스드라 제1서",
         "reference": "1.5",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:720f27d6b8f64d00dd02c10e5aec204ebdf0e11252e58d4d9808c95f2e2d4d53",
-        "fixed_path": "releases/public-0.35/works/esdras1/index.html#p-1-5"
+        "fixed_path": "releases/public-0.35.1/works/esdras1/index.html#p-1-5"
       }
     },
     {
@@ -528,7 +528,7 @@
       "notes": [],
       "work_passage_id": "esdras1:1.6",
       "html_path": "works/esdras1/index.html#p-1-6",
-      "fixed_html_path": "releases/public-0.35/works/esdras1/index.html#p-1-6",
+      "fixed_html_path": "releases/public-0.35.1/works/esdras1/index.html#p-1-6",
       "alignment_revision": "sha256:2030b288d1eb5cef9b1f43f33f921882cb14d2e53ecaf8220711563a2d14cf42",
       "review_state": {
         "human_reviewed": false,
@@ -564,9 +564,9 @@
         "work": "에스드라 제1서",
         "reference": "1.6",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:3ec1b4794077199fd182b46fb00616c9430de3fef90f646c10329a076d200b78",
-        "fixed_path": "releases/public-0.35/works/esdras1/index.html#p-1-6"
+        "fixed_path": "releases/public-0.35.1/works/esdras1/index.html#p-1-6"
       }
     },
     {
@@ -618,7 +618,7 @@
       "notes": [],
       "work_passage_id": "esdras1:1.7",
       "html_path": "works/esdras1/index.html#p-1-7",
-      "fixed_html_path": "releases/public-0.35/works/esdras1/index.html#p-1-7",
+      "fixed_html_path": "releases/public-0.35.1/works/esdras1/index.html#p-1-7",
       "alignment_revision": "sha256:22aedcae85f28784aa1ac03bc65689c37c78a01122fd3f217fbd3ebe6cc809f9",
       "review_state": {
         "human_reviewed": false,
@@ -654,9 +654,9 @@
         "work": "에스드라 제1서",
         "reference": "1.7",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:14c2cebadca205917ed0661d8d45031d342cafb3b36f468b10f27ff5a6732f02",
-        "fixed_path": "releases/public-0.35/works/esdras1/index.html#p-1-7"
+        "fixed_path": "releases/public-0.35.1/works/esdras1/index.html#p-1-7"
       }
     },
     {
@@ -708,7 +708,7 @@
       "notes": [],
       "work_passage_id": "esdras1:1.8",
       "html_path": "works/esdras1/index.html#p-1-8",
-      "fixed_html_path": "releases/public-0.35/works/esdras1/index.html#p-1-8",
+      "fixed_html_path": "releases/public-0.35.1/works/esdras1/index.html#p-1-8",
       "alignment_revision": "sha256:dece508aed938286c86e014fe0a7e2b057b7ac43a377744d87117280d941f8bb",
       "review_state": {
         "human_reviewed": false,
@@ -744,9 +744,9 @@
         "work": "에스드라 제1서",
         "reference": "1.8",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:a2e2d1e0504b075a9937f046d08b6d3c26edc9178837b5c48d28c4d9ef46af67",
-        "fixed_path": "releases/public-0.35/works/esdras1/index.html#p-1-8"
+        "fixed_path": "releases/public-0.35.1/works/esdras1/index.html#p-1-8"
       }
     },
     {
@@ -800,7 +800,7 @@
       ],
       "work_passage_id": "esdras1:1.9",
       "html_path": "works/esdras1/index.html#p-1-9",
-      "fixed_html_path": "releases/public-0.35/works/esdras1/index.html#p-1-9",
+      "fixed_html_path": "releases/public-0.35.1/works/esdras1/index.html#p-1-9",
       "alignment_revision": "sha256:66fa717aaca5f543bf5b0ce797bb85b8e616db6dd9c05b31f4ad10cccad59a6c",
       "review_state": {
         "human_reviewed": false,
@@ -836,9 +836,9 @@
         "work": "에스드라 제1서",
         "reference": "1.9",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:b4b49278e3350c0975cee9a50c102e15118a4248edd79175393e2473534833c2",
-        "fixed_path": "releases/public-0.35/works/esdras1/index.html#p-1-9"
+        "fixed_path": "releases/public-0.35.1/works/esdras1/index.html#p-1-9"
       }
     },
     {
@@ -903,7 +903,7 @@
       "notes": [],
       "work_passage_id": "esdras1:1.10",
       "html_path": "works/esdras1/index.html#p-1-10",
-      "fixed_html_path": "releases/public-0.35/works/esdras1/index.html#p-1-10",
+      "fixed_html_path": "releases/public-0.35.1/works/esdras1/index.html#p-1-10",
       "alignment_revision": "sha256:ab183fc9401fc5a10876acccbc9284d0249fb1c84b55b7845ba2b4794c264e46",
       "review_state": {
         "human_reviewed": false,
@@ -939,9 +939,9 @@
         "work": "에스드라 제1서",
         "reference": "1.10",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:5859c979c400e8da677574496ebe89755fbf866c63a3d3f056c924c5c193d736",
-        "fixed_path": "releases/public-0.35/works/esdras1/index.html#p-1-10"
+        "fixed_path": "releases/public-0.35.1/works/esdras1/index.html#p-1-10"
       }
     },
     {
@@ -993,7 +993,7 @@
       "notes": [],
       "work_passage_id": "esdras1:1.11",
       "html_path": "works/esdras1/index.html#p-1-11",
-      "fixed_html_path": "releases/public-0.35/works/esdras1/index.html#p-1-11",
+      "fixed_html_path": "releases/public-0.35.1/works/esdras1/index.html#p-1-11",
       "alignment_revision": "sha256:8a83b82e3f1759b4c35695a76aee3d3a4fa3e5dfcdcc1ec853bf5deadbaf86c6",
       "review_state": {
         "human_reviewed": false,
@@ -1029,9 +1029,9 @@
         "work": "에스드라 제1서",
         "reference": "1.11",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:3779262f4e26e0ded77293fe5ff25d1cb598bb67da3598b9829ba1bbcf568cc0",
-        "fixed_path": "releases/public-0.35/works/esdras1/index.html#p-1-11"
+        "fixed_path": "releases/public-0.35.1/works/esdras1/index.html#p-1-11"
       }
     },
     {
@@ -1070,7 +1070,7 @@
       "notes": [],
       "work_passage_id": "esdras1:1.12",
       "html_path": "works/esdras1/index.html#p-1-12",
-      "fixed_html_path": "releases/public-0.35/works/esdras1/index.html#p-1-12",
+      "fixed_html_path": "releases/public-0.35.1/works/esdras1/index.html#p-1-12",
       "alignment_revision": "sha256:05db20436c9aa514f36c248a213039861f9af31c91307c12453e609b3fd4e172",
       "review_state": {
         "human_reviewed": false,
@@ -1106,9 +1106,9 @@
         "work": "에스드라 제1서",
         "reference": "1.12",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:84216e94664a363cf26ad94585b3cfaf2b770aad30253ed95958f941a7c253b5",
-        "fixed_path": "releases/public-0.35/works/esdras1/index.html#p-1-12"
+        "fixed_path": "releases/public-0.35.1/works/esdras1/index.html#p-1-12"
       }
     },
     {
@@ -1160,7 +1160,7 @@
       "notes": [],
       "work_passage_id": "esdras1:1.13",
       "html_path": "works/esdras1/index.html#p-1-13",
-      "fixed_html_path": "releases/public-0.35/works/esdras1/index.html#p-1-13",
+      "fixed_html_path": "releases/public-0.35.1/works/esdras1/index.html#p-1-13",
       "alignment_revision": "sha256:63acd4219107d1af1e0450b072954c267923aba72d76c19a4b45d326fa84adb9",
       "review_state": {
         "human_reviewed": false,
@@ -1196,9 +1196,9 @@
         "work": "에스드라 제1서",
         "reference": "1.13",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:981f8491924925e6c643ee00e5aa3e8cc93aec69a19e67f0889b4fd78a6ce509",
-        "fixed_path": "releases/public-0.35/works/esdras1/index.html#p-1-13"
+        "fixed_path": "releases/public-0.35.1/works/esdras1/index.html#p-1-13"
       }
     },
     {
@@ -1250,7 +1250,7 @@
       "notes": [],
       "work_passage_id": "esdras1:1.14",
       "html_path": "works/esdras1/index.html#p-1-14",
-      "fixed_html_path": "releases/public-0.35/works/esdras1/index.html#p-1-14",
+      "fixed_html_path": "releases/public-0.35.1/works/esdras1/index.html#p-1-14",
       "alignment_revision": "sha256:cf0e70c177a0ab25c2f3d234c38eddface0b67c37a5c16deb15101fc5174fdc6",
       "review_state": {
         "human_reviewed": false,
@@ -1286,9 +1286,9 @@
         "work": "에스드라 제1서",
         "reference": "1.14",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:dbfefd1eca1e096beb801991e68f998ae83082eec8ca9a5192a9036cf3f0766f",
-        "fixed_path": "releases/public-0.35/works/esdras1/index.html#p-1-14"
+        "fixed_path": "releases/public-0.35.1/works/esdras1/index.html#p-1-14"
       }
     },
     {
@@ -1355,7 +1355,7 @@
       ],
       "work_passage_id": "esdras1:1.15",
       "html_path": "works/esdras1/index.html#p-1-15",
-      "fixed_html_path": "releases/public-0.35/works/esdras1/index.html#p-1-15",
+      "fixed_html_path": "releases/public-0.35.1/works/esdras1/index.html#p-1-15",
       "alignment_revision": "sha256:6606e0a39cce5db854a95a69e7b8cce60ef7e82dfeae369c2f418ef61cacb196",
       "review_state": {
         "human_reviewed": false,
@@ -1391,9 +1391,9 @@
         "work": "에스드라 제1서",
         "reference": "1.15",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:591ef55e0ee545a54e492d54f3abe3da720f7624003d4bbf6eaa1f7a325f9470",
-        "fixed_path": "releases/public-0.35/works/esdras1/index.html#p-1-15"
+        "fixed_path": "releases/public-0.35.1/works/esdras1/index.html#p-1-15"
       }
     },
     {
@@ -1477,7 +1477,7 @@
       ],
       "work_passage_id": "esdras1:1.16",
       "html_path": "works/esdras1/index.html#p-1-16",
-      "fixed_html_path": "releases/public-0.35/works/esdras1/index.html#p-1-16",
+      "fixed_html_path": "releases/public-0.35.1/works/esdras1/index.html#p-1-16",
       "alignment_revision": "sha256:94772a64a86b73223f789c9ed7f3fbc26c9aa58a3640ab7c0f3d7f71824d03d5",
       "review_state": {
         "human_reviewed": false,
@@ -1513,9 +1513,9 @@
         "work": "에스드라 제1서",
         "reference": "1.16",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:e751bdc173ed3eb46c234740ceedc83fdd21f474386b894166890b585cdff447",
-        "fixed_path": "releases/public-0.35/works/esdras1/index.html#p-1-16",
+        "fixed_path": "releases/public-0.35.1/works/esdras1/index.html#p-1-16",
         "collation_edition": "Swete 1907, vol. 2, 130쪽"
       }
     },
@@ -1555,7 +1555,7 @@
       "notes": [],
       "work_passage_id": "esdras1:1.17",
       "html_path": "works/esdras1/index.html#p-1-17",
-      "fixed_html_path": "releases/public-0.35/works/esdras1/index.html#p-1-17",
+      "fixed_html_path": "releases/public-0.35.1/works/esdras1/index.html#p-1-17",
       "alignment_revision": "sha256:4d6993d1c0c728cec0c7fd32fb6e52337dd110027e99fb793acafb5afbeafdb6",
       "review_state": {
         "human_reviewed": false,
@@ -1591,9 +1591,9 @@
         "work": "에스드라 제1서",
         "reference": "1.17",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:1dbcb2112a8a814908738dc5ee942444d290d167b6582c8aff0b2438cc5b86fe",
-        "fixed_path": "releases/public-0.35/works/esdras1/index.html#p-1-17"
+        "fixed_path": "releases/public-0.35.1/works/esdras1/index.html#p-1-17"
       }
     },
     {
@@ -1632,7 +1632,7 @@
       "notes": [],
       "work_passage_id": "esdras1:1.18",
       "html_path": "works/esdras1/index.html#p-1-18",
-      "fixed_html_path": "releases/public-0.35/works/esdras1/index.html#p-1-18",
+      "fixed_html_path": "releases/public-0.35.1/works/esdras1/index.html#p-1-18",
       "alignment_revision": "sha256:5fb12064a0e35a49712058abd993278b0f6f1746f8008a46d3a040f2525a20e3",
       "review_state": {
         "human_reviewed": false,
@@ -1668,9 +1668,9 @@
         "work": "에스드라 제1서",
         "reference": "1.18",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:673f5f3683516b7be24aa0ef28333f42ed956a49d3335c22a6de48eff72cdf4f",
-        "fixed_path": "releases/public-0.35/works/esdras1/index.html#p-1-18"
+        "fixed_path": "releases/public-0.35.1/works/esdras1/index.html#p-1-18"
       }
     },
     {
@@ -1722,7 +1722,7 @@
       "notes": [],
       "work_passage_id": "esdras1:1.19",
       "html_path": "works/esdras1/index.html#p-1-19",
-      "fixed_html_path": "releases/public-0.35/works/esdras1/index.html#p-1-19",
+      "fixed_html_path": "releases/public-0.35.1/works/esdras1/index.html#p-1-19",
       "alignment_revision": "sha256:d64fb0bae80f7e7a398f13991c1f88d438ff5df7fe3f715d2ab771218fc05101",
       "review_state": {
         "human_reviewed": false,
@@ -1758,9 +1758,9 @@
         "work": "에스드라 제1서",
         "reference": "1.19",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:7c36ed2e3895b617f705d4ab5472dc24b00663c47bb1d39df1ba8f9418ac208c",
-        "fixed_path": "releases/public-0.35/works/esdras1/index.html#p-1-19"
+        "fixed_path": "releases/public-0.35.1/works/esdras1/index.html#p-1-19"
       }
     },
     {
@@ -1799,7 +1799,7 @@
       "notes": [],
       "work_passage_id": "esdras1:1.20",
       "html_path": "works/esdras1/index.html#p-1-20",
-      "fixed_html_path": "releases/public-0.35/works/esdras1/index.html#p-1-20",
+      "fixed_html_path": "releases/public-0.35.1/works/esdras1/index.html#p-1-20",
       "alignment_revision": "sha256:5a05475d46c986129fbfb71e5e276c7fdfd243c6d1100028f0289ed2ace01133",
       "review_state": {
         "human_reviewed": false,
@@ -1835,9 +1835,9 @@
         "work": "에스드라 제1서",
         "reference": "1.20",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:5d289bccc5b7592a2db374fd258d942d0b57e310a34b9e945500b60839be6a99",
-        "fixed_path": "releases/public-0.35/works/esdras1/index.html#p-1-20"
+        "fixed_path": "releases/public-0.35.1/works/esdras1/index.html#p-1-20"
       }
     },
     {
@@ -1876,7 +1876,7 @@
       "notes": [],
       "work_passage_id": "esdras1:1.21",
       "html_path": "works/esdras1/index.html#p-1-21",
-      "fixed_html_path": "releases/public-0.35/works/esdras1/index.html#p-1-21",
+      "fixed_html_path": "releases/public-0.35.1/works/esdras1/index.html#p-1-21",
       "alignment_revision": "sha256:b1564af62d5d73c19c6105ab5bb064fe3f059ac07cee42c6795cd54fa7a0e902",
       "review_state": {
         "human_reviewed": false,
@@ -1912,9 +1912,9 @@
         "work": "에스드라 제1서",
         "reference": "1.21",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:562e45a9cf4c3d4f32173998569c95621e7616ed25f7426b8ee00fef37b2944f",
-        "fixed_path": "releases/public-0.35/works/esdras1/index.html#p-1-21"
+        "fixed_path": "releases/public-0.35.1/works/esdras1/index.html#p-1-21"
       }
     },
     {
@@ -2011,7 +2011,7 @@
       ],
       "work_passage_id": "esdras1:1.22",
       "html_path": "works/esdras1/index.html#p-1-22",
-      "fixed_html_path": "releases/public-0.35/works/esdras1/index.html#p-1-22",
+      "fixed_html_path": "releases/public-0.35.1/works/esdras1/index.html#p-1-22",
       "alignment_revision": "sha256:3cb0dc163684cd86d9f6b5e3090cf8bf53f5344886dbe69196b216d418836f91",
       "review_state": {
         "human_reviewed": false,
@@ -2047,9 +2047,9 @@
         "work": "에스드라 제1서",
         "reference": "1.22",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:779dc7cac2a49438fdc127b685effb0986f041bfb9ac8755dfef86de0ceecae2",
-        "fixed_path": "releases/public-0.35/works/esdras1/index.html#p-1-22",
+        "fixed_path": "releases/public-0.35.1/works/esdras1/index.html#p-1-22",
         "collation_edition": "Swete 1907, vol. 2, 130쪽"
       }
     },
@@ -2102,7 +2102,7 @@
       "notes": [],
       "work_passage_id": "esdras1:1.23",
       "html_path": "works/esdras1/index.html#p-1-23",
-      "fixed_html_path": "releases/public-0.35/works/esdras1/index.html#p-1-23",
+      "fixed_html_path": "releases/public-0.35.1/works/esdras1/index.html#p-1-23",
       "alignment_revision": "sha256:f7834ab97f06cf1e83062139ef5c2d3e4f92afa91bb3239ec919f7f6994de2c5",
       "review_state": {
         "human_reviewed": false,
@@ -2138,9 +2138,9 @@
         "work": "에스드라 제1서",
         "reference": "1.23",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:f78d4bbd5e5462390677da79796b4f5c38f008021d9c5eb03c33d7c72e4be2bc",
-        "fixed_path": "releases/public-0.35/works/esdras1/index.html#p-1-23"
+        "fixed_path": "releases/public-0.35.1/works/esdras1/index.html#p-1-23"
       }
     },
     {
@@ -2192,7 +2192,7 @@
       "notes": [],
       "work_passage_id": "esdras1:1.24",
       "html_path": "works/esdras1/index.html#p-1-24",
-      "fixed_html_path": "releases/public-0.35/works/esdras1/index.html#p-1-24",
+      "fixed_html_path": "releases/public-0.35.1/works/esdras1/index.html#p-1-24",
       "alignment_revision": "sha256:09955922ec729ba2555c723360da736dcb9caeec5578c7b4adeb2ee808430a71",
       "review_state": {
         "human_reviewed": false,
@@ -2228,9 +2228,9 @@
         "work": "에스드라 제1서",
         "reference": "1.24",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:87b5be2e62d1ea60e7faedbaa81e1f6102051edfcad4d30208afb2c02dab6d9c",
-        "fixed_path": "releases/public-0.35/works/esdras1/index.html#p-1-24"
+        "fixed_path": "releases/public-0.35.1/works/esdras1/index.html#p-1-24"
       }
     },
     {
@@ -2344,7 +2344,7 @@
       ],
       "work_passage_id": "esdras1:1.25",
       "html_path": "works/esdras1/index.html#p-1-25",
-      "fixed_html_path": "releases/public-0.35/works/esdras1/index.html#p-1-25",
+      "fixed_html_path": "releases/public-0.35.1/works/esdras1/index.html#p-1-25",
       "alignment_revision": "sha256:97cc7f04ccc5182c5802c4ac1efb760608e54a675a07ad19e14ffbd86cefd81f",
       "review_state": {
         "human_reviewed": false,
@@ -2380,9 +2380,9 @@
         "work": "에스드라 제1서",
         "reference": "1.25",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:2e0b29818967fd9cf1fdbb58adeabcdb7179de5bff443ba82518f20a7315c62b",
-        "fixed_path": "releases/public-0.35/works/esdras1/index.html#p-1-25",
+        "fixed_path": "releases/public-0.35.1/works/esdras1/index.html#p-1-25",
         "collation_edition": "Swete 1907, vol. 2, 131쪽"
       }
     },
@@ -2450,7 +2450,7 @@
       ],
       "work_passage_id": "esdras1:1.26",
       "html_path": "works/esdras1/index.html#p-1-26",
-      "fixed_html_path": "releases/public-0.35/works/esdras1/index.html#p-1-26",
+      "fixed_html_path": "releases/public-0.35.1/works/esdras1/index.html#p-1-26",
       "alignment_revision": "sha256:a2fdab42e41413dc62cf1823ce3f21e64cecdb13295b93edba46d9a605ea96fc",
       "review_state": {
         "human_reviewed": false,
@@ -2486,9 +2486,9 @@
         "work": "에스드라 제1서",
         "reference": "1.26",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:0133becd4bcb2f6b4022ad2f79b64bf525bf99ca891d2ff04e1d76649603ab06",
-        "fixed_path": "releases/public-0.35/works/esdras1/index.html#p-1-26"
+        "fixed_path": "releases/public-0.35.1/works/esdras1/index.html#p-1-26"
       }
     },
     {
@@ -2540,7 +2540,7 @@
       "notes": [],
       "work_passage_id": "esdras1:1.27",
       "html_path": "works/esdras1/index.html#p-1-27",
-      "fixed_html_path": "releases/public-0.35/works/esdras1/index.html#p-1-27",
+      "fixed_html_path": "releases/public-0.35.1/works/esdras1/index.html#p-1-27",
       "alignment_revision": "sha256:1139bcad51bc35bcc1f49874af7fdde9b7a583eea4a0bd1702215af2bced563c",
       "review_state": {
         "human_reviewed": false,
@@ -2576,9 +2576,9 @@
         "work": "에스드라 제1서",
         "reference": "1.27",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:be833d888288b8fddd643dd5661b0a29c87044d7069c46c753a0cd2fbc0c3f2b",
-        "fixed_path": "releases/public-0.35/works/esdras1/index.html#p-1-27"
+        "fixed_path": "releases/public-0.35.1/works/esdras1/index.html#p-1-27"
       }
     },
     {
@@ -2630,7 +2630,7 @@
       "notes": [],
       "work_passage_id": "esdras1:1.28",
       "html_path": "works/esdras1/index.html#p-1-28",
-      "fixed_html_path": "releases/public-0.35/works/esdras1/index.html#p-1-28",
+      "fixed_html_path": "releases/public-0.35.1/works/esdras1/index.html#p-1-28",
       "alignment_revision": "sha256:fdd6c0b64ed501eeea422674adb7381df4af1e0e84f242bf7c85b1218802538f",
       "review_state": {
         "human_reviewed": false,
@@ -2666,9 +2666,9 @@
         "work": "에스드라 제1서",
         "reference": "1.28",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:cd659adeee6038aedfc880538b1f2405244a2dde186f109a84ff6b52d7f225d1",
-        "fixed_path": "releases/public-0.35/works/esdras1/index.html#p-1-28"
+        "fixed_path": "releases/public-0.35.1/works/esdras1/index.html#p-1-28"
       }
     },
     {
@@ -2720,7 +2720,7 @@
       "notes": [],
       "work_passage_id": "esdras1:1.29",
       "html_path": "works/esdras1/index.html#p-1-29",
-      "fixed_html_path": "releases/public-0.35/works/esdras1/index.html#p-1-29",
+      "fixed_html_path": "releases/public-0.35.1/works/esdras1/index.html#p-1-29",
       "alignment_revision": "sha256:f7ecddaf5286c49ecc9c251ce2520957324632783fe80af87fdb123dbb3225f2",
       "review_state": {
         "human_reviewed": false,
@@ -2756,9 +2756,9 @@
         "work": "에스드라 제1서",
         "reference": "1.29",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:489c24acd3ab58be6bd9dd9e345387b1c507f81117be4647c4d7ce08590da5c5",
-        "fixed_path": "releases/public-0.35/works/esdras1/index.html#p-1-29"
+        "fixed_path": "releases/public-0.35.1/works/esdras1/index.html#p-1-29"
       }
     },
     {
@@ -2836,7 +2836,7 @@
       "notes": [],
       "work_passage_id": "esdras1:1.30",
       "html_path": "works/esdras1/index.html#p-1-30",
-      "fixed_html_path": "releases/public-0.35/works/esdras1/index.html#p-1-30",
+      "fixed_html_path": "releases/public-0.35.1/works/esdras1/index.html#p-1-30",
       "alignment_revision": "sha256:148a449c65946f7860af84698b1d27dbd53b871e356f21843ab0ae6948b98368",
       "review_state": {
         "human_reviewed": false,
@@ -2872,9 +2872,9 @@
         "work": "에스드라 제1서",
         "reference": "1.30",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:ad7959349c1a750de81caf10335422c5186eb18bea6f299b5c2fa68d76903072",
-        "fixed_path": "releases/public-0.35/works/esdras1/index.html#p-1-30"
+        "fixed_path": "releases/public-0.35.1/works/esdras1/index.html#p-1-30"
       }
     },
     {
@@ -2939,7 +2939,7 @@
       "notes": [],
       "work_passage_id": "esdras1:1.31",
       "html_path": "works/esdras1/index.html#p-1-31",
-      "fixed_html_path": "releases/public-0.35/works/esdras1/index.html#p-1-31",
+      "fixed_html_path": "releases/public-0.35.1/works/esdras1/index.html#p-1-31",
       "alignment_revision": "sha256:b7e500dab6d59c4f2fe24a14fae78c12e8f9ea48679ecfecbced2b6edd58f75b",
       "review_state": {
         "human_reviewed": false,
@@ -2975,9 +2975,9 @@
         "work": "에스드라 제1서",
         "reference": "1.31",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:d02d4c79995caa074480e8253ded388e1e9136a60c22832d73c2b0f769bf8772",
-        "fixed_path": "releases/public-0.35/works/esdras1/index.html#p-1-31"
+        "fixed_path": "releases/public-0.35.1/works/esdras1/index.html#p-1-31"
       }
     },
     {
@@ -3042,7 +3042,7 @@
       "notes": [],
       "work_passage_id": "esdras1:1.32",
       "html_path": "works/esdras1/index.html#p-1-32",
-      "fixed_html_path": "releases/public-0.35/works/esdras1/index.html#p-1-32",
+      "fixed_html_path": "releases/public-0.35.1/works/esdras1/index.html#p-1-32",
       "alignment_revision": "sha256:605041ebb47e0919658f4e75b29044376086cc2dd8a9680135a8d3eba004d59f",
       "review_state": {
         "human_reviewed": false,
@@ -3078,9 +3078,9 @@
         "work": "에스드라 제1서",
         "reference": "1.32",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:7b5933f829a265160219eb4190397839c62e44b1cfb5619694e694a93a0c1192",
-        "fixed_path": "releases/public-0.35/works/esdras1/index.html#p-1-32"
+        "fixed_path": "releases/public-0.35.1/works/esdras1/index.html#p-1-32"
       }
     },
     {
@@ -3134,7 +3134,7 @@
       ],
       "work_passage_id": "esdras1:1.33",
       "html_path": "works/esdras1/index.html#p-1-33",
-      "fixed_html_path": "releases/public-0.35/works/esdras1/index.html#p-1-33",
+      "fixed_html_path": "releases/public-0.35.1/works/esdras1/index.html#p-1-33",
       "alignment_revision": "sha256:56331f175c7ebce8fc95e1f106496c848fb18c4d96fde74b69742e3e9c76d836",
       "review_state": {
         "human_reviewed": false,
@@ -3170,9 +3170,9 @@
         "work": "에스드라 제1서",
         "reference": "1.33",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:f868b2e86c5e3a16322f71c22460560f116b9e8ed35342aca36f1be3cb02f93c",
-        "fixed_path": "releases/public-0.35/works/esdras1/index.html#p-1-33"
+        "fixed_path": "releases/public-0.35.1/works/esdras1/index.html#p-1-33"
       }
     },
     {
@@ -3211,7 +3211,7 @@
       "notes": [],
       "work_passage_id": "esdras1:1.34",
       "html_path": "works/esdras1/index.html#p-1-34",
-      "fixed_html_path": "releases/public-0.35/works/esdras1/index.html#p-1-34",
+      "fixed_html_path": "releases/public-0.35.1/works/esdras1/index.html#p-1-34",
       "alignment_revision": "sha256:ad94c4f10045d17fee690b32f79190e771683b3497a4b19236f0b6f4c2bec5f1",
       "review_state": {
         "human_reviewed": false,
@@ -3247,9 +3247,9 @@
         "work": "에스드라 제1서",
         "reference": "1.34",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:4264df9ce229ab7db022c1de8e8eec0b4cc85f4c112296afce14321e541de3ec",
-        "fixed_path": "releases/public-0.35/works/esdras1/index.html#p-1-34"
+        "fixed_path": "releases/public-0.35.1/works/esdras1/index.html#p-1-34"
       }
     },
     {
@@ -3288,7 +3288,7 @@
       "notes": [],
       "work_passage_id": "esdras1:1.35",
       "html_path": "works/esdras1/index.html#p-1-35",
-      "fixed_html_path": "releases/public-0.35/works/esdras1/index.html#p-1-35",
+      "fixed_html_path": "releases/public-0.35.1/works/esdras1/index.html#p-1-35",
       "alignment_revision": "sha256:225e4f3584ad1274757c60316c65ae176fedd56b837e7d3b1faf14a89c130c5a",
       "review_state": {
         "human_reviewed": false,
@@ -3324,9 +3324,9 @@
         "work": "에스드라 제1서",
         "reference": "1.35",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:b168e6070e09e20f3d90c80200d9e493b819dc709ef4ec69010193f8d777e255",
-        "fixed_path": "releases/public-0.35/works/esdras1/index.html#p-1-35"
+        "fixed_path": "releases/public-0.35.1/works/esdras1/index.html#p-1-35"
       }
     },
     {
@@ -3380,7 +3380,7 @@
       ],
       "work_passage_id": "esdras1:1.36",
       "html_path": "works/esdras1/index.html#p-1-36",
-      "fixed_html_path": "releases/public-0.35/works/esdras1/index.html#p-1-36",
+      "fixed_html_path": "releases/public-0.35.1/works/esdras1/index.html#p-1-36",
       "alignment_revision": "sha256:d2af05af23826c969f3ed22cbf3a47dda17458b5937a10b26d95af25b0f9a416",
       "review_state": {
         "human_reviewed": false,
@@ -3416,9 +3416,9 @@
         "work": "에스드라 제1서",
         "reference": "1.36",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:c2b21ff5cba61097ab1d8a3b858eca615fcb3e3be0bb8d5692347e9d41e1487e",
-        "fixed_path": "releases/public-0.35/works/esdras1/index.html#p-1-36"
+        "fixed_path": "releases/public-0.35.1/works/esdras1/index.html#p-1-36"
       }
     },
     {
@@ -3470,7 +3470,7 @@
       "notes": [],
       "work_passage_id": "esdras1:1.37",
       "html_path": "works/esdras1/index.html#p-1-37",
-      "fixed_html_path": "releases/public-0.35/works/esdras1/index.html#p-1-37",
+      "fixed_html_path": "releases/public-0.35.1/works/esdras1/index.html#p-1-37",
       "alignment_revision": "sha256:44deb5940e7855862cde1de6190c09d337f2e889e6f0e246373ee57669833422",
       "review_state": {
         "human_reviewed": false,
@@ -3506,9 +3506,9 @@
         "work": "에스드라 제1서",
         "reference": "1.37",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:41112b77489bead09220c1b587ec7116148a8f7de4f21b36b747d0824374e226",
-        "fixed_path": "releases/public-0.35/works/esdras1/index.html#p-1-37"
+        "fixed_path": "releases/public-0.35.1/works/esdras1/index.html#p-1-37"
       }
     },
     {
@@ -3560,7 +3560,7 @@
       "notes": [],
       "work_passage_id": "esdras1:1.38",
       "html_path": "works/esdras1/index.html#p-1-38",
-      "fixed_html_path": "releases/public-0.35/works/esdras1/index.html#p-1-38",
+      "fixed_html_path": "releases/public-0.35.1/works/esdras1/index.html#p-1-38",
       "alignment_revision": "sha256:7673cd582544a7f62414587c747b9d9ec8f95e18ae91cb5d04a94ec00c13deb9",
       "review_state": {
         "human_reviewed": false,
@@ -3596,9 +3596,9 @@
         "work": "에스드라 제1서",
         "reference": "1.38",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:7b31a1fcd80df3af29d84815661e6cc108f524596b3eb50ffa35f412cb64a52a",
-        "fixed_path": "releases/public-0.35/works/esdras1/index.html#p-1-38"
+        "fixed_path": "releases/public-0.35.1/works/esdras1/index.html#p-1-38"
       }
     },
     {
@@ -3650,7 +3650,7 @@
       "notes": [],
       "work_passage_id": "esdras1:1.39",
       "html_path": "works/esdras1/index.html#p-1-39",
-      "fixed_html_path": "releases/public-0.35/works/esdras1/index.html#p-1-39",
+      "fixed_html_path": "releases/public-0.35.1/works/esdras1/index.html#p-1-39",
       "alignment_revision": "sha256:de5b4fa82241c6beea24a1a2456be283feb31ce2a0b301ebe503f141455a236e",
       "review_state": {
         "human_reviewed": false,
@@ -3686,9 +3686,9 @@
         "work": "에스드라 제1서",
         "reference": "1.39",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:393d7e38f41cfa695b0ac1b1b2566d9ddb8b9c638a2b8668341e6f17adfc7466",
-        "fixed_path": "releases/public-0.35/works/esdras1/index.html#p-1-39"
+        "fixed_path": "releases/public-0.35.1/works/esdras1/index.html#p-1-39"
       }
     },
     {
@@ -3727,7 +3727,7 @@
       "notes": [],
       "work_passage_id": "esdras1:1.40",
       "html_path": "works/esdras1/index.html#p-1-40",
-      "fixed_html_path": "releases/public-0.35/works/esdras1/index.html#p-1-40",
+      "fixed_html_path": "releases/public-0.35.1/works/esdras1/index.html#p-1-40",
       "alignment_revision": "sha256:f4b005306418523eae2cf78ae6a2020a4d56c1d0a24a73d6a1d99f8ede961926",
       "review_state": {
         "human_reviewed": false,
@@ -3763,9 +3763,9 @@
         "work": "에스드라 제1서",
         "reference": "1.40",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:0fdf65b2915c46ecae8cb482e99e788f13bbcd771403c915d02762a0f2c885cf",
-        "fixed_path": "releases/public-0.35/works/esdras1/index.html#p-1-40"
+        "fixed_path": "releases/public-0.35.1/works/esdras1/index.html#p-1-40"
       }
     },
     {
@@ -3819,7 +3819,7 @@
       ],
       "work_passage_id": "esdras1:1.41",
       "html_path": "works/esdras1/index.html#p-1-41",
-      "fixed_html_path": "releases/public-0.35/works/esdras1/index.html#p-1-41",
+      "fixed_html_path": "releases/public-0.35.1/works/esdras1/index.html#p-1-41",
       "alignment_revision": "sha256:a9d300cdb3f6ab7c67a71ffd023dafc57050e47a68c07eac84148b545acca449",
       "review_state": {
         "human_reviewed": false,
@@ -3855,9 +3855,9 @@
         "work": "에스드라 제1서",
         "reference": "1.41",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:5d1cf4d5abe74ca0d93a67efe680679d45b2101e9ca32c832fd6819a77c78a0e",
-        "fixed_path": "releases/public-0.35/works/esdras1/index.html#p-1-41"
+        "fixed_path": "releases/public-0.35.1/works/esdras1/index.html#p-1-41"
       }
     },
     {
@@ -3909,7 +3909,7 @@
       "notes": [],
       "work_passage_id": "esdras1:1.42",
       "html_path": "works/esdras1/index.html#p-1-42",
-      "fixed_html_path": "releases/public-0.35/works/esdras1/index.html#p-1-42",
+      "fixed_html_path": "releases/public-0.35.1/works/esdras1/index.html#p-1-42",
       "alignment_revision": "sha256:d7a1d430dd7121854d315d549870335eb1eaa7cc19ac26628c30f369e3f4fac8",
       "review_state": {
         "human_reviewed": false,
@@ -3945,9 +3945,9 @@
         "work": "에스드라 제1서",
         "reference": "1.42",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:87dda72b564e65e3976cab3a241a05f5415fc1c1269c82be73f68915e4282f3b",
-        "fixed_path": "releases/public-0.35/works/esdras1/index.html#p-1-42"
+        "fixed_path": "releases/public-0.35.1/works/esdras1/index.html#p-1-42"
       }
     },
     {
@@ -3986,7 +3986,7 @@
       "notes": [],
       "work_passage_id": "esdras1:1.43",
       "html_path": "works/esdras1/index.html#p-1-43",
-      "fixed_html_path": "releases/public-0.35/works/esdras1/index.html#p-1-43",
+      "fixed_html_path": "releases/public-0.35.1/works/esdras1/index.html#p-1-43",
       "alignment_revision": "sha256:e0765fff3792f68cdd5f42b6069aca3153b7760d13dd3f9cd61f6ae7ae0bedd5",
       "review_state": {
         "human_reviewed": false,
@@ -4022,9 +4022,9 @@
         "work": "에스드라 제1서",
         "reference": "1.43",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:8642b3776c575b4cdc836d3d8266c6d0b14aadb79d9bba8988c27c9a4be10f6c",
-        "fixed_path": "releases/public-0.35/works/esdras1/index.html#p-1-43"
+        "fixed_path": "releases/public-0.35.1/works/esdras1/index.html#p-1-43"
       }
     },
     {
@@ -4076,7 +4076,7 @@
       "notes": [],
       "work_passage_id": "esdras1:1.44",
       "html_path": "works/esdras1/index.html#p-1-44",
-      "fixed_html_path": "releases/public-0.35/works/esdras1/index.html#p-1-44",
+      "fixed_html_path": "releases/public-0.35.1/works/esdras1/index.html#p-1-44",
       "alignment_revision": "sha256:901cd6907d79ed5312643e93166a502957b7e5ebb76360773934d483a1d24d29",
       "review_state": {
         "human_reviewed": false,
@@ -4112,9 +4112,9 @@
         "work": "에스드라 제1서",
         "reference": "1.44",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:c5c1a7ebf75b9c1f01b4b2d8ada1ed570353d3a4d887d4f8db6a7e34799f200e",
-        "fixed_path": "releases/public-0.35/works/esdras1/index.html#p-1-44"
+        "fixed_path": "releases/public-0.35.1/works/esdras1/index.html#p-1-44"
       }
     },
     {
@@ -4166,7 +4166,7 @@
       "notes": [],
       "work_passage_id": "esdras1:1.45",
       "html_path": "works/esdras1/index.html#p-1-45",
-      "fixed_html_path": "releases/public-0.35/works/esdras1/index.html#p-1-45",
+      "fixed_html_path": "releases/public-0.35.1/works/esdras1/index.html#p-1-45",
       "alignment_revision": "sha256:36812f061777df7d18884d2529e36f104b5abeaa2d1d180912e15696e130bbed",
       "review_state": {
         "human_reviewed": false,
@@ -4202,9 +4202,9 @@
         "work": "에스드라 제1서",
         "reference": "1.45",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:871bf4188a809819c5309a72fd7470b22626e73eb565d995321f2d18c313daf0",
-        "fixed_path": "releases/public-0.35/works/esdras1/index.html#p-1-45"
+        "fixed_path": "releases/public-0.35.1/works/esdras1/index.html#p-1-45"
       }
     },
     {
@@ -4269,7 +4269,7 @@
       "notes": [],
       "work_passage_id": "esdras1:1.46",
       "html_path": "works/esdras1/index.html#p-1-46",
-      "fixed_html_path": "releases/public-0.35/works/esdras1/index.html#p-1-46",
+      "fixed_html_path": "releases/public-0.35.1/works/esdras1/index.html#p-1-46",
       "alignment_revision": "sha256:6522358e173ede88feaba7df3873955f883b9d9ff13b071e0c1f1ffa75a6c357",
       "review_state": {
         "human_reviewed": false,
@@ -4305,9 +4305,9 @@
         "work": "에스드라 제1서",
         "reference": "1.46",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:b6cc1d518a20de0efa0a9f7e449c02907e7f6b0b1ba0633c7f2b02c44aea7ded",
-        "fixed_path": "releases/public-0.35/works/esdras1/index.html#p-1-46"
+        "fixed_path": "releases/public-0.35.1/works/esdras1/index.html#p-1-46"
       }
     },
     {
@@ -4359,7 +4359,7 @@
       "notes": [],
       "work_passage_id": "esdras1:1.47",
       "html_path": "works/esdras1/index.html#p-1-47",
-      "fixed_html_path": "releases/public-0.35/works/esdras1/index.html#p-1-47",
+      "fixed_html_path": "releases/public-0.35.1/works/esdras1/index.html#p-1-47",
       "alignment_revision": "sha256:3ae54c8397066d01cfc4fb032481b82a2fcb4d6c54a93aeee0a6282d54d3aa5a",
       "review_state": {
         "human_reviewed": false,
@@ -4395,9 +4395,9 @@
         "work": "에스드라 제1서",
         "reference": "1.47",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:7b5908fa1ae27ec26e5119d23d5538264f9c0e0f3a8e685cb9566a1c8788e0f0",
-        "fixed_path": "releases/public-0.35/works/esdras1/index.html#p-1-47"
+        "fixed_path": "releases/public-0.35.1/works/esdras1/index.html#p-1-47"
       }
     },
     {
@@ -4451,7 +4451,7 @@
       ],
       "work_passage_id": "esdras1:1.48",
       "html_path": "works/esdras1/index.html#p-1-48",
-      "fixed_html_path": "releases/public-0.35/works/esdras1/index.html#p-1-48",
+      "fixed_html_path": "releases/public-0.35.1/works/esdras1/index.html#p-1-48",
       "alignment_revision": "sha256:982001d9ae9a71e3828a1e2cf8daa71df41d64f6d056071c393b8849845d19bd",
       "review_state": {
         "human_reviewed": false,
@@ -4487,9 +4487,9 @@
         "work": "에스드라 제1서",
         "reference": "1.48",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:e55bcf186a83b4e438257a18f658f66d35bfc190aea3c6b8685bf9a00f4d4924",
-        "fixed_path": "releases/public-0.35/works/esdras1/index.html#p-1-48"
+        "fixed_path": "releases/public-0.35.1/works/esdras1/index.html#p-1-48"
       }
     },
     {
@@ -4554,7 +4554,7 @@
       "notes": [],
       "work_passage_id": "esdras1:1.49",
       "html_path": "works/esdras1/index.html#p-1-49",
-      "fixed_html_path": "releases/public-0.35/works/esdras1/index.html#p-1-49",
+      "fixed_html_path": "releases/public-0.35.1/works/esdras1/index.html#p-1-49",
       "alignment_revision": "sha256:b5bac84d4bcd8e7ef4db818d8f4a383624f93594042de2a539af30330f44ec13",
       "review_state": {
         "human_reviewed": false,
@@ -4590,9 +4590,9 @@
         "work": "에스드라 제1서",
         "reference": "1.49",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:29558966ec5634ffc4c978ad5c059cfbc972ab4bf3e28a4e8e684c405577d83b",
-        "fixed_path": "releases/public-0.35/works/esdras1/index.html#p-1-49"
+        "fixed_path": "releases/public-0.35.1/works/esdras1/index.html#p-1-49"
       }
     },
     {
@@ -4657,7 +4657,7 @@
       "notes": [],
       "work_passage_id": "esdras1:1.50",
       "html_path": "works/esdras1/index.html#p-1-50",
-      "fixed_html_path": "releases/public-0.35/works/esdras1/index.html#p-1-50",
+      "fixed_html_path": "releases/public-0.35.1/works/esdras1/index.html#p-1-50",
       "alignment_revision": "sha256:2de65341975837dddadd150494c3331767f36b06e873db7e09745ce241e490ce",
       "review_state": {
         "human_reviewed": false,
@@ -4693,9 +4693,9 @@
         "work": "에스드라 제1서",
         "reference": "1.50",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:8643094bbb5bd49cc2ec8b2720e977802154adbbb5ca6301d66d314a0b9c954c",
-        "fixed_path": "releases/public-0.35/works/esdras1/index.html#p-1-50"
+        "fixed_path": "releases/public-0.35.1/works/esdras1/index.html#p-1-50"
       }
     },
     {
@@ -4747,7 +4747,7 @@
       "notes": [],
       "work_passage_id": "esdras1:1.51",
       "html_path": "works/esdras1/index.html#p-1-51",
-      "fixed_html_path": "releases/public-0.35/works/esdras1/index.html#p-1-51",
+      "fixed_html_path": "releases/public-0.35.1/works/esdras1/index.html#p-1-51",
       "alignment_revision": "sha256:715d513562aa219ce812ca440b959ee2353ae3b42e7a6c9c9f1f64abd83d1099",
       "review_state": {
         "human_reviewed": false,
@@ -4783,9 +4783,9 @@
         "work": "에스드라 제1서",
         "reference": "1.51",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:683e431ee66db26238a21c9148f5e4ebf75f60565d8f58890c82be17dcb5e77d",
-        "fixed_path": "releases/public-0.35/works/esdras1/index.html#p-1-51"
+        "fixed_path": "releases/public-0.35.1/works/esdras1/index.html#p-1-51"
       }
     },
     {
@@ -4837,7 +4837,7 @@
       "notes": [],
       "work_passage_id": "esdras1:1.52",
       "html_path": "works/esdras1/index.html#p-1-52",
-      "fixed_html_path": "releases/public-0.35/works/esdras1/index.html#p-1-52",
+      "fixed_html_path": "releases/public-0.35.1/works/esdras1/index.html#p-1-52",
       "alignment_revision": "sha256:f119103bca896e585dffa2f0a26abde3e8469dd80b5ab82d58aa97424162302a",
       "review_state": {
         "human_reviewed": false,
@@ -4873,9 +4873,9 @@
         "work": "에스드라 제1서",
         "reference": "1.52",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:c76becfb86ec4f0dcabd4839ccbb064f6483703fbb3f7e640205d59e41a18094",
-        "fixed_path": "releases/public-0.35/works/esdras1/index.html#p-1-52"
+        "fixed_path": "releases/public-0.35.1/works/esdras1/index.html#p-1-52"
       }
     },
     {
@@ -4927,7 +4927,7 @@
       "notes": [],
       "work_passage_id": "esdras1:1.53",
       "html_path": "works/esdras1/index.html#p-1-53",
-      "fixed_html_path": "releases/public-0.35/works/esdras1/index.html#p-1-53",
+      "fixed_html_path": "releases/public-0.35.1/works/esdras1/index.html#p-1-53",
       "alignment_revision": "sha256:3d254ec9a5318f7beb410c8090b93af646a14e071184b52902270e6a27bb94c0",
       "review_state": {
         "human_reviewed": false,
@@ -4963,9 +4963,9 @@
         "work": "에스드라 제1서",
         "reference": "1.53",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:615b7ac43aa1f0d3e7dcb295f428318b4f05348b55e4a452d2fa87f1c71d83e5",
-        "fixed_path": "releases/public-0.35/works/esdras1/index.html#p-1-53"
+        "fixed_path": "releases/public-0.35.1/works/esdras1/index.html#p-1-53"
       }
     },
     {
@@ -5017,7 +5017,7 @@
       "notes": [],
       "work_passage_id": "esdras1:1.54",
       "html_path": "works/esdras1/index.html#p-1-54",
-      "fixed_html_path": "releases/public-0.35/works/esdras1/index.html#p-1-54",
+      "fixed_html_path": "releases/public-0.35.1/works/esdras1/index.html#p-1-54",
       "alignment_revision": "sha256:98b20e93c617d0d95d87be0cc835bda571003fe60d5e7bb664129c85ef798dbb",
       "review_state": {
         "human_reviewed": false,
@@ -5053,9 +5053,9 @@
         "work": "에스드라 제1서",
         "reference": "1.54",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:b59d3755dec430397fe53102e03bb918d8767f51f6d30fa955a195b1848771d7",
-        "fixed_path": "releases/public-0.35/works/esdras1/index.html#p-1-54"
+        "fixed_path": "releases/public-0.35.1/works/esdras1/index.html#p-1-54"
       }
     },
     {
@@ -5109,7 +5109,7 @@
       ],
       "work_passage_id": "esdras1:1.55",
       "html_path": "works/esdras1/index.html#p-1-55",
-      "fixed_html_path": "releases/public-0.35/works/esdras1/index.html#p-1-55",
+      "fixed_html_path": "releases/public-0.35.1/works/esdras1/index.html#p-1-55",
       "alignment_revision": "sha256:4615bf1848271045e5b0d98f1e032500fa45b88857fc10f9206b3eab4b7833e6",
       "review_state": {
         "human_reviewed": false,
@@ -5145,9 +5145,9 @@
         "work": "에스드라 제1서",
         "reference": "1.55",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:2f1ff03cb1414efdc7d1ae110120d8f1683736e9c935f13a79a9bc8d72dfb72f",
-        "fixed_path": "releases/public-0.35/works/esdras1/index.html#p-1-55"
+        "fixed_path": "releases/public-0.35.1/works/esdras1/index.html#p-1-55"
       }
     },
     {
@@ -5188,7 +5188,7 @@
       ],
       "work_passage_id": "esdras1:2.1",
       "html_path": "works/esdras1/index.html#p-2-1",
-      "fixed_html_path": "releases/public-0.35/works/esdras1/index.html#p-2-1",
+      "fixed_html_path": "releases/public-0.35.1/works/esdras1/index.html#p-2-1",
       "alignment_revision": "sha256:d0a29232a2161dca8db22da6854a320a38d3c87664a535dce87600fa55e6d846",
       "review_state": {
         "human_reviewed": false,
@@ -5224,9 +5224,9 @@
         "work": "에스드라 제1서",
         "reference": "2.1",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:edf3f25164c067f557a0ffaf14c19deb4e65bbad29004308f708c6f467129e0a",
-        "fixed_path": "releases/public-0.35/works/esdras1/index.html#p-2-1"
+        "fixed_path": "releases/public-0.35.1/works/esdras1/index.html#p-2-1"
       }
     },
     {
@@ -5296,7 +5296,7 @@
       ],
       "work_passage_id": "esdras1:2.2",
       "html_path": "works/esdras1/index.html#p-2-2",
-      "fixed_html_path": "releases/public-0.35/works/esdras1/index.html#p-2-2",
+      "fixed_html_path": "releases/public-0.35.1/works/esdras1/index.html#p-2-2",
       "alignment_revision": "sha256:0be5dd697d7435595867980daf19b2c4dd9161e17c10b736dad9cdd563cb1b06",
       "review_state": {
         "human_reviewed": false,
@@ -5332,9 +5332,9 @@
         "work": "에스드라 제1서",
         "reference": "2.2",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:046d2449413c8dd8b3965059e425d50856025ecabb257012c5fb590e512e4ecc",
-        "fixed_path": "releases/public-0.35/works/esdras1/index.html#p-2-2",
+        "fixed_path": "releases/public-0.35.1/works/esdras1/index.html#p-2-2",
         "collation_edition": "Swete1907,vol.2,133쪽"
       }
     },
@@ -5387,7 +5387,7 @@
       "notes": [],
       "work_passage_id": "esdras1:2.3",
       "html_path": "works/esdras1/index.html#p-2-3",
-      "fixed_html_path": "releases/public-0.35/works/esdras1/index.html#p-2-3",
+      "fixed_html_path": "releases/public-0.35.1/works/esdras1/index.html#p-2-3",
       "alignment_revision": "sha256:374066d283af3a02f8ba50a100e84c3fb9810924c696e00f5e15370d5d2e54ed",
       "review_state": {
         "human_reviewed": false,
@@ -5423,9 +5423,9 @@
         "work": "에스드라 제1서",
         "reference": "2.3",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:07efbb18b100f31dec4df3fa9aecfc15fb9bb5434d3d12a3d9f8b9ad290a0028",
-        "fixed_path": "releases/public-0.35/works/esdras1/index.html#p-2-3"
+        "fixed_path": "releases/public-0.35.1/works/esdras1/index.html#p-2-3"
       }
     },
     {
@@ -5464,7 +5464,7 @@
       "notes": [],
       "work_passage_id": "esdras1:2.4",
       "html_path": "works/esdras1/index.html#p-2-4",
-      "fixed_html_path": "releases/public-0.35/works/esdras1/index.html#p-2-4",
+      "fixed_html_path": "releases/public-0.35.1/works/esdras1/index.html#p-2-4",
       "alignment_revision": "sha256:217c3884468bfd6fc9c1448a257e4fe88a96da7019babf6cac4d8445980b9337",
       "review_state": {
         "human_reviewed": false,
@@ -5500,9 +5500,9 @@
         "work": "에스드라 제1서",
         "reference": "2.4",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:2b7d394f7016334f1b9d5ee159cc2f655c868ec968e53fcd17a4b965b8e74062",
-        "fixed_path": "releases/public-0.35/works/esdras1/index.html#p-2-4"
+        "fixed_path": "releases/public-0.35.1/works/esdras1/index.html#p-2-4"
       }
     },
     {
@@ -5580,7 +5580,7 @@
       "notes": [],
       "work_passage_id": "esdras1:2.5",
       "html_path": "works/esdras1/index.html#p-2-5",
-      "fixed_html_path": "releases/public-0.35/works/esdras1/index.html#p-2-5",
+      "fixed_html_path": "releases/public-0.35.1/works/esdras1/index.html#p-2-5",
       "alignment_revision": "sha256:8b9b99ebd87b70d55c84e49d265835b7ebab729640d43a61a8303251786b55c5",
       "review_state": {
         "human_reviewed": false,
@@ -5616,9 +5616,9 @@
         "work": "에스드라 제1서",
         "reference": "2.5",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:bf6fd120e5b41a9c9a9cb2df977d668de44d58015f842b340d378c0ba3e7ed71",
-        "fixed_path": "releases/public-0.35/works/esdras1/index.html#p-2-5"
+        "fixed_path": "releases/public-0.35.1/works/esdras1/index.html#p-2-5"
       }
     },
     {
@@ -5683,7 +5683,7 @@
       "notes": [],
       "work_passage_id": "esdras1:2.6",
       "html_path": "works/esdras1/index.html#p-2-6",
-      "fixed_html_path": "releases/public-0.35/works/esdras1/index.html#p-2-6",
+      "fixed_html_path": "releases/public-0.35.1/works/esdras1/index.html#p-2-6",
       "alignment_revision": "sha256:64444ced64e3c9f2d1ae8b0ada6f8ef248ef19184aef831c8399b79565bea572",
       "review_state": {
         "human_reviewed": false,
@@ -5719,9 +5719,9 @@
         "work": "에스드라 제1서",
         "reference": "2.6",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:f2eff72710da9992b43f3bf47eaad6d2184940323f0d7401d4342fbfb769b498",
-        "fixed_path": "releases/public-0.35/works/esdras1/index.html#p-2-6"
+        "fixed_path": "releases/public-0.35.1/works/esdras1/index.html#p-2-6"
       }
     },
     {
@@ -5786,7 +5786,7 @@
       "notes": [],
       "work_passage_id": "esdras1:2.7",
       "html_path": "works/esdras1/index.html#p-2-7",
-      "fixed_html_path": "releases/public-0.35/works/esdras1/index.html#p-2-7",
+      "fixed_html_path": "releases/public-0.35.1/works/esdras1/index.html#p-2-7",
       "alignment_revision": "sha256:7026cda07dbb3390283ef785b258d08f775dbe85082fe864536813403777719d",
       "review_state": {
         "human_reviewed": false,
@@ -5822,9 +5822,9 @@
         "work": "에스드라 제1서",
         "reference": "2.7",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:f6b93c247759a50b65199d973731e097d040dba77897dfefe65012f2f22268b2",
-        "fixed_path": "releases/public-0.35/works/esdras1/index.html#p-2-7"
+        "fixed_path": "releases/public-0.35.1/works/esdras1/index.html#p-2-7"
       }
     },
     {
@@ -5876,7 +5876,7 @@
       "notes": [],
       "work_passage_id": "esdras1:2.8",
       "html_path": "works/esdras1/index.html#p-2-8",
-      "fixed_html_path": "releases/public-0.35/works/esdras1/index.html#p-2-8",
+      "fixed_html_path": "releases/public-0.35.1/works/esdras1/index.html#p-2-8",
       "alignment_revision": "sha256:154a84815ab16060474316b4163b539ec7d8d3fe5c772ab1bed2d1addd96d5ba",
       "review_state": {
         "human_reviewed": false,
@@ -5912,9 +5912,9 @@
         "work": "에스드라 제1서",
         "reference": "2.8",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:a3735543998cd71988a0cf26bb872aecd0a71db8698566f90627db3293bb5bdf",
-        "fixed_path": "releases/public-0.35/works/esdras1/index.html#p-2-8"
+        "fixed_path": "releases/public-0.35.1/works/esdras1/index.html#p-2-8"
       }
     },
     {
@@ -5984,7 +5984,7 @@
       ],
       "work_passage_id": "esdras1:2.9",
       "html_path": "works/esdras1/index.html#p-2-9",
-      "fixed_html_path": "releases/public-0.35/works/esdras1/index.html#p-2-9",
+      "fixed_html_path": "releases/public-0.35.1/works/esdras1/index.html#p-2-9",
       "alignment_revision": "sha256:13ccbe1613f51235c24ca85ba6cd02c75743e1c07fd8b7a4f9855d09dd9cef72",
       "review_state": {
         "human_reviewed": false,
@@ -6020,9 +6020,9 @@
         "work": "에스드라 제1서",
         "reference": "2.9",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:ef41c9a10a97e5bc7b497784a7023bf60239436d377da5af0a9fd1c5551213e9",
-        "fixed_path": "releases/public-0.35/works/esdras1/index.html#p-2-9",
+        "fixed_path": "releases/public-0.35.1/works/esdras1/index.html#p-2-9",
         "collation_edition": "Swete1907,vol.2,134쪽"
       }
     },
@@ -6062,7 +6062,7 @@
       "notes": [],
       "work_passage_id": "esdras1:2.10",
       "html_path": "works/esdras1/index.html#p-2-10",
-      "fixed_html_path": "releases/public-0.35/works/esdras1/index.html#p-2-10",
+      "fixed_html_path": "releases/public-0.35.1/works/esdras1/index.html#p-2-10",
       "alignment_revision": "sha256:ce76ff9cd849d8227ea4474855d7778ca17097ad5c6e4b67ac33ed9ec4e0be9f",
       "review_state": {
         "human_reviewed": false,
@@ -6098,9 +6098,9 @@
         "work": "에스드라 제1서",
         "reference": "2.10",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:ce1e585327fb58c609778e2a27df3fa4f708084b7438e57a56b2c8b4ade880b2",
-        "fixed_path": "releases/public-0.35/works/esdras1/index.html#p-2-10"
+        "fixed_path": "releases/public-0.35.1/works/esdras1/index.html#p-2-10"
       }
     },
     {
@@ -6157,7 +6157,7 @@
       ],
       "work_passage_id": "esdras1:2.11",
       "html_path": "works/esdras1/index.html#p-2-11",
-      "fixed_html_path": "releases/public-0.35/works/esdras1/index.html#p-2-11",
+      "fixed_html_path": "releases/public-0.35.1/works/esdras1/index.html#p-2-11",
       "alignment_revision": "sha256:37452a54aae4ad02573257a4c0649e5489867a8e0367c2d907053dc7021ec9b5",
       "review_state": {
         "human_reviewed": false,
@@ -6193,9 +6193,9 @@
         "work": "에스드라 제1서",
         "reference": "2.11",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:addada1a7a38d4b3e2a9f7ecc1d335ce04275bef5a9a127e210138571adf6ead",
-        "fixed_path": "releases/public-0.35/works/esdras1/index.html#p-2-11",
+        "fixed_path": "releases/public-0.35.1/works/esdras1/index.html#p-2-11",
         "collation_edition": "Swete1907,vol.2,134쪽"
       }
     },
@@ -6292,7 +6292,7 @@
       ],
       "work_passage_id": "esdras1:2.12",
       "html_path": "works/esdras1/index.html#p-2-12",
-      "fixed_html_path": "releases/public-0.35/works/esdras1/index.html#p-2-12",
+      "fixed_html_path": "releases/public-0.35.1/works/esdras1/index.html#p-2-12",
       "alignment_revision": "sha256:26e0809cde29eeac499fa927884b51d6f05306af077c910fe0824bcbfc8bc11e",
       "review_state": {
         "human_reviewed": false,
@@ -6328,9 +6328,9 @@
         "work": "에스드라 제1서",
         "reference": "2.12",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:ad6f101b6b239620b6ccb8c7e66ecd8d046323bf67aa7225c018f9e3013e7760",
-        "fixed_path": "releases/public-0.35/works/esdras1/index.html#p-2-12",
+        "fixed_path": "releases/public-0.35.1/works/esdras1/index.html#p-2-12",
         "collation_edition": "Swete1907,vol.2,134쪽"
       }
     },
@@ -6370,7 +6370,7 @@
       "notes": [],
       "work_passage_id": "esdras1:2.13",
       "html_path": "works/esdras1/index.html#p-2-13",
-      "fixed_html_path": "releases/public-0.35/works/esdras1/index.html#p-2-13",
+      "fixed_html_path": "releases/public-0.35.1/works/esdras1/index.html#p-2-13",
       "alignment_revision": "sha256:52f54a1d7f6447f2cc73d03b15268e1c79ab6fe24a40ee43e466f22e0831216d",
       "review_state": {
         "human_reviewed": false,
@@ -6406,9 +6406,9 @@
         "work": "에스드라 제1서",
         "reference": "2.13",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:a2a6f5c588d99f0803cf1c75c42351dd9463ffa8c18756dede9d0f8139aef172",
-        "fixed_path": "releases/public-0.35/works/esdras1/index.html#p-2-13"
+        "fixed_path": "releases/public-0.35.1/works/esdras1/index.html#p-2-13"
       }
     },
     {
@@ -6465,7 +6465,7 @@
       ],
       "work_passage_id": "esdras1:2.14",
       "html_path": "works/esdras1/index.html#p-2-14",
-      "fixed_html_path": "releases/public-0.35/works/esdras1/index.html#p-2-14",
+      "fixed_html_path": "releases/public-0.35.1/works/esdras1/index.html#p-2-14",
       "alignment_revision": "sha256:41a3efe73b3b7aaa311ce038132aacce05ffe3870b0516fe3508a1a446cd94b4",
       "review_state": {
         "human_reviewed": false,
@@ -6501,9 +6501,9 @@
         "work": "에스드라 제1서",
         "reference": "2.14",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:88e6703e39a9b528af60724bc8eea445477bda5b867a9e43032094b21734632c",
-        "fixed_path": "releases/public-0.35/works/esdras1/index.html#p-2-14",
+        "fixed_path": "releases/public-0.35.1/works/esdras1/index.html#p-2-14",
         "collation_edition": "Swete1907,vol.2,134쪽"
       }
     },
@@ -6556,7 +6556,7 @@
       "notes": [],
       "work_passage_id": "esdras1:2.15",
       "html_path": "works/esdras1/index.html#p-2-15",
-      "fixed_html_path": "releases/public-0.35/works/esdras1/index.html#p-2-15",
+      "fixed_html_path": "releases/public-0.35.1/works/esdras1/index.html#p-2-15",
       "alignment_revision": "sha256:fc5d7f137d59ea0bf4d9c694296789e2cf06c16fa0966c495e7ddb85b93badba",
       "review_state": {
         "human_reviewed": false,
@@ -6592,9 +6592,9 @@
         "work": "에스드라 제1서",
         "reference": "2.15",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:54482e231043eb579ba1e9959f5001490ca3d8dc75be14f9287cbcb3cd06238d",
-        "fixed_path": "releases/public-0.35/works/esdras1/index.html#p-2-15"
+        "fixed_path": "releases/public-0.35.1/works/esdras1/index.html#p-2-15"
       }
     },
     {
@@ -6633,7 +6633,7 @@
       "notes": [],
       "work_passage_id": "esdras1:2.16",
       "html_path": "works/esdras1/index.html#p-2-16",
-      "fixed_html_path": "releases/public-0.35/works/esdras1/index.html#p-2-16",
+      "fixed_html_path": "releases/public-0.35.1/works/esdras1/index.html#p-2-16",
       "alignment_revision": "sha256:bf7f20bac689539b654cd1934a0a307415b4d4c7717727166019cf0faf21f50f",
       "review_state": {
         "human_reviewed": false,
@@ -6669,9 +6669,9 @@
         "work": "에스드라 제1서",
         "reference": "2.16",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:134de5092379a1b32e1cd53e7fa202a01867dee56f56ffcf7a751af84271e99a",
-        "fixed_path": "releases/public-0.35/works/esdras1/index.html#p-2-16"
+        "fixed_path": "releases/public-0.35.1/works/esdras1/index.html#p-2-16"
       }
     },
     {
@@ -6738,7 +6738,7 @@
       ],
       "work_passage_id": "esdras1:2.17",
       "html_path": "works/esdras1/index.html#p-2-17",
-      "fixed_html_path": "releases/public-0.35/works/esdras1/index.html#p-2-17",
+      "fixed_html_path": "releases/public-0.35.1/works/esdras1/index.html#p-2-17",
       "alignment_revision": "sha256:7560236660ece19fec21b40e5aa12b6f3ef4a8b5c6f5d4c7ee3aad0cadfff796",
       "review_state": {
         "human_reviewed": false,
@@ -6774,9 +6774,9 @@
         "work": "에스드라 제1서",
         "reference": "2.17",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:f2240e74ead04a5bd93a52cf642915ef00fc68313734a3f58eee0afcf60b74d2",
-        "fixed_path": "releases/public-0.35/works/esdras1/index.html#p-2-17"
+        "fixed_path": "releases/public-0.35.1/works/esdras1/index.html#p-2-17"
       }
     },
     {
@@ -6854,7 +6854,7 @@
       "notes": [],
       "work_passage_id": "esdras1:2.18",
       "html_path": "works/esdras1/index.html#p-2-18",
-      "fixed_html_path": "releases/public-0.35/works/esdras1/index.html#p-2-18",
+      "fixed_html_path": "releases/public-0.35.1/works/esdras1/index.html#p-2-18",
       "alignment_revision": "sha256:b6d17ff5611781a625eecc39b86e054ce3a77381393df447f077714fe3a8c46d",
       "review_state": {
         "human_reviewed": false,
@@ -6890,9 +6890,9 @@
         "work": "에스드라 제1서",
         "reference": "2.18",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:76386c7b0009f0267c5d9f1e0ec0ddfdde902d383a0d7d5f9b64e7cace4e7bf2",
-        "fixed_path": "releases/public-0.35/works/esdras1/index.html#p-2-18"
+        "fixed_path": "releases/public-0.35.1/works/esdras1/index.html#p-2-18"
       }
     },
     {
@@ -6970,7 +6970,7 @@
       "notes": [],
       "work_passage_id": "esdras1:2.19",
       "html_path": "works/esdras1/index.html#p-2-19",
-      "fixed_html_path": "releases/public-0.35/works/esdras1/index.html#p-2-19",
+      "fixed_html_path": "releases/public-0.35.1/works/esdras1/index.html#p-2-19",
       "alignment_revision": "sha256:1cd157cd4583135a688c1ce62cfcad5853077ec6c8b4a1303b138520475d952e",
       "review_state": {
         "human_reviewed": false,
@@ -7006,9 +7006,9 @@
         "work": "에스드라 제1서",
         "reference": "2.19",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:e6ab4aea29b6214d94cfaa7be38b458a9fce6aca022cfcf399d65aed5dcaa86b",
-        "fixed_path": "releases/public-0.35/works/esdras1/index.html#p-2-19"
+        "fixed_path": "releases/public-0.35.1/works/esdras1/index.html#p-2-19"
       }
     },
     {
@@ -7060,7 +7060,7 @@
       "notes": [],
       "work_passage_id": "esdras1:2.20",
       "html_path": "works/esdras1/index.html#p-2-20",
-      "fixed_html_path": "releases/public-0.35/works/esdras1/index.html#p-2-20",
+      "fixed_html_path": "releases/public-0.35.1/works/esdras1/index.html#p-2-20",
       "alignment_revision": "sha256:6cef978aeb6e581daf5f6dbe88f1ee27b9d5ac68cd6e764db5972b367bb49d9d",
       "review_state": {
         "human_reviewed": false,
@@ -7096,9 +7096,9 @@
         "work": "에스드라 제1서",
         "reference": "2.20",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:b84a88145a9abe7055314d2ef79ff542309dd65ca311d4335e0c0c7d8cce81e4",
-        "fixed_path": "releases/public-0.35/works/esdras1/index.html#p-2-20"
+        "fixed_path": "releases/public-0.35.1/works/esdras1/index.html#p-2-20"
       }
     },
     {
@@ -7137,7 +7137,7 @@
       "notes": [],
       "work_passage_id": "esdras1:2.21",
       "html_path": "works/esdras1/index.html#p-2-21",
-      "fixed_html_path": "releases/public-0.35/works/esdras1/index.html#p-2-21",
+      "fixed_html_path": "releases/public-0.35.1/works/esdras1/index.html#p-2-21",
       "alignment_revision": "sha256:d232bebc569bbdca42d7cf0878d93ef95e7cf9bb780da9615c84a06ad497ea0d",
       "review_state": {
         "human_reviewed": false,
@@ -7173,9 +7173,9 @@
         "work": "에스드라 제1서",
         "reference": "2.21",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:4abfb98b01acf061afa26d73d3f2e805a1986e650a66d156b99ac59305f663b2",
-        "fixed_path": "releases/public-0.35/works/esdras1/index.html#p-2-21"
+        "fixed_path": "releases/public-0.35.1/works/esdras1/index.html#p-2-21"
       }
     },
     {
@@ -7240,7 +7240,7 @@
       "notes": [],
       "work_passage_id": "esdras1:2.22",
       "html_path": "works/esdras1/index.html#p-2-22",
-      "fixed_html_path": "releases/public-0.35/works/esdras1/index.html#p-2-22",
+      "fixed_html_path": "releases/public-0.35.1/works/esdras1/index.html#p-2-22",
       "alignment_revision": "sha256:a4e99982219648b4d79f949f07f7c62ac29ad89d5b2e94a2f26a0fc77ad3caef",
       "review_state": {
         "human_reviewed": false,
@@ -7276,9 +7276,9 @@
         "work": "에스드라 제1서",
         "reference": "2.22",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:9e897b58b39c008e1dca5cfba8d8c90200084260416ac11a2a24ff1321e1fa64",
-        "fixed_path": "releases/public-0.35/works/esdras1/index.html#p-2-22"
+        "fixed_path": "releases/public-0.35.1/works/esdras1/index.html#p-2-22"
       }
     },
     {
@@ -7330,7 +7330,7 @@
       "notes": [],
       "work_passage_id": "esdras1:2.23",
       "html_path": "works/esdras1/index.html#p-2-23",
-      "fixed_html_path": "releases/public-0.35/works/esdras1/index.html#p-2-23",
+      "fixed_html_path": "releases/public-0.35.1/works/esdras1/index.html#p-2-23",
       "alignment_revision": "sha256:e05a92bfb858991df1b5838ce5cffd3408ea30bc18b409faf45df07bcdfdf936",
       "review_state": {
         "human_reviewed": false,
@@ -7366,9 +7366,9 @@
         "work": "에스드라 제1서",
         "reference": "2.23",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:d00b33c0b8740b6647651b5296943a49e03344a2c023c308d779d8632f97c160",
-        "fixed_path": "releases/public-0.35/works/esdras1/index.html#p-2-23"
+        "fixed_path": "releases/public-0.35.1/works/esdras1/index.html#p-2-23"
       }
     },
     {
@@ -7433,7 +7433,7 @@
       "notes": [],
       "work_passage_id": "esdras1:2.24",
       "html_path": "works/esdras1/index.html#p-2-24",
-      "fixed_html_path": "releases/public-0.35/works/esdras1/index.html#p-2-24",
+      "fixed_html_path": "releases/public-0.35.1/works/esdras1/index.html#p-2-24",
       "alignment_revision": "sha256:b693b0a409cecec708123a0fbfe58361ebebfd1919ad67060287b922d494f095",
       "review_state": {
         "human_reviewed": false,
@@ -7469,9 +7469,9 @@
         "work": "에스드라 제1서",
         "reference": "2.24",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:f2eb9db203a728bd275372178ed5be03d15b8ce563ebd91d66900f708561f90e",
-        "fixed_path": "releases/public-0.35/works/esdras1/index.html#p-2-24"
+        "fixed_path": "releases/public-0.35.1/works/esdras1/index.html#p-2-24"
       }
     },
     {
@@ -7538,7 +7538,7 @@
       ],
       "work_passage_id": "esdras1:2.25",
       "html_path": "works/esdras1/index.html#p-2-25",
-      "fixed_html_path": "releases/public-0.35/works/esdras1/index.html#p-2-25",
+      "fixed_html_path": "releases/public-0.35.1/works/esdras1/index.html#p-2-25",
       "alignment_revision": "sha256:acc0ea02538c37804f2cee16a480eda957110e4dbc9d83a38f8b18f131e70bd4",
       "review_state": {
         "human_reviewed": false,
@@ -7574,9 +7574,9 @@
         "work": "에스드라 제1서",
         "reference": "2.25",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:f92823ee4e472ed8236e52d89a7788ee95c60d5c057dad0ebf91fc4ce3a8bcec",
-        "fixed_path": "releases/public-0.35/works/esdras1/index.html#p-2-25"
+        "fixed_path": "releases/public-0.35.1/works/esdras1/index.html#p-2-25"
       }
     }
   ],
@@ -7600,14 +7600,14 @@
   "display_author": "익명",
   "scope": "에스드라 제1서 1-2장 80절 전체, 3-9장 미수록",
   "coverage": "complete_scope",
-  "release_id": "public-0.35",
+  "release_id": "public-0.35.1",
   "source_language": "grc",
   "source_kind": "edited_ancient_original",
   "human_reviewed": false,
   "translation_method": "고정 원어 본문에서 직접 번역",
   "html_path": "works/esdras1/index.html",
   "json_path": "data/works/esdras1.json",
-  "fixed_html_path": "releases/public-0.35/works/esdras1/index.html",
+  "fixed_html_path": "releases/public-0.35.1/works/esdras1/index.html",
   "source_profile": "esdras1-swete-1d3efc3c",
   "source_decisions": [
     {

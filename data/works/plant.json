@@ -101,7 +101,7 @@
       ],
       "work_passage_id": "plant:1",
       "html_path": "works/plant/index.html#p-1",
-      "fixed_html_path": "releases/public-0.35/works/plant/index.html#p-1",
+      "fixed_html_path": "releases/public-0.35.1/works/plant/index.html#p-1",
       "alignment_revision": "sha256:47e882623b0a645365057d30b97295ab1eb8a86fecccc30c56947ea639d787a8",
       "review_state": {
         "human_reviewed": false,
@@ -137,9 +137,9 @@
         "work": "나무 심기에 관하여",
         "reference": "1",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:7cf8005a9b991d9e4249c1b9048dc4a93b22feb1458184dd68d4d6b03be1e004",
-        "fixed_path": "releases/public-0.35/works/plant/index.html#p-1"
+        "fixed_path": "releases/public-0.35.1/works/plant/index.html#p-1"
       }
     },
     {
@@ -201,7 +201,7 @@
       "notes": [],
       "work_passage_id": "plant:2",
       "html_path": "works/plant/index.html#p-2",
-      "fixed_html_path": "releases/public-0.35/works/plant/index.html#p-2",
+      "fixed_html_path": "releases/public-0.35.1/works/plant/index.html#p-2",
       "alignment_revision": "sha256:c06f59031b8300dbb47ccee947a7b6b45b3ea14367640554ace68a71873ecbd5",
       "review_state": {
         "human_reviewed": false,
@@ -237,9 +237,9 @@
         "work": "나무 심기에 관하여",
         "reference": "2",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:83ace5e7bbd7a045598f18da695cbcb7dd385c0cc3ec1e05340ed3ec3b45ebd0",
-        "fixed_path": "releases/public-0.35/works/plant/index.html#p-2"
+        "fixed_path": "releases/public-0.35.1/works/plant/index.html#p-2"
       }
     },
     {
@@ -358,7 +358,7 @@
       ],
       "work_passage_id": "plant:3",
       "html_path": "works/plant/index.html#p-3",
-      "fixed_html_path": "releases/public-0.35/works/plant/index.html#p-3",
+      "fixed_html_path": "releases/public-0.35.1/works/plant/index.html#p-3",
       "alignment_revision": "sha256:3abebe73a3fd6b10085c6feb2fb321870170a0965ef978974dc09f4925cd7e22",
       "review_state": {
         "human_reviewed": false,
@@ -394,9 +394,9 @@
         "work": "나무 심기에 관하여",
         "reference": "3",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:bd573d72faae68b055c15b4cf2d5d9837e1f62bf74ce392f843ce08c8f18f89d",
-        "fixed_path": "releases/public-0.35/works/plant/index.html#p-3"
+        "fixed_path": "releases/public-0.35.1/works/plant/index.html#p-3"
       }
     },
     {
@@ -489,7 +489,7 @@
       ],
       "work_passage_id": "plant:4",
       "html_path": "works/plant/index.html#p-4",
-      "fixed_html_path": "releases/public-0.35/works/plant/index.html#p-4",
+      "fixed_html_path": "releases/public-0.35.1/works/plant/index.html#p-4",
       "alignment_revision": "sha256:bc49cbd4b2d23326a20f5a23fd024ff2a47a69ed91776af0ef054654e4da6f50",
       "review_state": {
         "human_reviewed": false,
@@ -525,9 +525,9 @@
         "work": "나무 심기에 관하여",
         "reference": "4",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:349afdcb6123408418eff30762ba03f816459ea773f11fdea6ad41ca9f9a423d",
-        "fixed_path": "releases/public-0.35/works/plant/index.html#p-4",
+        "fixed_path": "releases/public-0.35.1/works/plant/index.html#p-4",
         "collation_edition": "Wendland 1897, vol. 2"
       }
     },
@@ -577,7 +577,7 @@
       "notes": [],
       "work_passage_id": "plant:5",
       "html_path": "works/plant/index.html#p-5",
-      "fixed_html_path": "releases/public-0.35/works/plant/index.html#p-5",
+      "fixed_html_path": "releases/public-0.35.1/works/plant/index.html#p-5",
       "alignment_revision": "sha256:66ae974a516966d155763f7def117d77c2ea245a143fbd9eb5c8bf91238a6978",
       "review_state": {
         "human_reviewed": false,
@@ -613,9 +613,9 @@
         "work": "나무 심기에 관하여",
         "reference": "5",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:664b9b6a52b838f14d9613fee69d23f8dfb80f7a8ffb3781dab84e637e97ab76",
-        "fixed_path": "releases/public-0.35/works/plant/index.html#p-5"
+        "fixed_path": "releases/public-0.35.1/works/plant/index.html#p-5"
       }
     },
     {
@@ -677,7 +677,7 @@
       "notes": [],
       "work_passage_id": "plant:6",
       "html_path": "works/plant/index.html#p-6",
-      "fixed_html_path": "releases/public-0.35/works/plant/index.html#p-6",
+      "fixed_html_path": "releases/public-0.35.1/works/plant/index.html#p-6",
       "alignment_revision": "sha256:b914e391d6ef1e6ea9874a2f7d992fb8fe21d905060b1df1a37574d3c0ef0235",
       "review_state": {
         "human_reviewed": false,
@@ -713,9 +713,9 @@
         "work": "나무 심기에 관하여",
         "reference": "6",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:2179571e5ada6c5c15bd0b3c639c6cb5f383bf5dce9fa5198cd58410c0951c9a",
-        "fixed_path": "releases/public-0.35/works/plant/index.html#p-6"
+        "fixed_path": "releases/public-0.35.1/works/plant/index.html#p-6"
       }
     },
     {
@@ -819,7 +819,7 @@
       "notes": [],
       "work_passage_id": "plant:7",
       "html_path": "works/plant/index.html#p-7",
-      "fixed_html_path": "releases/public-0.35/works/plant/index.html#p-7",
+      "fixed_html_path": "releases/public-0.35.1/works/plant/index.html#p-7",
       "alignment_revision": "sha256:94267b07b35efe2a7787a9fc1d6bcb8d4c4a13e85123d81cde6e2118b906e1a2",
       "review_state": {
         "human_reviewed": false,
@@ -855,9 +855,9 @@
         "work": "나무 심기에 관하여",
         "reference": "7",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:52fee240ed65505b2005f2ea60995ddd3a9a45187e7b394cb1240ef4b9b395ff",
-        "fixed_path": "releases/public-0.35/works/plant/index.html#p-7"
+        "fixed_path": "releases/public-0.35.1/works/plant/index.html#p-7"
       }
     },
     {
@@ -908,7 +908,7 @@
       ],
       "work_passage_id": "plant:8",
       "html_path": "works/plant/index.html#p-8",
-      "fixed_html_path": "releases/public-0.35/works/plant/index.html#p-8",
+      "fixed_html_path": "releases/public-0.35.1/works/plant/index.html#p-8",
       "alignment_revision": "sha256:23c6b50f9afa41438ed690631909871d65cf4b20e1b3640699ef176ba2899ebb",
       "review_state": {
         "human_reviewed": false,
@@ -944,9 +944,9 @@
         "work": "나무 심기에 관하여",
         "reference": "8",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:21697192f95fa48f9ba95fc09e2ddf68d925312b2d9adc86b2a769415b37f5ed",
-        "fixed_path": "releases/public-0.35/works/plant/index.html#p-8"
+        "fixed_path": "releases/public-0.35.1/works/plant/index.html#p-8"
       }
     },
     {
@@ -1008,7 +1008,7 @@
       "notes": [],
       "work_passage_id": "plant:9",
       "html_path": "works/plant/index.html#p-9",
-      "fixed_html_path": "releases/public-0.35/works/plant/index.html#p-9",
+      "fixed_html_path": "releases/public-0.35.1/works/plant/index.html#p-9",
       "alignment_revision": "sha256:13af01776fba552c9460fb3ad550339f24a0cf6c3e79b198317e58ac84878e9a",
       "review_state": {
         "human_reviewed": false,
@@ -1044,9 +1044,9 @@
         "work": "나무 심기에 관하여",
         "reference": "9",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:cdd7400448bb7e4b56b3c6eed282a743dc951deca2ec406d84a2f209c21f2d02",
-        "fixed_path": "releases/public-0.35/works/plant/index.html#p-9"
+        "fixed_path": "releases/public-0.35.1/works/plant/index.html#p-9"
       }
     },
     {
@@ -1136,7 +1136,7 @@
       ],
       "work_passage_id": "plant:10",
       "html_path": "works/plant/index.html#p-10",
-      "fixed_html_path": "releases/public-0.35/works/plant/index.html#p-10",
+      "fixed_html_path": "releases/public-0.35.1/works/plant/index.html#p-10",
       "alignment_revision": "sha256:676baf3f5343419985617b7839c1c47985edd4078018d2bb7cb3a178449d7733",
       "review_state": {
         "human_reviewed": false,
@@ -1172,9 +1172,9 @@
         "work": "나무 심기에 관하여",
         "reference": "10",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:c00555a376646aaff4b8e0eaafde55894138a37cac798ca2e5e5748b1e19755f",
-        "fixed_path": "releases/public-0.35/works/plant/index.html#p-10"
+        "fixed_path": "releases/public-0.35.1/works/plant/index.html#p-10"
       }
     },
     {
@@ -1236,7 +1236,7 @@
       "notes": [],
       "work_passage_id": "plant:11",
       "html_path": "works/plant/index.html#p-11",
-      "fixed_html_path": "releases/public-0.35/works/plant/index.html#p-11",
+      "fixed_html_path": "releases/public-0.35.1/works/plant/index.html#p-11",
       "alignment_revision": "sha256:7859994c33a0027252978e104853dc8becef0c7aab8879bdbcda1a0cb18a0545",
       "review_state": {
         "human_reviewed": false,
@@ -1272,9 +1272,9 @@
         "work": "나무 심기에 관하여",
         "reference": "11",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:5836b3740b4f976074720e7faf5c135a5cd9252f3ecb97776b325a434c56725d",
-        "fixed_path": "releases/public-0.35/works/plant/index.html#p-11"
+        "fixed_path": "releases/public-0.35.1/works/plant/index.html#p-11"
       }
     },
     {
@@ -1365,7 +1365,7 @@
       "notes": [],
       "work_passage_id": "plant:12",
       "html_path": "works/plant/index.html#p-12",
-      "fixed_html_path": "releases/public-0.35/works/plant/index.html#p-12",
+      "fixed_html_path": "releases/public-0.35.1/works/plant/index.html#p-12",
       "alignment_revision": "sha256:ca045615ef285f638dfd1f356d526ef784af3e25c4570d441152c53a734610e7",
       "review_state": {
         "human_reviewed": false,
@@ -1401,9 +1401,9 @@
         "work": "나무 심기에 관하여",
         "reference": "12",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:da30463418e308ff20495a47a499f6c235b8d8f3c79eeb66464e9ca619c26744",
-        "fixed_path": "releases/public-0.35/works/plant/index.html#p-12"
+        "fixed_path": "releases/public-0.35.1/works/plant/index.html#p-12"
       }
     },
     {
@@ -1452,7 +1452,7 @@
       "notes": [],
       "work_passage_id": "plant:13",
       "html_path": "works/plant/index.html#p-13",
-      "fixed_html_path": "releases/public-0.35/works/plant/index.html#p-13",
+      "fixed_html_path": "releases/public-0.35.1/works/plant/index.html#p-13",
       "alignment_revision": "sha256:e046e558b61b3de41bf34d014ad7dfb6d2bcc12b87631bd079c2655215594b2b",
       "review_state": {
         "human_reviewed": false,
@@ -1488,9 +1488,9 @@
         "work": "나무 심기에 관하여",
         "reference": "13",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:ee3570fd87f22f485a5e14f578bad0ec5a83e04fd0d9922891794fe3d8290d22",
-        "fixed_path": "releases/public-0.35/works/plant/index.html#p-13"
+        "fixed_path": "releases/public-0.35.1/works/plant/index.html#p-13"
       }
     },
     {
@@ -1606,7 +1606,7 @@
       ],
       "work_passage_id": "plant:14",
       "html_path": "works/plant/index.html#p-14",
-      "fixed_html_path": "releases/public-0.35/works/plant/index.html#p-14",
+      "fixed_html_path": "releases/public-0.35.1/works/plant/index.html#p-14",
       "alignment_revision": "sha256:73924188faee2a6b99bc371ef4163268de249240ded91647287037afe034bedd",
       "review_state": {
         "human_reviewed": false,
@@ -1642,9 +1642,9 @@
         "work": "나무 심기에 관하여",
         "reference": "14",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:59239bccada17843d58c2f528d983b3bc5dc15d9107e5dfcaeb29a81345776a1",
-        "fixed_path": "releases/public-0.35/works/plant/index.html#p-14"
+        "fixed_path": "releases/public-0.35.1/works/plant/index.html#p-14"
       }
     },
     {
@@ -1722,7 +1722,7 @@
       "notes": [],
       "work_passage_id": "plant:15",
       "html_path": "works/plant/index.html#p-15",
-      "fixed_html_path": "releases/public-0.35/works/plant/index.html#p-15",
+      "fixed_html_path": "releases/public-0.35.1/works/plant/index.html#p-15",
       "alignment_revision": "sha256:156ee06d2d50bbc5265de49a6f23ddb4ac081640b4648a4583584e66849d19f0",
       "review_state": {
         "human_reviewed": false,
@@ -1758,9 +1758,9 @@
         "work": "나무 심기에 관하여",
         "reference": "15",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:3c4634672177d5d035355433e4e12f28a888935a70d8860c6795f999115d3f91",
-        "fixed_path": "releases/public-0.35/works/plant/index.html#p-15"
+        "fixed_path": "releases/public-0.35.1/works/plant/index.html#p-15"
       }
     },
     {
@@ -1822,7 +1822,7 @@
       "notes": [],
       "work_passage_id": "plant:16",
       "html_path": "works/plant/index.html#p-16",
-      "fixed_html_path": "releases/public-0.35/works/plant/index.html#p-16",
+      "fixed_html_path": "releases/public-0.35.1/works/plant/index.html#p-16",
       "alignment_revision": "sha256:29ba32a9cea5a35a1d7b765f22cbcb5ef59ea1218d191077f06b8e969ba4200f",
       "review_state": {
         "human_reviewed": false,
@@ -1858,9 +1858,9 @@
         "work": "나무 심기에 관하여",
         "reference": "16",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:64306d5377b987bcd43bdc49c737c3d21f788da966745498276858e1eb6998cb",
-        "fixed_path": "releases/public-0.35/works/plant/index.html#p-16"
+        "fixed_path": "releases/public-0.35.1/works/plant/index.html#p-16"
       }
     },
     {
@@ -1935,7 +1935,7 @@
       "notes": [],
       "work_passage_id": "plant:17",
       "html_path": "works/plant/index.html#p-17",
-      "fixed_html_path": "releases/public-0.35/works/plant/index.html#p-17",
+      "fixed_html_path": "releases/public-0.35.1/works/plant/index.html#p-17",
       "alignment_revision": "sha256:443ce7238460d4ca5e661eb2215501317171c1a4d0b7d03281d2eae0f5cc55c1",
       "review_state": {
         "human_reviewed": false,
@@ -1971,9 +1971,9 @@
         "work": "나무 심기에 관하여",
         "reference": "17",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:79c63ab466fec5003dd9906f1df29d98277a1f9849eb6c566b7f78b09c3750d8",
-        "fixed_path": "releases/public-0.35/works/plant/index.html#p-17"
+        "fixed_path": "releases/public-0.35.1/works/plant/index.html#p-17"
       }
     },
     {
@@ -2076,7 +2076,7 @@
       ],
       "work_passage_id": "plant:18",
       "html_path": "works/plant/index.html#p-18",
-      "fixed_html_path": "releases/public-0.35/works/plant/index.html#p-18",
+      "fixed_html_path": "releases/public-0.35.1/works/plant/index.html#p-18",
       "alignment_revision": "sha256:d002dc45c035c28c4ba2d77f70ade2da31d1c1966f4beadd7ca0806234232fbd",
       "review_state": {
         "human_reviewed": false,
@@ -2112,9 +2112,9 @@
         "work": "나무 심기에 관하여",
         "reference": "18",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:a87e06246264fb397b2dd0e54c5e0714a83bcc070eaa28d56199df02a9562d7c",
-        "fixed_path": "releases/public-0.35/works/plant/index.html#p-18"
+        "fixed_path": "releases/public-0.35.1/works/plant/index.html#p-18"
       }
     },
     {
@@ -2176,7 +2176,7 @@
       "notes": [],
       "work_passage_id": "plant:19",
       "html_path": "works/plant/index.html#p-19",
-      "fixed_html_path": "releases/public-0.35/works/plant/index.html#p-19",
+      "fixed_html_path": "releases/public-0.35.1/works/plant/index.html#p-19",
       "alignment_revision": "sha256:67889de32f9e471395f2b61d841184f751468fe2273c529a303e46861c578fdc",
       "review_state": {
         "human_reviewed": false,
@@ -2212,9 +2212,9 @@
         "work": "나무 심기에 관하여",
         "reference": "19",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:722ce50133c580426164718f45ee89ec464b962a11205c5400dee9d38d928c75",
-        "fixed_path": "releases/public-0.35/works/plant/index.html#p-19"
+        "fixed_path": "releases/public-0.35.1/works/plant/index.html#p-19"
       }
     },
     {
@@ -2281,7 +2281,7 @@
       ],
       "work_passage_id": "plant:20",
       "html_path": "works/plant/index.html#p-20",
-      "fixed_html_path": "releases/public-0.35/works/plant/index.html#p-20",
+      "fixed_html_path": "releases/public-0.35.1/works/plant/index.html#p-20",
       "alignment_revision": "sha256:4d473d372ac07dbde249ef63edc4b148791063340aa51845c45a298afcfde4a1",
       "review_state": {
         "human_reviewed": false,
@@ -2317,9 +2317,9 @@
         "work": "나무 심기에 관하여",
         "reference": "20",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:fb85778ef981fc8da6eabc997504f881e836507b82c807c8498a20cd1214aa35",
-        "fixed_path": "releases/public-0.35/works/plant/index.html#p-20"
+        "fixed_path": "releases/public-0.35.1/works/plant/index.html#p-20"
       }
     }
   ],
@@ -2342,14 +2342,14 @@
   "display_author": "필론",
   "scope": "나무 심기에 관하여 1-20절 전체, 21-177절 미수록",
   "coverage": "complete_scope",
-  "release_id": "public-0.35",
+  "release_id": "public-0.35.1",
   "source_language": "grc",
   "source_kind": "edited_ancient_original",
   "human_reviewed": false,
   "translation_method": "고정 원어 본문에서 직접 번역",
   "html_path": "works/plant/index.html",
   "json_path": "data/works/plant.json",
-  "fixed_html_path": "releases/public-0.35/works/plant/index.html",
+  "fixed_html_path": "releases/public-0.35.1/works/plant/index.html",
   "source_profile": "plant-first1k-03776b39",
   "source_decisions": [
     {

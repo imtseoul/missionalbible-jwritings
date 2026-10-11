@@ -37,10 +37,29 @@ export function installPhraseHover(root) {
   root.addEventListener('focusout', event => {
     select(unitAt(event.relatedTarget)?.dataset.align);
   });
+  function move(target) {
+    target.tabIndex = -1;
+    target.focus();
+    select(target.dataset.align);
+  }
   root.addEventListener('keydown', event => {
     const unit = unitAt(event.target);
-    if (!unit) return;
-    if (event.key === 'Escape') { select(null); return; }
+    if (!unit || event.altKey || event.ctrlKey || event.metaKey) return;
+    if (event.key === 'Escape') {
+      select(null);
+      // Return to the passage, which holds the reader's single tab stop.
+      const passage = unit.closest('.passage');
+      if (passage && passage.tabIndex >= 0) { event.preventDefault(); passage.focus(); }
+      return;
+    }
+    if (event.key === 'ArrowUp' || event.key === 'ArrowDown') {
+      // Jump to the same phrase on the other line (Korean and original).
+      const line = unit.closest('p');
+      const other = line?.parentElement?.querySelector(line.classList.contains('translation') ? '.original' : '.translation');
+      const twin = other && other.getClientRects().length ? other.querySelector(`[data-align="${CSS.escape(unit.dataset.align)}"]`) : null;
+      if (twin) { event.preventDefault(); move(twin); }
+      return;
+    }
     if (!['ArrowLeft', 'ArrowRight', 'Home', 'End'].includes(event.key)) return;
     const siblings = [...unit.closest('p').querySelectorAll('[data-align]')];
     const position = siblings.indexOf(unit);
@@ -49,10 +68,7 @@ export function installPhraseHover(root) {
     const next = event.key === 'Home' ? 0 : event.key === 'End' ? siblings.length - 1 :
       Math.max(0, Math.min(siblings.length - 1, position + step));
     event.preventDefault();
-    for (const item of siblings) item.tabIndex = -1;
-    siblings[next].tabIndex = 0;
-    siblings[next].focus();
-    select(siblings[next].dataset.align);
+    move(siblings[next]);
   });
 }
 

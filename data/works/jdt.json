@@ -82,7 +82,7 @@
       ],
       "work_passage_id": "jdt:1.1",
       "html_path": "works/jdt/index.html#p-1-1",
-      "fixed_html_path": "releases/public-0.35/works/jdt/index.html#p-1-1",
+      "fixed_html_path": "releases/public-0.35.1/works/jdt/index.html#p-1-1",
       "alignment_revision": "sha256:1c78343d023d3029ec8d97aeeb60ce5c7446616c16dd4e6bcf5d84ad3fc54047",
       "review_state": {
         "human_reviewed": false,
@@ -118,9 +118,9 @@
         "work": "유딧기",
         "reference": "1.1",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:3751c78037d1f88375b4276a8cb917bce2305533f47c3d5c7d129a0eb932f758",
-        "fixed_path": "releases/public-0.35/works/jdt/index.html#p-1-1"
+        "fixed_path": "releases/public-0.35.1/works/jdt/index.html#p-1-1"
       }
     },
     {
@@ -172,7 +172,7 @@
       "notes": [],
       "work_passage_id": "jdt:1.2",
       "html_path": "works/jdt/index.html#p-1-2",
-      "fixed_html_path": "releases/public-0.35/works/jdt/index.html#p-1-2",
+      "fixed_html_path": "releases/public-0.35.1/works/jdt/index.html#p-1-2",
       "alignment_revision": "sha256:3a49d738421213ceab4039a3d8196340329b4f71261dd76db567693fb6b27c87",
       "review_state": {
         "human_reviewed": false,
@@ -208,9 +208,9 @@
         "work": "유딧기",
         "reference": "1.2",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:90cc5c88878af107e90444266d1f43652a0e5738af88ded6b317c570f15bd13e",
-        "fixed_path": "releases/public-0.35/works/jdt/index.html#p-1-2"
+        "fixed_path": "releases/public-0.35.1/works/jdt/index.html#p-1-2"
       }
     },
     {
@@ -251,7 +251,7 @@
       ],
       "work_passage_id": "jdt:1.3",
       "html_path": "works/jdt/index.html#p-1-3",
-      "fixed_html_path": "releases/public-0.35/works/jdt/index.html#p-1-3",
+      "fixed_html_path": "releases/public-0.35.1/works/jdt/index.html#p-1-3",
       "alignment_revision": "sha256:b04f44a443404ecaab02021c02232f909004c8317162ff37762be16d856c1b98",
       "review_state": {
         "human_reviewed": false,
@@ -287,9 +287,9 @@
         "work": "유딧기",
         "reference": "1.3",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:eaefc536fc145be7be3a67b55dd600101e42b7d6b4f279a8892230f3cad8b5da",
-        "fixed_path": "releases/public-0.35/works/jdt/index.html#p-1-3"
+        "fixed_path": "releases/public-0.35.1/works/jdt/index.html#p-1-3"
       }
     },
     {
@@ -341,7 +341,7 @@
       "notes": [],
       "work_passage_id": "jdt:1.4",
       "html_path": "works/jdt/index.html#p-1-4",
-      "fixed_html_path": "releases/public-0.35/works/jdt/index.html#p-1-4",
+      "fixed_html_path": "releases/public-0.35.1/works/jdt/index.html#p-1-4",
       "alignment_revision": "sha256:5134e89c0e893c6ac8db3e9d33cdbfb712d959e084c0844bdaab676fe3b81481",
       "review_state": {
         "human_reviewed": false,
@@ -377,9 +377,9 @@
         "work": "유딧기",
         "reference": "1.4",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:d54d98df1cc8c35d4e0810021b9150f6697e8badc6b47b473e89daa1d434c66e",
-        "fixed_path": "releases/public-0.35/works/jdt/index.html#p-1-4"
+        "fixed_path": "releases/public-0.35.1/works/jdt/index.html#p-1-4"
       }
     },
     {
@@ -418,7 +418,7 @@
       "notes": [],
       "work_passage_id": "jdt:1.5",
       "html_path": "works/jdt/index.html#p-1-5",
-      "fixed_html_path": "releases/public-0.35/works/jdt/index.html#p-1-5",
+      "fixed_html_path": "releases/public-0.35.1/works/jdt/index.html#p-1-5",
       "alignment_revision": "sha256:6dac14fb187be2e6c32cfc71458bc9920d4fb634fa8142064ef7d35d37cb2112",
       "review_state": {
         "human_reviewed": false,
@@ -454,9 +454,9 @@
         "work": "유딧기",
         "reference": "1.5",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:36a85713796ab64db580b430b0f21131fc0cf86cedcfef4a6c3cbaf655b04422",
-        "fixed_path": "releases/public-0.35/works/jdt/index.html#p-1-5"
+        "fixed_path": "releases/public-0.35.1/works/jdt/index.html#p-1-5"
       }
     },
     {
@@ -510,7 +510,7 @@
       ],
       "work_passage_id": "jdt:1.6",
       "html_path": "works/jdt/index.html#p-1-6",
-      "fixed_html_path": "releases/public-0.35/works/jdt/index.html#p-1-6",
+      "fixed_html_path": "releases/public-0.35.1/works/jdt/index.html#p-1-6",
       "alignment_revision": "sha256:e07c0bceeaf9001438478a3939bdd937a589f1d9f8ae3b4375f1e68cd0dcf69c",
       "review_state": {
         "human_reviewed": false,
@@ -546,9 +546,9 @@
         "work": "유딧기",
         "reference": "1.6",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:b15bc01bfc8ac68004bc10b87ae3259047745b043081203792d429ab1c2ebb52",
-        "fixed_path": "releases/public-0.35/works/jdt/index.html#p-1-6"
+        "fixed_path": "releases/public-0.35.1/works/jdt/index.html#p-1-6"
       }
     },
     {
@@ -600,7 +600,7 @@
       "notes": [],
       "work_passage_id": "jdt:1.7",
       "html_path": "works/jdt/index.html#p-1-7",
-      "fixed_html_path": "releases/public-0.35/works/jdt/index.html#p-1-7",
+      "fixed_html_path": "releases/public-0.35.1/works/jdt/index.html#p-1-7",
       "alignment_revision": "sha256:a34bff2c660b5b906726b1a9d859f4e5d64783064b5c107584e19abe016983f3",
       "review_state": {
         "human_reviewed": false,
@@ -636,9 +636,9 @@
         "work": "유딧기",
         "reference": "1.7",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:203fc0c1bd6140a6ee38ce55d1d12923db82c9053b0ecc87871bcbd1f6a20afb",
-        "fixed_path": "releases/public-0.35/works/jdt/index.html#p-1-7"
+        "fixed_path": "releases/public-0.35.1/works/jdt/index.html#p-1-7"
       }
     },
     {
@@ -677,7 +677,7 @@
       "notes": [],
       "work_passage_id": "jdt:1.8",
       "html_path": "works/jdt/index.html#p-1-8",
-      "fixed_html_path": "releases/public-0.35/works/jdt/index.html#p-1-8",
+      "fixed_html_path": "releases/public-0.35.1/works/jdt/index.html#p-1-8",
       "alignment_revision": "sha256:d8589a0f9c7bdb0d82e45c3b7c289254ea39869ae6cfe57a5c31a01cdd04a4c8",
       "review_state": {
         "human_reviewed": false,
@@ -713,9 +713,9 @@
         "work": "유딧기",
         "reference": "1.8",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:00694b5ca8a78d84d32daa3720a0acbd9b76fc62e272bf9557ee291d1839e13d",
-        "fixed_path": "releases/public-0.35/works/jdt/index.html#p-1-8"
+        "fixed_path": "releases/public-0.35.1/works/jdt/index.html#p-1-8"
       }
     },
     {
@@ -767,7 +767,7 @@
       "notes": [],
       "work_passage_id": "jdt:1.9",
       "html_path": "works/jdt/index.html#p-1-9",
-      "fixed_html_path": "releases/public-0.35/works/jdt/index.html#p-1-9",
+      "fixed_html_path": "releases/public-0.35.1/works/jdt/index.html#p-1-9",
       "alignment_revision": "sha256:2a9b8e2c46bdc0a0437e336f8f88c2d2b06bad14fc824b92ab26fde16718b388",
       "review_state": {
         "human_reviewed": false,
@@ -803,9 +803,9 @@
         "work": "유딧기",
         "reference": "1.9",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:4a95a602ea5318c9a261b83fc01b90de6c413f477aae014d77a83d905f3275fa",
-        "fixed_path": "releases/public-0.35/works/jdt/index.html#p-1-9"
+        "fixed_path": "releases/public-0.35.1/works/jdt/index.html#p-1-9"
       }
     },
     {
@@ -857,7 +857,7 @@
       "notes": [],
       "work_passage_id": "jdt:1.10",
       "html_path": "works/jdt/index.html#p-1-10",
-      "fixed_html_path": "releases/public-0.35/works/jdt/index.html#p-1-10",
+      "fixed_html_path": "releases/public-0.35.1/works/jdt/index.html#p-1-10",
       "alignment_revision": "sha256:088afd5cd615665928cde5aef4538e329e457e0b05ee5a555b6d47e178b8a48c",
       "review_state": {
         "human_reviewed": false,
@@ -893,9 +893,9 @@
         "work": "유딧기",
         "reference": "1.10",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:c36fefb5752efcbeaf1c75119c9833192094b18999838bd4b743c901fa0f4030",
-        "fixed_path": "releases/public-0.35/works/jdt/index.html#p-1-10"
+        "fixed_path": "releases/public-0.35.1/works/jdt/index.html#p-1-10"
       }
     },
     {
@@ -960,7 +960,7 @@
       "notes": [],
       "work_passage_id": "jdt:1.11",
       "html_path": "works/jdt/index.html#p-1-11",
-      "fixed_html_path": "releases/public-0.35/works/jdt/index.html#p-1-11",
+      "fixed_html_path": "releases/public-0.35.1/works/jdt/index.html#p-1-11",
       "alignment_revision": "sha256:d10d3d076ba076b872e01d08e4c608cef4e6b397e2291b5cdfb2378fd07f32c1",
       "review_state": {
         "human_reviewed": false,
@@ -996,9 +996,9 @@
         "work": "유딧기",
         "reference": "1.11",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:6aea239fd52d5eb5ed0d331a7521385a8332a7767be5ba97bc06f63ca8bee16a",
-        "fixed_path": "releases/public-0.35/works/jdt/index.html#p-1-11"
+        "fixed_path": "releases/public-0.35.1/works/jdt/index.html#p-1-11"
       }
     },
     {
@@ -1052,7 +1052,7 @@
       ],
       "work_passage_id": "jdt:1.12",
       "html_path": "works/jdt/index.html#p-1-12",
-      "fixed_html_path": "releases/public-0.35/works/jdt/index.html#p-1-12",
+      "fixed_html_path": "releases/public-0.35.1/works/jdt/index.html#p-1-12",
       "alignment_revision": "sha256:aaf48ab4ef5b276cb25feee266fd8cceb770761899959b37639924071b6a080e",
       "review_state": {
         "human_reviewed": false,
@@ -1088,9 +1088,9 @@
         "work": "유딧기",
         "reference": "1.12",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:b3c8f161709c4c562f072a5399ea4de74269771e67f5571ea231c539776cf2c7",
-        "fixed_path": "releases/public-0.35/works/jdt/index.html#p-1-12"
+        "fixed_path": "releases/public-0.35.1/works/jdt/index.html#p-1-12"
       }
     },
     {
@@ -1142,7 +1142,7 @@
       "notes": [],
       "work_passage_id": "jdt:1.13",
       "html_path": "works/jdt/index.html#p-1-13",
-      "fixed_html_path": "releases/public-0.35/works/jdt/index.html#p-1-13",
+      "fixed_html_path": "releases/public-0.35.1/works/jdt/index.html#p-1-13",
       "alignment_revision": "sha256:627a68e48e390f47b5cfcfb256413855db1fb8a8815a980fc46ddfedc1de764a",
       "review_state": {
         "human_reviewed": false,
@@ -1178,9 +1178,9 @@
         "work": "유딧기",
         "reference": "1.13",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:9a099839d47ed7b3f148dc6e05b24c7e4d9ca94c89f7d397881dbf8325c5c376",
-        "fixed_path": "releases/public-0.35/works/jdt/index.html#p-1-13"
+        "fixed_path": "releases/public-0.35.1/works/jdt/index.html#p-1-13"
       }
     },
     {
@@ -1232,7 +1232,7 @@
       "notes": [],
       "work_passage_id": "jdt:1.14",
       "html_path": "works/jdt/index.html#p-1-14",
-      "fixed_html_path": "releases/public-0.35/works/jdt/index.html#p-1-14",
+      "fixed_html_path": "releases/public-0.35.1/works/jdt/index.html#p-1-14",
       "alignment_revision": "sha256:34b1e3c67d972814111a9bb21efae9e31faf92052fac2333f3def19911055038",
       "review_state": {
         "human_reviewed": false,
@@ -1268,9 +1268,9 @@
         "work": "유딧기",
         "reference": "1.14",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:43f672125cda5349860497de2da673bcb833b389bca4f2c30babe23cadd06115",
-        "fixed_path": "releases/public-0.35/works/jdt/index.html#p-1-14"
+        "fixed_path": "releases/public-0.35.1/works/jdt/index.html#p-1-14"
       }
     },
     {
@@ -1309,7 +1309,7 @@
       "notes": [],
       "work_passage_id": "jdt:1.15",
       "html_path": "works/jdt/index.html#p-1-15",
-      "fixed_html_path": "releases/public-0.35/works/jdt/index.html#p-1-15",
+      "fixed_html_path": "releases/public-0.35.1/works/jdt/index.html#p-1-15",
       "alignment_revision": "sha256:a02fe39ef396e51311d5f3559faaa0f9aa92bfb6b0cbeb3d4c6e13f82a128380",
       "review_state": {
         "human_reviewed": false,
@@ -1345,9 +1345,9 @@
         "work": "유딧기",
         "reference": "1.15",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:9a837575f421448e0400925ab37208bf376520caae893fc69048d174f3174ffa",
-        "fixed_path": "releases/public-0.35/works/jdt/index.html#p-1-15"
+        "fixed_path": "releases/public-0.35.1/works/jdt/index.html#p-1-15"
       }
     },
     {
@@ -1386,7 +1386,7 @@
       "notes": [],
       "work_passage_id": "jdt:1.16",
       "html_path": "works/jdt/index.html#p-1-16",
-      "fixed_html_path": "releases/public-0.35/works/jdt/index.html#p-1-16",
+      "fixed_html_path": "releases/public-0.35.1/works/jdt/index.html#p-1-16",
       "alignment_revision": "sha256:041cf275c82bc00fa6f877650b4e5530e5f8f9003f1854ed45b4b08ea18258fc",
       "review_state": {
         "human_reviewed": false,
@@ -1422,9 +1422,9 @@
         "work": "유딧기",
         "reference": "1.16",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:781fcdd79fe512bc3c57fc8ceb6707e082ba20a5e2ffb2f6e3795299bde0fc55",
-        "fixed_path": "releases/public-0.35/works/jdt/index.html#p-1-16"
+        "fixed_path": "releases/public-0.35.1/works/jdt/index.html#p-1-16"
       }
     },
     {
@@ -1476,7 +1476,7 @@
       "notes": [],
       "work_passage_id": "jdt:2.1",
       "html_path": "works/jdt/index.html#p-2-1",
-      "fixed_html_path": "releases/public-0.35/works/jdt/index.html#p-2-1",
+      "fixed_html_path": "releases/public-0.35.1/works/jdt/index.html#p-2-1",
       "alignment_revision": "sha256:e4707c8649a3193fc8eaac59f424f0be3d1aebb05817a3af76eb4249d2d276a1",
       "review_state": {
         "human_reviewed": false,
@@ -1512,9 +1512,9 @@
         "work": "유딧기",
         "reference": "2.1",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:6cb7c0ddcf7839f703fb03cd418294387f337875329961f794c90e7530a658b4",
-        "fixed_path": "releases/public-0.35/works/jdt/index.html#p-2-1"
+        "fixed_path": "releases/public-0.35.1/works/jdt/index.html#p-2-1"
       }
     },
     {
@@ -1566,7 +1566,7 @@
       "notes": [],
       "work_passage_id": "jdt:2.2",
       "html_path": "works/jdt/index.html#p-2-2",
-      "fixed_html_path": "releases/public-0.35/works/jdt/index.html#p-2-2",
+      "fixed_html_path": "releases/public-0.35.1/works/jdt/index.html#p-2-2",
       "alignment_revision": "sha256:2ee0189abd289ceb711110aca8c932f129988840e1f83c545f86d4f5b9bb286a",
       "review_state": {
         "human_reviewed": false,
@@ -1602,9 +1602,9 @@
         "work": "유딧기",
         "reference": "2.2",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:564b6e23bab86ed636ce7b6c6ae9c849c028cee289512d42742f6e81c0fa5e83",
-        "fixed_path": "releases/public-0.35/works/jdt/index.html#p-2-2"
+        "fixed_path": "releases/public-0.35.1/works/jdt/index.html#p-2-2"
       }
     },
     {
@@ -1643,7 +1643,7 @@
       "notes": [],
       "work_passage_id": "jdt:2.3",
       "html_path": "works/jdt/index.html#p-2-3",
-      "fixed_html_path": "releases/public-0.35/works/jdt/index.html#p-2-3",
+      "fixed_html_path": "releases/public-0.35.1/works/jdt/index.html#p-2-3",
       "alignment_revision": "sha256:a484a24147074dc769731a55da93ed5a3c44baa120c6c3e602698d5b6765bee7",
       "review_state": {
         "human_reviewed": false,
@@ -1679,9 +1679,9 @@
         "work": "유딧기",
         "reference": "2.3",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:03ebbdfcc32f5ed4cf4bc48fb8d25859a70466adeb1b37da3b7148368c002b34",
-        "fixed_path": "releases/public-0.35/works/jdt/index.html#p-2-3"
+        "fixed_path": "releases/public-0.35.1/works/jdt/index.html#p-2-3"
       }
     },
     {
@@ -1733,7 +1733,7 @@
       "notes": [],
       "work_passage_id": "jdt:2.4",
       "html_path": "works/jdt/index.html#p-2-4",
-      "fixed_html_path": "releases/public-0.35/works/jdt/index.html#p-2-4",
+      "fixed_html_path": "releases/public-0.35.1/works/jdt/index.html#p-2-4",
       "alignment_revision": "sha256:f85c66624eb298a1ca9964e10b16bfc36fcdbd3768639fdbb143b9431b5415c3",
       "review_state": {
         "human_reviewed": false,
@@ -1769,9 +1769,9 @@
         "work": "유딧기",
         "reference": "2.4",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:bf6a7e25c964cccb8f6ab12eed6c017266237c77018166480bb93286a93948ed",
-        "fixed_path": "releases/public-0.35/works/jdt/index.html#p-2-4"
+        "fixed_path": "releases/public-0.35.1/works/jdt/index.html#p-2-4"
       }
     },
     {
@@ -1825,7 +1825,7 @@
       ],
       "work_passage_id": "jdt:2.5",
       "html_path": "works/jdt/index.html#p-2-5",
-      "fixed_html_path": "releases/public-0.35/works/jdt/index.html#p-2-5",
+      "fixed_html_path": "releases/public-0.35.1/works/jdt/index.html#p-2-5",
       "alignment_revision": "sha256:d6d0f9848dcfbc79466c7eb83ed0de3f76b3141ac2e86b3f058b4f4ac2adac17",
       "review_state": {
         "human_reviewed": false,
@@ -1861,9 +1861,9 @@
         "work": "유딧기",
         "reference": "2.5",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:1a960a899568afd39f6c36afb3cf9d578543f90922fe75f271250361ae403540",
-        "fixed_path": "releases/public-0.35/works/jdt/index.html#p-2-5"
+        "fixed_path": "releases/public-0.35.1/works/jdt/index.html#p-2-5"
       }
     },
     {
@@ -1902,7 +1902,7 @@
       "notes": [],
       "work_passage_id": "jdt:2.6",
       "html_path": "works/jdt/index.html#p-2-6",
-      "fixed_html_path": "releases/public-0.35/works/jdt/index.html#p-2-6",
+      "fixed_html_path": "releases/public-0.35.1/works/jdt/index.html#p-2-6",
       "alignment_revision": "sha256:ea856e7fce26e553dbf13f0ba68c6af4bb33969cb00221ae37907a9f6ded418c",
       "review_state": {
         "human_reviewed": false,
@@ -1938,9 +1938,9 @@
         "work": "유딧기",
         "reference": "2.6",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:87297f9adf6ccac4031b0825884e146dd6f22b92295ba2b390127d86a7cefee6",
-        "fixed_path": "releases/public-0.35/works/jdt/index.html#p-2-6"
+        "fixed_path": "releases/public-0.35.1/works/jdt/index.html#p-2-6"
       }
     },
     {
@@ -1994,7 +1994,7 @@
       ],
       "work_passage_id": "jdt:2.7",
       "html_path": "works/jdt/index.html#p-2-7",
-      "fixed_html_path": "releases/public-0.35/works/jdt/index.html#p-2-7",
+      "fixed_html_path": "releases/public-0.35.1/works/jdt/index.html#p-2-7",
       "alignment_revision": "sha256:c1363fbe276ea0dc8b6c635bd68238c345391d5ae76ade077f227eb5ce91dac8",
       "review_state": {
         "human_reviewed": false,
@@ -2030,9 +2030,9 @@
         "work": "유딧기",
         "reference": "2.7",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:e5292a1294f6ee6ac65e6d119803622fd6bfc9e6dd40e18bef8f694dea10837f",
-        "fixed_path": "releases/public-0.35/works/jdt/index.html#p-2-7"
+        "fixed_path": "releases/public-0.35.1/works/jdt/index.html#p-2-7"
       }
     },
     {
@@ -2071,7 +2071,7 @@
       "notes": [],
       "work_passage_id": "jdt:2.8",
       "html_path": "works/jdt/index.html#p-2-8",
-      "fixed_html_path": "releases/public-0.35/works/jdt/index.html#p-2-8",
+      "fixed_html_path": "releases/public-0.35.1/works/jdt/index.html#p-2-8",
       "alignment_revision": "sha256:51a577235a2520a5e33bb5463c8afd9886c30e372ca350edd89782bda68bc820",
       "review_state": {
         "human_reviewed": false,
@@ -2107,9 +2107,9 @@
         "work": "유딧기",
         "reference": "2.8",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:b1497b562dd24bcb209962019993eacd6129b213e3e70fa634a8dc7cee7c8689",
-        "fixed_path": "releases/public-0.35/works/jdt/index.html#p-2-8"
+        "fixed_path": "releases/public-0.35.1/works/jdt/index.html#p-2-8"
       }
     },
     {
@@ -2148,7 +2148,7 @@
       "notes": [],
       "work_passage_id": "jdt:2.9",
       "html_path": "works/jdt/index.html#p-2-9",
-      "fixed_html_path": "releases/public-0.35/works/jdt/index.html#p-2-9",
+      "fixed_html_path": "releases/public-0.35.1/works/jdt/index.html#p-2-9",
       "alignment_revision": "sha256:ad1960a690661fa1e78897c87836c9f5cd3a4f8b094c5c569af8b177aeba3371",
       "review_state": {
         "human_reviewed": false,
@@ -2184,9 +2184,9 @@
         "work": "유딧기",
         "reference": "2.9",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:e4de8c9f65185c0cd5d763dd5b84699f02e79f8174b1ea577f41bfb80826ec69",
-        "fixed_path": "releases/public-0.35/works/jdt/index.html#p-2-9"
+        "fixed_path": "releases/public-0.35.1/works/jdt/index.html#p-2-9"
       }
     },
     {
@@ -2238,7 +2238,7 @@
       "notes": [],
       "work_passage_id": "jdt:2.10",
       "html_path": "works/jdt/index.html#p-2-10",
-      "fixed_html_path": "releases/public-0.35/works/jdt/index.html#p-2-10",
+      "fixed_html_path": "releases/public-0.35.1/works/jdt/index.html#p-2-10",
       "alignment_revision": "sha256:32cdcb75f6993abd1bbfc2513186bad50a719453d007d26206bf279a171f7428",
       "review_state": {
         "human_reviewed": false,
@@ -2274,9 +2274,9 @@
         "work": "유딧기",
         "reference": "2.10",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:fb20cb108230033ac770762751a6af5a7533446bf51cd2a43293da6edafe5c35",
-        "fixed_path": "releases/public-0.35/works/jdt/index.html#p-2-10"
+        "fixed_path": "releases/public-0.35.1/works/jdt/index.html#p-2-10"
       }
     },
     {
@@ -2315,7 +2315,7 @@
       "notes": [],
       "work_passage_id": "jdt:2.11",
       "html_path": "works/jdt/index.html#p-2-11",
-      "fixed_html_path": "releases/public-0.35/works/jdt/index.html#p-2-11",
+      "fixed_html_path": "releases/public-0.35.1/works/jdt/index.html#p-2-11",
       "alignment_revision": "sha256:7b0877402d28bdbddea8f258c7ee7773df1644d56304198a773c99c84f45c614",
       "review_state": {
         "human_reviewed": false,
@@ -2351,9 +2351,9 @@
         "work": "유딧기",
         "reference": "2.11",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:6dc8524f123df4b36aaa52aea602157ea00a78d371fb5c7f505afaf1e1c1336c",
-        "fixed_path": "releases/public-0.35/works/jdt/index.html#p-2-11"
+        "fixed_path": "releases/public-0.35.1/works/jdt/index.html#p-2-11"
       }
     },
     {
@@ -2392,7 +2392,7 @@
       "notes": [],
       "work_passage_id": "jdt:2.12",
       "html_path": "works/jdt/index.html#p-2-12",
-      "fixed_html_path": "releases/public-0.35/works/jdt/index.html#p-2-12",
+      "fixed_html_path": "releases/public-0.35.1/works/jdt/index.html#p-2-12",
       "alignment_revision": "sha256:54f87edc2e47d7192db060e482849e509321282707a63e061a5ec5b4e95e29fe",
       "review_state": {
         "human_reviewed": false,
@@ -2428,9 +2428,9 @@
         "work": "유딧기",
         "reference": "2.12",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:3d321caa42c44ccd87ace567bdb91e31298e56e1242401f2f24235990415612e",
-        "fixed_path": "releases/public-0.35/works/jdt/index.html#p-2-12"
+        "fixed_path": "releases/public-0.35.1/works/jdt/index.html#p-2-12"
       }
     },
     {
@@ -2482,7 +2482,7 @@
       "notes": [],
       "work_passage_id": "jdt:2.13",
       "html_path": "works/jdt/index.html#p-2-13",
-      "fixed_html_path": "releases/public-0.35/works/jdt/index.html#p-2-13",
+      "fixed_html_path": "releases/public-0.35.1/works/jdt/index.html#p-2-13",
       "alignment_revision": "sha256:eca3e6cadd8556a058fb9e4501434c2059c755e1f3b84c68c91d977b38fa6c24",
       "review_state": {
         "human_reviewed": false,
@@ -2518,9 +2518,9 @@
         "work": "유딧기",
         "reference": "2.13",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:cded8bb2efc750cdb7fc4ca70d983ecaa84e43a01c3c01633942de75bf47fe0a",
-        "fixed_path": "releases/public-0.35/works/jdt/index.html#p-2-13"
+        "fixed_path": "releases/public-0.35.1/works/jdt/index.html#p-2-13"
       }
     },
     {
@@ -2559,7 +2559,7 @@
       "notes": [],
       "work_passage_id": "jdt:2.14",
       "html_path": "works/jdt/index.html#p-2-14",
-      "fixed_html_path": "releases/public-0.35/works/jdt/index.html#p-2-14",
+      "fixed_html_path": "releases/public-0.35.1/works/jdt/index.html#p-2-14",
       "alignment_revision": "sha256:aaae0f7006e796c2330af86c264facd67632725be01cbf61a1314d19be9fc02e",
       "review_state": {
         "human_reviewed": false,
@@ -2595,9 +2595,9 @@
         "work": "유딧기",
         "reference": "2.14",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:f79a7ad127930b125c9bada94b9e56a81e04f3d7d5261b3090aed6558b5582c7",
-        "fixed_path": "releases/public-0.35/works/jdt/index.html#p-2-14"
+        "fixed_path": "releases/public-0.35.1/works/jdt/index.html#p-2-14"
       }
     },
     {
@@ -2638,7 +2638,7 @@
       ],
       "work_passage_id": "jdt:2.15",
       "html_path": "works/jdt/index.html#p-2-15",
-      "fixed_html_path": "releases/public-0.35/works/jdt/index.html#p-2-15",
+      "fixed_html_path": "releases/public-0.35.1/works/jdt/index.html#p-2-15",
       "alignment_revision": "sha256:be8768422dbda9972176b37004c53a5a6fd2d0dbdd11f6dd86f1e581ef0f50b7",
       "review_state": {
         "human_reviewed": false,
@@ -2674,9 +2674,9 @@
         "work": "유딧기",
         "reference": "2.15",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:2bcc5a0b104ef800b76344b522932b8c882c1773ca69888d20fc39c8cdf26e9e",
-        "fixed_path": "releases/public-0.35/works/jdt/index.html#p-2-15"
+        "fixed_path": "releases/public-0.35.1/works/jdt/index.html#p-2-15"
       }
     },
     {
@@ -2715,7 +2715,7 @@
       "notes": [],
       "work_passage_id": "jdt:2.16",
       "html_path": "works/jdt/index.html#p-2-16",
-      "fixed_html_path": "releases/public-0.35/works/jdt/index.html#p-2-16",
+      "fixed_html_path": "releases/public-0.35.1/works/jdt/index.html#p-2-16",
       "alignment_revision": "sha256:525093caaba7d350d835eddfef766081a40791568388fb61786c86a2fa32d7db",
       "review_state": {
         "human_reviewed": false,
@@ -2751,9 +2751,9 @@
         "work": "유딧기",
         "reference": "2.16",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:216c4a63d3f5ba591acdc909a47eaf97834a9b7caf6458828b6899bc696aa38f",
-        "fixed_path": "releases/public-0.35/works/jdt/index.html#p-2-16"
+        "fixed_path": "releases/public-0.35.1/works/jdt/index.html#p-2-16"
       }
     },
     {
@@ -2805,7 +2805,7 @@
       "notes": [],
       "work_passage_id": "jdt:2.17",
       "html_path": "works/jdt/index.html#p-2-17",
-      "fixed_html_path": "releases/public-0.35/works/jdt/index.html#p-2-17",
+      "fixed_html_path": "releases/public-0.35.1/works/jdt/index.html#p-2-17",
       "alignment_revision": "sha256:a9656270d071aa8705825951e34e42f1384fe49bb2bc0fde01e2db985bb34b1e",
       "review_state": {
         "human_reviewed": false,
@@ -2841,9 +2841,9 @@
         "work": "유딧기",
         "reference": "2.17",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:504f56d7df32e0bab546db137e741c9c93d2ff7e088525e93b734ebcb88cd594",
-        "fixed_path": "releases/public-0.35/works/jdt/index.html#p-2-17"
+        "fixed_path": "releases/public-0.35.1/works/jdt/index.html#p-2-17"
       }
     },
     {
@@ -2882,7 +2882,7 @@
       "notes": [],
       "work_passage_id": "jdt:2.18",
       "html_path": "works/jdt/index.html#p-2-18",
-      "fixed_html_path": "releases/public-0.35/works/jdt/index.html#p-2-18",
+      "fixed_html_path": "releases/public-0.35.1/works/jdt/index.html#p-2-18",
       "alignment_revision": "sha256:8b18f1a0de13e631deb5bfa6e831432bce344b7fcf4ed23c19552ae34a883672",
       "review_state": {
         "human_reviewed": false,
@@ -2918,9 +2918,9 @@
         "work": "유딧기",
         "reference": "2.18",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:323d31c578a475470389f6cae4f8f6ac6aa9c2f217505668c337b146bbf4659b",
-        "fixed_path": "releases/public-0.35/works/jdt/index.html#p-2-18"
+        "fixed_path": "releases/public-0.35.1/works/jdt/index.html#p-2-18"
       }
     },
     {
@@ -2959,7 +2959,7 @@
       "notes": [],
       "work_passage_id": "jdt:2.19",
       "html_path": "works/jdt/index.html#p-2-19",
-      "fixed_html_path": "releases/public-0.35/works/jdt/index.html#p-2-19",
+      "fixed_html_path": "releases/public-0.35.1/works/jdt/index.html#p-2-19",
       "alignment_revision": "sha256:256988b861e3eaac4b0cc0f311b247995ad88dfdc95412c5c4c712f557b25df4",
       "review_state": {
         "human_reviewed": false,
@@ -2995,9 +2995,9 @@
         "work": "유딧기",
         "reference": "2.19",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:e558f8916c0e5a53e40f2353c8be2dd1491f1f004637ec14806bfc90e2b68e22",
-        "fixed_path": "releases/public-0.35/works/jdt/index.html#p-2-19"
+        "fixed_path": "releases/public-0.35.1/works/jdt/index.html#p-2-19"
       }
     },
     {
@@ -3036,7 +3036,7 @@
       "notes": [],
       "work_passage_id": "jdt:2.20",
       "html_path": "works/jdt/index.html#p-2-20",
-      "fixed_html_path": "releases/public-0.35/works/jdt/index.html#p-2-20",
+      "fixed_html_path": "releases/public-0.35.1/works/jdt/index.html#p-2-20",
       "alignment_revision": "sha256:ea6c7b95cdc16a1a09efe86634b78263065de2785f57b5e5e0e435293e7352f2",
       "review_state": {
         "human_reviewed": false,
@@ -3072,9 +3072,9 @@
         "work": "유딧기",
         "reference": "2.20",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:77ff8f9dc0f0fff9b627c92c38a2c45db0172b46f8e53874b4dd043fbe234282",
-        "fixed_path": "releases/public-0.35/works/jdt/index.html#p-2-20"
+        "fixed_path": "releases/public-0.35.1/works/jdt/index.html#p-2-20"
       }
     },
     {
@@ -3126,7 +3126,7 @@
       "notes": [],
       "work_passage_id": "jdt:2.21",
       "html_path": "works/jdt/index.html#p-2-21",
-      "fixed_html_path": "releases/public-0.35/works/jdt/index.html#p-2-21",
+      "fixed_html_path": "releases/public-0.35.1/works/jdt/index.html#p-2-21",
       "alignment_revision": "sha256:81c849219c2e34211d1de2b2e705c987b80411591634dbbc3bc0d41d644b626d",
       "review_state": {
         "human_reviewed": false,
@@ -3162,9 +3162,9 @@
         "work": "유딧기",
         "reference": "2.21",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:9395a1726694b60952bcd6354d75b4f95ed1e75fd5e814be1dc6b39842fb474e",
-        "fixed_path": "releases/public-0.35/works/jdt/index.html#p-2-21"
+        "fixed_path": "releases/public-0.35.1/works/jdt/index.html#p-2-21"
       }
     },
     {
@@ -3203,7 +3203,7 @@
       "notes": [],
       "work_passage_id": "jdt:2.22",
       "html_path": "works/jdt/index.html#p-2-22",
-      "fixed_html_path": "releases/public-0.35/works/jdt/index.html#p-2-22",
+      "fixed_html_path": "releases/public-0.35.1/works/jdt/index.html#p-2-22",
       "alignment_revision": "sha256:61ceacb0bf24ad62ade20f047e1f93aef287c12569ca6092a08aad7f8fcccfd5",
       "review_state": {
         "human_reviewed": false,
@@ -3239,9 +3239,9 @@
         "work": "유딧기",
         "reference": "2.22",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:24d65b0f4813939a88ce6b449014a25fc98073c4d411f89fc9c26b2f387b72c4",
-        "fixed_path": "releases/public-0.35/works/jdt/index.html#p-2-22"
+        "fixed_path": "releases/public-0.35.1/works/jdt/index.html#p-2-22"
       }
     },
     {
@@ -3293,7 +3293,7 @@
       "notes": [],
       "work_passage_id": "jdt:2.23",
       "html_path": "works/jdt/index.html#p-2-23",
-      "fixed_html_path": "releases/public-0.35/works/jdt/index.html#p-2-23",
+      "fixed_html_path": "releases/public-0.35.1/works/jdt/index.html#p-2-23",
       "alignment_revision": "sha256:640348dd909f3ae2de475906423f5c263396e05046a8ed02a57cc17fbc638033",
       "review_state": {
         "human_reviewed": false,
@@ -3329,9 +3329,9 @@
         "work": "유딧기",
         "reference": "2.23",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:ee7a0a4787d5dbd358a55ec66ab4cc8223d5e15920659f631a33221187d62c65",
-        "fixed_path": "releases/public-0.35/works/jdt/index.html#p-2-23"
+        "fixed_path": "releases/public-0.35.1/works/jdt/index.html#p-2-23"
       }
     },
     {
@@ -3383,7 +3383,7 @@
       "notes": [],
       "work_passage_id": "jdt:2.24",
       "html_path": "works/jdt/index.html#p-2-24",
-      "fixed_html_path": "releases/public-0.35/works/jdt/index.html#p-2-24",
+      "fixed_html_path": "releases/public-0.35.1/works/jdt/index.html#p-2-24",
       "alignment_revision": "sha256:3e6a0138ced4403fc589ceb5be8ddd7ac48bb6ea98a2bcb3267b10f62d6fedd0",
       "review_state": {
         "human_reviewed": false,
@@ -3419,9 +3419,9 @@
         "work": "유딧기",
         "reference": "2.24",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:fd64d69781345a1015402e1c363ea69a58d460ca99e7200616fe0bcc1f5c7e5a",
-        "fixed_path": "releases/public-0.35/works/jdt/index.html#p-2-24"
+        "fixed_path": "releases/public-0.35.1/works/jdt/index.html#p-2-24"
       }
     },
     {
@@ -3460,7 +3460,7 @@
       "notes": [],
       "work_passage_id": "jdt:2.25",
       "html_path": "works/jdt/index.html#p-2-25",
-      "fixed_html_path": "releases/public-0.35/works/jdt/index.html#p-2-25",
+      "fixed_html_path": "releases/public-0.35.1/works/jdt/index.html#p-2-25",
       "alignment_revision": "sha256:77d54eaeb61ca807e4f3e98f92fa3e9a519f44606e9283e0406b943fcfb95b46",
       "review_state": {
         "human_reviewed": false,
@@ -3496,9 +3496,9 @@
         "work": "유딧기",
         "reference": "2.25",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:038404efe8bdccdcbf6eddcdbf31fb950b88fe089a20785f8e928db8f67cf9ca",
-        "fixed_path": "releases/public-0.35/works/jdt/index.html#p-2-25"
+        "fixed_path": "releases/public-0.35.1/works/jdt/index.html#p-2-25"
       }
     },
     {
@@ -3537,7 +3537,7 @@
       "notes": [],
       "work_passage_id": "jdt:2.26",
       "html_path": "works/jdt/index.html#p-2-26",
-      "fixed_html_path": "releases/public-0.35/works/jdt/index.html#p-2-26",
+      "fixed_html_path": "releases/public-0.35.1/works/jdt/index.html#p-2-26",
       "alignment_revision": "sha256:b67c19f7671137fbb321858b4ee441680396b0b4067c5a0906c528cd38496ff2",
       "review_state": {
         "human_reviewed": false,
@@ -3573,9 +3573,9 @@
         "work": "유딧기",
         "reference": "2.26",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:d5059c589863e29b5a4f9fe9afeae6547cc34c1c4e8f5c6e06b6a68990f431b3",
-        "fixed_path": "releases/public-0.35/works/jdt/index.html#p-2-26"
+        "fixed_path": "releases/public-0.35.1/works/jdt/index.html#p-2-26"
       }
     },
     {
@@ -3640,7 +3640,7 @@
       "notes": [],
       "work_passage_id": "jdt:2.27",
       "html_path": "works/jdt/index.html#p-2-27",
-      "fixed_html_path": "releases/public-0.35/works/jdt/index.html#p-2-27",
+      "fixed_html_path": "releases/public-0.35.1/works/jdt/index.html#p-2-27",
       "alignment_revision": "sha256:008c7f622d2140a3a7c5d3cfa6eff9f854f636317fdf057348bcae1b9b0660d2",
       "review_state": {
         "human_reviewed": false,
@@ -3676,9 +3676,9 @@
         "work": "유딧기",
         "reference": "2.27",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:4116ce208dca2e9a462dc63b240cebaa25b3502ff19a23ddc0a463c120c3c606",
-        "fixed_path": "releases/public-0.35/works/jdt/index.html#p-2-27"
+        "fixed_path": "releases/public-0.35.1/works/jdt/index.html#p-2-27"
       }
     },
     {
@@ -3732,7 +3732,7 @@
       ],
       "work_passage_id": "jdt:2.28",
       "html_path": "works/jdt/index.html#p-2-28",
-      "fixed_html_path": "releases/public-0.35/works/jdt/index.html#p-2-28",
+      "fixed_html_path": "releases/public-0.35.1/works/jdt/index.html#p-2-28",
       "alignment_revision": "sha256:c8dcd741fa0187dac0d985466181f7160896a83107f3139c396d438e09724f64",
       "review_state": {
         "human_reviewed": false,
@@ -3768,9 +3768,9 @@
         "work": "유딧기",
         "reference": "2.28",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:797b5ab7963e197463eee1cd39133c16e86c8cae15974053d6728f578fea9cc0",
-        "fixed_path": "releases/public-0.35/works/jdt/index.html#p-2-28"
+        "fixed_path": "releases/public-0.35.1/works/jdt/index.html#p-2-28"
       }
     },
     {
@@ -3809,7 +3809,7 @@
       "notes": [],
       "work_passage_id": "jdt:3.1",
       "html_path": "works/jdt/index.html#p-3-1",
-      "fixed_html_path": "releases/public-0.35/works/jdt/index.html#p-3-1",
+      "fixed_html_path": "releases/public-0.35.1/works/jdt/index.html#p-3-1",
       "alignment_revision": "sha256:d08c77f3c99bc9634b492ed24bc806740b02d71eb5ca02f3952e91fce617e7b0",
       "review_state": {
         "human_reviewed": false,
@@ -3845,9 +3845,9 @@
         "work": "유딧기",
         "reference": "3.1",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:e54100e567d500ce09c8041443f1076d1e8536f4695c08b44ca092ee0574f673",
-        "fixed_path": "releases/public-0.35/works/jdt/index.html#p-3-1"
+        "fixed_path": "releases/public-0.35.1/works/jdt/index.html#p-3-1"
       }
     },
     {
@@ -3899,7 +3899,7 @@
       "notes": [],
       "work_passage_id": "jdt:3.2",
       "html_path": "works/jdt/index.html#p-3-2",
-      "fixed_html_path": "releases/public-0.35/works/jdt/index.html#p-3-2",
+      "fixed_html_path": "releases/public-0.35.1/works/jdt/index.html#p-3-2",
       "alignment_revision": "sha256:9c877564389982ebb9f238baddd0b879c73275097a0dad715e9091e7d92092fd",
       "review_state": {
         "human_reviewed": false,
@@ -3935,9 +3935,9 @@
         "work": "유딧기",
         "reference": "3.2",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:59188137903065ab33e0f05c3c3c62beec85292bc104e4bf7a4481e70612e42c",
-        "fixed_path": "releases/public-0.35/works/jdt/index.html#p-3-2"
+        "fixed_path": "releases/public-0.35.1/works/jdt/index.html#p-3-2"
       }
     },
     {
@@ -3989,7 +3989,7 @@
       "notes": [],
       "work_passage_id": "jdt:3.3",
       "html_path": "works/jdt/index.html#p-3-3",
-      "fixed_html_path": "releases/public-0.35/works/jdt/index.html#p-3-3",
+      "fixed_html_path": "releases/public-0.35.1/works/jdt/index.html#p-3-3",
       "alignment_revision": "sha256:7875269b33a868ad38eb4c8e91e40f342d8a0bed8f78f7e2e6e3d6e85fd65619",
       "review_state": {
         "human_reviewed": false,
@@ -4025,9 +4025,9 @@
         "work": "유딧기",
         "reference": "3.3",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:6e35bdd293ae21a5ba2ff14baec91590f3ffd0411eb5d6b86de5e23b19aa2ad7",
-        "fixed_path": "releases/public-0.35/works/jdt/index.html#p-3-3"
+        "fixed_path": "releases/public-0.35.1/works/jdt/index.html#p-3-3"
       }
     },
     {
@@ -4079,7 +4079,7 @@
       "notes": [],
       "work_passage_id": "jdt:3.4",
       "html_path": "works/jdt/index.html#p-3-4",
-      "fixed_html_path": "releases/public-0.35/works/jdt/index.html#p-3-4",
+      "fixed_html_path": "releases/public-0.35.1/works/jdt/index.html#p-3-4",
       "alignment_revision": "sha256:b97fa308bc6384b038f5919a206d0df26cd3bb11418953429897cda570f281f6",
       "review_state": {
         "human_reviewed": false,
@@ -4115,9 +4115,9 @@
         "work": "유딧기",
         "reference": "3.4",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:32d29c44a0ce8f086525e04bd6a525a1c9be8861ed7ae55aa74d93ba0e21a343",
-        "fixed_path": "releases/public-0.35/works/jdt/index.html#p-3-4"
+        "fixed_path": "releases/public-0.35.1/works/jdt/index.html#p-3-4"
       }
     },
     {
@@ -4156,7 +4156,7 @@
       "notes": [],
       "work_passage_id": "jdt:3.5",
       "html_path": "works/jdt/index.html#p-3-5",
-      "fixed_html_path": "releases/public-0.35/works/jdt/index.html#p-3-5",
+      "fixed_html_path": "releases/public-0.35.1/works/jdt/index.html#p-3-5",
       "alignment_revision": "sha256:a92dbed9ef1a185b5b474f4dadd12b3b4e7c2d6b5f985917aeacb80725e0b901",
       "review_state": {
         "human_reviewed": false,
@@ -4192,9 +4192,9 @@
         "work": "유딧기",
         "reference": "3.5",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:d97600d660add6cda36a5b9fdc8ca9ee406cec8fb9ae557db2e75df827f906a6",
-        "fixed_path": "releases/public-0.35/works/jdt/index.html#p-3-5"
+        "fixed_path": "releases/public-0.35.1/works/jdt/index.html#p-3-5"
       }
     },
     {
@@ -4246,7 +4246,7 @@
       "notes": [],
       "work_passage_id": "jdt:3.6",
       "html_path": "works/jdt/index.html#p-3-6",
-      "fixed_html_path": "releases/public-0.35/works/jdt/index.html#p-3-6",
+      "fixed_html_path": "releases/public-0.35.1/works/jdt/index.html#p-3-6",
       "alignment_revision": "sha256:b647348924f4daa1c6f1f40b5a5137ac76c61710c0a5d16169e63108d2b4abe3",
       "review_state": {
         "human_reviewed": false,
@@ -4282,9 +4282,9 @@
         "work": "유딧기",
         "reference": "3.6",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:feecdc97cf144c74941a4bc1f64535426a4c01e629fa2972b6efe0e4d220403f",
-        "fixed_path": "releases/public-0.35/works/jdt/index.html#p-3-6"
+        "fixed_path": "releases/public-0.35.1/works/jdt/index.html#p-3-6"
       }
     },
     {
@@ -4323,7 +4323,7 @@
       "notes": [],
       "work_passage_id": "jdt:3.7",
       "html_path": "works/jdt/index.html#p-3-7",
-      "fixed_html_path": "releases/public-0.35/works/jdt/index.html#p-3-7",
+      "fixed_html_path": "releases/public-0.35.1/works/jdt/index.html#p-3-7",
       "alignment_revision": "sha256:5304e2c1162413129608fe349566321347bd26ea938b7cc393d1ad86de51fa1f",
       "review_state": {
         "human_reviewed": false,
@@ -4359,9 +4359,9 @@
         "work": "유딧기",
         "reference": "3.7",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:6450e881e03f2541d517af2707976dfc6328051edbb13974002ffa174f2cb481",
-        "fixed_path": "releases/public-0.35/works/jdt/index.html#p-3-7"
+        "fixed_path": "releases/public-0.35.1/works/jdt/index.html#p-3-7"
       }
     },
     {
@@ -4415,7 +4415,7 @@
       ],
       "work_passage_id": "jdt:3.8",
       "html_path": "works/jdt/index.html#p-3-8",
-      "fixed_html_path": "releases/public-0.35/works/jdt/index.html#p-3-8",
+      "fixed_html_path": "releases/public-0.35.1/works/jdt/index.html#p-3-8",
       "alignment_revision": "sha256:4632ea29f25c7c2ec263be47fb99d98d31b9126b663185fe04510b2d6b69cd37",
       "review_state": {
         "human_reviewed": false,
@@ -4451,9 +4451,9 @@
         "work": "유딧기",
         "reference": "3.8",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:f0964b0559194b9e51f36f280caf7da0adfee1f357b03d2043aad3a08b34d607",
-        "fixed_path": "releases/public-0.35/works/jdt/index.html#p-3-8"
+        "fixed_path": "releases/public-0.35.1/works/jdt/index.html#p-3-8"
       }
     },
     {
@@ -4492,7 +4492,7 @@
       "notes": [],
       "work_passage_id": "jdt:3.9",
       "html_path": "works/jdt/index.html#p-3-9",
-      "fixed_html_path": "releases/public-0.35/works/jdt/index.html#p-3-9",
+      "fixed_html_path": "releases/public-0.35.1/works/jdt/index.html#p-3-9",
       "alignment_revision": "sha256:7c8260850a3a72c451c5a2dc4a7f9c3b531b717e4282c8abc09e05b889746d80",
       "review_state": {
         "human_reviewed": false,
@@ -4528,9 +4528,9 @@
         "work": "유딧기",
         "reference": "3.9",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:ea58384ce0987c2235b42046ac52b733155cc24422ba5cc06df6dca4175f944b",
-        "fixed_path": "releases/public-0.35/works/jdt/index.html#p-3-9"
+        "fixed_path": "releases/public-0.35.1/works/jdt/index.html#p-3-9"
       }
     },
     {
@@ -4584,7 +4584,7 @@
       ],
       "work_passage_id": "jdt:3.10",
       "html_path": "works/jdt/index.html#p-3-10",
-      "fixed_html_path": "releases/public-0.35/works/jdt/index.html#p-3-10",
+      "fixed_html_path": "releases/public-0.35.1/works/jdt/index.html#p-3-10",
       "alignment_revision": "sha256:0048e714f35b215b0df0c6a08e941916c882a2c69c02c5fd3d39ed836ce216c9",
       "review_state": {
         "human_reviewed": false,
@@ -4620,9 +4620,9 @@
         "work": "유딧기",
         "reference": "3.10",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:52f1afea7c46f6b580ffeaa19d8ab93640448b75765d45d01238f33a89cc6f5c",
-        "fixed_path": "releases/public-0.35/works/jdt/index.html#p-3-10"
+        "fixed_path": "releases/public-0.35.1/works/jdt/index.html#p-3-10"
       }
     },
     {
@@ -4676,7 +4676,7 @@
       ],
       "work_passage_id": "jdt:4.1",
       "html_path": "works/jdt/index.html#p-4-1",
-      "fixed_html_path": "releases/public-0.35/works/jdt/index.html#p-4-1",
+      "fixed_html_path": "releases/public-0.35.1/works/jdt/index.html#p-4-1",
       "alignment_revision": "sha256:b00712ec82c0ee188e764119310f862a830424f3b1ea67078ce8c61ff3281a2e",
       "review_state": {
         "human_reviewed": false,
@@ -4712,9 +4712,9 @@
         "work": "유딧기",
         "reference": "4.1",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:041daae938432c70f9b8f9b54a9b23158657546a320ac1b8da4443215a2589ad",
-        "fixed_path": "releases/public-0.35/works/jdt/index.html#p-4-1"
+        "fixed_path": "releases/public-0.35.1/works/jdt/index.html#p-4-1"
       }
     },
     {
@@ -4766,7 +4766,7 @@
       "notes": [],
       "work_passage_id": "jdt:4.2",
       "html_path": "works/jdt/index.html#p-4-2",
-      "fixed_html_path": "releases/public-0.35/works/jdt/index.html#p-4-2",
+      "fixed_html_path": "releases/public-0.35.1/works/jdt/index.html#p-4-2",
       "alignment_revision": "sha256:841443257f6146237799799e958fd7ffd08dc7cbb731ae3c5d4174f5d7c7ac21",
       "review_state": {
         "human_reviewed": false,
@@ -4802,9 +4802,9 @@
         "work": "유딧기",
         "reference": "4.2",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:75790d47a178345dc2f047f3ef80e7eb79ad993b39a1d8e768549e8433e1ab0f",
-        "fixed_path": "releases/public-0.35/works/jdt/index.html#p-4-2"
+        "fixed_path": "releases/public-0.35.1/works/jdt/index.html#p-4-2"
       }
     },
     {
@@ -4871,7 +4871,7 @@
       ],
       "work_passage_id": "jdt:4.3",
       "html_path": "works/jdt/index.html#p-4-3",
-      "fixed_html_path": "releases/public-0.35/works/jdt/index.html#p-4-3",
+      "fixed_html_path": "releases/public-0.35.1/works/jdt/index.html#p-4-3",
       "alignment_revision": "sha256:bc68be7ec51ce4a9d7434267ba994e92bcf9686c0401860f9ee3ba690dcb4a62",
       "review_state": {
         "human_reviewed": false,
@@ -4907,9 +4907,9 @@
         "work": "유딧기",
         "reference": "4.3",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:25da3e8433a352df20d3765cd2ff43ef10552173b0317d94e5402064be6eaf66",
-        "fixed_path": "releases/public-0.35/works/jdt/index.html#p-4-3"
+        "fixed_path": "releases/public-0.35.1/works/jdt/index.html#p-4-3"
       }
     },
     {
@@ -4961,7 +4961,7 @@
       "notes": [],
       "work_passage_id": "jdt:4.4",
       "html_path": "works/jdt/index.html#p-4-4",
-      "fixed_html_path": "releases/public-0.35/works/jdt/index.html#p-4-4",
+      "fixed_html_path": "releases/public-0.35.1/works/jdt/index.html#p-4-4",
       "alignment_revision": "sha256:aa3dd76d35881fa27d467e4c4abe4b28dddb116cc82c2677a53d59a892545f15",
       "review_state": {
         "human_reviewed": false,
@@ -4997,9 +4997,9 @@
         "work": "유딧기",
         "reference": "4.4",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:8c761846f3c9dddab1202901ea5b5e88911de9f1ce91248a94b1c5273952f88f",
-        "fixed_path": "releases/public-0.35/works/jdt/index.html#p-4-4"
+        "fixed_path": "releases/public-0.35.1/works/jdt/index.html#p-4-4"
       }
     },
     {
@@ -5077,7 +5077,7 @@
       "notes": [],
       "work_passage_id": "jdt:4.5",
       "html_path": "works/jdt/index.html#p-4-5",
-      "fixed_html_path": "releases/public-0.35/works/jdt/index.html#p-4-5",
+      "fixed_html_path": "releases/public-0.35.1/works/jdt/index.html#p-4-5",
       "alignment_revision": "sha256:b95cf62c04c9037a300921e44decaea193f1d3a84bb29eb5e39281ee8493eb76",
       "review_state": {
         "human_reviewed": false,
@@ -5113,9 +5113,9 @@
         "work": "유딧기",
         "reference": "4.5",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:eef5a1e2c760f5efa32971fe1b2b2651cc8d24bfc9472e7f90371d4548957b01",
-        "fixed_path": "releases/public-0.35/works/jdt/index.html#p-4-5"
+        "fixed_path": "releases/public-0.35.1/works/jdt/index.html#p-4-5"
       }
     },
     {
@@ -5167,7 +5167,7 @@
       "notes": [],
       "work_passage_id": "jdt:4.6",
       "html_path": "works/jdt/index.html#p-4-6",
-      "fixed_html_path": "releases/public-0.35/works/jdt/index.html#p-4-6",
+      "fixed_html_path": "releases/public-0.35.1/works/jdt/index.html#p-4-6",
       "alignment_revision": "sha256:e3203b1202a988713ea27f1f105ef8a72a0fa6e74ead8c36d39c0a508989bf63",
       "review_state": {
         "human_reviewed": false,
@@ -5203,9 +5203,9 @@
         "work": "유딧기",
         "reference": "4.6",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:f5128dba1e6b5e3bf8a1142381f34afaedddea35e0f960027766c1e34b4b00a6",
-        "fixed_path": "releases/public-0.35/works/jdt/index.html#p-4-6"
+        "fixed_path": "releases/public-0.35.1/works/jdt/index.html#p-4-6"
       }
     },
     {
@@ -5272,7 +5272,7 @@
       ],
       "work_passage_id": "jdt:4.7",
       "html_path": "works/jdt/index.html#p-4-7",
-      "fixed_html_path": "releases/public-0.35/works/jdt/index.html#p-4-7",
+      "fixed_html_path": "releases/public-0.35.1/works/jdt/index.html#p-4-7",
       "alignment_revision": "sha256:49cf51b3e06a28f888b2c83db89805a79a347f00afe4969736a3529c60980616",
       "review_state": {
         "human_reviewed": false,
@@ -5308,9 +5308,9 @@
         "work": "유딧기",
         "reference": "4.7",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:7a21b447e9905f7ec42871f85b387781d489d461b4a4feb8bf87e1c5bf5d50db",
-        "fixed_path": "releases/public-0.35/works/jdt/index.html#p-4-7"
+        "fixed_path": "releases/public-0.35.1/works/jdt/index.html#p-4-7"
       }
     },
     {
@@ -5349,7 +5349,7 @@
       "notes": [],
       "work_passage_id": "jdt:4.8",
       "html_path": "works/jdt/index.html#p-4-8",
-      "fixed_html_path": "releases/public-0.35/works/jdt/index.html#p-4-8",
+      "fixed_html_path": "releases/public-0.35.1/works/jdt/index.html#p-4-8",
       "alignment_revision": "sha256:48db984d888206044c40403860448da3b39c0b35712871318c9abd4c0737d1f3",
       "review_state": {
         "human_reviewed": false,
@@ -5385,9 +5385,9 @@
         "work": "유딧기",
         "reference": "4.8",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:56972139c434da32d5cb293adcad0a5abbad38bfeefc38185a810e2f9652a77e",
-        "fixed_path": "releases/public-0.35/works/jdt/index.html#p-4-8"
+        "fixed_path": "releases/public-0.35.1/works/jdt/index.html#p-4-8"
       }
     },
     {
@@ -5439,7 +5439,7 @@
       "notes": [],
       "work_passage_id": "jdt:4.9",
       "html_path": "works/jdt/index.html#p-4-9",
-      "fixed_html_path": "releases/public-0.35/works/jdt/index.html#p-4-9",
+      "fixed_html_path": "releases/public-0.35.1/works/jdt/index.html#p-4-9",
       "alignment_revision": "sha256:e435aa6df88d868364b96b503c81dc0f8031daa66840d8d2c6ab28d33e201dbe",
       "review_state": {
         "human_reviewed": false,
@@ -5475,9 +5475,9 @@
         "work": "유딧기",
         "reference": "4.9",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:9859237e51d44f290f17233847e0fcad7c6dd922e816fe53fa504d8e832118b6",
-        "fixed_path": "releases/public-0.35/works/jdt/index.html#p-4-9"
+        "fixed_path": "releases/public-0.35.1/works/jdt/index.html#p-4-9"
       }
     },
     {
@@ -5531,7 +5531,7 @@
       ],
       "work_passage_id": "jdt:4.10",
       "html_path": "works/jdt/index.html#p-4-10",
-      "fixed_html_path": "releases/public-0.35/works/jdt/index.html#p-4-10",
+      "fixed_html_path": "releases/public-0.35.1/works/jdt/index.html#p-4-10",
       "alignment_revision": "sha256:4d748223634aff7d88a04f9a5eeedafb8dd1407539cbf2921bda03a95377cab1",
       "review_state": {
         "human_reviewed": false,
@@ -5567,9 +5567,9 @@
         "work": "유딧기",
         "reference": "4.10",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:b349d0f9954c94bee1f113d908b406ba9b235d862a0e316e1399abfd24dc1e38",
-        "fixed_path": "releases/public-0.35/works/jdt/index.html#p-4-10"
+        "fixed_path": "releases/public-0.35.1/works/jdt/index.html#p-4-10"
       }
     },
     {
@@ -5634,7 +5634,7 @@
       "notes": [],
       "work_passage_id": "jdt:4.11",
       "html_path": "works/jdt/index.html#p-4-11",
-      "fixed_html_path": "releases/public-0.35/works/jdt/index.html#p-4-11",
+      "fixed_html_path": "releases/public-0.35.1/works/jdt/index.html#p-4-11",
       "alignment_revision": "sha256:e6abbcab442a72758993341b693d6f2a5ab67e3a79fd498a89dabd12ac12f600",
       "review_state": {
         "human_reviewed": false,
@@ -5670,9 +5670,9 @@
         "work": "유딧기",
         "reference": "4.11",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:1abc507e7f564848c50a05a268db9f0e667663964dbe1e39dd660de2ce2dba95",
-        "fixed_path": "releases/public-0.35/works/jdt/index.html#p-4-11"
+        "fixed_path": "releases/public-0.35.1/works/jdt/index.html#p-4-11"
       }
     },
     {
@@ -5763,7 +5763,7 @@
       "notes": [],
       "work_passage_id": "jdt:4.12",
       "html_path": "works/jdt/index.html#p-4-12",
-      "fixed_html_path": "releases/public-0.35/works/jdt/index.html#p-4-12",
+      "fixed_html_path": "releases/public-0.35.1/works/jdt/index.html#p-4-12",
       "alignment_revision": "sha256:bc3600d364bfad4e0327393c38af78e038807681a81b679e65687c8ccfa04244",
       "review_state": {
         "human_reviewed": false,
@@ -5799,9 +5799,9 @@
         "work": "유딧기",
         "reference": "4.12",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:649cad4566fc842cb8b03c2472a180d4329579c64091a795e2c6e6b89cfac0a6",
-        "fixed_path": "releases/public-0.35/works/jdt/index.html#p-4-12"
+        "fixed_path": "releases/public-0.35.1/works/jdt/index.html#p-4-12"
       }
     },
     {
@@ -5853,7 +5853,7 @@
       "notes": [],
       "work_passage_id": "jdt:4.13",
       "html_path": "works/jdt/index.html#p-4-13",
-      "fixed_html_path": "releases/public-0.35/works/jdt/index.html#p-4-13",
+      "fixed_html_path": "releases/public-0.35.1/works/jdt/index.html#p-4-13",
       "alignment_revision": "sha256:adeb9d1f9c50fbf8de88733447604009ba9f157bcd113e5473e292cae490f467",
       "review_state": {
         "human_reviewed": false,
@@ -5889,9 +5889,9 @@
         "work": "유딧기",
         "reference": "4.13",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:233be57bed581937aa0a1c0214f9d0f5831e35a160917c6e88a12f0b295ce678",
-        "fixed_path": "releases/public-0.35/works/jdt/index.html#p-4-13"
+        "fixed_path": "releases/public-0.35.1/works/jdt/index.html#p-4-13"
       }
     },
     {
@@ -5958,7 +5958,7 @@
       ],
       "work_passage_id": "jdt:4.14",
       "html_path": "works/jdt/index.html#p-4-14",
-      "fixed_html_path": "releases/public-0.35/works/jdt/index.html#p-4-14",
+      "fixed_html_path": "releases/public-0.35.1/works/jdt/index.html#p-4-14",
       "alignment_revision": "sha256:3fe65fb8cdd1269eb15b1df7a7d6f5fbfe239f8c049ae8358f230a4c26190050",
       "review_state": {
         "human_reviewed": false,
@@ -5994,9 +5994,9 @@
         "work": "유딧기",
         "reference": "4.14",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:02934ad0c1ec5a59cbf1102210ff60eaa4fdb9a87af2a0526e86e1b5c6629336",
-        "fixed_path": "releases/public-0.35/works/jdt/index.html#p-4-14"
+        "fixed_path": "releases/public-0.35.1/works/jdt/index.html#p-4-14"
       }
     },
     {
@@ -6048,7 +6048,7 @@
       "notes": [],
       "work_passage_id": "jdt:4.15",
       "html_path": "works/jdt/index.html#p-4-15",
-      "fixed_html_path": "releases/public-0.35/works/jdt/index.html#p-4-15",
+      "fixed_html_path": "releases/public-0.35.1/works/jdt/index.html#p-4-15",
       "alignment_revision": "sha256:ad92cef14d0c16cc1336d41f04e7748277d75e0afcb2789f1f3811890a6868d9",
       "review_state": {
         "human_reviewed": false,
@@ -6084,9 +6084,9 @@
         "work": "유딧기",
         "reference": "4.15",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:b39e71c382d1d3cbd816a2c2f06035cfc171535be3b2f0cbc5ffa8550aaa6b24",
-        "fixed_path": "releases/public-0.35/works/jdt/index.html#p-4-15"
+        "fixed_path": "releases/public-0.35.1/works/jdt/index.html#p-4-15"
       }
     }
   ],
@@ -6105,14 +6105,14 @@
   "display_author": "익명",
   "scope": "유딧기 1-4장의 채택 그리스어 본문 69절 전체, 5-16장 미수록",
   "coverage": "complete_scope",
-  "release_id": "public-0.35",
+  "release_id": "public-0.35.1",
   "source_language": "grc",
   "source_kind": "edited_ancient_original",
   "human_reviewed": false,
   "translation_method": "고정 원어 본문에서 직접 번역",
   "html_path": "works/jdt/index.html",
   "json_path": "data/works/jdt.json",
-  "fixed_html_path": "releases/public-0.35/works/jdt/index.html",
+  "fixed_html_path": "releases/public-0.35.1/works/jdt/index.html",
   "source_profile": "jdt-swete-pinned-word-table-1",
   "source_decisions": [
     {

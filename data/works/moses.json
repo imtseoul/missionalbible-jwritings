@@ -76,7 +76,7 @@
       ],
       "work_passage_id": "moses:1.1",
       "html_path": "works/moses/index.html#p-1-1",
-      "fixed_html_path": "releases/public-0.35/works/moses/index.html#p-1-1",
+      "fixed_html_path": "releases/public-0.35.1/works/moses/index.html#p-1-1",
       "alignment_revision": "sha256:b8f1300071023481c05c4b0c2ed4e4f3a45769a56593c31ffd750a584b8185e3",
       "review_state": {
         "human_reviewed": false,
@@ -112,9 +112,9 @@
         "work": "모세의 생애",
         "reference": "1.1",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:8ca4b5a5f2a33868883b511164843c0e4de85a05deb2d4b2195bfe06ba3af1fa",
-        "fixed_path": "releases/public-0.35/works/moses/index.html#p-1-1"
+        "fixed_path": "releases/public-0.35.1/works/moses/index.html#p-1-1"
       }
     },
     {
@@ -177,7 +177,7 @@
       "notes": [],
       "work_passage_id": "moses:1.2",
       "html_path": "works/moses/index.html#p-1-2",
-      "fixed_html_path": "releases/public-0.35/works/moses/index.html#p-1-2",
+      "fixed_html_path": "releases/public-0.35.1/works/moses/index.html#p-1-2",
       "alignment_revision": "sha256:9edfd731b6fa531029828ebe48188786cc5031055b7fc8c2709852b6eda7f90a",
       "review_state": {
         "human_reviewed": false,
@@ -213,9 +213,9 @@
         "work": "모세의 생애",
         "reference": "1.2",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:691497bb2c314c393560d258137257a9638d0c8561f2264727a0947771339c50",
-        "fixed_path": "releases/public-0.35/works/moses/index.html#p-1-2"
+        "fixed_path": "releases/public-0.35.1/works/moses/index.html#p-1-2"
       }
     },
     {
@@ -292,7 +292,7 @@
       "notes": [],
       "work_passage_id": "moses:1.3",
       "html_path": "works/moses/index.html#p-1-3",
-      "fixed_html_path": "releases/public-0.35/works/moses/index.html#p-1-3",
+      "fixed_html_path": "releases/public-0.35.1/works/moses/index.html#p-1-3",
       "alignment_revision": "sha256:bec33491bfa88caefb476112d910d3ca763078b7835007c50c5b1c1a6d969179",
       "review_state": {
         "human_reviewed": false,
@@ -328,9 +328,9 @@
         "work": "모세의 생애",
         "reference": "1.3",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:71a97a9c435eb171a01ea6822344d89ece75fa04f8a26cb28506b1bf474fb8ab",
-        "fixed_path": "releases/public-0.35/works/moses/index.html#p-1-3"
+        "fixed_path": "releases/public-0.35.1/works/moses/index.html#p-1-3"
       }
     },
     {
@@ -396,7 +396,7 @@
       ],
       "work_passage_id": "moses:1.4",
       "html_path": "works/moses/index.html#p-1-4",
-      "fixed_html_path": "releases/public-0.35/works/moses/index.html#p-1-4",
+      "fixed_html_path": "releases/public-0.35.1/works/moses/index.html#p-1-4",
       "alignment_revision": "sha256:fc571613d84b73ea4cec59fdb7fba5f2b6efd7dbb7ad9f2be773d7040f8750ac",
       "review_state": {
         "human_reviewed": false,
@@ -432,9 +432,9 @@
         "work": "모세의 생애",
         "reference": "1.4",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:4ccad32db80e6a5607b0821794b89757d9c5fdb7257a2778a5b9acb556dc177b",
-        "fixed_path": "releases/public-0.35/works/moses/index.html#p-1-4"
+        "fixed_path": "releases/public-0.35.1/works/moses/index.html#p-1-4"
       }
     },
     {
@@ -511,7 +511,7 @@
       "notes": [],
       "work_passage_id": "moses:1.5",
       "html_path": "works/moses/index.html#p-1-5",
-      "fixed_html_path": "releases/public-0.35/works/moses/index.html#p-1-5",
+      "fixed_html_path": "releases/public-0.35.1/works/moses/index.html#p-1-5",
       "alignment_revision": "sha256:1129add9ceec1529b5e0c021e3ee8417352405584c60f63151815eee9c6cbe2f",
       "review_state": {
         "human_reviewed": false,
@@ -547,9 +547,9 @@
         "work": "모세의 생애",
         "reference": "1.5",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:54610172b2acc649f91e7a098090026242f5718c2da478f0934140d69aefb7a6",
-        "fixed_path": "releases/public-0.35/works/moses/index.html#p-1-5"
+        "fixed_path": "releases/public-0.35.1/works/moses/index.html#p-1-5"
       }
     },
     {
@@ -626,7 +626,7 @@
       "notes": [],
       "work_passage_id": "moses:1.6",
       "html_path": "works/moses/index.html#p-1-6",
-      "fixed_html_path": "releases/public-0.35/works/moses/index.html#p-1-6",
+      "fixed_html_path": "releases/public-0.35.1/works/moses/index.html#p-1-6",
       "alignment_revision": "sha256:2c0d220de470b3ae226e371db73d69f84a554d8530033d1487ab8b25c0bb3a1e",
       "review_state": {
         "human_reviewed": false,
@@ -662,9 +662,9 @@
         "work": "모세의 생애",
         "reference": "1.6",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:019c661791fd0483af47e748580a43d9418692b5c7d44631a0fad1903a885691",
-        "fixed_path": "releases/public-0.35/works/moses/index.html#p-1-6"
+        "fixed_path": "releases/public-0.35.1/works/moses/index.html#p-1-6"
       }
     },
     {
@@ -730,7 +730,7 @@
       ],
       "work_passage_id": "moses:1.7",
       "html_path": "works/moses/index.html#p-1-7",
-      "fixed_html_path": "releases/public-0.35/works/moses/index.html#p-1-7",
+      "fixed_html_path": "releases/public-0.35.1/works/moses/index.html#p-1-7",
       "alignment_revision": "sha256:4e69da802f3fb50daa75b08019786884e9d97d5da439caa1718b4d86f9fd19e7",
       "review_state": {
         "human_reviewed": false,
@@ -766,9 +766,9 @@
         "work": "모세의 생애",
         "reference": "1.7",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:407bfddf6e44b92a0d17b758d3ba1e2929c620647bc4c2e212c67eb794149def",
-        "fixed_path": "releases/public-0.35/works/moses/index.html#p-1-7"
+        "fixed_path": "releases/public-0.35.1/works/moses/index.html#p-1-7"
       }
     },
     {
@@ -873,7 +873,7 @@
       ],
       "work_passage_id": "moses:1.8",
       "html_path": "works/moses/index.html#p-1-8",
-      "fixed_html_path": "releases/public-0.35/works/moses/index.html#p-1-8",
+      "fixed_html_path": "releases/public-0.35.1/works/moses/index.html#p-1-8",
       "alignment_revision": "sha256:d8281905b1224011586e97ac1601fd8631d97fb9cb4590ac30bc682dc5fc9a9e",
       "review_state": {
         "human_reviewed": false,
@@ -909,9 +909,9 @@
         "work": "모세의 생애",
         "reference": "1.8",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:1386067249492f907ab4f74e62b73756d7883d72f5b22a5bc57e1c3fb33c3c6d",
-        "fixed_path": "releases/public-0.35/works/moses/index.html#p-1-8"
+        "fixed_path": "releases/public-0.35.1/works/moses/index.html#p-1-8"
       }
     },
     {
@@ -975,7 +975,7 @@
       "notes": [],
       "work_passage_id": "moses:1.9",
       "html_path": "works/moses/index.html#p-1-9",
-      "fixed_html_path": "releases/public-0.35/works/moses/index.html#p-1-9",
+      "fixed_html_path": "releases/public-0.35.1/works/moses/index.html#p-1-9",
       "alignment_revision": "sha256:03b233ef9487cce63f6c62cb93fc83e1a8e0ab00ae4854c7899a26318c4dace2",
       "review_state": {
         "human_reviewed": false,
@@ -1011,9 +1011,9 @@
         "work": "모세의 생애",
         "reference": "1.9",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:4c0963aae4aa0428eed716d605d08e47f4c266d587f5eaf67b6c2807276c1891",
-        "fixed_path": "releases/public-0.35/works/moses/index.html#p-1-9"
+        "fixed_path": "releases/public-0.35.1/works/moses/index.html#p-1-9"
       }
     },
     {
@@ -1103,7 +1103,7 @@
       "notes": [],
       "work_passage_id": "moses:1.10",
       "html_path": "works/moses/index.html#p-1-10",
-      "fixed_html_path": "releases/public-0.35/works/moses/index.html#p-1-10",
+      "fixed_html_path": "releases/public-0.35.1/works/moses/index.html#p-1-10",
       "alignment_revision": "sha256:c04e41b7025be3b431b27f3cc051df37e12e94e2a3e500e2501551f4d99e193a",
       "review_state": {
         "human_reviewed": false,
@@ -1139,9 +1139,9 @@
         "work": "모세의 생애",
         "reference": "1.10",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:f1185f666c8b222cd0ba73176965c19f3b9c84ec4d937089d3af661c7b9656c1",
-        "fixed_path": "releases/public-0.35/works/moses/index.html#p-1-10"
+        "fixed_path": "releases/public-0.35.1/works/moses/index.html#p-1-10"
       }
     },
     {
@@ -1233,7 +1233,7 @@
       ],
       "work_passage_id": "moses:1.11",
       "html_path": "works/moses/index.html#p-1-11",
-      "fixed_html_path": "releases/public-0.35/works/moses/index.html#p-1-11",
+      "fixed_html_path": "releases/public-0.35.1/works/moses/index.html#p-1-11",
       "alignment_revision": "sha256:a6d7772a8d937c53eb1ec0767da3167f1a2c9afe6a00077f45998ecb6a9a7019",
       "review_state": {
         "human_reviewed": false,
@@ -1269,9 +1269,9 @@
         "work": "모세의 생애",
         "reference": "1.11",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:81e307924c54c3d1806ef9e5edecb2f658504997de0ca5babffb28162cec0569",
-        "fixed_path": "releases/public-0.35/works/moses/index.html#p-1-11"
+        "fixed_path": "releases/public-0.35.1/works/moses/index.html#p-1-11"
       }
     },
     {
@@ -1348,7 +1348,7 @@
       "notes": [],
       "work_passage_id": "moses:1.12",
       "html_path": "works/moses/index.html#p-1-12",
-      "fixed_html_path": "releases/public-0.35/works/moses/index.html#p-1-12",
+      "fixed_html_path": "releases/public-0.35.1/works/moses/index.html#p-1-12",
       "alignment_revision": "sha256:517f6fab94ab18b3a49fde269aadedeee0cd32e083381732b253974818cd229e",
       "review_state": {
         "human_reviewed": false,
@@ -1384,9 +1384,9 @@
         "work": "모세의 생애",
         "reference": "1.12",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:f06125c87d52ce4635e5b5df04ea9d2002bb20593f0e396e0a15b5d6b03b24e5",
-        "fixed_path": "releases/public-0.35/works/moses/index.html#p-1-12"
+        "fixed_path": "releases/public-0.35.1/works/moses/index.html#p-1-12"
       }
     },
     {
@@ -1463,7 +1463,7 @@
       "notes": [],
       "work_passage_id": "moses:1.13",
       "html_path": "works/moses/index.html#p-1-13",
-      "fixed_html_path": "releases/public-0.35/works/moses/index.html#p-1-13",
+      "fixed_html_path": "releases/public-0.35.1/works/moses/index.html#p-1-13",
       "alignment_revision": "sha256:78ca63d0ae7ed97f2f8dcea2c41931cacf6ff08cb35eb6ac3910af11d567b17c",
       "review_state": {
         "human_reviewed": false,
@@ -1499,9 +1499,9 @@
         "work": "모세의 생애",
         "reference": "1.13",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:afd186f52a8630af270fdf5968649cc6116c0fa070656118aad0716b1a16bd4f",
-        "fixed_path": "releases/public-0.35/works/moses/index.html#p-1-13"
+        "fixed_path": "releases/public-0.35.1/works/moses/index.html#p-1-13"
       }
     },
     {
@@ -1578,7 +1578,7 @@
       "notes": [],
       "work_passage_id": "moses:1.14",
       "html_path": "works/moses/index.html#p-1-14",
-      "fixed_html_path": "releases/public-0.35/works/moses/index.html#p-1-14",
+      "fixed_html_path": "releases/public-0.35.1/works/moses/index.html#p-1-14",
       "alignment_revision": "sha256:a356f2b8db673bca7a2e457b24a695a0029d66c3d43b1e02c2c9ee06193c360c",
       "review_state": {
         "human_reviewed": false,
@@ -1614,9 +1614,9 @@
         "work": "모세의 생애",
         "reference": "1.14",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:0ccbd184e897d57e7fa57e378dd4785dc21b9940d1f7b0a5d754ce153cce994b",
-        "fixed_path": "releases/public-0.35/works/moses/index.html#p-1-14"
+        "fixed_path": "releases/public-0.35.1/works/moses/index.html#p-1-14"
       }
     },
     {
@@ -1693,7 +1693,7 @@
       "notes": [],
       "work_passage_id": "moses:1.15",
       "html_path": "works/moses/index.html#p-1-15",
-      "fixed_html_path": "releases/public-0.35/works/moses/index.html#p-1-15",
+      "fixed_html_path": "releases/public-0.35.1/works/moses/index.html#p-1-15",
       "alignment_revision": "sha256:4c9d83a1958879928b3b989a2cc384ad2aaf137e9a28daaeb9379f1d35e1f72d",
       "review_state": {
         "human_reviewed": false,
@@ -1729,9 +1729,9 @@
         "work": "모세의 생애",
         "reference": "1.15",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:1fb71d49a899317f9b45fa74dc07ef2c842adc6acf77beb918459f93866327f0",
-        "fixed_path": "releases/public-0.35/works/moses/index.html#p-1-15"
+        "fixed_path": "releases/public-0.35.1/works/moses/index.html#p-1-15"
       }
     },
     {
@@ -1782,7 +1782,7 @@
       "notes": [],
       "work_passage_id": "moses:1.16",
       "html_path": "works/moses/index.html#p-1-16",
-      "fixed_html_path": "releases/public-0.35/works/moses/index.html#p-1-16",
+      "fixed_html_path": "releases/public-0.35.1/works/moses/index.html#p-1-16",
       "alignment_revision": "sha256:af07aac79bae6361d8076ecd4b8eab95d4aa5837873793e24288c97793b08b93",
       "review_state": {
         "human_reviewed": false,
@@ -1818,9 +1818,9 @@
         "work": "모세의 생애",
         "reference": "1.16",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:7d44361c6c7a2a522609121c51a1909414b731890622625d6804d299b97f8881",
-        "fixed_path": "releases/public-0.35/works/moses/index.html#p-1-16"
+        "fixed_path": "releases/public-0.35.1/works/moses/index.html#p-1-16"
       }
     },
     {
@@ -1925,7 +1925,7 @@
       ],
       "work_passage_id": "moses:1.17",
       "html_path": "works/moses/index.html#p-1-17",
-      "fixed_html_path": "releases/public-0.35/works/moses/index.html#p-1-17",
+      "fixed_html_path": "releases/public-0.35.1/works/moses/index.html#p-1-17",
       "alignment_revision": "sha256:6402df4ce4193fd05113e80dfa291d80fdbfde8533502d38a74c168f86e5c66c",
       "review_state": {
         "human_reviewed": false,
@@ -1961,9 +1961,9 @@
         "work": "모세의 생애",
         "reference": "1.17",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:cd89abf11e8e41ce80ef234e5c384b1ad0cf8b9bec5fc3b2b2ebca1590004135",
-        "fixed_path": "releases/public-0.35/works/moses/index.html#p-1-17"
+        "fixed_path": "releases/public-0.35.1/works/moses/index.html#p-1-17"
       }
     },
     {
@@ -2014,7 +2014,7 @@
       "notes": [],
       "work_passage_id": "moses:1.18",
       "html_path": "works/moses/index.html#p-1-18",
-      "fixed_html_path": "releases/public-0.35/works/moses/index.html#p-1-18",
+      "fixed_html_path": "releases/public-0.35.1/works/moses/index.html#p-1-18",
       "alignment_revision": "sha256:59ac942fe734629fbc7aec8adecf977560325ad9d619e0179d227b66b85c35c9",
       "review_state": {
         "human_reviewed": false,
@@ -2050,9 +2050,9 @@
         "work": "모세의 생애",
         "reference": "1.18",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:0b82475976091b0e7ec9770a7f598a1a362a9f1691d12c367cce8d241a272418",
-        "fixed_path": "releases/public-0.35/works/moses/index.html#p-1-18"
+        "fixed_path": "releases/public-0.35.1/works/moses/index.html#p-1-18"
       }
     },
     {
@@ -2131,7 +2131,7 @@
       ],
       "work_passage_id": "moses:1.19",
       "html_path": "works/moses/index.html#p-1-19",
-      "fixed_html_path": "releases/public-0.35/works/moses/index.html#p-1-19",
+      "fixed_html_path": "releases/public-0.35.1/works/moses/index.html#p-1-19",
       "alignment_revision": "sha256:70130f524b7e1c166e7da5f151f3a14ecdb60e4faa393b74ddf9d4db41d0c515",
       "review_state": {
         "human_reviewed": false,
@@ -2167,9 +2167,9 @@
         "work": "모세의 생애",
         "reference": "1.19",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:8095ec552bc896d01aa03df55259051cc6eccfc8287277a847f2f8637d6cbc02",
-        "fixed_path": "releases/public-0.35/works/moses/index.html#p-1-19"
+        "fixed_path": "releases/public-0.35.1/works/moses/index.html#p-1-19"
       }
     },
     {
@@ -2246,7 +2246,7 @@
       "notes": [],
       "work_passage_id": "moses:1.20",
       "html_path": "works/moses/index.html#p-1-20",
-      "fixed_html_path": "releases/public-0.35/works/moses/index.html#p-1-20",
+      "fixed_html_path": "releases/public-0.35.1/works/moses/index.html#p-1-20",
       "alignment_revision": "sha256:731df28fdc08419ed376cde39efc75c18c8cb828c617995dae60b75574314588",
       "review_state": {
         "human_reviewed": false,
@@ -2282,9 +2282,9 @@
         "work": "모세의 생애",
         "reference": "1.20",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:a35853585946cd00c657e61c02ab721b5138761bbe444c1b64fd78a104698795",
-        "fixed_path": "releases/public-0.35/works/moses/index.html#p-1-20"
+        "fixed_path": "releases/public-0.35.1/works/moses/index.html#p-1-20"
       }
     },
     {
@@ -2389,7 +2389,7 @@
       ],
       "work_passage_id": "moses:1.21",
       "html_path": "works/moses/index.html#p-1-21",
-      "fixed_html_path": "releases/public-0.35/works/moses/index.html#p-1-21",
+      "fixed_html_path": "releases/public-0.35.1/works/moses/index.html#p-1-21",
       "alignment_revision": "sha256:6065c32a69616fdc856759348ffdbb975754b7c3488ff6e65a9395e155e464d4",
       "review_state": {
         "human_reviewed": false,
@@ -2425,9 +2425,9 @@
         "work": "모세의 생애",
         "reference": "1.21",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:bff3c7076dc8064c512a595fc49551d3988fa2907001eff9d63517b09fbb9936",
-        "fixed_path": "releases/public-0.35/works/moses/index.html#p-1-21"
+        "fixed_path": "releases/public-0.35.1/works/moses/index.html#p-1-21"
       }
     },
     {
@@ -2517,7 +2517,7 @@
       "notes": [],
       "work_passage_id": "moses:1.22",
       "html_path": "works/moses/index.html#p-1-22",
-      "fixed_html_path": "releases/public-0.35/works/moses/index.html#p-1-22",
+      "fixed_html_path": "releases/public-0.35.1/works/moses/index.html#p-1-22",
       "alignment_revision": "sha256:143887febe4351d8c2cb9669ea4c94a65af9021e30a14bc3b549f0aa1e9596d5",
       "review_state": {
         "human_reviewed": false,
@@ -2553,9 +2553,9 @@
         "work": "모세의 생애",
         "reference": "1.22",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:87e359b5586ee6c32a6c6ca1541235dd8cc5687aa1b452d1858d461f5ba630bd",
-        "fixed_path": "releases/public-0.35/works/moses/index.html#p-1-22"
+        "fixed_path": "releases/public-0.35.1/works/moses/index.html#p-1-22"
       }
     },
     {
@@ -2647,7 +2647,7 @@
       ],
       "work_passage_id": "moses:1.23",
       "html_path": "works/moses/index.html#p-1-23",
-      "fixed_html_path": "releases/public-0.35/works/moses/index.html#p-1-23",
+      "fixed_html_path": "releases/public-0.35.1/works/moses/index.html#p-1-23",
       "alignment_revision": "sha256:fee567e8d53c58d05b915288a97c877cce445471afc2d159593b5d78bf74a305",
       "review_state": {
         "human_reviewed": false,
@@ -2683,9 +2683,9 @@
         "work": "모세의 생애",
         "reference": "1.23",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:798135c6ca3d23ea10d9759628537c28a6546919b3c360ad5581112b6b5f065d",
-        "fixed_path": "releases/public-0.35/works/moses/index.html#p-1-23"
+        "fixed_path": "releases/public-0.35.1/works/moses/index.html#p-1-23"
       }
     },
     {
@@ -2788,7 +2788,7 @@
       "notes": [],
       "work_passage_id": "moses:1.24",
       "html_path": "works/moses/index.html#p-1-24",
-      "fixed_html_path": "releases/public-0.35/works/moses/index.html#p-1-24",
+      "fixed_html_path": "releases/public-0.35.1/works/moses/index.html#p-1-24",
       "alignment_revision": "sha256:b28a2ef5c24f7083a71f5aa9ed239f67241988753de267bf642f07fe9afd6070",
       "review_state": {
         "human_reviewed": false,
@@ -2824,9 +2824,9 @@
         "work": "모세의 생애",
         "reference": "1.24",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:c52abb97c1fc4bd1bcac543257fca5b111119a7f07b8a43efbce8aebda0fd341",
-        "fixed_path": "releases/public-0.35/works/moses/index.html#p-1-24"
+        "fixed_path": "releases/public-0.35.1/works/moses/index.html#p-1-24"
       }
     },
     {
@@ -2903,7 +2903,7 @@
       "notes": [],
       "work_passage_id": "moses:1.25",
       "html_path": "works/moses/index.html#p-1-25",
-      "fixed_html_path": "releases/public-0.35/works/moses/index.html#p-1-25",
+      "fixed_html_path": "releases/public-0.35.1/works/moses/index.html#p-1-25",
       "alignment_revision": "sha256:82f735db4603ee507ca5578f84535dc75edd03c0cbc6735792daf57b1e39c34b",
       "review_state": {
         "human_reviewed": false,
@@ -2939,9 +2939,9 @@
         "work": "모세의 생애",
         "reference": "1.25",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:afa0df746dbefe325d7e324efae930887acd11bce4a4d57dc7d3a3f46ae7cb2f",
-        "fixed_path": "releases/public-0.35/works/moses/index.html#p-1-25"
+        "fixed_path": "releases/public-0.35.1/works/moses/index.html#p-1-25"
       }
     },
     {
@@ -3046,7 +3046,7 @@
       ],
       "work_passage_id": "moses:1.26",
       "html_path": "works/moses/index.html#p-1-26",
-      "fixed_html_path": "releases/public-0.35/works/moses/index.html#p-1-26",
+      "fixed_html_path": "releases/public-0.35.1/works/moses/index.html#p-1-26",
       "alignment_revision": "sha256:9afaeecf48e8bfd63e55678e6b2b9ff12319fa66581deea488f0aa7d1fe1d561",
       "review_state": {
         "human_reviewed": false,
@@ -3082,9 +3082,9 @@
         "work": "모세의 생애",
         "reference": "1.26",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:ad111e3ac61ae6507b7cc165bd4234d98a3c1d3b0f2faeea1734a529d2b43215",
-        "fixed_path": "releases/public-0.35/works/moses/index.html#p-1-26"
+        "fixed_path": "releases/public-0.35.1/works/moses/index.html#p-1-26"
       }
     },
     {
@@ -3148,7 +3148,7 @@
       "notes": [],
       "work_passage_id": "moses:1.27",
       "html_path": "works/moses/index.html#p-1-27",
-      "fixed_html_path": "releases/public-0.35/works/moses/index.html#p-1-27",
+      "fixed_html_path": "releases/public-0.35.1/works/moses/index.html#p-1-27",
       "alignment_revision": "sha256:edacb77b01d335db4b993e4b7f8b902fbaa15c2ce486025e2b6a489060d4e154",
       "review_state": {
         "human_reviewed": false,
@@ -3184,9 +3184,9 @@
         "work": "모세의 생애",
         "reference": "1.27",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:558f8d850034785a49a0b3a12405079d8b0c713708d691266fca572b7e954db2",
-        "fixed_path": "releases/public-0.35/works/moses/index.html#p-1-27"
+        "fixed_path": "releases/public-0.35.1/works/moses/index.html#p-1-27"
       }
     },
     {
@@ -3237,7 +3237,7 @@
       "notes": [],
       "work_passage_id": "moses:1.28",
       "html_path": "works/moses/index.html#p-1-28",
-      "fixed_html_path": "releases/public-0.35/works/moses/index.html#p-1-28",
+      "fixed_html_path": "releases/public-0.35.1/works/moses/index.html#p-1-28",
       "alignment_revision": "sha256:d5bf766f970d6ab4e87acd935eeafb3b3abc04380d9e0e7de29a3b69ee41bd27",
       "review_state": {
         "human_reviewed": false,
@@ -3273,9 +3273,9 @@
         "work": "모세의 생애",
         "reference": "1.28",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:63b9b13d3471441d261bff7b6bb4660ae362a3dd88aba8eee21bbf87c2cf8a9d",
-        "fixed_path": "releases/public-0.35/works/moses/index.html#p-1-28"
+        "fixed_path": "releases/public-0.35.1/works/moses/index.html#p-1-28"
       }
     },
     {
@@ -3365,7 +3365,7 @@
       "notes": [],
       "work_passage_id": "moses:1.29",
       "html_path": "works/moses/index.html#p-1-29",
-      "fixed_html_path": "releases/public-0.35/works/moses/index.html#p-1-29",
+      "fixed_html_path": "releases/public-0.35.1/works/moses/index.html#p-1-29",
       "alignment_revision": "sha256:e5769162a7ff414bd7269f736cf5373604552af97513191ef76bc3b10f66dcb3",
       "review_state": {
         "human_reviewed": false,
@@ -3401,9 +3401,9 @@
         "work": "모세의 생애",
         "reference": "1.29",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:1be30916aef64e2f2ff89f2ef506b41fafd3532d2486d3d59e96af90f0b25425",
-        "fixed_path": "releases/public-0.35/works/moses/index.html#p-1-29"
+        "fixed_path": "releases/public-0.35.1/works/moses/index.html#p-1-29"
       }
     },
     {
@@ -3480,7 +3480,7 @@
       "notes": [],
       "work_passage_id": "moses:1.30",
       "html_path": "works/moses/index.html#p-1-30",
-      "fixed_html_path": "releases/public-0.35/works/moses/index.html#p-1-30",
+      "fixed_html_path": "releases/public-0.35.1/works/moses/index.html#p-1-30",
       "alignment_revision": "sha256:0b2142200bbb5600db0911946924c128469d35d285b63156cecc50b4c3b59ea5",
       "review_state": {
         "human_reviewed": false,
@@ -3516,9 +3516,9 @@
         "work": "모세의 생애",
         "reference": "1.30",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:dbd1b58ef2e2360bc3fd4bd1a911e7a5690c41c2787b588f39ef4ca0a17ba1ba",
-        "fixed_path": "releases/public-0.35/works/moses/index.html#p-1-30"
+        "fixed_path": "releases/public-0.35.1/works/moses/index.html#p-1-30"
       }
     },
     {
@@ -3621,7 +3621,7 @@
       "notes": [],
       "work_passage_id": "moses:1.31",
       "html_path": "works/moses/index.html#p-1-31",
-      "fixed_html_path": "releases/public-0.35/works/moses/index.html#p-1-31",
+      "fixed_html_path": "releases/public-0.35.1/works/moses/index.html#p-1-31",
       "alignment_revision": "sha256:3d77b4aad714485a06587d8bb22688314e896b950f0056e2948848b6490c2f1e",
       "review_state": {
         "human_reviewed": false,
@@ -3657,9 +3657,9 @@
         "work": "모세의 생애",
         "reference": "1.31",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:19f414822d655b95c18e68a0f3869838ccb10b766a987fa612137da0588516da",
-        "fixed_path": "releases/public-0.35/works/moses/index.html#p-1-31"
+        "fixed_path": "releases/public-0.35.1/works/moses/index.html#p-1-31"
       }
     },
     {
@@ -3751,7 +3751,7 @@
       ],
       "work_passage_id": "moses:1.32",
       "html_path": "works/moses/index.html#p-1-32",
-      "fixed_html_path": "releases/public-0.35/works/moses/index.html#p-1-32",
+      "fixed_html_path": "releases/public-0.35.1/works/moses/index.html#p-1-32",
       "alignment_revision": "sha256:362dfad5d1124292e86c251193eaa5196841dca3c6e746923211f2942d1a69c1",
       "review_state": {
         "human_reviewed": false,
@@ -3787,9 +3787,9 @@
         "work": "모세의 생애",
         "reference": "1.32",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:820428fc073f56fa79c0301ee8e85a51a408e16d21c6fe718d602428e74003e2",
-        "fixed_path": "releases/public-0.35/works/moses/index.html#p-1-32"
+        "fixed_path": "releases/public-0.35.1/works/moses/index.html#p-1-32"
       }
     },
     {
@@ -3853,7 +3853,7 @@
       "notes": [],
       "work_passage_id": "moses:1.33",
       "html_path": "works/moses/index.html#p-1-33",
-      "fixed_html_path": "releases/public-0.35/works/moses/index.html#p-1-33",
+      "fixed_html_path": "releases/public-0.35.1/works/moses/index.html#p-1-33",
       "alignment_revision": "sha256:ab46909ea98c442b13458782703f4efad3603a5de19add3c10b607b81bdd6917",
       "review_state": {
         "human_reviewed": false,
@@ -3889,9 +3889,9 @@
         "work": "모세의 생애",
         "reference": "1.33",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:b178b3e6dadc533603dc1e4b18a04bb94a4bbcb8b9450400f3b2f65b8c94a1b4",
-        "fixed_path": "releases/public-0.35/works/moses/index.html#p-1-33"
+        "fixed_path": "releases/public-0.35.1/works/moses/index.html#p-1-33"
       }
     },
     {
@@ -3955,7 +3955,7 @@
       "notes": [],
       "work_passage_id": "moses:1.34",
       "html_path": "works/moses/index.html#p-1-34",
-      "fixed_html_path": "releases/public-0.35/works/moses/index.html#p-1-34",
+      "fixed_html_path": "releases/public-0.35.1/works/moses/index.html#p-1-34",
       "alignment_revision": "sha256:1d4ad2093c64dfbd9725cad59a65dc3dae35da1351f30c8557236762cb9585d2",
       "review_state": {
         "human_reviewed": false,
@@ -3991,9 +3991,9 @@
         "work": "모세의 생애",
         "reference": "1.34",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:fcc363ee6bdd0bf324109f4e2332be591d16d1203d74f9172644509bcfa9ea7e",
-        "fixed_path": "releases/public-0.35/works/moses/index.html#p-1-34"
+        "fixed_path": "releases/public-0.35.1/works/moses/index.html#p-1-34"
       }
     },
     {
@@ -4059,7 +4059,7 @@
       ],
       "work_passage_id": "moses:1.35",
       "html_path": "works/moses/index.html#p-1-35",
-      "fixed_html_path": "releases/public-0.35/works/moses/index.html#p-1-35",
+      "fixed_html_path": "releases/public-0.35.1/works/moses/index.html#p-1-35",
       "alignment_revision": "sha256:7423d55c9b458b873ca5fddd1054d0727564b6f7aaf1803d2d736ee9a793394e",
       "review_state": {
         "human_reviewed": false,
@@ -4095,9 +4095,9 @@
         "work": "모세의 생애",
         "reference": "1.35",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:2abc61d67ba0ac4a940e9baf331579a400fdcec0c2fa0817b24dc4a1a134fc44",
-        "fixed_path": "releases/public-0.35/works/moses/index.html#p-1-35"
+        "fixed_path": "releases/public-0.35.1/works/moses/index.html#p-1-35"
       }
     },
     {
@@ -4174,7 +4174,7 @@
       "notes": [],
       "work_passage_id": "moses:1.36",
       "html_path": "works/moses/index.html#p-1-36",
-      "fixed_html_path": "releases/public-0.35/works/moses/index.html#p-1-36",
+      "fixed_html_path": "releases/public-0.35.1/works/moses/index.html#p-1-36",
       "alignment_revision": "sha256:4ea57c7b895e34527956c4ad32b74681325f91d266900676332248f023d5ae64",
       "review_state": {
         "human_reviewed": false,
@@ -4210,9 +4210,9 @@
         "work": "모세의 생애",
         "reference": "1.36",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:74877ba53359ea91921635fb1bce147208551d27be24c76c655ed04ce1786f74",
-        "fixed_path": "releases/public-0.35/works/moses/index.html#p-1-36"
+        "fixed_path": "releases/public-0.35.1/works/moses/index.html#p-1-36"
       }
     },
     {
@@ -4301,7 +4301,7 @@
       ],
       "work_passage_id": "moses:1.37",
       "html_path": "works/moses/index.html#p-1-37",
-      "fixed_html_path": "releases/public-0.35/works/moses/index.html#p-1-37",
+      "fixed_html_path": "releases/public-0.35.1/works/moses/index.html#p-1-37",
       "alignment_revision": "sha256:d706dd25e04580d2198c00fcf4475b912f2b869202622434e5518d9d8c93ea52",
       "review_state": {
         "human_reviewed": false,
@@ -4337,9 +4337,9 @@
         "work": "모세의 생애",
         "reference": "1.37",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:d73f7aa555d54da7d4b1fa81987e1748a830511edc41825ea32a075cd21eb3be",
-        "fixed_path": "releases/public-0.35/works/moses/index.html#p-1-37"
+        "fixed_path": "releases/public-0.35.1/works/moses/index.html#p-1-37"
       }
     },
     {
@@ -4442,7 +4442,7 @@
       "notes": [],
       "work_passage_id": "moses:1.38",
       "html_path": "works/moses/index.html#p-1-38",
-      "fixed_html_path": "releases/public-0.35/works/moses/index.html#p-1-38",
+      "fixed_html_path": "releases/public-0.35.1/works/moses/index.html#p-1-38",
       "alignment_revision": "sha256:45f32146ec03b5b82014f973a0b2351a2977b6c7d5c6bba8899cf2d3d15ea68d",
       "review_state": {
         "human_reviewed": false,
@@ -4478,9 +4478,9 @@
         "work": "모세의 생애",
         "reference": "1.38",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:c614a1db6dc6a4e9884b163e733aad1bf89943379cb35c54e201996635a8a047",
-        "fixed_path": "releases/public-0.35/works/moses/index.html#p-1-38"
+        "fixed_path": "releases/public-0.35.1/works/moses/index.html#p-1-38"
       }
     },
     {
@@ -4559,7 +4559,7 @@
       ],
       "work_passage_id": "moses:1.39",
       "html_path": "works/moses/index.html#p-1-39",
-      "fixed_html_path": "releases/public-0.35/works/moses/index.html#p-1-39",
+      "fixed_html_path": "releases/public-0.35.1/works/moses/index.html#p-1-39",
       "alignment_revision": "sha256:828d08ac9b55ca7fcb2de6982a5dbf7768cdf25e4e05be7b1050381a793ac9f7",
       "review_state": {
         "human_reviewed": false,
@@ -4595,9 +4595,9 @@
         "work": "모세의 생애",
         "reference": "1.39",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:30d488ad32ea96192edfffb9070c1d2a3a0ae281a8925fe06413df42907cac75",
-        "fixed_path": "releases/public-0.35/works/moses/index.html#p-1-39"
+        "fixed_path": "releases/public-0.35.1/works/moses/index.html#p-1-39"
       }
     },
     {
@@ -4687,7 +4687,7 @@
       "notes": [],
       "work_passage_id": "moses:1.40",
       "html_path": "works/moses/index.html#p-1-40",
-      "fixed_html_path": "releases/public-0.35/works/moses/index.html#p-1-40",
+      "fixed_html_path": "releases/public-0.35.1/works/moses/index.html#p-1-40",
       "alignment_revision": "sha256:28ecb3405c5e31672a22e4e442fd1cdb7185c5ebb054ef0972416f86502a6942",
       "review_state": {
         "human_reviewed": false,
@@ -4723,9 +4723,9 @@
         "work": "모세의 생애",
         "reference": "1.40",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:0d070f4c168cb4ef3ea1b20f0928da8442ee3d52ffc55bd52fb80c478673099d",
-        "fixed_path": "releases/public-0.35/works/moses/index.html#p-1-40"
+        "fixed_path": "releases/public-0.35.1/works/moses/index.html#p-1-40"
       }
     }
   ],
@@ -4749,14 +4749,14 @@
   "display_author": "필론",
   "scope": "모세의 생애 1권 1-40절 전체, 1권 41절 이후와 2권 미수록",
   "coverage": "complete_scope",
-  "release_id": "public-0.35",
+  "release_id": "public-0.35.1",
   "source_language": "grc",
   "source_kind": "edited_ancient_original",
   "human_reviewed": false,
   "translation_method": "고정 원어 본문에서 직접 번역",
   "html_path": "works/moses/index.html",
   "json_path": "data/works/moses.json",
-  "fixed_html_path": "releases/public-0.35/works/moses/index.html",
+  "fixed_html_path": "releases/public-0.35.1/works/moses/index.html",
   "source_profile": "moses-first1k-03776b39",
   "source_decisions": [
     {

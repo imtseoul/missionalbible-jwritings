@@ -88,7 +88,7 @@
       ],
       "work_passage_id": "cher:1",
       "html_path": "works/cher/index.html#p-1",
-      "fixed_html_path": "releases/public-0.35/works/cher/index.html#p-1",
+      "fixed_html_path": "releases/public-0.35.1/works/cher/index.html#p-1",
       "alignment_revision": "sha256:27f22813dd280596b491d5a90609f0b14419bd2bd179f8e399a08467bad04448",
       "review_state": {
         "human_reviewed": false,
@@ -124,9 +124,9 @@
         "work": "케루빔에 관하여",
         "reference": "1",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:e524dc1603782d7950522c0f304c4de3a9c220f0aa0d5c734428a60461756c43",
-        "fixed_path": "releases/public-0.35/works/cher/index.html#p-1"
+        "fixed_path": "releases/public-0.35.1/works/cher/index.html#p-1"
       }
     },
     {
@@ -214,7 +214,7 @@
       "notes": [],
       "work_passage_id": "cher:2",
       "html_path": "works/cher/index.html#p-2",
-      "fixed_html_path": "releases/public-0.35/works/cher/index.html#p-2",
+      "fixed_html_path": "releases/public-0.35.1/works/cher/index.html#p-2",
       "alignment_revision": "sha256:ed31b4689b9b691718efcc723939ef1854857a1f93690a43161a797b86f40272",
       "review_state": {
         "human_reviewed": false,
@@ -250,9 +250,9 @@
         "work": "케루빔에 관하여",
         "reference": "2",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:94af01cd3c0a3aa14b82a09730d30f461bc37495b3e0f6128126e5db79d9a542",
-        "fixed_path": "releases/public-0.35/works/cher/index.html#p-2"
+        "fixed_path": "releases/public-0.35.1/works/cher/index.html#p-2"
       }
     },
     {
@@ -332,7 +332,7 @@
       ],
       "work_passage_id": "cher:3",
       "html_path": "works/cher/index.html#p-3",
-      "fixed_html_path": "releases/public-0.35/works/cher/index.html#p-3",
+      "fixed_html_path": "releases/public-0.35.1/works/cher/index.html#p-3",
       "alignment_revision": "sha256:e9244b9b004342d9379448fc3a5878221f45a37f918680fb3f47aaa8f55aea35",
       "review_state": {
         "human_reviewed": false,
@@ -368,9 +368,9 @@
         "work": "케루빔에 관하여",
         "reference": "3",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:3855726f31098d794e95926003ccfa7d4f8460aea4861e81e7b802629cf5cb42",
-        "fixed_path": "releases/public-0.35/works/cher/index.html#p-3"
+        "fixed_path": "releases/public-0.35.1/works/cher/index.html#p-3"
       }
     },
     {
@@ -473,7 +473,7 @@
       ],
       "work_passage_id": "cher:4",
       "html_path": "works/cher/index.html#p-4",
-      "fixed_html_path": "releases/public-0.35/works/cher/index.html#p-4",
+      "fixed_html_path": "releases/public-0.35.1/works/cher/index.html#p-4",
       "alignment_revision": "sha256:051047947962c27cea33469c1ca46a06cc7d9bd042a097ecc107a1b9b8491b28",
       "review_state": {
         "human_reviewed": false,
@@ -509,9 +509,9 @@
         "work": "케루빔에 관하여",
         "reference": "4",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:df4c9631ae85a2b9e0870d038003c5e9f4ecb138dea751b9379fe10edf7a3a6e",
-        "fixed_path": "releases/public-0.35/works/cher/index.html#p-4"
+        "fixed_path": "releases/public-0.35.1/works/cher/index.html#p-4"
       }
     },
     {
@@ -599,7 +599,7 @@
       "notes": [],
       "work_passage_id": "cher:5",
       "html_path": "works/cher/index.html#p-5",
-      "fixed_html_path": "releases/public-0.35/works/cher/index.html#p-5",
+      "fixed_html_path": "releases/public-0.35.1/works/cher/index.html#p-5",
       "alignment_revision": "sha256:1efe231d002d7bea431d7695ebd3600da7caaa4fbc4c2a56542da7ae59fd9433",
       "review_state": {
         "human_reviewed": false,
@@ -635,9 +635,9 @@
         "work": "케루빔에 관하여",
         "reference": "5",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:30dfc869338fd058c6e9a5a88c7efaf2bf9231a67140a5667db18c7dcac13f23",
-        "fixed_path": "releases/public-0.35/works/cher/index.html#p-5"
+        "fixed_path": "releases/public-0.35.1/works/cher/index.html#p-5"
       }
     },
     {
@@ -699,7 +699,7 @@
       "notes": [],
       "work_passage_id": "cher:6",
       "html_path": "works/cher/index.html#p-6",
-      "fixed_html_path": "releases/public-0.35/works/cher/index.html#p-6",
+      "fixed_html_path": "releases/public-0.35.1/works/cher/index.html#p-6",
       "alignment_revision": "sha256:2abb2821b46bdcc7d90518fecce163daac7137c706e71774c1075292429729f3",
       "review_state": {
         "human_reviewed": false,
@@ -735,9 +735,9 @@
         "work": "케루빔에 관하여",
         "reference": "6",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:6697ced6661173ec6f38996cb5ddc29edbdffd3242711c34561d0df928d71bd7",
-        "fixed_path": "releases/public-0.35/works/cher/index.html#p-6"
+        "fixed_path": "releases/public-0.35.1/works/cher/index.html#p-6"
       }
     },
     {
@@ -838,7 +838,7 @@
       "notes": [],
       "work_passage_id": "cher:7",
       "html_path": "works/cher/index.html#p-7",
-      "fixed_html_path": "releases/public-0.35/works/cher/index.html#p-7",
+      "fixed_html_path": "releases/public-0.35.1/works/cher/index.html#p-7",
       "alignment_revision": "sha256:92d9b2e0d3292139f672e8f1fea948cbf052e06e3d79a9a93362719d5c5e2a0c",
       "review_state": {
         "human_reviewed": false,
@@ -874,9 +874,9 @@
         "work": "케루빔에 관하여",
         "reference": "7",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:000d758a40ad9676da183a9a18ba167feef3ebcd92988793259e8ceee0806420",
-        "fixed_path": "releases/public-0.35/works/cher/index.html#p-7"
+        "fixed_path": "releases/public-0.35.1/works/cher/index.html#p-7"
       }
     },
     {
@@ -956,7 +956,7 @@
       ],
       "work_passage_id": "cher:8",
       "html_path": "works/cher/index.html#p-8",
-      "fixed_html_path": "releases/public-0.35/works/cher/index.html#p-8",
+      "fixed_html_path": "releases/public-0.35.1/works/cher/index.html#p-8",
       "alignment_revision": "sha256:7eeb352722efa0e60b9b468eea0268ce10ddb8fecb640c883e1d8b7d2161383a",
       "review_state": {
         "human_reviewed": false,
@@ -992,9 +992,9 @@
         "work": "케루빔에 관하여",
         "reference": "8",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:3a1a877076518a6ed5bec6a9b2bd626bb3a49eb976fe9d433f77a988a5465634",
-        "fixed_path": "releases/public-0.35/works/cher/index.html#p-8"
+        "fixed_path": "releases/public-0.35.1/works/cher/index.html#p-8"
       }
     },
     {
@@ -1108,7 +1108,7 @@
       "notes": [],
       "work_passage_id": "cher:9",
       "html_path": "works/cher/index.html#p-9",
-      "fixed_html_path": "releases/public-0.35/works/cher/index.html#p-9",
+      "fixed_html_path": "releases/public-0.35.1/works/cher/index.html#p-9",
       "alignment_revision": "sha256:0cc6849fd9257e6029779b6d6b4b21e42a2e9573e120ae67d1a9431262f98d75",
       "review_state": {
         "human_reviewed": false,
@@ -1144,9 +1144,9 @@
         "work": "케루빔에 관하여",
         "reference": "9",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:6f91323dcd7d02d520307ddff23f4446c1bb7742ef75032b6f42f0d8fbd45c0c",
-        "fixed_path": "releases/public-0.35/works/cher/index.html#p-9"
+        "fixed_path": "releases/public-0.35.1/works/cher/index.html#p-9"
       }
     },
     {
@@ -1208,7 +1208,7 @@
       "notes": [],
       "work_passage_id": "cher:10",
       "html_path": "works/cher/index.html#p-10",
-      "fixed_html_path": "releases/public-0.35/works/cher/index.html#p-10",
+      "fixed_html_path": "releases/public-0.35.1/works/cher/index.html#p-10",
       "alignment_revision": "sha256:2a7013e5ac059b0b72b916de6b788d2f9690ec83c27bd8b1061f26f1fc2f7734",
       "review_state": {
         "human_reviewed": false,
@@ -1244,9 +1244,9 @@
         "work": "케루빔에 관하여",
         "reference": "10",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:98af92e76cd8f917f311ce3103b4074a2b91e6fdbf4d3a93832fb085a1d01dbe",
-        "fixed_path": "releases/public-0.35/works/cher/index.html#p-10"
+        "fixed_path": "releases/public-0.35.1/works/cher/index.html#p-10"
       }
     },
     {
@@ -1336,7 +1336,7 @@
       ],
       "work_passage_id": "cher:11",
       "html_path": "works/cher/index.html#p-11",
-      "fixed_html_path": "releases/public-0.35/works/cher/index.html#p-11",
+      "fixed_html_path": "releases/public-0.35.1/works/cher/index.html#p-11",
       "alignment_revision": "sha256:984406e00a8e4c595032d78cefdbca8cce4654e3f77e1374334d4e154276920f",
       "review_state": {
         "human_reviewed": false,
@@ -1372,9 +1372,9 @@
         "work": "케루빔에 관하여",
         "reference": "11",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:dd7320849e91db3eea4505a6182a11e0719b41aaf0254b38378d06721cdea5fc",
-        "fixed_path": "releases/public-0.35/works/cher/index.html#p-11"
+        "fixed_path": "releases/public-0.35.1/works/cher/index.html#p-11"
       }
     },
     {
@@ -1452,7 +1452,7 @@
       "notes": [],
       "work_passage_id": "cher:12",
       "html_path": "works/cher/index.html#p-12",
-      "fixed_html_path": "releases/public-0.35/works/cher/index.html#p-12",
+      "fixed_html_path": "releases/public-0.35.1/works/cher/index.html#p-12",
       "alignment_revision": "sha256:53e12358ee6aba455ed611c2e495a87a3d4633f8d49a041aaacd93050687b179",
       "review_state": {
         "human_reviewed": false,
@@ -1488,9 +1488,9 @@
         "work": "케루빔에 관하여",
         "reference": "12",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:b15c5332c02cdc213e1a423039bae046546195d1c04d421b8b9760abb503ec4e",
-        "fixed_path": "releases/public-0.35/works/cher/index.html#p-12"
+        "fixed_path": "releases/public-0.35.1/works/cher/index.html#p-12"
       }
     },
     {
@@ -1565,7 +1565,7 @@
       "notes": [],
       "work_passage_id": "cher:13",
       "html_path": "works/cher/index.html#p-13",
-      "fixed_html_path": "releases/public-0.35/works/cher/index.html#p-13",
+      "fixed_html_path": "releases/public-0.35.1/works/cher/index.html#p-13",
       "alignment_revision": "sha256:e8f1265c9c05958bb13131610a7357d8e8ab1ab7d063a5c33c60d08c4c073173",
       "review_state": {
         "human_reviewed": false,
@@ -1601,9 +1601,9 @@
         "work": "케루빔에 관하여",
         "reference": "13",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:84ebb20d4495112482106dfc0a472d0e5c04db887937d0778b6972baa7cfe858",
-        "fixed_path": "releases/public-0.35/works/cher/index.html#p-13"
+        "fixed_path": "releases/public-0.35.1/works/cher/index.html#p-13"
       }
     },
     {
@@ -1706,7 +1706,7 @@
       ],
       "work_passage_id": "cher:14",
       "html_path": "works/cher/index.html#p-14",
-      "fixed_html_path": "releases/public-0.35/works/cher/index.html#p-14",
+      "fixed_html_path": "releases/public-0.35.1/works/cher/index.html#p-14",
       "alignment_revision": "sha256:260f293ec7fc293ed4a0ce799653ca1f72b7350ca8233e7bced7fb06a8493e7f",
       "review_state": {
         "human_reviewed": false,
@@ -1742,9 +1742,9 @@
         "work": "케루빔에 관하여",
         "reference": "14",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:a6c8f89b87dc140069121d5462c3e4a592a81eae6f26e89e02afbe146bb468cd",
-        "fixed_path": "releases/public-0.35/works/cher/index.html#p-14"
+        "fixed_path": "releases/public-0.35.1/works/cher/index.html#p-14"
       }
     },
     {
@@ -1845,7 +1845,7 @@
       "notes": [],
       "work_passage_id": "cher:15",
       "html_path": "works/cher/index.html#p-15",
-      "fixed_html_path": "releases/public-0.35/works/cher/index.html#p-15",
+      "fixed_html_path": "releases/public-0.35.1/works/cher/index.html#p-15",
       "alignment_revision": "sha256:346069ef9547f3df4229c07dac5904b2b1639237b90fd5c9b276e570e5751c2b",
       "review_state": {
         "human_reviewed": false,
@@ -1881,9 +1881,9 @@
         "work": "케루빔에 관하여",
         "reference": "15",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:c29155a6936a06b6c72e0cdf4886b163063452a4eab99fa45b2633c862b5e1a8",
-        "fixed_path": "releases/public-0.35/works/cher/index.html#p-15"
+        "fixed_path": "releases/public-0.35.1/works/cher/index.html#p-15"
       }
     },
     {
@@ -1974,7 +1974,7 @@
       "notes": [],
       "work_passage_id": "cher:16",
       "html_path": "works/cher/index.html#p-16",
-      "fixed_html_path": "releases/public-0.35/works/cher/index.html#p-16",
+      "fixed_html_path": "releases/public-0.35.1/works/cher/index.html#p-16",
       "alignment_revision": "sha256:582dfeef6c9b445a204a93bd2f2e845e557ffaad119518ca8cd670d630bc4aff",
       "review_state": {
         "human_reviewed": false,
@@ -2010,9 +2010,9 @@
         "work": "케루빔에 관하여",
         "reference": "16",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:2bbef1baaeeafff0a51caf1a22e8bee8496aa36cef6b484e0b5539074684a03b",
-        "fixed_path": "releases/public-0.35/works/cher/index.html#p-16"
+        "fixed_path": "releases/public-0.35.1/works/cher/index.html#p-16"
       }
     },
     {
@@ -2115,7 +2115,7 @@
       ],
       "work_passage_id": "cher:17",
       "html_path": "works/cher/index.html#p-17",
-      "fixed_html_path": "releases/public-0.35/works/cher/index.html#p-17",
+      "fixed_html_path": "releases/public-0.35.1/works/cher/index.html#p-17",
       "alignment_revision": "sha256:19c186d295247d3014080593566e7fd4cc102562515bc114b559888d0b44a261",
       "review_state": {
         "human_reviewed": false,
@@ -2151,9 +2151,9 @@
         "work": "케루빔에 관하여",
         "reference": "17",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:2c426d8debe2957b72299c962ecd18d3cd057e02e6ae4b2b7f6cefc0175638d9",
-        "fixed_path": "releases/public-0.35/works/cher/index.html#p-17"
+        "fixed_path": "releases/public-0.35.1/works/cher/index.html#p-17"
       }
     },
     {
@@ -2254,7 +2254,7 @@
       "notes": [],
       "work_passage_id": "cher:18",
       "html_path": "works/cher/index.html#p-18",
-      "fixed_html_path": "releases/public-0.35/works/cher/index.html#p-18",
+      "fixed_html_path": "releases/public-0.35.1/works/cher/index.html#p-18",
       "alignment_revision": "sha256:73ac0f6a588478b4cbe1e877220e3bc125af2e66a2802f2583b18e6e78237b60",
       "review_state": {
         "human_reviewed": false,
@@ -2290,9 +2290,9 @@
         "work": "케루빔에 관하여",
         "reference": "18",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:dd6113192ff74cf907a3307583859d0e53185729d49d300db96ee8574fd39396",
-        "fixed_path": "releases/public-0.35/works/cher/index.html#p-18"
+        "fixed_path": "releases/public-0.35.1/works/cher/index.html#p-18"
       }
     },
     {
@@ -2367,7 +2367,7 @@
       "notes": [],
       "work_passage_id": "cher:19",
       "html_path": "works/cher/index.html#p-19",
-      "fixed_html_path": "releases/public-0.35/works/cher/index.html#p-19",
+      "fixed_html_path": "releases/public-0.35.1/works/cher/index.html#p-19",
       "alignment_revision": "sha256:024c3fe6acd08b976697ffaf9f2c76e1b0c4282b2dfe5cf81de508af5c1fbc56",
       "review_state": {
         "human_reviewed": false,
@@ -2403,9 +2403,9 @@
         "work": "케루빔에 관하여",
         "reference": "19",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:180d7d95970a06ab1dae213c59fc61e2311f1063c8705f6b48f35ab1fe215f72",
-        "fixed_path": "releases/public-0.35/works/cher/index.html#p-19"
+        "fixed_path": "releases/public-0.35.1/works/cher/index.html#p-19"
       }
     },
     {
@@ -2482,7 +2482,7 @@
       ],
       "work_passage_id": "cher:20",
       "html_path": "works/cher/index.html#p-20",
-      "fixed_html_path": "releases/public-0.35/works/cher/index.html#p-20",
+      "fixed_html_path": "releases/public-0.35.1/works/cher/index.html#p-20",
       "alignment_revision": "sha256:e37c978d95c8dba9ba61397cb95f04c3729bc6dff28e19923c2b7c5371d74e22",
       "review_state": {
         "human_reviewed": false,
@@ -2518,9 +2518,9 @@
         "work": "케루빔에 관하여",
         "reference": "20",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:004cc0b604260ed4fb17c923679442e5c3df18d68c394a5eb2fd0b6d7bb2f66d",
-        "fixed_path": "releases/public-0.35/works/cher/index.html#p-20"
+        "fixed_path": "releases/public-0.35.1/works/cher/index.html#p-20"
       }
     }
   ],
@@ -2543,14 +2543,14 @@
   "display_author": "필론",
   "scope": "케루빔에 관하여 1-20절 전체, 21-130절 미수록",
   "coverage": "complete_scope",
-  "release_id": "public-0.35",
+  "release_id": "public-0.35.1",
   "source_language": "grc",
   "source_kind": "edited_ancient_original",
   "human_reviewed": false,
   "translation_method": "고정 원어 본문에서 직접 번역",
   "html_path": "works/cher/index.html",
   "json_path": "data/works/cher.json",
-  "fixed_html_path": "releases/public-0.35/works/cher/index.html",
+  "fixed_html_path": "releases/public-0.35.1/works/cher/index.html",
   "source_profile": "cher-first1k-03776b39",
   "source_decisions": [
     {

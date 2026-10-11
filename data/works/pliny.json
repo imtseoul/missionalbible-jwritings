@@ -132,7 +132,7 @@
       ],
       "work_passage_id": "pliny:10.96.1",
       "html_path": "works/pliny/index.html#p-10-96-1",
-      "fixed_html_path": "releases/public-0.35/works/pliny/index.html#p-10-96-1",
+      "fixed_html_path": "releases/public-0.35.1/works/pliny/index.html#p-10-96-1",
       "alignment_revision": "sha256:66af5fbfdb331fe6994a3a07788e019d50cd58198feec533707fda4ba49560d0",
       "review_state": {
         "human_reviewed": false,
@@ -168,9 +168,9 @@
         "work": "서간집",
         "reference": "10.96.1",
         "edition": "Perseus Digital Library의 Pliny, Letters 고정 라틴어 TEI. 전자본문은 편집자와 인쇄 연도를 명시하지 않는다. 10.96-97 사용.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:f1fd2f65e108b0db29a353f718d171c98d1ec094f180421c1d9fad7579fd42d8",
-        "fixed_path": "releases/public-0.35/works/pliny/index.html#p-10-96-1"
+        "fixed_path": "releases/public-0.35.1/works/pliny/index.html#p-10-96-1"
       }
     },
     {
@@ -284,7 +284,7 @@
       ],
       "work_passage_id": "pliny:10.96.2",
       "html_path": "works/pliny/index.html#p-10-96-2",
-      "fixed_html_path": "releases/public-0.35/works/pliny/index.html#p-10-96-2",
+      "fixed_html_path": "releases/public-0.35.1/works/pliny/index.html#p-10-96-2",
       "alignment_revision": "sha256:3b5a5b8bd27c18dbcd2ec553af4a706f437ad16854788986e4baed02a99a2ddc",
       "review_state": {
         "human_reviewed": false,
@@ -320,9 +320,9 @@
         "work": "서간집",
         "reference": "10.96.2",
         "edition": "Perseus Digital Library의 Pliny, Letters 고정 라틴어 TEI. 전자본문은 편집자와 인쇄 연도를 명시하지 않는다. 10.96-97 사용.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:5002cb96360790847a2b0082a675646f674c9a860e9880bedc95f25775394edc",
-        "fixed_path": "releases/public-0.35/works/pliny/index.html#p-10-96-2"
+        "fixed_path": "releases/public-0.35.1/works/pliny/index.html#p-10-96-2"
       }
     },
     {
@@ -415,7 +415,7 @@
       ],
       "work_passage_id": "pliny:10.96.3",
       "html_path": "works/pliny/index.html#p-10-96-3",
-      "fixed_html_path": "releases/public-0.35/works/pliny/index.html#p-10-96-3",
+      "fixed_html_path": "releases/public-0.35.1/works/pliny/index.html#p-10-96-3",
       "alignment_revision": "sha256:b4739b108308aa27865011e9ebfacd49c206a72fdd6b369f095d3c06d0e353a1",
       "review_state": {
         "human_reviewed": false,
@@ -451,9 +451,9 @@
         "work": "서간집",
         "reference": "10.96.3",
         "edition": "Perseus Digital Library의 Pliny, Letters 고정 라틴어 TEI. 전자본문은 편집자와 인쇄 연도를 명시하지 않는다. 10.96-97 사용.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:9aaacaaccb86a99f2a3864b930f5a1bccffb61882f2b1edcd82700f78274cbce",
-        "fixed_path": "releases/public-0.35/works/pliny/index.html#p-10-96-3"
+        "fixed_path": "releases/public-0.35.1/works/pliny/index.html#p-10-96-3"
       }
     },
     {
@@ -520,7 +520,7 @@
       ],
       "work_passage_id": "pliny:10.96.4",
       "html_path": "works/pliny/index.html#p-10-96-4",
-      "fixed_html_path": "releases/public-0.35/works/pliny/index.html#p-10-96-4",
+      "fixed_html_path": "releases/public-0.35.1/works/pliny/index.html#p-10-96-4",
       "alignment_revision": "sha256:64c2858824b5844063aec31db99fbbfc78da158aac7e7c533b1390b854f68f70",
       "review_state": {
         "human_reviewed": false,
@@ -556,9 +556,9 @@
         "work": "서간집",
         "reference": "10.96.4",
         "edition": "Perseus Digital Library의 Pliny, Letters 고정 라틴어 TEI. 전자본문은 편집자와 인쇄 연도를 명시하지 않는다. 10.96-97 사용.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:826e6cdbee586a1c420bfcc52896b72b623f4d916f0547475f33d8c3d2e1d909",
-        "fixed_path": "releases/public-0.35/works/pliny/index.html#p-10-96-4"
+        "fixed_path": "releases/public-0.35.1/works/pliny/index.html#p-10-96-4"
       }
     },
     {
@@ -690,7 +690,7 @@
       ],
       "work_passage_id": "pliny:10.96.5",
       "html_path": "works/pliny/index.html#p-10-96-5",
-      "fixed_html_path": "releases/public-0.35/works/pliny/index.html#p-10-96-5",
+      "fixed_html_path": "releases/public-0.35.1/works/pliny/index.html#p-10-96-5",
       "alignment_revision": "sha256:817810d23ec9295d0772a3d997f611f850dec1726f733a0efc6fc8a894f288a4",
       "review_state": {
         "human_reviewed": false,
@@ -726,9 +726,9 @@
         "work": "서간집",
         "reference": "10.96.5",
         "edition": "Perseus Digital Library의 Pliny, Letters 고정 라틴어 TEI. 전자본문은 편집자와 인쇄 연도를 명시하지 않는다. 10.96-97 사용.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:0ef9491abe7abe97e391f1dfd50a302c7f58bbba9357f50fba82000eed147f2d",
-        "fixed_path": "releases/public-0.35/works/pliny/index.html#p-10-96-5"
+        "fixed_path": "releases/public-0.35.1/works/pliny/index.html#p-10-96-5"
       }
     },
     {
@@ -816,7 +816,7 @@
       ],
       "work_passage_id": "pliny:10.96.6",
       "html_path": "works/pliny/index.html#p-10-96-6",
-      "fixed_html_path": "releases/public-0.35/works/pliny/index.html#p-10-96-6",
+      "fixed_html_path": "releases/public-0.35.1/works/pliny/index.html#p-10-96-6",
       "alignment_revision": "sha256:c6a82acd09cb7ce14aee2825034a037002e8932f771da17fa1b7d3c9c73c21be",
       "review_state": {
         "human_reviewed": false,
@@ -852,9 +852,9 @@
         "work": "서간집",
         "reference": "10.96.6",
         "edition": "Perseus Digital Library의 Pliny, Letters 고정 라틴어 TEI. 전자본문은 편집자와 인쇄 연도를 명시하지 않는다. 10.96-97 사용.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:08e2a964dde9211b33c3c42be38c7c0bd897f929369e53bdeab22a87ac0171bb",
-        "fixed_path": "releases/public-0.35/works/pliny/index.html#p-10-96-6"
+        "fixed_path": "releases/public-0.35.1/works/pliny/index.html#p-10-96-6"
       }
     },
     {
@@ -987,7 +987,7 @@
       ],
       "work_passage_id": "pliny:10.96.7",
       "html_path": "works/pliny/index.html#p-10-96-7",
-      "fixed_html_path": "releases/public-0.35/works/pliny/index.html#p-10-96-7",
+      "fixed_html_path": "releases/public-0.35.1/works/pliny/index.html#p-10-96-7",
       "alignment_revision": "sha256:d91c03225f5d06508ea5689d331625d0c6bb86659e7b83e7e01cfda16f2cb67e",
       "review_state": {
         "human_reviewed": false,
@@ -1023,9 +1023,9 @@
         "work": "서간집",
         "reference": "10.96.7",
         "edition": "Perseus Digital Library의 Pliny, Letters 고정 라틴어 TEI. 전자본문은 편집자와 인쇄 연도를 명시하지 않는다. 10.96-97 사용.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:821eec369b121546abd14247dddec95a4dd23b55464ae15eb448df7fccbfb839",
-        "fixed_path": "releases/public-0.35/works/pliny/index.html#p-10-96-7"
+        "fixed_path": "releases/public-0.35.1/works/pliny/index.html#p-10-96-7"
       }
     },
     {
@@ -1092,7 +1092,7 @@
       ],
       "work_passage_id": "pliny:10.96.8",
       "html_path": "works/pliny/index.html#p-10-96-8",
-      "fixed_html_path": "releases/public-0.35/works/pliny/index.html#p-10-96-8",
+      "fixed_html_path": "releases/public-0.35.1/works/pliny/index.html#p-10-96-8",
       "alignment_revision": "sha256:e76065eb806826d2629f33e4e395ada4f8da403255e382b5e81667781c77962f",
       "review_state": {
         "human_reviewed": false,
@@ -1128,9 +1128,9 @@
         "work": "서간집",
         "reference": "10.96.8",
         "edition": "Perseus Digital Library의 Pliny, Letters 고정 라틴어 TEI. 전자본문은 편집자와 인쇄 연도를 명시하지 않는다. 10.96-97 사용.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:4c2589e8e11c3a605ae0dd3e9b1b5944848b52b14a8ef799c0736970cf743761",
-        "fixed_path": "releases/public-0.35/works/pliny/index.html#p-10-96-8"
+        "fixed_path": "releases/public-0.35.1/works/pliny/index.html#p-10-96-8"
       }
     },
     {
@@ -1236,7 +1236,7 @@
       ],
       "work_passage_id": "pliny:10.96.9",
       "html_path": "works/pliny/index.html#p-10-96-9",
-      "fixed_html_path": "releases/public-0.35/works/pliny/index.html#p-10-96-9",
+      "fixed_html_path": "releases/public-0.35.1/works/pliny/index.html#p-10-96-9",
       "alignment_revision": "sha256:19605a81d4f99d06774fa9d457abe05c77344cd64bc97dc9a04a73568be4b948",
       "review_state": {
         "human_reviewed": false,
@@ -1272,9 +1272,9 @@
         "work": "서간집",
         "reference": "10.96.9",
         "edition": "Perseus Digital Library의 Pliny, Letters 고정 라틴어 TEI. 전자본문은 편집자와 인쇄 연도를 명시하지 않는다. 10.96-97 사용.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:cbbfd349c12312c80f076170f33d717cf76cd036ee928a9ee5cf7407f0c96eb5",
-        "fixed_path": "releases/public-0.35/works/pliny/index.html#p-10-96-9"
+        "fixed_path": "releases/public-0.35.1/works/pliny/index.html#p-10-96-9"
       }
     },
     {
@@ -1376,7 +1376,7 @@
       ],
       "work_passage_id": "pliny:10.96.10",
       "html_path": "works/pliny/index.html#p-10-96-10",
-      "fixed_html_path": "releases/public-0.35/works/pliny/index.html#p-10-96-10",
+      "fixed_html_path": "releases/public-0.35.1/works/pliny/index.html#p-10-96-10",
       "alignment_revision": "sha256:0306d3028c60c435f0beec95f7da1fb86a5f31e3867794f967a5945bc4234846",
       "review_state": {
         "human_reviewed": false,
@@ -1412,9 +1412,9 @@
         "work": "서간집",
         "reference": "10.96.10",
         "edition": "Perseus Digital Library의 Pliny, Letters 고정 라틴어 TEI. 전자본문은 편집자와 인쇄 연도를 명시하지 않는다. 10.96-97 사용.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:9793b6e22c11a734d185b0238dd60a6e2017da37c4336086a41dc8e35bf7bda8",
-        "fixed_path": "releases/public-0.35/works/pliny/index.html#p-10-96-10"
+        "fixed_path": "releases/public-0.35.1/works/pliny/index.html#p-10-96-10"
       }
     },
     {
@@ -1494,7 +1494,7 @@
       ],
       "work_passage_id": "pliny:10.97.1",
       "html_path": "works/pliny/index.html#p-10-97-1",
-      "fixed_html_path": "releases/public-0.35/works/pliny/index.html#p-10-97-1",
+      "fixed_html_path": "releases/public-0.35.1/works/pliny/index.html#p-10-97-1",
       "alignment_revision": "sha256:623756c4f187e793f125a0e8cfbbd8b99fee5fc5e32ddbadc1a56f0c142504f6",
       "review_state": {
         "human_reviewed": false,
@@ -1530,9 +1530,9 @@
         "work": "서간집",
         "reference": "10.97.1",
         "edition": "Perseus Digital Library의 Pliny, Letters 고정 라틴어 TEI. 전자본문은 편집자와 인쇄 연도를 명시하지 않는다. 10.96-97 사용.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:183e7e84b14034a56264a8cdc89a11d3980b5e7c6683afcdb433018ab0c9ddff",
-        "fixed_path": "releases/public-0.35/works/pliny/index.html#p-10-97-1"
+        "fixed_path": "releases/public-0.35.1/works/pliny/index.html#p-10-97-1"
       }
     },
     {
@@ -1649,7 +1649,7 @@
       ],
       "work_passage_id": "pliny:10.97.2",
       "html_path": "works/pliny/index.html#p-10-97-2",
-      "fixed_html_path": "releases/public-0.35/works/pliny/index.html#p-10-97-2",
+      "fixed_html_path": "releases/public-0.35.1/works/pliny/index.html#p-10-97-2",
       "alignment_revision": "sha256:f86b6598ef4a341b6eecfc44d7441ebd543a45f6f85f78703977f76635e91a44",
       "review_state": {
         "human_reviewed": false,
@@ -1685,9 +1685,9 @@
         "work": "서간집",
         "reference": "10.97.2",
         "edition": "Perseus Digital Library의 Pliny, Letters 고정 라틴어 TEI. 전자본문은 편집자와 인쇄 연도를 명시하지 않는다. 10.96-97 사용.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:d83900851f3d69cb2d90b32bbf8a4fc1a110e00336c9441e6092eb13fc8a37c2",
-        "fixed_path": "releases/public-0.35/works/pliny/index.html#p-10-97-2"
+        "fixed_path": "releases/public-0.35.1/works/pliny/index.html#p-10-97-2"
       }
     }
   ],
@@ -1704,14 +1704,14 @@
   "display_author": "소플리니우스·트라야누스",
   "scope": "서간집 10.96-97 두 서간 전체",
   "coverage": "complete_scope",
-  "release_id": "public-0.35",
+  "release_id": "public-0.35.1",
   "source_language": "lat",
   "source_kind": "edited_ancient_original",
   "human_reviewed": false,
   "translation_method": "고정 원어 본문에서 직접 번역",
   "html_path": "works/pliny/index.html",
   "json_path": "data/works/pliny.json",
-  "fixed_html_path": "releases/public-0.35/works/pliny/index.html",
+  "fixed_html_path": "releases/public-0.35.1/works/pliny/index.html",
   "source_profile": "pliny-pinned-tei-1",
   "source_decisions": [
     {

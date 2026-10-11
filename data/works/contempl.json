@@ -140,7 +140,7 @@
       ],
       "work_passage_id": "contempl:1",
       "html_path": "works/contempl/index.html#p-1",
-      "fixed_html_path": "releases/public-0.35/works/contempl/index.html#p-1",
+      "fixed_html_path": "releases/public-0.35.1/works/contempl/index.html#p-1",
       "alignment_revision": "sha256:d87a2d8d00e9bd09693eb9e8ab594270935c7ffca82feb6d3d347396ba2187d9",
       "review_state": {
         "human_reviewed": false,
@@ -176,9 +176,9 @@
         "work": "관조적 삶에 관하여",
         "reference": "1",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:cc9d67c7db66b020e4f5c906d0688fd511369a56eebed808f7ad951cb199b0a5",
-        "fixed_path": "releases/public-0.35/works/contempl/index.html#p-1"
+        "fixed_path": "releases/public-0.35.1/works/contempl/index.html#p-1"
       }
     },
     {
@@ -308,7 +308,7 @@
       ],
       "work_passage_id": "contempl:2",
       "html_path": "works/contempl/index.html#p-2",
-      "fixed_html_path": "releases/public-0.35/works/contempl/index.html#p-2",
+      "fixed_html_path": "releases/public-0.35.1/works/contempl/index.html#p-2",
       "alignment_revision": "sha256:62b19afa92763c55ceedd90ff50aee3cf8b5e60a4ea494dac8a3a9d9ce1bad6a",
       "review_state": {
         "human_reviewed": false,
@@ -344,9 +344,9 @@
         "work": "관조적 삶에 관하여",
         "reference": "2",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:40ec592e858d4138e24c33503f6b401b9bc98599e4a2b332f7054ea82dd1d6c6",
-        "fixed_path": "releases/public-0.35/works/contempl/index.html#p-2"
+        "fixed_path": "releases/public-0.35.1/works/contempl/index.html#p-2"
       }
     },
     {
@@ -450,7 +450,7 @@
       ],
       "work_passage_id": "contempl:3",
       "html_path": "works/contempl/index.html#p-3",
-      "fixed_html_path": "releases/public-0.35/works/contempl/index.html#p-3",
+      "fixed_html_path": "releases/public-0.35.1/works/contempl/index.html#p-3",
       "alignment_revision": "sha256:69ab613a9199823cf8d5b0b8559dacfeb91fa25add92fba11b9e2a33b8f6da0f",
       "review_state": {
         "human_reviewed": false,
@@ -486,9 +486,9 @@
         "work": "관조적 삶에 관하여",
         "reference": "3",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:a492a4d75de6e1b3f959f440a1ba37d7c66b8e82b9d3a2ffc4b9fdfe61047721",
-        "fixed_path": "releases/public-0.35/works/contempl/index.html#p-3"
+        "fixed_path": "releases/public-0.35.1/works/contempl/index.html#p-3"
       }
     },
     {
@@ -551,7 +551,7 @@
       "notes": [],
       "work_passage_id": "contempl:4",
       "html_path": "works/contempl/index.html#p-4",
-      "fixed_html_path": "releases/public-0.35/works/contempl/index.html#p-4",
+      "fixed_html_path": "releases/public-0.35.1/works/contempl/index.html#p-4",
       "alignment_revision": "sha256:cd0c5adc202ca69569b11f504ef5234b15e30a10cf37698a608bf7a9fcef18be",
       "review_state": {
         "human_reviewed": false,
@@ -587,9 +587,9 @@
         "work": "관조적 삶에 관하여",
         "reference": "4",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:f8e759bec2c0a1528984251fa1fa5941eebf8281fd202cb9ba8ac623436e613b",
-        "fixed_path": "releases/public-0.35/works/contempl/index.html#p-4"
+        "fixed_path": "releases/public-0.35.1/works/contempl/index.html#p-4"
       }
     },
     {
@@ -665,7 +665,7 @@
       "notes": [],
       "work_passage_id": "contempl:5",
       "html_path": "works/contempl/index.html#p-5",
-      "fixed_html_path": "releases/public-0.35/works/contempl/index.html#p-5",
+      "fixed_html_path": "releases/public-0.35.1/works/contempl/index.html#p-5",
       "alignment_revision": "sha256:43e07c58b33954f7cfc2b1e747b15d6851e1adc2bed37f9b96e300e74a89eb98",
       "review_state": {
         "human_reviewed": false,
@@ -701,9 +701,9 @@
         "work": "관조적 삶에 관하여",
         "reference": "5",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:118ec4a797db5878adf128a63656ce8f6b42678889cfcb0a12e670f3aca96562",
-        "fixed_path": "releases/public-0.35/works/contempl/index.html#p-5"
+        "fixed_path": "releases/public-0.35.1/works/contempl/index.html#p-5"
       }
     },
     {
@@ -805,7 +805,7 @@
       "notes": [],
       "work_passage_id": "contempl:6",
       "html_path": "works/contempl/index.html#p-6",
-      "fixed_html_path": "releases/public-0.35/works/contempl/index.html#p-6",
+      "fixed_html_path": "releases/public-0.35.1/works/contempl/index.html#p-6",
       "alignment_revision": "sha256:f6f1ff44c25f37b3fdf1a5f36b957d314f1b2610ae0a5b4d96ba85cb69db1ebb",
       "review_state": {
         "human_reviewed": false,
@@ -841,9 +841,9 @@
         "work": "관조적 삶에 관하여",
         "reference": "6",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:46cf83f45ced755a05a57c5617d4b62f6d796f3b45e82485a82a4be8ebde0e14",
-        "fixed_path": "releases/public-0.35/works/contempl/index.html#p-6"
+        "fixed_path": "releases/public-0.35.1/works/contempl/index.html#p-6"
       }
     },
     {
@@ -932,7 +932,7 @@
       "notes": [],
       "work_passage_id": "contempl:7",
       "html_path": "works/contempl/index.html#p-7",
-      "fixed_html_path": "releases/public-0.35/works/contempl/index.html#p-7",
+      "fixed_html_path": "releases/public-0.35.1/works/contempl/index.html#p-7",
       "alignment_revision": "sha256:a4d73b7254ea463588a1e4a2836076189ce2f4c2aaae001380497a0c2309e21e",
       "review_state": {
         "human_reviewed": false,
@@ -968,9 +968,9 @@
         "work": "관조적 삶에 관하여",
         "reference": "7",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:21d06536a15cdb81a7e0a6b4b1e6ed8e1859e98f7e0680f2b7c586ae582b42ee",
-        "fixed_path": "releases/public-0.35/works/contempl/index.html#p-7"
+        "fixed_path": "releases/public-0.35.1/works/contempl/index.html#p-7"
       }
     },
     {
@@ -1059,7 +1059,7 @@
       "notes": [],
       "work_passage_id": "contempl:8",
       "html_path": "works/contempl/index.html#p-8",
-      "fixed_html_path": "releases/public-0.35/works/contempl/index.html#p-8",
+      "fixed_html_path": "releases/public-0.35.1/works/contempl/index.html#p-8",
       "alignment_revision": "sha256:75f1dce4c6bdd05215e6e64cf16b0e238a2d8bddd8cb253fd6e33c833c9298fa",
       "review_state": {
         "human_reviewed": false,
@@ -1095,9 +1095,9 @@
         "work": "관조적 삶에 관하여",
         "reference": "8",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:37aef37beac59a71b22d4e04230af34b12a99b7436c4ae746b1045a813a14058",
-        "fixed_path": "releases/public-0.35/works/contempl/index.html#p-8"
+        "fixed_path": "releases/public-0.35.1/works/contempl/index.html#p-8"
       }
     },
     {
@@ -1173,7 +1173,7 @@
       "notes": [],
       "work_passage_id": "contempl:9",
       "html_path": "works/contempl/index.html#p-9",
-      "fixed_html_path": "releases/public-0.35/works/contempl/index.html#p-9",
+      "fixed_html_path": "releases/public-0.35.1/works/contempl/index.html#p-9",
       "alignment_revision": "sha256:9872c316ade1254bc099ffed7f51cc3ea678dbe65fc20a2466aed4165b02f011",
       "review_state": {
         "human_reviewed": false,
@@ -1209,9 +1209,9 @@
         "work": "관조적 삶에 관하여",
         "reference": "9",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:11c075f0add385945ab744b17138d6190f986bfb96c0513ac8d82dcc4a65e6dd",
-        "fixed_path": "releases/public-0.35/works/contempl/index.html#p-9"
+        "fixed_path": "releases/public-0.35.1/works/contempl/index.html#p-9"
       }
     },
     {
@@ -1287,7 +1287,7 @@
       "notes": [],
       "work_passage_id": "contempl:10",
       "html_path": "works/contempl/index.html#p-10",
-      "fixed_html_path": "releases/public-0.35/works/contempl/index.html#p-10",
+      "fixed_html_path": "releases/public-0.35.1/works/contempl/index.html#p-10",
       "alignment_revision": "sha256:e563c25f9d742f2df7943e6ca7e151f58c6d35dced7d297c673e4de31a556464",
       "review_state": {
         "human_reviewed": false,
@@ -1323,9 +1323,9 @@
         "work": "관조적 삶에 관하여",
         "reference": "10",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:19ef172277551aa770c7567ed6271c46660da72619a87b178eb46f1b7412162c",
-        "fixed_path": "releases/public-0.35/works/contempl/index.html#p-10"
+        "fixed_path": "releases/public-0.35.1/works/contempl/index.html#p-10"
       }
     },
     {
@@ -1401,7 +1401,7 @@
       "notes": [],
       "work_passage_id": "contempl:11",
       "html_path": "works/contempl/index.html#p-11",
-      "fixed_html_path": "releases/public-0.35/works/contempl/index.html#p-11",
+      "fixed_html_path": "releases/public-0.35.1/works/contempl/index.html#p-11",
       "alignment_revision": "sha256:964873b9890555b521a4379b07870e54991947c94266e352e7c5ffd36b5e8d17",
       "review_state": {
         "human_reviewed": false,
@@ -1437,9 +1437,9 @@
         "work": "관조적 삶에 관하여",
         "reference": "11",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:f92533e27a353bda37b97f540f5993a39540452edd2f52d5b877c28c9c90ef0b",
-        "fixed_path": "releases/public-0.35/works/contempl/index.html#p-11"
+        "fixed_path": "releases/public-0.35.1/works/contempl/index.html#p-11"
       }
     },
     {
@@ -1504,7 +1504,7 @@
       ],
       "work_passage_id": "contempl:12",
       "html_path": "works/contempl/index.html#p-12",
-      "fixed_html_path": "releases/public-0.35/works/contempl/index.html#p-12",
+      "fixed_html_path": "releases/public-0.35.1/works/contempl/index.html#p-12",
       "alignment_revision": "sha256:19b2ca721fc2e565910a5760cbeafe26c9010196990537468dfbd8e4fd73d2e7",
       "review_state": {
         "human_reviewed": false,
@@ -1540,9 +1540,9 @@
         "work": "관조적 삶에 관하여",
         "reference": "12",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:a9cac56a61fe2db63f1c925eec087974da404d456c9be15cb3eaaaab29eaa2cb",
-        "fixed_path": "releases/public-0.35/works/contempl/index.html#p-12"
+        "fixed_path": "releases/public-0.35.1/works/contempl/index.html#p-12"
       }
     },
     {
@@ -1633,7 +1633,7 @@
       ],
       "work_passage_id": "contempl:13",
       "html_path": "works/contempl/index.html#p-13",
-      "fixed_html_path": "releases/public-0.35/works/contempl/index.html#p-13",
+      "fixed_html_path": "releases/public-0.35.1/works/contempl/index.html#p-13",
       "alignment_revision": "sha256:08ea9497889d9a0484b71f20c68c3c3c128ce416e257b4eca21f940ece6b9a75",
       "review_state": {
         "human_reviewed": false,
@@ -1669,9 +1669,9 @@
         "work": "관조적 삶에 관하여",
         "reference": "13",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:d0efe983a23d6c05a33985101c6cd1769485ff00fc93908bb6b2c935384fd34f",
-        "fixed_path": "releases/public-0.35/works/contempl/index.html#p-13"
+        "fixed_path": "releases/public-0.35.1/works/contempl/index.html#p-13"
       }
     },
     {
@@ -1760,7 +1760,7 @@
       "notes": [],
       "work_passage_id": "contempl:14",
       "html_path": "works/contempl/index.html#p-14",
-      "fixed_html_path": "releases/public-0.35/works/contempl/index.html#p-14",
+      "fixed_html_path": "releases/public-0.35.1/works/contempl/index.html#p-14",
       "alignment_revision": "sha256:b555fce07b225e1ae3bec9c49b41e471246777d6cc9c5b008d0a888320be454e",
       "review_state": {
         "human_reviewed": false,
@@ -1796,9 +1796,9 @@
         "work": "관조적 삶에 관하여",
         "reference": "14",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:e2ca9f1ddd4191c827e0c219179d77b9bd4192e7fd0ef37e1357431d06d4c8b3",
-        "fixed_path": "releases/public-0.35/works/contempl/index.html#p-14"
+        "fixed_path": "releases/public-0.35.1/works/contempl/index.html#p-14"
       }
     },
     {
@@ -1861,7 +1861,7 @@
       "notes": [],
       "work_passage_id": "contempl:15",
       "html_path": "works/contempl/index.html#p-15",
-      "fixed_html_path": "releases/public-0.35/works/contempl/index.html#p-15",
+      "fixed_html_path": "releases/public-0.35.1/works/contempl/index.html#p-15",
       "alignment_revision": "sha256:04a00afb5238856febb98919109ff5c95a238c28367836b906c5a9ec5d8058ad",
       "review_state": {
         "human_reviewed": false,
@@ -1897,9 +1897,9 @@
         "work": "관조적 삶에 관하여",
         "reference": "15",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:5e50b239431f5a48fd0b7559269abca9fd784c852d09f18bba30baf1e266a47b",
-        "fixed_path": "releases/public-0.35/works/contempl/index.html#p-15"
+        "fixed_path": "releases/public-0.35.1/works/contempl/index.html#p-15"
       }
     },
     {
@@ -1988,7 +1988,7 @@
       "notes": [],
       "work_passage_id": "contempl:16",
       "html_path": "works/contempl/index.html#p-16",
-      "fixed_html_path": "releases/public-0.35/works/contempl/index.html#p-16",
+      "fixed_html_path": "releases/public-0.35.1/works/contempl/index.html#p-16",
       "alignment_revision": "sha256:2c8be8ee992dcf9d75f3ed92e880592693870637db4e0b467d67037ef360022e",
       "review_state": {
         "human_reviewed": false,
@@ -2024,9 +2024,9 @@
         "work": "관조적 삶에 관하여",
         "reference": "16",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:7711df83664ff67f7d64f49d6e82ca32046828549f95d8ce101672976df1854f",
-        "fixed_path": "releases/public-0.35/works/contempl/index.html#p-16"
+        "fixed_path": "releases/public-0.35.1/works/contempl/index.html#p-16"
       }
     },
     {
@@ -2130,7 +2130,7 @@
       ],
       "work_passage_id": "contempl:17",
       "html_path": "works/contempl/index.html#p-17",
-      "fixed_html_path": "releases/public-0.35/works/contempl/index.html#p-17",
+      "fixed_html_path": "releases/public-0.35.1/works/contempl/index.html#p-17",
       "alignment_revision": "sha256:2d75dbbd5fd8ccdc8b92cd6617c1f43fcb34ea79b58c4eb9299723527cc8cc3d",
       "review_state": {
         "human_reviewed": false,
@@ -2166,9 +2166,9 @@
         "work": "관조적 삶에 관하여",
         "reference": "17",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:25066a53629feb663c6442d2f4e26bef45bac8f756dd2285b5b271f3d5976a30",
-        "fixed_path": "releases/public-0.35/works/contempl/index.html#p-17"
+        "fixed_path": "releases/public-0.35.1/works/contempl/index.html#p-17"
       }
     },
     {
@@ -2231,7 +2231,7 @@
       "notes": [],
       "work_passage_id": "contempl:18",
       "html_path": "works/contempl/index.html#p-18",
-      "fixed_html_path": "releases/public-0.35/works/contempl/index.html#p-18",
+      "fixed_html_path": "releases/public-0.35.1/works/contempl/index.html#p-18",
       "alignment_revision": "sha256:e51fd4ad67ca4e462f4e2a990dd996922c5413143c1b18cad5d699606fdf0234",
       "review_state": {
         "human_reviewed": false,
@@ -2267,9 +2267,9 @@
         "work": "관조적 삶에 관하여",
         "reference": "18",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:3a03bad1c9790a06018048729f5ce050bd49de4573a29c1397f6d14e03ad01a9",
-        "fixed_path": "releases/public-0.35/works/contempl/index.html#p-18"
+        "fixed_path": "releases/public-0.35.1/works/contempl/index.html#p-18"
       }
     },
     {
@@ -2345,7 +2345,7 @@
       "notes": [],
       "work_passage_id": "contempl:19",
       "html_path": "works/contempl/index.html#p-19",
-      "fixed_html_path": "releases/public-0.35/works/contempl/index.html#p-19",
+      "fixed_html_path": "releases/public-0.35.1/works/contempl/index.html#p-19",
       "alignment_revision": "sha256:f7a8cb218f9a4fcb3e8d43340e95a538b57e9d4bd494244ad0b1b11711957b74",
       "review_state": {
         "human_reviewed": false,
@@ -2381,9 +2381,9 @@
         "work": "관조적 삶에 관하여",
         "reference": "19",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:037ceaf3ef970e8f52a3d668086ae37c24996a3514923df33d5c3baf07512b65",
-        "fixed_path": "releases/public-0.35/works/contempl/index.html#p-19"
+        "fixed_path": "releases/public-0.35.1/works/contempl/index.html#p-19"
       }
     },
     {
@@ -2461,7 +2461,7 @@
       ],
       "work_passage_id": "contempl:20",
       "html_path": "works/contempl/index.html#p-20",
-      "fixed_html_path": "releases/public-0.35/works/contempl/index.html#p-20",
+      "fixed_html_path": "releases/public-0.35.1/works/contempl/index.html#p-20",
       "alignment_revision": "sha256:25a9042087757d12c4dee9ff98527cc5d647890f29765000801710cc412dc06f",
       "review_state": {
         "human_reviewed": false,
@@ -2497,9 +2497,9 @@
         "work": "관조적 삶에 관하여",
         "reference": "20",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:af656752ab4d15a4c736a59b8386b5dafa0678277c6c72c12785681536420722",
-        "fixed_path": "releases/public-0.35/works/contempl/index.html#p-20"
+        "fixed_path": "releases/public-0.35.1/works/contempl/index.html#p-20"
       }
     },
     {
@@ -2564,7 +2564,7 @@
       ],
       "work_passage_id": "contempl:21",
       "html_path": "works/contempl/index.html#p-21",
-      "fixed_html_path": "releases/public-0.35/works/contempl/index.html#p-21",
+      "fixed_html_path": "releases/public-0.35.1/works/contempl/index.html#p-21",
       "alignment_revision": "sha256:342952629c5953200192d7ffd9ba256f58e197be145421b777980a57de178ce6",
       "review_state": {
         "human_reviewed": false,
@@ -2600,9 +2600,9 @@
         "work": "관조적 삶에 관하여",
         "reference": "21",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:81092ac1532b47c185d8321dfb63c33c1dbbebffa7f815cd6fefd8b91fc852a0",
-        "fixed_path": "releases/public-0.35/works/contempl/index.html#p-21"
+        "fixed_path": "releases/public-0.35.1/works/contempl/index.html#p-21"
       }
     },
     {
@@ -2690,7 +2690,7 @@
       ],
       "work_passage_id": "contempl:22",
       "html_path": "works/contempl/index.html#p-22",
-      "fixed_html_path": "releases/public-0.35/works/contempl/index.html#p-22",
+      "fixed_html_path": "releases/public-0.35.1/works/contempl/index.html#p-22",
       "alignment_revision": "sha256:2197e7e3ed8b6466e76856742365820d1666629d085acede737995e72d699284",
       "review_state": {
         "human_reviewed": false,
@@ -2726,9 +2726,9 @@
         "work": "관조적 삶에 관하여",
         "reference": "22",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:3d11913a9757fe02501ba0707c4e3a0e6b94d07cccd5a63ce44d7d5386c17b44",
-        "fixed_path": "releases/public-0.35/works/contempl/index.html#p-22"
+        "fixed_path": "releases/public-0.35.1/works/contempl/index.html#p-22"
       }
     },
     {
@@ -2804,7 +2804,7 @@
       "notes": [],
       "work_passage_id": "contempl:23",
       "html_path": "works/contempl/index.html#p-23",
-      "fixed_html_path": "releases/public-0.35/works/contempl/index.html#p-23",
+      "fixed_html_path": "releases/public-0.35.1/works/contempl/index.html#p-23",
       "alignment_revision": "sha256:d592b91d96b1feb8f74a915305c9e6e1359209bd6cdad2e69997267099334c3f",
       "review_state": {
         "human_reviewed": false,
@@ -2840,9 +2840,9 @@
         "work": "관조적 삶에 관하여",
         "reference": "23",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:ef16183c28a3fce509122650d9d7c9a5e348936ca44ebc6bd101ce6926ebaf41",
-        "fixed_path": "releases/public-0.35/works/contempl/index.html#p-23"
+        "fixed_path": "releases/public-0.35.1/works/contempl/index.html#p-23"
       }
     },
     {
@@ -2944,7 +2944,7 @@
       "notes": [],
       "work_passage_id": "contempl:24",
       "html_path": "works/contempl/index.html#p-24",
-      "fixed_html_path": "releases/public-0.35/works/contempl/index.html#p-24",
+      "fixed_html_path": "releases/public-0.35.1/works/contempl/index.html#p-24",
       "alignment_revision": "sha256:936c1db1eccc1c7bcbc2a5eecde0cc78a140104c7535bb0d509c191f695e204d",
       "review_state": {
         "human_reviewed": false,
@@ -2980,9 +2980,9 @@
         "work": "관조적 삶에 관하여",
         "reference": "24",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:73a7e34fcf1499acb7165e31e87eb3e1d6aa4db53fbaff141b59c39db1711d38",
-        "fixed_path": "releases/public-0.35/works/contempl/index.html#p-24"
+        "fixed_path": "releases/public-0.35.1/works/contempl/index.html#p-24"
       }
     },
     {
@@ -3073,7 +3073,7 @@
       ],
       "work_passage_id": "contempl:25",
       "html_path": "works/contempl/index.html#p-25",
-      "fixed_html_path": "releases/public-0.35/works/contempl/index.html#p-25",
+      "fixed_html_path": "releases/public-0.35.1/works/contempl/index.html#p-25",
       "alignment_revision": "sha256:b80f5465ba831f6a4fbe20456a679c2fbb84682feacf8c75e272a8ec726536ea",
       "review_state": {
         "human_reviewed": false,
@@ -3109,9 +3109,9 @@
         "work": "관조적 삶에 관하여",
         "reference": "25",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:7de5fa76a4aaa47b19321e994fe8ae6ee036a38db52a4d7b61c6530ae5988f6f",
-        "fixed_path": "releases/public-0.35/works/contempl/index.html#p-25"
+        "fixed_path": "releases/public-0.35.1/works/contempl/index.html#p-25"
       }
     },
     {
@@ -3174,7 +3174,7 @@
       "notes": [],
       "work_passage_id": "contempl:26",
       "html_path": "works/contempl/index.html#p-26",
-      "fixed_html_path": "releases/public-0.35/works/contempl/index.html#p-26",
+      "fixed_html_path": "releases/public-0.35.1/works/contempl/index.html#p-26",
       "alignment_revision": "sha256:7d44dc3cd460a63c76eb856669d86ef6de0c76f8a8846618738f7dda4010667d",
       "review_state": {
         "human_reviewed": false,
@@ -3210,9 +3210,9 @@
         "work": "관조적 삶에 관하여",
         "reference": "26",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:8d9a2fd48b56b6e1aaf68ac3a2d38e61edfa0ebe1c3ddbb398353fe05245e41f",
-        "fixed_path": "releases/public-0.35/works/contempl/index.html#p-26"
+        "fixed_path": "releases/public-0.35.1/works/contempl/index.html#p-26"
       }
     },
     {
@@ -3303,7 +3303,7 @@
       ],
       "work_passage_id": "contempl:27",
       "html_path": "works/contempl/index.html#p-27",
-      "fixed_html_path": "releases/public-0.35/works/contempl/index.html#p-27",
+      "fixed_html_path": "releases/public-0.35.1/works/contempl/index.html#p-27",
       "alignment_revision": "sha256:37cfad8ea13b1e6eab6db7a9964769b6ed2d1e200b30ac7bec972f9f28843a98",
       "review_state": {
         "human_reviewed": false,
@@ -3339,9 +3339,9 @@
         "work": "관조적 삶에 관하여",
         "reference": "27",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:90f5a450764abe5de41131cf563923c0ede4bd1a49ae253fefeaa3547bbf46bd",
-        "fixed_path": "releases/public-0.35/works/contempl/index.html#p-27"
+        "fixed_path": "releases/public-0.35.1/works/contempl/index.html#p-27"
       }
     },
     {
@@ -3406,7 +3406,7 @@
       ],
       "work_passage_id": "contempl:28",
       "html_path": "works/contempl/index.html#p-28",
-      "fixed_html_path": "releases/public-0.35/works/contempl/index.html#p-28",
+      "fixed_html_path": "releases/public-0.35.1/works/contempl/index.html#p-28",
       "alignment_revision": "sha256:d84835d9f95b1d5efda04e520613125eb1db8678c0fa0d07039f61d05fe7a4b9",
       "review_state": {
         "human_reviewed": false,
@@ -3442,9 +3442,9 @@
         "work": "관조적 삶에 관하여",
         "reference": "28",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:69d119c299cf78f63b0d054e83e989d9752d7166ffebdc15aa87edc390ed328c",
-        "fixed_path": "releases/public-0.35/works/contempl/index.html#p-28"
+        "fixed_path": "releases/public-0.35.1/works/contempl/index.html#p-28"
       }
     },
     {
@@ -3533,7 +3533,7 @@
       "notes": [],
       "work_passage_id": "contempl:29",
       "html_path": "works/contempl/index.html#p-29",
-      "fixed_html_path": "releases/public-0.35/works/contempl/index.html#p-29",
+      "fixed_html_path": "releases/public-0.35.1/works/contempl/index.html#p-29",
       "alignment_revision": "sha256:41678ab3b3cdb02e9bfa6ddb7e8dd7d6425502ed600c2f1d1c965a883d9e856a",
       "review_state": {
         "human_reviewed": false,
@@ -3569,9 +3569,9 @@
         "work": "관조적 삶에 관하여",
         "reference": "29",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:62bc4a12c82330e99a43d3e2b30d810219594d3c131aa019c489941642ef66e2",
-        "fixed_path": "releases/public-0.35/works/contempl/index.html#p-29"
+        "fixed_path": "releases/public-0.35.1/works/contempl/index.html#p-29"
       }
     },
     {
@@ -3649,7 +3649,7 @@
       ],
       "work_passage_id": "contempl:30",
       "html_path": "works/contempl/index.html#p-30",
-      "fixed_html_path": "releases/public-0.35/works/contempl/index.html#p-30",
+      "fixed_html_path": "releases/public-0.35.1/works/contempl/index.html#p-30",
       "alignment_revision": "sha256:d6b64b0cc7182965bfb4d088bcf9213d864540a8606c3c15674ac9c54ed0b0a4",
       "review_state": {
         "human_reviewed": false,
@@ -3685,9 +3685,9 @@
         "work": "관조적 삶에 관하여",
         "reference": "30",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:38bd5e0b5ff4742a829bdadcc7f75dbcebc41eb960977435db311f25a28617db",
-        "fixed_path": "releases/public-0.35/works/contempl/index.html#p-30"
+        "fixed_path": "releases/public-0.35.1/works/contempl/index.html#p-30"
       }
     },
     {
@@ -3789,7 +3789,7 @@
       "notes": [],
       "work_passage_id": "contempl:31",
       "html_path": "works/contempl/index.html#p-31",
-      "fixed_html_path": "releases/public-0.35/works/contempl/index.html#p-31",
+      "fixed_html_path": "releases/public-0.35.1/works/contempl/index.html#p-31",
       "alignment_revision": "sha256:9aa7b94a1f5102a06db9088c334d101f40d74998f2a23a6e467d6f9aa30cb43e",
       "review_state": {
         "human_reviewed": false,
@@ -3825,9 +3825,9 @@
         "work": "관조적 삶에 관하여",
         "reference": "31",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:d0aaa3529c70d34f1e63f414712c877070f8c882452e542b4d4cedb3910b9382",
-        "fixed_path": "releases/public-0.35/works/contempl/index.html#p-31"
+        "fixed_path": "releases/public-0.35.1/works/contempl/index.html#p-31"
       }
     },
     {
@@ -3890,7 +3890,7 @@
       "notes": [],
       "work_passage_id": "contempl:32",
       "html_path": "works/contempl/index.html#p-32",
-      "fixed_html_path": "releases/public-0.35/works/contempl/index.html#p-32",
+      "fixed_html_path": "releases/public-0.35.1/works/contempl/index.html#p-32",
       "alignment_revision": "sha256:77ef73e97cf7346bba3344d480128ad6771b957b54aad536fcfb2c550112cb63",
       "review_state": {
         "human_reviewed": false,
@@ -3926,9 +3926,9 @@
         "work": "관조적 삶에 관하여",
         "reference": "32",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:adc72f579542267fd07cf9fcb4bbe02b7db5020d3f8ec58e7110757ae87adb23",
-        "fixed_path": "releases/public-0.35/works/contempl/index.html#p-32"
+        "fixed_path": "releases/public-0.35.1/works/contempl/index.html#p-32"
       }
     },
     {
@@ -4019,7 +4019,7 @@
       ],
       "work_passage_id": "contempl:33",
       "html_path": "works/contempl/index.html#p-33",
-      "fixed_html_path": "releases/public-0.35/works/contempl/index.html#p-33",
+      "fixed_html_path": "releases/public-0.35.1/works/contempl/index.html#p-33",
       "alignment_revision": "sha256:21ac7bd2a92b86117103cd8d23853d499d56514b558f9b9ca4657c07c9d501b5",
       "review_state": {
         "human_reviewed": false,
@@ -4055,9 +4055,9 @@
         "work": "관조적 삶에 관하여",
         "reference": "33",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:327d9db453420198128c144333411d6f167447d7f61d3bf10ce49483a0272f14",
-        "fixed_path": "releases/public-0.35/works/contempl/index.html#p-33"
+        "fixed_path": "releases/public-0.35.1/works/contempl/index.html#p-33"
       }
     },
     {
@@ -4146,7 +4146,7 @@
       "notes": [],
       "work_passage_id": "contempl:34",
       "html_path": "works/contempl/index.html#p-34",
-      "fixed_html_path": "releases/public-0.35/works/contempl/index.html#p-34",
+      "fixed_html_path": "releases/public-0.35.1/works/contempl/index.html#p-34",
       "alignment_revision": "sha256:90fca09964a0ef6d7c957e6d087c839a0934e0c8c79aa50b9d06f51d625238b3",
       "review_state": {
         "human_reviewed": false,
@@ -4182,9 +4182,9 @@
         "work": "관조적 삶에 관하여",
         "reference": "34",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:25a8610dcd6d001fddc103dc2886d4c8c571b578daeec5f006f55fd1d1b0c8bf",
-        "fixed_path": "releases/public-0.35/works/contempl/index.html#p-34"
+        "fixed_path": "releases/public-0.35.1/works/contempl/index.html#p-34"
       }
     },
     {
@@ -4275,7 +4275,7 @@
       ],
       "work_passage_id": "contempl:35",
       "html_path": "works/contempl/index.html#p-35",
-      "fixed_html_path": "releases/public-0.35/works/contempl/index.html#p-35",
+      "fixed_html_path": "releases/public-0.35.1/works/contempl/index.html#p-35",
       "alignment_revision": "sha256:f04b95504cd546a99ad571194a5f88b2807657d6d150b383a78bc5c659bacba5",
       "review_state": {
         "human_reviewed": false,
@@ -4311,9 +4311,9 @@
         "work": "관조적 삶에 관하여",
         "reference": "35",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:dbc14fdbd54730f4c5964f75d83018e2d7516a0eec985a5168b8a10ef226b239",
-        "fixed_path": "releases/public-0.35/works/contempl/index.html#p-35"
+        "fixed_path": "releases/public-0.35.1/works/contempl/index.html#p-35"
       }
     },
     {
@@ -4363,7 +4363,7 @@
       "notes": [],
       "work_passage_id": "contempl:36",
       "html_path": "works/contempl/index.html#p-36",
-      "fixed_html_path": "releases/public-0.35/works/contempl/index.html#p-36",
+      "fixed_html_path": "releases/public-0.35.1/works/contempl/index.html#p-36",
       "alignment_revision": "sha256:5d1ca8d549646ab94f98dc0f5b762ad2cab86462921599ce04d2bd62acb0f752",
       "review_state": {
         "human_reviewed": false,
@@ -4399,9 +4399,9 @@
         "work": "관조적 삶에 관하여",
         "reference": "36",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:eadb54ba91769d0c18b4f8026dd93045bd187e4ee82654b786251bd553136d81",
-        "fixed_path": "releases/public-0.35/works/contempl/index.html#p-36"
+        "fixed_path": "releases/public-0.35.1/works/contempl/index.html#p-36"
       }
     },
     {
@@ -4503,7 +4503,7 @@
       "notes": [],
       "work_passage_id": "contempl:37",
       "html_path": "works/contempl/index.html#p-37",
-      "fixed_html_path": "releases/public-0.35/works/contempl/index.html#p-37",
+      "fixed_html_path": "releases/public-0.35.1/works/contempl/index.html#p-37",
       "alignment_revision": "sha256:189500cad2d1ca47d13115d628fc28f6bf5d96e79458f490d7f83f7b9c871caa",
       "review_state": {
         "human_reviewed": false,
@@ -4539,9 +4539,9 @@
         "work": "관조적 삶에 관하여",
         "reference": "37",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:ce437f89b15d83bed75583982be97cc880e5bbc3d92a3973c76cd21f9e6d15d5",
-        "fixed_path": "releases/public-0.35/works/contempl/index.html#p-37"
+        "fixed_path": "releases/public-0.35.1/works/contempl/index.html#p-37"
       }
     },
     {
@@ -4617,7 +4617,7 @@
       "notes": [],
       "work_passage_id": "contempl:38",
       "html_path": "works/contempl/index.html#p-38",
-      "fixed_html_path": "releases/public-0.35/works/contempl/index.html#p-38",
+      "fixed_html_path": "releases/public-0.35.1/works/contempl/index.html#p-38",
       "alignment_revision": "sha256:1f0e2cca8477b567568612a256eafee56122103c385b61ef27f1c4fd111c12ea",
       "review_state": {
         "human_reviewed": false,
@@ -4653,9 +4653,9 @@
         "work": "관조적 삶에 관하여",
         "reference": "38",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:bef6743b9ea0178a2c24616a7d7d23a4e0d53af29a78fa78dae5a9fafcda82fa",
-        "fixed_path": "releases/public-0.35/works/contempl/index.html#p-38"
+        "fixed_path": "releases/public-0.35.1/works/contempl/index.html#p-38"
       }
     },
     {
@@ -4731,7 +4731,7 @@
       "notes": [],
       "work_passage_id": "contempl:39",
       "html_path": "works/contempl/index.html#p-39",
-      "fixed_html_path": "releases/public-0.35/works/contempl/index.html#p-39",
+      "fixed_html_path": "releases/public-0.35.1/works/contempl/index.html#p-39",
       "alignment_revision": "sha256:d0cdf1e62237cfceb07327d64d2ef55b9a77d44f53e36b65fd6076f302055374",
       "review_state": {
         "human_reviewed": false,
@@ -4767,9 +4767,9 @@
         "work": "관조적 삶에 관하여",
         "reference": "39",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:078f007bcafad3413377d2b76cd07afa0e4136ddfc2d131726bb1880452e9d54",
-        "fixed_path": "releases/public-0.35/works/contempl/index.html#p-39"
+        "fixed_path": "releases/public-0.35.1/works/contempl/index.html#p-39"
       }
     },
     {
@@ -4860,7 +4860,7 @@
       ],
       "work_passage_id": "contempl:40",
       "html_path": "works/contempl/index.html#p-40",
-      "fixed_html_path": "releases/public-0.35/works/contempl/index.html#p-40",
+      "fixed_html_path": "releases/public-0.35.1/works/contempl/index.html#p-40",
       "alignment_revision": "sha256:9b7290066cbac187a49f432d51cdd87d91722a0ebe05ffaf6abd68afd32a09db",
       "review_state": {
         "human_reviewed": false,
@@ -4896,9 +4896,9 @@
         "work": "관조적 삶에 관하여",
         "reference": "40",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:6d89894715ccfc39401b2437096693409823bae64adb2f18fef02f0f965556ae",
-        "fixed_path": "releases/public-0.35/works/contempl/index.html#p-40"
+        "fixed_path": "releases/public-0.35.1/works/contempl/index.html#p-40"
       }
     }
   ],
@@ -4922,14 +4922,14 @@
   "display_author": "필론",
   "scope": "관조적 삶에 관하여 1-40절 전체, 41-90절 미수록",
   "coverage": "complete_scope",
-  "release_id": "public-0.35",
+  "release_id": "public-0.35.1",
   "source_language": "grc",
   "source_kind": "edited_ancient_original",
   "human_reviewed": false,
   "translation_method": "고정 원어 본문에서 직접 번역",
   "html_path": "works/contempl/index.html",
   "json_path": "data/works/contempl.json",
-  "fixed_html_path": "releases/public-0.35/works/contempl/index.html",
+  "fixed_html_path": "releases/public-0.35.1/works/contempl/index.html",
   "source_profile": "contempl-first1k-03776b39",
   "source_decisions": [
     {

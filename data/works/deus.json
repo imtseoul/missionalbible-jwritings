@@ -88,7 +88,7 @@
       ],
       "work_passage_id": "deus:1",
       "html_path": "works/deus/index.html#p-1",
-      "fixed_html_path": "releases/public-0.35/works/deus/index.html#p-1",
+      "fixed_html_path": "releases/public-0.35.1/works/deus/index.html#p-1",
       "alignment_revision": "sha256:5d26e4721bf37536392eb9b35fbd32bc6408e0f3b68f7435f84305e422b71b15",
       "review_state": {
         "human_reviewed": false,
@@ -124,9 +124,9 @@
         "work": "하나님의 불변성에 관하여",
         "reference": "1",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:fce07efb691e6fb19a13c52c5d83f2b1ba868e9583ad090cefa566357fe7c8aa",
-        "fixed_path": "releases/public-0.35/works/deus/index.html#p-1"
+        "fixed_path": "releases/public-0.35.1/works/deus/index.html#p-1"
       }
     },
     {
@@ -175,7 +175,7 @@
       "notes": [],
       "work_passage_id": "deus:2",
       "html_path": "works/deus/index.html#p-2",
-      "fixed_html_path": "releases/public-0.35/works/deus/index.html#p-2",
+      "fixed_html_path": "releases/public-0.35.1/works/deus/index.html#p-2",
       "alignment_revision": "sha256:f68e0f19a802f4ee5944b20ab5e84d98a441082fd43e59e5c4475838b7d91f64",
       "review_state": {
         "human_reviewed": false,
@@ -211,9 +211,9 @@
         "work": "하나님의 불변성에 관하여",
         "reference": "2",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:276653d13c42e4773c83bc3e87ad902e60335bbabe3bac54d8d8396f7f28e7ac",
-        "fixed_path": "releases/public-0.35/works/deus/index.html#p-2"
+        "fixed_path": "releases/public-0.35.1/works/deus/index.html#p-2"
       }
     },
     {
@@ -301,7 +301,7 @@
       "notes": [],
       "work_passage_id": "deus:3",
       "html_path": "works/deus/index.html#p-3",
-      "fixed_html_path": "releases/public-0.35/works/deus/index.html#p-3",
+      "fixed_html_path": "releases/public-0.35.1/works/deus/index.html#p-3",
       "alignment_revision": "sha256:eb8b96a56c60cecdc5737ab8a7585fbddd3d0c2f78361163b520646081e2b7fb",
       "review_state": {
         "human_reviewed": false,
@@ -337,9 +337,9 @@
         "work": "하나님의 불변성에 관하여",
         "reference": "3",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:6071faa2d8aaeb54925edf6706d1cb8ef6a1b02fd51bb0efac67d7be779b2c6b",
-        "fixed_path": "releases/public-0.35/works/deus/index.html#p-3"
+        "fixed_path": "releases/public-0.35.1/works/deus/index.html#p-3"
       }
     },
     {
@@ -458,7 +458,7 @@
       ],
       "work_passage_id": "deus:4",
       "html_path": "works/deus/index.html#p-4",
-      "fixed_html_path": "releases/public-0.35/works/deus/index.html#p-4",
+      "fixed_html_path": "releases/public-0.35.1/works/deus/index.html#p-4",
       "alignment_revision": "sha256:34650f003fc397475a322403264e23fa76d1b0810f424b1b0448194bfc7031de",
       "review_state": {
         "human_reviewed": false,
@@ -494,9 +494,9 @@
         "work": "하나님의 불변성에 관하여",
         "reference": "4",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:d5d7437b149fd1f2c93b1db4e64584e99b48866bce6a8dfb113c96aa81d51a5a",
-        "fixed_path": "releases/public-0.35/works/deus/index.html#p-4"
+        "fixed_path": "releases/public-0.35.1/works/deus/index.html#p-4"
       }
     },
     {
@@ -610,7 +610,7 @@
       "notes": [],
       "work_passage_id": "deus:5",
       "html_path": "works/deus/index.html#p-5",
-      "fixed_html_path": "releases/public-0.35/works/deus/index.html#p-5",
+      "fixed_html_path": "releases/public-0.35.1/works/deus/index.html#p-5",
       "alignment_revision": "sha256:0dfd4b477443dda89f8b2a403941ac2026a95a9f9735e3766f5d7ae6dc0ca76a",
       "review_state": {
         "human_reviewed": false,
@@ -646,9 +646,9 @@
         "work": "하나님의 불변성에 관하여",
         "reference": "5",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:6d1f16cba8bffcef397ee52236af3bb6ae77549f7b1cb306352dc64c05f0a873",
-        "fixed_path": "releases/public-0.35/works/deus/index.html#p-5"
+        "fixed_path": "releases/public-0.35.1/works/deus/index.html#p-5"
       }
     },
     {
@@ -725,7 +725,7 @@
       ],
       "work_passage_id": "deus:6",
       "html_path": "works/deus/index.html#p-6",
-      "fixed_html_path": "releases/public-0.35/works/deus/index.html#p-6",
+      "fixed_html_path": "releases/public-0.35.1/works/deus/index.html#p-6",
       "alignment_revision": "sha256:cb51df1a17c14c2f1d93f62bc017986659f69f5c7f568496b3ebfd59bdac0872",
       "review_state": {
         "human_reviewed": false,
@@ -761,9 +761,9 @@
         "work": "하나님의 불변성에 관하여",
         "reference": "6",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:ee2ab296e872c700d946e1116689c3bf1677b912b6b8ace43bf6f375a55e732b",
-        "fixed_path": "releases/public-0.35/works/deus/index.html#p-6"
+        "fixed_path": "releases/public-0.35.1/works/deus/index.html#p-6"
       }
     },
     {
@@ -867,7 +867,7 @@
       "notes": [],
       "work_passage_id": "deus:7",
       "html_path": "works/deus/index.html#p-7",
-      "fixed_html_path": "releases/public-0.35/works/deus/index.html#p-7",
+      "fixed_html_path": "releases/public-0.35.1/works/deus/index.html#p-7",
       "alignment_revision": "sha256:e21654f6fdd062ef3b30cff26ee1bf744fc288b17e4b0dda7652ea0d60f096ef",
       "review_state": {
         "human_reviewed": false,
@@ -903,9 +903,9 @@
         "work": "하나님의 불변성에 관하여",
         "reference": "7",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:1e392d449c14ff72f0f22e1dce9448304385c40d8b8f362ee592ab01c58eb62d",
-        "fixed_path": "releases/public-0.35/works/deus/index.html#p-7"
+        "fixed_path": "releases/public-0.35.1/works/deus/index.html#p-7"
       }
     },
     {
@@ -995,7 +995,7 @@
       ],
       "work_passage_id": "deus:8",
       "html_path": "works/deus/index.html#p-8",
-      "fixed_html_path": "releases/public-0.35/works/deus/index.html#p-8",
+      "fixed_html_path": "releases/public-0.35.1/works/deus/index.html#p-8",
       "alignment_revision": "sha256:3b01888f59128a4566e55bf637fb5a3fd23340caceea2e0d79908e5ab66e4cd1",
       "review_state": {
         "human_reviewed": false,
@@ -1031,9 +1031,9 @@
         "work": "하나님의 불변성에 관하여",
         "reference": "8",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:10bf7655eed8f93ed9f883fbad2d8488bd12215827c1ccc834aac05c39ef2f0a",
-        "fixed_path": "releases/public-0.35/works/deus/index.html#p-8"
+        "fixed_path": "releases/public-0.35.1/works/deus/index.html#p-8"
       }
     },
     {
@@ -1095,7 +1095,7 @@
       "notes": [],
       "work_passage_id": "deus:9",
       "html_path": "works/deus/index.html#p-9",
-      "fixed_html_path": "releases/public-0.35/works/deus/index.html#p-9",
+      "fixed_html_path": "releases/public-0.35.1/works/deus/index.html#p-9",
       "alignment_revision": "sha256:900f13f8fdf271769f0a4a0386986d98497a5cf54662ef4f1103f9a52f9e5944",
       "review_state": {
         "human_reviewed": false,
@@ -1131,9 +1131,9 @@
         "work": "하나님의 불변성에 관하여",
         "reference": "9",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:d466fdc1420f82bf9d445a6d183b0663535e3977fa648eb0a6d87437c25f1b0c",
-        "fixed_path": "releases/public-0.35/works/deus/index.html#p-9"
+        "fixed_path": "releases/public-0.35.1/works/deus/index.html#p-9"
       }
     },
     {
@@ -1208,7 +1208,7 @@
       "notes": [],
       "work_passage_id": "deus:10",
       "html_path": "works/deus/index.html#p-10",
-      "fixed_html_path": "releases/public-0.35/works/deus/index.html#p-10",
+      "fixed_html_path": "releases/public-0.35.1/works/deus/index.html#p-10",
       "alignment_revision": "sha256:b52875ac01d426dc644624ad59502a429663527657d83cc39dd0a4ddfae0108c",
       "review_state": {
         "human_reviewed": false,
@@ -1244,9 +1244,9 @@
         "work": "하나님의 불변성에 관하여",
         "reference": "10",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:97871d2106e068be2b6394ae3d441e2bab6c5448ea38ac1133074596e4f204a2",
-        "fixed_path": "releases/public-0.35/works/deus/index.html#p-10"
+        "fixed_path": "releases/public-0.35.1/works/deus/index.html#p-10"
       }
     },
     {
@@ -1324,7 +1324,7 @@
       "notes": [],
       "work_passage_id": "deus:11",
       "html_path": "works/deus/index.html#p-11",
-      "fixed_html_path": "releases/public-0.35/works/deus/index.html#p-11",
+      "fixed_html_path": "releases/public-0.35.1/works/deus/index.html#p-11",
       "alignment_revision": "sha256:5d3b15d38f1dc8c89ae6fd9537316ba462fc27398b0f6ee7134379ed7cce0097",
       "review_state": {
         "human_reviewed": false,
@@ -1360,9 +1360,9 @@
         "work": "하나님의 불변성에 관하여",
         "reference": "11",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:6c53d3629b16d8d9578ef933b83febdd28ae035060cd82a1c9a00940443b1f3f",
-        "fixed_path": "releases/public-0.35/works/deus/index.html#p-11"
+        "fixed_path": "releases/public-0.35.1/works/deus/index.html#p-11"
       }
     },
     {
@@ -1424,7 +1424,7 @@
       "notes": [],
       "work_passage_id": "deus:12",
       "html_path": "works/deus/index.html#p-12",
-      "fixed_html_path": "releases/public-0.35/works/deus/index.html#p-12",
+      "fixed_html_path": "releases/public-0.35.1/works/deus/index.html#p-12",
       "alignment_revision": "sha256:97638d17c22eee40de26342c5db476d8f4511d46096c38b8071ae858da48bfde",
       "review_state": {
         "human_reviewed": false,
@@ -1460,9 +1460,9 @@
         "work": "하나님의 불변성에 관하여",
         "reference": "12",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:a9a422f075d1ed68a97037aa7d8ff3f54aa3a879da854041290192f32f2886f8",
-        "fixed_path": "releases/public-0.35/works/deus/index.html#p-12"
+        "fixed_path": "releases/public-0.35.1/works/deus/index.html#p-12"
       }
     },
     {
@@ -1539,7 +1539,7 @@
       ],
       "work_passage_id": "deus:13",
       "html_path": "works/deus/index.html#p-13",
-      "fixed_html_path": "releases/public-0.35/works/deus/index.html#p-13",
+      "fixed_html_path": "releases/public-0.35.1/works/deus/index.html#p-13",
       "alignment_revision": "sha256:9d503c2563f3a989325b056d65f122b37d10bad0f75e7d4cd70f7dc618fa49f9",
       "review_state": {
         "human_reviewed": false,
@@ -1575,9 +1575,9 @@
         "work": "하나님의 불변성에 관하여",
         "reference": "13",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:998601ad056b80074ba0908a44fc954ea2d5b861d214657d6aa3fea191963496",
-        "fixed_path": "releases/public-0.35/works/deus/index.html#p-13"
+        "fixed_path": "releases/public-0.35.1/works/deus/index.html#p-13"
       }
     },
     {
@@ -1652,7 +1652,7 @@
       "notes": [],
       "work_passage_id": "deus:14",
       "html_path": "works/deus/index.html#p-14",
-      "fixed_html_path": "releases/public-0.35/works/deus/index.html#p-14",
+      "fixed_html_path": "releases/public-0.35.1/works/deus/index.html#p-14",
       "alignment_revision": "sha256:7d31884f7c3d594f18f233453a6ab01611bd13d32b14b2d57033f8b365254df9",
       "review_state": {
         "human_reviewed": false,
@@ -1688,9 +1688,9 @@
         "work": "하나님의 불변성에 관하여",
         "reference": "14",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:dbe7c0d43cca0a2e06dfa21e6fd2c8a9e14b5f57e11a80c572c2acecf5876c6a",
-        "fixed_path": "releases/public-0.35/works/deus/index.html#p-14"
+        "fixed_path": "releases/public-0.35.1/works/deus/index.html#p-14"
       }
     },
     {
@@ -1778,7 +1778,7 @@
       "notes": [],
       "work_passage_id": "deus:15",
       "html_path": "works/deus/index.html#p-15",
-      "fixed_html_path": "releases/public-0.35/works/deus/index.html#p-15",
+      "fixed_html_path": "releases/public-0.35.1/works/deus/index.html#p-15",
       "alignment_revision": "sha256:2d2e804075524879e22e5411ebff8437de13f7260bc34950d01bd7e409fa31ed",
       "review_state": {
         "human_reviewed": false,
@@ -1814,9 +1814,9 @@
         "work": "하나님의 불변성에 관하여",
         "reference": "15",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:83bbf0ebc173cec67e06fbc5f04950f863dd4e5a8ea2207c0abc7dc6d573ee3f",
-        "fixed_path": "releases/public-0.35/works/deus/index.html#p-15"
+        "fixed_path": "releases/public-0.35.1/works/deus/index.html#p-15"
       }
     },
     {
@@ -1893,7 +1893,7 @@
       ],
       "work_passage_id": "deus:16",
       "html_path": "works/deus/index.html#p-16",
-      "fixed_html_path": "releases/public-0.35/works/deus/index.html#p-16",
+      "fixed_html_path": "releases/public-0.35.1/works/deus/index.html#p-16",
       "alignment_revision": "sha256:8c83ed6f643b6683348611392621807801f870bfca21e28333d1619735a5bc15",
       "review_state": {
         "human_reviewed": false,
@@ -1929,9 +1929,9 @@
         "work": "하나님의 불변성에 관하여",
         "reference": "16",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:e5b00c2e1a19656fd2c44ff8cbda516b364f76001789e38f96c3431b3de7ba16",
-        "fixed_path": "releases/public-0.35/works/deus/index.html#p-16"
+        "fixed_path": "releases/public-0.35.1/works/deus/index.html#p-16"
       }
     },
     {
@@ -2009,7 +2009,7 @@
       "notes": [],
       "work_passage_id": "deus:17",
       "html_path": "works/deus/index.html#p-17",
-      "fixed_html_path": "releases/public-0.35/works/deus/index.html#p-17",
+      "fixed_html_path": "releases/public-0.35.1/works/deus/index.html#p-17",
       "alignment_revision": "sha256:20317c6bd086a6006c68591f701bfa473948bf8548237ad5c35f9aea40adfaeb",
       "review_state": {
         "human_reviewed": false,
@@ -2045,9 +2045,9 @@
         "work": "하나님의 불변성에 관하여",
         "reference": "17",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:7c40b2d36fefff9fb595970379fea9a73c3e063bce493399a82f697d4abb7527",
-        "fixed_path": "releases/public-0.35/works/deus/index.html#p-17"
+        "fixed_path": "releases/public-0.35.1/works/deus/index.html#p-17"
       }
     },
     {
@@ -2109,7 +2109,7 @@
       "notes": [],
       "work_passage_id": "deus:18",
       "html_path": "works/deus/index.html#p-18",
-      "fixed_html_path": "releases/public-0.35/works/deus/index.html#p-18",
+      "fixed_html_path": "releases/public-0.35.1/works/deus/index.html#p-18",
       "alignment_revision": "sha256:ae6c5662ec7d965f5f9bd1a9b2f84b4655f47fba1e95b228ca24b01c71c3fcb6",
       "review_state": {
         "human_reviewed": false,
@@ -2145,9 +2145,9 @@
         "work": "하나님의 불변성에 관하여",
         "reference": "18",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:6a13dfc1521d2ae84c5af24bae0ee40c7dfd7c6d079e5789d5a78308e62b202b",
-        "fixed_path": "releases/public-0.35/works/deus/index.html#p-18"
+        "fixed_path": "releases/public-0.35.1/works/deus/index.html#p-18"
       }
     },
     {
@@ -2248,7 +2248,7 @@
       "notes": [],
       "work_passage_id": "deus:19",
       "html_path": "works/deus/index.html#p-19",
-      "fixed_html_path": "releases/public-0.35/works/deus/index.html#p-19",
+      "fixed_html_path": "releases/public-0.35.1/works/deus/index.html#p-19",
       "alignment_revision": "sha256:4496af3f8486e18e5d4b477265f0bfff485db0b771a2e2b44c945139840489ef",
       "review_state": {
         "human_reviewed": false,
@@ -2284,9 +2284,9 @@
         "work": "하나님의 불변성에 관하여",
         "reference": "19",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:7d72f7414c50fbe5d03b783840c7ecda82ed5e84fe1b58c4e4e52e8a005cb0e7",
-        "fixed_path": "releases/public-0.35/works/deus/index.html#p-19"
+        "fixed_path": "releases/public-0.35.1/works/deus/index.html#p-19"
       }
     },
     {
@@ -2376,7 +2376,7 @@
       ],
       "work_passage_id": "deus:20",
       "html_path": "works/deus/index.html#p-20",
-      "fixed_html_path": "releases/public-0.35/works/deus/index.html#p-20",
+      "fixed_html_path": "releases/public-0.35.1/works/deus/index.html#p-20",
       "alignment_revision": "sha256:a0cf7dc3313cff1adbaa03b95fddd0d88e9534801a3fb88e01eb9a3e5ea1fa56",
       "review_state": {
         "human_reviewed": false,
@@ -2412,9 +2412,9 @@
         "work": "하나님의 불변성에 관하여",
         "reference": "20",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:cb96237eeebdc2801eed23c0f272640d0be454a0d344bef613c864dfae69d6cb",
-        "fixed_path": "releases/public-0.35/works/deus/index.html#p-20"
+        "fixed_path": "releases/public-0.35.1/works/deus/index.html#p-20"
       }
     }
   ],
@@ -2437,14 +2437,14 @@
   "display_author": "필론",
   "scope": "하나님의 불변성에 관하여 1-20절 전체, 21-183절 미수록",
   "coverage": "complete_scope",
-  "release_id": "public-0.35",
+  "release_id": "public-0.35.1",
   "source_language": "grc",
   "source_kind": "edited_ancient_original",
   "human_reviewed": false,
   "translation_method": "고정 원어 본문에서 직접 번역",
   "html_path": "works/deus/index.html",
   "json_path": "data/works/deus.json",
-  "fixed_html_path": "releases/public-0.35/works/deus/index.html",
+  "fixed_html_path": "releases/public-0.35.1/works/deus/index.html",
   "source_profile": "deus-first1k-03776b39",
   "source_decisions": [
     {

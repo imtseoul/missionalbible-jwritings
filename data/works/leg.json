@@ -128,7 +128,7 @@
       ],
       "work_passage_id": "leg:1.1",
       "html_path": "works/leg/index.html#p-1-1",
-      "fixed_html_path": "releases/public-0.35/works/leg/index.html#p-1-1",
+      "fixed_html_path": "releases/public-0.35.1/works/leg/index.html#p-1-1",
       "alignment_revision": "sha256:67050a30080c56197652f73cf81bb1b6b88fbb106761a37da665697dfcc9e4c1",
       "review_state": {
         "human_reviewed": false,
@@ -164,9 +164,9 @@
         "work": "율법의 알레고리",
         "reference": "1.1",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:b98ab5e49c50a03719d801a513be356adfeacb421785ed58083be8d2f10252af",
-        "fixed_path": "releases/public-0.35/works/leg/index.html#p-1-1"
+        "fixed_path": "releases/public-0.35.1/works/leg/index.html#p-1-1"
       }
     },
     {
@@ -286,7 +286,7 @@
       ],
       "work_passage_id": "leg:1.2",
       "html_path": "works/leg/index.html#p-1-2",
-      "fixed_html_path": "releases/public-0.35/works/leg/index.html#p-1-2",
+      "fixed_html_path": "releases/public-0.35.1/works/leg/index.html#p-1-2",
       "alignment_revision": "sha256:56dc2457a086ec828efedee996e51a260b0a9abe865bc7b5084f29773531d8be",
       "review_state": {
         "human_reviewed": false,
@@ -322,9 +322,9 @@
         "work": "율법의 알레고리",
         "reference": "1.2",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:2f8949e37d51b3b6f30815124fcff8afcaf30e63fe6d7812e4d330c96564f3da",
-        "fixed_path": "releases/public-0.35/works/leg/index.html#p-1-2"
+        "fixed_path": "releases/public-0.35.1/works/leg/index.html#p-1-2"
       }
     },
     {
@@ -428,7 +428,7 @@
       ],
       "work_passage_id": "leg:1.3",
       "html_path": "works/leg/index.html#p-1-3",
-      "fixed_html_path": "releases/public-0.35/works/leg/index.html#p-1-3",
+      "fixed_html_path": "releases/public-0.35.1/works/leg/index.html#p-1-3",
       "alignment_revision": "sha256:9707c49d0c087a8568570531e21a583ec8c56f237011f3c8cb5b58ea1d3e2cc8",
       "review_state": {
         "human_reviewed": false,
@@ -464,9 +464,9 @@
         "work": "율법의 알레고리",
         "reference": "1.3",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:d91f0ff11a31eb61028fc3a6f18c163a9c3eddc09935ebbfec155530532b6a66",
-        "fixed_path": "releases/public-0.35/works/leg/index.html#p-1-3"
+        "fixed_path": "releases/public-0.35.1/works/leg/index.html#p-1-3"
       }
     },
     {
@@ -542,7 +542,7 @@
       "notes": [],
       "work_passage_id": "leg:1.4",
       "html_path": "works/leg/index.html#p-1-4",
-      "fixed_html_path": "releases/public-0.35/works/leg/index.html#p-1-4",
+      "fixed_html_path": "releases/public-0.35.1/works/leg/index.html#p-1-4",
       "alignment_revision": "sha256:b4239fb4e1517a7e3d3f87150481c419586b8f3a25926e601fe35c0f67acf751",
       "review_state": {
         "human_reviewed": false,
@@ -578,9 +578,9 @@
         "work": "율법의 알레고리",
         "reference": "1.4",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:9d9791d337cc3c95492cb870e5a9196cf99263cbbbdca935e3bf1add8ea5cb63",
-        "fixed_path": "releases/public-0.35/works/leg/index.html#p-1-4"
+        "fixed_path": "releases/public-0.35.1/works/leg/index.html#p-1-4"
       }
     },
     {
@@ -656,7 +656,7 @@
       "notes": [],
       "work_passage_id": "leg:1.5",
       "html_path": "works/leg/index.html#p-1-5",
-      "fixed_html_path": "releases/public-0.35/works/leg/index.html#p-1-5",
+      "fixed_html_path": "releases/public-0.35.1/works/leg/index.html#p-1-5",
       "alignment_revision": "sha256:19e60d320e64d826b1618714011cd4e63a6c383be84fd82db8b9fa503c24d5e8",
       "review_state": {
         "human_reviewed": false,
@@ -692,9 +692,9 @@
         "work": "율법의 알레고리",
         "reference": "1.5",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:e5a105b51bd449e2560d9f7e157b8be103735c8e59b7270e9764426d45e59513",
-        "fixed_path": "releases/public-0.35/works/leg/index.html#p-1-5"
+        "fixed_path": "releases/public-0.35.1/works/leg/index.html#p-1-5"
       }
     },
     {
@@ -840,7 +840,7 @@
       ],
       "work_passage_id": "leg:1.6",
       "html_path": "works/leg/index.html#p-1-6",
-      "fixed_html_path": "releases/public-0.35/works/leg/index.html#p-1-6",
+      "fixed_html_path": "releases/public-0.35.1/works/leg/index.html#p-1-6",
       "alignment_revision": "sha256:b4a29641c82996e518f7229a2750b1aeebf9ff968890de56a0dd764525345f90",
       "review_state": {
         "human_reviewed": false,
@@ -876,9 +876,9 @@
         "work": "율법의 알레고리",
         "reference": "1.6",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:e23dfe9238f41efb2824efc7bfe296f6e33d25ae50a3c19bbd33ef2168c59ed8",
-        "fixed_path": "releases/public-0.35/works/leg/index.html#p-1-6"
+        "fixed_path": "releases/public-0.35.1/works/leg/index.html#p-1-6"
       }
     },
     {
@@ -917,7 +917,7 @@
       ],
       "work_passage_id": "leg:1.7",
       "html_path": "works/leg/index.html#p-1-7",
-      "fixed_html_path": "releases/public-0.35/works/leg/index.html#p-1-7",
+      "fixed_html_path": "releases/public-0.35.1/works/leg/index.html#p-1-7",
       "alignment_revision": "sha256:ed6378a96366ba56da05991f075a26419011d3d6444e47338e8df8277499bc8a",
       "review_state": {
         "human_reviewed": false,
@@ -953,9 +953,9 @@
         "work": "율법의 알레고리",
         "reference": "1.7",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:9a0a767a50d627365c8c3903bfbb3b0e1906090fa20abb99125c018c4b5aa43e",
-        "fixed_path": "releases/public-0.35/works/leg/index.html#p-1-7"
+        "fixed_path": "releases/public-0.35.1/works/leg/index.html#p-1-7"
       }
     },
     {
@@ -1044,7 +1044,7 @@
       "notes": [],
       "work_passage_id": "leg:1.8",
       "html_path": "works/leg/index.html#p-1-8",
-      "fixed_html_path": "releases/public-0.35/works/leg/index.html#p-1-8",
+      "fixed_html_path": "releases/public-0.35.1/works/leg/index.html#p-1-8",
       "alignment_revision": "sha256:d2f4cc7249c183e0d2d28cf6fa14ed06402a10ef26860a01129383f562dc0dfc",
       "review_state": {
         "human_reviewed": false,
@@ -1080,9 +1080,9 @@
         "work": "율법의 알레고리",
         "reference": "1.8",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:c9f4267557dd28136c47051bc289c4bede52c37d76b0400b2e5b93de3e7c26e4",
-        "fixed_path": "releases/public-0.35/works/leg/index.html#p-1-8"
+        "fixed_path": "releases/public-0.35.1/works/leg/index.html#p-1-8"
       }
     },
     {
@@ -1147,7 +1147,7 @@
       ],
       "work_passage_id": "leg:1.9",
       "html_path": "works/leg/index.html#p-1-9",
-      "fixed_html_path": "releases/public-0.35/works/leg/index.html#p-1-9",
+      "fixed_html_path": "releases/public-0.35.1/works/leg/index.html#p-1-9",
       "alignment_revision": "sha256:41a7d2ca487e10b76d4594056265ae65ced5a74b9abea39d34fa2c49da002fba",
       "review_state": {
         "human_reviewed": false,
@@ -1183,9 +1183,9 @@
         "work": "율법의 알레고리",
         "reference": "1.9",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:8abd2451429a9cd6b72e7523a750ff65272f9c3119f11e2b8b0a2e2d635437b8",
-        "fixed_path": "releases/public-0.35/works/leg/index.html#p-1-9"
+        "fixed_path": "releases/public-0.35.1/works/leg/index.html#p-1-9"
       }
     },
     {
@@ -1300,7 +1300,7 @@
       "notes": [],
       "work_passage_id": "leg:1.10",
       "html_path": "works/leg/index.html#p-1-10",
-      "fixed_html_path": "releases/public-0.35/works/leg/index.html#p-1-10",
+      "fixed_html_path": "releases/public-0.35.1/works/leg/index.html#p-1-10",
       "alignment_revision": "sha256:2561e1999f5ad0963790dd40a9e418bef9f9b33cb5174ac8a2165589eab8e844",
       "review_state": {
         "human_reviewed": false,
@@ -1336,9 +1336,9 @@
         "work": "율법의 알레고리",
         "reference": "1.10",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:f2e3039f706d37cca696cfd86526f0c5018ff5188b70ba0a4f89dac3e93d5370",
-        "fixed_path": "releases/public-0.35/works/leg/index.html#p-1-10"
+        "fixed_path": "releases/public-0.35.1/works/leg/index.html#p-1-10"
       }
     },
     {
@@ -1391,7 +1391,7 @@
       "notes": [],
       "work_passage_id": "leg:1.11",
       "html_path": "works/leg/index.html#p-1-11",
-      "fixed_html_path": "releases/public-0.35/works/leg/index.html#p-1-11",
+      "fixed_html_path": "releases/public-0.35.1/works/leg/index.html#p-1-11",
       "alignment_revision": "sha256:4adbcf40fd253a71a7e7a36cadd0d5235599d38e297b856d7f1a0921fd563a4e",
       "review_state": {
         "human_reviewed": false,
@@ -1427,9 +1427,9 @@
         "work": "율법의 알레고리",
         "reference": "1.11",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:7e40d92e845ce11df89c993eda759fb6ea9aed51b90650224da0be6a7889cf6d",
-        "fixed_path": "releases/public-0.35/works/leg/index.html#p-1-11"
+        "fixed_path": "releases/public-0.35.1/works/leg/index.html#p-1-11"
       }
     },
     {
@@ -1505,7 +1505,7 @@
       "notes": [],
       "work_passage_id": "leg:1.12",
       "html_path": "works/leg/index.html#p-1-12",
-      "fixed_html_path": "releases/public-0.35/works/leg/index.html#p-1-12",
+      "fixed_html_path": "releases/public-0.35.1/works/leg/index.html#p-1-12",
       "alignment_revision": "sha256:53cb26969a4031fecdca12e6a5d5f7c5f490e2422af6f343299b5a92da756977",
       "review_state": {
         "human_reviewed": false,
@@ -1541,9 +1541,9 @@
         "work": "율법의 알레고리",
         "reference": "1.12",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:14e442f4cd84242465da0bd318fa26f4995b1a40f1c4d9ad31ab56bf7c24f94a",
-        "fixed_path": "releases/public-0.35/works/leg/index.html#p-1-12"
+        "fixed_path": "releases/public-0.35.1/works/leg/index.html#p-1-12"
       }
     },
     {
@@ -1606,7 +1606,7 @@
       "notes": [],
       "work_passage_id": "leg:1.13",
       "html_path": "works/leg/index.html#p-1-13",
-      "fixed_html_path": "releases/public-0.35/works/leg/index.html#p-1-13",
+      "fixed_html_path": "releases/public-0.35.1/works/leg/index.html#p-1-13",
       "alignment_revision": "sha256:57bea68b0b5978638b01919097a711298315f402f8820cbfc2789a1a5977cca2",
       "review_state": {
         "human_reviewed": false,
@@ -1642,9 +1642,9 @@
         "work": "율법의 알레고리",
         "reference": "1.13",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:5ba24b2eda9a745fa166d8026f7cafcd78f5d0a0a126deb56d95a0cf3426f41b",
-        "fixed_path": "releases/public-0.35/works/leg/index.html#p-1-13"
+        "fixed_path": "releases/public-0.35.1/works/leg/index.html#p-1-13"
       }
     },
     {
@@ -1746,7 +1746,7 @@
       "notes": [],
       "work_passage_id": "leg:1.14",
       "html_path": "works/leg/index.html#p-1-14",
-      "fixed_html_path": "releases/public-0.35/works/leg/index.html#p-1-14",
+      "fixed_html_path": "releases/public-0.35.1/works/leg/index.html#p-1-14",
       "alignment_revision": "sha256:c1de0892ce8c1a93450966671e74ca759cf1f04aa501211e42dededa8fca120d",
       "review_state": {
         "human_reviewed": false,
@@ -1782,9 +1782,9 @@
         "work": "율법의 알레고리",
         "reference": "1.14",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:7e8ed399d2c63d45b38da0156b2eea5a14ad436be4a0820f9cd5822f08a511dd",
-        "fixed_path": "releases/public-0.35/works/leg/index.html#p-1-14"
+        "fixed_path": "releases/public-0.35.1/works/leg/index.html#p-1-14"
       }
     },
     {
@@ -1860,7 +1860,7 @@
       "notes": [],
       "work_passage_id": "leg:1.15",
       "html_path": "works/leg/index.html#p-1-15",
-      "fixed_html_path": "releases/public-0.35/works/leg/index.html#p-1-15",
+      "fixed_html_path": "releases/public-0.35.1/works/leg/index.html#p-1-15",
       "alignment_revision": "sha256:b48d8e9be1c7837532c2532e4f8d9b69c7d8916fe588851ea9362017afec7fd4",
       "review_state": {
         "human_reviewed": false,
@@ -1896,9 +1896,9 @@
         "work": "율법의 알레고리",
         "reference": "1.15",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:59ca365c2fc045fe3559defe059f0296dac93a5c7d40434bb2cba2d49c93b329",
-        "fixed_path": "releases/public-0.35/works/leg/index.html#p-1-15"
+        "fixed_path": "releases/public-0.35.1/works/leg/index.html#p-1-15"
       }
     },
     {
@@ -1977,7 +1977,7 @@
       "notes": [],
       "work_passage_id": "leg:1.16",
       "html_path": "works/leg/index.html#p-1-16",
-      "fixed_html_path": "releases/public-0.35/works/leg/index.html#p-1-16",
+      "fixed_html_path": "releases/public-0.35.1/works/leg/index.html#p-1-16",
       "alignment_revision": "sha256:0d70c3bddff979d79442e290ddca2ccb94933b14b22f48a16bb834ecc582c549",
       "review_state": {
         "human_reviewed": false,
@@ -2013,9 +2013,9 @@
         "work": "율법의 알레고리",
         "reference": "1.16",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:610190a68d6fda45b9c166662eeb6198ee6fd336d7298f676ad3a131e9bab6ac",
-        "fixed_path": "releases/public-0.35/works/leg/index.html#p-1-16"
+        "fixed_path": "releases/public-0.35.1/works/leg/index.html#p-1-16"
       }
     },
     {
@@ -2119,7 +2119,7 @@
       ],
       "work_passage_id": "leg:1.17",
       "html_path": "works/leg/index.html#p-1-17",
-      "fixed_html_path": "releases/public-0.35/works/leg/index.html#p-1-17",
+      "fixed_html_path": "releases/public-0.35.1/works/leg/index.html#p-1-17",
       "alignment_revision": "sha256:d4549129e437899475e216e9656da37f60a22763fba5e6db9ef5f1386de4b511",
       "review_state": {
         "human_reviewed": false,
@@ -2155,9 +2155,9 @@
         "work": "율법의 알레고리",
         "reference": "1.17",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:1deed08e165407c0df71130ce6f82aa9fcaa3e3de10e3334998db9d894529529",
-        "fixed_path": "releases/public-0.35/works/leg/index.html#p-1-17"
+        "fixed_path": "releases/public-0.35.1/works/leg/index.html#p-1-17"
       }
     },
     {
@@ -2246,7 +2246,7 @@
       "notes": [],
       "work_passage_id": "leg:1.18",
       "html_path": "works/leg/index.html#p-1-18",
-      "fixed_html_path": "releases/public-0.35/works/leg/index.html#p-1-18",
+      "fixed_html_path": "releases/public-0.35.1/works/leg/index.html#p-1-18",
       "alignment_revision": "sha256:10e63f456e27e91d913d7fb472fff2d9a553b607f2eb95115f1a49d1bc9578eb",
       "review_state": {
         "human_reviewed": false,
@@ -2282,9 +2282,9 @@
         "work": "율법의 알레고리",
         "reference": "1.18",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:541501c552c2c7b607e7a14e95aa87aa8cb8c072f553987504ecf4a91e8a4105",
-        "fixed_path": "releases/public-0.35/works/leg/index.html#p-1-18"
+        "fixed_path": "releases/public-0.35.1/works/leg/index.html#p-1-18"
       }
     },
     {
@@ -2352,7 +2352,7 @@
       ],
       "work_passage_id": "leg:1.19",
       "html_path": "works/leg/index.html#p-1-19",
-      "fixed_html_path": "releases/public-0.35/works/leg/index.html#p-1-19",
+      "fixed_html_path": "releases/public-0.35.1/works/leg/index.html#p-1-19",
       "alignment_revision": "sha256:629dec14cfe2a0d06c32e8b6e5e371a16cfc356353e34719c2ee2ff1bdb86af8",
       "review_state": {
         "human_reviewed": false,
@@ -2388,9 +2388,9 @@
         "work": "율법의 알레고리",
         "reference": "1.19",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:9b29433fde1f16e740cdcf97aae44652c517d49d618709462b64d9b4e9ebd1c0",
-        "fixed_path": "releases/public-0.35/works/leg/index.html#p-1-19"
+        "fixed_path": "releases/public-0.35.1/works/leg/index.html#p-1-19"
       }
     },
     {
@@ -2479,7 +2479,7 @@
       "notes": [],
       "work_passage_id": "leg:1.20",
       "html_path": "works/leg/index.html#p-1-20",
-      "fixed_html_path": "releases/public-0.35/works/leg/index.html#p-1-20",
+      "fixed_html_path": "releases/public-0.35.1/works/leg/index.html#p-1-20",
       "alignment_revision": "sha256:6648563e2c0a9cbe0076014de2a4053b9c73ac7283ea2d50b6808a8b6db28738",
       "review_state": {
         "human_reviewed": false,
@@ -2515,9 +2515,9 @@
         "work": "율법의 알레고리",
         "reference": "1.20",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:d4599c8fc2787e636e9cf54b41ddbee32972ad10465eb4ef80dacf6c0891f5ef",
-        "fixed_path": "releases/public-0.35/works/leg/index.html#p-1-20"
+        "fixed_path": "releases/public-0.35.1/works/leg/index.html#p-1-20"
       }
     }
   ],
@@ -2540,14 +2540,14 @@
   "display_author": "필론",
   "scope": "율법의 알레고리 1권 1-20절 전체, 1권 21-108절과 2-3권 미수록",
   "coverage": "complete_scope",
-  "release_id": "public-0.35",
+  "release_id": "public-0.35.1",
   "source_language": "grc",
   "source_kind": "edited_ancient_original",
   "human_reviewed": false,
   "translation_method": "고정 원어 본문에서 직접 번역",
   "html_path": "works/leg/index.html",
   "json_path": "data/works/leg.json",
-  "fixed_html_path": "releases/public-0.35/works/leg/index.html",
+  "fixed_html_path": "releases/public-0.35.1/works/leg/index.html",
   "source_profile": "leg-first1k-03776b39",
   "source_decisions": [
     {

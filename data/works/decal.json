@@ -105,7 +105,7 @@
       ],
       "work_passage_id": "decal:1",
       "html_path": "works/decal/index.html#p-1",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-1",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-1",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:84655f547f636a921fb62011a70ae0d77867296a92d6af3572f7f23c7bcbb85e",
@@ -130,9 +130,9 @@
         "work": "십계명에 관하여",
         "reference": "1",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:d07d4406f690501506019e11c755de845080e05dfc2f8f47351976d1f820ba82",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-1"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-1"
       }
     },
     {
@@ -187,7 +187,7 @@
       "notes": [],
       "work_passage_id": "decal:2",
       "html_path": "works/decal/index.html#p-2",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-2",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-2",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:e539bfd1caffa6456571bd944b354283a85b7dd4f255ff99074829b92a93ab1a",
@@ -212,9 +212,9 @@
         "work": "십계명에 관하여",
         "reference": "2",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:4dfd8177ba088438e8962847446784490b7591506d2edc627f72e3de5bf68c6c",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-2"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-2"
       }
     },
     {
@@ -256,7 +256,7 @@
       "notes": [],
       "work_passage_id": "decal:3",
       "html_path": "works/decal/index.html#p-3",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-3",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-3",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:3fceb34acaf253a9b10ca864d980abb12997c48690043ed9cf7714c13d893e7a",
@@ -281,9 +281,9 @@
         "work": "십계명에 관하여",
         "reference": "3",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:ff870fffa8b973c4edc4097edffe8057897eb94a6caa34232e744be442ec3e5a",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-3"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-3"
       }
     },
     {
@@ -366,7 +366,7 @@
       ],
       "work_passage_id": "decal:4",
       "html_path": "works/decal/index.html#p-4",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-4",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-4",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:1e0597ed5216f172dd745718b168949cfa96c3399455895c891e998ea97c7054",
@@ -391,9 +391,9 @@
         "work": "십계명에 관하여",
         "reference": "4",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:23ae3911112a186e1b2c48971164840bc7a881b7eed3bd462fd9000960475aad",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-4"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-4"
       }
     },
     {
@@ -461,7 +461,7 @@
       "notes": [],
       "work_passage_id": "decal:5",
       "html_path": "works/decal/index.html#p-5",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-5",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-5",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:c519b0e0028b3afb5add39e12d7693a47580031c0cae54b8390aaab8720f3931",
@@ -486,9 +486,9 @@
         "work": "십계명에 관하여",
         "reference": "5",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:22cd90650ebff44b6211c27f69323ea76b21a276c2601cd733b819cecf28e49a",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-5"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-5"
       }
     },
     {
@@ -543,7 +543,7 @@
       "notes": [],
       "work_passage_id": "decal:6",
       "html_path": "works/decal/index.html#p-6",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-6",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-6",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:1730d94a4c82605299c7dea2dd64187c4fe8dafc96606fed200496278882116e",
@@ -568,9 +568,9 @@
         "work": "십계명에 관하여",
         "reference": "6",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:3e0a39fc717309c2c866b2b27c83c22820f123fe877e3fca38d1b1b12997ec2f",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-6"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-6"
       }
     },
     {
@@ -638,7 +638,7 @@
       "notes": [],
       "work_passage_id": "decal:7",
       "html_path": "works/decal/index.html#p-7",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-7",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-7",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:fcfcf720f2ea116f99b3dbde38b34c5c11f10db9490216cf13a0f44b05f38d00",
@@ -663,9 +663,9 @@
         "work": "십계명에 관하여",
         "reference": "7",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:e3c6dd36591d594fbeedfc6e60e88fd8dddd5cc92e632439140ad2083364c37c",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-7"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-7"
       }
     },
     {
@@ -720,7 +720,7 @@
       "notes": [],
       "work_passage_id": "decal:8",
       "html_path": "works/decal/index.html#p-8",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-8",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-8",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:28149854c0ce5dbec8a214157b4e13d929ab1a2cdb2c9d9ffa18a771fe2e13fa",
@@ -745,9 +745,9 @@
         "work": "십계명에 관하여",
         "reference": "8",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:9264a56012bb9ca6aceec4044e854d06ee9d04a679051afecfc0106c4cc0668f",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-8"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-8"
       }
     },
     {
@@ -789,7 +789,7 @@
       "notes": [],
       "work_passage_id": "decal:9",
       "html_path": "works/decal/index.html#p-9",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-9",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-9",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:f3193e4efe479f1572077f08f07f544884be4f252688703d4db7f4eeccec7e8d",
@@ -814,9 +814,9 @@
         "work": "십계명에 관하여",
         "reference": "9",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:e8f74da850792695081937900fecc21fd4cac0e3bd57ff2d54cbf7d47639d526",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-9"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-9"
       }
     },
     {
@@ -871,7 +871,7 @@
       "notes": [],
       "work_passage_id": "decal:10",
       "html_path": "works/decal/index.html#p-10",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-10",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-10",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:be8106cf424818883a9093d9284897584cf37d85cbcf8ee7318f498561915d58",
@@ -896,9 +896,9 @@
         "work": "십계명에 관하여",
         "reference": "10",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:d3386f613fa2bd2e9c7207fdd26f7e962026d3fff860411153904521f5e7fb42",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-10"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-10"
       }
     },
     {
@@ -953,7 +953,7 @@
       "notes": [],
       "work_passage_id": "decal:11",
       "html_path": "works/decal/index.html#p-11",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-11",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-11",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:a7a3168a33d7619c78ea8df8b45e2f5b6983ffb72f2cbe33c78943670e80deab",
@@ -978,9 +978,9 @@
         "work": "십계명에 관하여",
         "reference": "11",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:7ebae3d49938547360c60d0bbeb9ffb21528dd0b736829b6c48194c9f079a1ed",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-11"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-11"
       }
     },
     {
@@ -1035,7 +1035,7 @@
       "notes": [],
       "work_passage_id": "decal:12",
       "html_path": "works/decal/index.html#p-12",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-12",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-12",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:837a351a069345419d9850104afba2c14e7a2d8767a19a41861d6005115e065b",
@@ -1060,9 +1060,9 @@
         "work": "십계명에 관하여",
         "reference": "12",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:fe52fe0be3d82863824850a49cbdc7b1ffe4b14782cc11e9eb1895ffc68e12e0",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-12"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-12"
       }
     },
     {
@@ -1117,7 +1117,7 @@
       "notes": [],
       "work_passage_id": "decal:13",
       "html_path": "works/decal/index.html#p-13",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-13",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-13",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:9bc88889cab8f32f7e2d3ad903eaae327ea087038729f4f28082e0763edc300f",
@@ -1142,9 +1142,9 @@
         "work": "십계명에 관하여",
         "reference": "13",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:a5fd13aef237f7009e50c61b0650bc284b38b72f34bb3bab69b44413e6bf393e",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-13"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-13"
       }
     },
     {
@@ -1238,7 +1238,7 @@
       "notes": [],
       "work_passage_id": "decal:14",
       "html_path": "works/decal/index.html#p-14",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-14",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-14",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:ee2c23f89c9cd01899a310a5305cc39b194b35dd6d90372062ce3c8b13e54acc",
@@ -1263,9 +1263,9 @@
         "work": "십계명에 관하여",
         "reference": "14",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:52f1b83424c2a09fe73e204a95debc5e975c18714283a4d7a6d0fe644b1ae2cc",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-14"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-14"
       }
     },
     {
@@ -1322,7 +1322,7 @@
       ],
       "work_passage_id": "decal:15",
       "html_path": "works/decal/index.html#p-15",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-15",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-15",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:ea87c88b314e65bd68a5f07298238090a05ef124dbbd670719e495b584b7897f",
@@ -1347,9 +1347,9 @@
         "work": "십계명에 관하여",
         "reference": "15",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:81114fc54200de204f05fc112bbfd70e502af663bdafb2966fb4d7cfd693418d",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-15"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-15"
       }
     },
     {
@@ -1456,7 +1456,7 @@
       "notes": [],
       "work_passage_id": "decal:16",
       "html_path": "works/decal/index.html#p-16",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-16",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-16",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:fb940ca02bb7056e0caf41585dfd1602ea391153170bfa9a7a95958780956b51",
@@ -1481,9 +1481,9 @@
         "work": "십계명에 관하여",
         "reference": "16",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:28d4680b5364c980940be762c86288443b50f1960b1068124861dd5fe837113d",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-16"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-16"
       }
     },
     {
@@ -1538,7 +1538,7 @@
       "notes": [],
       "work_passage_id": "decal:17",
       "html_path": "works/decal/index.html#p-17",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-17",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-17",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:e20d3e554905d12d0265b701fcb005095fb024f42241db7b8aa6880a5e3166e7",
@@ -1563,9 +1563,9 @@
         "work": "십계명에 관하여",
         "reference": "17",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:9034a489517138f6482f987d3d80698af223630c8623cda8b6ffdf85bdd23701",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-17"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-17"
       }
     },
     {
@@ -1646,7 +1646,7 @@
       "notes": [],
       "work_passage_id": "decal:18",
       "html_path": "works/decal/index.html#p-18",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-18",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-18",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:45d8347bfc91977a0c4f14c7c6dd7626d9bf599fba3f125b3fb1c9f3300b4258",
@@ -1671,9 +1671,9 @@
         "work": "십계명에 관하여",
         "reference": "18",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:dab05429ee386ae31a864e5f3b3534ecaf074e88e58f8aa1d99069a663f143a5",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-18"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-18"
       }
     },
     {
@@ -1715,7 +1715,7 @@
       "notes": [],
       "work_passage_id": "decal:19",
       "html_path": "works/decal/index.html#p-19",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-19",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-19",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:b5c4dc001097c7086640f5d22691f995f686013386cebabf413ef8ebad37eabf",
@@ -1740,9 +1740,9 @@
         "work": "십계명에 관하여",
         "reference": "19",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:9b8f71d2e0ad3a8a2986c7e71d7d0e855bfa6ce23bbf48101517890819083e6e",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-19"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-19"
       }
     },
     {
@@ -1812,7 +1812,7 @@
       ],
       "work_passage_id": "decal:20",
       "html_path": "works/decal/index.html#p-20",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-20",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-20",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:a4b7403cf8e81dca5ac26f033b4aa37c59a56757e0be3f36308a2d43b8782ff6",
@@ -1837,9 +1837,9 @@
         "work": "십계명에 관하여",
         "reference": "20",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:6a04994db2fac727c09f34ea8b33ea4ad1fe5dbe17d7d7ef90799dbf33ae8f48",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-20"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-20"
       }
     },
     {
@@ -1909,7 +1909,7 @@
       ],
       "work_passage_id": "decal:21",
       "html_path": "works/decal/index.html#p-21",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-21",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-21",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:2ec7704860b44f8564159ec4c3812e5ff59293d42693cf432dd84ab5f09f0b8e",
@@ -1934,9 +1934,9 @@
         "work": "십계명에 관하여",
         "reference": "21",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:1f46252fcc79b2d5996fe1058be5f989344d92268dff6efb70b17f56d5bfb360",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-21"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-21"
       }
     },
     {
@@ -2017,7 +2017,7 @@
       "notes": [],
       "work_passage_id": "decal:22",
       "html_path": "works/decal/index.html#p-22",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-22",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-22",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:9e070f83ed73a0337f838bf9c8cbcdd4016d7624efa3e7dd2c12887a0e79fd88",
@@ -2042,9 +2042,9 @@
         "work": "십계명에 관하여",
         "reference": "22",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:d95efdbc864932b33fb23bc7e067c316f55a22761b105b7911180f70580e8ade",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-22"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-22"
       }
     },
     {
@@ -2101,7 +2101,7 @@
       ],
       "work_passage_id": "decal:23",
       "html_path": "works/decal/index.html#p-23",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-23",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-23",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:b419df131f3fc170e2ed5c57f80a420b49a57bddd8eda06a5aaba8d7d02ebb5b",
@@ -2126,9 +2126,9 @@
         "work": "십계명에 관하여",
         "reference": "23",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:339aadc9220f3ee742c21a04b42b9a9d3e7ccf73b1cd7bb2a337564795048eca",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-23"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-23"
       }
     },
     {
@@ -2196,7 +2196,7 @@
       "notes": [],
       "work_passage_id": "decal:24",
       "html_path": "works/decal/index.html#p-24",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-24",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-24",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:55a8bd275d6ba051d771084bf33d476faf22e10be867a6015ab3d555e786163b",
@@ -2221,9 +2221,9 @@
         "work": "십계명에 관하여",
         "reference": "24",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:1a5668867839360a9e9d7a128bc3446feeda1b24a7b5d2d8341f3070baa0fd1d",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-24"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-24"
       }
     },
     {
@@ -2291,7 +2291,7 @@
       "notes": [],
       "work_passage_id": "decal:25",
       "html_path": "works/decal/index.html#p-25",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-25",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-25",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:7817579aa135e4bb7cf3708627b930bdb40e87b27993a5d5e26e776db3740a00",
@@ -2316,9 +2316,9 @@
         "work": "십계명에 관하여",
         "reference": "25",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:3d4d7556ce54c5c4a0625ecce4247c79cc54f9d714e73aa05b17dd9505cd2a2e",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-25"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-25"
       }
     },
     {
@@ -2373,7 +2373,7 @@
       "notes": [],
       "work_passage_id": "decal:26",
       "html_path": "works/decal/index.html#p-26",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-26",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-26",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:4b7e6f6d0af130e2c5c2f6deb613b185d0d47dc1f54c80b186c1bb9526d72a7d",
@@ -2398,9 +2398,9 @@
         "work": "십계명에 관하여",
         "reference": "26",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:13a9af27ede2c8a8f68223bdcf5c6901ac951a0aa145aeb685d1bfeb0dce5dc7",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-26"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-26"
       }
     },
     {
@@ -2481,7 +2481,7 @@
       "notes": [],
       "work_passage_id": "decal:27",
       "html_path": "works/decal/index.html#p-27",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-27",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-27",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:fc92525af218939c3fe77fb7f1c3fe78573507fcee83ebfc7af804021be0b994",
@@ -2506,9 +2506,9 @@
         "work": "십계명에 관하여",
         "reference": "27",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:db100295a3af3b42afebcc3c650d966c74b7d563828c489fd72765f9264d1e85",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-27"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-27"
       }
     },
     {
@@ -2589,7 +2589,7 @@
       "notes": [],
       "work_passage_id": "decal:28",
       "html_path": "works/decal/index.html#p-28",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-28",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-28",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:c403eaa94a593388f14c4eb772d7e6fd4d52a12ff112e89687a4c9cc7e831f09",
@@ -2614,9 +2614,9 @@
         "work": "십계명에 관하여",
         "reference": "28",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:c95bc5e25277795829c4b548ac07d1e9593af3202e97d7d7490ec76f6fc4ab02",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-28"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-28"
       }
     },
     {
@@ -2671,7 +2671,7 @@
       "notes": [],
       "work_passage_id": "decal:29",
       "html_path": "works/decal/index.html#p-29",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-29",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-29",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:0b28b26afb6d7e5e0b0cf5e40b794de8527a426aa014fc64fb5abeb1ceeabaae",
@@ -2696,9 +2696,9 @@
         "work": "십계명에 관하여",
         "reference": "29",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:4705774faf21631f4a200c14d3ce2ac2bc9a1317f67925845bf287df9e59a4e7",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-29"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-29"
       }
     },
     {
@@ -2755,7 +2755,7 @@
       ],
       "work_passage_id": "decal:30",
       "html_path": "works/decal/index.html#p-30",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-30",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-30",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:b750722848601d4a694b49652bfb65e63667aae649e362d89f7b77c1742f89d2",
@@ -2780,9 +2780,9 @@
         "work": "십계명에 관하여",
         "reference": "30",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:8eca23f90ab5da67d1ff8e86c5338f49ba998a57ebbf1dee0c849255a9ed436e",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-30"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-30"
       }
     },
     {
@@ -2902,7 +2902,7 @@
       "notes": [],
       "work_passage_id": "decal:31",
       "html_path": "works/decal/index.html#p-31",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-31",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-31",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:01dcc6134489771070767cfd505421cba1bff38942c4cb74e31a297e03072795",
@@ -2927,9 +2927,9 @@
         "work": "십계명에 관하여",
         "reference": "31",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:54368a2cff8b42a3d44c7028a648caf41d1769cfdb153388b95f36763ffe084b",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-31"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-31"
       }
     },
     {
@@ -3023,7 +3023,7 @@
       "notes": [],
       "work_passage_id": "decal:32",
       "html_path": "works/decal/index.html#p-32",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-32",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-32",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:7ad1b7a05dfe245460d3885c0e2dc335a9d1e3f075d202ec6a96c15914eb68b0",
@@ -3048,9 +3048,9 @@
         "work": "십계명에 관하여",
         "reference": "32",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:c4f9e762970683f27c898d76867ba797481de49597b71154eb4777ddfa3d1a4b",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-32"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-32"
       }
     },
     {
@@ -3157,7 +3157,7 @@
       "notes": [],
       "work_passage_id": "decal:33",
       "html_path": "works/decal/index.html#p-33",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-33",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-33",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:5321b257bd13a3cce8d7b1a9f1914a693f856d86ab4ea702a962f2cbc6eeab4e",
@@ -3182,9 +3182,9 @@
         "work": "십계명에 관하여",
         "reference": "33",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:d52d50999c2b939bc148cad82a5a73d345c883f9f88ec32589528f4fa65a93ff",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-33"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-33"
       }
     },
     {
@@ -3239,7 +3239,7 @@
       "notes": [],
       "work_passage_id": "decal:34",
       "html_path": "works/decal/index.html#p-34",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-34",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-34",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:58588dbfe15f7aaaf6f3973dc24e1e06cf2f5f2d14b3645404a053c395c13974",
@@ -3264,9 +3264,9 @@
         "work": "십계명에 관하여",
         "reference": "34",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:a5c87df453bd16bf21eabc1ca07c1359753d7723252583472a2c75709b2097e9",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-34"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-34"
       }
     },
     {
@@ -3347,7 +3347,7 @@
       "notes": [],
       "work_passage_id": "decal:35",
       "html_path": "works/decal/index.html#p-35",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-35",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-35",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:4726d423245bddcd2355806814014e3e27623ea6f1eba728a973ce665b8dfc7e",
@@ -3372,9 +3372,9 @@
         "work": "십계명에 관하여",
         "reference": "35",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:e77e0ae3366fd0933a3f26748d556ee982c64273906578fa5eeefae0accefbd1",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-35"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-35"
       }
     },
     {
@@ -3431,7 +3431,7 @@
       ],
       "work_passage_id": "decal:36",
       "html_path": "works/decal/index.html#p-36",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-36",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-36",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:ee8356838e1f3dbb1aa10398981e963057644830ab739189f1545ba486edcb15",
@@ -3456,9 +3456,9 @@
         "work": "십계명에 관하여",
         "reference": "36",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:153461b4aee5e84abd1eb060f3018ad282647a1f7ec557b3834f68eef3340a98",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-36"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-36"
       }
     },
     {
@@ -3526,7 +3526,7 @@
       "notes": [],
       "work_passage_id": "decal:37",
       "html_path": "works/decal/index.html#p-37",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-37",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-37",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:9897181070a66589d3df90f609545751620b0c82a1c63ed4607c8abdedee8d2f",
@@ -3551,9 +3551,9 @@
         "work": "십계명에 관하여",
         "reference": "37",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:1595982966ae00565d386a84db0158c95563cb3e5cea76505449f50d1203c3b8",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-37"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-37"
       }
     },
     {
@@ -3610,7 +3610,7 @@
       ],
       "work_passage_id": "decal:38",
       "html_path": "works/decal/index.html#p-38",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-38",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-38",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:a4804765d81032e3846a02b366bf6d26f496ff22b0f1803a4cbaa7f61d7f10d5",
@@ -3635,9 +3635,9 @@
         "work": "십계명에 관하여",
         "reference": "38",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:5c5cae3819b5f226a956eae644800f25409b247d8905a20f08da08e35b5b9de8",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-38"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-38"
       }
     },
     {
@@ -3705,7 +3705,7 @@
       "notes": [],
       "work_passage_id": "decal:39",
       "html_path": "works/decal/index.html#p-39",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-39",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-39",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:9ef63841f68839cea2123ef816838c0a1800a5a37e099593de8934f24a8d6088",
@@ -3730,9 +3730,9 @@
         "work": "십계명에 관하여",
         "reference": "39",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:7560a3847cb347a378239a5d7cef9bfdadc9e918ab8597bfa0a639769def9f2d",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-39"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-39"
       }
     },
     {
@@ -3774,7 +3774,7 @@
       "notes": [],
       "work_passage_id": "decal:40",
       "html_path": "works/decal/index.html#p-40",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-40",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-40",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:3f24b09d105b61b6cc88555c3c11920e5ad9c734996c0b72d8725475fce026ef",
@@ -3799,9 +3799,9 @@
         "work": "십계명에 관하여",
         "reference": "40",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:86bcdc1cb8a1f447237deab7f13dc17c2b5bd598627cad6b530ecdfdbc58b54b",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-40"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-40"
       }
     },
     {
@@ -3908,7 +3908,7 @@
       "notes": [],
       "work_passage_id": "decal:41",
       "html_path": "works/decal/index.html#p-41",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-41",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-41",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:5882e885b0192930adcd84a83a6c38e17ad0345968019b4dae95008f6c30329d",
@@ -3933,9 +3933,9 @@
         "work": "십계명에 관하여",
         "reference": "41",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:8901b9add42e3a09b7e62c60ca44a397dd65c7fd7f49989f199fe866e891a91c",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-41"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-41"
       }
     },
     {
@@ -3990,7 +3990,7 @@
       "notes": [],
       "work_passage_id": "decal:42",
       "html_path": "works/decal/index.html#p-42",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-42",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-42",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:6e9b73a8ab5c0bc755cfc4e2fe6855d81df2148b7303bc5a5d5343f0ae140ef2",
@@ -4015,9 +4015,9 @@
         "work": "십계명에 관하여",
         "reference": "42",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:fc45707a2681ce6940a67e523ae7701ffbadb4df652c9f3c9de0455323db7241",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-42"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-42"
       }
     },
     {
@@ -4098,7 +4098,7 @@
       "notes": [],
       "work_passage_id": "decal:43",
       "html_path": "works/decal/index.html#p-43",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-43",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-43",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:3a1a8045d1e3391d72325bbd142a78ccc28bc6c054a9877b40f0441843ac7272",
@@ -4123,9 +4123,9 @@
         "work": "십계명에 관하여",
         "reference": "43",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:9c0f9ab6446a45edd3fd854e361220aed7e20cab88570a8f759e3bbbfca203e5",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-43"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-43"
       }
     },
     {
@@ -4219,7 +4219,7 @@
       "notes": [],
       "work_passage_id": "decal:44",
       "html_path": "works/decal/index.html#p-44",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-44",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-44",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:b361d40d94984ee07a2a60cf40d804cb1d8f223dacc72849427220716031719d",
@@ -4244,9 +4244,9 @@
         "work": "십계명에 관하여",
         "reference": "44",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:e8a42406cd05b2b53a534612a38f346d8f12c550095adf3869fc5293adb906c7",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-44"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-44"
       }
     },
     {
@@ -4327,7 +4327,7 @@
       "notes": [],
       "work_passage_id": "decal:45",
       "html_path": "works/decal/index.html#p-45",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-45",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-45",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:8bb4e58618aa74817e6c2264a6f1672e98cff7ffe72718b080eebd70da71dda3",
@@ -4352,9 +4352,9 @@
         "work": "십계명에 관하여",
         "reference": "45",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:ea6b196291fd186bd33b40f55d8c86b89ba9f4e48bd2c8192dc43bdd38128169",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-45"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-45"
       }
     },
     {
@@ -4409,7 +4409,7 @@
       "notes": [],
       "work_passage_id": "decal:46",
       "html_path": "works/decal/index.html#p-46",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-46",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-46",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:d4c0b6935742b051993d24b315d575b3573146d50da8e5f7b08fa6cdb60e4cbd",
@@ -4434,9 +4434,9 @@
         "work": "십계명에 관하여",
         "reference": "46",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:d3a9857ea961932df4a23bed7af51839b71a380208d945259ea30b80b2b1bb30",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-46"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-46"
       }
     },
     {
@@ -4506,7 +4506,7 @@
       ],
       "work_passage_id": "decal:47",
       "html_path": "works/decal/index.html#p-47",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-47",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-47",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:9198d3dc61ce3f2da281d880632fb9279b985a6536eb30be6bec01abe2e890d5",
@@ -4531,9 +4531,9 @@
         "work": "십계명에 관하여",
         "reference": "47",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:cac5d3df2211cd90e377c51a8e6cbd5dcfacc29d37d75d0388d8fbdcc0636e7f",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-47"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-47"
       }
     },
     {
@@ -4588,7 +4588,7 @@
       "notes": [],
       "work_passage_id": "decal:48",
       "html_path": "works/decal/index.html#p-48",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-48",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-48",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:4b35d523145e361d48233baf168445c9d6f58dae245c1316d57ba739943a6c1e",
@@ -4613,9 +4613,9 @@
         "work": "십계명에 관하여",
         "reference": "48",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:da10334232e3c3d61955f5b35b19cd16658b744888de8e7c31b7b18406d816be",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-48"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-48"
       }
     },
     {
@@ -4696,7 +4696,7 @@
       "notes": [],
       "work_passage_id": "decal:49",
       "html_path": "works/decal/index.html#p-49",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-49",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-49",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:ce8b189418986a4a5506c6bc90e737e7100a95fa50326ae5ca02482dbdb5a7f9",
@@ -4721,9 +4721,9 @@
         "work": "십계명에 관하여",
         "reference": "49",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:5cf506c06a63d04171aa90c72c5b0754606dfdd80c0fd69a0f5e8e87f61b99e9",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-49"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-49"
       }
     },
     {
@@ -4819,7 +4819,7 @@
       ],
       "work_passage_id": "decal:50",
       "html_path": "works/decal/index.html#p-50",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-50",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-50",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:9fb0efe9a130415bd9961e5d7e065819bb77149f560adb750f9bc2f241521846",
@@ -4844,9 +4844,9 @@
         "work": "십계명에 관하여",
         "reference": "50",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:6466bb5e87c96274def5fca7a2024b221b27adde835565740dbbd74f8dd908a9",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-50"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-50"
       }
     },
     {
@@ -4979,7 +4979,7 @@
       "notes": [],
       "work_passage_id": "decal:51",
       "html_path": "works/decal/index.html#p-51",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-51",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-51",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:7dd7482adfd0b4fa7ebcefcb888125d3bc9e29c017d3b933261684197290c5b0",
@@ -5004,9 +5004,9 @@
         "work": "십계명에 관하여",
         "reference": "51",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:c2e5317f6f16f2bf0d334e6f671e1f34037acefcc6f9ee7410cdac80378e766e",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-51"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-51"
       }
     },
     {
@@ -5074,7 +5074,7 @@
       "notes": [],
       "work_passage_id": "decal:52",
       "html_path": "works/decal/index.html#p-52",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-52",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-52",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:326f1ce9eea865f42449f68c4619145222f4099514f4ebdb0e57e4e783bba45e",
@@ -5099,9 +5099,9 @@
         "work": "십계명에 관하여",
         "reference": "52",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:efa215c2a676470eb8a0d2294e8b40fb3b2e9166bb0a4409f06a8bd4b27d0b27",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-52"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-52"
       }
     },
     {
@@ -5214,7 +5214,7 @@
       ],
       "work_passage_id": "decal:53",
       "html_path": "works/decal/index.html#p-53",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-53",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-53",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:d40571b130c6c8ab565d4853e980385162a206d2e47a8f18629029ce6cd5d280",
@@ -5249,9 +5249,9 @@
         "work": "십계명에 관하여",
         "reference": "53",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:d8da43d3e79e8ca741cb9d5e5d61f77b546c7632739fb0fb2a39cb8332a4d4b8",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-53"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-53"
       }
     },
     {
@@ -5332,7 +5332,7 @@
       "notes": [],
       "work_passage_id": "decal:54",
       "html_path": "works/decal/index.html#p-54",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-54",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-54",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:664bfdaf747797e394f2c67eb2ba54f115c8eaa999fe4c0e3759cad114cbf900",
@@ -5357,9 +5357,9 @@
         "work": "십계명에 관하여",
         "reference": "54",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:f06aafa07465e2a3faface32ac05e7226f83a4921590718050e26fda08880eb0",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-54"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-54"
       }
     },
     {
@@ -5401,7 +5401,7 @@
       "notes": [],
       "work_passage_id": "decal:55",
       "html_path": "works/decal/index.html#p-55",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-55",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-55",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:cbb3345af911baa8413b95c6bc6f9fa13bb9ddd25030a33274448a4a9c538282",
@@ -5426,9 +5426,9 @@
         "work": "십계명에 관하여",
         "reference": "55",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:eb64098d7227ff8c49b98d130aa65687dd8a5f0fe9153bc0269029070871ab0b",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-55"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-55"
       }
     },
     {
@@ -5483,7 +5483,7 @@
       "notes": [],
       "work_passage_id": "decal:56",
       "html_path": "works/decal/index.html#p-56",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-56",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-56",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:ec64ccf67c5d6cd97c0c8dc6d999904df6516f67cf89131e639ad52e6b0259f1",
@@ -5508,9 +5508,9 @@
         "work": "십계명에 관하여",
         "reference": "56",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:be0282fba87abe792dcd860c5b8ab029da723c6d7b14534431bf4195c34bdad2",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-56"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-56"
       }
     },
     {
@@ -5578,7 +5578,7 @@
       "notes": [],
       "work_passage_id": "decal:57",
       "html_path": "works/decal/index.html#p-57",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-57",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-57",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:4ae1dde059f03db9cb4b353019d005b038628fd146f6cbfe4c21ddee7fd910bb",
@@ -5603,9 +5603,9 @@
         "work": "십계명에 관하여",
         "reference": "57",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:4deb98a95061432a6a89529e958b613b38694e0d1b69bc6e6c0bba7bf2d3b304",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-57"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-57"
       }
     },
     {
@@ -5686,7 +5686,7 @@
       "notes": [],
       "work_passage_id": "decal:58",
       "html_path": "works/decal/index.html#p-58",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-58",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-58",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:ca720134ea22049f796ee44d65cb73fb884fd0d2717f774872861a7d86b512ea",
@@ -5711,9 +5711,9 @@
         "work": "십계명에 관하여",
         "reference": "58",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:fb476c5704a3f2aa9d3392dba19a8d7038d0222966991aec076f53b7219cd471",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-58"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-58"
       }
     },
     {
@@ -5794,7 +5794,7 @@
       "notes": [],
       "work_passage_id": "decal:59",
       "html_path": "works/decal/index.html#p-59",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-59",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-59",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:c75f7562a737d893856d1d46101135390426ac82ffdd1f237705a95bcf982199",
@@ -5819,9 +5819,9 @@
         "work": "십계명에 관하여",
         "reference": "59",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:7ead11d0070590cac3415d12727dc8a65d71810489f920b8b9ac45b840199ea3",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-59"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-59"
       }
     },
     {
@@ -5902,7 +5902,7 @@
       "notes": [],
       "work_passage_id": "decal:60",
       "html_path": "works/decal/index.html#p-60",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-60",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-60",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:0dbbb5d8b1d7b306125d48f19f075a50a5002dd08758d794788064ca1aba675a",
@@ -5927,9 +5927,9 @@
         "work": "십계명에 관하여",
         "reference": "60",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:6a2481388291ead7eb51deef7f96e434df2c87a4162d279eeca284f26c61f22e",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-60"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-60"
       }
     },
     {
@@ -5986,7 +5986,7 @@
       ],
       "work_passage_id": "decal:61",
       "html_path": "works/decal/index.html#p-61",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-61",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-61",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:381bcbf79a9772dac469a5e02c58711e66773531170fc60daee08ba78f5b6251",
@@ -6011,9 +6011,9 @@
         "work": "십계명에 관하여",
         "reference": "61",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:7a409b291514bc2b812add5df8b98b5ff6e38e813fcddeb1988c2f64dec225ef",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-61"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-61"
       }
     },
     {
@@ -6081,7 +6081,7 @@
       "notes": [],
       "work_passage_id": "decal:62",
       "html_path": "works/decal/index.html#p-62",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-62",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-62",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:2fd87600644b7f6490bd9f01e970459a4644f1364787c39a31e0dba906515ef8",
@@ -6106,9 +6106,9 @@
         "work": "십계명에 관하여",
         "reference": "62",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:d941a1aa577d924da1b7d7302dc956e7fe586a7d1da6b0ad24031b1c4ce3ada8",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-62"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-62"
       }
     },
     {
@@ -6189,7 +6189,7 @@
       "notes": [],
       "work_passage_id": "decal:63",
       "html_path": "works/decal/index.html#p-63",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-63",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-63",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:efcaf527868fb6429bb8f683501800e94cbc1bbd14adca0846e94e31fdcc5e04",
@@ -6214,9 +6214,9 @@
         "work": "십계명에 관하여",
         "reference": "63",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:707fd5fe9765fc9d1b0a21edbdb302fcbec62663206cf2d6828ace4394e7d4ed",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-63"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-63"
       }
     },
     {
@@ -6310,7 +6310,7 @@
       "notes": [],
       "work_passage_id": "decal:64",
       "html_path": "works/decal/index.html#p-64",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-64",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-64",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:821107708ef6316df9ef9e65d1eba3d28196a5919f9465ed0d46aa7ed032cce6",
@@ -6335,9 +6335,9 @@
         "work": "십계명에 관하여",
         "reference": "64",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:df054725e5d31f8052e5e77fae2f43aa561e0220b5d90bf368fabb30a647fb77",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-64"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-64"
       }
     },
     {
@@ -6392,7 +6392,7 @@
       "notes": [],
       "work_passage_id": "decal:65",
       "html_path": "works/decal/index.html#p-65",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-65",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-65",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:adfcf11db3f5617e0972359fbe210bd2e2fc1afc168fae1dd8ea17bcee8690b0",
@@ -6417,9 +6417,9 @@
         "work": "십계명에 관하여",
         "reference": "65",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:9a15ae39bce70afd9722519192eb54657e1e3e6830bcff4709d711babe676a46",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-65"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-65"
       }
     },
     {
@@ -6487,7 +6487,7 @@
       "notes": [],
       "work_passage_id": "decal:66",
       "html_path": "works/decal/index.html#p-66",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-66",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-66",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:89aeb749bdedc2a9766be41b449759da064ef65778cb295d4843927659037b47",
@@ -6512,9 +6512,9 @@
         "work": "십계명에 관하여",
         "reference": "66",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:077ecf1ae6f21b5d05adb1bc74b3faf0909da5eb2c564de0140aac73e6e7933d",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-66"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-66"
       }
     },
     {
@@ -6582,7 +6582,7 @@
       "notes": [],
       "work_passage_id": "decal:67",
       "html_path": "works/decal/index.html#p-67",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-67",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-67",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:fb061cdac469841e8463566459af1d98ecdc6225a349c58c326ea7a5833fe326",
@@ -6607,9 +6607,9 @@
         "work": "십계명에 관하여",
         "reference": "67",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:ae4fb1d867123ab4977e189ec6b5e26899635c3df6c75b78fd0b023c06c2f1cb",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-67"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-67"
       }
     },
     {
@@ -6664,7 +6664,7 @@
       "notes": [],
       "work_passage_id": "decal:68",
       "html_path": "works/decal/index.html#p-68",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-68",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-68",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:3bf4ac0c175eedd2083e60567eb4c81aacf07b96b2f83d1cfa80d3f19ed39817",
@@ -6689,9 +6689,9 @@
         "work": "십계명에 관하여",
         "reference": "68",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:78e98d40d2d20a4f5ec0d8d5d27e469c21fc5b75fd3a2b0ad3ee9d5aa1b91b09",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-68"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-68"
       }
     },
     {
@@ -6772,7 +6772,7 @@
       "notes": [],
       "work_passage_id": "decal:69",
       "html_path": "works/decal/index.html#p-69",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-69",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-69",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:1766d6c7f1731595094822eadcf765d9be14a2ddb4b20f9045b554e2a88a9985",
@@ -6797,9 +6797,9 @@
         "work": "십계명에 관하여",
         "reference": "69",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:76efc0a28781470420e249b54da6425ac5df214ddf1a0c5978a0fc3fdab2c382",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-69"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-69"
       }
     },
     {
@@ -6854,7 +6854,7 @@
       "notes": [],
       "work_passage_id": "decal:70",
       "html_path": "works/decal/index.html#p-70",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-70",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-70",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:79246c7a1779216dd3dc6c2b79f7198fcc9d4d23c795af868eae876bf8f5e959",
@@ -6879,9 +6879,9 @@
         "work": "십계명에 관하여",
         "reference": "70",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:8a059a47747cd1548ff5774ab40490996acc738700a27aa85fe21e2571f82e58",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-70"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-70"
       }
     },
     {
@@ -6949,7 +6949,7 @@
       "notes": [],
       "work_passage_id": "decal:71",
       "html_path": "works/decal/index.html#p-71",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-71",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-71",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:ea8e287b69d40f5040e50ffb92cfd1421462c0c0af31c8f0ff03a23b027f6030",
@@ -6974,9 +6974,9 @@
         "work": "십계명에 관하여",
         "reference": "71",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:aa78449b768219bbd9201ef932d3f11342897a4ba1da3dcab6b40092013fca3f",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-71"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-71"
       }
     },
     {
@@ -7057,7 +7057,7 @@
       "notes": [],
       "work_passage_id": "decal:72",
       "html_path": "works/decal/index.html#p-72",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-72",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-72",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:c220fe0ee2cba1221a16fc3238e36db76d297abbcd875acf243ed1da3bb27935",
@@ -7082,9 +7082,9 @@
         "work": "십계명에 관하여",
         "reference": "72",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:43d1f2bb18a276e8cbab48432e5b8ae188dd9089dbc687777076cd730401e29c",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-72"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-72"
       }
     },
     {
@@ -7126,7 +7126,7 @@
       "notes": [],
       "work_passage_id": "decal:73",
       "html_path": "works/decal/index.html#p-73",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-73",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-73",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:1cdb0618a3ec67ab72ad67994b1850d1a1a397858e203ae6498407a76a0cdad5",
@@ -7151,9 +7151,9 @@
         "work": "십계명에 관하여",
         "reference": "73",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:4fd6b2783897132785006f35dd7861b487f05da4cbf3d8dfc21af916cc926e3f",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-73"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-73"
       }
     },
     {
@@ -7273,7 +7273,7 @@
       "notes": [],
       "work_passage_id": "decal:74",
       "html_path": "works/decal/index.html#p-74",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-74",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-74",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:8a5d4258db53419dae929fa0a816012c66537cc270aeda86c8d506a9aac726f4",
@@ -7298,9 +7298,9 @@
         "work": "십계명에 관하여",
         "reference": "74",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:5e00be13d274d322a90b589ca75ac8ac73338b6a6c198bd4af42467f2fcaf90f",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-74"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-74"
       }
     },
     {
@@ -7355,7 +7355,7 @@
       "notes": [],
       "work_passage_id": "decal:75",
       "html_path": "works/decal/index.html#p-75",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-75",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-75",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:cfe55b063096042fd03700050bacafe0359b3cdcee98daf8e7f1cb168435b35c",
@@ -7380,9 +7380,9 @@
         "work": "십계명에 관하여",
         "reference": "75",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:55cface8178ec3e3cabacdb549bf1c3dd4a41c8dc6bfbcde7e658d4403cca10b",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-75"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-75"
       }
     },
     {
@@ -7476,7 +7476,7 @@
       "notes": [],
       "work_passage_id": "decal:76",
       "html_path": "works/decal/index.html#p-76",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-76",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-76",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:93af2042f01210e462d27aece92333623637eca1a500f8a83de976cb12409c31",
@@ -7501,9 +7501,9 @@
         "work": "십계명에 관하여",
         "reference": "76",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:68e27c794f306a2cdb53736246c8b873dfe6689b88658f03abd50bde7927d798",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-76"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-76"
       }
     },
     {
@@ -7584,7 +7584,7 @@
       "notes": [],
       "work_passage_id": "decal:77",
       "html_path": "works/decal/index.html#p-77",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-77",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-77",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:16e6f58354927811080c3e463b4fd2184cb69aa3ab034ec7e3a091f5f9cc4b85",
@@ -7609,9 +7609,9 @@
         "work": "십계명에 관하여",
         "reference": "77",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:2e5b56ff56dab1b908b86747415f5cbbaa82152251af17e1f670dc2496a5a460",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-77"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-77"
       }
     },
     {
@@ -7707,7 +7707,7 @@
       ],
       "work_passage_id": "decal:78",
       "html_path": "works/decal/index.html#p-78",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-78",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-78",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:098af2554ff28ba8da41a54f2bda65533240607030a3ac65e4a97e6bcf5eea27",
@@ -7732,9 +7732,9 @@
         "work": "십계명에 관하여",
         "reference": "78",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:1efcae63d1d4eb3c9de1fbd9fc28e4cfa11d312b6faac5b9e8263b94162f74ac",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-78"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-78"
       }
     },
     {
@@ -7789,7 +7789,7 @@
       "notes": [],
       "work_passage_id": "decal:79",
       "html_path": "works/decal/index.html#p-79",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-79",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-79",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:91753224b6e2e270612505d9b28887e31a5b5f838addfc3585ae0b3d72596186",
@@ -7814,9 +7814,9 @@
         "work": "십계명에 관하여",
         "reference": "79",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:9726b67647a5a54b94487a8e5ffb080b8594de9711b40b7d90daa773978cd57f",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-79"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-79"
       }
     },
     {
@@ -7910,7 +7910,7 @@
       "notes": [],
       "work_passage_id": "decal:80",
       "html_path": "works/decal/index.html#p-80",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-80",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-80",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:1d18984ec970b2d4a794376aa96968fdbd31a0161649a4978aedf1874c8fe5bc",
@@ -7935,9 +7935,9 @@
         "work": "십계명에 관하여",
         "reference": "80",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:d98554c9dd4bc7e723143056857449bf5d108ea3b88dfaae4b195633ff4d40e1",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-80"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-80"
       }
     },
     {
@@ -8031,7 +8031,7 @@
       "notes": [],
       "work_passage_id": "decal:81",
       "html_path": "works/decal/index.html#p-81",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-81",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-81",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:380d4f401f52c24745eb58b103e3e3790e64e87545a323f9a960aa0bb68a7c4a",
@@ -8056,9 +8056,9 @@
         "work": "십계명에 관하여",
         "reference": "81",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:3c29d688a77fcf314fc2172e339bf5a0654d7064572f0bdbcb46c6f4e2208fef",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-81"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-81"
       }
     },
     {
@@ -8128,7 +8128,7 @@
       ],
       "work_passage_id": "decal:82",
       "html_path": "works/decal/index.html#p-82",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-82",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-82",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:bf2ee66e3ee4b4fce2a004ccfb7e3e8e66872d02b892611dc6584a8cd968cb22",
@@ -8153,9 +8153,9 @@
         "work": "십계명에 관하여",
         "reference": "82",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:dc0209ed11df51aaebef4da4f3814ebd8657153864a2fb053e578cb404ad7c50",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-82"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-82"
       }
     },
     {
@@ -8210,7 +8210,7 @@
       "notes": [],
       "work_passage_id": "decal:83",
       "html_path": "works/decal/index.html#p-83",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-83",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-83",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:68af375758dd9bbdef5a7eddd896f7327f7124e5a61efa43dca15bb2be18eb1d",
@@ -8235,9 +8235,9 @@
         "work": "십계명에 관하여",
         "reference": "83",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:6798b5e05cbeb39a6cb00f29e16e4f4039804e80c4e88a15223e0fe5647bbbc9",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-83"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-83"
       }
     },
     {
@@ -8292,7 +8292,7 @@
       "notes": [],
       "work_passage_id": "decal:84",
       "html_path": "works/decal/index.html#p-84",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-84",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-84",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:681f2bff885899c5b50a616646fed363cee994a9472963403a3dd8b6f4cc8324",
@@ -8317,9 +8317,9 @@
         "work": "십계명에 관하여",
         "reference": "84",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:7e3e3a1fe10b97d3a4ca6f4b0c458bb896edb42900522951a820fd537cf098c2",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-84"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-84"
       }
     },
     {
@@ -8374,7 +8374,7 @@
       "notes": [],
       "work_passage_id": "decal:85",
       "html_path": "works/decal/index.html#p-85",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-85",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-85",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:1bd3c60bfd968eb6ea5f9f99e31395c20d3c0e9b6b42ec6b12bd3bf57f140ef8",
@@ -8399,9 +8399,9 @@
         "work": "십계명에 관하여",
         "reference": "85",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:601cc3b12ee978472042efaa04d5c3ae0c89b4d4ef6a3f0ee08f7064267202b5",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-85"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-85"
       }
     },
     {
@@ -8482,7 +8482,7 @@
       "notes": [],
       "work_passage_id": "decal:86",
       "html_path": "works/decal/index.html#p-86",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-86",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-86",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:37de406fbf0291ea2f74d770d2ccaf13fafaf823a3d487390de70aac58ef7fab",
@@ -8507,9 +8507,9 @@
         "work": "십계명에 관하여",
         "reference": "86",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:bcdacf2dcb07446f7d3507980c9caec7f7513c4b3d619b2da87522f3a436f57c",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-86"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-86"
       }
     },
     {
@@ -8631,7 +8631,7 @@
       ],
       "work_passage_id": "decal:87",
       "html_path": "works/decal/index.html#p-87",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-87",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-87",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:b2b38e20ef21e6f0f67b6c886c863d94b3ae49aacdaaf917fb4f5ce5d9551cfe",
@@ -8656,9 +8656,9 @@
         "work": "십계명에 관하여",
         "reference": "87",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:fe5a938d64d36f6b7d1a6c43a981663e868e5b28a2d52b2deab4197cfac663fa",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-87"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-87"
       }
     },
     {
@@ -8726,7 +8726,7 @@
       "notes": [],
       "work_passage_id": "decal:88",
       "html_path": "works/decal/index.html#p-88",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-88",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-88",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:41f272fb6e0eaac594bf58e4321d5862e5eab1bbd89db72eb619fd23c96358f2",
@@ -8751,9 +8751,9 @@
         "work": "십계명에 관하여",
         "reference": "88",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:dffc0634a06ba71ac032a7654e16b6e5c6b07dfc07720d433acd4f8cee75f050",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-88"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-88"
       }
     },
     {
@@ -8847,7 +8847,7 @@
       "notes": [],
       "work_passage_id": "decal:89",
       "html_path": "works/decal/index.html#p-89",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-89",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-89",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:267265ac079f9e04201812514bc1340e663b15710e334634f2a232f77579b6cb",
@@ -8872,9 +8872,9 @@
         "work": "십계명에 관하여",
         "reference": "89",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:90164b53116ee85dba9ad5d36786bf7115082816bcf20fa0928fcfc5ad8d6cb9",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-89"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-89"
       }
     },
     {
@@ -8916,7 +8916,7 @@
       "notes": [],
       "work_passage_id": "decal:90",
       "html_path": "works/decal/index.html#p-90",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-90",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-90",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:0a94b4c1d7ddcc5cfe95ae4e57050e8e2617a706ea0b0a65cdfb22ced15f1cc0",
@@ -8941,9 +8941,9 @@
         "work": "십계명에 관하여",
         "reference": "90",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:55896ca162e5d2648f64cb83b06fa6de9f791e242501986ffc7dc9c824c39b86",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-90"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-90"
       }
     },
     {
@@ -9076,7 +9076,7 @@
       "notes": [],
       "work_passage_id": "decal:91",
       "html_path": "works/decal/index.html#p-91",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-91",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-91",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:385501b1b1ac9a541304c111af1bbc95a435e54405123559f04f27b01b7275bb",
@@ -9101,9 +9101,9 @@
         "work": "십계명에 관하여",
         "reference": "91",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:b632c902fd1d5220cece2d51f4f3586360d6d969eeebe119d8bdad7bddce4089",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-91"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-91"
       }
     },
     {
@@ -9197,7 +9197,7 @@
       "notes": [],
       "work_passage_id": "decal:92",
       "html_path": "works/decal/index.html#p-92",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-92",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-92",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:111578447af51211d1fd4c3aa1c08caba716c5ef6cc97fd344965d5c9354b181",
@@ -9222,9 +9222,9 @@
         "work": "십계명에 관하여",
         "reference": "92",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:d8db90e540f2bfa062a47056f31e3847d857077da98a1113932de2dad9b2a764",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-92"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-92"
       }
     },
     {
@@ -9305,7 +9305,7 @@
       "notes": [],
       "work_passage_id": "decal:93",
       "html_path": "works/decal/index.html#p-93",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-93",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-93",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:14beccad224adc3896f254e7379f5999c272674e4f16e97dc13afc6a3e245d82",
@@ -9330,9 +9330,9 @@
         "work": "십계명에 관하여",
         "reference": "93",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:b8e783640d5388097dc51b3225b437eb731f7a7fbd2a45ebb1a92d1152a617ec",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-93"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-93"
       }
     },
     {
@@ -9413,7 +9413,7 @@
       "notes": [],
       "work_passage_id": "decal:94",
       "html_path": "works/decal/index.html#p-94",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-94",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-94",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:457c77831cca5ff89a1ae13004e9a67ee8116cf221bd086e160285abd6a2ef38",
@@ -9438,9 +9438,9 @@
         "work": "십계명에 관하여",
         "reference": "94",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:3255f8dd0ea88354c1e632a2f525e03fe64361c4aed1768dd21f2429e055e6d1",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-94"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-94"
       }
     },
     {
@@ -9521,7 +9521,7 @@
       "notes": [],
       "work_passage_id": "decal:95",
       "html_path": "works/decal/index.html#p-95",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-95",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-95",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:2243b271bcba0ac729e9af65aad3418926e2e7adbe928176ec19cc2229e07821",
@@ -9546,9 +9546,9 @@
         "work": "십계명에 관하여",
         "reference": "95",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:f69cb44850b0e9c16b56c75ea1bc4420b9e2d3c443a7b328045517508b2ad845",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-95"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-95"
       }
     },
     {
@@ -9605,7 +9605,7 @@
       ],
       "work_passage_id": "decal:96",
       "html_path": "works/decal/index.html#p-96",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-96",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-96",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:a205fa598f20301f22785353ad6119b714765d141d5eab34af9d30d6514ba921",
@@ -9630,9 +9630,9 @@
         "work": "십계명에 관하여",
         "reference": "96",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:d86f7c0ae7c68d3f3105807f0507c3716b89125da98c71d62d2fb15880ef9270",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-96"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-96"
       }
     },
     {
@@ -9687,7 +9687,7 @@
       "notes": [],
       "work_passage_id": "decal:97",
       "html_path": "works/decal/index.html#p-97",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-97",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-97",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:dbdd4204184ec3175d85018f3885959e4885c71d7b08c0861c8cd4b9f71cdcad",
@@ -9712,9 +9712,9 @@
         "work": "십계명에 관하여",
         "reference": "97",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:049fba3e930eaac87bca5fa9838426f22f794103ad6eaa9d93e22f1ab721f7bb",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-97"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-97"
       }
     },
     {
@@ -9808,7 +9808,7 @@
       "notes": [],
       "work_passage_id": "decal:98",
       "html_path": "works/decal/index.html#p-98",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-98",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-98",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:8e81cd10ae6ea33b361717d764b43a960a7245c471186fd969aa5f610313fca8",
@@ -9833,9 +9833,9 @@
         "work": "십계명에 관하여",
         "reference": "98",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:d9c928a1b4bcd04487b7747929e4eeb17535b701be924849fe78d06bcf154814",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-98"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-98"
       }
     },
     {
@@ -9903,7 +9903,7 @@
       "notes": [],
       "work_passage_id": "decal:99",
       "html_path": "works/decal/index.html#p-99",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-99",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-99",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:633e94cf166240a0282229dbd8be7405d46d68d568e224137f8fb797b0877615",
@@ -9928,9 +9928,9 @@
         "work": "십계명에 관하여",
         "reference": "99",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:bcd4682894ad5b1b566102a87b533b9bdc1ab829823b9da2b2d8ad9c409d17ab",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-99"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-99"
       }
     },
     {
@@ -10011,7 +10011,7 @@
       "notes": [],
       "work_passage_id": "decal:100",
       "html_path": "works/decal/index.html#p-100",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-100",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-100",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:2b82285b3d54d91b455550a3dc83f3ba75b7918a8ffe45220839012a530b8e62",
@@ -10036,9 +10036,9 @@
         "work": "십계명에 관하여",
         "reference": "100",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:bd1dbb42b577e4f4343f66467ef6e21ece116d16cdf39edcf6d8bee0ed7079a0",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-100"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-100"
       }
     },
     {
@@ -10106,7 +10106,7 @@
       "notes": [],
       "work_passage_id": "decal:101",
       "html_path": "works/decal/index.html#p-101",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-101",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-101",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:698f61f9ed491f7d849f749099c85218d65441a687387cb14112a36f224ed15a",
@@ -10131,9 +10131,9 @@
         "work": "십계명에 관하여",
         "reference": "101",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:bdc92aa91a94bf9264bfb01c42b7bc7baced8548849958c3eb834e408ad90a02",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-101"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-101"
       }
     },
     {
@@ -10229,7 +10229,7 @@
       ],
       "work_passage_id": "decal:102",
       "html_path": "works/decal/index.html#p-102",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-102",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-102",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:27b64bf21c586201122685117ef53b27df73d910b7ff27e6d7ac84a4c3a0019e",
@@ -10254,9 +10254,9 @@
         "work": "십계명에 관하여",
         "reference": "102",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:afd1f8a5cdcb736220d6c1aacf849e16710586b76e3f22ec612a9b99852ced6e",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-102"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-102"
       }
     },
     {
@@ -10324,7 +10324,7 @@
       "notes": [],
       "work_passage_id": "decal:103",
       "html_path": "works/decal/index.html#p-103",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-103",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-103",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:036f2936e77f6ea5c50800432309647350b080b210c62348529184607fcf0f25",
@@ -10349,9 +10349,9 @@
         "work": "십계명에 관하여",
         "reference": "103",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:267a8a1c9f8fb836e7add789b0a067f3e6d120f6e4833c865dbc7a130f5f8728",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-103"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-103"
       }
     },
     {
@@ -10447,7 +10447,7 @@
       ],
       "work_passage_id": "decal:104",
       "html_path": "works/decal/index.html#p-104",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-104",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-104",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:cf6fb6fc21320a07f5c44eafd09472d013cdbee0c3ca686ff23d9d3c97bfaa12",
@@ -10472,9 +10472,9 @@
         "work": "십계명에 관하여",
         "reference": "104",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:c2a98e55b1e28bfe7732e1c1655c96bf59cf347024d55fdcc3220d1d954018f2",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-104"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-104"
       }
     },
     {
@@ -10529,7 +10529,7 @@
       "notes": [],
       "work_passage_id": "decal:105",
       "html_path": "works/decal/index.html#p-105",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-105",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-105",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:310ae5afc5ac5a505b0eb5998b621adaf3ece453aaa56d06cbecc3772ff8f042",
@@ -10554,9 +10554,9 @@
         "work": "십계명에 관하여",
         "reference": "105",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:a4388091b5743006711e17ab5d999eae97fda345209c9601656603e505e98520",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-105"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-105"
       }
     },
     {
@@ -10626,7 +10626,7 @@
       ],
       "work_passage_id": "decal:106",
       "html_path": "works/decal/index.html#p-106",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-106",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-106",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:39e953a7021dca207e6992724777fd27fc7ee14489d55cefb75f562883517ace",
@@ -10651,9 +10651,9 @@
         "work": "십계명에 관하여",
         "reference": "106",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:0e12adacd358e897c24bd987c1ad8741075807cc10e6b9cf2f34adfce9437fa7",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-106"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-106"
       }
     },
     {
@@ -10708,7 +10708,7 @@
       "notes": [],
       "work_passage_id": "decal:107",
       "html_path": "works/decal/index.html#p-107",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-107",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-107",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:dcd6db6508717b62fbaf47255babd39d53b0b120ea243b15cfe6b925fa74fcee",
@@ -10733,9 +10733,9 @@
         "work": "십계명에 관하여",
         "reference": "107",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:fd00cd5c2db172a5748f197c40e871a54cbe9f8f3e6f47777defe70bae42bfc1",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-107"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-107"
       }
     },
     {
@@ -10790,7 +10790,7 @@
       "notes": [],
       "work_passage_id": "decal:108",
       "html_path": "works/decal/index.html#p-108",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-108",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-108",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:ac7bbcdd2f42d35e984c23c596aec39ca12d43d93aca7ab6282cfc2d6e20311d",
@@ -10815,9 +10815,9 @@
         "work": "십계명에 관하여",
         "reference": "108",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:5c9c5fa07121e8b1c01d1db0f3cce4f4b9c9a564017ae92510d02ab872cf65cd",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-108"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-108"
       }
     },
     {
@@ -10885,7 +10885,7 @@
       "notes": [],
       "work_passage_id": "decal:109",
       "html_path": "works/decal/index.html#p-109",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-109",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-109",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:6801254c291280b7e7d2274106582ea1dc9ce3c25eb4904eeed2783705a64071",
@@ -10910,9 +10910,9 @@
         "work": "십계명에 관하여",
         "reference": "109",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:f316637ec02937685a86d1bc436a372c000a35aafef680f27aff6fd35739282d",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-109"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-109"
       }
     },
     {
@@ -11019,7 +11019,7 @@
       "notes": [],
       "work_passage_id": "decal:110",
       "html_path": "works/decal/index.html#p-110",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-110",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-110",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:b1ead2df428311194616652064b112567bc4c49f781b23e8dfaec6240288a9b4",
@@ -11044,9 +11044,9 @@
         "work": "십계명에 관하여",
         "reference": "110",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:9a027b698c229e2f353ab40b43fd0d1ce426ac6f4a1928fb53510944a532adfd",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-110"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-110"
       }
     },
     {
@@ -11114,7 +11114,7 @@
       "notes": [],
       "work_passage_id": "decal:111",
       "html_path": "works/decal/index.html#p-111",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-111",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-111",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:19d7a7ba02e955f1d542e728d2e8e918bf1edb668f4ab1aa17033cb8c92be117",
@@ -11139,9 +11139,9 @@
         "work": "십계명에 관하여",
         "reference": "111",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:fe34f34b39acdc2fe6294cf9ba373f8c6aa73dfa37c9df24fb22bf5d38e0dd26",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-111"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-111"
       }
     },
     {
@@ -11222,7 +11222,7 @@
       "notes": [],
       "work_passage_id": "decal:112",
       "html_path": "works/decal/index.html#p-112",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-112",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-112",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:10f781dfea34589522bc5189264d5094939fa0aa28981860918f9eb962ddad76",
@@ -11247,9 +11247,9 @@
         "work": "십계명에 관하여",
         "reference": "112",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:b2bbaf78ea74a4f7ec01e9b54f6452731ec69c474060e6b1356831c7b9498686",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-112"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-112"
       }
     },
     {
@@ -11330,7 +11330,7 @@
       "notes": [],
       "work_passage_id": "decal:113",
       "html_path": "works/decal/index.html#p-113",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-113",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-113",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:f8613cc0bf14e8b1a719ffc8d9956b99c2e0d8787d49f6efc5ecf9517a26bb54",
@@ -11355,9 +11355,9 @@
         "work": "십계명에 관하여",
         "reference": "113",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:3fe00a04279ce6342d207bde6f58f1227d6c0744546c1f6b5d9928b1b20253c7",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-113"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-113"
       }
     },
     {
@@ -11412,7 +11412,7 @@
       "notes": [],
       "work_passage_id": "decal:114",
       "html_path": "works/decal/index.html#p-114",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-114",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-114",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:00444b47ae9e61e15f0cbee49b3c13ebb3a76a4b6c856a319da7c2e7156eef04",
@@ -11437,9 +11437,9 @@
         "work": "십계명에 관하여",
         "reference": "114",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:fc52b5309c6820c94a61178c82d23997429ba1c0d1e2b82b8b8a97ffd12a0a13",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-114"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-114"
       }
     },
     {
@@ -11481,7 +11481,7 @@
       "notes": [],
       "work_passage_id": "decal:115",
       "html_path": "works/decal/index.html#p-115",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-115",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-115",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:2f08333b63645c4c89acd3a4a1e7ef1560ad5a2de528620fc20a89e5a8144612",
@@ -11506,9 +11506,9 @@
         "work": "십계명에 관하여",
         "reference": "115",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:2cdea30e83fcbb47f678b295ab671e0aedc9cbdfc456a49c8ce29fb95898f631",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-115"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-115"
       }
     },
     {
@@ -11550,7 +11550,7 @@
       "notes": [],
       "work_passage_id": "decal:116",
       "html_path": "works/decal/index.html#p-116",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-116",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-116",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:0532bb65352710e0dc36442365f49b81d11fb4b801584a287ae5627bd9b1a91e",
@@ -11575,9 +11575,9 @@
         "work": "십계명에 관하여",
         "reference": "116",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:9df82aefad73a0682d6c41f0a9634bbefdb62c1a3da199f272c69812bbf33552",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-116"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-116"
       }
     },
     {
@@ -11671,7 +11671,7 @@
       "notes": [],
       "work_passage_id": "decal:117",
       "html_path": "works/decal/index.html#p-117",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-117",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-117",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:e3d45d46fdc9239f01056db33d88c2f5ac216601726211ca03dfda61321fb48f",
@@ -11696,9 +11696,9 @@
         "work": "십계명에 관하여",
         "reference": "117",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:ff2856281132bf72e503567f630c2f0886f819c9192fd7460078dea0a3f053c6",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-117"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-117"
       }
     },
     {
@@ -11766,7 +11766,7 @@
       "notes": [],
       "work_passage_id": "decal:118",
       "html_path": "works/decal/index.html#p-118",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-118",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-118",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:6f96210ff5a6f346fc89e49ad1f366abc5ccbee032b2f06a3f98c5cf54da40c3",
@@ -11791,9 +11791,9 @@
         "work": "십계명에 관하여",
         "reference": "118",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:a8eaae34eed63fe00d60ceeb0e3c6580492761540c54dc8c5c69d2ad0ebc30bf",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-118"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-118"
       }
     },
     {
@@ -11861,7 +11861,7 @@
       "notes": [],
       "work_passage_id": "decal:119",
       "html_path": "works/decal/index.html#p-119",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-119",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-119",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:4aa4f22c2fefdb71b0c11cb62b51307e0ec1abbcd48214b9673dd010d6eb7371",
@@ -11886,9 +11886,9 @@
         "work": "십계명에 관하여",
         "reference": "119",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:5047621f25bb5e24fa42fc29bf6be2e04148cfd4459b66824e531277ffab31f4",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-119"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-119"
       }
     },
     {
@@ -11956,7 +11956,7 @@
       "notes": [],
       "work_passage_id": "decal:120",
       "html_path": "works/decal/index.html#p-120",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-120",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-120",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:c87668340107d84bb4bd3b9f5a7e8d1f04e917109041b75faca76e9b219f85bc",
@@ -11981,9 +11981,9 @@
         "work": "십계명에 관하여",
         "reference": "120",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:d7e7c604f21173095edaf24b8008798816b1a6e474efff71bbae8f364098cb8c",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-120"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-120"
       }
     },
     {
@@ -12038,7 +12038,7 @@
       "notes": [],
       "work_passage_id": "decal:121",
       "html_path": "works/decal/index.html#p-121",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-121",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-121",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:e1471c3eb0e7edcda030c8c2b39262ff637a10986ca99ad1c6ddd0dca3026d6a",
@@ -12063,9 +12063,9 @@
         "work": "십계명에 관하여",
         "reference": "121",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:b3507f388df7abd3bb996ad3ecd7efe3e7901aec622346d3a26c52d4fefdb0b1",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-121"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-121"
       }
     },
     {
@@ -12133,7 +12133,7 @@
       "notes": [],
       "work_passage_id": "decal:122",
       "html_path": "works/decal/index.html#p-122",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-122",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-122",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:2a9bd97671aa22d675d63c5b5bed9ff78c81016038e4619e2c25ff1e9cc14796",
@@ -12158,9 +12158,9 @@
         "work": "십계명에 관하여",
         "reference": "122",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:01d186e9a6252e7164c93be3f87f6132168541af396188b285cf5d3b32b2a51b",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-122"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-122"
       }
     },
     {
@@ -12230,7 +12230,7 @@
       ],
       "work_passage_id": "decal:123",
       "html_path": "works/decal/index.html#p-123",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-123",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-123",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:3f5e87c6ccae2e394ee720ba600ef2500a4bb612e89ff078127b7b94a02d55bd",
@@ -12255,9 +12255,9 @@
         "work": "십계명에 관하여",
         "reference": "123",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:0c37a55029b5269210aebe51d00f29dd0a0deaa9c9d7856ce6825127733fbf18",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-123"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-123"
       }
     },
     {
@@ -12312,7 +12312,7 @@
       "notes": [],
       "work_passage_id": "decal:124",
       "html_path": "works/decal/index.html#p-124",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-124",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-124",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:47415198150c77c347db957a62e325365d83ef272fa0d74abacb319eafb39d42",
@@ -12337,9 +12337,9 @@
         "work": "십계명에 관하여",
         "reference": "124",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:685ba5e344cdc1de45adefbb179463d32b6b6af6e7593aa076b2063160513345",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-124"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-124"
       }
     },
     {
@@ -12407,7 +12407,7 @@
       "notes": [],
       "work_passage_id": "decal:125",
       "html_path": "works/decal/index.html#p-125",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-125",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-125",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:6667dfbf3e1132240e1f2ef08a8913afb487a80a7fc791b1e2a3a0f057441266",
@@ -12432,9 +12432,9 @@
         "work": "십계명에 관하여",
         "reference": "125",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:902a7e332dccd5a094b9cef8acf5407062afcd5dc6311fff65db2441091c8043",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-125"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-125"
       }
     },
     {
@@ -12502,7 +12502,7 @@
       "notes": [],
       "work_passage_id": "decal:126",
       "html_path": "works/decal/index.html#p-126",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-126",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-126",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:49bc3d174ebf91b75e8c3f462eb0622bb0f9ac66b8973db7d892056f92e38ce1",
@@ -12527,9 +12527,9 @@
         "work": "십계명에 관하여",
         "reference": "126",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:b8daaff1127b0532e6c134b25bf0796dcdcb4a8cd914c90911f9f42f595c0bbf",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-126"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-126"
       }
     },
     {
@@ -12571,7 +12571,7 @@
       "notes": [],
       "work_passage_id": "decal:127",
       "html_path": "works/decal/index.html#p-127",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-127",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-127",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:41d044ee9fedf44e4c0709abec05c4c0ea004acf5910cdc16929fe02f7627d3f",
@@ -12596,9 +12596,9 @@
         "work": "십계명에 관하여",
         "reference": "127",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:45c0849b130a602ba9a308f8db362582074ada491ab284b5b4d68b1bf82797c6",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-127"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-127"
       }
     },
     {
@@ -12666,7 +12666,7 @@
       "notes": [],
       "work_passage_id": "decal:128",
       "html_path": "works/decal/index.html#p-128",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-128",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-128",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:f8411da091af479ce64a4e8609f46f5eb9dcfff984d1a899e75ba99fd21dcaff",
@@ -12691,9 +12691,9 @@
         "work": "십계명에 관하여",
         "reference": "128",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:c9c0e389b690b950a2c150273869e6d786b0463a8b3c27a096b6b7fd7744611b",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-128"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-128"
       }
     },
     {
@@ -12774,7 +12774,7 @@
       "notes": [],
       "work_passage_id": "decal:129",
       "html_path": "works/decal/index.html#p-129",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-129",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-129",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:b1d611658931fe808d2864e411fe8ffc752c054b73c1ebba737108c2259832b0",
@@ -12799,9 +12799,9 @@
         "work": "십계명에 관하여",
         "reference": "129",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:f8f287a16cb5e3581738dc98a23fd347985828a41a29cf8313f68833941106ad",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-129"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-129"
       }
     },
     {
@@ -12843,7 +12843,7 @@
       "notes": [],
       "work_passage_id": "decal:130",
       "html_path": "works/decal/index.html#p-130",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-130",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-130",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:b9647ace175998e0da84514295a72f4c89b3c2d71a1d3a5177b37f5635379a84",
@@ -12868,9 +12868,9 @@
         "work": "십계명에 관하여",
         "reference": "130",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:2889f30123a401b49ddc1267ed04fe7ff9fbe6c995314d5e2e4994891474f7fc",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-130"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-130"
       }
     },
     {
@@ -12912,7 +12912,7 @@
       "notes": [],
       "work_passage_id": "decal:131",
       "html_path": "works/decal/index.html#p-131",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-131",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-131",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:2463807e9aa15b40a20bbb7eec784a3be248db1eeb0a5b0b45e7a905fc4055ad",
@@ -12937,9 +12937,9 @@
         "work": "십계명에 관하여",
         "reference": "131",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:7c53c0c478d74e6fa7d191472aa6ec5446d958d6db70cbf25fc2b0b89b0c9b38",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-131"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-131"
       }
     },
     {
@@ -13020,7 +13020,7 @@
       "notes": [],
       "work_passage_id": "decal:132",
       "html_path": "works/decal/index.html#p-132",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-132",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-132",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:ada2b4c4ab98fcfaaa445b689d3d3d1959bdd2c8a36e00e1b1a3849cae7363a8",
@@ -13045,9 +13045,9 @@
         "work": "십계명에 관하여",
         "reference": "132",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:97fdea100a8949bb4eb721ec5717cbb9fdd07ce03fdc69c9296e3cb3bfe9cb63",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-132"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-132"
       }
     },
     {
@@ -13102,7 +13102,7 @@
       "notes": [],
       "work_passage_id": "decal:133",
       "html_path": "works/decal/index.html#p-133",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-133",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-133",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:3b77655cee661dc332ba1a2837f577e75f886ebf2b6aaf7962f77f4305a16f2a",
@@ -13127,9 +13127,9 @@
         "work": "십계명에 관하여",
         "reference": "133",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:4717f649891507fec8316adca911453fea3e5438f714d6aa96b4ccd93066d9c6",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-133"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-133"
       }
     },
     {
@@ -13197,7 +13197,7 @@
       "notes": [],
       "work_passage_id": "decal:134",
       "html_path": "works/decal/index.html#p-134",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-134",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-134",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:80fd4a65412626e65c70cf216d02b0750a5b3687a86e3f32434b7c7fb05411b2",
@@ -13222,9 +13222,9 @@
         "work": "십계명에 관하여",
         "reference": "134",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:3c772a001c6d3d5687e654b0ed24d83bb1fdd09b8c4e177a53b6cbdf53ead64c",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-134"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-134"
       }
     },
     {
@@ -13305,7 +13305,7 @@
       "notes": [],
       "work_passage_id": "decal:135",
       "html_path": "works/decal/index.html#p-135",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-135",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-135",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:035cf305b76fb2c7706b984d43b94c0cd5e46ddec04e7f539c273e3142148fe8",
@@ -13330,9 +13330,9 @@
         "work": "십계명에 관하여",
         "reference": "135",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:591def17722e85e935558df4f1ae0a3c4af15e1478742307bc7ed88e795ef114",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-135"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-135"
       }
     },
     {
@@ -13426,7 +13426,7 @@
       "notes": [],
       "work_passage_id": "decal:136",
       "html_path": "works/decal/index.html#p-136",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-136",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-136",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:fa0b4fb7375c2ee581d4465ebb318bd581f425c6968facb22156d63c94eab60a",
@@ -13451,9 +13451,9 @@
         "work": "십계명에 관하여",
         "reference": "136",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:ce3f7337971fcf8dbf653e1ee9a5ecd02a01a404a19850fc6cbca72ae987f91e",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-136"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-136"
       }
     },
     {
@@ -13508,7 +13508,7 @@
       "notes": [],
       "work_passage_id": "decal:137",
       "html_path": "works/decal/index.html#p-137",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-137",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-137",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:4a558402907d282c065accd8cd0951cd0a132dcf7545a4ca3a24bb52adbbaead",
@@ -13533,9 +13533,9 @@
         "work": "십계명에 관하여",
         "reference": "137",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:79de04e26285f77b605fb86d34873224a5196f9493c4df6191037b14c238b9e0",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-137"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-137"
       }
     },
     {
@@ -13616,7 +13616,7 @@
       "notes": [],
       "work_passage_id": "decal:138",
       "html_path": "works/decal/index.html#p-138",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-138",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-138",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:77784a19145dfb39451c9253c94944aac441158ebdb515d0b43769a20dec489a",
@@ -13641,9 +13641,9 @@
         "work": "십계명에 관하여",
         "reference": "138",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:8508cb3fbf08fb5f5c4217047eb327cae3b3fe837c6779ea66854a16ee0120a3",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-138"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-138"
       }
     },
     {
@@ -13698,7 +13698,7 @@
       "notes": [],
       "work_passage_id": "decal:139",
       "html_path": "works/decal/index.html#p-139",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-139",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-139",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:5411264af406bc21bba678ac430cb502abe7f92535b00374a0be929a7833e347",
@@ -13723,9 +13723,9 @@
         "work": "십계명에 관하여",
         "reference": "139",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:5c77a3b8eee240d4b6a64f26c0f35bfcc4ee1f90a7463b285774204ee24b2e7b",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-139"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-139"
       }
     },
     {
@@ -13832,7 +13832,7 @@
       "notes": [],
       "work_passage_id": "decal:140",
       "html_path": "works/decal/index.html#p-140",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-140",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-140",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:a0b0c3e8f2ee0849c803b4ddd3fdf761311aac1ad5bb5b6bf7fd8f341e284795",
@@ -13857,9 +13857,9 @@
         "work": "십계명에 관하여",
         "reference": "140",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:3130d00c82b86eaf904f7963ed8a483f39626d6ec70f18aee022da4b3746160b",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-140"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-140"
       }
     },
     {
@@ -13966,7 +13966,7 @@
       "notes": [],
       "work_passage_id": "decal:141",
       "html_path": "works/decal/index.html#p-141",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-141",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-141",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:2c6612f1478e7eb37abbceffb9005e55102bcb4926c30e64683253c9b94a9a83",
@@ -13991,9 +13991,9 @@
         "work": "십계명에 관하여",
         "reference": "141",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:d7397fa4ba9b375592bc3281aa315ca81651b26af98ea4879dce27905e68482b",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-141"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-141"
       }
     },
     {
@@ -14074,7 +14074,7 @@
       "notes": [],
       "work_passage_id": "decal:142",
       "html_path": "works/decal/index.html#p-142",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-142",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-142",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:0a3c126711ab0b86c56a392477ed98ea0d93323bd2b106cd15f3e22131ee6a6e",
@@ -14099,9 +14099,9 @@
         "work": "십계명에 관하여",
         "reference": "142",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:34c74fa54ca041e34fdb439505555beb987f98849cb98bc21e1bca3a19a310d1",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-142"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-142"
       }
     },
     {
@@ -14169,7 +14169,7 @@
       "notes": [],
       "work_passage_id": "decal:143",
       "html_path": "works/decal/index.html#p-143",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-143",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-143",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:3a6eaf14d12e76f585b9aaec34eea3848825c4e0c0162820cd9d532760f3d71e",
@@ -14194,9 +14194,9 @@
         "work": "십계명에 관하여",
         "reference": "143",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:f5b30e16a0b64461382f05bb274a2708fb0d4446906acdd0b266b3150ce11ad5",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-143"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-143"
       }
     },
     {
@@ -14238,7 +14238,7 @@
       "notes": [],
       "work_passage_id": "decal:144",
       "html_path": "works/decal/index.html#p-144",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-144",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-144",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:3caff10db8357e86453a18376e88b447f93407db452599789b5b22a976871074",
@@ -14263,9 +14263,9 @@
         "work": "십계명에 관하여",
         "reference": "144",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:c8c58e98da16c732cb7c382bff14d7029d58bf93d023d1b4f17343a89f2a293e",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-144"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-144"
       }
     },
     {
@@ -14335,7 +14335,7 @@
       ],
       "work_passage_id": "decal:145",
       "html_path": "works/decal/index.html#p-145",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-145",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-145",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:88af3bc72d3e396dc6081126322e2de2f3a4144c379de7586518d70f7fa06dff",
@@ -14360,9 +14360,9 @@
         "work": "십계명에 관하여",
         "reference": "145",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:42d87e17d6646e8c392f2f1fcb863fa6505a7632f152284e2c80dd8b93222d1b",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-145"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-145"
       }
     },
     {
@@ -14456,7 +14456,7 @@
       "notes": [],
       "work_passage_id": "decal:146",
       "html_path": "works/decal/index.html#p-146",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-146",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-146",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:b1c077d9abd90a4f60e44fadce3d223f267e760388d1b61d9f2c841fcd037661",
@@ -14481,9 +14481,9 @@
         "work": "십계명에 관하여",
         "reference": "146",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:33d19e46cadae22469e5a6bac8ba33ce2846d30e63fc5ca84d751a5104e35618",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-146"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-146"
       }
     },
     {
@@ -14564,7 +14564,7 @@
       "notes": [],
       "work_passage_id": "decal:147",
       "html_path": "works/decal/index.html#p-147",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-147",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-147",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:7905936fe364076fabb3d70ed6ff456dbdcb8340b90993a680eafefb2ed2a062",
@@ -14589,9 +14589,9 @@
         "work": "십계명에 관하여",
         "reference": "147",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:77420df34d944a1b65a8ca3e0c75ff5132df425e94c6721e587f10c376ce4d15",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-147"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-147"
       }
     },
     {
@@ -14646,7 +14646,7 @@
       "notes": [],
       "work_passage_id": "decal:148",
       "html_path": "works/decal/index.html#p-148",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-148",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-148",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:ecc4af2865b44232d246aef60d12da61f25691cf2bab2b937e4ed0b23420e71c",
@@ -14671,9 +14671,9 @@
         "work": "십계명에 관하여",
         "reference": "148",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:739fff174694bad825b20abbd98b62b190d736f38a3bf49d71645b4fd73478c0",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-148"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-148"
       }
     },
     {
@@ -14769,7 +14769,7 @@
       ],
       "work_passage_id": "decal:149",
       "html_path": "works/decal/index.html#p-149",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-149",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-149",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:298758da7608f2a8a231db3a7f6b5f45642eb7a21ad650616bff6911ee665695",
@@ -14794,9 +14794,9 @@
         "work": "십계명에 관하여",
         "reference": "149",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:1be52df6af88ffd71b279dac80ceccd3bf9eb941e699e58b119c62b7429f5d6f",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-149"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-149"
       }
     },
     {
@@ -14890,7 +14890,7 @@
       "notes": [],
       "work_passage_id": "decal:150",
       "html_path": "works/decal/index.html#p-150",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-150",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-150",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:f7864d761f58d9ab50c183f4137ae7827e07974bc750011a23e332e179cdd03d",
@@ -14915,9 +14915,9 @@
         "work": "십계명에 관하여",
         "reference": "150",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:387a29feeac610922914ef7311c0d5162ce651efe10f6453be339ea61581ddb0",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-150"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-150"
       }
     },
     {
@@ -14972,7 +14972,7 @@
       "notes": [],
       "work_passage_id": "decal:151",
       "html_path": "works/decal/index.html#p-151",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-151",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-151",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:bf3c15a0a54fe3f031575fbf240f3df44d13a616a006f091094707dfaa1baff3",
@@ -14997,9 +14997,9 @@
         "work": "십계명에 관하여",
         "reference": "151",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:14c2bebc3ad2ae38d91d0ce4a9d870b7296894038637ff051ba8b5b8fc0583af",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-151"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-151"
       }
     },
     {
@@ -15054,7 +15054,7 @@
       "notes": [],
       "work_passage_id": "decal:152",
       "html_path": "works/decal/index.html#p-152",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-152",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-152",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:6becd452e01492b917f0e9333a3a9f274c5db6d09a069e7f3bf56f7511cf9efe",
@@ -15079,9 +15079,9 @@
         "work": "십계명에 관하여",
         "reference": "152",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:6042d84c60a5a0f636b271b0a2db85ce5e7fd89d65a3ab3c141f77e91344bb88",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-152"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-152"
       }
     },
     {
@@ -15136,7 +15136,7 @@
       "notes": [],
       "work_passage_id": "decal:153",
       "html_path": "works/decal/index.html#p-153",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-153",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-153",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:4ff24e15ad3304ad6a1702a473f6aa669247315de327e9b93c595363b9a34321",
@@ -15161,9 +15161,9 @@
         "work": "십계명에 관하여",
         "reference": "153",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:14fb031b38b9c85909e1bf4941b9193afd0284c74c02dd4ee0eed1cae98303ae",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-153"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-153"
       }
     },
     {
@@ -15205,7 +15205,7 @@
       "notes": [],
       "work_passage_id": "decal:154",
       "html_path": "works/decal/index.html#p-154",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-154",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-154",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:96e929bcb79d974f127043e8bbabf09557382e12c4f0969ac45a257c29d8fe2e",
@@ -15230,9 +15230,9 @@
         "work": "십계명에 관하여",
         "reference": "154",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:09865011517a30d0b841310fa2d2ed6e1f41e0fe55b5c73e0f4205d402e61472",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-154"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-154"
       }
     },
     {
@@ -15300,7 +15300,7 @@
       "notes": [],
       "work_passage_id": "decal:155",
       "html_path": "works/decal/index.html#p-155",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-155",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-155",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:c42a9b436eb82b04b3826cce9b9e61fc67158aaf9ffed6a09c2023221f728859",
@@ -15325,9 +15325,9 @@
         "work": "십계명에 관하여",
         "reference": "155",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:4fe8f3484ca3f218e76a78d3d6de1bc2a9c7bb43f7457495fa193874bcf69988",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-155"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-155"
       }
     },
     {
@@ -15395,7 +15395,7 @@
       "notes": [],
       "work_passage_id": "decal:156",
       "html_path": "works/decal/index.html#p-156",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-156",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-156",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:f1f2648e70894f3225be739404d2a3a9f032ef949a870d745d63dd8b5c2c14be",
@@ -15420,9 +15420,9 @@
         "work": "십계명에 관하여",
         "reference": "156",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:20104d21d1e2a8ed3d25905b4f0fb37804cb0ef7100d8569bd76f0356ede1536",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-156"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-156"
       }
     },
     {
@@ -15503,7 +15503,7 @@
       "notes": [],
       "work_passage_id": "decal:157",
       "html_path": "works/decal/index.html#p-157",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-157",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-157",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:82a059320e4747a5868c7e685acc9f35f09b8b9c33513e2500bc6454665cd1e2",
@@ -15528,9 +15528,9 @@
         "work": "십계명에 관하여",
         "reference": "157",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:d9739dfb3f74ac5d35996b5657b3f3d3941bf857e8ad92b387edebb0490f2377",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-157"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-157"
       }
     },
     {
@@ -15585,7 +15585,7 @@
       "notes": [],
       "work_passage_id": "decal:158",
       "html_path": "works/decal/index.html#p-158",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-158",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-158",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:2712e5e5de223ff99bc4f3390834c1a5d89ac90223fac23e0635c4e17017e83d",
@@ -15610,9 +15610,9 @@
         "work": "십계명에 관하여",
         "reference": "158",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:db3de6afa9a5ee490842d328d1f122e745fbffee41cd75c8fc42d7c9418f3826",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-158"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-158"
       }
     },
     {
@@ -15721,7 +15721,7 @@
       ],
       "work_passage_id": "decal:159",
       "html_path": "works/decal/index.html#p-159",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-159",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-159",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:1a9ccb2a5f06296ecaa102007fdf9fa3456dd9399037899f9e2f9f55531ecbbd",
@@ -15746,9 +15746,9 @@
         "work": "십계명에 관하여",
         "reference": "159",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:618a78857054f64e11866f737050999722e2371ba1da2f3e4577fb7af0259b8e",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-159"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-159"
       }
     },
     {
@@ -15829,7 +15829,7 @@
       "notes": [],
       "work_passage_id": "decal:160",
       "html_path": "works/decal/index.html#p-160",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-160",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-160",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:d68d1eda2518ed99ab0724aa4dadf92a28ff1c85abb8299f8f5c64941e0acea7",
@@ -15854,9 +15854,9 @@
         "work": "십계명에 관하여",
         "reference": "160",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:51b5cb899228a8f6d0fa8f231978c9f681ebf877c567c8c74ff6db958e7dd847",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-160"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-160"
       }
     },
     {
@@ -15950,7 +15950,7 @@
       "notes": [],
       "work_passage_id": "decal:161",
       "html_path": "works/decal/index.html#p-161",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-161",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-161",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:30d6c1bd156fdea735bd5b0792529e95007caeaf49f4e191b5f81e88025f6ce5",
@@ -15975,9 +15975,9 @@
         "work": "십계명에 관하여",
         "reference": "161",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:de7be91d6a2d1460920e61208a028ea4ced55ae25329dfd7d7f2f5efeb37bcf6",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-161"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-161"
       }
     },
     {
@@ -16058,7 +16058,7 @@
       "notes": [],
       "work_passage_id": "decal:162",
       "html_path": "works/decal/index.html#p-162",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-162",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-162",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:aeefa68264e4adc3201aeb0499735c17313f2a93a26e910afdbe17ae47cf3860",
@@ -16083,9 +16083,9 @@
         "work": "십계명에 관하여",
         "reference": "162",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:4e4961ac3c20ff83dfadf10ada819d3ad0d3f0cbdfe435a90a7d931ba4512e29",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-162"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-162"
       }
     },
     {
@@ -16140,7 +16140,7 @@
       "notes": [],
       "work_passage_id": "decal:163",
       "html_path": "works/decal/index.html#p-163",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-163",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-163",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:df982bb4e5f45bd78927abf0829c27e843b509da0ccc49b107d01d1cd8ce2f3e",
@@ -16165,9 +16165,9 @@
         "work": "십계명에 관하여",
         "reference": "163",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:9fb4094ee7fb9deb37f3461a9c1ccb81c2e2a1500494458dfab10a2bb6aeffa1",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-163"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-163"
       }
     },
     {
@@ -16235,7 +16235,7 @@
       "notes": [],
       "work_passage_id": "decal:164",
       "html_path": "works/decal/index.html#p-164",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-164",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-164",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:4e9679e3cfd44cd7174e429ae23c1c6c1419cd1628d5c48c3d3fbc78bf7208b3",
@@ -16260,9 +16260,9 @@
         "work": "십계명에 관하여",
         "reference": "164",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:9c44bccd45b50157aaa38829048388d081a8bed205c008b8efa6330c48ca3a70",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-164"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-164"
       }
     },
     {
@@ -16330,7 +16330,7 @@
       "notes": [],
       "work_passage_id": "decal:165",
       "html_path": "works/decal/index.html#p-165",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-165",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-165",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:4df576894d6309e39b68dfe1bb806d37314a9f4a81b13b281608aefe159d831c",
@@ -16355,9 +16355,9 @@
         "work": "십계명에 관하여",
         "reference": "165",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:89b7c4c1fc5ae011325e9e0c3456523d9220cf1921029878c3580daa8c3b8b1d",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-165"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-165"
       }
     },
     {
@@ -16412,7 +16412,7 @@
       "notes": [],
       "work_passage_id": "decal:166",
       "html_path": "works/decal/index.html#p-166",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-166",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-166",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:5407bdbe76fb1e52bcba2170202b782a43326ab305286331458878bb5133d25d",
@@ -16437,9 +16437,9 @@
         "work": "십계명에 관하여",
         "reference": "166",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:94b9583eb4cdfe98bafdcde51d6bda37b43c139dba59276c4122ee229ccd09c5",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-166"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-166"
       }
     },
     {
@@ -16548,7 +16548,7 @@
       ],
       "work_passage_id": "decal:167",
       "html_path": "works/decal/index.html#p-167",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-167",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-167",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:2a5a0eff38ffc44c0e665d7ae4a5171f6377c8072045b7e773c54300f7a8759b",
@@ -16573,9 +16573,9 @@
         "work": "십계명에 관하여",
         "reference": "167",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:f7fc9bbe1bb7df911cef868989b834298fe839b8c99218b301bdd32824266613",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-167"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-167"
       }
     },
     {
@@ -16669,7 +16669,7 @@
       "notes": [],
       "work_passage_id": "decal:168",
       "html_path": "works/decal/index.html#p-168",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-168",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-168",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:e31f97c92037047d40c20863ad18dd0203ddb1365490133850c284a6c3cb6cda",
@@ -16694,9 +16694,9 @@
         "work": "십계명에 관하여",
         "reference": "168",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:b1db7eb8a4bbc1cd5cea1d0a15788aac8cc22fb815e06a497a6e28bbbae05889",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-168"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-168"
       }
     },
     {
@@ -16751,7 +16751,7 @@
       "notes": [],
       "work_passage_id": "decal:169",
       "html_path": "works/decal/index.html#p-169",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-169",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-169",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:4d2543ffceacfa5e6b85fd4beef01e19c10ad4b301ef33775e08b09ea75b19ff",
@@ -16776,9 +16776,9 @@
         "work": "십계명에 관하여",
         "reference": "169",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:9331f19cece7fa303b8cfc589a23ddf8019cf61bf58f2185e0db9e9aa7f1ec13",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-169"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-169"
       }
     },
     {
@@ -16820,7 +16820,7 @@
       "notes": [],
       "work_passage_id": "decal:170",
       "html_path": "works/decal/index.html#p-170",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-170",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-170",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:8b481cd6eedecddb6e10bfb5b854e77762a69edb93f1ed4b038cedf18b63e65f",
@@ -16845,9 +16845,9 @@
         "work": "십계명에 관하여",
         "reference": "170",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:06954b008a1a2b2769c6abdb6df22e9e379475de452f72b755dded21617c088f",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-170"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-170"
       }
     },
     {
@@ -16928,7 +16928,7 @@
       "notes": [],
       "work_passage_id": "decal:171",
       "html_path": "works/decal/index.html#p-171",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-171",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-171",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:61bcda3b57ec868c7e6562a994d5c7feebc6dcfff6d055048ec069f1921f3f53",
@@ -16953,9 +16953,9 @@
         "work": "십계명에 관하여",
         "reference": "171",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:887e1636d6f3edd4e2a6ae24bac15fe05b234c4a40c115b55207ea7ad3c3fa74",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-171"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-171"
       }
     },
     {
@@ -17036,7 +17036,7 @@
       "notes": [],
       "work_passage_id": "decal:172",
       "html_path": "works/decal/index.html#p-172",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-172",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-172",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:0b71f957db9541fa3623cfe914b74e4b4181db72c1315078a04f58fd627f81f6",
@@ -17061,9 +17061,9 @@
         "work": "십계명에 관하여",
         "reference": "172",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:5bc51429d2eea70370cbe294ac8479edb95a0afc73c9c06aa6b0b3851d509630",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-172"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-172"
       }
     },
     {
@@ -17157,7 +17157,7 @@
       "notes": [],
       "work_passage_id": "decal:173",
       "html_path": "works/decal/index.html#p-173",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-173",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-173",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:ecef9698d147c7ee668af7b6bd150a4a6f846797d7c5a52b0f688b729ad31d50",
@@ -17182,9 +17182,9 @@
         "work": "십계명에 관하여",
         "reference": "173",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:ed69d802bcb0918f510551fcd749fa6f4ce25876278d65f0be4e47a34338115b",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-173"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-173"
       }
     },
     {
@@ -17239,7 +17239,7 @@
       "notes": [],
       "work_passage_id": "decal:174",
       "html_path": "works/decal/index.html#p-174",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-174",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-174",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:66d8f97afde7a752608d9f176555d668341a7e8bb9f2cd7ec5210d1972862d84",
@@ -17264,9 +17264,9 @@
         "work": "십계명에 관하여",
         "reference": "174",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:1892b31ba8ed6cf43dd5c92b72c8ece931b7c1768e015e6e87f252fa8bef8357",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-174"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-174"
       }
     },
     {
@@ -17349,7 +17349,7 @@
       ],
       "work_passage_id": "decal:175",
       "html_path": "works/decal/index.html#p-175",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-175",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-175",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:357e61829125a5e180f2bece6b8beecea3e1549d7106db0b89852bafde6b0cb7",
@@ -17374,9 +17374,9 @@
         "work": "십계명에 관하여",
         "reference": "175",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:66e80849078e9fb343d779fce9018f5587d7bda9f0027e732407380e40b23297",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-175"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-175"
       }
     },
     {
@@ -17457,7 +17457,7 @@
       "notes": [],
       "work_passage_id": "decal:176",
       "html_path": "works/decal/index.html#p-176",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-176",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-176",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:67eb136266b9f1859a8d7df919d67fb8d94aaabed6d5cdcc23ac76af8554041d",
@@ -17482,9 +17482,9 @@
         "work": "십계명에 관하여",
         "reference": "176",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:23c47891e61ee8023f52013edb866692d7c6d123422c3613fc934d48d2c70272",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-176"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-176"
       }
     },
     {
@@ -17591,7 +17591,7 @@
       "notes": [],
       "work_passage_id": "decal:177",
       "html_path": "works/decal/index.html#p-177",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-177",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-177",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:3bb795c6799da769bc5b20758d1d7951bf9c397fd89192cda0f7e27ec7030acd",
@@ -17616,9 +17616,9 @@
         "work": "십계명에 관하여",
         "reference": "177",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:012df1f6a9b79c916159fda6e8f502c22c7e19dce0cf7de1700c694ca2ea30f4",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-177"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-177"
       }
     },
     {
@@ -17712,7 +17712,7 @@
       "notes": [],
       "work_passage_id": "decal:178",
       "html_path": "works/decal/index.html#p-178",
-      "fixed_html_path": "releases/public-0.35/works/decal/index.html#p-178",
+      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html#p-178",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:6f4a258672dc74bb33617be76457f953370d71364d96fecc14d579efcc075fc9",
@@ -17737,9 +17737,9 @@
         "work": "십계명에 관하여",
         "reference": "178",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt 4, Berlin: Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:ca149b4179f17ef4adb06afa2e75e7ebc2c04cfb4e5bbf5e38a52c3b57842c4c",
-        "fixed_path": "releases/public-0.35/works/decal/index.html#p-178"
+        "fixed_path": "releases/public-0.35.1/works/decal/index.html#p-178"
       }
     }
   ],
@@ -17752,14 +17752,14 @@
   "display_author": "필론",
   "scope": "Cohn 1902판 1-178절 전체",
   "coverage": "complete",
-  "release_id": "public-0.35",
+  "release_id": "public-0.35.1",
   "source_language": "grc",
   "source_kind": "edited_ancient_original",
   "human_reviewed": false,
   "translation_method": "고정 원어 본문에서 직접 번역",
   "html_path": "works/decal/index.html",
   "json_path": "data/works/decal.json",
-  "fixed_html_path": "releases/public-0.35/works/decal/index.html",
+  "fixed_html_path": "releases/public-0.35.1/works/decal/index.html",
   "source_profile": "decal-tei-1",
   "source_decisions": [
     {

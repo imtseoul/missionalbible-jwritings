@@ -102,7 +102,7 @@
       ],
       "work_passage_id": "abrah:1",
       "html_path": "works/abrah/index.html#p-1",
-      "fixed_html_path": "releases/public-0.35/works/abrah/index.html#p-1",
+      "fixed_html_path": "releases/public-0.35.1/works/abrah/index.html#p-1",
       "alignment_revision": "sha256:c5676597cea7341532ef772f73a34a516dcaa5c9bc9ca6d69ab71812b6e9c37b",
       "review_state": {
         "human_reviewed": false,
@@ -138,9 +138,9 @@
         "work": "아브라함에 관하여",
         "reference": "1",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:630228521e57a3d1c85515261c5be4649cd840e5200f6c09cb5703e63623b71a",
-        "fixed_path": "releases/public-0.35/works/abrah/index.html#p-1"
+        "fixed_path": "releases/public-0.35.1/works/abrah/index.html#p-1"
       }
     },
     {
@@ -202,7 +202,7 @@
       "notes": [],
       "work_passage_id": "abrah:2",
       "html_path": "works/abrah/index.html#p-2",
-      "fixed_html_path": "releases/public-0.35/works/abrah/index.html#p-2",
+      "fixed_html_path": "releases/public-0.35.1/works/abrah/index.html#p-2",
       "alignment_revision": "sha256:38fa096c66438095241821c275164e9e5e4722a0a6e98ba19732d8ade8ab008f",
       "review_state": {
         "human_reviewed": false,
@@ -238,9 +238,9 @@
         "work": "아브라함에 관하여",
         "reference": "2",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:e21f003e276c2a2c19349df7e616fad183821eec3a782564d8af6859c6039b0b",
-        "fixed_path": "releases/public-0.35/works/abrah/index.html#p-2"
+        "fixed_path": "releases/public-0.35.1/works/abrah/index.html#p-2"
       }
     },
     {
@@ -292,7 +292,7 @@
       ],
       "work_passage_id": "abrah:3",
       "html_path": "works/abrah/index.html#p-3",
-      "fixed_html_path": "releases/public-0.35/works/abrah/index.html#p-3",
+      "fixed_html_path": "releases/public-0.35.1/works/abrah/index.html#p-3",
       "alignment_revision": "sha256:a41afbc41c25e99c1b620a5e4fadecdec72b3da878ca7ad5187d7e636d15aee3",
       "review_state": {
         "human_reviewed": false,
@@ -328,9 +328,9 @@
         "work": "아브라함에 관하여",
         "reference": "3",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:3debcaad15736f8c836ee2110b310633d34dea824efde5b24690462d99cb210d",
-        "fixed_path": "releases/public-0.35/works/abrah/index.html#p-3"
+        "fixed_path": "releases/public-0.35.1/works/abrah/index.html#p-3"
       }
     },
     {
@@ -408,7 +408,7 @@
       ],
       "work_passage_id": "abrah:4",
       "html_path": "works/abrah/index.html#p-4",
-      "fixed_html_path": "releases/public-0.35/works/abrah/index.html#p-4",
+      "fixed_html_path": "releases/public-0.35.1/works/abrah/index.html#p-4",
       "alignment_revision": "sha256:92ebc3fd0f5299f9a203a6657183a11203ddd53a8b4b742e743790be2f3fe844",
       "review_state": {
         "human_reviewed": false,
@@ -444,9 +444,9 @@
         "work": "아브라함에 관하여",
         "reference": "4",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:537304392247d11a483c11be7a7af7fe474f409c6ba37b53cf39959cf16aec3d",
-        "fixed_path": "releases/public-0.35/works/abrah/index.html#p-4"
+        "fixed_path": "releases/public-0.35.1/works/abrah/index.html#p-4"
       }
     },
     {
@@ -509,7 +509,7 @@
       "notes": [],
       "work_passage_id": "abrah:5",
       "html_path": "works/abrah/index.html#p-5",
-      "fixed_html_path": "releases/public-0.35/works/abrah/index.html#p-5",
+      "fixed_html_path": "releases/public-0.35.1/works/abrah/index.html#p-5",
       "alignment_revision": "sha256:79117670e476c8936d534b7486d4691effcf485850f00e8acfdee1a64f0141a3",
       "review_state": {
         "human_reviewed": false,
@@ -545,9 +545,9 @@
         "work": "아브라함에 관하여",
         "reference": "5",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:20c478ec1e337877012baef151d477e4dcfe313a95fdc5fc9059cb8b9d0f200d",
-        "fixed_path": "releases/public-0.35/works/abrah/index.html#p-5"
+        "fixed_path": "releases/public-0.35.1/works/abrah/index.html#p-5"
       }
     },
     {
@@ -623,7 +623,7 @@
       "notes": [],
       "work_passage_id": "abrah:6",
       "html_path": "works/abrah/index.html#p-6",
-      "fixed_html_path": "releases/public-0.35/works/abrah/index.html#p-6",
+      "fixed_html_path": "releases/public-0.35.1/works/abrah/index.html#p-6",
       "alignment_revision": "sha256:b9ba4e5fd704fef9b36dc2142dcb33096bf24839863350ed0e15ca50d95ee0de",
       "review_state": {
         "human_reviewed": false,
@@ -659,9 +659,9 @@
         "work": "아브라함에 관하여",
         "reference": "6",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:10885a914629e2f1a6004da19eb8fca975710f8b91d3175c9d96ccc4b23d4ae1",
-        "fixed_path": "releases/public-0.35/works/abrah/index.html#p-6"
+        "fixed_path": "releases/public-0.35.1/works/abrah/index.html#p-6"
       }
     },
     {
@@ -724,7 +724,7 @@
       "notes": [],
       "work_passage_id": "abrah:7",
       "html_path": "works/abrah/index.html#p-7",
-      "fixed_html_path": "releases/public-0.35/works/abrah/index.html#p-7",
+      "fixed_html_path": "releases/public-0.35.1/works/abrah/index.html#p-7",
       "alignment_revision": "sha256:1b04156cb585329fd20276275c84dcd2e4f311b0473d8987c7671135b9521444",
       "review_state": {
         "human_reviewed": false,
@@ -760,9 +760,9 @@
         "work": "아브라함에 관하여",
         "reference": "7",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:9afea1c98ef880d1e0ba1e084d7a3937743036960900b036085186b49669b16a",
-        "fixed_path": "releases/public-0.35/works/abrah/index.html#p-7"
+        "fixed_path": "releases/public-0.35.1/works/abrah/index.html#p-7"
       }
     },
     {
@@ -825,7 +825,7 @@
       "notes": [],
       "work_passage_id": "abrah:8",
       "html_path": "works/abrah/index.html#p-8",
-      "fixed_html_path": "releases/public-0.35/works/abrah/index.html#p-8",
+      "fixed_html_path": "releases/public-0.35.1/works/abrah/index.html#p-8",
       "alignment_revision": "sha256:460b3d0500ddda4574e92ca1337035364e4ac28f7ce56c91788e11800896032c",
       "review_state": {
         "human_reviewed": false,
@@ -861,9 +861,9 @@
         "work": "아브라함에 관하여",
         "reference": "8",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:183d4aa640be5361927b71efbe295d7e278328903648ea78125f96adbd9db65d",
-        "fixed_path": "releases/public-0.35/works/abrah/index.html#p-8"
+        "fixed_path": "releases/public-0.35.1/works/abrah/index.html#p-8"
       }
     },
     {
@@ -928,7 +928,7 @@
       ],
       "work_passage_id": "abrah:9",
       "html_path": "works/abrah/index.html#p-9",
-      "fixed_html_path": "releases/public-0.35/works/abrah/index.html#p-9",
+      "fixed_html_path": "releases/public-0.35.1/works/abrah/index.html#p-9",
       "alignment_revision": "sha256:e4c7e6c52e49377ca0335df997d5c1489d4581c12e25842ab2c996eedd7dbc0c",
       "review_state": {
         "human_reviewed": false,
@@ -964,9 +964,9 @@
         "work": "아브라함에 관하여",
         "reference": "9",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:35454b013ba004e5dc87818a20ff4149915690efff9ac7a6629fcc019f0e073e",
-        "fixed_path": "releases/public-0.35/works/abrah/index.html#p-9"
+        "fixed_path": "releases/public-0.35.1/works/abrah/index.html#p-9"
       }
     },
     {
@@ -1042,7 +1042,7 @@
       "notes": [],
       "work_passage_id": "abrah:10",
       "html_path": "works/abrah/index.html#p-10",
-      "fixed_html_path": "releases/public-0.35/works/abrah/index.html#p-10",
+      "fixed_html_path": "releases/public-0.35.1/works/abrah/index.html#p-10",
       "alignment_revision": "sha256:2e2851cf777e948cd01ff518ff2cdd8f32e30566f64b5b3589ad495145fa7e76",
       "review_state": {
         "human_reviewed": false,
@@ -1078,9 +1078,9 @@
         "work": "아브라함에 관하여",
         "reference": "10",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:2608ac9c38aa9769dd7de4651bf29ad1fede304e89972c66325bcbd70a6de28e",
-        "fixed_path": "releases/public-0.35/works/abrah/index.html#p-10"
+        "fixed_path": "releases/public-0.35.1/works/abrah/index.html#p-10"
       }
     },
     {
@@ -1143,7 +1143,7 @@
       "notes": [],
       "work_passage_id": "abrah:11",
       "html_path": "works/abrah/index.html#p-11",
-      "fixed_html_path": "releases/public-0.35/works/abrah/index.html#p-11",
+      "fixed_html_path": "releases/public-0.35.1/works/abrah/index.html#p-11",
       "alignment_revision": "sha256:e319fda627d27af76e9d62cf79d1900026a979856f0f9bd16a9bcdf34f76b90c",
       "review_state": {
         "human_reviewed": false,
@@ -1179,9 +1179,9 @@
         "work": "아브라함에 관하여",
         "reference": "11",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:499f30b1e80d4bca7c3f4fc961075cf6e059631f7146b26909f6c70cecf5ac42",
-        "fixed_path": "releases/public-0.35/works/abrah/index.html#p-11"
+        "fixed_path": "releases/public-0.35.1/works/abrah/index.html#p-11"
       }
     },
     {
@@ -1233,7 +1233,7 @@
       ],
       "work_passage_id": "abrah:12",
       "html_path": "works/abrah/index.html#p-12",
-      "fixed_html_path": "releases/public-0.35/works/abrah/index.html#p-12",
+      "fixed_html_path": "releases/public-0.35.1/works/abrah/index.html#p-12",
       "alignment_revision": "sha256:c3244e6bc52f4adc1a99e68e9573f27b088724bc96f5a939248a32e233b073fe",
       "review_state": {
         "human_reviewed": false,
@@ -1269,9 +1269,9 @@
         "work": "아브라함에 관하여",
         "reference": "12",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:0bcfe6474863d8e3fdfac5b2f7d97da12f798af2bee49b2c4487eecabd58f592",
-        "fixed_path": "releases/public-0.35/works/abrah/index.html#p-12"
+        "fixed_path": "releases/public-0.35.1/works/abrah/index.html#p-12"
       }
     },
     {
@@ -1334,7 +1334,7 @@
       "notes": [],
       "work_passage_id": "abrah:13",
       "html_path": "works/abrah/index.html#p-13",
-      "fixed_html_path": "releases/public-0.35/works/abrah/index.html#p-13",
+      "fixed_html_path": "releases/public-0.35.1/works/abrah/index.html#p-13",
       "alignment_revision": "sha256:d7ded1efb2a66a93693b4dc80331ad93bcec0703e9095758082485b2b11d8294",
       "review_state": {
         "human_reviewed": false,
@@ -1370,9 +1370,9 @@
         "work": "아브라함에 관하여",
         "reference": "13",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:ae1ea807cdfe0836e8fb00868fdf8cd9bdeb14288f44eb19f6ed36eb3a8bbfa4",
-        "fixed_path": "releases/public-0.35/works/abrah/index.html#p-13"
+        "fixed_path": "releases/public-0.35.1/works/abrah/index.html#p-13"
       }
     },
     {
@@ -1461,7 +1461,7 @@
       "notes": [],
       "work_passage_id": "abrah:14",
       "html_path": "works/abrah/index.html#p-14",
-      "fixed_html_path": "releases/public-0.35/works/abrah/index.html#p-14",
+      "fixed_html_path": "releases/public-0.35.1/works/abrah/index.html#p-14",
       "alignment_revision": "sha256:b74fa0924e779acb766d65b9a2a8a8641c9308eb9a0ba6a4b82b80e54a101dd3",
       "review_state": {
         "human_reviewed": false,
@@ -1497,9 +1497,9 @@
         "work": "아브라함에 관하여",
         "reference": "14",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:ec5fb8d166f25dddd4f351e0e9ac174a01c05634c26ae812ed11e10280cb6c89",
-        "fixed_path": "releases/public-0.35/works/abrah/index.html#p-14"
+        "fixed_path": "releases/public-0.35.1/works/abrah/index.html#p-14"
       }
     },
     {
@@ -1562,7 +1562,7 @@
       "notes": [],
       "work_passage_id": "abrah:15",
       "html_path": "works/abrah/index.html#p-15",
-      "fixed_html_path": "releases/public-0.35/works/abrah/index.html#p-15",
+      "fixed_html_path": "releases/public-0.35.1/works/abrah/index.html#p-15",
       "alignment_revision": "sha256:a785857b515e7bb80b081e2f9b7d3abd24569df71a16d09d8254afaa12585bda",
       "review_state": {
         "human_reviewed": false,
@@ -1598,9 +1598,9 @@
         "work": "아브라함에 관하여",
         "reference": "15",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:02022471574fdbf52e0204cd9cb7c4e4ee9f4869c9e9c0e3362ef91ad47a6b49",
-        "fixed_path": "releases/public-0.35/works/abrah/index.html#p-15"
+        "fixed_path": "releases/public-0.35.1/works/abrah/index.html#p-15"
       }
     },
     {
@@ -1650,7 +1650,7 @@
       "notes": [],
       "work_passage_id": "abrah:16",
       "html_path": "works/abrah/index.html#p-16",
-      "fixed_html_path": "releases/public-0.35/works/abrah/index.html#p-16",
+      "fixed_html_path": "releases/public-0.35.1/works/abrah/index.html#p-16",
       "alignment_revision": "sha256:01d998229c9cb0b13dd3466618f217ff52cf810cfb371d639c83cdc8ca23fdee",
       "review_state": {
         "human_reviewed": false,
@@ -1686,9 +1686,9 @@
         "work": "아브라함에 관하여",
         "reference": "16",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:964f7cc9338b736dac4f0a12c729ffa698d48f76793fec291d07073edfbef445",
-        "fixed_path": "releases/public-0.35/works/abrah/index.html#p-16"
+        "fixed_path": "releases/public-0.35.1/works/abrah/index.html#p-16"
       }
     },
     {
@@ -1766,7 +1766,7 @@
       ],
       "work_passage_id": "abrah:17",
       "html_path": "works/abrah/index.html#p-17",
-      "fixed_html_path": "releases/public-0.35/works/abrah/index.html#p-17",
+      "fixed_html_path": "releases/public-0.35.1/works/abrah/index.html#p-17",
       "alignment_revision": "sha256:76b1ced16b863070694e767c348d5f56ddd4c2dafb114687c3ffa6d1ceac6c01",
       "review_state": {
         "human_reviewed": false,
@@ -1802,9 +1802,9 @@
         "work": "아브라함에 관하여",
         "reference": "17",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:d5ec1f1397783ad5d8066488da0b0819568dacb6c5aecae862ddacb281add9fe",
-        "fixed_path": "releases/public-0.35/works/abrah/index.html#p-17"
+        "fixed_path": "releases/public-0.35.1/works/abrah/index.html#p-17"
       }
     },
     {
@@ -1867,7 +1867,7 @@
       "notes": [],
       "work_passage_id": "abrah:18",
       "html_path": "works/abrah/index.html#p-18",
-      "fixed_html_path": "releases/public-0.35/works/abrah/index.html#p-18",
+      "fixed_html_path": "releases/public-0.35.1/works/abrah/index.html#p-18",
       "alignment_revision": "sha256:b23de2d0fb91b548b827646cd61d0e7f58c62c8746b67769569c998ecc272eec",
       "review_state": {
         "human_reviewed": false,
@@ -1903,9 +1903,9 @@
         "work": "아브라함에 관하여",
         "reference": "18",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:d3a8d468a794124f22fcbd39f919cdcbea8b492b9b4f153e8f282194cb492abc",
-        "fixed_path": "releases/public-0.35/works/abrah/index.html#p-18"
+        "fixed_path": "releases/public-0.35.1/works/abrah/index.html#p-18"
       }
     },
     {
@@ -1981,7 +1981,7 @@
       "notes": [],
       "work_passage_id": "abrah:19",
       "html_path": "works/abrah/index.html#p-19",
-      "fixed_html_path": "releases/public-0.35/works/abrah/index.html#p-19",
+      "fixed_html_path": "releases/public-0.35.1/works/abrah/index.html#p-19",
       "alignment_revision": "sha256:f21252ef3c22f2ea800f5f17bfad23dbc4fed7e4c856e42beab8ad798807d9c8",
       "review_state": {
         "human_reviewed": false,
@@ -2017,9 +2017,9 @@
         "work": "아브라함에 관하여",
         "reference": "19",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:2ed2ec7644aeb314d99e4f28a781df492925cbae660f139d8db31feb564d9e25",
-        "fixed_path": "releases/public-0.35/works/abrah/index.html#p-19"
+        "fixed_path": "releases/public-0.35.1/works/abrah/index.html#p-19"
       }
     },
     {
@@ -2108,7 +2108,7 @@
       "notes": [],
       "work_passage_id": "abrah:20",
       "html_path": "works/abrah/index.html#p-20",
-      "fixed_html_path": "releases/public-0.35/works/abrah/index.html#p-20",
+      "fixed_html_path": "releases/public-0.35.1/works/abrah/index.html#p-20",
       "alignment_revision": "sha256:534d76cdf4996a06f5dea4210723369c125459dad43c9706ef1ffe2437be7811",
       "review_state": {
         "human_reviewed": false,
@@ -2144,9 +2144,9 @@
         "work": "아브라함에 관하여",
         "reference": "20",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:aad35981181c72f83a2aba95ce2d52f70760075edf362c9ffa69122979f01ade",
-        "fixed_path": "releases/public-0.35/works/abrah/index.html#p-20"
+        "fixed_path": "releases/public-0.35.1/works/abrah/index.html#p-20"
       }
     },
     {
@@ -2211,7 +2211,7 @@
       ],
       "work_passage_id": "abrah:21",
       "html_path": "works/abrah/index.html#p-21",
-      "fixed_html_path": "releases/public-0.35/works/abrah/index.html#p-21",
+      "fixed_html_path": "releases/public-0.35.1/works/abrah/index.html#p-21",
       "alignment_revision": "sha256:fcee92c434ee18324839e717f1b9b1ba3cb7a488be0ce99d49b456f487463715",
       "review_state": {
         "human_reviewed": false,
@@ -2247,9 +2247,9 @@
         "work": "아브라함에 관하여",
         "reference": "21",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:04c9e5a9c27cae7a749880a371896a34aec772d8eec22ad36ac99e6436f48d3e",
-        "fixed_path": "releases/public-0.35/works/abrah/index.html#p-21"
+        "fixed_path": "releases/public-0.35.1/works/abrah/index.html#p-21"
       }
     },
     {
@@ -2338,7 +2338,7 @@
       "notes": [],
       "work_passage_id": "abrah:22",
       "html_path": "works/abrah/index.html#p-22",
-      "fixed_html_path": "releases/public-0.35/works/abrah/index.html#p-22",
+      "fixed_html_path": "releases/public-0.35.1/works/abrah/index.html#p-22",
       "alignment_revision": "sha256:54ee838bfa70335681c2e32e910221bc2e16527e5d4aab363e0919fa7f13c744",
       "review_state": {
         "human_reviewed": false,
@@ -2374,9 +2374,9 @@
         "work": "아브라함에 관하여",
         "reference": "22",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:3a67ea04aa49f06d68aa874ba630855f31a945b5088018922685404d451f29f8",
-        "fixed_path": "releases/public-0.35/works/abrah/index.html#p-22"
+        "fixed_path": "releases/public-0.35.1/works/abrah/index.html#p-22"
       }
     },
     {
@@ -2491,7 +2491,7 @@
       "notes": [],
       "work_passage_id": "abrah:23",
       "html_path": "works/abrah/index.html#p-23",
-      "fixed_html_path": "releases/public-0.35/works/abrah/index.html#p-23",
+      "fixed_html_path": "releases/public-0.35.1/works/abrah/index.html#p-23",
       "alignment_revision": "sha256:0f96e6fe989c9ad99e519b67a0e76d72293bd88f02d9da7f30a2224c80c85725",
       "review_state": {
         "human_reviewed": false,
@@ -2527,9 +2527,9 @@
         "work": "아브라함에 관하여",
         "reference": "23",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:fb9d59ef9da94bebaad4d76293a28523e75097cfd7c2751814b207623317113b",
-        "fixed_path": "releases/public-0.35/works/abrah/index.html#p-23"
+        "fixed_path": "releases/public-0.35.1/works/abrah/index.html#p-23"
       }
     },
     {
@@ -2605,7 +2605,7 @@
       "notes": [],
       "work_passage_id": "abrah:24",
       "html_path": "works/abrah/index.html#p-24",
-      "fixed_html_path": "releases/public-0.35/works/abrah/index.html#p-24",
+      "fixed_html_path": "releases/public-0.35.1/works/abrah/index.html#p-24",
       "alignment_revision": "sha256:59bc08751ac53065c001ad5d3bb461230a8af143dd5be7eb417edbaba71f6f99",
       "review_state": {
         "human_reviewed": false,
@@ -2641,9 +2641,9 @@
         "work": "아브라함에 관하여",
         "reference": "24",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:6b121220093bc55edf46f404c2aa95fdaa91eb845cfb480bf0368ae25f2aacc7",
-        "fixed_path": "releases/public-0.35/works/abrah/index.html#p-24"
+        "fixed_path": "releases/public-0.35.1/works/abrah/index.html#p-24"
       }
     },
     {
@@ -2706,7 +2706,7 @@
       "notes": [],
       "work_passage_id": "abrah:25",
       "html_path": "works/abrah/index.html#p-25",
-      "fixed_html_path": "releases/public-0.35/works/abrah/index.html#p-25",
+      "fixed_html_path": "releases/public-0.35.1/works/abrah/index.html#p-25",
       "alignment_revision": "sha256:23bfe501c479c83d1bf62a6c2c5b97229022add66cb6068ff655d2a53712d3c8",
       "review_state": {
         "human_reviewed": false,
@@ -2742,9 +2742,9 @@
         "work": "아브라함에 관하여",
         "reference": "25",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:5db71a6fdadf8404ff6145d4de4cfecae9a696d6b4db56a049465e2bd39b8c82",
-        "fixed_path": "releases/public-0.35/works/abrah/index.html#p-25"
+        "fixed_path": "releases/public-0.35.1/works/abrah/index.html#p-25"
       }
     },
     {
@@ -2858,7 +2858,7 @@
       ],
       "work_passage_id": "abrah:26",
       "html_path": "works/abrah/index.html#p-26",
-      "fixed_html_path": "releases/public-0.35/works/abrah/index.html#p-26",
+      "fixed_html_path": "releases/public-0.35.1/works/abrah/index.html#p-26",
       "alignment_revision": "sha256:7f96c3ffb3d71d5cce67dd291d373da1554f145e462b53f40f9f1a4c0b8e01a4",
       "review_state": {
         "human_reviewed": false,
@@ -2894,9 +2894,9 @@
         "work": "아브라함에 관하여",
         "reference": "26",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:bdfa99e916d1812bc99b36be5b903a4c320062330c57fda6dfb8ca7f76c07e72",
-        "fixed_path": "releases/public-0.35/works/abrah/index.html#p-26"
+        "fixed_path": "releases/public-0.35.1/works/abrah/index.html#p-26"
       }
     },
     {
@@ -3000,7 +3000,7 @@
       ],
       "work_passage_id": "abrah:27",
       "html_path": "works/abrah/index.html#p-27",
-      "fixed_html_path": "releases/public-0.35/works/abrah/index.html#p-27",
+      "fixed_html_path": "releases/public-0.35.1/works/abrah/index.html#p-27",
       "alignment_revision": "sha256:1eee7b36163255168a875382500fd76a49c92bce836672de2013a63cf361f56c",
       "review_state": {
         "human_reviewed": false,
@@ -3036,9 +3036,9 @@
         "work": "아브라함에 관하여",
         "reference": "27",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:e09ed5e0da95b76c95459381202825937636b9c67cd15570ddccccb871c3ddee",
-        "fixed_path": "releases/public-0.35/works/abrah/index.html#p-27"
+        "fixed_path": "releases/public-0.35.1/works/abrah/index.html#p-27"
       }
     },
     {
@@ -3101,7 +3101,7 @@
       "notes": [],
       "work_passage_id": "abrah:28",
       "html_path": "works/abrah/index.html#p-28",
-      "fixed_html_path": "releases/public-0.35/works/abrah/index.html#p-28",
+      "fixed_html_path": "releases/public-0.35.1/works/abrah/index.html#p-28",
       "alignment_revision": "sha256:d07c57666a03c83041afb17e35a46e8ccda6de955aa98b8048c6fa62c15eb491",
       "review_state": {
         "human_reviewed": false,
@@ -3137,9 +3137,9 @@
         "work": "아브라함에 관하여",
         "reference": "28",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:ec6d145cd73ee974bfb9da8f9b429b7462c2fc1af6519d3ce6da8880d8b27c86",
-        "fixed_path": "releases/public-0.35/works/abrah/index.html#p-28"
+        "fixed_path": "releases/public-0.35.1/works/abrah/index.html#p-28"
       }
     },
     {
@@ -3217,7 +3217,7 @@
       ],
       "work_passage_id": "abrah:29",
       "html_path": "works/abrah/index.html#p-29",
-      "fixed_html_path": "releases/public-0.35/works/abrah/index.html#p-29",
+      "fixed_html_path": "releases/public-0.35.1/works/abrah/index.html#p-29",
       "alignment_revision": "sha256:723264162ca6152d94a4e2667cd685f6c3b746a3cbd3f6fff550c35ab42cfc85",
       "review_state": {
         "human_reviewed": false,
@@ -3253,9 +3253,9 @@
         "work": "아브라함에 관하여",
         "reference": "29",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:a54386a1e131c75d98e749cb53774d7916c967af3e63f941358c1b85d208b948",
-        "fixed_path": "releases/public-0.35/works/abrah/index.html#p-29"
+        "fixed_path": "releases/public-0.35.1/works/abrah/index.html#p-29"
       }
     },
     {
@@ -3356,7 +3356,7 @@
       ],
       "work_passage_id": "abrah:30",
       "html_path": "works/abrah/index.html#p-30",
-      "fixed_html_path": "releases/public-0.35/works/abrah/index.html#p-30",
+      "fixed_html_path": "releases/public-0.35.1/works/abrah/index.html#p-30",
       "alignment_revision": "sha256:9e6f2071bc186738e1830d2e469b801cf191be547f40f7e4a9cb71add2041151",
       "review_state": {
         "human_reviewed": false,
@@ -3392,9 +3392,9 @@
         "work": "아브라함에 관하여",
         "reference": "30",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:d715420abd9302db23cb1ef4911701d138ffd9db7e00d9af00dabef4ebe98e7e",
-        "fixed_path": "releases/public-0.35/works/abrah/index.html#p-30"
+        "fixed_path": "releases/public-0.35.1/works/abrah/index.html#p-30"
       }
     },
     {
@@ -3498,7 +3498,7 @@
       ],
       "work_passage_id": "abrah:31",
       "html_path": "works/abrah/index.html#p-31",
-      "fixed_html_path": "releases/public-0.35/works/abrah/index.html#p-31",
+      "fixed_html_path": "releases/public-0.35.1/works/abrah/index.html#p-31",
       "alignment_revision": "sha256:cbc077a76e7f8084061d8351c882bdefa561f909e40a3b7a8796fbcdaddc7d74",
       "review_state": {
         "human_reviewed": false,
@@ -3534,9 +3534,9 @@
         "work": "아브라함에 관하여",
         "reference": "31",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:722129fb48792527248c9a089521e3e25af15b8233b098c0f143125c441b1214",
-        "fixed_path": "releases/public-0.35/works/abrah/index.html#p-31"
+        "fixed_path": "releases/public-0.35.1/works/abrah/index.html#p-31"
       }
     },
     {
@@ -3612,7 +3612,7 @@
       "notes": [],
       "work_passage_id": "abrah:32",
       "html_path": "works/abrah/index.html#p-32",
-      "fixed_html_path": "releases/public-0.35/works/abrah/index.html#p-32",
+      "fixed_html_path": "releases/public-0.35.1/works/abrah/index.html#p-32",
       "alignment_revision": "sha256:3d0016f3a3ee55a31f82d066fd98d8c0b670f82488385b807ee28575e11e6b55",
       "review_state": {
         "human_reviewed": false,
@@ -3648,9 +3648,9 @@
         "work": "아브라함에 관하여",
         "reference": "32",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:3747366bf6ee866a671c0da68b506fae9136a266dd4f8b5c0373f841feb17771",
-        "fixed_path": "releases/public-0.35/works/abrah/index.html#p-32"
+        "fixed_path": "releases/public-0.35.1/works/abrah/index.html#p-32"
       }
     },
     {
@@ -3713,7 +3713,7 @@
       "notes": [],
       "work_passage_id": "abrah:33",
       "html_path": "works/abrah/index.html#p-33",
-      "fixed_html_path": "releases/public-0.35/works/abrah/index.html#p-33",
+      "fixed_html_path": "releases/public-0.35.1/works/abrah/index.html#p-33",
       "alignment_revision": "sha256:3a003a70e06cc045be9fe3ca810608197336b7b69bb32548c59f0d197481e77f",
       "review_state": {
         "human_reviewed": false,
@@ -3749,9 +3749,9 @@
         "work": "아브라함에 관하여",
         "reference": "33",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:cd1de4c964905a81eafca283e69ae225cad948bab59298953154784cf24f4484",
-        "fixed_path": "releases/public-0.35/works/abrah/index.html#p-33"
+        "fixed_path": "releases/public-0.35.1/works/abrah/index.html#p-33"
       }
     },
     {
@@ -3801,7 +3801,7 @@
       "notes": [],
       "work_passage_id": "abrah:34",
       "html_path": "works/abrah/index.html#p-34",
-      "fixed_html_path": "releases/public-0.35/works/abrah/index.html#p-34",
+      "fixed_html_path": "releases/public-0.35.1/works/abrah/index.html#p-34",
       "alignment_revision": "sha256:0c19e0c6a464fdb455a286bd499d5f84fa9ed9ecc663e8cc77e0501d4896978d",
       "review_state": {
         "human_reviewed": false,
@@ -3837,9 +3837,9 @@
         "work": "아브라함에 관하여",
         "reference": "34",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:e4bfc47aaff468d2e543a81f27cea517bc4f643681f9c352ad02ef08f401e7a6",
-        "fixed_path": "releases/public-0.35/works/abrah/index.html#p-34"
+        "fixed_path": "releases/public-0.35.1/works/abrah/index.html#p-34"
       }
     },
     {
@@ -3928,7 +3928,7 @@
       "notes": [],
       "work_passage_id": "abrah:35",
       "html_path": "works/abrah/index.html#p-35",
-      "fixed_html_path": "releases/public-0.35/works/abrah/index.html#p-35",
+      "fixed_html_path": "releases/public-0.35.1/works/abrah/index.html#p-35",
       "alignment_revision": "sha256:f550f87235a45428419377a9db35693cd5f926f3ad004ce8b324108727ea9384",
       "review_state": {
         "human_reviewed": false,
@@ -3964,9 +3964,9 @@
         "work": "아브라함에 관하여",
         "reference": "35",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:338db5f7deb0a7587eb7c75d9ec0683d4c7845dd5ea069b488389b244d4d242b",
-        "fixed_path": "releases/public-0.35/works/abrah/index.html#p-35"
+        "fixed_path": "releases/public-0.35.1/works/abrah/index.html#p-35"
       }
     },
     {
@@ -4031,7 +4031,7 @@
       ],
       "work_passage_id": "abrah:36",
       "html_path": "works/abrah/index.html#p-36",
-      "fixed_html_path": "releases/public-0.35/works/abrah/index.html#p-36",
+      "fixed_html_path": "releases/public-0.35.1/works/abrah/index.html#p-36",
       "alignment_revision": "sha256:9bcd2b736e61c04e1b3bcdaaebc76e0954694eef92d93b9c76a7b20fe6c0aa98",
       "review_state": {
         "human_reviewed": false,
@@ -4067,9 +4067,9 @@
         "work": "아브라함에 관하여",
         "reference": "36",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:dcbdf8d109f05798dd09913a3ebb9f8fbf6cfffd3e1bbc4a773be98ae0d27a23",
-        "fixed_path": "releases/public-0.35/works/abrah/index.html#p-36"
+        "fixed_path": "releases/public-0.35.1/works/abrah/index.html#p-36"
       }
     },
     {
@@ -4158,7 +4158,7 @@
       "notes": [],
       "work_passage_id": "abrah:37",
       "html_path": "works/abrah/index.html#p-37",
-      "fixed_html_path": "releases/public-0.35/works/abrah/index.html#p-37",
+      "fixed_html_path": "releases/public-0.35.1/works/abrah/index.html#p-37",
       "alignment_revision": "sha256:b10733a0feee01f9312e55b97634f1231462fc16262e7a555db57f1f14b46b38",
       "review_state": {
         "human_reviewed": false,
@@ -4194,9 +4194,9 @@
         "work": "아브라함에 관하여",
         "reference": "37",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:d073298d08ef1acd0ac02e638d903186d98128e72769189599ae39fc115a87e6",
-        "fixed_path": "releases/public-0.35/works/abrah/index.html#p-37"
+        "fixed_path": "releases/public-0.35.1/works/abrah/index.html#p-37"
       }
     },
     {
@@ -4272,7 +4272,7 @@
       "notes": [],
       "work_passage_id": "abrah:38",
       "html_path": "works/abrah/index.html#p-38",
-      "fixed_html_path": "releases/public-0.35/works/abrah/index.html#p-38",
+      "fixed_html_path": "releases/public-0.35.1/works/abrah/index.html#p-38",
       "alignment_revision": "sha256:3286973a3954a9784bad40022af3956f95eb3424b206f072fcba99ea9afd385a",
       "review_state": {
         "human_reviewed": false,
@@ -4308,9 +4308,9 @@
         "work": "아브라함에 관하여",
         "reference": "38",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:46d56adc6e8827c8a2cfb308384045692dab5970fb6312e203d06dccd117e626",
-        "fixed_path": "releases/public-0.35/works/abrah/index.html#p-38"
+        "fixed_path": "releases/public-0.35.1/works/abrah/index.html#p-38"
       }
     },
     {
@@ -4373,7 +4373,7 @@
       "notes": [],
       "work_passage_id": "abrah:39",
       "html_path": "works/abrah/index.html#p-39",
-      "fixed_html_path": "releases/public-0.35/works/abrah/index.html#p-39",
+      "fixed_html_path": "releases/public-0.35.1/works/abrah/index.html#p-39",
       "alignment_revision": "sha256:e90cd7ab37c177189243f89f30397416538684f5426313690ce291df9fb1a56c",
       "review_state": {
         "human_reviewed": false,
@@ -4409,9 +4409,9 @@
         "work": "아브라함에 관하여",
         "reference": "39",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:6dc918428ff27bbf0902217597c80242af4844918d3bf10cd100beb7474b9731",
-        "fixed_path": "releases/public-0.35/works/abrah/index.html#p-39"
+        "fixed_path": "releases/public-0.35.1/works/abrah/index.html#p-39"
       }
     },
     {
@@ -4489,7 +4489,7 @@
       ],
       "work_passage_id": "abrah:40",
       "html_path": "works/abrah/index.html#p-40",
-      "fixed_html_path": "releases/public-0.35/works/abrah/index.html#p-40",
+      "fixed_html_path": "releases/public-0.35.1/works/abrah/index.html#p-40",
       "alignment_revision": "sha256:2308c7a7e0d825b0439888a990aa030d184ccbfb892b963865c3d82545985a7d",
       "review_state": {
         "human_reviewed": false,
@@ -4525,9 +4525,9 @@
         "work": "아브라함에 관하여",
         "reference": "40",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 4, Reimer, 1902.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:67b16740a38dd238e69e4212daf6c93c632a277d4836b10fdffadabac4d3cb9c",
-        "fixed_path": "releases/public-0.35/works/abrah/index.html#p-40"
+        "fixed_path": "releases/public-0.35.1/works/abrah/index.html#p-40"
       }
     }
   ],
@@ -4552,14 +4552,14 @@
   "display_author": "필론",
   "scope": "아브라함에 관하여 1-40절 전체, 41-276절 미수록",
   "coverage": "complete_scope",
-  "release_id": "public-0.35",
+  "release_id": "public-0.35.1",
   "source_language": "grc",
   "source_kind": "edited_ancient_original",
   "human_reviewed": false,
   "translation_method": "고정 원어 본문에서 직접 번역",
   "html_path": "works/abrah/index.html",
   "json_path": "data/works/abrah.json",
-  "fixed_html_path": "releases/public-0.35/works/abrah/index.html",
+  "fixed_html_path": "releases/public-0.35.1/works/abrah/index.html",
   "source_profile": "abrah-first1k-03776b39",
   "source_decisions": [
     {

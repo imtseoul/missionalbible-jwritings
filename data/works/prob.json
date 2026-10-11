@@ -101,7 +101,7 @@
       ],
       "work_passage_id": "prob:1",
       "html_path": "works/prob/index.html#p-1",
-      "fixed_html_path": "releases/public-0.35/works/prob/index.html#p-1",
+      "fixed_html_path": "releases/public-0.35.1/works/prob/index.html#p-1",
       "alignment_revision": "sha256:2e35bf29206473812f3df460dea9b8a5375a162348e63c19a9ebc0b486f7a68f",
       "review_state": {
         "human_reviewed": false,
@@ -137,9 +137,9 @@
         "work": "선한 사람은 모두 자유롭다",
         "reference": "1",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:11db625b00c116c78d0d6efed201518dd6e81d3a3f15a3f0f4a1258836a83cf4",
-        "fixed_path": "releases/public-0.35/works/prob/index.html#p-1"
+        "fixed_path": "releases/public-0.35.1/works/prob/index.html#p-1"
       }
     },
     {
@@ -214,7 +214,7 @@
       "notes": [],
       "work_passage_id": "prob:2",
       "html_path": "works/prob/index.html#p-2",
-      "fixed_html_path": "releases/public-0.35/works/prob/index.html#p-2",
+      "fixed_html_path": "releases/public-0.35.1/works/prob/index.html#p-2",
       "alignment_revision": "sha256:8c51165722af07b40e418f8e622ab6765777bb7924cfcedd15e18553f08004c9",
       "review_state": {
         "human_reviewed": false,
@@ -250,9 +250,9 @@
         "work": "선한 사람은 모두 자유롭다",
         "reference": "2",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:ed7c0dcdd8be7a8e36ede1fc457458febdceee3455415e20cd89369c7631b7d5",
-        "fixed_path": "releases/public-0.35/works/prob/index.html#p-2"
+        "fixed_path": "releases/public-0.35.1/works/prob/index.html#p-2"
       }
     },
     {
@@ -315,7 +315,7 @@
       "notes": [],
       "work_passage_id": "prob:3",
       "html_path": "works/prob/index.html#p-3",
-      "fixed_html_path": "releases/public-0.35/works/prob/index.html#p-3",
+      "fixed_html_path": "releases/public-0.35.1/works/prob/index.html#p-3",
       "alignment_revision": "sha256:850a7dac3a0b228fc50b00d07396a3505808eceaf17d58ee20b93e9047618428",
       "review_state": {
         "human_reviewed": false,
@@ -351,9 +351,9 @@
         "work": "선한 사람은 모두 자유롭다",
         "reference": "3",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:4f19d311eb4b6ca44936d8c1b80fa35d699002fe56057aaefe8e920927d46d00",
-        "fixed_path": "releases/public-0.35/works/prob/index.html#p-3"
+        "fixed_path": "releases/public-0.35.1/works/prob/index.html#p-3"
       }
     },
     {
@@ -403,7 +403,7 @@
       "notes": [],
       "work_passage_id": "prob:4",
       "html_path": "works/prob/index.html#p-4",
-      "fixed_html_path": "releases/public-0.35/works/prob/index.html#p-4",
+      "fixed_html_path": "releases/public-0.35.1/works/prob/index.html#p-4",
       "alignment_revision": "sha256:60fafd4a3d74cbef2410dfd0ac16c86216ec2268e4d84fe9bdcd48d516080437",
       "review_state": {
         "human_reviewed": false,
@@ -439,9 +439,9 @@
         "work": "선한 사람은 모두 자유롭다",
         "reference": "4",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:ca57f7ae3aaa2d4b278931d5557bb7959c4df7792a20dc754720e606109371ee",
-        "fixed_path": "releases/public-0.35/works/prob/index.html#p-4"
+        "fixed_path": "releases/public-0.35.1/works/prob/index.html#p-4"
       }
     },
     {
@@ -517,7 +517,7 @@
       "notes": [],
       "work_passage_id": "prob:5",
       "html_path": "works/prob/index.html#p-5",
-      "fixed_html_path": "releases/public-0.35/works/prob/index.html#p-5",
+      "fixed_html_path": "releases/public-0.35.1/works/prob/index.html#p-5",
       "alignment_revision": "sha256:57fe2b9820c714924e6e079677849babef80b1ebaafd38a8be254c8017afd7f1",
       "review_state": {
         "human_reviewed": false,
@@ -553,9 +553,9 @@
         "work": "선한 사람은 모두 자유롭다",
         "reference": "5",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:b352de0ff96d9d8ad5a41644125b731aeba16b4ffe2d1b4634b4dd26dd1b869a",
-        "fixed_path": "releases/public-0.35/works/prob/index.html#p-5"
+        "fixed_path": "releases/public-0.35.1/works/prob/index.html#p-5"
       }
     },
     {
@@ -633,7 +633,7 @@
       ],
       "work_passage_id": "prob:6",
       "html_path": "works/prob/index.html#p-6",
-      "fixed_html_path": "releases/public-0.35/works/prob/index.html#p-6",
+      "fixed_html_path": "releases/public-0.35.1/works/prob/index.html#p-6",
       "alignment_revision": "sha256:29921bd17f76f697ddb4d17d6dec29de24f428bfc50f62518c0717831f64e548",
       "review_state": {
         "human_reviewed": false,
@@ -669,9 +669,9 @@
         "work": "선한 사람은 모두 자유롭다",
         "reference": "6",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:1b02208b773ea1a8611bd53e6200883ce3151db419863386f23e965fcc35c58c",
-        "fixed_path": "releases/public-0.35/works/prob/index.html#p-6"
+        "fixed_path": "releases/public-0.35.1/works/prob/index.html#p-6"
       }
     },
     {
@@ -760,7 +760,7 @@
       "notes": [],
       "work_passage_id": "prob:7",
       "html_path": "works/prob/index.html#p-7",
-      "fixed_html_path": "releases/public-0.35/works/prob/index.html#p-7",
+      "fixed_html_path": "releases/public-0.35.1/works/prob/index.html#p-7",
       "alignment_revision": "sha256:385402ac34ed48fa6c4f9ac09f397a2dd6e8fcb3c2b2544a2c431edd96b438c6",
       "review_state": {
         "human_reviewed": false,
@@ -796,9 +796,9 @@
         "work": "선한 사람은 모두 자유롭다",
         "reference": "7",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:b2b0af42575ee98971305187543af8d72f835ea39e43c22bd4f88aef7b0d5081",
-        "fixed_path": "releases/public-0.35/works/prob/index.html#p-7"
+        "fixed_path": "releases/public-0.35.1/works/prob/index.html#p-7"
       }
     },
     {
@@ -887,7 +887,7 @@
       "notes": [],
       "work_passage_id": "prob:8",
       "html_path": "works/prob/index.html#p-8",
-      "fixed_html_path": "releases/public-0.35/works/prob/index.html#p-8",
+      "fixed_html_path": "releases/public-0.35.1/works/prob/index.html#p-8",
       "alignment_revision": "sha256:aafbe8948cd4b0b9a05b623e26bd3a4be014f86e58e3512a45b6f14bfeced52e",
       "review_state": {
         "human_reviewed": false,
@@ -923,9 +923,9 @@
         "work": "선한 사람은 모두 자유롭다",
         "reference": "8",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:cfb2c296519f453095b96b9c1ad043dbc58924393b6d6c93ec9e5a25407ff83c",
-        "fixed_path": "releases/public-0.35/works/prob/index.html#p-8"
+        "fixed_path": "releases/public-0.35.1/works/prob/index.html#p-8"
       }
     },
     {
@@ -1001,7 +1001,7 @@
       "notes": [],
       "work_passage_id": "prob:9",
       "html_path": "works/prob/index.html#p-9",
-      "fixed_html_path": "releases/public-0.35/works/prob/index.html#p-9",
+      "fixed_html_path": "releases/public-0.35.1/works/prob/index.html#p-9",
       "alignment_revision": "sha256:9d3756fab33c68847c247ac49d53f259c844d110c3c5a2e5d4cf48ba09573aab",
       "review_state": {
         "human_reviewed": false,
@@ -1037,9 +1037,9 @@
         "work": "선한 사람은 모두 자유롭다",
         "reference": "9",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:aa760a3bfb443c0dc4341649739035178da018c295948f29c19a0f3e0d1bdf82",
-        "fixed_path": "releases/public-0.35/works/prob/index.html#p-9"
+        "fixed_path": "releases/public-0.35.1/works/prob/index.html#p-9"
       }
     },
     {
@@ -1102,7 +1102,7 @@
       "notes": [],
       "work_passage_id": "prob:10",
       "html_path": "works/prob/index.html#p-10",
-      "fixed_html_path": "releases/public-0.35/works/prob/index.html#p-10",
+      "fixed_html_path": "releases/public-0.35.1/works/prob/index.html#p-10",
       "alignment_revision": "sha256:a8c8b167d02fab22d363df4c9652f42b947b1fd944e89f569edc715828be3376",
       "review_state": {
         "human_reviewed": false,
@@ -1138,9 +1138,9 @@
         "work": "선한 사람은 모두 자유롭다",
         "reference": "10",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:7e3c0586a96aa8a1fc0a52df8dc49b0e88547cd8ccc0c2897839ce70fed0525e",
-        "fixed_path": "releases/public-0.35/works/prob/index.html#p-10"
+        "fixed_path": "releases/public-0.35.1/works/prob/index.html#p-10"
       }
     },
     {
@@ -1203,7 +1203,7 @@
       "notes": [],
       "work_passage_id": "prob:11",
       "html_path": "works/prob/index.html#p-11",
-      "fixed_html_path": "releases/public-0.35/works/prob/index.html#p-11",
+      "fixed_html_path": "releases/public-0.35.1/works/prob/index.html#p-11",
       "alignment_revision": "sha256:c2bafda8ee7b03eb12935ed8f40c2e901183675a03483c2fb0c03d9360c89a33",
       "review_state": {
         "human_reviewed": false,
@@ -1239,9 +1239,9 @@
         "work": "선한 사람은 모두 자유롭다",
         "reference": "11",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:2f5943ca42364b6f7f7ad398d39ba7826d1c3dbc1584729e2e122d7e84b5fd90",
-        "fixed_path": "releases/public-0.35/works/prob/index.html#p-11"
+        "fixed_path": "releases/public-0.35.1/works/prob/index.html#p-11"
       }
     },
     {
@@ -1330,7 +1330,7 @@
       "notes": [],
       "work_passage_id": "prob:12",
       "html_path": "works/prob/index.html#p-12",
-      "fixed_html_path": "releases/public-0.35/works/prob/index.html#p-12",
+      "fixed_html_path": "releases/public-0.35.1/works/prob/index.html#p-12",
       "alignment_revision": "sha256:45fe359b44090b00e1df3d5812149b000ac7be5dbbe41c4555b9ea0f2989b965",
       "review_state": {
         "human_reviewed": false,
@@ -1366,9 +1366,9 @@
         "work": "선한 사람은 모두 자유롭다",
         "reference": "12",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:6c2fa7de66fc728570db0e3aa884e41d10f7fda1cfdf30f9eb9c2e068998a6b7",
-        "fixed_path": "releases/public-0.35/works/prob/index.html#p-12"
+        "fixed_path": "releases/public-0.35.1/works/prob/index.html#p-12"
       }
     },
     {
@@ -1446,7 +1446,7 @@
       ],
       "work_passage_id": "prob:13",
       "html_path": "works/prob/index.html#p-13",
-      "fixed_html_path": "releases/public-0.35/works/prob/index.html#p-13",
+      "fixed_html_path": "releases/public-0.35.1/works/prob/index.html#p-13",
       "alignment_revision": "sha256:e653820897d06d2013f140d9b6193838f56073e4bef953a2ca1dd8a9ffde200e",
       "review_state": {
         "human_reviewed": false,
@@ -1482,9 +1482,9 @@
         "work": "선한 사람은 모두 자유롭다",
         "reference": "13",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:749fbc211694b62deca5c8cc6b5609ef8a1c386456913e7a30dafb21162f9352",
-        "fixed_path": "releases/public-0.35/works/prob/index.html#p-13"
+        "fixed_path": "releases/public-0.35.1/works/prob/index.html#p-13"
       }
     },
     {
@@ -1547,7 +1547,7 @@
       "notes": [],
       "work_passage_id": "prob:14",
       "html_path": "works/prob/index.html#p-14",
-      "fixed_html_path": "releases/public-0.35/works/prob/index.html#p-14",
+      "fixed_html_path": "releases/public-0.35.1/works/prob/index.html#p-14",
       "alignment_revision": "sha256:80d4d638cfa3af5c593bd61b14f5783069035ac46538e2360ff7bf6955c038b2",
       "review_state": {
         "human_reviewed": false,
@@ -1583,9 +1583,9 @@
         "work": "선한 사람은 모두 자유롭다",
         "reference": "14",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:22375f47c66ff8b94fd24c99ff8201c9a05c2f6b1300a5ef7dddfc1f05a3de87",
-        "fixed_path": "releases/public-0.35/works/prob/index.html#p-14"
+        "fixed_path": "releases/public-0.35.1/works/prob/index.html#p-14"
       }
     },
     {
@@ -1674,7 +1674,7 @@
       "notes": [],
       "work_passage_id": "prob:15",
       "html_path": "works/prob/index.html#p-15",
-      "fixed_html_path": "releases/public-0.35/works/prob/index.html#p-15",
+      "fixed_html_path": "releases/public-0.35.1/works/prob/index.html#p-15",
       "alignment_revision": "sha256:ea47132d85a656e975afa891fab1352ec67a8e1986560cdcd35c13cada081965",
       "review_state": {
         "human_reviewed": false,
@@ -1710,9 +1710,9 @@
         "work": "선한 사람은 모두 자유롭다",
         "reference": "15",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:dde97e8322bf0f2b192aa0523984f3a5913af617a25660851926177d5a90c406",
-        "fixed_path": "releases/public-0.35/works/prob/index.html#p-15"
+        "fixed_path": "releases/public-0.35.1/works/prob/index.html#p-15"
       }
     },
     {
@@ -1775,7 +1775,7 @@
       "notes": [],
       "work_passage_id": "prob:16",
       "html_path": "works/prob/index.html#p-16",
-      "fixed_html_path": "releases/public-0.35/works/prob/index.html#p-16",
+      "fixed_html_path": "releases/public-0.35.1/works/prob/index.html#p-16",
       "alignment_revision": "sha256:89a01f98a3cb05daed956a6fba4135761bd7d29ed20eee41e516c6cb2717f3e6",
       "review_state": {
         "human_reviewed": false,
@@ -1811,9 +1811,9 @@
         "work": "선한 사람은 모두 자유롭다",
         "reference": "16",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:03a8d9bdd3ba834bc782bea8841bea68b009f86dbeb5b82fde0f24932994f260",
-        "fixed_path": "releases/public-0.35/works/prob/index.html#p-16"
+        "fixed_path": "releases/public-0.35.1/works/prob/index.html#p-16"
       }
     },
     {
@@ -1904,7 +1904,7 @@
       ],
       "work_passage_id": "prob:17",
       "html_path": "works/prob/index.html#p-17",
-      "fixed_html_path": "releases/public-0.35/works/prob/index.html#p-17",
+      "fixed_html_path": "releases/public-0.35.1/works/prob/index.html#p-17",
       "alignment_revision": "sha256:67c031dfaf4180964ec2de7f0ea8201763aa31bdb5f9d1a32d1a8bd38fbf6c51",
       "review_state": {
         "human_reviewed": false,
@@ -1940,9 +1940,9 @@
         "work": "선한 사람은 모두 자유롭다",
         "reference": "17",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:baa0581b855a636662b4d7cd602d23fa012f0ab0692544b096a5390201d8a393",
-        "fixed_path": "releases/public-0.35/works/prob/index.html#p-17"
+        "fixed_path": "releases/public-0.35.1/works/prob/index.html#p-17"
       }
     },
     {
@@ -2020,7 +2020,7 @@
       ],
       "work_passage_id": "prob:18",
       "html_path": "works/prob/index.html#p-18",
-      "fixed_html_path": "releases/public-0.35/works/prob/index.html#p-18",
+      "fixed_html_path": "releases/public-0.35.1/works/prob/index.html#p-18",
       "alignment_revision": "sha256:db4cd41c83e098655ee4d5dd7e6fb5ca156fd3997b00c0442797dd78fb053d5a",
       "review_state": {
         "human_reviewed": false,
@@ -2056,9 +2056,9 @@
         "work": "선한 사람은 모두 자유롭다",
         "reference": "18",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:55cc5e26207760101e66e3bcde5ca33eb861d7f97d126a67d7f560dc7fe1aa86",
-        "fixed_path": "releases/public-0.35/works/prob/index.html#p-18"
+        "fixed_path": "releases/public-0.35.1/works/prob/index.html#p-18"
       }
     },
     {
@@ -2162,7 +2162,7 @@
       ],
       "work_passage_id": "prob:19",
       "html_path": "works/prob/index.html#p-19",
-      "fixed_html_path": "releases/public-0.35/works/prob/index.html#p-19",
+      "fixed_html_path": "releases/public-0.35.1/works/prob/index.html#p-19",
       "alignment_revision": "sha256:3462c93bbfbee958711c103bff61deedf9f9300c8675f0e1a89175327a836c47",
       "review_state": {
         "human_reviewed": false,
@@ -2198,9 +2198,9 @@
         "work": "선한 사람은 모두 자유롭다",
         "reference": "19",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:d88dff90ddcdc55ddf0c7226951721174da6057cf341886733e3cb7848494753",
-        "fixed_path": "releases/public-0.35/works/prob/index.html#p-19"
+        "fixed_path": "releases/public-0.35.1/works/prob/index.html#p-19"
       }
     },
     {
@@ -2263,7 +2263,7 @@
       "notes": [],
       "work_passage_id": "prob:20",
       "html_path": "works/prob/index.html#p-20",
-      "fixed_html_path": "releases/public-0.35/works/prob/index.html#p-20",
+      "fixed_html_path": "releases/public-0.35.1/works/prob/index.html#p-20",
       "alignment_revision": "sha256:2b0b75e242eda240884642189045b867fd82ec1d0d044203a78fbaa8d41d0431",
       "review_state": {
         "human_reviewed": false,
@@ -2299,9 +2299,9 @@
         "work": "선한 사람은 모두 자유롭다",
         "reference": "20",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:10e7723b74e1848009d13093871f8bc06c234a2c460da69d6758e6ec48f411e4",
-        "fixed_path": "releases/public-0.35/works/prob/index.html#p-20"
+        "fixed_path": "releases/public-0.35.1/works/prob/index.html#p-20"
       }
     },
     {
@@ -2392,7 +2392,7 @@
       ],
       "work_passage_id": "prob:21",
       "html_path": "works/prob/index.html#p-21",
-      "fixed_html_path": "releases/public-0.35/works/prob/index.html#p-21",
+      "fixed_html_path": "releases/public-0.35.1/works/prob/index.html#p-21",
       "alignment_revision": "sha256:d54fe8ef07cf461df0564ac9fb367041441d40224609f1ff6cda43dd5f3770b4",
       "review_state": {
         "human_reviewed": false,
@@ -2428,9 +2428,9 @@
         "work": "선한 사람은 모두 자유롭다",
         "reference": "21",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:15873c0c33bbacb30592f6719f319999b8df7292fa05b16bc04582798266e893",
-        "fixed_path": "releases/public-0.35/works/prob/index.html#p-21"
+        "fixed_path": "releases/public-0.35.1/works/prob/index.html#p-21"
       }
     },
     {
@@ -2534,7 +2534,7 @@
       ],
       "work_passage_id": "prob:22",
       "html_path": "works/prob/index.html#p-22",
-      "fixed_html_path": "releases/public-0.35/works/prob/index.html#p-22",
+      "fixed_html_path": "releases/public-0.35.1/works/prob/index.html#p-22",
       "alignment_revision": "sha256:d3a834c92194530b99cf6f9d9f08ed537069504139f41f33e1fec66f44c914e3",
       "review_state": {
         "human_reviewed": false,
@@ -2570,9 +2570,9 @@
         "work": "선한 사람은 모두 자유롭다",
         "reference": "22",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:ac65574dde89701994ee031955ff8a125f418712c8b3995ddd04cb68c3f51866",
-        "fixed_path": "releases/public-0.35/works/prob/index.html#p-22"
+        "fixed_path": "releases/public-0.35.1/works/prob/index.html#p-22"
       }
     },
     {
@@ -2648,7 +2648,7 @@
       "notes": [],
       "work_passage_id": "prob:23",
       "html_path": "works/prob/index.html#p-23",
-      "fixed_html_path": "releases/public-0.35/works/prob/index.html#p-23",
+      "fixed_html_path": "releases/public-0.35.1/works/prob/index.html#p-23",
       "alignment_revision": "sha256:3e3de204b11502f6d4545a43ac5c1ca57afda3ca28eddb284f7bfb3fcc159545",
       "review_state": {
         "human_reviewed": false,
@@ -2684,9 +2684,9 @@
         "work": "선한 사람은 모두 자유롭다",
         "reference": "23",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:d0bc1bb7b7dae29a4e2bbdf53a34948d029b02b9c02bad00f4e91745aadc1662",
-        "fixed_path": "releases/public-0.35/works/prob/index.html#p-23"
+        "fixed_path": "releases/public-0.35.1/works/prob/index.html#p-23"
       }
     },
     {
@@ -2827,7 +2827,7 @@
       "notes": [],
       "work_passage_id": "prob:24",
       "html_path": "works/prob/index.html#p-24",
-      "fixed_html_path": "releases/public-0.35/works/prob/index.html#p-24",
+      "fixed_html_path": "releases/public-0.35.1/works/prob/index.html#p-24",
       "alignment_revision": "sha256:7f0cf07f2876c160d7ec941d2b57fb614570df4ce2a154f81fe0b891c9827d95",
       "review_state": {
         "human_reviewed": false,
@@ -2863,9 +2863,9 @@
         "work": "선한 사람은 모두 자유롭다",
         "reference": "24",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:8a727f76590e31adad02b15d356a911295389a699da1050123b038be8c123243",
-        "fixed_path": "releases/public-0.35/works/prob/index.html#p-24"
+        "fixed_path": "releases/public-0.35.1/works/prob/index.html#p-24"
       }
     },
     {
@@ -2941,7 +2941,7 @@
       "notes": [],
       "work_passage_id": "prob:25",
       "html_path": "works/prob/index.html#p-25",
-      "fixed_html_path": "releases/public-0.35/works/prob/index.html#p-25",
+      "fixed_html_path": "releases/public-0.35.1/works/prob/index.html#p-25",
       "alignment_revision": "sha256:cbbbdb47fe9d24a6963b9ce8504e0c0b12ba8b5c07dd774f3052e67140097538",
       "review_state": {
         "human_reviewed": false,
@@ -2977,9 +2977,9 @@
         "work": "선한 사람은 모두 자유롭다",
         "reference": "25",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:882b680b7bb5f2d39d60e3f224e1431059cde12b92d2fe8b16e55f19791b148d",
-        "fixed_path": "releases/public-0.35/works/prob/index.html#p-25"
+        "fixed_path": "releases/public-0.35.1/works/prob/index.html#p-25"
       }
     },
     {
@@ -3070,7 +3070,7 @@
       ],
       "work_passage_id": "prob:26",
       "html_path": "works/prob/index.html#p-26",
-      "fixed_html_path": "releases/public-0.35/works/prob/index.html#p-26",
+      "fixed_html_path": "releases/public-0.35.1/works/prob/index.html#p-26",
       "alignment_revision": "sha256:399d9366ee535e8b3a817eb4e626b212598d5763c4fefe56d371a991f5838719",
       "review_state": {
         "human_reviewed": false,
@@ -3106,9 +3106,9 @@
         "work": "선한 사람은 모두 자유롭다",
         "reference": "26",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:c9999e2ad76bcaa3e69dd96d139dc51178e5dc06b0342eaafdf7269108327c61",
-        "fixed_path": "releases/public-0.35/works/prob/index.html#p-26"
+        "fixed_path": "releases/public-0.35.1/works/prob/index.html#p-26"
       }
     },
     {
@@ -3197,7 +3197,7 @@
       "notes": [],
       "work_passage_id": "prob:27",
       "html_path": "works/prob/index.html#p-27",
-      "fixed_html_path": "releases/public-0.35/works/prob/index.html#p-27",
+      "fixed_html_path": "releases/public-0.35.1/works/prob/index.html#p-27",
       "alignment_revision": "sha256:9e0a2d5b19654620c478d016db5d4c06443d45d8cf7c2ade89cf30b81215f858",
       "review_state": {
         "human_reviewed": false,
@@ -3233,9 +3233,9 @@
         "work": "선한 사람은 모두 자유롭다",
         "reference": "27",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:252153c5b52d7c7117a7e8703d2db89a7be78921c0cd378771702da4b5ed182a",
-        "fixed_path": "releases/public-0.35/works/prob/index.html#p-27"
+        "fixed_path": "releases/public-0.35.1/works/prob/index.html#p-27"
       }
     },
     {
@@ -3310,7 +3310,7 @@
       ],
       "work_passage_id": "prob:28",
       "html_path": "works/prob/index.html#p-28",
-      "fixed_html_path": "releases/public-0.35/works/prob/index.html#p-28",
+      "fixed_html_path": "releases/public-0.35.1/works/prob/index.html#p-28",
       "alignment_revision": "sha256:7c2aeb64a001cbb4f0e43d71262d56889ef0514372718ffcfecea62e78c29788",
       "review_state": {
         "human_reviewed": false,
@@ -3346,9 +3346,9 @@
         "work": "선한 사람은 모두 자유롭다",
         "reference": "28",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:20241379f415c9c4c5c2f80d51caf0f9ab56357948c507d788202e2e618d343c",
-        "fixed_path": "releases/public-0.35/works/prob/index.html#p-28"
+        "fixed_path": "releases/public-0.35.1/works/prob/index.html#p-28"
       }
     },
     {
@@ -3400,7 +3400,7 @@
       ],
       "work_passage_id": "prob:29",
       "html_path": "works/prob/index.html#p-29",
-      "fixed_html_path": "releases/public-0.35/works/prob/index.html#p-29",
+      "fixed_html_path": "releases/public-0.35.1/works/prob/index.html#p-29",
       "alignment_revision": "sha256:046fa7d83a6b53d4d0811c20d88df9592bc459616fa0755090189881114b494b",
       "review_state": {
         "human_reviewed": false,
@@ -3436,9 +3436,9 @@
         "work": "선한 사람은 모두 자유롭다",
         "reference": "29",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:5d71daf95d838f1afcf60f384201404f2c926cdf57b2b83205e397f76591fa4c",
-        "fixed_path": "releases/public-0.35/works/prob/index.html#p-29"
+        "fixed_path": "releases/public-0.35.1/works/prob/index.html#p-29"
       }
     },
     {
@@ -3540,7 +3540,7 @@
       "notes": [],
       "work_passage_id": "prob:30",
       "html_path": "works/prob/index.html#p-30",
-      "fixed_html_path": "releases/public-0.35/works/prob/index.html#p-30",
+      "fixed_html_path": "releases/public-0.35.1/works/prob/index.html#p-30",
       "alignment_revision": "sha256:085557b55e078f51eb39a8aaa403bf871e2487733315b17aaf46a83969f0118c",
       "review_state": {
         "human_reviewed": false,
@@ -3576,9 +3576,9 @@
         "work": "선한 사람은 모두 자유롭다",
         "reference": "30",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:1954e3f73317c45b49a766c2802f86e6a8c3eaccb5bb75e8409f97d99dbd4e13",
-        "fixed_path": "releases/public-0.35/works/prob/index.html#p-30"
+        "fixed_path": "releases/public-0.35.1/works/prob/index.html#p-30"
       }
     },
     {
@@ -3680,7 +3680,7 @@
       "notes": [],
       "work_passage_id": "prob:31",
       "html_path": "works/prob/index.html#p-31",
-      "fixed_html_path": "releases/public-0.35/works/prob/index.html#p-31",
+      "fixed_html_path": "releases/public-0.35.1/works/prob/index.html#p-31",
       "alignment_revision": "sha256:89a3e303b85e6024cd3646b4f27b971968e170c4abcd18095328df23fae0cb00",
       "review_state": {
         "human_reviewed": false,
@@ -3716,9 +3716,9 @@
         "work": "선한 사람은 모두 자유롭다",
         "reference": "31",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:ac51d415df05b7050e35750b538efcb4a9a8222548a0ce8c2b50ed47880b92bf",
-        "fixed_path": "releases/public-0.35/works/prob/index.html#p-31"
+        "fixed_path": "releases/public-0.35.1/works/prob/index.html#p-31"
       }
     },
     {
@@ -3794,7 +3794,7 @@
       "notes": [],
       "work_passage_id": "prob:32",
       "html_path": "works/prob/index.html#p-32",
-      "fixed_html_path": "releases/public-0.35/works/prob/index.html#p-32",
+      "fixed_html_path": "releases/public-0.35.1/works/prob/index.html#p-32",
       "alignment_revision": "sha256:223dfae362a8485c4f07cd89acc62f756d1dcc87e304dfbd7646a6b660f0e74c",
       "review_state": {
         "human_reviewed": false,
@@ -3830,9 +3830,9 @@
         "work": "선한 사람은 모두 자유롭다",
         "reference": "32",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:ec603a3d123d245ac032b074e78212e74359fa46d000f8a55e81077431641f67",
-        "fixed_path": "releases/public-0.35/works/prob/index.html#p-32"
+        "fixed_path": "releases/public-0.35.1/works/prob/index.html#p-32"
       }
     },
     {
@@ -3895,7 +3895,7 @@
       "notes": [],
       "work_passage_id": "prob:33",
       "html_path": "works/prob/index.html#p-33",
-      "fixed_html_path": "releases/public-0.35/works/prob/index.html#p-33",
+      "fixed_html_path": "releases/public-0.35.1/works/prob/index.html#p-33",
       "alignment_revision": "sha256:2efcd1c89d40dea0841c0400bcc75d810136ea505480c71369adc7d3d24a6d0b",
       "review_state": {
         "human_reviewed": false,
@@ -3931,9 +3931,9 @@
         "work": "선한 사람은 모두 자유롭다",
         "reference": "33",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:48e3d5c98e89f613974d7738772bcf258867dcc9a2dba5fcfeee7948f8d9b5d3",
-        "fixed_path": "releases/public-0.35/works/prob/index.html#p-33"
+        "fixed_path": "releases/public-0.35.1/works/prob/index.html#p-33"
       }
     },
     {
@@ -4022,7 +4022,7 @@
       "notes": [],
       "work_passage_id": "prob:34",
       "html_path": "works/prob/index.html#p-34",
-      "fixed_html_path": "releases/public-0.35/works/prob/index.html#p-34",
+      "fixed_html_path": "releases/public-0.35.1/works/prob/index.html#p-34",
       "alignment_revision": "sha256:cd857e7cd51c750dcab4fbe76b17755f3f31fc192fe9a6dd9e255f937b773110",
       "review_state": {
         "human_reviewed": false,
@@ -4058,9 +4058,9 @@
         "work": "선한 사람은 모두 자유롭다",
         "reference": "34",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:87d45666d4bbebc27e30c0db70b43f08149cd9f1b01667d28562580b0e264ef1",
-        "fixed_path": "releases/public-0.35/works/prob/index.html#p-34"
+        "fixed_path": "releases/public-0.35.1/works/prob/index.html#p-34"
       }
     },
     {
@@ -4138,7 +4138,7 @@
       ],
       "work_passage_id": "prob:35",
       "html_path": "works/prob/index.html#p-35",
-      "fixed_html_path": "releases/public-0.35/works/prob/index.html#p-35",
+      "fixed_html_path": "releases/public-0.35.1/works/prob/index.html#p-35",
       "alignment_revision": "sha256:16dd3dfb1f53fbec39a48a9eda4a3e5437cf2a60d62364e50081b3708d8a5556",
       "review_state": {
         "human_reviewed": false,
@@ -4174,9 +4174,9 @@
         "work": "선한 사람은 모두 자유롭다",
         "reference": "35",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:1c1fe2f6dc15b9c10b06d056f565001855286657c204e0a2d5316125924708f5",
-        "fixed_path": "releases/public-0.35/works/prob/index.html#p-35"
+        "fixed_path": "releases/public-0.35.1/works/prob/index.html#p-35"
       }
     },
     {
@@ -4267,7 +4267,7 @@
       ],
       "work_passage_id": "prob:36",
       "html_path": "works/prob/index.html#p-36",
-      "fixed_html_path": "releases/public-0.35/works/prob/index.html#p-36",
+      "fixed_html_path": "releases/public-0.35.1/works/prob/index.html#p-36",
       "alignment_revision": "sha256:c54d35375c2c1a574e829da63996b7be417eafe41b9a374fd8065c8432512655",
       "review_state": {
         "human_reviewed": false,
@@ -4303,9 +4303,9 @@
         "work": "선한 사람은 모두 자유롭다",
         "reference": "36",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:72ab627f9d1cb560cdd0cbada53c8eeb53d357654a8f80712f765611757d040c",
-        "fixed_path": "releases/public-0.35/works/prob/index.html#p-36"
+        "fixed_path": "releases/public-0.35.1/works/prob/index.html#p-36"
       }
     },
     {
@@ -4383,7 +4383,7 @@
       ],
       "work_passage_id": "prob:37",
       "html_path": "works/prob/index.html#p-37",
-      "fixed_html_path": "releases/public-0.35/works/prob/index.html#p-37",
+      "fixed_html_path": "releases/public-0.35.1/works/prob/index.html#p-37",
       "alignment_revision": "sha256:c6e94b56a851944ce3d49945b22ab0e9f3384aa74bf573f8cd9d4d4c0b760889",
       "review_state": {
         "human_reviewed": false,
@@ -4419,9 +4419,9 @@
         "work": "선한 사람은 모두 자유롭다",
         "reference": "37",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:328e3e11b37ed1e695e9cf35e613863630487fb27c912c02ae7f45e202d071b0",
-        "fixed_path": "releases/public-0.35/works/prob/index.html#p-37"
+        "fixed_path": "releases/public-0.35.1/works/prob/index.html#p-37"
       }
     },
     {
@@ -4497,7 +4497,7 @@
       "notes": [],
       "work_passage_id": "prob:38",
       "html_path": "works/prob/index.html#p-38",
-      "fixed_html_path": "releases/public-0.35/works/prob/index.html#p-38",
+      "fixed_html_path": "releases/public-0.35.1/works/prob/index.html#p-38",
       "alignment_revision": "sha256:896a2a27eb8a01b678cabbf150b6b0966f545724cfb46a8d8f570f33c93fe27c",
       "review_state": {
         "human_reviewed": false,
@@ -4533,9 +4533,9 @@
         "work": "선한 사람은 모두 자유롭다",
         "reference": "38",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:4951a19aad258b09f94e52fd90dc3b29501f9bd70f8c9340088a977bbbe3008b",
-        "fixed_path": "releases/public-0.35/works/prob/index.html#p-38"
+        "fixed_path": "releases/public-0.35.1/works/prob/index.html#p-38"
       }
     },
     {
@@ -4611,7 +4611,7 @@
       "notes": [],
       "work_passage_id": "prob:39",
       "html_path": "works/prob/index.html#p-39",
-      "fixed_html_path": "releases/public-0.35/works/prob/index.html#p-39",
+      "fixed_html_path": "releases/public-0.35.1/works/prob/index.html#p-39",
       "alignment_revision": "sha256:30807d058190d86a649757f8a9aea489f8e711d0368c8b51c9c8c204dd9d42f0",
       "review_state": {
         "human_reviewed": false,
@@ -4647,9 +4647,9 @@
         "work": "선한 사람은 모두 자유롭다",
         "reference": "39",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:a7a9c07777b51186047406d6847cfa6e25c5c8060d78afe84a95be6f68038768",
-        "fixed_path": "releases/public-0.35/works/prob/index.html#p-39"
+        "fixed_path": "releases/public-0.35.1/works/prob/index.html#p-39"
       }
     },
     {
@@ -4740,7 +4740,7 @@
       ],
       "work_passage_id": "prob:40",
       "html_path": "works/prob/index.html#p-40",
-      "fixed_html_path": "releases/public-0.35/works/prob/index.html#p-40",
+      "fixed_html_path": "releases/public-0.35.1/works/prob/index.html#p-40",
       "alignment_revision": "sha256:344c72364dc60b320616523f5642a0c2570f09873f104881366a1e08cf54c466",
       "review_state": {
         "human_reviewed": false,
@@ -4776,9 +4776,9 @@
         "work": "선한 사람은 모두 자유롭다",
         "reference": "40",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera Quae Supersunt, vol. 6, Reimer, 1915.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:384804e5d77e29db11583395259b990510ad9495fa6de913dcbc3ea1e3eba259",
-        "fixed_path": "releases/public-0.35/works/prob/index.html#p-40"
+        "fixed_path": "releases/public-0.35.1/works/prob/index.html#p-40"
       }
     }
   ],
@@ -4803,14 +4803,14 @@
   "display_author": "필론",
   "scope": "선한 사람은 모두 자유롭다 1-40절 전체, 41-160절 미수록",
   "coverage": "complete_scope",
-  "release_id": "public-0.35",
+  "release_id": "public-0.35.1",
   "source_language": "grc",
   "source_kind": "edited_ancient_original",
   "human_reviewed": false,
   "translation_method": "고정 원어 본문에서 직접 번역",
   "html_path": "works/prob/index.html",
   "json_path": "data/works/prob.json",
-  "fixed_html_path": "releases/public-0.35/works/prob/index.html",
+  "fixed_html_path": "releases/public-0.35.1/works/prob/index.html",
   "source_profile": "prob-first1k-03776b39",
   "source_decisions": [
     {

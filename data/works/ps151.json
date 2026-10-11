@@ -91,7 +91,7 @@
       ],
       "work_passage_id": "ps151:151.1",
       "html_path": "works/ps151/index.html#p-151-1",
-      "fixed_html_path": "releases/public-0.35/works/ps151/index.html#p-151-1",
+      "fixed_html_path": "releases/public-0.35.1/works/ps151/index.html#p-151-1",
       "alignment_revision": "sha256:c17eea34f42bd9e39feb88bda0ea13150d9692af9e7eeeff37c2e049d1d1a3e9",
       "review_state": {
         "human_reviewed": false,
@@ -127,9 +127,9 @@
         "work": "시편 151편",
         "reference": "151.1",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:73c98737963f8d32f69a5cc66ebb4fb8a8b70daccf95731d43ae3207d4f50d66",
-        "fixed_path": "releases/public-0.35/works/ps151/index.html#p-151-1"
+        "fixed_path": "releases/public-0.35.1/works/ps151/index.html#p-151-1"
       }
     },
     {
@@ -182,7 +182,7 @@
       "notes": [],
       "work_passage_id": "ps151:151.2",
       "html_path": "works/ps151/index.html#p-151-2",
-      "fixed_html_path": "releases/public-0.35/works/ps151/index.html#p-151-2",
+      "fixed_html_path": "releases/public-0.35.1/works/ps151/index.html#p-151-2",
       "alignment_revision": "sha256:59574fbfc125f693c9d4c06ce361e67c557d6549f1fd37768d78fe662c6b6e72",
       "review_state": {
         "human_reviewed": false,
@@ -218,9 +218,9 @@
         "work": "시편 151편",
         "reference": "151.2",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:4e14a075febdd5bbb16a3842b178dcb98267c499d8f5cbf942745643d4ffa2c8",
-        "fixed_path": "releases/public-0.35/works/ps151/index.html#p-151-2"
+        "fixed_path": "releases/public-0.35.1/works/ps151/index.html#p-151-2"
       }
     },
     {
@@ -275,7 +275,7 @@
       ],
       "work_passage_id": "ps151:151.3",
       "html_path": "works/ps151/index.html#p-151-3",
-      "fixed_html_path": "releases/public-0.35/works/ps151/index.html#p-151-3",
+      "fixed_html_path": "releases/public-0.35.1/works/ps151/index.html#p-151-3",
       "alignment_revision": "sha256:51d973995896cc81a20bbddaebdbc9e19a8d93bc3104a2e60e29904861e30cbf",
       "review_state": {
         "human_reviewed": false,
@@ -311,9 +311,9 @@
         "work": "시편 151편",
         "reference": "151.3",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:152a489d6d80e8ba246ce34c4ab05e0b4414f2f204ba67df20a263423b7484f9",
-        "fixed_path": "releases/public-0.35/works/ps151/index.html#p-151-3"
+        "fixed_path": "releases/public-0.35.1/works/ps151/index.html#p-151-3"
       }
     },
     {
@@ -381,7 +381,7 @@
       ],
       "work_passage_id": "ps151:151.4",
       "html_path": "works/ps151/index.html#p-151-4",
-      "fixed_html_path": "releases/public-0.35/works/ps151/index.html#p-151-4",
+      "fixed_html_path": "releases/public-0.35.1/works/ps151/index.html#p-151-4",
       "alignment_revision": "sha256:04f4245c8bf1b018db1a085637eec2aee0787931908d8805287cbbe045423f28",
       "review_state": {
         "human_reviewed": false,
@@ -417,9 +417,9 @@
         "work": "시편 151편",
         "reference": "151.4",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:d927a60600b792c847f43654bcf9760d2af6e6ee59199f3c518246a669569563",
-        "fixed_path": "releases/public-0.35/works/ps151/index.html#p-151-4"
+        "fixed_path": "releases/public-0.35.1/works/ps151/index.html#p-151-4"
       }
     },
     {
@@ -472,7 +472,7 @@
       "notes": [],
       "work_passage_id": "ps151:151.5",
       "html_path": "works/ps151/index.html#p-151-5",
-      "fixed_html_path": "releases/public-0.35/works/ps151/index.html#p-151-5",
+      "fixed_html_path": "releases/public-0.35.1/works/ps151/index.html#p-151-5",
       "alignment_revision": "sha256:4b24563e0cabc6b675b6d89a348806a04ea7a5d0baf9c68d805b93e5af92b5d5",
       "review_state": {
         "human_reviewed": false,
@@ -508,9 +508,9 @@
         "work": "시편 151편",
         "reference": "151.5",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:f61f237c906fe15b2e572ad765e975d8a0bb6ae407fa3aa2dbe67960f184870c",
-        "fixed_path": "releases/public-0.35/works/ps151/index.html#p-151-5"
+        "fixed_path": "releases/public-0.35.1/works/ps151/index.html#p-151-5"
       }
     },
     {
@@ -563,7 +563,7 @@
       "notes": [],
       "work_passage_id": "ps151:151.6",
       "html_path": "works/ps151/index.html#p-151-6",
-      "fixed_html_path": "releases/public-0.35/works/ps151/index.html#p-151-6",
+      "fixed_html_path": "releases/public-0.35.1/works/ps151/index.html#p-151-6",
       "alignment_revision": "sha256:48877bc814167a9435f61186972f0e618f88805264ee2bd8dad853956014d311",
       "review_state": {
         "human_reviewed": false,
@@ -599,9 +599,9 @@
         "work": "시편 151편",
         "reference": "151.6",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:af7cddd2b6687ab3d27562c836bbbcf086c8dbc97ce424169b823c05d411ae21",
-        "fixed_path": "releases/public-0.35/works/ps151/index.html#p-151-6"
+        "fixed_path": "releases/public-0.35.1/works/ps151/index.html#p-151-6"
       }
     },
     {
@@ -669,7 +669,7 @@
       ],
       "work_passage_id": "ps151:151.7",
       "html_path": "works/ps151/index.html#p-151-7",
-      "fixed_html_path": "releases/public-0.35/works/ps151/index.html#p-151-7",
+      "fixed_html_path": "releases/public-0.35.1/works/ps151/index.html#p-151-7",
       "alignment_revision": "sha256:cb57e19905ce27810437ac8343705e024aab66f7823dd12b511076282e08b9e5",
       "review_state": {
         "human_reviewed": false,
@@ -705,9 +705,9 @@
         "work": "시편 151편",
         "reference": "151.7",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 2, 제3판, Cambridge University Press, 1907.",
-        "release": "public-0.35",
+        "release": "public-0.35.1",
         "translation_revision": "sha256:76a56fa4937b5ba57ca09e178f062bde0a2e4f161f805c22ac207f195c41b9d4",
-        "fixed_path": "releases/public-0.35/works/ps151/index.html#p-151-7"
+        "fixed_path": "releases/public-0.35.1/works/ps151/index.html#p-151-7"
       }
     }
   ],
@@ -731,14 +731,14 @@
   "display_author": "익명",
   "scope": "시편 151편 151.1-151.7 7절 전체",
   "coverage": "complete",
-  "release_id": "public-0.35",
+  "release_id": "public-0.35.1",
   "source_language": "grc",
   "source_kind": "edited_ancient_original",
   "human_reviewed": false,
   "translation_method": "고정 원어 본문에서 직접 번역",
   "html_path": "works/ps151/index.html",
   "json_path": "data/works/ps151.json",
-  "fixed_html_path": "releases/public-0.35/works/ps151/index.html",
+  "fixed_html_path": "releases/public-0.35.1/works/ps151/index.html",
   "source_profile": "ps151-swete-1d3efc3c",
   "source_decisions": [
     {
