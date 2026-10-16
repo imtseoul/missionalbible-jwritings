@@ -108,7 +108,7 @@
       ],
       "work_passage_id": "ench:1.1",
       "html_path": "works/ench/index.html#p-1-1",
-      "fixed_html_path": "releases/public-0.35.1/works/ench/index.html#p-1-1",
+      "fixed_html_path": "releases/public-0.36/works/ench/index.html#p-1-1",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:9ac354edb38081ab59ca3377e6b87420d363d51ed9c13859095794076277f50f",
@@ -143,9 +143,9 @@
         "work": "엥케이리디온",
         "reference": "1.1",
         "edition": "Heinrich Schenkl 편, Epicteti dissertationes ab Arriano digestae, editio maior, Leipzig: Teubner, 1916.",
-        "release": "public-0.35.1",
+        "release": "public-0.36",
         "translation_revision": "sha256:af044c8669432da3133431662489f3ea622351dae782c4b48eb9092365af1555",
-        "fixed_path": "releases/public-0.35.1/works/ench/index.html#p-1-1"
+        "fixed_path": "releases/public-0.36/works/ench/index.html#p-1-1"
       }
     },
     {
@@ -190,7 +190,7 @@
       ],
       "work_passage_id": "ench:1.2",
       "html_path": "works/ench/index.html#p-1-2",
-      "fixed_html_path": "releases/public-0.35.1/works/ench/index.html#p-1-2",
+      "fixed_html_path": "releases/public-0.36/works/ench/index.html#p-1-2",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:d4ba44f95efd6ea71ddd13080ae866370cfadc73573c757d7cfe5d6ce6c16fda",
@@ -225,9 +225,9 @@
         "work": "엥케이리디온",
         "reference": "1.2",
         "edition": "Heinrich Schenkl 편, Epicteti dissertationes ab Arriano digestae, editio maior, Leipzig: Teubner, 1916.",
-        "release": "public-0.35.1",
+        "release": "public-0.36",
         "translation_revision": "sha256:674603e46e217023488e1c851cba5c4610b75ceb4dbd97a562eb8b95d5e52c72",
-        "fixed_path": "releases/public-0.35.1/works/ench/index.html#p-1-2"
+        "fixed_path": "releases/public-0.36/works/ench/index.html#p-1-2"
       }
     },
     {
@@ -326,7 +326,7 @@
       ],
       "work_passage_id": "ench:1.3",
       "html_path": "works/ench/index.html#p-1-3",
-      "fixed_html_path": "releases/public-0.35.1/works/ench/index.html#p-1-3",
+      "fixed_html_path": "releases/public-0.36/works/ench/index.html#p-1-3",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:6da0e232dd0ff041211f47caadb05450b5b5cca38f16b4cf4fba7c317ccadb14",
@@ -361,9 +361,9 @@
         "work": "엥케이리디온",
         "reference": "1.3",
         "edition": "Heinrich Schenkl 편, Epicteti dissertationes ab Arriano digestae, editio maior, Leipzig: Teubner, 1916.",
-        "release": "public-0.35.1",
+        "release": "public-0.36",
         "translation_revision": "sha256:09dd3669b0aeb9fc0790dc5504d27a30920b764005a2220125654e91a932381e",
-        "fixed_path": "releases/public-0.35.1/works/ench/index.html#p-1-3"
+        "fixed_path": "releases/public-0.36/works/ench/index.html#p-1-3"
       }
     },
     {
@@ -432,7 +432,7 @@
       "notes": [],
       "work_passage_id": "ench:1.4",
       "html_path": "works/ench/index.html#p-1-4",
-      "fixed_html_path": "releases/public-0.35.1/works/ench/index.html#p-1-4",
+      "fixed_html_path": "releases/public-0.36/works/ench/index.html#p-1-4",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:84307ea5d62296ae52f2eeb3e3c320345aeb6b7f6d0db8efb10a471650bbf9a9",
@@ -457,9 +457,9 @@
         "work": "엥케이리디온",
         "reference": "1.4",
         "edition": "Heinrich Schenkl 편, Epicteti dissertationes ab Arriano digestae, editio maior, Leipzig: Teubner, 1916.",
-        "release": "public-0.35.1",
+        "release": "public-0.36",
         "translation_revision": "sha256:76acfa91ff41379c572d439cbbaf5c3aa84243d93852db4593a65bc15382a121",
-        "fixed_path": "releases/public-0.35.1/works/ench/index.html#p-1-4"
+        "fixed_path": "releases/public-0.36/works/ench/index.html#p-1-4"
       }
     },
     {
@@ -530,7 +530,7 @@
       ],
       "work_passage_id": "ench:1.5",
       "html_path": "works/ench/index.html#p-1-5",
-      "fixed_html_path": "releases/public-0.35.1/works/ench/index.html#p-1-5",
+      "fixed_html_path": "releases/public-0.36/works/ench/index.html#p-1-5",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:78df92ed1296239fc954d253ada8a6abfebffc243dd016784cd69d9a3a485646",
@@ -555,9 +555,9 @@
         "work": "엥케이리디온",
         "reference": "1.5",
         "edition": "Heinrich Schenkl 편, Epicteti dissertationes ab Arriano digestae, editio maior, Leipzig: Teubner, 1916.",
-        "release": "public-0.35.1",
+        "release": "public-0.36",
         "translation_revision": "sha256:c8ef8999dd98040d52c2f225cb7f4ec39dc11a8578fde4501a1b31df94955c82",
-        "fixed_path": "releases/public-0.35.1/works/ench/index.html#p-1-5"
+        "fixed_path": "releases/public-0.36/works/ench/index.html#p-1-5"
       }
     },
     {
@@ -626,7 +626,7 @@
       "notes": [],
       "work_passage_id": "ench:2.1",
       "html_path": "works/ench/index.html#p-2-1",
-      "fixed_html_path": "releases/public-0.35.1/works/ench/index.html#p-2-1",
+      "fixed_html_path": "releases/public-0.36/works/ench/index.html#p-2-1",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:08ab01f8ae308c4d6777369d539de9432b229b9a272c549bc2b0539b187f808a",
@@ -651,9 +651,9 @@
         "work": "엥케이리디온",
         "reference": "2.1",
         "edition": "Heinrich Schenkl 편, Epicteti dissertationes ab Arriano digestae, editio maior, Leipzig: Teubner, 1916.",
-        "release": "public-0.35.1",
+        "release": "public-0.36",
         "translation_revision": "sha256:e95e81f9c0cdea92d4f90d28119cb021b2298cce61d44c461598a79dafd33aec",
-        "fixed_path": "releases/public-0.35.1/works/ench/index.html#p-2-1"
+        "fixed_path": "releases/public-0.36/works/ench/index.html#p-2-1"
       }
     },
     {
@@ -737,7 +737,7 @@
       ],
       "work_passage_id": "ench:2.2",
       "html_path": "works/ench/index.html#p-2-2",
-      "fixed_html_path": "releases/public-0.35.1/works/ench/index.html#p-2-2",
+      "fixed_html_path": "releases/public-0.36/works/ench/index.html#p-2-2",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:6637b771c6ab836e9fe8f907aa2082b4000cf8b05b5de5401b6077f0e5fbcc68",
@@ -762,9 +762,9 @@
         "work": "엥케이리디온",
         "reference": "2.2",
         "edition": "Heinrich Schenkl 편, Epicteti dissertationes ab Arriano digestae, editio maior, Leipzig: Teubner, 1916.",
-        "release": "public-0.35.1",
+        "release": "public-0.36",
         "translation_revision": "sha256:5c36c0ec8b258136827373c51b3f723a95060fa5e43f0a02ad4952edb3c56109",
-        "fixed_path": "releases/public-0.35.1/works/ench/index.html#p-2-2"
+        "fixed_path": "releases/public-0.36/works/ench/index.html#p-2-2"
       }
     },
     {
@@ -833,7 +833,7 @@
       "notes": [],
       "work_passage_id": "ench:3.1",
       "html_path": "works/ench/index.html#p-3-1",
-      "fixed_html_path": "releases/public-0.35.1/works/ench/index.html#p-3-1",
+      "fixed_html_path": "releases/public-0.36/works/ench/index.html#p-3-1",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:6b8f6cc42bf09b36b5fbf98076eaf8ea22c0b78175d5e3625d0753349ff20545",
@@ -858,9 +858,9 @@
         "work": "엥케이리디온",
         "reference": "3.1",
         "edition": "Heinrich Schenkl 편, Epicteti dissertationes ab Arriano digestae, editio maior, Leipzig: Teubner, 1916.",
-        "release": "public-0.35.1",
+        "release": "public-0.36",
         "translation_revision": "sha256:9c15f99e39a333e7d5c3e43ced4212cf74856e63679f5edf706f5bb31914171b",
-        "fixed_path": "releases/public-0.35.1/works/ench/index.html#p-3-1"
+        "fixed_path": "releases/public-0.36/works/ench/index.html#p-3-1"
       }
     },
     {
@@ -957,7 +957,7 @@
       ],
       "work_passage_id": "ench:4.1",
       "html_path": "works/ench/index.html#p-4-1",
-      "fixed_html_path": "releases/public-0.35.1/works/ench/index.html#p-4-1",
+      "fixed_html_path": "releases/public-0.36/works/ench/index.html#p-4-1",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:9fb9e04ac62eb42064490b7e7543314ec5c19b4fa4f303f976242c54366cdc93",
@@ -982,9 +982,9 @@
         "work": "엥케이리디온",
         "reference": "4.1",
         "edition": "Heinrich Schenkl 편, Epicteti dissertationes ab Arriano digestae, editio maior, Leipzig: Teubner, 1916.",
-        "release": "public-0.35.1",
+        "release": "public-0.36",
         "translation_revision": "sha256:308659601efd0d1e4b38a20890e820ca0d2aa97f923e4bec62d2d5a03f3e716c",
-        "fixed_path": "releases/public-0.35.1/works/ench/index.html#p-4-1"
+        "fixed_path": "releases/public-0.36/works/ench/index.html#p-4-1"
       }
     },
     {
@@ -1079,7 +1079,7 @@
       "notes": [],
       "work_passage_id": "ench:5.1",
       "html_path": "works/ench/index.html#p-5-1",
-      "fixed_html_path": "releases/public-0.35.1/works/ench/index.html#p-5-1",
+      "fixed_html_path": "releases/public-0.36/works/ench/index.html#p-5-1",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:f415be1303afb7fbce051a2276e04e20083645b2c2df31f5621f48d3895cb968",
@@ -1104,9 +1104,9 @@
         "work": "엥케이리디온",
         "reference": "5.1",
         "edition": "Heinrich Schenkl 편, Epicteti dissertationes ab Arriano digestae, editio maior, Leipzig: Teubner, 1916.",
-        "release": "public-0.35.1",
+        "release": "public-0.36",
         "translation_revision": "sha256:d0a0fb38f83348ccd440c07c33ad725f8d24ce5ba9a6f9e178a487106cb5c165",
-        "fixed_path": "releases/public-0.35.1/works/ench/index.html#p-5-1"
+        "fixed_path": "releases/public-0.36/works/ench/index.html#p-5-1"
       }
     },
     {
@@ -1201,7 +1201,7 @@
       "notes": [],
       "work_passage_id": "ench:6.1",
       "html_path": "works/ench/index.html#p-6-1",
-      "fixed_html_path": "releases/public-0.35.1/works/ench/index.html#p-6-1",
+      "fixed_html_path": "releases/public-0.36/works/ench/index.html#p-6-1",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:a3b3f620cf7ae138bbfdd793a834aef494c4731f92d869a02441147ca4aca158",
@@ -1226,9 +1226,9 @@
         "work": "엥케이리디온",
         "reference": "6.1",
         "edition": "Heinrich Schenkl 편, Epicteti dissertationes ab Arriano digestae, editio maior, Leipzig: Teubner, 1916.",
-        "release": "public-0.35.1",
+        "release": "public-0.36",
         "translation_revision": "sha256:9825e9262249c5f2f626ad455b23254cadee11a193a077f8cf439c36dbab2f5f",
-        "fixed_path": "releases/public-0.35.1/works/ench/index.html#p-6-1"
+        "fixed_path": "releases/public-0.36/works/ench/index.html#p-6-1"
       }
     },
     {
@@ -1325,7 +1325,7 @@
       ],
       "work_passage_id": "ench:7.1",
       "html_path": "works/ench/index.html#p-7-1",
-      "fixed_html_path": "releases/public-0.35.1/works/ench/index.html#p-7-1",
+      "fixed_html_path": "releases/public-0.36/works/ench/index.html#p-7-1",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:0db63b47e580c9e87976d95dbe1706702bad1606619cb11e6d96e352b218d9c0",
@@ -1350,9 +1350,9 @@
         "work": "엥케이리디온",
         "reference": "7.1",
         "edition": "Heinrich Schenkl 편, Epicteti dissertationes ab Arriano digestae, editio maior, Leipzig: Teubner, 1916.",
-        "release": "public-0.35.1",
+        "release": "public-0.36",
         "translation_revision": "sha256:6e2c3f43aa5ff544cc611304cec7b3bf6b6b2b89301be62960d626dd349c481d",
-        "fixed_path": "releases/public-0.35.1/works/ench/index.html#p-7-1"
+        "fixed_path": "releases/public-0.36/works/ench/index.html#p-7-1"
       }
     },
     {
@@ -1395,7 +1395,7 @@
       "notes": [],
       "work_passage_id": "ench:8.1",
       "html_path": "works/ench/index.html#p-8-1",
-      "fixed_html_path": "releases/public-0.35.1/works/ench/index.html#p-8-1",
+      "fixed_html_path": "releases/public-0.36/works/ench/index.html#p-8-1",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:cbe5ab6e7ba94bd9f06bdb4b13c9aed3e162345686c540d40d703d508834cefd",
@@ -1420,9 +1420,9 @@
         "work": "엥케이리디온",
         "reference": "8.1",
         "edition": "Heinrich Schenkl 편, Epicteti dissertationes ab Arriano digestae, editio maior, Leipzig: Teubner, 1916.",
-        "release": "public-0.35.1",
+        "release": "public-0.36",
         "translation_revision": "sha256:d453719499fe2c6239218d8f10469a298f6395e7c4f6a4d8bfdc2fd2d6754ac9",
-        "fixed_path": "releases/public-0.35.1/works/ench/index.html#p-8-1"
+        "fixed_path": "releases/public-0.36/works/ench/index.html#p-8-1"
       }
     },
     {
@@ -1491,7 +1491,7 @@
       "notes": [],
       "work_passage_id": "ench:9.1",
       "html_path": "works/ench/index.html#p-9-1",
-      "fixed_html_path": "releases/public-0.35.1/works/ench/index.html#p-9-1",
+      "fixed_html_path": "releases/public-0.36/works/ench/index.html#p-9-1",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:a41d205d788528cd786fd8eedb156e07810ba091532010bc7a025c1c9e6926fe",
@@ -1516,9 +1516,9 @@
         "work": "엥케이리디온",
         "reference": "9.1",
         "edition": "Heinrich Schenkl 편, Epicteti dissertationes ab Arriano digestae, editio maior, Leipzig: Teubner, 1916.",
-        "release": "public-0.35.1",
+        "release": "public-0.36",
         "translation_revision": "sha256:21e36374d642fb39d40bc0ff85298b4d6d7f06bac7c6ca61eb8d6f518a71d4e2",
-        "fixed_path": "releases/public-0.35.1/works/ench/index.html#p-9-1"
+        "fixed_path": "releases/public-0.36/works/ench/index.html#p-9-1"
       }
     },
     {
@@ -1587,7 +1587,7 @@
       "notes": [],
       "work_passage_id": "ench:10.1",
       "html_path": "works/ench/index.html#p-10-1",
-      "fixed_html_path": "releases/public-0.35.1/works/ench/index.html#p-10-1",
+      "fixed_html_path": "releases/public-0.36/works/ench/index.html#p-10-1",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:420d7ce9442c99c1a88518213af20a820aaecb3110c613d353198082deb71042",
@@ -1612,9 +1612,9 @@
         "work": "엥케이리디온",
         "reference": "10.1",
         "edition": "Heinrich Schenkl 편, Epicteti dissertationes ab Arriano digestae, editio maior, Leipzig: Teubner, 1916.",
-        "release": "public-0.35.1",
+        "release": "public-0.36",
         "translation_revision": "sha256:fb8ec6ef8783325d85a339b56bb90c47adcc70d8f756d684e806aac32ee28504",
-        "fixed_path": "releases/public-0.35.1/works/ench/index.html#p-10-1"
+        "fixed_path": "releases/public-0.36/works/ench/index.html#p-10-1"
       }
     },
     {
@@ -1709,7 +1709,7 @@
       "notes": [],
       "work_passage_id": "ench:11.1",
       "html_path": "works/ench/index.html#p-11-1",
-      "fixed_html_path": "releases/public-0.35.1/works/ench/index.html#p-11-1",
+      "fixed_html_path": "releases/public-0.36/works/ench/index.html#p-11-1",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:b2d6736b676111e55c0bf5e711ca1cb9e307ea1d3c58b42e222c71fd69e76c9c",
@@ -1734,9 +1734,9 @@
         "work": "엥케이리디온",
         "reference": "11.1",
         "edition": "Heinrich Schenkl 편, Epicteti dissertationes ab Arriano digestae, editio maior, Leipzig: Teubner, 1916.",
-        "release": "public-0.35.1",
+        "release": "public-0.36",
         "translation_revision": "sha256:9644e321f7eae22bae506ddb8dc1b9ea4307d31ccd56f8cf9e5121c0c0acbffd",
-        "fixed_path": "releases/public-0.35.1/works/ench/index.html#p-11-1"
+        "fixed_path": "releases/public-0.36/works/ench/index.html#p-11-1"
       }
     },
     {
@@ -1807,7 +1807,7 @@
       ],
       "work_passage_id": "ench:12.1",
       "html_path": "works/ench/index.html#p-12-1",
-      "fixed_html_path": "releases/public-0.35.1/works/ench/index.html#p-12-1",
+      "fixed_html_path": "releases/public-0.36/works/ench/index.html#p-12-1",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:58368f582de123cb4bf1deaaf286a4a51938d7de475275d1569c35a3397e0062",
@@ -1832,9 +1832,9 @@
         "work": "엥케이리디온",
         "reference": "12.1",
         "edition": "Heinrich Schenkl 편, Epicteti dissertationes ab Arriano digestae, editio maior, Leipzig: Teubner, 1916.",
-        "release": "public-0.35.1",
+        "release": "public-0.36",
         "translation_revision": "sha256:c47ef7a908aa6868ee4f7a023574afd1b5642a89c40c84ed0484f669a691780b",
-        "fixed_path": "releases/public-0.35.1/works/ench/index.html#p-12-1"
+        "fixed_path": "releases/public-0.36/works/ench/index.html#p-12-1"
       }
     },
     {
@@ -1918,7 +1918,7 @@
       ],
       "work_passage_id": "ench:12.2",
       "html_path": "works/ench/index.html#p-12-2",
-      "fixed_html_path": "releases/public-0.35.1/works/ench/index.html#p-12-2",
+      "fixed_html_path": "releases/public-0.36/works/ench/index.html#p-12-2",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:8fe13186b52cbc8f42026385c1746edc68c925692739cfecb8e3f6a087b7de63",
@@ -1943,9 +1943,9 @@
         "work": "엥케이리디온",
         "reference": "12.2",
         "edition": "Heinrich Schenkl 편, Epicteti dissertationes ab Arriano digestae, editio maior, Leipzig: Teubner, 1916.",
-        "release": "public-0.35.1",
+        "release": "public-0.36",
         "translation_revision": "sha256:d1f6df1fd42bbcc3ade8194fff302a448393a0c6ca39ce62187a771be9ffe75a",
-        "fixed_path": "releases/public-0.35.1/works/ench/index.html#p-12-2"
+        "fixed_path": "releases/public-0.36/works/ench/index.html#p-12-2"
       }
     },
     {
@@ -2014,7 +2014,7 @@
       "notes": [],
       "work_passage_id": "ench:13.1",
       "html_path": "works/ench/index.html#p-13-1",
-      "fixed_html_path": "releases/public-0.35.1/works/ench/index.html#p-13-1",
+      "fixed_html_path": "releases/public-0.36/works/ench/index.html#p-13-1",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:5870b8a0860ce14406255ed5e1c89a3426c382d4f4824b103e0622577e7225ae",
@@ -2039,9 +2039,9 @@
         "work": "엥케이리디온",
         "reference": "13.1",
         "edition": "Heinrich Schenkl 편, Epicteti dissertationes ab Arriano digestae, editio maior, Leipzig: Teubner, 1916.",
-        "release": "public-0.35.1",
+        "release": "public-0.36",
         "translation_revision": "sha256:bc94bdaae58b7c424a7f0518eb58aeaa2f4778e2915d757c7e54bca243edca31",
-        "fixed_path": "releases/public-0.35.1/works/ench/index.html#p-13-1"
+        "fixed_path": "releases/public-0.36/works/ench/index.html#p-13-1"
       }
     },
     {
@@ -2123,7 +2123,7 @@
       "notes": [],
       "work_passage_id": "ench:14.1",
       "html_path": "works/ench/index.html#p-14-1",
-      "fixed_html_path": "releases/public-0.35.1/works/ench/index.html#p-14-1",
+      "fixed_html_path": "releases/public-0.36/works/ench/index.html#p-14-1",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:8336b0de8e03c36db23d424ee59f40f105fc73fb801d4ecc372854740987a649",
@@ -2148,9 +2148,9 @@
         "work": "엥케이리디온",
         "reference": "14.1",
         "edition": "Heinrich Schenkl 편, Epicteti dissertationes ab Arriano digestae, editio maior, Leipzig: Teubner, 1916.",
-        "release": "public-0.35.1",
+        "release": "public-0.36",
         "translation_revision": "sha256:c15c443b2e51f0101b64e9f69a312cd2370170f7f6d6385b5f23b7089dbc04e6",
-        "fixed_path": "releases/public-0.35.1/works/ench/index.html#p-14-1"
+        "fixed_path": "releases/public-0.36/works/ench/index.html#p-14-1"
       }
     },
     {
@@ -2206,7 +2206,7 @@
       "notes": [],
       "work_passage_id": "ench:14.2",
       "html_path": "works/ench/index.html#p-14-2",
-      "fixed_html_path": "releases/public-0.35.1/works/ench/index.html#p-14-2",
+      "fixed_html_path": "releases/public-0.36/works/ench/index.html#p-14-2",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:080e72c9cd71fbf155de3ad08b776effb72f29e03f28549def7701a882bbc258",
@@ -2231,9 +2231,9 @@
         "work": "엥케이리디온",
         "reference": "14.2",
         "edition": "Heinrich Schenkl 편, Epicteti dissertationes ab Arriano digestae, editio maior, Leipzig: Teubner, 1916.",
-        "release": "public-0.35.1",
+        "release": "public-0.36",
         "translation_revision": "sha256:183a276783c4a1e1bbd2e0e5bf743af8d13047cefce5855ec64e0918f050721a",
-        "fixed_path": "releases/public-0.35.1/works/ench/index.html#p-14-2"
+        "fixed_path": "releases/public-0.36/works/ench/index.html#p-14-2"
       }
     },
     {
@@ -2354,7 +2354,7 @@
       "notes": [],
       "work_passage_id": "ench:15.1",
       "html_path": "works/ench/index.html#p-15-1",
-      "fixed_html_path": "releases/public-0.35.1/works/ench/index.html#p-15-1",
+      "fixed_html_path": "releases/public-0.36/works/ench/index.html#p-15-1",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:a187c4d28836337c00788f14ae88db2e282a70e74fc44d4c47a372c9cfb63bc2",
@@ -2379,9 +2379,9 @@
         "work": "엥케이리디온",
         "reference": "15.1",
         "edition": "Heinrich Schenkl 편, Epicteti dissertationes ab Arriano digestae, editio maior, Leipzig: Teubner, 1916.",
-        "release": "public-0.35.1",
+        "release": "public-0.36",
         "translation_revision": "sha256:4c937e61732888eb30f83581a0b98cb1b8116a39cde5f9c874c3af41165b4fe4",
-        "fixed_path": "releases/public-0.35.1/works/ench/index.html#p-15-1"
+        "fixed_path": "releases/public-0.36/works/ench/index.html#p-15-1"
       }
     },
     {
@@ -2463,7 +2463,7 @@
       "notes": [],
       "work_passage_id": "ench:16.1",
       "html_path": "works/ench/index.html#p-16-1",
-      "fixed_html_path": "releases/public-0.35.1/works/ench/index.html#p-16-1",
+      "fixed_html_path": "releases/public-0.36/works/ench/index.html#p-16-1",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:46ff88c2607437736680e4f8e598ad28a60bf9647d4a8e1db538fc6cb8585c8c",
@@ -2488,9 +2488,9 @@
         "work": "엥케이리디온",
         "reference": "16.1",
         "edition": "Heinrich Schenkl 편, Epicteti dissertationes ab Arriano digestae, editio maior, Leipzig: Teubner, 1916.",
-        "release": "public-0.35.1",
+        "release": "public-0.36",
         "translation_revision": "sha256:27ce7a1ec875a68021730e1332e36d23a1640e75bd2c60eefe599e1b4dc0668a",
-        "fixed_path": "releases/public-0.35.1/works/ench/index.html#p-16-1"
+        "fixed_path": "releases/public-0.36/works/ench/index.html#p-16-1"
       }
     },
     {
@@ -2572,7 +2572,7 @@
       "notes": [],
       "work_passage_id": "ench:17.1",
       "html_path": "works/ench/index.html#p-17-1",
-      "fixed_html_path": "releases/public-0.35.1/works/ench/index.html#p-17-1",
+      "fixed_html_path": "releases/public-0.36/works/ench/index.html#p-17-1",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:a9d5c25dcfe3eb34dff66ccbc2bdbdf87ebd4c41a2e360cefc686f2dc79c5629",
@@ -2597,9 +2597,9 @@
         "work": "엥케이리디온",
         "reference": "17.1",
         "edition": "Heinrich Schenkl 편, Epicteti dissertationes ab Arriano digestae, editio maior, Leipzig: Teubner, 1916.",
-        "release": "public-0.35.1",
+        "release": "public-0.36",
         "translation_revision": "sha256:a1fdc85f6f15e4b298a60a0f851ba22dca1aca73cc334ef08fa8e4cfd09d5268",
-        "fixed_path": "releases/public-0.35.1/works/ench/index.html#p-17-1"
+        "fixed_path": "releases/public-0.36/works/ench/index.html#p-17-1"
       }
     },
     {
@@ -2681,7 +2681,7 @@
       "notes": [],
       "work_passage_id": "ench:18.1",
       "html_path": "works/ench/index.html#p-18-1",
-      "fixed_html_path": "releases/public-0.35.1/works/ench/index.html#p-18-1",
+      "fixed_html_path": "releases/public-0.36/works/ench/index.html#p-18-1",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:b9760f8f32bce8e1a7f5ada5d4e7188f4a7b93c226d88c9862f36a190373e9bf",
@@ -2706,9 +2706,9 @@
         "work": "엥케이리디온",
         "reference": "18.1",
         "edition": "Heinrich Schenkl 편, Epicteti dissertationes ab Arriano digestae, editio maior, Leipzig: Teubner, 1916.",
-        "release": "public-0.35.1",
+        "release": "public-0.36",
         "translation_revision": "sha256:0b9008528b9b8ea8dd5247f284e6ba20b6ffa7ff9050c202229361ba25ad0750",
-        "fixed_path": "releases/public-0.35.1/works/ench/index.html#p-18-1"
+        "fixed_path": "releases/public-0.36/works/ench/index.html#p-18-1"
       }
     },
     {
@@ -2751,7 +2751,7 @@
       "notes": [],
       "work_passage_id": "ench:19.1",
       "html_path": "works/ench/index.html#p-19-1",
-      "fixed_html_path": "releases/public-0.35.1/works/ench/index.html#p-19-1",
+      "fixed_html_path": "releases/public-0.36/works/ench/index.html#p-19-1",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:c054236ef810835fed4fb71aa87d6a53ba6fd49655b8f0960d0d09bd0118dc27",
@@ -2776,9 +2776,9 @@
         "work": "엥케이리디온",
         "reference": "19.1",
         "edition": "Heinrich Schenkl 편, Epicteti dissertationes ab Arriano digestae, editio maior, Leipzig: Teubner, 1916.",
-        "release": "public-0.35.1",
+        "release": "public-0.36",
         "translation_revision": "sha256:bef569acb235c86286fca8233e0e81f003cbf1b217ea8a647a191d5ec6f59224",
-        "fixed_path": "releases/public-0.35.1/works/ench/index.html#p-19-1"
+        "fixed_path": "releases/public-0.36/works/ench/index.html#p-19-1"
       }
     },
     {
@@ -2849,7 +2849,7 @@
       ],
       "work_passage_id": "ench:19.2",
       "html_path": "works/ench/index.html#p-19-2",
-      "fixed_html_path": "releases/public-0.35.1/works/ench/index.html#p-19-2",
+      "fixed_html_path": "releases/public-0.36/works/ench/index.html#p-19-2",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:9b771397586d30e4956033651b893f24727a4434060ea53f7166a1603f29c186",
@@ -2874,9 +2874,9 @@
         "work": "엥케이리디온",
         "reference": "19.2",
         "edition": "Heinrich Schenkl 편, Epicteti dissertationes ab Arriano digestae, editio maior, Leipzig: Teubner, 1916.",
-        "release": "public-0.35.1",
+        "release": "public-0.36",
         "translation_revision": "sha256:99cf5cbfd0dbc1b63bb3f65dd04cfefe7a54eb48e7664aa7795bf782eba80684",
-        "fixed_path": "releases/public-0.35.1/works/ench/index.html#p-19-2"
+        "fixed_path": "releases/public-0.36/works/ench/index.html#p-19-2"
       }
     },
     {
@@ -2945,7 +2945,7 @@
       "notes": [],
       "work_passage_id": "ench:20.1",
       "html_path": "works/ench/index.html#p-20-1",
-      "fixed_html_path": "releases/public-0.35.1/works/ench/index.html#p-20-1",
+      "fixed_html_path": "releases/public-0.36/works/ench/index.html#p-20-1",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:b64e5cf378aba7af217c573251c6cb93fc260de72d0f232b21e1f374eee15499",
@@ -2970,9 +2970,9 @@
         "work": "엥케이리디온",
         "reference": "20.1",
         "edition": "Heinrich Schenkl 편, Epicteti dissertationes ab Arriano digestae, editio maior, Leipzig: Teubner, 1916.",
-        "release": "public-0.35.1",
+        "release": "public-0.36",
         "translation_revision": "sha256:e9f98a4ae0ec8e95b2f1f79a31c6ccd88a9eef83d98ae879e4185d86d1917ef8",
-        "fixed_path": "releases/public-0.35.1/works/ench/index.html#p-20-1"
+        "fixed_path": "releases/public-0.36/works/ench/index.html#p-20-1"
       }
     },
     {
@@ -3015,7 +3015,7 @@
       "notes": [],
       "work_passage_id": "ench:21.1",
       "html_path": "works/ench/index.html#p-21-1",
-      "fixed_html_path": "releases/public-0.35.1/works/ench/index.html#p-21-1",
+      "fixed_html_path": "releases/public-0.36/works/ench/index.html#p-21-1",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:aa97bbce6d5969d6f658dd10661b5d31b29c5e3bca638b251ad8336d7e608e8e",
@@ -3040,9 +3040,9 @@
         "work": "엥케이리디온",
         "reference": "21.1",
         "edition": "Heinrich Schenkl 편, Epicteti dissertationes ab Arriano digestae, editio maior, Leipzig: Teubner, 1916.",
-        "release": "public-0.35.1",
+        "release": "public-0.36",
         "translation_revision": "sha256:24e10b8c3a59a6538509a168dcdcd6e866ee4ae265e758e968664457f8b680d0",
-        "fixed_path": "releases/public-0.35.1/works/ench/index.html#p-21-1"
+        "fixed_path": "releases/public-0.36/works/ench/index.html#p-21-1"
       }
     },
     {
@@ -3124,7 +3124,7 @@
       "notes": [],
       "work_passage_id": "ench:22.1",
       "html_path": "works/ench/index.html#p-22-1",
-      "fixed_html_path": "releases/public-0.35.1/works/ench/index.html#p-22-1",
+      "fixed_html_path": "releases/public-0.36/works/ench/index.html#p-22-1",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:980ff31d8c1352c2b6ef6cbc53f41f7c24d3719d5e62e8da81fb1accbe226652",
@@ -3149,9 +3149,9 @@
         "work": "엥케이리디온",
         "reference": "22.1",
         "edition": "Heinrich Schenkl 편, Epicteti dissertationes ab Arriano digestae, editio maior, Leipzig: Teubner, 1916.",
-        "release": "public-0.35.1",
+        "release": "public-0.36",
         "translation_revision": "sha256:0006e82e919e5a9875258c5627fef891cc342ba57b932ebd6e08da52d0a52dcb",
-        "fixed_path": "releases/public-0.35.1/works/ench/index.html#p-22-1"
+        "fixed_path": "releases/public-0.36/works/ench/index.html#p-22-1"
       }
     },
     {
@@ -3209,7 +3209,7 @@
       ],
       "work_passage_id": "ench:23.1",
       "html_path": "works/ench/index.html#p-23-1",
-      "fixed_html_path": "releases/public-0.35.1/works/ench/index.html#p-23-1",
+      "fixed_html_path": "releases/public-0.36/works/ench/index.html#p-23-1",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:0165e7c55887ea8d868ae76efc770d8038ef2bef09ac0d51338fd201d208df18",
@@ -3234,9 +3234,9 @@
         "work": "엥케이리디온",
         "reference": "23.1",
         "edition": "Heinrich Schenkl 편, Epicteti dissertationes ab Arriano digestae, editio maior, Leipzig: Teubner, 1916.",
-        "release": "public-0.35.1",
+        "release": "public-0.36",
         "translation_revision": "sha256:e2f1a565b78de880e7caaca901407ee153ba4efbd260bcafca6e97533bd2dd79",
-        "fixed_path": "releases/public-0.35.1/works/ench/index.html#p-23-1"
+        "fixed_path": "releases/public-0.36/works/ench/index.html#p-23-1"
       }
     },
     {
@@ -3318,7 +3318,7 @@
       "notes": [],
       "work_passage_id": "ench:24.1",
       "html_path": "works/ench/index.html#p-24-1",
-      "fixed_html_path": "releases/public-0.35.1/works/ench/index.html#p-24-1",
+      "fixed_html_path": "releases/public-0.36/works/ench/index.html#p-24-1",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:7344319dae4350add3e9d448634cd78d7ccf22b4e20b05063697becd690da5fa",
@@ -3343,9 +3343,9 @@
         "work": "엥케이리디온",
         "reference": "24.1",
         "edition": "Heinrich Schenkl 편, Epicteti dissertationes ab Arriano digestae, editio maior, Leipzig: Teubner, 1916.",
-        "release": "public-0.35.1",
+        "release": "public-0.36",
         "translation_revision": "sha256:46cdf5468b0c0c51e63ee27da47883b226bd5b3fc641624156c8bf3c932fe570",
-        "fixed_path": "releases/public-0.35.1/works/ench/index.html#p-24-1"
+        "fixed_path": "releases/public-0.36/works/ench/index.html#p-24-1"
       }
     },
     {
@@ -3427,7 +3427,7 @@
       "notes": [],
       "work_passage_id": "ench:24.2",
       "html_path": "works/ench/index.html#p-24-2",
-      "fixed_html_path": "releases/public-0.35.1/works/ench/index.html#p-24-2",
+      "fixed_html_path": "releases/public-0.36/works/ench/index.html#p-24-2",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:b529016b7b70f7147b04714c267fd0e2c10fdc8d28fba95a6771a6a6992a7d0f",
@@ -3452,9 +3452,9 @@
         "work": "엥케이리디온",
         "reference": "24.2",
         "edition": "Heinrich Schenkl 편, Epicteti dissertationes ab Arriano digestae, editio maior, Leipzig: Teubner, 1916.",
-        "release": "public-0.35.1",
+        "release": "public-0.36",
         "translation_revision": "sha256:9023edbe29f222a261f2b5c65c22ad90328feb4c15dd3e0b842913427b2f15e9",
-        "fixed_path": "releases/public-0.35.1/works/ench/index.html#p-24-2"
+        "fixed_path": "releases/public-0.36/works/ench/index.html#p-24-2"
       }
     },
     {
@@ -3523,7 +3523,7 @@
       "notes": [],
       "work_passage_id": "ench:24.3",
       "html_path": "works/ench/index.html#p-24-3",
-      "fixed_html_path": "releases/public-0.35.1/works/ench/index.html#p-24-3",
+      "fixed_html_path": "releases/public-0.36/works/ench/index.html#p-24-3",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:a6a22222c887628f5593801d5eba6788cfee2452294299e0681ad1409d29e35d",
@@ -3548,9 +3548,9 @@
         "work": "엥케이리디온",
         "reference": "24.3",
         "edition": "Heinrich Schenkl 편, Epicteti dissertationes ab Arriano digestae, editio maior, Leipzig: Teubner, 1916.",
-        "release": "public-0.35.1",
+        "release": "public-0.36",
         "translation_revision": "sha256:373b8590484851ead357bd02b08b2722854d1bad1069c2b9e60014716a8390c9",
-        "fixed_path": "releases/public-0.35.1/works/ench/index.html#p-24-3"
+        "fixed_path": "releases/public-0.36/works/ench/index.html#p-24-3"
       }
     },
     {
@@ -3658,7 +3658,7 @@
       "notes": [],
       "work_passage_id": "ench:24.4",
       "html_path": "works/ench/index.html#p-24-4",
-      "fixed_html_path": "releases/public-0.35.1/works/ench/index.html#p-24-4",
+      "fixed_html_path": "releases/public-0.36/works/ench/index.html#p-24-4",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:8675989bf75a8f8df443e71f4f82dd1382c71b48b1a39b9e28562302f4746928",
@@ -3683,9 +3683,9 @@
         "work": "엥케이리디온",
         "reference": "24.4",
         "edition": "Heinrich Schenkl 편, Epicteti dissertationes ab Arriano digestae, editio maior, Leipzig: Teubner, 1916.",
-        "release": "public-0.35.1",
+        "release": "public-0.36",
         "translation_revision": "sha256:09c50e9007bc858f461f6febd5f2814cd61c162aaf1d2a7a17e292b304e4e37d",
-        "fixed_path": "releases/public-0.35.1/works/ench/index.html#p-24-4"
+        "fixed_path": "releases/public-0.36/works/ench/index.html#p-24-4"
       }
     },
     {
@@ -3728,7 +3728,7 @@
       "notes": [],
       "work_passage_id": "ench:24.5",
       "html_path": "works/ench/index.html#p-24-5",
-      "fixed_html_path": "releases/public-0.35.1/works/ench/index.html#p-24-5",
+      "fixed_html_path": "releases/public-0.36/works/ench/index.html#p-24-5",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:236ca2458d1a773b6c6b78342a55f3aa414a2c38fcff77c2b2958b4b527d8a5d",
@@ -3753,9 +3753,9 @@
         "work": "엥케이리디온",
         "reference": "24.5",
         "edition": "Heinrich Schenkl 편, Epicteti dissertationes ab Arriano digestae, editio maior, Leipzig: Teubner, 1916.",
-        "release": "public-0.35.1",
+        "release": "public-0.36",
         "translation_revision": "sha256:dbb123534747134cb2492dee4f3a0cf9b5e319eb53c106110473a6c3d1ae1f38",
-        "fixed_path": "releases/public-0.35.1/works/ench/index.html#p-24-5"
+        "fixed_path": "releases/public-0.36/works/ench/index.html#p-24-5"
       }
     },
     {
@@ -3824,7 +3824,7 @@
       "notes": [],
       "work_passage_id": "ench:25.1",
       "html_path": "works/ench/index.html#p-25-1",
-      "fixed_html_path": "releases/public-0.35.1/works/ench/index.html#p-25-1",
+      "fixed_html_path": "releases/public-0.36/works/ench/index.html#p-25-1",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:87f52c99ab25d75c7a6ba5d32a48c774c738e3de7d81f1718a4923833f4b639b",
@@ -3849,9 +3849,9 @@
         "work": "엥케이리디온",
         "reference": "25.1",
         "edition": "Heinrich Schenkl 편, Epicteti dissertationes ab Arriano digestae, editio maior, Leipzig: Teubner, 1916.",
-        "release": "public-0.35.1",
+        "release": "public-0.36",
         "translation_revision": "sha256:b05476265760ea4e6039c8abb3043e7a6257baf6a7dfe52c6207697f66814d44",
-        "fixed_path": "releases/public-0.35.1/works/ench/index.html#p-25-1"
+        "fixed_path": "releases/public-0.36/works/ench/index.html#p-25-1"
       }
     },
     {
@@ -3894,7 +3894,7 @@
       "notes": [],
       "work_passage_id": "ench:25.2",
       "html_path": "works/ench/index.html#p-25-2",
-      "fixed_html_path": "releases/public-0.35.1/works/ench/index.html#p-25-2",
+      "fixed_html_path": "releases/public-0.36/works/ench/index.html#p-25-2",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:784afe910bace2311d9a72ee3d604d460dfd671f8a3cddb356b3413c333a8556",
@@ -3919,9 +3919,9 @@
         "work": "엥케이리디온",
         "reference": "25.2",
         "edition": "Heinrich Schenkl 편, Epicteti dissertationes ab Arriano digestae, editio maior, Leipzig: Teubner, 1916.",
-        "release": "public-0.35.1",
+        "release": "public-0.36",
         "translation_revision": "sha256:1484b5f4263c00e558e7a2086395966430d7e9956fbf8fd57933cea3cdb8b5c2",
-        "fixed_path": "releases/public-0.35.1/works/ench/index.html#p-25-2"
+        "fixed_path": "releases/public-0.36/works/ench/index.html#p-25-2"
       }
     },
     {
@@ -3979,7 +3979,7 @@
       ],
       "work_passage_id": "ench:25.3",
       "html_path": "works/ench/index.html#p-25-3",
-      "fixed_html_path": "releases/public-0.35.1/works/ench/index.html#p-25-3",
+      "fixed_html_path": "releases/public-0.36/works/ench/index.html#p-25-3",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:0ac3008f5d1c8965597325aff3e805de25c619637c2ce0814df70fc6e9d72c19",
@@ -4004,9 +4004,9 @@
         "work": "엥케이리디온",
         "reference": "25.3",
         "edition": "Heinrich Schenkl 편, Epicteti dissertationes ab Arriano digestae, editio maior, Leipzig: Teubner, 1916.",
-        "release": "public-0.35.1",
+        "release": "public-0.36",
         "translation_revision": "sha256:ba27a55ffcbe3199bebd3e63deb91701ff2c25d692a90b7eb548925b79f1969e",
-        "fixed_path": "releases/public-0.35.1/works/ench/index.html#p-25-3"
+        "fixed_path": "releases/public-0.36/works/ench/index.html#p-25-3"
       }
     },
     {
@@ -4075,7 +4075,7 @@
       "notes": [],
       "work_passage_id": "ench:25.4",
       "html_path": "works/ench/index.html#p-25-4",
-      "fixed_html_path": "releases/public-0.35.1/works/ench/index.html#p-25-4",
+      "fixed_html_path": "releases/public-0.36/works/ench/index.html#p-25-4",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:5b831d6c107b84033a4984ee148e7e558669ad9d6de3e2b8aeda7796a1498ae8",
@@ -4100,9 +4100,9 @@
         "work": "엥케이리디온",
         "reference": "25.4",
         "edition": "Heinrich Schenkl 편, Epicteti dissertationes ab Arriano digestae, editio maior, Leipzig: Teubner, 1916.",
-        "release": "public-0.35.1",
+        "release": "public-0.36",
         "translation_revision": "sha256:dc1dbf53f8410942ad956a9ae5c0e197b8ba0e97acd08ba80f4e81b3e0f0735b",
-        "fixed_path": "releases/public-0.35.1/works/ench/index.html#p-25-4"
+        "fixed_path": "releases/public-0.36/works/ench/index.html#p-25-4"
       }
     },
     {
@@ -4145,7 +4145,7 @@
       "notes": [],
       "work_passage_id": "ench:25.5",
       "html_path": "works/ench/index.html#p-25-5",
-      "fixed_html_path": "releases/public-0.35.1/works/ench/index.html#p-25-5",
+      "fixed_html_path": "releases/public-0.36/works/ench/index.html#p-25-5",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:e6a2f7e701f6df1942ed363798f521a01399c3a3397ca668c6fec9ba9b60939e",
@@ -4170,9 +4170,9 @@
         "work": "엥케이리디온",
         "reference": "25.5",
         "edition": "Heinrich Schenkl 편, Epicteti dissertationes ab Arriano digestae, editio maior, Leipzig: Teubner, 1916.",
-        "release": "public-0.35.1",
+        "release": "public-0.36",
         "translation_revision": "sha256:c1129d28362dcf53c7674557c95453e295692b936f70a49389f5a6bf40425410",
-        "fixed_path": "releases/public-0.35.1/works/ench/index.html#p-25-5"
+        "fixed_path": "releases/public-0.36/works/ench/index.html#p-25-5"
       }
     },
     {
@@ -4280,7 +4280,7 @@
       "notes": [],
       "work_passage_id": "ench:26.1",
       "html_path": "works/ench/index.html#p-26-1",
-      "fixed_html_path": "releases/public-0.35.1/works/ench/index.html#p-26-1",
+      "fixed_html_path": "releases/public-0.36/works/ench/index.html#p-26-1",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:33ede2237661108f11473cf2a351564d19c51834489f75697040823418693a9b",
@@ -4305,9 +4305,9 @@
         "work": "엥케이리디온",
         "reference": "26.1",
         "edition": "Heinrich Schenkl 편, Epicteti dissertationes ab Arriano digestae, editio maior, Leipzig: Teubner, 1916.",
-        "release": "public-0.35.1",
+        "release": "public-0.36",
         "translation_revision": "sha256:08dee3f51ae98afa92ce0448de1f6fc78df9cc2197704a5b8dfb1d4e564b48cb",
-        "fixed_path": "releases/public-0.35.1/works/ench/index.html#p-26-1"
+        "fixed_path": "releases/public-0.36/works/ench/index.html#p-26-1"
       }
     },
     {
@@ -4350,7 +4350,7 @@
       "notes": [],
       "work_passage_id": "ench:27.1",
       "html_path": "works/ench/index.html#p-27-1",
-      "fixed_html_path": "releases/public-0.35.1/works/ench/index.html#p-27-1",
+      "fixed_html_path": "releases/public-0.36/works/ench/index.html#p-27-1",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:546741a4125091eb5c2851afef8013308e0794e522e4b9595078f9d4364dc75e",
@@ -4375,9 +4375,9 @@
         "work": "엥케이리디온",
         "reference": "27.1",
         "edition": "Heinrich Schenkl 편, Epicteti dissertationes ab Arriano digestae, editio maior, Leipzig: Teubner, 1916.",
-        "release": "public-0.35.1",
+        "release": "public-0.36",
         "translation_revision": "sha256:6281bf7ce2bfe2adc7fe15b1e13f731ceb13d8ee12be81959ff52cc67e844f9d",
-        "fixed_path": "releases/public-0.35.1/works/ench/index.html#p-27-1"
+        "fixed_path": "releases/public-0.36/works/ench/index.html#p-27-1"
       }
     },
     {
@@ -4433,7 +4433,7 @@
       "notes": [],
       "work_passage_id": "ench:28.1",
       "html_path": "works/ench/index.html#p-28-1",
-      "fixed_html_path": "releases/public-0.35.1/works/ench/index.html#p-28-1",
+      "fixed_html_path": "releases/public-0.36/works/ench/index.html#p-28-1",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:a359b031edbd4244236634fd5012623507cf649a1a34eb17a508636622fa6a1f",
@@ -4458,9 +4458,9 @@
         "work": "엥케이리디온",
         "reference": "28.1",
         "edition": "Heinrich Schenkl 편, Epicteti dissertationes ab Arriano digestae, editio maior, Leipzig: Teubner, 1916.",
-        "release": "public-0.35.1",
+        "release": "public-0.36",
         "translation_revision": "sha256:a77c8270291194e14e5ae04e3e2af6c5bb2e57cafb32d9e989f6d7e5a36983a3",
-        "fixed_path": "releases/public-0.35.1/works/ench/index.html#p-28-1"
+        "fixed_path": "releases/public-0.36/works/ench/index.html#p-28-1"
       }
     },
     {
@@ -4516,7 +4516,7 @@
       "notes": [],
       "work_passage_id": "ench:29.1",
       "html_path": "works/ench/index.html#p-29-1",
-      "fixed_html_path": "releases/public-0.35.1/works/ench/index.html#p-29-1",
+      "fixed_html_path": "releases/public-0.36/works/ench/index.html#p-29-1",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:6697cd0914c05261a7ad800c57b46db2c527526ea94e6fc8df5f7e7bf8179481",
@@ -4541,9 +4541,9 @@
         "work": "엥케이리디온",
         "reference": "29.1",
         "edition": "Heinrich Schenkl 편, Epicteti dissertationes ab Arriano digestae, editio maior, Leipzig: Teubner, 1916.",
-        "release": "public-0.35.1",
+        "release": "public-0.36",
         "translation_revision": "sha256:2da4aa06f08b7d791b89379c1b2c8519c6e9511f17a82469c472e6a6b9846c7c",
-        "fixed_path": "releases/public-0.35.1/works/ench/index.html#p-29-1"
+        "fixed_path": "releases/public-0.36/works/ench/index.html#p-29-1"
       }
     },
     {
@@ -4638,7 +4638,7 @@
       "notes": [],
       "work_passage_id": "ench:29.2",
       "html_path": "works/ench/index.html#p-29-2",
-      "fixed_html_path": "releases/public-0.35.1/works/ench/index.html#p-29-2",
+      "fixed_html_path": "releases/public-0.36/works/ench/index.html#p-29-2",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:e19cc05da2d9ebfa9ce73687e8dd46bc9caa94c96de35e543f3fd0ae257072dd",
@@ -4663,9 +4663,9 @@
         "work": "엥케이리디온",
         "reference": "29.2",
         "edition": "Heinrich Schenkl 편, Epicteti dissertationes ab Arriano digestae, editio maior, Leipzig: Teubner, 1916.",
-        "release": "public-0.35.1",
+        "release": "public-0.36",
         "translation_revision": "sha256:43d2c8f8700f023b15e83de616f1d9d20d05a9e919368238decaa6b62732136f",
-        "fixed_path": "releases/public-0.35.1/works/ench/index.html#p-29-2"
+        "fixed_path": "releases/public-0.36/works/ench/index.html#p-29-2"
       }
     },
     {
@@ -4747,7 +4747,7 @@
       "notes": [],
       "work_passage_id": "ench:29.3",
       "html_path": "works/ench/index.html#p-29-3",
-      "fixed_html_path": "releases/public-0.35.1/works/ench/index.html#p-29-3",
+      "fixed_html_path": "releases/public-0.36/works/ench/index.html#p-29-3",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:c649a09a03f1c06b58715217937e6e80f5b810e2cd07cc4c9370736d5bc26d67",
@@ -4772,9 +4772,9 @@
         "work": "엥케이리디온",
         "reference": "29.3",
         "edition": "Heinrich Schenkl 편, Epicteti dissertationes ab Arriano digestae, editio maior, Leipzig: Teubner, 1916.",
-        "release": "public-0.35.1",
+        "release": "public-0.36",
         "translation_revision": "sha256:8d275160a06a2a0e1f49a7db86b2d5c54d762596c3a024a1ef5bfc15b30faad1",
-        "fixed_path": "releases/public-0.35.1/works/ench/index.html#p-29-3"
+        "fixed_path": "releases/public-0.36/works/ench/index.html#p-29-3"
       }
     },
     {
@@ -4819,7 +4819,7 @@
       ],
       "work_passage_id": "ench:29.4",
       "html_path": "works/ench/index.html#p-29-4",
-      "fixed_html_path": "releases/public-0.35.1/works/ench/index.html#p-29-4",
+      "fixed_html_path": "releases/public-0.36/works/ench/index.html#p-29-4",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:f08496bb9d4c609f0d4c9ceb989293861fd51201b512535b2e77e76d219bb6fb",
@@ -4844,9 +4844,9 @@
         "work": "엥케이리디온",
         "reference": "29.4",
         "edition": "Heinrich Schenkl 편, Epicteti dissertationes ab Arriano digestae, editio maior, Leipzig: Teubner, 1916.",
-        "release": "public-0.35.1",
+        "release": "public-0.36",
         "translation_revision": "sha256:8436dcda2fd253a3115a2e2138f43b98393a897d39f8f0cc25fba129610c9ee8",
-        "fixed_path": "releases/public-0.35.1/works/ench/index.html#p-29-4"
+        "fixed_path": "releases/public-0.36/works/ench/index.html#p-29-4"
       }
     },
     {
@@ -4917,7 +4917,7 @@
       ],
       "work_passage_id": "ench:29.5",
       "html_path": "works/ench/index.html#p-29-5",
-      "fixed_html_path": "releases/public-0.35.1/works/ench/index.html#p-29-5",
+      "fixed_html_path": "releases/public-0.36/works/ench/index.html#p-29-5",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:0d23f546ec84102d0358dca48fa0307d9e289e865137f464265141339f02ed01",
@@ -4942,9 +4942,9 @@
         "work": "엥케이리디온",
         "reference": "29.5",
         "edition": "Heinrich Schenkl 편, Epicteti dissertationes ab Arriano digestae, editio maior, Leipzig: Teubner, 1916.",
-        "release": "public-0.35.1",
+        "release": "public-0.36",
         "translation_revision": "sha256:da8cc994e9e912ea2f2d84101fc0cd4d815462aaa4ed7a1be18621cc5ef47f9c",
-        "fixed_path": "releases/public-0.35.1/works/ench/index.html#p-29-5"
+        "fixed_path": "releases/public-0.36/works/ench/index.html#p-29-5"
       }
     },
     {
@@ -5026,7 +5026,7 @@
       "notes": [],
       "work_passage_id": "ench:29.6",
       "html_path": "works/ench/index.html#p-29-6",
-      "fixed_html_path": "releases/public-0.35.1/works/ench/index.html#p-29-6",
+      "fixed_html_path": "releases/public-0.36/works/ench/index.html#p-29-6",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:853d1038658bbe1b26a67859afd7d0e7c7c978763eea037b1b28a6358a5b78a9",
@@ -5051,9 +5051,9 @@
         "work": "엥케이리디온",
         "reference": "29.6",
         "edition": "Heinrich Schenkl 편, Epicteti dissertationes ab Arriano digestae, editio maior, Leipzig: Teubner, 1916.",
-        "release": "public-0.35.1",
+        "release": "public-0.36",
         "translation_revision": "sha256:a0bcb363a70cbeb4a75ad5e2a7b8bbcdd34faba499119e38d40a5cae5bd52682",
-        "fixed_path": "releases/public-0.35.1/works/ench/index.html#p-29-6"
+        "fixed_path": "releases/public-0.36/works/ench/index.html#p-29-6"
       }
     },
     {
@@ -5174,7 +5174,7 @@
       "notes": [],
       "work_passage_id": "ench:29.7",
       "html_path": "works/ench/index.html#p-29-7",
-      "fixed_html_path": "releases/public-0.35.1/works/ench/index.html#p-29-7",
+      "fixed_html_path": "releases/public-0.36/works/ench/index.html#p-29-7",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:785ebb1673970053f5400706f501276a12c32517afc1bc67767994282797a5e5",
@@ -5199,9 +5199,9 @@
         "work": "엥케이리디온",
         "reference": "29.7",
         "edition": "Heinrich Schenkl 편, Epicteti dissertationes ab Arriano digestae, editio maior, Leipzig: Teubner, 1916.",
-        "release": "public-0.35.1",
+        "release": "public-0.36",
         "translation_revision": "sha256:1d2f5f08593cd14111842695c774833e2ce9355a3d3a6d8df7081bceeb512341",
-        "fixed_path": "releases/public-0.35.1/works/ench/index.html#p-29-7"
+        "fixed_path": "releases/public-0.36/works/ench/index.html#p-29-7"
       }
     },
     {
@@ -5298,7 +5298,7 @@
       ],
       "work_passage_id": "ench:30.1",
       "html_path": "works/ench/index.html#p-30-1",
-      "fixed_html_path": "releases/public-0.35.1/works/ench/index.html#p-30-1",
+      "fixed_html_path": "releases/public-0.36/works/ench/index.html#p-30-1",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:0d7e6e334551a0b0dfd301e7705a90329b14ab9893dbc1b9702bfa91daa9fd7a",
@@ -5323,9 +5323,9 @@
         "work": "엥케이리디온",
         "reference": "30.1",
         "edition": "Heinrich Schenkl 편, Epicteti dissertationes ab Arriano digestae, editio maior, Leipzig: Teubner, 1916.",
-        "release": "public-0.35.1",
+        "release": "public-0.36",
         "translation_revision": "sha256:d1ebad95eeaeb9a2cf2cea80e30f01972a66f8bad85e80333af42907ee84239f",
-        "fixed_path": "releases/public-0.35.1/works/ench/index.html#p-30-1"
+        "fixed_path": "releases/public-0.36/works/ench/index.html#p-30-1"
       }
     },
     {
@@ -5394,7 +5394,7 @@
       "notes": [],
       "work_passage_id": "ench:31.1",
       "html_path": "works/ench/index.html#p-31-1",
-      "fixed_html_path": "releases/public-0.35.1/works/ench/index.html#p-31-1",
+      "fixed_html_path": "releases/public-0.36/works/ench/index.html#p-31-1",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:2c2a2384ef7489875f2f98682188a4493048929c3851ab30cae3250e614c509c",
@@ -5419,9 +5419,9 @@
         "work": "엥케이리디온",
         "reference": "31.1",
         "edition": "Heinrich Schenkl 편, Epicteti dissertationes ab Arriano digestae, editio maior, Leipzig: Teubner, 1916.",
-        "release": "public-0.35.1",
+        "release": "public-0.36",
         "translation_revision": "sha256:57240562a0a1625394e629cff6e92c4713050faa934188394a1c11882be71836",
-        "fixed_path": "releases/public-0.35.1/works/ench/index.html#p-31-1"
+        "fixed_path": "releases/public-0.36/works/ench/index.html#p-31-1"
       }
     },
     {
@@ -5477,7 +5477,7 @@
       "notes": [],
       "work_passage_id": "ench:31.2",
       "html_path": "works/ench/index.html#p-31-2",
-      "fixed_html_path": "releases/public-0.35.1/works/ench/index.html#p-31-2",
+      "fixed_html_path": "releases/public-0.36/works/ench/index.html#p-31-2",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:e2384b36defd77fc66aca45cddb56586620262b4f04e4da8f193f3b06005b865",
@@ -5502,9 +5502,9 @@
         "work": "엥케이리디온",
         "reference": "31.2",
         "edition": "Heinrich Schenkl 편, Epicteti dissertationes ab Arriano digestae, editio maior, Leipzig: Teubner, 1916.",
-        "release": "public-0.35.1",
+        "release": "public-0.36",
         "translation_revision": "sha256:f998329fd65b11287ee79bc7a3f3d8311a484233da00fcc422cf2df7b4cd93ed",
-        "fixed_path": "releases/public-0.35.1/works/ench/index.html#p-31-2"
+        "fixed_path": "releases/public-0.36/works/ench/index.html#p-31-2"
       }
     },
     {
@@ -5560,7 +5560,7 @@
       "notes": [],
       "work_passage_id": "ench:31.3",
       "html_path": "works/ench/index.html#p-31-3",
-      "fixed_html_path": "releases/public-0.35.1/works/ench/index.html#p-31-3",
+      "fixed_html_path": "releases/public-0.36/works/ench/index.html#p-31-3",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:b238c580c8cc6eec5d6badfe6fc7a711d3a00cc68cba1ad55345d5327eeb60f0",
@@ -5585,9 +5585,9 @@
         "work": "엥케이리디온",
         "reference": "31.3",
         "edition": "Heinrich Schenkl 편, Epicteti dissertationes ab Arriano digestae, editio maior, Leipzig: Teubner, 1916.",
-        "release": "public-0.35.1",
+        "release": "public-0.36",
         "translation_revision": "sha256:9c7c6b7755539263637eb2ce662fe5b17b948387afd15f267e706a88cbec5b30",
-        "fixed_path": "releases/public-0.35.1/works/ench/index.html#p-31-3"
+        "fixed_path": "releases/public-0.36/works/ench/index.html#p-31-3"
       }
     },
     {
@@ -5671,7 +5671,7 @@
       ],
       "work_passage_id": "ench:31.4",
       "html_path": "works/ench/index.html#p-31-4",
-      "fixed_html_path": "releases/public-0.35.1/works/ench/index.html#p-31-4",
+      "fixed_html_path": "releases/public-0.36/works/ench/index.html#p-31-4",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:03085bdca83180aaabffd21b5e1a1989fa26816b2da3e55845754f421476e8e1",
@@ -5696,9 +5696,9 @@
         "work": "엥케이리디온",
         "reference": "31.4",
         "edition": "Heinrich Schenkl 편, Epicteti dissertationes ab Arriano digestae, editio maior, Leipzig: Teubner, 1916.",
-        "release": "public-0.35.1",
+        "release": "public-0.36",
         "translation_revision": "sha256:5530476d32143f751bbcb396db1bf5905ddad47e562739c4e057b458698f7928",
-        "fixed_path": "releases/public-0.35.1/works/ench/index.html#p-31-4"
+        "fixed_path": "releases/public-0.36/works/ench/index.html#p-31-4"
       }
     },
     {
@@ -5754,7 +5754,7 @@
       "notes": [],
       "work_passage_id": "ench:31.5",
       "html_path": "works/ench/index.html#p-31-5",
-      "fixed_html_path": "releases/public-0.35.1/works/ench/index.html#p-31-5",
+      "fixed_html_path": "releases/public-0.36/works/ench/index.html#p-31-5",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:8c0110892d14c6b6d5d006d4c2c7be6b5b16100561c6683bfb635a6b854ede04",
@@ -5779,9 +5779,9 @@
         "work": "엥케이리디온",
         "reference": "31.5",
         "edition": "Heinrich Schenkl 편, Epicteti dissertationes ab Arriano digestae, editio maior, Leipzig: Teubner, 1916.",
-        "release": "public-0.35.1",
+        "release": "public-0.36",
         "translation_revision": "sha256:824980ed64e4dd6965a8185d972eb2cd42c3aa1f9c48d67af49e823b2c18faaa",
-        "fixed_path": "releases/public-0.35.1/works/ench/index.html#p-31-5"
+        "fixed_path": "releases/public-0.36/works/ench/index.html#p-31-5"
       }
     },
     {
@@ -5837,7 +5837,7 @@
       "notes": [],
       "work_passage_id": "ench:32.1",
       "html_path": "works/ench/index.html#p-32-1",
-      "fixed_html_path": "releases/public-0.35.1/works/ench/index.html#p-32-1",
+      "fixed_html_path": "releases/public-0.36/works/ench/index.html#p-32-1",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:f2d693df927c8c0d6f3c457c9e667041821b7233085a129a999c5cb63e37465f",
@@ -5862,9 +5862,9 @@
         "work": "엥케이리디온",
         "reference": "32.1",
         "edition": "Heinrich Schenkl 편, Epicteti dissertationes ab Arriano digestae, editio maior, Leipzig: Teubner, 1916.",
-        "release": "public-0.35.1",
+        "release": "public-0.36",
         "translation_revision": "sha256:7a73f30fceb7ad795add86a1c4a16626ca2e3c352f61cafb08d3a03aa2fe2f77",
-        "fixed_path": "releases/public-0.35.1/works/ench/index.html#p-32-1"
+        "fixed_path": "releases/public-0.36/works/ench/index.html#p-32-1"
       }
     },
     {
@@ -5946,7 +5946,7 @@
       "notes": [],
       "work_passage_id": "ench:32.2",
       "html_path": "works/ench/index.html#p-32-2",
-      "fixed_html_path": "releases/public-0.35.1/works/ench/index.html#p-32-2",
+      "fixed_html_path": "releases/public-0.36/works/ench/index.html#p-32-2",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:9b9d8087421c85800f1372e167e6e2fa8bbd9f286262aecf9e5cb4e41abf379f",
@@ -5971,9 +5971,9 @@
         "work": "엥케이리디온",
         "reference": "32.2",
         "edition": "Heinrich Schenkl 편, Epicteti dissertationes ab Arriano digestae, editio maior, Leipzig: Teubner, 1916.",
-        "release": "public-0.35.1",
+        "release": "public-0.36",
         "translation_revision": "sha256:5dd4d917fd1406885e5efcf758be81a170badc0ce62f74a6d477bb6962b77b32",
-        "fixed_path": "releases/public-0.35.1/works/ench/index.html#p-32-2"
+        "fixed_path": "releases/public-0.36/works/ench/index.html#p-32-2"
       }
     },
     {
@@ -6055,7 +6055,7 @@
       "notes": [],
       "work_passage_id": "ench:32.3",
       "html_path": "works/ench/index.html#p-32-3",
-      "fixed_html_path": "releases/public-0.35.1/works/ench/index.html#p-32-3",
+      "fixed_html_path": "releases/public-0.36/works/ench/index.html#p-32-3",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:451e47bc14eaed973ddf7786474ba5f183dc48eb0e472144e92a0002f9e4b9fe",
@@ -6080,9 +6080,9 @@
         "work": "엥케이리디온",
         "reference": "32.3",
         "edition": "Heinrich Schenkl 편, Epicteti dissertationes ab Arriano digestae, editio maior, Leipzig: Teubner, 1916.",
-        "release": "public-0.35.1",
+        "release": "public-0.36",
         "translation_revision": "sha256:d4bf6bb4815237efb4c5dd7528d7eac77ba27fbe42ac76d90c7f0b6d1bd15865",
-        "fixed_path": "releases/public-0.35.1/works/ench/index.html#p-32-3"
+        "fixed_path": "releases/public-0.36/works/ench/index.html#p-32-3"
       }
     },
     {
@@ -6125,7 +6125,7 @@
       "notes": [],
       "work_passage_id": "ench:33.1",
       "html_path": "works/ench/index.html#p-33-1",
-      "fixed_html_path": "releases/public-0.35.1/works/ench/index.html#p-33-1",
+      "fixed_html_path": "releases/public-0.36/works/ench/index.html#p-33-1",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:0de5eb0ca6568733c00d8473204eadb999cd5183eceb5bf29a6a55ea6f8749c3",
@@ -6150,9 +6150,9 @@
         "work": "엥케이리디온",
         "reference": "33.1",
         "edition": "Heinrich Schenkl 편, Epicteti dissertationes ab Arriano digestae, editio maior, Leipzig: Teubner, 1916.",
-        "release": "public-0.35.1",
+        "release": "public-0.36",
         "translation_revision": "sha256:418a1d2de84f4e3cc26876f44d10971ee12ad228816506ef9fff6d46c4c070e2",
-        "fixed_path": "releases/public-0.35.1/works/ench/index.html#p-33-1"
+        "fixed_path": "releases/public-0.36/works/ench/index.html#p-33-1"
       }
     },
     {
@@ -6221,7 +6221,7 @@
       "notes": [],
       "work_passage_id": "ench:33.2",
       "html_path": "works/ench/index.html#p-33-2",
-      "fixed_html_path": "releases/public-0.35.1/works/ench/index.html#p-33-2",
+      "fixed_html_path": "releases/public-0.36/works/ench/index.html#p-33-2",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:044936e5c4f879b9fe57e609a6d04e64e7c938183ac179369b8537bec67c9c7f",
@@ -6246,9 +6246,9 @@
         "work": "엥케이리디온",
         "reference": "33.2",
         "edition": "Heinrich Schenkl 편, Epicteti dissertationes ab Arriano digestae, editio maior, Leipzig: Teubner, 1916.",
-        "release": "public-0.35.1",
+        "release": "public-0.36",
         "translation_revision": "sha256:403c3c50d1b3dc5f418ca25c59814474e30d3a06ccde5accddbd79fcd8ed0783",
-        "fixed_path": "releases/public-0.35.1/works/ench/index.html#p-33-2"
+        "fixed_path": "releases/public-0.36/works/ench/index.html#p-33-2"
       }
     },
     {
@@ -6291,7 +6291,7 @@
       "notes": [],
       "work_passage_id": "ench:33.3",
       "html_path": "works/ench/index.html#p-33-3",
-      "fixed_html_path": "releases/public-0.35.1/works/ench/index.html#p-33-3",
+      "fixed_html_path": "releases/public-0.36/works/ench/index.html#p-33-3",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:a415e03c2c2d22a912e195f5169990e49211199967d634bcf7db1dbd7df6e438",
@@ -6316,9 +6316,9 @@
         "work": "엥케이리디온",
         "reference": "33.3",
         "edition": "Heinrich Schenkl 편, Epicteti dissertationes ab Arriano digestae, editio maior, Leipzig: Teubner, 1916.",
-        "release": "public-0.35.1",
+        "release": "public-0.36",
         "translation_revision": "sha256:516d0b5c7fee1ffd27df5c766f6af21e016a17408519cf586513f79473c58382",
-        "fixed_path": "releases/public-0.35.1/works/ench/index.html#p-33-3"
+        "fixed_path": "releases/public-0.36/works/ench/index.html#p-33-3"
       }
     },
     {
@@ -6348,7 +6348,7 @@
       "notes": [],
       "work_passage_id": "ench:33.4",
       "html_path": "works/ench/index.html#p-33-4",
-      "fixed_html_path": "releases/public-0.35.1/works/ench/index.html#p-33-4",
+      "fixed_html_path": "releases/public-0.36/works/ench/index.html#p-33-4",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:f7be2016bbbb4e250abec0f0f2ea16a1def168738e6627e5d0e1885d5b5f8415",
@@ -6373,9 +6373,9 @@
         "work": "엥케이리디온",
         "reference": "33.4",
         "edition": "Heinrich Schenkl 편, Epicteti dissertationes ab Arriano digestae, editio maior, Leipzig: Teubner, 1916.",
-        "release": "public-0.35.1",
+        "release": "public-0.36",
         "translation_revision": "sha256:f128b0cdfcdf4c238718bf70c809557a895a53db75df739f70d2aaad5d8c72c7",
-        "fixed_path": "releases/public-0.35.1/works/ench/index.html#p-33-4"
+        "fixed_path": "releases/public-0.36/works/ench/index.html#p-33-4"
       }
     },
     {
@@ -6420,7 +6420,7 @@
       ],
       "work_passage_id": "ench:33.5",
       "html_path": "works/ench/index.html#p-33-5",
-      "fixed_html_path": "releases/public-0.35.1/works/ench/index.html#p-33-5",
+      "fixed_html_path": "releases/public-0.36/works/ench/index.html#p-33-5",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:e72fb1c2424c02f86563d894b827978081a1b376365a77dcc4a5c4d3e167e267",
@@ -6445,9 +6445,9 @@
         "work": "엥케이리디온",
         "reference": "33.5",
         "edition": "Heinrich Schenkl 편, Epicteti dissertationes ab Arriano digestae, editio maior, Leipzig: Teubner, 1916.",
-        "release": "public-0.35.1",
+        "release": "public-0.36",
         "translation_revision": "sha256:99169ef701bae68a1fb5da6e08e8f3940aeafaf18713bafa1231aeb44be6234e",
-        "fixed_path": "releases/public-0.35.1/works/ench/index.html#p-33-5"
+        "fixed_path": "releases/public-0.36/works/ench/index.html#p-33-5"
       }
     },
     {
@@ -6490,7 +6490,7 @@
       "notes": [],
       "work_passage_id": "ench:33.6",
       "html_path": "works/ench/index.html#p-33-6",
-      "fixed_html_path": "releases/public-0.35.1/works/ench/index.html#p-33-6",
+      "fixed_html_path": "releases/public-0.36/works/ench/index.html#p-33-6",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:3921172f40810b2443ec1270c56d50eced48d7f9d93d6782e85225ecee4e2de7",
@@ -6515,9 +6515,9 @@
         "work": "엥케이리디온",
         "reference": "33.6",
         "edition": "Heinrich Schenkl 편, Epicteti dissertationes ab Arriano digestae, editio maior, Leipzig: Teubner, 1916.",
-        "release": "public-0.35.1",
+        "release": "public-0.36",
         "translation_revision": "sha256:b30123fdbbc395fe442f3ac1e3e3233852194652c7c48a494b3431b2a1f136cb",
-        "fixed_path": "releases/public-0.35.1/works/ench/index.html#p-33-6"
+        "fixed_path": "releases/public-0.36/works/ench/index.html#p-33-6"
       }
     },
     {
@@ -6573,7 +6573,7 @@
       "notes": [],
       "work_passage_id": "ench:33.7",
       "html_path": "works/ench/index.html#p-33-7",
-      "fixed_html_path": "releases/public-0.35.1/works/ench/index.html#p-33-7",
+      "fixed_html_path": "releases/public-0.36/works/ench/index.html#p-33-7",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:843eb45c0c5c753a9f00385bd25a2193cfa8074e1d8a6df184f4b864fed44f94",
@@ -6598,9 +6598,9 @@
         "work": "엥케이리디온",
         "reference": "33.7",
         "edition": "Heinrich Schenkl 편, Epicteti dissertationes ab Arriano digestae, editio maior, Leipzig: Teubner, 1916.",
-        "release": "public-0.35.1",
+        "release": "public-0.36",
         "translation_revision": "sha256:62793eb699d7e7eec4c6ae3d4961d22a03f3c9da78a71be9fce4a3a8d86ec058",
-        "fixed_path": "releases/public-0.35.1/works/ench/index.html#p-33-7"
+        "fixed_path": "releases/public-0.36/works/ench/index.html#p-33-7"
       }
     },
     {
@@ -6656,7 +6656,7 @@
       "notes": [],
       "work_passage_id": "ench:33.8",
       "html_path": "works/ench/index.html#p-33-8",
-      "fixed_html_path": "releases/public-0.35.1/works/ench/index.html#p-33-8",
+      "fixed_html_path": "releases/public-0.36/works/ench/index.html#p-33-8",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:02e0888ea573bdc0e6a2dabee6066333f9db6eefaccb6f45f1c64c18edadd2a4",
@@ -6681,9 +6681,9 @@
         "work": "엥케이리디온",
         "reference": "33.8",
         "edition": "Heinrich Schenkl 편, Epicteti dissertationes ab Arriano digestae, editio maior, Leipzig: Teubner, 1916.",
-        "release": "public-0.35.1",
+        "release": "public-0.36",
         "translation_revision": "sha256:dbcdea4a7ff0e893e626bd06622347192b372ad5049753d45f7ca27dd397beb1",
-        "fixed_path": "releases/public-0.35.1/works/ench/index.html#p-33-8"
+        "fixed_path": "releases/public-0.36/works/ench/index.html#p-33-8"
       }
     },
     {
@@ -6726,7 +6726,7 @@
       "notes": [],
       "work_passage_id": "ench:33.9",
       "html_path": "works/ench/index.html#p-33-9",
-      "fixed_html_path": "releases/public-0.35.1/works/ench/index.html#p-33-9",
+      "fixed_html_path": "releases/public-0.36/works/ench/index.html#p-33-9",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:539d9f7ba40627fa33b8f6777274769942b5a9bdf53aab8aee4d96ad04ca9f85",
@@ -6751,9 +6751,9 @@
         "work": "엥케이리디온",
         "reference": "33.9",
         "edition": "Heinrich Schenkl 편, Epicteti dissertationes ab Arriano digestae, editio maior, Leipzig: Teubner, 1916.",
-        "release": "public-0.35.1",
+        "release": "public-0.36",
         "translation_revision": "sha256:46798d1e7080f48669dee0fe4a80031a0eaa5a08cd11e608372d6fceea6d62d7",
-        "fixed_path": "releases/public-0.35.1/works/ench/index.html#p-33-9"
+        "fixed_path": "releases/public-0.36/works/ench/index.html#p-33-9"
       }
     },
     {
@@ -6861,7 +6861,7 @@
       "notes": [],
       "work_passage_id": "ench:33.10",
       "html_path": "works/ench/index.html#p-33-10",
-      "fixed_html_path": "releases/public-0.35.1/works/ench/index.html#p-33-10",
+      "fixed_html_path": "releases/public-0.36/works/ench/index.html#p-33-10",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:e43b34ed1fd63517bd69714ea498767c8a48e633215e90b6adbd4555e357f1aa",
@@ -6886,9 +6886,9 @@
         "work": "엥케이리디온",
         "reference": "33.10",
         "edition": "Heinrich Schenkl 편, Epicteti dissertationes ab Arriano digestae, editio maior, Leipzig: Teubner, 1916.",
-        "release": "public-0.35.1",
+        "release": "public-0.36",
         "translation_revision": "sha256:82ad27c4b62b61106912d8fa5c124522be3d2733b77822b1a148f3068b0dd056",
-        "fixed_path": "releases/public-0.35.1/works/ench/index.html#p-33-10"
+        "fixed_path": "releases/public-0.36/works/ench/index.html#p-33-10"
       }
     },
     {
@@ -6931,7 +6931,7 @@
       "notes": [],
       "work_passage_id": "ench:33.11",
       "html_path": "works/ench/index.html#p-33-11",
-      "fixed_html_path": "releases/public-0.35.1/works/ench/index.html#p-33-11",
+      "fixed_html_path": "releases/public-0.36/works/ench/index.html#p-33-11",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:6dce7b55827f90c3c4def7542a6dceca533bb4048ef9194f86e9b6a1671224e4",
@@ -6956,9 +6956,9 @@
         "work": "엥케이리디온",
         "reference": "33.11",
         "edition": "Heinrich Schenkl 편, Epicteti dissertationes ab Arriano digestae, editio maior, Leipzig: Teubner, 1916.",
-        "release": "public-0.35.1",
+        "release": "public-0.36",
         "translation_revision": "sha256:7d61550a07d818463b24ee658fa10a70aeed14d7a567d4b43f0f27115bd89bc4",
-        "fixed_path": "releases/public-0.35.1/works/ench/index.html#p-33-11"
+        "fixed_path": "releases/public-0.36/works/ench/index.html#p-33-11"
       }
     },
     {
@@ -7014,7 +7014,7 @@
       "notes": [],
       "work_passage_id": "ench:33.12",
       "html_path": "works/ench/index.html#p-33-12",
-      "fixed_html_path": "releases/public-0.35.1/works/ench/index.html#p-33-12",
+      "fixed_html_path": "releases/public-0.36/works/ench/index.html#p-33-12",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:f87b23751f9495396a3c9b71ee168889d24b1fac562621e0a61dff1e796178e8",
@@ -7039,9 +7039,9 @@
         "work": "엥케이리디온",
         "reference": "33.12",
         "edition": "Heinrich Schenkl 편, Epicteti dissertationes ab Arriano digestae, editio maior, Leipzig: Teubner, 1916.",
-        "release": "public-0.35.1",
+        "release": "public-0.36",
         "translation_revision": "sha256:864d2a47e463e8aac91c5ea3aedf3dc1c69c0ba688f128f63772ed5efd225d11",
-        "fixed_path": "releases/public-0.35.1/works/ench/index.html#p-33-12"
+        "fixed_path": "releases/public-0.36/works/ench/index.html#p-33-12"
       }
     },
     {
@@ -7097,7 +7097,7 @@
       "notes": [],
       "work_passage_id": "ench:33.13",
       "html_path": "works/ench/index.html#p-33-13",
-      "fixed_html_path": "releases/public-0.35.1/works/ench/index.html#p-33-13",
+      "fixed_html_path": "releases/public-0.36/works/ench/index.html#p-33-13",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:2ab4f895f7ddd7c3d5a67c1f5072921f017719085bc2501f1d9bbe36bf577365",
@@ -7122,9 +7122,9 @@
         "work": "엥케이리디온",
         "reference": "33.13",
         "edition": "Heinrich Schenkl 편, Epicteti dissertationes ab Arriano digestae, editio maior, Leipzig: Teubner, 1916.",
-        "release": "public-0.35.1",
+        "release": "public-0.36",
         "translation_revision": "sha256:e2d965fb0679d13d4171c0d5c86606b5af434a3b6acde527fd7c778ce957e738",
-        "fixed_path": "releases/public-0.35.1/works/ench/index.html#p-33-13"
+        "fixed_path": "releases/public-0.36/works/ench/index.html#p-33-13"
       }
     },
     {
@@ -7167,7 +7167,7 @@
       "notes": [],
       "work_passage_id": "ench:33.14",
       "html_path": "works/ench/index.html#p-33-14",
-      "fixed_html_path": "releases/public-0.35.1/works/ench/index.html#p-33-14",
+      "fixed_html_path": "releases/public-0.36/works/ench/index.html#p-33-14",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:8fd5f422c645ee5b44af223f11ea1b2cd2ed4878595f1b5d764166e9ea7c2725",
@@ -7192,9 +7192,9 @@
         "work": "엥케이리디온",
         "reference": "33.14",
         "edition": "Heinrich Schenkl 편, Epicteti dissertationes ab Arriano digestae, editio maior, Leipzig: Teubner, 1916.",
-        "release": "public-0.35.1",
+        "release": "public-0.36",
         "translation_revision": "sha256:da73234d4d81971a6382c4d44ae343d3a01b40072065e31a3aa42a44cdcf3c07",
-        "fixed_path": "releases/public-0.35.1/works/ench/index.html#p-33-14"
+        "fixed_path": "releases/public-0.36/works/ench/index.html#p-33-14"
       }
     },
     {
@@ -7237,7 +7237,7 @@
       "notes": [],
       "work_passage_id": "ench:33.15",
       "html_path": "works/ench/index.html#p-33-15",
-      "fixed_html_path": "releases/public-0.35.1/works/ench/index.html#p-33-15",
+      "fixed_html_path": "releases/public-0.36/works/ench/index.html#p-33-15",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:50856e3de730c844ed3eebb267072644f3203ea7e36f937ab457bf4b7b92d9af",
@@ -7262,9 +7262,9 @@
         "work": "엥케이리디온",
         "reference": "33.15",
         "edition": "Heinrich Schenkl 편, Epicteti dissertationes ab Arriano digestae, editio maior, Leipzig: Teubner, 1916.",
-        "release": "public-0.35.1",
+        "release": "public-0.36",
         "translation_revision": "sha256:b6c1162f82589e1e8b6e13694e30daebffe673ef6aa61f650ae2f2f256498314",
-        "fixed_path": "releases/public-0.35.1/works/ench/index.html#p-33-15"
+        "fixed_path": "releases/public-0.36/works/ench/index.html#p-33-15"
       }
     },
     {
@@ -7320,7 +7320,7 @@
       "notes": [],
       "work_passage_id": "ench:33.16",
       "html_path": "works/ench/index.html#p-33-16",
-      "fixed_html_path": "releases/public-0.35.1/works/ench/index.html#p-33-16",
+      "fixed_html_path": "releases/public-0.36/works/ench/index.html#p-33-16",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:fab27351dfc38850b9e215d5a66c751b4eea3c30b53b703c0cf3dee0c252496d",
@@ -7345,9 +7345,9 @@
         "work": "엥케이리디온",
         "reference": "33.16",
         "edition": "Heinrich Schenkl 편, Epicteti dissertationes ab Arriano digestae, editio maior, Leipzig: Teubner, 1916.",
-        "release": "public-0.35.1",
+        "release": "public-0.36",
         "translation_revision": "sha256:e2c1ff949741a7755ee2c9b6a359c320afe5c8dbae933ef9f3c08054a19c9ae5",
-        "fixed_path": "releases/public-0.35.1/works/ench/index.html#p-33-16"
+        "fixed_path": "releases/public-0.36/works/ench/index.html#p-33-16"
       }
     },
     {
@@ -7442,7 +7442,7 @@
       "notes": [],
       "work_passage_id": "ench:34.1",
       "html_path": "works/ench/index.html#p-34-1",
-      "fixed_html_path": "releases/public-0.35.1/works/ench/index.html#p-34-1",
+      "fixed_html_path": "releases/public-0.36/works/ench/index.html#p-34-1",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:680eee663735c14e4f0a5800b3de97bb717e750d90c63e6a40c0bcc51c2ad705",
@@ -7467,9 +7467,9 @@
         "work": "엥케이리디온",
         "reference": "34.1",
         "edition": "Heinrich Schenkl 편, Epicteti dissertationes ab Arriano digestae, editio maior, Leipzig: Teubner, 1916.",
-        "release": "public-0.35.1",
+        "release": "public-0.36",
         "translation_revision": "sha256:7e8e1d0ffb02f63f77e909a2110f50d9efb34f84e0bab818d08d0b8cd9aeb187",
-        "fixed_path": "releases/public-0.35.1/works/ench/index.html#p-34-1"
+        "fixed_path": "releases/public-0.36/works/ench/index.html#p-34-1"
       }
     },
     {
@@ -7525,7 +7525,7 @@
       "notes": [],
       "work_passage_id": "ench:35.1",
       "html_path": "works/ench/index.html#p-35-1",
-      "fixed_html_path": "releases/public-0.35.1/works/ench/index.html#p-35-1",
+      "fixed_html_path": "releases/public-0.36/works/ench/index.html#p-35-1",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:fb6ebec9d11ef23f481ec36ad3ba015fe37499262c9c2c6dca4abfb4840ff80c",
@@ -7550,9 +7550,9 @@
         "work": "엥케이리디온",
         "reference": "35.1",
         "edition": "Heinrich Schenkl 편, Epicteti dissertationes ab Arriano digestae, editio maior, Leipzig: Teubner, 1916.",
-        "release": "public-0.35.1",
+        "release": "public-0.36",
         "translation_revision": "sha256:5540fa0337295d726aa0322f36701f8ce4db01d94a0c608baaf6dc45250e661f",
-        "fixed_path": "releases/public-0.35.1/works/ench/index.html#p-35-1"
+        "fixed_path": "releases/public-0.36/works/ench/index.html#p-35-1"
       }
     },
     {
@@ -7623,7 +7623,7 @@
       ],
       "work_passage_id": "ench:36.1",
       "html_path": "works/ench/index.html#p-36-1",
-      "fixed_html_path": "releases/public-0.35.1/works/ench/index.html#p-36-1",
+      "fixed_html_path": "releases/public-0.36/works/ench/index.html#p-36-1",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:25e5b4324977aeb7a737f65ca883758e85d496d09347e23e1b7321c1d672a219",
@@ -7648,9 +7648,9 @@
         "work": "엥케이리디온",
         "reference": "36.1",
         "edition": "Heinrich Schenkl 편, Epicteti dissertationes ab Arriano digestae, editio maior, Leipzig: Teubner, 1916.",
-        "release": "public-0.35.1",
+        "release": "public-0.36",
         "translation_revision": "sha256:1fc1a879545b0b2f4279b10de7f1e002adbd1b80ee2e916c62cc38dfbe63f40a",
-        "fixed_path": "releases/public-0.35.1/works/ench/index.html#p-36-1"
+        "fixed_path": "releases/public-0.36/works/ench/index.html#p-36-1"
       }
     },
     {
@@ -7693,7 +7693,7 @@
       "notes": [],
       "work_passage_id": "ench:37.1",
       "html_path": "works/ench/index.html#p-37-1",
-      "fixed_html_path": "releases/public-0.35.1/works/ench/index.html#p-37-1",
+      "fixed_html_path": "releases/public-0.36/works/ench/index.html#p-37-1",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:0baae8ab14f3987aa167a9482cde35f5d576062ed37e85183df8a4c77b1caa4f",
@@ -7718,9 +7718,9 @@
         "work": "엥케이리디온",
         "reference": "37.1",
         "edition": "Heinrich Schenkl 편, Epicteti dissertationes ab Arriano digestae, editio maior, Leipzig: Teubner, 1916.",
-        "release": "public-0.35.1",
+        "release": "public-0.36",
         "translation_revision": "sha256:cb83c8e44f8e14626fd4b7e30c02588dbb3530020bdd6c1b843d959d732cf467",
-        "fixed_path": "releases/public-0.35.1/works/ench/index.html#p-37-1"
+        "fixed_path": "releases/public-0.36/works/ench/index.html#p-37-1"
       }
     },
     {
@@ -7776,7 +7776,7 @@
       "notes": [],
       "work_passage_id": "ench:38.1",
       "html_path": "works/ench/index.html#p-38-1",
-      "fixed_html_path": "releases/public-0.35.1/works/ench/index.html#p-38-1",
+      "fixed_html_path": "releases/public-0.36/works/ench/index.html#p-38-1",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:1cbd87836ca2c80b82a420d4f4207b142858035f9a89bae91a22685538c8da52",
@@ -7801,9 +7801,9 @@
         "work": "엥케이리디온",
         "reference": "38.1",
         "edition": "Heinrich Schenkl 편, Epicteti dissertationes ab Arriano digestae, editio maior, Leipzig: Teubner, 1916.",
-        "release": "public-0.35.1",
+        "release": "public-0.36",
         "translation_revision": "sha256:9f2ca74cc5fe44e625acf27de83f068d93e01ccbfaca292cd2a701e0ee1a1f5e",
-        "fixed_path": "releases/public-0.35.1/works/ench/index.html#p-38-1"
+        "fixed_path": "releases/public-0.36/works/ench/index.html#p-38-1"
       }
     },
     {
@@ -7885,7 +7885,7 @@
       "notes": [],
       "work_passage_id": "ench:39.1",
       "html_path": "works/ench/index.html#p-39-1",
-      "fixed_html_path": "releases/public-0.35.1/works/ench/index.html#p-39-1",
+      "fixed_html_path": "releases/public-0.36/works/ench/index.html#p-39-1",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:7ad5141110d4229cea559cf2a2ba909a130f40fc6f5e64b066181e200a6b558e",
@@ -7910,9 +7910,9 @@
         "work": "엥케이리디온",
         "reference": "39.1",
         "edition": "Heinrich Schenkl 편, Epicteti dissertationes ab Arriano digestae, editio maior, Leipzig: Teubner, 1916.",
-        "release": "public-0.35.1",
+        "release": "public-0.36",
         "translation_revision": "sha256:5af29843b06a9f24a5f3682f0580b8ec72509d803324dc5dea422ae89b361570",
-        "fixed_path": "releases/public-0.35.1/works/ench/index.html#p-39-1"
+        "fixed_path": "releases/public-0.36/works/ench/index.html#p-39-1"
       }
     },
     {
@@ -7970,7 +7970,7 @@
       ],
       "work_passage_id": "ench:40.1",
       "html_path": "works/ench/index.html#p-40-1",
-      "fixed_html_path": "releases/public-0.35.1/works/ench/index.html#p-40-1",
+      "fixed_html_path": "releases/public-0.36/works/ench/index.html#p-40-1",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:d24630ece24c9b380748234422a8581e0053cae54e89252eef816c05968d5735",
@@ -7995,9 +7995,9 @@
         "work": "엥케이리디온",
         "reference": "40.1",
         "edition": "Heinrich Schenkl 편, Epicteti dissertationes ab Arriano digestae, editio maior, Leipzig: Teubner, 1916.",
-        "release": "public-0.35.1",
+        "release": "public-0.36",
         "translation_revision": "sha256:f72a8fd5d846e92f55c45e66d4ed62f9408bc02b46f138af3a7cc86cc0d52add",
-        "fixed_path": "releases/public-0.35.1/works/ench/index.html#p-40-1"
+        "fixed_path": "releases/public-0.36/works/ench/index.html#p-40-1"
       }
     },
     {
@@ -8053,7 +8053,7 @@
       "notes": [],
       "work_passage_id": "ench:41.1",
       "html_path": "works/ench/index.html#p-41-1",
-      "fixed_html_path": "releases/public-0.35.1/works/ench/index.html#p-41-1",
+      "fixed_html_path": "releases/public-0.36/works/ench/index.html#p-41-1",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:82667f6047ff79be29a62bca74ae7dd31610aca24ec5ac8d168aed273470d4c5",
@@ -8078,9 +8078,9 @@
         "work": "엥케이리디온",
         "reference": "41.1",
         "edition": "Heinrich Schenkl 편, Epicteti dissertationes ab Arriano digestae, editio maior, Leipzig: Teubner, 1916.",
-        "release": "public-0.35.1",
+        "release": "public-0.36",
         "translation_revision": "sha256:e91663bda9cbd474f829b30f2861bd28c7677c597b8d5a418608b4b32e7311bb",
-        "fixed_path": "releases/public-0.35.1/works/ench/index.html#p-41-1"
+        "fixed_path": "releases/public-0.36/works/ench/index.html#p-41-1"
       }
     },
     {
@@ -8175,7 +8175,7 @@
       "notes": [],
       "work_passage_id": "ench:42.1",
       "html_path": "works/ench/index.html#p-42-1",
-      "fixed_html_path": "releases/public-0.35.1/works/ench/index.html#p-42-1",
+      "fixed_html_path": "releases/public-0.36/works/ench/index.html#p-42-1",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:453470b4005c316dabd57b7768a90e0e7a3fa696d07d723787235636efd6872d",
@@ -8200,9 +8200,9 @@
         "work": "엥케이리디온",
         "reference": "42.1",
         "edition": "Heinrich Schenkl 편, Epicteti dissertationes ab Arriano digestae, editio maior, Leipzig: Teubner, 1916.",
-        "release": "public-0.35.1",
+        "release": "public-0.36",
         "translation_revision": "sha256:94cdbdbe37fab830d5f308efd280001e5a641db22efa2c3544a357932ae8e884",
-        "fixed_path": "releases/public-0.35.1/works/ench/index.html#p-42-1"
+        "fixed_path": "releases/public-0.36/works/ench/index.html#p-42-1"
       }
     },
     {
@@ -8271,7 +8271,7 @@
       "notes": [],
       "work_passage_id": "ench:43.1",
       "html_path": "works/ench/index.html#p-43-1",
-      "fixed_html_path": "releases/public-0.35.1/works/ench/index.html#p-43-1",
+      "fixed_html_path": "releases/public-0.36/works/ench/index.html#p-43-1",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:5ac616c79c040224fca9eae591330f670405034e3974ee6291a17fba79dfeb5c",
@@ -8296,9 +8296,9 @@
         "work": "엥케이리디온",
         "reference": "43.1",
         "edition": "Heinrich Schenkl 편, Epicteti dissertationes ab Arriano digestae, editio maior, Leipzig: Teubner, 1916.",
-        "release": "public-0.35.1",
+        "release": "public-0.36",
         "translation_revision": "sha256:266135ac09e6d9fd047355e973bfbf5c113f5db6c4a28ee33790f51fc80a725a",
-        "fixed_path": "releases/public-0.35.1/works/ench/index.html#p-43-1"
+        "fixed_path": "releases/public-0.36/works/ench/index.html#p-43-1"
       }
     },
     {
@@ -8380,7 +8380,7 @@
       "notes": [],
       "work_passage_id": "ench:44.1",
       "html_path": "works/ench/index.html#p-44-1",
-      "fixed_html_path": "releases/public-0.35.1/works/ench/index.html#p-44-1",
+      "fixed_html_path": "releases/public-0.36/works/ench/index.html#p-44-1",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:4f3b85da79ed3fd17b390b74ad647cc95440a803b971187d192ed72b8d0f2d90",
@@ -8405,9 +8405,9 @@
         "work": "엥케이리디온",
         "reference": "44.1",
         "edition": "Heinrich Schenkl 편, Epicteti dissertationes ab Arriano digestae, editio maior, Leipzig: Teubner, 1916.",
-        "release": "public-0.35.1",
+        "release": "public-0.36",
         "translation_revision": "sha256:1e6597def4c056b31d377349febc9e232d7936f74a694c2a0bff14593125faca",
-        "fixed_path": "releases/public-0.35.1/works/ench/index.html#p-44-1"
+        "fixed_path": "releases/public-0.36/works/ench/index.html#p-44-1"
       }
     },
     {
@@ -8476,7 +8476,7 @@
       "notes": [],
       "work_passage_id": "ench:45.1",
       "html_path": "works/ench/index.html#p-45-1",
-      "fixed_html_path": "releases/public-0.35.1/works/ench/index.html#p-45-1",
+      "fixed_html_path": "releases/public-0.36/works/ench/index.html#p-45-1",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:414120c01143e4bc4390cf9dcc46649a594c9daf647ceebebc1a21d721def097",
@@ -8501,9 +8501,9 @@
         "work": "엥케이리디온",
         "reference": "45.1",
         "edition": "Heinrich Schenkl 편, Epicteti dissertationes ab Arriano digestae, editio maior, Leipzig: Teubner, 1916.",
-        "release": "public-0.35.1",
+        "release": "public-0.36",
         "translation_revision": "sha256:8587597c8fce22ffb3f653ecfb6390579f7a1b293d9e5e3c04f841dc8329760d",
-        "fixed_path": "releases/public-0.35.1/works/ench/index.html#p-45-1"
+        "fixed_path": "releases/public-0.36/works/ench/index.html#p-45-1"
       }
     },
     {
@@ -8572,7 +8572,7 @@
       "notes": [],
       "work_passage_id": "ench:46.1",
       "html_path": "works/ench/index.html#p-46-1",
-      "fixed_html_path": "releases/public-0.35.1/works/ench/index.html#p-46-1",
+      "fixed_html_path": "releases/public-0.36/works/ench/index.html#p-46-1",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:b791fffb9fc8e90a05792a5c444f42515ba128c655a667df980ff3e445215efb",
@@ -8597,9 +8597,9 @@
         "work": "엥케이리디온",
         "reference": "46.1",
         "edition": "Heinrich Schenkl 편, Epicteti dissertationes ab Arriano digestae, editio maior, Leipzig: Teubner, 1916.",
-        "release": "public-0.35.1",
+        "release": "public-0.36",
         "translation_revision": "sha256:5a2ed96139e506bd11a13fb602744fe50de7a00f9a2bc27901c14b42110930fe",
-        "fixed_path": "releases/public-0.35.1/works/ench/index.html#p-46-1"
+        "fixed_path": "releases/public-0.36/works/ench/index.html#p-46-1"
       }
     },
     {
@@ -8694,7 +8694,7 @@
       "notes": [],
       "work_passage_id": "ench:46.2",
       "html_path": "works/ench/index.html#p-46-2",
-      "fixed_html_path": "releases/public-0.35.1/works/ench/index.html#p-46-2",
+      "fixed_html_path": "releases/public-0.36/works/ench/index.html#p-46-2",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:8ec5bd02682b10d8e365ef4cbe41317ec868ba9c5340af3b2648e94572a7d1c3",
@@ -8719,9 +8719,9 @@
         "work": "엥케이리디온",
         "reference": "46.2",
         "edition": "Heinrich Schenkl 편, Epicteti dissertationes ab Arriano digestae, editio maior, Leipzig: Teubner, 1916.",
-        "release": "public-0.35.1",
+        "release": "public-0.36",
         "translation_revision": "sha256:640b1bfdbb99345752af1fce7f8208d474b24141b44be47cf339775d183ba2a2",
-        "fixed_path": "releases/public-0.35.1/works/ench/index.html#p-46-2"
+        "fixed_path": "releases/public-0.36/works/ench/index.html#p-46-2"
       }
     },
     {
@@ -8805,7 +8805,7 @@
       ],
       "work_passage_id": "ench:47.1",
       "html_path": "works/ench/index.html#p-47-1",
-      "fixed_html_path": "releases/public-0.35.1/works/ench/index.html#p-47-1",
+      "fixed_html_path": "releases/public-0.36/works/ench/index.html#p-47-1",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:6ca21a7f6558785200e60daee13fb0589e9effc5eefd83efa6ec053af2ff8df0",
@@ -8830,9 +8830,9 @@
         "work": "엥케이리디온",
         "reference": "47.1",
         "edition": "Heinrich Schenkl 편, Epicteti dissertationes ab Arriano digestae, editio maior, Leipzig: Teubner, 1916.",
-        "release": "public-0.35.1",
+        "release": "public-0.36",
         "translation_revision": "sha256:c6cf9e013ed05b70f34e4b2e1fa829ff7fbf3c26d9af7fa9c5ff519034f2018d",
-        "fixed_path": "releases/public-0.35.1/works/ench/index.html#p-47-1"
+        "fixed_path": "releases/public-0.36/works/ench/index.html#p-47-1"
       }
     },
     {
@@ -8875,7 +8875,7 @@
       "notes": [],
       "work_passage_id": "ench:48.1",
       "html_path": "works/ench/index.html#p-48-1",
-      "fixed_html_path": "releases/public-0.35.1/works/ench/index.html#p-48-1",
+      "fixed_html_path": "releases/public-0.36/works/ench/index.html#p-48-1",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:0b0c879f13388ebeae26ae19b5a33c79872a12c871849a2ae7b7ed7ed8e232c5",
@@ -8900,9 +8900,9 @@
         "work": "엥케이리디온",
         "reference": "48.1",
         "edition": "Heinrich Schenkl 편, Epicteti dissertationes ab Arriano digestae, editio maior, Leipzig: Teubner, 1916.",
-        "release": "public-0.35.1",
+        "release": "public-0.36",
         "translation_revision": "sha256:a66f2bba51f7c6fbbffd6ee9831c7c50ae5e2117eac5e971b828bd78c16e453c",
-        "fixed_path": "releases/public-0.35.1/works/ench/index.html#p-48-1"
+        "fixed_path": "releases/public-0.36/works/ench/index.html#p-48-1"
       }
     },
     {
@@ -8971,7 +8971,7 @@
       "notes": [],
       "work_passage_id": "ench:48.2",
       "html_path": "works/ench/index.html#p-48-2",
-      "fixed_html_path": "releases/public-0.35.1/works/ench/index.html#p-48-2",
+      "fixed_html_path": "releases/public-0.36/works/ench/index.html#p-48-2",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:2c02ebde63f5c720767b320baccfdc50e280a5042ac0138fdfa66d60cc19e767",
@@ -8996,9 +8996,9 @@
         "work": "엥케이리디온",
         "reference": "48.2",
         "edition": "Heinrich Schenkl 편, Epicteti dissertationes ab Arriano digestae, editio maior, Leipzig: Teubner, 1916.",
-        "release": "public-0.35.1",
+        "release": "public-0.36",
         "translation_revision": "sha256:1e4b0fb2bbe51c3ecca530c0464474d7e88b9a824d56c9199b1c95d30f99cd5f",
-        "fixed_path": "releases/public-0.35.1/works/ench/index.html#p-48-2"
+        "fixed_path": "releases/public-0.36/works/ench/index.html#p-48-2"
       }
     },
     {
@@ -9080,7 +9080,7 @@
       "notes": [],
       "work_passage_id": "ench:48.3",
       "html_path": "works/ench/index.html#p-48-3",
-      "fixed_html_path": "releases/public-0.35.1/works/ench/index.html#p-48-3",
+      "fixed_html_path": "releases/public-0.36/works/ench/index.html#p-48-3",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:dda839b02daf5748f03a77ae6ab83fd4d5fe9b6ef3b1bc0eaaf52c9fb004ccb9",
@@ -9105,9 +9105,9 @@
         "work": "엥케이리디온",
         "reference": "48.3",
         "edition": "Heinrich Schenkl 편, Epicteti dissertationes ab Arriano digestae, editio maior, Leipzig: Teubner, 1916.",
-        "release": "public-0.35.1",
+        "release": "public-0.36",
         "translation_revision": "sha256:17b967e2fabdbf17e949cd463db28c91e143f15e0e9a31fa9fd057177a79875b",
-        "fixed_path": "releases/public-0.35.1/works/ench/index.html#p-48-3"
+        "fixed_path": "releases/public-0.36/works/ench/index.html#p-48-3"
       }
     },
     {
@@ -9243,7 +9243,7 @@
       ],
       "work_passage_id": "ench:49.1",
       "html_path": "works/ench/index.html#p-49-1",
-      "fixed_html_path": "releases/public-0.35.1/works/ench/index.html#p-49-1",
+      "fixed_html_path": "releases/public-0.36/works/ench/index.html#p-49-1",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:3a26d4b7111fb08655233a9aa64338fc9c6e994da5a2faa09f49d18d2760d405",
@@ -9268,9 +9268,9 @@
         "work": "엥케이리디온",
         "reference": "49.1",
         "edition": "Heinrich Schenkl 편, Epicteti dissertationes ab Arriano digestae, editio maior, Leipzig: Teubner, 1916.",
-        "release": "public-0.35.1",
+        "release": "public-0.36",
         "translation_revision": "sha256:9071f87e72ef33bdbfc9e28e649b0ece2869c0a5461183bfc0debb3f411fa7be",
-        "fixed_path": "releases/public-0.35.1/works/ench/index.html#p-49-1"
+        "fixed_path": "releases/public-0.36/works/ench/index.html#p-49-1"
       }
     },
     {
@@ -9313,7 +9313,7 @@
       "notes": [],
       "work_passage_id": "ench:50.1",
       "html_path": "works/ench/index.html#p-50-1",
-      "fixed_html_path": "releases/public-0.35.1/works/ench/index.html#p-50-1",
+      "fixed_html_path": "releases/public-0.36/works/ench/index.html#p-50-1",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:d70e67fa6ad1945d9ea36a3432bbfe05ddf1d728e37f1d6c761230afc3055032",
@@ -9338,9 +9338,9 @@
         "work": "엥케이리디온",
         "reference": "50.1",
         "edition": "Heinrich Schenkl 편, Epicteti dissertationes ab Arriano digestae, editio maior, Leipzig: Teubner, 1916.",
-        "release": "public-0.35.1",
+        "release": "public-0.36",
         "translation_revision": "sha256:8cbe4a708fd90af16c1286b0c03226565e6c1b6d27313d7e1dcf3d5041f8c471",
-        "fixed_path": "releases/public-0.35.1/works/ench/index.html#p-50-1"
+        "fixed_path": "releases/public-0.36/works/ench/index.html#p-50-1"
       }
     },
     {
@@ -9435,7 +9435,7 @@
       "notes": [],
       "work_passage_id": "ench:51.1",
       "html_path": "works/ench/index.html#p-51-1",
-      "fixed_html_path": "releases/public-0.35.1/works/ench/index.html#p-51-1",
+      "fixed_html_path": "releases/public-0.36/works/ench/index.html#p-51-1",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:eadae2dea3393fb9a5bd3cffa9ec765e9b84ba2032512770c0055ebc49a19770",
@@ -9460,9 +9460,9 @@
         "work": "엥케이리디온",
         "reference": "51.1",
         "edition": "Heinrich Schenkl 편, Epicteti dissertationes ab Arriano digestae, editio maior, Leipzig: Teubner, 1916.",
-        "release": "public-0.35.1",
+        "release": "public-0.36",
         "translation_revision": "sha256:73f3d8d6f60940854e50a6ac2248bbf3df0f1360736a6eeec798592c2cbae1a2",
-        "fixed_path": "releases/public-0.35.1/works/ench/index.html#p-51-1"
+        "fixed_path": "releases/public-0.36/works/ench/index.html#p-51-1"
       }
     },
     {
@@ -9544,7 +9544,7 @@
       "notes": [],
       "work_passage_id": "ench:51.2",
       "html_path": "works/ench/index.html#p-51-2",
-      "fixed_html_path": "releases/public-0.35.1/works/ench/index.html#p-51-2",
+      "fixed_html_path": "releases/public-0.36/works/ench/index.html#p-51-2",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:2d64d795ccfeb7d57adadf68208c30fa4ea7333ec9deab2ce95e3acdb1c64a29",
@@ -9569,9 +9569,9 @@
         "work": "엥케이리디온",
         "reference": "51.2",
         "edition": "Heinrich Schenkl 편, Epicteti dissertationes ab Arriano digestae, editio maior, Leipzig: Teubner, 1916.",
-        "release": "public-0.35.1",
+        "release": "public-0.36",
         "translation_revision": "sha256:c6f635702b33d8d86e2432a7f1b2a5f4f71c1738d7e4493f3fd4e0bbebb3987a",
-        "fixed_path": "releases/public-0.35.1/works/ench/index.html#p-51-2"
+        "fixed_path": "releases/public-0.36/works/ench/index.html#p-51-2"
       }
     },
     {
@@ -9614,7 +9614,7 @@
       "notes": [],
       "work_passage_id": "ench:51.3",
       "html_path": "works/ench/index.html#p-51-3",
-      "fixed_html_path": "releases/public-0.35.1/works/ench/index.html#p-51-3",
+      "fixed_html_path": "releases/public-0.36/works/ench/index.html#p-51-3",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:dd2a5025f8479f556777bb8ce76522d3fef18dffa2bc5fc0d89390ad8f1571c7",
@@ -9639,9 +9639,9 @@
         "work": "엥케이리디온",
         "reference": "51.3",
         "edition": "Heinrich Schenkl 편, Epicteti dissertationes ab Arriano digestae, editio maior, Leipzig: Teubner, 1916.",
-        "release": "public-0.35.1",
+        "release": "public-0.36",
         "translation_revision": "sha256:ce668190f765c77344207c5caed00ade8ff1aa3cdea0674f80e5afa809b27404",
-        "fixed_path": "releases/public-0.35.1/works/ench/index.html#p-51-3"
+        "fixed_path": "releases/public-0.36/works/ench/index.html#p-51-3"
       }
     },
     {
@@ -9710,7 +9710,7 @@
       "notes": [],
       "work_passage_id": "ench:52.1",
       "html_path": "works/ench/index.html#p-52-1",
-      "fixed_html_path": "releases/public-0.35.1/works/ench/index.html#p-52-1",
+      "fixed_html_path": "releases/public-0.36/works/ench/index.html#p-52-1",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:98d693ea118029a8e6a1304994ad1f3c08ee61ea522459046d3b8116f7f12195",
@@ -9735,9 +9735,9 @@
         "work": "엥케이리디온",
         "reference": "52.1",
         "edition": "Heinrich Schenkl 편, Epicteti dissertationes ab Arriano digestae, editio maior, Leipzig: Teubner, 1916.",
-        "release": "public-0.35.1",
+        "release": "public-0.36",
         "translation_revision": "sha256:ab99f079c51c8cb95f3540b99f0ec53b0cd109ee0118d296b2a9fee75db3618c",
-        "fixed_path": "releases/public-0.35.1/works/ench/index.html#p-52-1"
+        "fixed_path": "releases/public-0.36/works/ench/index.html#p-52-1"
       }
     },
     {
@@ -9832,7 +9832,7 @@
       "notes": [],
       "work_passage_id": "ench:52.2",
       "html_path": "works/ench/index.html#p-52-2",
-      "fixed_html_path": "releases/public-0.35.1/works/ench/index.html#p-52-2",
+      "fixed_html_path": "releases/public-0.36/works/ench/index.html#p-52-2",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:d78bc8a63693916ece9b37db5565145d6c19077dbfb60255aefdf5511e64e946",
@@ -9857,9 +9857,9 @@
         "work": "엥케이리디온",
         "reference": "52.2",
         "edition": "Heinrich Schenkl 편, Epicteti dissertationes ab Arriano digestae, editio maior, Leipzig: Teubner, 1916.",
-        "release": "public-0.35.1",
+        "release": "public-0.36",
         "translation_revision": "sha256:4ca4912af10976682ce426062fb1303e16213d0b10d475ed38150ca0ab1e3b0d",
-        "fixed_path": "releases/public-0.35.1/works/ench/index.html#p-52-2"
+        "fixed_path": "releases/public-0.36/works/ench/index.html#p-52-2"
       }
     },
     {
@@ -9930,7 +9930,7 @@
       ],
       "work_passage_id": "ench:53.1",
       "html_path": "works/ench/index.html#p-53-1",
-      "fixed_html_path": "releases/public-0.35.1/works/ench/index.html#p-53-1",
+      "fixed_html_path": "releases/public-0.36/works/ench/index.html#p-53-1",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:f709a28b71eede428e572800e95d8942f187195980e304f0a58a312fb8c913eb",
@@ -9955,9 +9955,9 @@
         "work": "엥케이리디온",
         "reference": "53.1",
         "edition": "Heinrich Schenkl 편, Epicteti dissertationes ab Arriano digestae, editio maior, Leipzig: Teubner, 1916.",
-        "release": "public-0.35.1",
+        "release": "public-0.36",
         "translation_revision": "sha256:91c1fe545468b6f7edcafea3404708f046444488d90545d2a1156657f950faea",
-        "fixed_path": "releases/public-0.35.1/works/ench/index.html#p-53-1"
+        "fixed_path": "releases/public-0.36/works/ench/index.html#p-53-1"
       }
     },
     {
@@ -10000,7 +10000,7 @@
       "notes": [],
       "work_passage_id": "ench:53.2",
       "html_path": "works/ench/index.html#p-53-2",
-      "fixed_html_path": "releases/public-0.35.1/works/ench/index.html#p-53-2",
+      "fixed_html_path": "releases/public-0.36/works/ench/index.html#p-53-2",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:561f485cd86a69f5ddd11b6e289aa043a889a7e899c49421309f2ed3f8fa5c29",
@@ -10025,9 +10025,9 @@
         "work": "엥케이리디온",
         "reference": "53.2",
         "edition": "Heinrich Schenkl 편, Epicteti dissertationes ab Arriano digestae, editio maior, Leipzig: Teubner, 1916.",
-        "release": "public-0.35.1",
+        "release": "public-0.36",
         "translation_revision": "sha256:311451a8963ccb9a395c9908c7a39f63f34046bd4ed169a52c9555b191f67eee",
-        "fixed_path": "releases/public-0.35.1/works/ench/index.html#p-53-2"
+        "fixed_path": "releases/public-0.36/works/ench/index.html#p-53-2"
       }
     },
     {
@@ -10057,7 +10057,7 @@
       "notes": [],
       "work_passage_id": "ench:53.3",
       "html_path": "works/ench/index.html#p-53-3",
-      "fixed_html_path": "releases/public-0.35.1/works/ench/index.html#p-53-3",
+      "fixed_html_path": "releases/public-0.36/works/ench/index.html#p-53-3",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:32ddeadd7a0e2cc9c44218d3db727160659202d3abd5fd5c267143e328b53756",
@@ -10082,9 +10082,9 @@
         "work": "엥케이리디온",
         "reference": "53.3",
         "edition": "Heinrich Schenkl 편, Epicteti dissertationes ab Arriano digestae, editio maior, Leipzig: Teubner, 1916.",
-        "release": "public-0.35.1",
+        "release": "public-0.36",
         "translation_revision": "sha256:a4c50edc399e1fad12d5c0154d3a8c6248fe5c7936e1d75cabe762a13a4922db",
-        "fixed_path": "releases/public-0.35.1/works/ench/index.html#p-53-3"
+        "fixed_path": "releases/public-0.36/works/ench/index.html#p-53-3"
       }
     },
     {
@@ -10127,7 +10127,7 @@
       "notes": [],
       "work_passage_id": "ench:53.4",
       "html_path": "works/ench/index.html#p-53-4",
-      "fixed_html_path": "releases/public-0.35.1/works/ench/index.html#p-53-4",
+      "fixed_html_path": "releases/public-0.36/works/ench/index.html#p-53-4",
       "source_language": "grc",
       "source_kind": "edited_ancient_original",
       "alignment_revision": "sha256:bc1f04b516c84abfe7d022f01ad8bcd2cb0313bc3309fd611596b7cb4ff3135d",
@@ -10152,9 +10152,9 @@
         "work": "엥케이리디온",
         "reference": "53.4",
         "edition": "Heinrich Schenkl 편, Epicteti dissertationes ab Arriano digestae, editio maior, Leipzig: Teubner, 1916.",
-        "release": "public-0.35.1",
+        "release": "public-0.36",
         "translation_revision": "sha256:e59a5a5b74975138a7666d107530ecf3af47af100b068fa74502ee9b30f504e8",
-        "fixed_path": "releases/public-0.35.1/works/ench/index.html#p-53-4"
+        "fixed_path": "releases/public-0.36/works/ench/index.html#p-53-4"
       }
     }
   ],
@@ -10167,14 +10167,14 @@
   "display_author": "에픽테토스",
   "scope": "채택 판본 1-53장 전체",
   "coverage": "complete",
-  "release_id": "public-0.35.1",
+  "release_id": "public-0.36",
   "source_language": "grc",
   "source_kind": "edited_ancient_original",
   "human_reviewed": false,
   "translation_method": "고정 원어 본문에서 직접 번역",
   "html_path": "works/ench/index.html",
   "json_path": "data/works/ench.json",
-  "fixed_html_path": "releases/public-0.35.1/works/ench/index.html",
+  "fixed_html_path": "releases/public-0.36/works/ench/index.html",
   "source_profile": "ench-tei-1",
   "source_decisions": [
     {

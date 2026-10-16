@@ -1,5 +1,7 @@
 document.documentElement.classList.add('js');
 const $=(s,r=document)=>r.querySelector(s);
+// A query that starts with a Latin letter (an abbreviation such as Ant.) must not begin inside a longer Latin word (Plant.).
+const hit=(text,q)=>{if(!/^[a-z]/.test(q))return text.includes(q);for(let i=text.indexOf(q);i>=0;i=text.indexOf(q,i+1))if(i===0||!/[a-z]/.test(text[i-1]))return true;return false;};
 const norm=s=>s.normalize('NFD').replace(/\p{M}/gu,'').toLowerCase().normalize('NFC').replace(/[\s.,:·'’‘“”()\-]/g,'');
 const live=s=>{const n=$('#live');if(n)n.textContent=s;};
 const menu=$('.menu-toggle'),nav=$('#site-nav');
@@ -40,14 +42,25 @@ if(catalog){
   const refresh=(update=true)=>{
     let total=0;const q=norm(input.value.trim());
     const loading=Boolean(q&&!bodyIndex&&!bodyFailed);
-    for(const row of rows){const visible=(corpus==='all'||row.dataset.corpus===corpus)&&(author==='all'||row.dataset.author===author)&&(!q||(bodyIndex||metadata).get(row.dataset.work).includes(q));row.hidden=!visible;if(visible)total++;}
+    // Title, author and abbreviation matches come first; works found only in the text open with the more button.
+    const filtered=rows.filter(row=>(corpus==='all'||row.dataset.corpus===corpus)&&(author==='all'||row.dataset.author===author));
+    const byMeta=new Set(q?filtered.filter(row=>hit(metadata.get(row.dataset.work),q)):filtered);
+    const byBody=q&&bodyIndex?filtered.filter(row=>!byMeta.has(row)&&hit(bodyIndex.get(row.dataset.work),q)):[];
+    const showBody=expanded||byMeta.size===0;
+    for(const row of rows){const visible=byMeta.has(row)||(showBody&&byBody.includes(row));row.hidden=!visible;if(visible)total++;}
+    more.hidden=showBody||!byBody.length;more.textContent='본문·주제에서 찾은 '+byBody.length+'편 더 보기';
+    // Author and corpus headings follow their works: a heading with no visible work is hidden.
+    for(const group of document.querySelectorAll('.author-group'))group.hidden=!group.querySelector('.catalog-row:not([hidden])');
+    for(const group of document.querySelectorAll('.corpus-group'))group.hidden=!group.querySelector('.author-group:not([hidden])');
     $('.catalog-results').setAttribute('aria-busy',String(loading));
     $('.result-count').textContent=loading?'본문 검색 중…':total+'편'+(q&&bodyFailed?' · 문헌 정보 검색 결과입니다. 본문 검색을 불러오지 못했습니다.':'');$('#selected-author').textContent=author==='all'?'전체 저자':author;$('.empty-result').hidden=loading||total!==0;
     document.querySelectorAll('[data-filter-group] a').forEach(a=>{const group=a.closest('[data-filter-group]').dataset.filterGroup;a.setAttribute('aria-current',String(a.dataset.filter===(group==='corpus'?corpus:author)));});
     if(update){const p=new URLSearchParams();if(input.value.trim())p.set('q',input.value.trim());if(corpus!=='all')p.set('corpus',corpus);if(author!=='all')p.set('author',author);history.replaceState(null,'',location.pathname+(p.size?'?'+p:''));}
     if(loading)loadBodyIndex();
   };
-  input.addEventListener('input',()=>{bodyFailed=false;refresh();});$('.search').addEventListener('submit',e=>{e.preventDefault();bodyFailed=false;refresh();live($('.result-count').textContent);});
+  const more=document.createElement('button');more.type='button';more.className='more-results';more.hidden=true;$('.result-count').after(more);
+  let expanded=false;more.addEventListener('click',()=>{expanded=true;refresh(false);live($('.result-count').textContent);});
+  input.addEventListener('input',()=>{bodyFailed=false;expanded=false;refresh();});$('.search').addEventListener('submit',e=>{e.preventDefault();bodyFailed=false;refresh();live($('.result-count').textContent);});
   document.querySelectorAll('[data-filter-group] a').forEach(a=>a.addEventListener('click',e=>{e.preventDefault();const group=a.closest('[data-filter-group]').dataset.filterGroup;if(group==='corpus')corpus=a.dataset.filter;else{author=a.dataset.filter;if(narrow.matches)a.closest('details').open=false;}refresh();}));
   refresh(false);
 }
@@ -116,7 +129,9 @@ if($('.reader')){
   }
   // The book being read opens when the reading position enters it.
   const followBook=links=>{const group=links[0]?.closest('.nav-book');if(!group||group.dataset.book===openBook)return;openBook=group.dataset.book;showBook(openBook);};
-  const markLinks=links=>{if(links===markedLinks)return;for(const link of markedLinks)link.setAttribute('aria-current','false');for(const link of links)link.setAttribute('aria-current','true');markedLinks=links;followBook(links);};
+  const position=$('.tools-range');
+  const showPosition=link=>{if(!position)return;const book=link?.closest('.nav-book')?.dataset.book,label=link?.textContent.trim()||'';position.textContent=book&&!label.includes(book)?book+' '+label:label;};
+  const markLinks=links=>{if(links===markedLinks)return;for(const link of markedLinks)link.setAttribute('aria-current','false');for(const link of links)link.setAttribute('aria-current','true');markedLinks=links;followBook(links);showPosition(links[0]);};
   function firstAfter(items,before){let lo=0,hi=items.length;while(lo<hi){const mid=(lo+hi)>>>1;if(before(items[mid]))lo=mid+1;else hi=mid;}return lo;}
   const markRange=ref=>{const i=passageIndexes.get(ref);const range=i===undefined?null:ranges[firstAfter(ranges,r=>r.end<i)];markLinks(range&&range.start<=i?range.links:[]);};
   const columnLinks=[...document.querySelectorAll('.chapter-index a[data-source-column]')];

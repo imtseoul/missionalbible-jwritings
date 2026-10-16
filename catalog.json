@@ -1,45 +1,45 @@
 {
   "schema_version": "ancient-library-2",
-  "release_id": "public-0.35.1",
+  "release_id": "public-0.36",
   "publication_status": "public_review_edition",
-  "complete_works": 21,
-  "complete_scopes": 28,
+  "complete_works": 49,
+  "complete_scopes": 0,
   "work_count": 49,
-  "passage_count": 8449,
+  "passage_count": 29235,
   "works": [
     {
       "id": "ant",
       "title": "유대고대사",
-      "display_title": "유대고대사 18-20권",
+      "display_title": "유대고대사",
       "original_title": "Ἰουδαϊκὴ ἀρχαιολογία",
       "author": "요세푸스",
       "abbreviation": "Ant.",
-      "coverage": "complete_scope",
-      "scope": "유대고대사 18권 1-379절, 19권 1-366절, 20권 1-268절 전체",
+      "coverage": "complete",
+      "scope": "유대고대사 채택 본문 7,376대목 전체",
       "source_language": "grc",
       "html_path": "works/ant/index.html",
       "json_path": "data/works/ant.json",
-      "fixed_html_path": "releases/public-0.35.1/works/ant/index.html",
+      "fixed_html_path": "releases/public-0.36/works/ant/index.html",
       "aliases": [],
-      "passage_count": 1013,
-      "json_sha256": "50e8e7c85015c54ec43e3343e4a4259d53a0ce29f86855b513862e5babc3a0bf"
+      "passage_count": 7376,
+      "json_sha256": "73007ed219b7c7c29f22bac2309032125d84369bb39ce7bcc33de3e96d44f5ca"
     },
     {
       "id": "war",
       "title": "유대전쟁사",
-      "display_title": "유대전쟁사 2권",
+      "display_title": "유대전쟁사",
       "original_title": "Ἰουδαϊκοῦ πολέμου πρὸς Ῥωμαίους",
       "author": "요세푸스",
       "abbreviation": "B.J.",
-      "coverage": "complete_scope",
-      "scope": "유대전쟁사 2권 1-654절 전체",
+      "coverage": "complete",
+      "scope": "유대전쟁사 채택 본문 4,001대목 전체",
       "source_language": "grc",
       "html_path": "works/war/index.html",
       "json_path": "data/works/war.json",
-      "fixed_html_path": "releases/public-0.35.1/works/war/index.html",
+      "fixed_html_path": "releases/public-0.36/works/war/index.html",
       "aliases": [],
-      "passage_count": 654,
-      "json_sha256": "df75f7fd4a9e832ef3f339ec123798c37691abe227cfa94d409a285c3a6f9109"
+      "passage_count": 4001,
+      "json_sha256": "7e9a2a4887bdb288a0197917d729e5fbc2c5b143e7fe9f321877f4172067a9f6"
     },
     {
       "id": "apion",
@@ -53,10 +53,10 @@
       "source_language": "mul",
       "html_path": "works/apion/index.html",
       "json_path": "data/works/apion.json",
-      "fixed_html_path": "releases/public-0.35.1/works/apion/index.html",
+      "fixed_html_path": "releases/public-0.36/works/apion/index.html",
       "aliases": [],
       "passage_count": 616,
-      "json_sha256": "2e91043c07a073d5b452ae0a8ce96c60349b1b9fcc73881bc78bff1f07555fdb"
+      "json_sha256": "499deb379c35554ecb2ed258ed5b5848e8c5b4e93056ae1fac2c34f7cf4bbe98"
     },
     {
       "id": "decal",
@@ -70,10 +70,10 @@
       "source_language": "grc",
       "html_path": "works/decal/index.html",
       "json_path": "data/works/decal.json",
-      "fixed_html_path": "releases/public-0.35.1/works/decal/index.html",
+      "fixed_html_path": "releases/public-0.36/works/decal/index.html",
       "aliases": [],
       "passage_count": 178,
-      "json_sha256": "1d0f626d74e4a0509aff5e3bfc9278375389bb720f048b558a1c5edc8eb64ec5"
+      "json_sha256": "fb222ea0f7fc2372ea8eb0e4074e71e9f263b0d8695a4649a71eeca802179dd7"
     },
     {
       "id": "wisdom",
@@ -87,10 +87,10 @@
       "source_language": "grc",
       "html_path": "works/wisdom/index.html",
       "json_path": "data/works/wisdom.json",
-      "fixed_html_path": "releases/public-0.35.1/works/wisdom/index.html",
+      "fixed_html_path": "releases/public-0.36/works/wisdom/index.html",
       "aliases": [],
       "passage_count": 436,
-      "json_sha256": "96a691a85ba9636bd5eddbd4f66207b6b291d4823e18f98e0264393c71a30089"
+      "json_sha256": "5f391d15f8dea7f08260d1816e638b1c79e73d39ec129bfafb43843b97d7d3e4"
     },
     {
       "id": "pssol",
@@ -104,10 +104,10 @@
       "source_language": "grc",
       "html_path": "works/pssol/index.html",
       "json_path": "data/works/pssol.json",
-      "fixed_html_path": "releases/public-0.35.1/works/pssol/index.html",
+      "fixed_html_path": "releases/public-0.36/works/pssol/index.html",
       "aliases": [],
       "passage_count": 332,
-      "json_sha256": "0b11af8ad495de11903c13baf24b4257c23159bc90e0175c113dcfd4dfa4578c"
+      "json_sha256": "9256a805b8e036ac2bc0dc2fdc761d8827216d294b1adb2089384c028b0cfff3"
     },
     {
       "id": "ench",
@@ -121,27 +121,27 @@
       "source_language": "grc",
       "html_path": "works/ench/index.html",
       "json_path": "data/works/ench.json",
-      "fixed_html_path": "releases/public-0.35.1/works/ench/index.html",
+      "fixed_html_path": "releases/public-0.36/works/ench/index.html",
       "aliases": [],
       "passage_count": 105,
-      "json_sha256": "414fb59d95743402184ca5dcc9b6f9de1bd9708e3d03faf0e979b9572b173796"
+      "json_sha256": "86969fb41eecff5d5afc44a9ffe5a4f6ae15caf62b8114b7ac9e1dec65fe7be8"
     },
     {
       "id": "seneca",
       "title": "루킬리우스에게 보내는 도덕서한",
-      "display_title": "도덕서한 47",
+      "display_title": "루킬리우스에게 보내는 도덕서한",
       "original_title": "Ad Lucilium Epistulae Morales",
       "author": "세네카",
       "abbreviation": "Ep.",
-      "coverage": "complete_scope",
-      "scope": "도덕서한 47서간 1-21절 전체",
+      "coverage": "complete",
+      "scope": "루킬리우스에게 보내는 도덕서한 채택 본문 2,141대목 전체",
       "source_language": "lat",
       "html_path": "works/seneca/index.html",
       "json_path": "data/works/seneca.json",
-      "fixed_html_path": "releases/public-0.35.1/works/seneca/index.html",
+      "fixed_html_path": "releases/public-0.36/works/seneca/index.html",
       "aliases": [],
-      "passage_count": 21,
-      "json_sha256": "0c8408f718786fd02284c1da26f9ef0f702feaf54500a44e3efce3b5317955a6"
+      "passage_count": 2141,
+      "json_sha256": "58bfe8d8fac0aa51bfe59e958b23c8df077d79ff3eabb47cdeb20ec52f98a62d"
     },
     {
       "id": "off",
@@ -155,27 +155,27 @@
       "source_language": "lat",
       "html_path": "works/off/index.html",
       "json_path": "data/works/off.json",
-      "fixed_html_path": "releases/public-0.35.1/works/off/index.html",
+      "fixed_html_path": "releases/public-0.36/works/off/index.html",
       "aliases": [],
       "passage_count": 371,
-      "json_sha256": "f0749e6a93a0270e34ccb656610075ddc88717cffbecbb6b0f552ad9c02250e0"
+      "json_sha256": "b1beee33ebda35b11c45ad063e6e58d3717fb2745f3f43f09efc637cc3be0ce4"
     },
     {
       "id": "benefits",
       "title": "호의에 관하여",
-      "display_title": "호의에 관하여 1권",
+      "display_title": "호의에 관하여",
       "original_title": "De Beneficiis",
       "author": "세네카",
       "abbreviation": "Ben.",
-      "coverage": "complete_scope",
-      "scope": "호의에 관하여 1권 1-15장 전체",
+      "coverage": "complete",
+      "scope": "호의에 관하여 채택 본문 906대목 전체",
       "source_language": "lat",
       "html_path": "works/benefits/index.html",
       "json_path": "data/works/benefits.json",
-      "fixed_html_path": "releases/public-0.35.1/works/benefits/index.html",
+      "fixed_html_path": "releases/public-0.36/works/benefits/index.html",
       "aliases": [],
-      "passage_count": 81,
-      "json_sha256": "083ac7b425b1d7ef1b2668ce60530dcf5f7362dda70a60cfe58c0f646a526e1c"
+      "passage_count": 906,
+      "json_sha256": "a1684bbf3f3582c7e66afaf9190a56959cee369b59e1850c183ec925536009e8"
     },
     {
       "id": "apology",
@@ -189,10 +189,10 @@
       "source_language": "grc",
       "html_path": "works/apology/index.html",
       "json_path": "data/works/apology.json",
-      "fixed_html_path": "releases/public-0.35.1/works/apology/index.html",
+      "fixed_html_path": "releases/public-0.36/works/apology/index.html",
       "aliases": [],
       "passage_count": 130,
-      "json_sha256": "4abd8c9b317b6b9defd5b46c5327d5ee93827f7e9aeb180115213beb83d44ce5"
+      "json_sha256": "5086e6fbac7658b05ac0a4f8b06bc478e229963e8d0c5dc62649db8dd2015c20"
     },
     {
       "id": "1qs",
@@ -206,10 +206,10 @@
       "source_language": "he",
       "html_path": "works/1qs/index.html",
       "json_path": "data/works/1qs.json",
-      "fixed_html_path": "releases/public-0.35.1/works/1qs/index.html",
+      "fixed_html_path": "releases/public-0.36/works/1qs/index.html",
       "aliases": [],
       "passage_count": 67,
-      "json_sha256": "f5b5c63fb1f4031b2fb17308c5c8590146c5b52de8fbe341f734ae013e9b4e6a"
+      "json_sha256": "67a77a6fcb0cbd75d79bbdc5925f89a64f2a5ffb5e20dba06a7467d556cdc853"
     },
     {
       "id": "legat",
@@ -223,32 +223,32 @@
       "source_language": "grc",
       "html_path": "works/legat/index.html",
       "json_path": "data/works/legat.json",
-      "fixed_html_path": "releases/public-0.35.1/works/legat/index.html",
+      "fixed_html_path": "releases/public-0.36/works/legat/index.html",
       "aliases": [],
       "passage_count": 373,
-      "json_sha256": "5b43211bae204725f619cb449dfd326d668db1fd2859e496b48460be4105aef0"
+      "json_sha256": "630ab5e7bd4db72ce2584657d2f71c5a9757e0c5d3de9de23b59008b90349b2d"
     },
     {
       "id": "macc1",
       "title": "마카베오기 상권",
-      "display_title": "마카베오기 상권 1-4장",
+      "display_title": "마카베오기 상권",
       "original_title": "Μακκαβαίων Αʹ",
       "author": "익명",
       "abbreviation": "1 Macc.",
-      "coverage": "complete_scope",
-      "scope": "마카베오기 상권 1-4장 1.1-4.61 전체, 다른 장 미수록",
+      "coverage": "complete",
+      "scope": "마카베오기 상권 채택 본문 924대목 전체",
       "source_language": "grc",
       "html_path": "works/macc1/index.html",
       "json_path": "data/works/macc1.json",
-      "fixed_html_path": "releases/public-0.35.1/works/macc1/index.html",
+      "fixed_html_path": "releases/public-0.36/works/macc1/index.html",
       "aliases": [
         "마카베오상권",
         "1Macc",
         "1 Macc",
         "1Ma"
       ],
-      "passage_count": 255,
-      "json_sha256": "ccaea817e8e6074991df212567adecb6b1a0c1905e3841aabbf71bda9efe7e29"
+      "passage_count": 924,
+      "json_sha256": "3fc7d54ee454108842beb8353d4b87b249ead23bba96fbdc76b3529d264ca176"
     },
     {
       "id": "macc2",
@@ -262,10 +262,10 @@
       "source_language": "grc",
       "html_path": "works/macc2/index.html",
       "json_path": "data/works/macc2.json",
-      "fixed_html_path": "releases/public-0.35.1/works/macc2/index.html",
+      "fixed_html_path": "releases/public-0.36/works/macc2/index.html",
       "aliases": [],
       "passage_count": 555,
-      "json_sha256": "2293d6908e665708011d4603fce2861e40a71e34116229a2ea29c625351aeddc"
+      "json_sha256": "7dac11076fdf1319943051471d7f70ea415d17b8480c1fe80032ed0d3ec012f0"
     },
     {
       "id": "opif",
@@ -279,27 +279,27 @@
       "source_language": "grc",
       "html_path": "works/opif/index.html",
       "json_path": "data/works/opif.json",
-      "fixed_html_path": "releases/public-0.35.1/works/opif/index.html",
+      "fixed_html_path": "releases/public-0.36/works/opif/index.html",
       "aliases": [],
       "passage_count": 172,
-      "json_sha256": "25728601f1e95017292d19b91b57856b059d3d83b85270d39ec5fbb4110263ca"
+      "json_sha256": "fdb8c9ab4afbccfa3e24acf596fc6b36dd1bf70f3665e5dc819b725f464d88b2"
     },
     {
       "id": "pliny",
       "title": "서간집",
-      "display_title": "서간집 10.96-97",
+      "display_title": "서간집",
       "original_title": "Epistulae 10.96-97",
       "author": "소플리니우스·트라야누스",
       "abbreviation": "Plin. Ep.",
-      "coverage": "complete_scope",
-      "scope": "서간집 10.96-97 두 서간 전체",
+      "coverage": "complete",
+      "scope": "서간집 채택 본문 1,981대목 전체",
       "source_language": "lat",
       "html_path": "works/pliny/index.html",
       "json_path": "data/works/pliny.json",
-      "fixed_html_path": "releases/public-0.35.1/works/pliny/index.html",
+      "fixed_html_path": "releases/public-0.36/works/pliny/index.html",
       "aliases": [],
-      "passage_count": 12,
-      "json_sha256": "b8cbe43b2807f317f9f21204d11c0d4799f0e684b24e44addc918dd580a1d5d5"
+      "passage_count": 1981,
+      "json_sha256": "ddc99d8ff5a45ee37f2b528130bcdafa07495ac3ed598466beb8a3457aabc482"
     },
     {
       "id": "sir",
@@ -313,13 +313,13 @@
       "source_language": "grc",
       "html_path": "works/sir/index.html",
       "json_path": "data/works/sir.json",
-      "fixed_html_path": "releases/public-0.35.1/works/sir/index.html",
+      "fixed_html_path": "releases/public-0.36/works/sir/index.html",
       "aliases": [
         "시락서",
         "집회서(시락서)"
       ],
       "passage_count": 1402,
-      "json_sha256": "f7ec15976f7da85de398842e8c26cdb4d0de088e750c1ef64a6892d7fdfc6740"
+      "json_sha256": "bc7ebb51f242ffba462c857d402cda42946e7bae07f91093d1a0d6ff78bdee09"
     },
     {
       "id": "vita",
@@ -333,13 +333,13 @@
       "source_language": "grc",
       "html_path": "works/vita/index.html",
       "json_path": "data/works/vita.json",
-      "fixed_html_path": "releases/public-0.35.1/works/vita/index.html",
+      "fixed_html_path": "releases/public-0.36/works/vita/index.html",
       "aliases": [
         "자서전",
         "Life of Josephus"
       ],
       "passage_count": 430,
-      "json_sha256": "1c2d7350258472ca7b34feaecd57a16af5da75ea9e864e2725a1303096673617"
+      "json_sha256": "12a40964ad5ca8b5af0d1b0f70c4e1b588c96d956852aa1c88110b27c5a761dc"
     },
     {
       "id": "bar",
@@ -353,10 +353,10 @@
       "source_language": "grc",
       "html_path": "works/bar/index.html",
       "json_path": "data/works/bar.json",
-      "fixed_html_path": "releases/public-0.35.1/works/bar/index.html",
+      "fixed_html_path": "releases/public-0.36/works/bar/index.html",
       "aliases": [],
       "passage_count": 141,
-      "json_sha256": "a46494972a47cf9ec089efb9f371bf03027b362b5ba9a2cd76103937bd53a607"
+      "json_sha256": "c9f4b448efe1feaab874fe77d4ce34223a1aaba1ed834a1387091e04424e2916"
     },
     {
       "id": "epjer",
@@ -370,14 +370,14 @@
       "source_language": "grc",
       "html_path": "works/epjer/index.html",
       "json_path": "data/works/epjer.json",
-      "fixed_html_path": "releases/public-0.35.1/works/epjer/index.html",
+      "fixed_html_path": "releases/public-0.36/works/epjer/index.html",
       "aliases": [
         "예레미야서신",
         "예레미야 서신",
         "바룩서 6장"
       ],
       "passage_count": 72,
-      "json_sha256": "113013a3b816231f0074bdd6623db142111b7104cbb42edac0830ead51cbb5da"
+      "json_sha256": "7684d0a5d50e33c454439f4fa48ebc96a29bcf0bb35e3ae596461a7cd120bed6"
     },
     {
       "id": "prman",
@@ -391,10 +391,10 @@
       "source_language": "grc",
       "html_path": "works/prman/index.html",
       "json_path": "data/works/prman.json",
-      "fixed_html_path": "releases/public-0.35.1/works/prman/index.html",
+      "fixed_html_path": "releases/public-0.36/works/prman/index.html",
       "aliases": [],
       "passage_count": 15,
-      "json_sha256": "112cec1680adac625e84e7df42320636315aa1810a2e63ddd429ce06ce2db54f"
+      "json_sha256": "438570e2005710e7e49e25815a88f6cd128b1c899458705adb8833e578e34388"
     },
     {
       "id": "sus-th",
@@ -408,14 +408,14 @@
       "source_language": "grc",
       "html_path": "works/sus-th/index.html",
       "json_path": "data/works/sus-th.json",
-      "fixed_html_path": "releases/public-0.35.1/works/sus-th/index.html",
+      "fixed_html_path": "releases/public-0.36/works/sus-th/index.html",
       "aliases": [
         "수산나",
         "Susanna",
         "Sousanna"
       ],
       "passage_count": 64,
-      "json_sha256": "5a29026ec3705cf3a3a49acf82f6cf58246c8d695860cd542dac1777c48be615"
+      "json_sha256": "843484c6e4249d58af8d07ac9ca32f4126181fecf7baa459a0719ab4da8db730"
     },
     {
       "id": "bel-th",
@@ -429,117 +429,126 @@
       "source_language": "grc",
       "html_path": "works/bel-th/index.html",
       "json_path": "data/works/bel-th.json",
-      "fixed_html_path": "releases/public-0.35.1/works/bel-th/index.html",
+      "fixed_html_path": "releases/public-0.36/works/bel-th/index.html",
       "aliases": [
         "벨과 용",
         "Bel and the Dragon"
       ],
       "passage_count": 42,
-      "json_sha256": "302e9f88734000b8368883f85191a5e164ad31cee06dce30c65724d24f5d8879"
+      "json_sha256": "4cdd38241ddd54986b74c1d36e72464a57c5772efeafff0fb984f6611b7e4b5d"
     },
     {
       "id": "tob-s",
       "title": "토빗기(시내사본계)",
-      "display_title": "토빗기(시내사본계) 1-3장",
+      "display_title": "토빗기",
       "original_title": "Τωβείθ",
       "author": "익명",
       "abbreviation": "Tob. S.",
-      "coverage": "complete_scope",
-      "scope": "토빗기(시내사본계) 1-3장의 채택 그리스어 본문 53절 전체, 4-14장 미수록",
+      "coverage": "complete",
+      "scope": "토빗기 1-14장 전체: 시내사본계 본문, 결락부는 바티칸사본계 보완. 243개 본문 기록, 11.12-13은 한 기록에 수록.",
       "source_language": "grc",
       "html_path": "works/tob-s/index.html",
       "json_path": "data/works/tob-s.json",
-      "fixed_html_path": "releases/public-0.35.1/works/tob-s/index.html",
+      "fixed_html_path": "releases/public-0.36/works/tob-s/index.html",
       "aliases": [
         "토빗",
         "토비트",
         "Tobit",
         "시내사본"
       ],
-      "passage_count": 53,
-      "json_sha256": "37abd128ea682998c6b74fdf0c5652d850cef72c08f896d21fcbc50f8804ee09"
+      "passage_count": 243,
+      "json_sha256": "31b4b3cc93d1ce77ae075e955cd4aec61263e4448a832b0cf505e525db0bf8d2"
     },
     {
       "id": "jdt",
       "title": "유딧기",
-      "display_title": "유딧기 1-4장",
+      "display_title": "유딧기",
       "original_title": "Ἰουδείθ",
       "author": "익명",
       "abbreviation": "Jdt.",
-      "coverage": "complete_scope",
-      "scope": "유딧기 1-4장의 채택 그리스어 본문 69절 전체, 5-16장 미수록",
+      "coverage": "complete",
+      "scope": "유딧기 채택 본문 340대목 전체",
       "source_language": "grc",
       "html_path": "works/jdt/index.html",
       "json_path": "data/works/jdt.json",
-      "fixed_html_path": "releases/public-0.35.1/works/jdt/index.html",
+      "fixed_html_path": "releases/public-0.36/works/jdt/index.html",
       "aliases": [
         "유딧",
         "Judith",
         "Ioudith"
       ],
-      "passage_count": 69,
-      "json_sha256": "7853037a16fac05bd55ba9d3454cbf145925aeb599725644db08f726f1248971"
+      "passage_count": 340,
+      "json_sha256": "0a1722f8d36146522815739da0168ec1b34c8dbb4423fae096358c09b408e13c"
     },
     {
       "id": "macc3",
       "title": "마카베오기 제3서",
-      "display_title": "마카베오기 제3서 1-3장",
+      "display_title": "마카베오기 제3서",
       "original_title": "Μακκαβαίων Γʹ",
       "author": "익명",
       "abbreviation": "3 Macc.",
-      "coverage": "complete_scope",
-      "scope": "마카베오기 제3서 1-3장의 채택 그리스어 본문 91절 전체, 4-7장 미수록; 2.1은 채택 인쇄본문에 없음",
+      "coverage": "complete",
+      "scope": "마카베오기 제3서 1-7장 227절 전체. 채택 판본에서는 2.2부터 2장의 기도가 시작된다.",
       "source_language": "grc",
       "html_path": "works/macc3/index.html",
       "json_path": "data/works/macc3.json",
-      "fixed_html_path": "releases/public-0.35.1/works/macc3/index.html",
+      "fixed_html_path": "releases/public-0.36/works/macc3/index.html",
       "aliases": [
         "제3마카베오기",
         "마카베오3서"
       ],
-      "passage_count": 91,
-      "json_sha256": "7875381bb7b7ad87d0800fb3416344e61bd8f5d69f88eaefacad29cfe5f2f9ac"
+      "passage_count": 227,
+      "json_sha256": "c77c9c630b97ca1fce070c923029fbac3f81d10dd48579806fef803a9a8f19c8"
     },
     {
       "id": "macc4",
       "title": "마카베오기 제4서",
-      "display_title": "마카베오기 제4서 1-4장",
+      "display_title": "마카베오기 제4서",
       "original_title": "Μακκαβαίων Δʹ",
       "author": "익명",
       "abbreviation": "4 Macc.",
-      "coverage": "complete_scope",
-      "scope": "마카베오기 제4서 1-4장의 채택 그리스어 본문 106절 전체, 5-18장 미수록",
+      "coverage": "complete",
+      "scope": "마카베오기 제4서 채택 본문 484대목 전체",
       "source_language": "grc",
       "html_path": "works/macc4/index.html",
       "json_path": "data/works/macc4.json",
-      "fixed_html_path": "releases/public-0.35.1/works/macc4/index.html",
+      "fixed_html_path": "releases/public-0.36/works/macc4/index.html",
       "aliases": [
         "제4마카베오기",
         "마카베오4서"
       ],
-      "passage_count": 106,
-      "json_sha256": "806a55aa3ec9a594e8e0a9ae0b84212ce8e367e95356ea178143b393e144fbb8"
+      "passage_count": 484,
+      "json_sha256": "a765c1a9c218f56d599ced90c1883bea68cd0ec0671a01a85fc81e4b6321a954"
     },
     {
       "id": "enoch1",
-      "title": "에녹1서(그리스어 전승)",
-      "display_title": "에녹1서(그리스어 전승) 1장",
+      "title": "에녹1서",
+      "display_title": "에녹1서",
       "original_title": "Ἑνώχ",
       "author": "익명",
-      "abbreviation": "1 En. Gr.",
-      "coverage": "complete_scope",
-      "scope": "에녹1서(그리스어 전승) 1장의 채택 그리스어 본문 9절 전체, 2장 이후 미수록, 전체 에티오피아어판과 다른 수록 범위",
+      "abbreviation": "1 En.",
+      "coverage": "complete",
+      "scope": "에녹1서 1-108장 1,060대목 전체. 그리스어 236대목은 Swete 판의 그리스어 본문, Ge’ez 824대목은 Beta maṣāḥǝft EOTCed 전사를 따른다.",
       "source_language": "grc",
       "html_path": "works/enoch1/index.html",
       "json_path": "data/works/enoch1.json",
-      "fixed_html_path": "releases/public-0.35.1/works/enoch1/index.html",
+      "fixed_html_path": "releases/public-0.36/works/enoch1/index.html",
       "aliases": [
         "1에녹서",
         "제1에녹서",
         "Enoch"
       ],
-      "passage_count": 9,
-      "json_sha256": "e9ee1283b39131e8f5a4a028f8aad5817c39c09380a592393f72a74ad5a4e537"
+      "passage_count": 1060,
+      "json_sha256": "cf74d62fc4b0a32708eb8b4cddd8839af22397c7fa13bc7fe051142cec9b13fd",
+      "supplementary_works": [
+        {
+          "id": "enoch1-witnesses",
+          "display_title": "에녹1서 그리스어 대조본문",
+          "html_path": "works/enoch1-witnesses/index.html",
+          "json_path": "data/works/enoch1-witnesses.json",
+          "link_label": "그리스어 대조본문 보기"
+        }
+      ]
     },
     {
       "id": "abrah",
@@ -548,20 +557,20 @@
       "original_title": "Περὶ Ἀβραάμ",
       "author": "필론",
       "abbreviation": "Abr.",
-      "coverage": "complete_scope",
-      "scope": "아브라함에 관하여 1-40절 전체, 41-276절 미수록",
+      "coverage": "complete",
+      "scope": "아브라함에 관하여 채택 본문 276대목 전체",
       "source_language": "grc",
       "html_path": "works/abrah/index.html",
       "json_path": "data/works/abrah.json",
-      "fixed_html_path": "releases/public-0.35.1/works/abrah/index.html",
+      "fixed_html_path": "releases/public-0.36/works/abrah/index.html",
       "aliases": [
         "아브라함에 관하여",
         "Abr.",
         "De Abrahamo",
         "아브라함론"
       ],
-      "passage_count": 40,
-      "json_sha256": "a9ca5f74b96d6a1e76c2c9fc12e39050d1e5cdebdaa852b2601037390f57f1d1"
+      "passage_count": 276,
+      "json_sha256": "f1967af1bedb2950163610cff1e17591fc9e41bfdd66482a9d82370910f80f90"
     },
     {
       "id": "joseph",
@@ -570,20 +579,20 @@
       "original_title": "Περὶ Ἰωσήφ",
       "author": "필론",
       "abbreviation": "Jos.",
-      "coverage": "complete_scope",
-      "scope": "요셉에 관하여 1-40절 전체, 41-270절 미수록",
+      "coverage": "complete",
+      "scope": "요셉에 관하여 채택 본문 270대목 전체",
       "source_language": "grc",
       "html_path": "works/joseph/index.html",
       "json_path": "data/works/joseph.json",
-      "fixed_html_path": "releases/public-0.35.1/works/joseph/index.html",
+      "fixed_html_path": "releases/public-0.36/works/joseph/index.html",
       "aliases": [
         "요셉에 관하여",
         "Jos.",
         "De Josepho",
         "요셉론"
       ],
-      "passage_count": 40,
-      "json_sha256": "ad855fbed76dd371cb1f2e1904509d805f0e53e5fab05fee869aea20f44bca76"
+      "passage_count": 270,
+      "json_sha256": "a200b74f4c581ee1c8d2ef02c15336af692e5c56120098d6998d8a92373a5c25"
     },
     {
       "id": "moses",
@@ -592,19 +601,19 @@
       "original_title": "Περὶ βίου Μωυσέως",
       "author": "필론",
       "abbreviation": "Mos.",
-      "coverage": "complete_scope",
-      "scope": "모세의 생애 1권 1-40절 전체, 1권 41절 이후와 2권 미수록",
+      "coverage": "complete",
+      "scope": "모세의 생애 채택 본문 626대목 전체",
       "source_language": "grc",
       "html_path": "works/moses/index.html",
       "json_path": "data/works/moses.json",
-      "fixed_html_path": "releases/public-0.35.1/works/moses/index.html",
+      "fixed_html_path": "releases/public-0.36/works/moses/index.html",
       "aliases": [
         "모세의 생애",
         "Mos.",
         "De vita Mosis (lib. i‑ii)"
       ],
-      "passage_count": 40,
-      "json_sha256": "f465eaff3e7b134b44c83cb90ca7b8ee5d6cd286fd40a203685f24a1af6a10e2"
+      "passage_count": 626,
+      "json_sha256": "a22687f8814970df6aa091e2e7c22a39b0ddc2dace483454db5cbad86aef77c0"
     },
     {
       "id": "virt",
@@ -613,20 +622,20 @@
       "original_title": "Περὶ ἀρετῶν",
       "author": "필론",
       "abbreviation": "Virt.",
-      "coverage": "complete_scope",
-      "scope": "덕에 관하여 1-40절 전체, 41-227절 미수록",
+      "coverage": "complete",
+      "scope": "덕에 관하여 채택 본문 227대목 전체",
       "source_language": "grc",
       "html_path": "works/virt/index.html",
       "json_path": "data/works/virt.json",
-      "fixed_html_path": "releases/public-0.35.1/works/virt/index.html",
+      "fixed_html_path": "releases/public-0.36/works/virt/index.html",
       "aliases": [
         "덕에 관하여",
         "Virt.",
         "De virtutibus",
         "덕론"
       ],
-      "passage_count": 40,
-      "json_sha256": "dd0f12ff135246153c17e695fa4b7a3b094a90696bef700250a56277eadb6480"
+      "passage_count": 227,
+      "json_sha256": "884ab907c6e8e1ffe618fb1ec363ff348820470fb8df43aa286cc4e150a6c3ad"
     },
     {
       "id": "prob",
@@ -635,20 +644,20 @@
       "original_title": "Περὶ τοῦ πάντα σπουδαῖον ἐλεύθερον εἶναι",
       "author": "필론",
       "abbreviation": "Prob.",
-      "coverage": "complete_scope",
-      "scope": "선한 사람은 모두 자유롭다 1-40절 전체, 41-160절 미수록",
+      "coverage": "complete",
+      "scope": "선한 사람은 모두 자유롭다 채택 본문 160대목 전체",
       "source_language": "grc",
       "html_path": "works/prob/index.html",
       "json_path": "data/works/prob.json",
-      "fixed_html_path": "releases/public-0.35.1/works/prob/index.html",
+      "fixed_html_path": "releases/public-0.36/works/prob/index.html",
       "aliases": [
         "선한 사람은 모두 자유롭다",
         "Prob.",
         "Quod omnis probus liber sit",
         "자유론"
       ],
-      "passage_count": 40,
-      "json_sha256": "4ac7980ba165aed0ef6fac7021d2b55d094401ef47bde7c5c9ce5c7f29c95350"
+      "passage_count": 160,
+      "json_sha256": "d05dab5e095582b4921e15811e7857a40c2b469d0487abe58147f1b3c922ec57"
     },
     {
       "id": "contempl",
@@ -657,19 +666,19 @@
       "original_title": "Περὶ βίου θεωρητικοῦ",
       "author": "필론",
       "abbreviation": "Contempl.",
-      "coverage": "complete_scope",
-      "scope": "관조적 삶에 관하여 1-40절 전체, 41-90절 미수록",
+      "coverage": "complete",
+      "scope": "관조적 삶에 관하여 채택 본문 90대목 전체",
       "source_language": "grc",
       "html_path": "works/contempl/index.html",
       "json_path": "data/works/contempl.json",
-      "fixed_html_path": "releases/public-0.35.1/works/contempl/index.html",
+      "fixed_html_path": "releases/public-0.36/works/contempl/index.html",
       "aliases": [
         "관조적 삶에 관하여",
         "Contempl.",
         "De vita contemplativa"
       ],
-      "passage_count": 40,
-      "json_sha256": "f8840705d75daf83284b0e32b3265f7f36d942f27a7b08569eca35a2907ea9b0"
+      "passage_count": 90,
+      "json_sha256": "2e224f06c2db24c2708cae41382258f04743d59a5a4c684479a04b5280a1890c"
     },
     {
       "id": "esdras1",
@@ -678,18 +687,18 @@
       "original_title": "Ἔσδρας Αʹ",
       "author": "익명",
       "abbreviation": "1 Esd.",
-      "coverage": "complete_scope",
-      "scope": "에스드라 제1서 1-2장 80절 전체, 3-9장 미수록",
+      "coverage": "complete",
+      "scope": "에스드라 제1서 채택 본문 431대목 전체",
       "source_language": "grc",
       "html_path": "works/esdras1/index.html",
       "json_path": "data/works/esdras1.json",
-      "fixed_html_path": "releases/public-0.35.1/works/esdras1/index.html",
+      "fixed_html_path": "releases/public-0.36/works/esdras1/index.html",
       "aliases": [
         "에스드라 제1서",
         "1 Esd."
       ],
-      "passage_count": 80,
-      "json_sha256": "9f40e07b7d9937e0806bda2383922efff03cc62f1fd3a82e41a89a2c301f026f"
+      "passage_count": 431,
+      "json_sha256": "af6e2260009851eab8edbb52a6908783c7dee28b63b3f6f14bdae3c056236b84"
     },
     {
       "id": "ps151",
@@ -703,13 +712,13 @@
       "source_language": "grc",
       "html_path": "works/ps151/index.html",
       "json_path": "data/works/ps151.json",
-      "fixed_html_path": "releases/public-0.35.1/works/ps151/index.html",
+      "fixed_html_path": "releases/public-0.36/works/ps151/index.html",
       "aliases": [
         "시편 151편",
         "Ps.151"
       ],
       "passage_count": 7,
-      "json_sha256": "97551fd43f9a502d8b766f47d1581784d7e922284d0e9b39620aae6781a27604"
+      "json_sha256": "f9b7793c815880e80a0f27f671b06e2ced896fc29435d3ed299a8ced9da2001c"
     },
     {
       "id": "praz",
@@ -723,13 +732,13 @@
       "source_language": "grc",
       "html_path": "works/praz/index.html",
       "json_path": "data/works/praz.json",
-      "fixed_html_path": "releases/public-0.35.1/works/praz/index.html",
+      "fixed_html_path": "releases/public-0.36/works/praz/index.html",
       "aliases": [
         "아자랴의 기도",
         "Pr. Az."
       ],
       "passage_count": 20,
-      "json_sha256": "1054b19823f257b8099def45e4ecc0291e021d4ca8b3bad4cf54acdff937d11e"
+      "json_sha256": "60a4f7e27d712580589fdd556ea307293f97e84c400c3276b5b8306de36799db"
     },
     {
       "id": "song3",
@@ -743,13 +752,13 @@
       "source_language": "grc",
       "html_path": "works/song3/index.html",
       "json_path": "data/works/song3.json",
-      "fixed_html_path": "releases/public-0.35.1/works/song3/index.html",
+      "fixed_html_path": "releases/public-0.36/works/song3/index.html",
       "aliases": [
         "세 젊은이의 찬가",
         "Song3"
       ],
       "passage_count": 37,
-      "json_sha256": "9ca1aa0383858e11de1f190e065f9b91002ca3f53848d351df1d27b9603807f1"
+      "json_sha256": "071d4717175a46d856d12156f4a90895013e6b5e00fc1164e163a4f6123a6872"
     },
     {
       "id": "leg",
@@ -758,19 +767,19 @@
       "original_title": "Legum allegoriae",
       "author": "필론",
       "abbreviation": "Leg.",
-      "coverage": "complete_scope",
-      "scope": "율법의 알레고리 1권 1-20절 전체, 1권 21-108절과 2-3권 미수록",
+      "coverage": "complete",
+      "scope": "율법의 알레고리 채택 본문 469대목 전체",
       "source_language": "grc",
       "html_path": "works/leg/index.html",
       "json_path": "data/works/leg.json",
-      "fixed_html_path": "releases/public-0.35.1/works/leg/index.html",
+      "fixed_html_path": "releases/public-0.36/works/leg/index.html",
       "aliases": [
         "율법의 알레고리",
         "Leg.",
         "Legum allegoriae"
       ],
-      "passage_count": 20,
-      "json_sha256": "98d925416d536ecbe340e8569a3dc5662687d266d7b81e08f815e3500320fbb2"
+      "passage_count": 469,
+      "json_sha256": "19a028d5575ba8e5668f607257c865e21cd01843312050b8f7513051cd59f2c7"
     },
     {
       "id": "cher",
@@ -779,19 +788,19 @@
       "original_title": "De cherubim",
       "author": "필론",
       "abbreviation": "Cher.",
-      "coverage": "complete_scope",
-      "scope": "케루빔에 관하여 1-20절 전체, 21-130절 미수록",
+      "coverage": "complete",
+      "scope": "케루빔에 관하여 채택 본문 130대목 전체",
       "source_language": "grc",
       "html_path": "works/cher/index.html",
       "json_path": "data/works/cher.json",
-      "fixed_html_path": "releases/public-0.35.1/works/cher/index.html",
+      "fixed_html_path": "releases/public-0.36/works/cher/index.html",
       "aliases": [
         "케루빔에 관하여",
         "Cher.",
         "De cherubim"
       ],
-      "passage_count": 20,
-      "json_sha256": "f0d51489bc3b99ce9ee16726852dcf41077b92b509e5b01e37b2d711804f054b"
+      "passage_count": 130,
+      "json_sha256": "c014faf3d0e36f155f26aabb96b86ab842aa67864573ca1ea97072b3480b53ec"
     },
     {
       "id": "sacr",
@@ -800,19 +809,19 @@
       "original_title": "De sacrificiis Abelis et Caini",
       "author": "필론",
       "abbreviation": "Sacr.",
-      "coverage": "complete_scope",
-      "scope": "아벨과 카인의 제사에 관하여 1-20절 전체, 21-139절 미수록",
+      "coverage": "complete",
+      "scope": "아벨과 카인의 제사에 관하여 채택 본문 139대목 전체",
       "source_language": "grc",
       "html_path": "works/sacr/index.html",
       "json_path": "data/works/sacr.json",
-      "fixed_html_path": "releases/public-0.35.1/works/sacr/index.html",
+      "fixed_html_path": "releases/public-0.36/works/sacr/index.html",
       "aliases": [
         "아벨과 카인의 제사에 관하여",
         "Sacr.",
         "De sacrificiis Abelis et Caini"
       ],
-      "passage_count": 20,
-      "json_sha256": "30153f5e5826012f2fd5a5110441c9211c2b142836c08e70ed670168aabab710"
+      "passage_count": 139,
+      "json_sha256": "94985b105a734a3dd47bbbc7107478c28bdf9af7524ba2e87f6e445ba5887b0a"
     },
     {
       "id": "det",
@@ -821,19 +830,19 @@
       "original_title": "Quod deterius potiori insidiari soleat",
       "author": "필론",
       "abbreviation": "Det.",
-      "coverage": "complete_scope",
-      "scope": "악한 자가 선한 자를 공격함 1-20절 전체, 21-178절 미수록",
+      "coverage": "complete",
+      "scope": "악한 자가 선한 자를 공격함 채택 본문 178대목 전체",
       "source_language": "grc",
       "html_path": "works/det/index.html",
       "json_path": "data/works/det.json",
-      "fixed_html_path": "releases/public-0.35.1/works/det/index.html",
+      "fixed_html_path": "releases/public-0.36/works/det/index.html",
       "aliases": [
         "악한 자가 선한 자를 공격함",
         "Det.",
         "Quod deterius potiori insidiari soleat"
       ],
-      "passage_count": 20,
-      "json_sha256": "4660417a4930242e063e5dca994c8c90aab5362e93ed6b12009cf58bf40db92f"
+      "passage_count": 178,
+      "json_sha256": "bd9d101ec3a1949cbb9a88b16353bd12a82d8be3da5ea4feb31276857232c6c9"
     },
     {
       "id": "post",
@@ -842,19 +851,19 @@
       "original_title": "De posteritate Caini",
       "author": "필론",
       "abbreviation": "Post.",
-      "coverage": "complete_scope",
-      "scope": "카인의 후손에 관하여 1-20절 전체, 21-185절 미수록",
+      "coverage": "complete",
+      "scope": "카인의 후손에 관하여 채택 본문 185대목 전체",
       "source_language": "grc",
       "html_path": "works/post/index.html",
       "json_path": "data/works/post.json",
-      "fixed_html_path": "releases/public-0.35.1/works/post/index.html",
+      "fixed_html_path": "releases/public-0.36/works/post/index.html",
       "aliases": [
         "카인의 후손에 관하여",
         "Post.",
         "De posteritate Caini"
       ],
-      "passage_count": 20,
-      "json_sha256": "5a2a7b6e83fe48f5b5b875bcef8579a46cb0a57e7f1645b11210b27e9d4bae05"
+      "passage_count": 185,
+      "json_sha256": "3077eb710c8d762ee55fdd5ac45815a021a1e4a1effa8155c191b7c4ea8421ba"
     },
     {
       "id": "gig",
@@ -863,19 +872,19 @@
       "original_title": "De gigantibus",
       "author": "필론",
       "abbreviation": "Gig.",
-      "coverage": "complete_scope",
-      "scope": "거인들에 관하여 1-20절 전체, 21-67절 미수록",
+      "coverage": "complete",
+      "scope": "거인들에 관하여 채택 본문 67대목 전체",
       "source_language": "grc",
       "html_path": "works/gig/index.html",
       "json_path": "data/works/gig.json",
-      "fixed_html_path": "releases/public-0.35.1/works/gig/index.html",
+      "fixed_html_path": "releases/public-0.36/works/gig/index.html",
       "aliases": [
         "거인들에 관하여",
         "Gig.",
         "De gigantibus"
       ],
-      "passage_count": 20,
-      "json_sha256": "7044c3ec739297955a9a3466ce5c416d8adee27559b799f806bd6416825d5646"
+      "passage_count": 67,
+      "json_sha256": "7dc9f35168852dd2f0458fe76b2f3524a7dfb72194e4e5248fa9f354f35fabaf"
     },
     {
       "id": "deus",
@@ -884,19 +893,19 @@
       "original_title": "Quod Deus sit immutabilis",
       "author": "필론",
       "abbreviation": "Deus",
-      "coverage": "complete_scope",
-      "scope": "하나님의 불변성에 관하여 1-20절 전체, 21-183절 미수록",
+      "coverage": "complete",
+      "scope": "하나님의 불변성에 관하여 채택 본문 183대목 전체",
       "source_language": "grc",
       "html_path": "works/deus/index.html",
       "json_path": "data/works/deus.json",
-      "fixed_html_path": "releases/public-0.35.1/works/deus/index.html",
+      "fixed_html_path": "releases/public-0.36/works/deus/index.html",
       "aliases": [
         "하나님의 불변성에 관하여",
         "Deus",
         "Quod Deus sit immutabilis"
       ],
-      "passage_count": 20,
-      "json_sha256": "89b8d4baeea21c88af52bb4414a075949a45011b2280fbf60bced3aa14fccac4"
+      "passage_count": 183,
+      "json_sha256": "ae6c6048a2b4e0a01d99dac9ab8ba742645e24c0e4dea6d2e55a75160c4ae75d"
     },
     {
       "id": "agr",
@@ -905,19 +914,19 @@
       "original_title": "De agricultura",
       "author": "필론",
       "abbreviation": "Agr.",
-      "coverage": "complete_scope",
-      "scope": "농사에 관하여 1-20절 전체, 21-181절 미수록",
+      "coverage": "complete",
+      "scope": "농사에 관하여 채택 본문 181대목 전체",
       "source_language": "grc",
       "html_path": "works/agr/index.html",
       "json_path": "data/works/agr.json",
-      "fixed_html_path": "releases/public-0.35.1/works/agr/index.html",
+      "fixed_html_path": "releases/public-0.36/works/agr/index.html",
       "aliases": [
         "농사에 관하여",
         "Agr.",
         "De agricultura"
       ],
-      "passage_count": 20,
-      "json_sha256": "d2eabacdb18953b7b644295fc07082596046d31acd6ffd53b9289459e6136f3b"
+      "passage_count": 181,
+      "json_sha256": "8ce982ce88d9f9412af6865ebb0416f995dbf6ef824eeef1e5bf136671360883"
     },
     {
       "id": "plant",
@@ -926,19 +935,19 @@
       "original_title": "De plantatione",
       "author": "필론",
       "abbreviation": "Plant.",
-      "coverage": "complete_scope",
-      "scope": "나무 심기에 관하여 1-20절 전체, 21-177절 미수록",
+      "coverage": "complete",
+      "scope": "나무 심기에 관하여 채택 본문 177대목 전체",
       "source_language": "grc",
       "html_path": "works/plant/index.html",
       "json_path": "data/works/plant.json",
-      "fixed_html_path": "releases/public-0.35.1/works/plant/index.html",
+      "fixed_html_path": "releases/public-0.36/works/plant/index.html",
       "aliases": [
         "나무 심기에 관하여",
         "Plant.",
         "De plantatione"
       ],
-      "passage_count": 20,
-      "json_sha256": "610647311fee519f58f7d45e7ac3b8cf0eb6d2fe35ee1b303d6a86c983e9acbe"
+      "passage_count": 177,
+      "json_sha256": "ad46a66e118048f753269f175a2594b7a5a9e9d877f7b38d2c0491cc163f3cac"
     },
     {
       "id": "conf",
@@ -947,26 +956,26 @@
       "original_title": "De confusione linguarum",
       "author": "필론",
       "abbreviation": "Conf.",
-      "coverage": "complete_scope",
-      "scope": "언어의 혼란에 관하여 1-20절 전체, 21-198절 미수록",
+      "coverage": "complete",
+      "scope": "언어의 혼란에 관하여 채택 본문 198대목 전체",
       "source_language": "grc",
       "html_path": "works/conf/index.html",
       "json_path": "data/works/conf.json",
-      "fixed_html_path": "releases/public-0.35.1/works/conf/index.html",
+      "fixed_html_path": "releases/public-0.36/works/conf/index.html",
       "aliases": [
         "언어의 혼란에 관하여",
         "Conf.",
         "De confusione linguarum"
       ],
-      "passage_count": 20,
-      "json_sha256": "f1cb9bb58980dc297729fa4b1144da165f897e312714fcc6018bfa92b0c177e9"
+      "passage_count": 198,
+      "json_sha256": "8158cfbdd8c4c010df823618e88e6167674e2a84fdac30399eeff0ef81e62cc2"
     }
   ],
   "passage_index": {
     "schema_version": "ancient-library-passages-compact-1",
     "path": "data/passages.jsonl",
     "scope": "main_works",
-    "passage_count": 8449,
+    "passage_count": 29235,
     "fields": [
       "work_id",
       "work_json_path",
@@ -989,12 +998,66 @@
     ],
     "detail_source": "work_json_path",
     "detail_key": "work_passage_id",
-    "sha256": "66face5b8115fff6b8b18ac090faa8ff47e9fa9b49c4f43cd78b92822db0450a"
+    "sha256": "7833f4c4e63c956f5b50feb25b5404528c43ed4a2d0133b1bd6d0a054331e346"
+  },
+  "supplementary_works": [
+    {
+      "id": "enoch1-witnesses",
+      "title": "에녹1서 그리스어 대조본문",
+      "display_title": "에녹1서 그리스어 대조본문",
+      "original_title": "Ἑνώχ",
+      "author": "익명",
+      "abbreviation": "1 En. Gr.",
+      "coverage": "complete",
+      "scope": "에녹1서 그리스어 대조본문 74대목: 유다서 14-15의 에녹 인용 1, Syncellus 발췌 45, Syncellus 장 미상 단편 5, Akhmim 중복 본문 17, 주본문이 Ge’ez 절 전체를 따르는 대목의 그리스어 읽기 6.",
+      "source_language": "grc",
+      "html_path": "works/enoch1-witnesses/index.html",
+      "json_path": "data/works/enoch1-witnesses.json",
+      "fixed_html_path": "releases/public-0.36/works/enoch1-witnesses/index.html",
+      "aliases": [],
+      "passage_count": 74,
+      "json_sha256": "d9488e2b7f59fef74654db5cfcc34afa4d1dd323408427c861cf99c398a7b871",
+      "parent_work_id": "enoch1",
+      "supplementary": true,
+      "link_label": "그리스어 대조본문 보기"
+    }
+  ],
+  "supplementary_work_count": 1,
+  "supplementary_passage_count": 74,
+  "total_passage_count": 29309,
+  "supplementary_passage_index": {
+    "schema_version": "ancient-library-passages-compact-1",
+    "path": "data/supplementary-passages.jsonl",
+    "scope": "supplementary_works",
+    "passage_count": 74,
+    "fields": [
+      "work_id",
+      "work_json_path",
+      "work_passage_id",
+      "ref",
+      "original",
+      "korean",
+      "source_language",
+      "source_kind",
+      "source_revision",
+      "translation_revision",
+      "alignment_revision",
+      "html_path",
+      "fixed_html_path",
+      "citation",
+      "rights"
+    ],
+    "optional_fields": [
+      "source_rights"
+    ],
+    "detail_source": "work_json_path",
+    "detail_key": "work_passage_id",
+    "sha256": "1f5c618f4e785ba033d7763ab54877e63692ce2c313aee269a7fac42a491a21e"
   },
   "search_index": {
     "schema_version": "ancient-library-search-1",
     "path": "data/search.json",
-    "sha256": "750b9197d045f1de24829abd9753a7427958c9f4e8ab43c5fd432a2b720eb986"
+    "sha256": "1f75a7f5f65e638c77a4f1139f3a0978cdbd268a98885b73b6d6d167615763bf"
   },
   "base_url": "https://atexts.missionalbible.org/"
 }
