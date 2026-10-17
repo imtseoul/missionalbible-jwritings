@@ -137,7 +137,11 @@ if($('.reader')){
   const columnLinks=[...document.querySelectorAll('.chapter-index a[data-source-column]')];
   const lineTargets=[...document.querySelectorAll('.original [id][data-source-column]')];
   const markColumn=column=>markLinks(columnGroups.get(column)||[]);
-  function targetHash(){let id;try{id=decodeURIComponent(location.hash.slice(1));}catch{return;}const target=document.getElementById(id);if(!target)return;if(id.startsWith('note-')){const details=target.closest('details');if(details)details.open=true;}const ref=target.closest('[data-ref]')?.dataset.ref;markRange(ref);if(target.dataset.sourceColumn)markColumn(target.dataset.sourceColumn);requestAnimationFrame(()=>{target.scrollIntoView({block:'start'});scheduleRange();});}
+  // Long works are split into book (or letter-group) pages; an address for another part moves there.
+  const partFor=id=>{if(!reader.dataset.parts)return null;const m=id.match(/^(?:p|note)-(\d+)/);if(!m)return null;const n=Number(m[1]),parts=JSON.parse(reader.dataset.parts);
+    if(reader.dataset.partScheme==='book')return parts[m[1]]??null;
+    for(const [key,path] of Object.entries(parts)){const [a,b=a]=key.split('-').map(Number);if(n>=a&&n<=b)return path;}return null;};
+  function targetHash(){let id;try{id=decodeURIComponent(location.hash.slice(1));}catch{return;}const target=document.getElementById(id);if(!target){const path=partFor(id);if(path)location.replace(reader.dataset.partRoot+path+'#'+id);return;}if(id.startsWith('note-')){const details=target.closest('details');if(details)details.open=true;}const ref=target.closest('[data-ref]')?.dataset.ref;markRange(ref);if(target.dataset.sourceColumn)markColumn(target.dataset.sourceColumn);requestAnimationFrame(()=>{target.scrollIntoView({block:'start'});scheduleRange();});}
   let frame=null;
   function refreshRange(){
     frame=null;const y=innerHeight*.18;
@@ -157,4 +161,13 @@ if($('.reader')){
   if('ResizeObserver' in window)new ResizeObserver(scheduleRange).observe($('.reader'));
   document.fonts?.ready.then(scheduleRange);
   scheduleRange();
+}
+
+// Back to top: appears once the reader has scrolled a screen or more.
+{
+  const top=document.createElement('button');top.type='button';top.className='to-top';top.hidden=true;top.textContent='맨 위로';top.setAttribute('aria-label','맨 위로 이동');document.body.append(top);
+  let shown=false,queued=false;
+  const update=()=>{queued=false;const on=scrollY>innerHeight*1.2;if(on!==shown){shown=on;top.hidden=!on;}};
+  addEventListener('scroll',()=>{if(!queued){queued=true;requestAnimationFrame(update);}},{passive:true});update();
+  top.addEventListener('click',()=>{scrollTo({top:0,behavior:matchMedia('(prefers-reduced-motion: reduce)').matches?'auto':'smooth'});(document.querySelector('h1')||document.body).focus?.({preventScroll:true});});
 }

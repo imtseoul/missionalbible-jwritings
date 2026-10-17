@@ -223,3 +223,12 @@ a.text-link,.information section p a,.translation-notes p a{text-decoration:unde
 .passage,.translation-notes li,[id^="line-"]{scroll-margin-top:76px}
 .more-results{display:inline-flex;align-items:center;gap:8px;min-height:44px;margin-top:6px;padding:0 14px;font-size:14px;color:var(--ink);background:var(--paper);border:1px solid var(--line);border-radius:3px}.more-results::after{content:"↓";color:var(--accent)}.more-results:hover{background:var(--wash)}
 .reading-note{font-size:13px;color:var(--muted);margin-top:12px}
+/* Long works: one book or ten letters per page. */
+.part-nav{margin-bottom:22px;padding-bottom:16px;border-bottom:1px solid var(--line)}.part-nav div{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:4px}
+.part-nav a{display:grid;place-items:center;min-height:40px;font-size:13px;color:var(--muted);border-radius:3px}.part-nav a:hover{background:var(--wash);text-decoration:none}
+.part-nav a[aria-current=page]{background:var(--selected);color:var(--ink);font-weight:600;box-shadow:inset 0 -2px 0 var(--accent)}
+.chapter-menu .part-nav{padding:0 0 10px;margin-bottom:10px}.chapter-menu .part-nav .sidebar-title{font-size:12px;margin-bottom:6px}
+.part-pager{display:flex;justify-content:space-between;gap:16px;margin:8px 0 32px;padding-top:20px;border-top:1px solid var(--line)}.part-pager a{display:inline-flex;align-items:center;min-height:44px;padding:0 16px;border:1px solid var(--line);border-radius:3px;color:var(--ink);font-size:14px}.part-next{margin-left:auto}
+.to-top{position:fixed;right:24px;bottom:24px;z-index:30;min-height:44px;padding:0 16px;font-size:13px;color:var(--paper);background:var(--ink);border:0;border-radius:22px;box-shadow:0 2px 8px var(--shadow)}.to-top::before{content:'↑ ';}
+@media(max-width:700px){.to-top{right:16px;bottom:16px}.part-nav div{grid-template-columns:repeat(5,minmax(0,1fr))}}
+@media print{.to-top,.part-nav,.part-pager{display:none!important}}

@@ -1,6 +1,6 @@
 {
   "schema_version": "ancient-library-2",
-  "release_id": "public-0.36",
+  "release_id": "public-0.36.1",
   "publication_status": "public_review_edition",
   "complete_works": 49,
   "complete_scopes": 0,
@@ -19,10 +19,10 @@
       "source_language": "grc",
       "html_path": "works/ant/index.html",
       "json_path": "data/works/ant.json",
-      "fixed_html_path": "releases/public-0.36/works/ant/index.html",
+      "fixed_html_path": "releases/public-0.36.1/works/ant/index.html",
       "aliases": [],
       "passage_count": 7376,
-      "json_sha256": "73007ed219b7c7c29f22bac2309032125d84369bb39ce7bcc33de3e96d44f5ca"
+      "json_sha256": "7597e7a221d59d9cddd46dd49cca001887c692958f3e6f236c9fafefc22e0fcd"
     },
     {
       "id": "war",
@@ -36,10 +36,10 @@
       "source_language": "grc",
       "html_path": "works/war/index.html",
       "json_path": "data/works/war.json",
-      "fixed_html_path": "releases/public-0.36/works/war/index.html",
+      "fixed_html_path": "releases/public-0.36.1/works/war/index.html",
       "aliases": [],
       "passage_count": 4001,
-      "json_sha256": "7e9a2a4887bdb288a0197917d729e5fbc2c5b143e7fe9f321877f4172067a9f6"
+      "json_sha256": "475495728c11582d101c3ffd7fc82d917dcf65ca755ce26733b0daf28f644416"
     },
     {
       "id": "apion",
@@ -53,10 +53,10 @@
       "source_language": "mul",
       "html_path": "works/apion/index.html",
       "json_path": "data/works/apion.json",
-      "fixed_html_path": "releases/public-0.36/works/apion/index.html",
+      "fixed_html_path": "releases/public-0.36.1/works/apion/index.html",
       "aliases": [],
       "passage_count": 616,
-      "json_sha256": "499deb379c35554ecb2ed258ed5b5848e8c5b4e93056ae1fac2c34f7cf4bbe98"
+      "json_sha256": "6d6ad3d1a03f46584edc3f63a4f52b1a51a78e8b6778034f6e285c6cee1c67fc"
     },
     {
       "id": "decal",
@@ -70,10 +70,10 @@
       "source_language": "grc",
       "html_path": "works/decal/index.html",
       "json_path": "data/works/decal.json",
-      "fixed_html_path": "releases/public-0.36/works/decal/index.html",
+      "fixed_html_path": "releases/public-0.36.1/works/decal/index.html",
       "aliases": [],
       "passage_count": 178,
-      "json_sha256": "fb222ea0f7fc2372ea8eb0e4074e71e9f263b0d8695a4649a71eeca802179dd7"
+      "json_sha256": "6e08481d700baec639bbc8de4a7382c4b73af83e724bbfc58ef6535738c07800"
     },
     {
       "id": "wisdom",
@@ -87,10 +87,10 @@
       "source_language": "grc",
       "html_path": "works/wisdom/index.html",
       "json_path": "data/works/wisdom.json",
-      "fixed_html_path": "releases/public-0.36/works/wisdom/index.html",
+      "fixed_html_path": "releases/public-0.36.1/works/wisdom/index.html",
       "aliases": [],
       "passage_count": 436,
-      "json_sha256": "5f391d15f8dea7f08260d1816e638b1c79e73d39ec129bfafb43843b97d7d3e4"
+      "json_sha256": "9a9846187c77f4eeaba27cdd12bac1e2a6ba91a25b549a0710a6fbf8c6867acb"
     },
     {
       "id": "pssol",
@@ -104,10 +104,10 @@
       "source_language": "grc",
       "html_path": "works/pssol/index.html",
       "json_path": "data/works/pssol.json",
-      "fixed_html_path": "releases/public-0.36/works/pssol/index.html",
+      "fixed_html_path": "releases/public-0.36.1/works/pssol/index.html",
       "aliases": [],
       "passage_count": 332,
-      "json_sha256": "9256a805b8e036ac2bc0dc2fdc761d8827216d294b1adb2089384c028b0cfff3"
+      "json_sha256": "a8ba01325b99323016cdaf70c3d3fa8ceddbceac2359c963c2d893c0ee89e188"
     },
     {
       "id": "ench",
@@ -121,10 +121,10 @@
       "source_language": "grc",
       "html_path": "works/ench/index.html",
       "json_path": "data/works/ench.json",
-      "fixed_html_path": "releases/public-0.36/works/ench/index.html",
+      "fixed_html_path": "releases/public-0.36.1/works/ench/index.html",
       "aliases": [],
       "passage_count": 105,
-      "json_sha256": "86969fb41eecff5d5afc44a9ffe5a4f6ae15caf62b8114b7ac9e1dec65fe7be8"
+      "json_sha256": "26b58bb7f1c40d11f25f03541ec9cebd6e0a5a465a7baea19c4012c35faa91f6"
     },
     {
       "id": "seneca",
@@ -138,10 +138,10 @@
       "source_language": "lat",
       "html_path": "works/seneca/index.html",
       "json_path": "data/works/seneca.json",
-      "fixed_html_path": "releases/public-0.36/works/seneca/index.html",
+      "fixed_html_path": "releases/public-0.36.1/works/seneca/index.html",
       "aliases": [],
       "passage_count": 2141,
-      "json_sha256": "58bfe8d8fac0aa51bfe59e958b23c8df077d79ff3eabb47cdeb20ec52f98a62d"
+      "json_sha256": "da23a1b020f060f531e822a49c16916cb710fcc917377b18387b8353a74a044d"
     },
     {
       "id": "off",
@@ -155,10 +155,10 @@
       "source_language": "lat",
       "html_path": "works/off/index.html",
       "json_path": "data/works/off.json",
-      "fixed_html_path": "releases/public-0.36/works/off/index.html",
+      "fixed_html_path": "releases/public-0.36.1/works/off/index.html",
       "aliases": [],
       "passage_count": 371,
-      "json_sha256": "b1beee33ebda35b11c45ad063e6e58d3717fb2745f3f43f09efc637cc3be0ce4"
+      "json_sha256": "48ef3474d94d1c36ce25077a0f33df65f3426751ab3667451d1814422e8caec4"
     },
     {
       "id": "benefits",
@@ -172,10 +172,10 @@
       "source_language": "lat",
       "html_path": "works/benefits/index.html",
       "json_path": "data/works/benefits.json",
-      "fixed_html_path": "releases/public-0.36/works/benefits/index.html",
+      "fixed_html_path": "releases/public-0.36.1/works/benefits/index.html",
       "aliases": [],
       "passage_count": 906,
-      "json_sha256": "a1684bbf3f3582c7e66afaf9190a56959cee369b59e1850c183ec925536009e8"
+      "json_sha256": "afa23c4a6efdc0fef6f6932d016ec5c042a51fdb5a945a09349e52f2a5a67761"
     },
     {
       "id": "apology",
@@ -189,10 +189,10 @@
       "source_language": "grc",
       "html_path": "works/apology/index.html",
       "json_path": "data/works/apology.json",
-      "fixed_html_path": "releases/public-0.36/works/apology/index.html",
+      "fixed_html_path": "releases/public-0.36.1/works/apology/index.html",
       "aliases": [],
       "passage_count": 130,
-      "json_sha256": "5086e6fbac7658b05ac0a4f8b06bc478e229963e8d0c5dc62649db8dd2015c20"
+      "json_sha256": "a98527279ca30c23f2399ed234c4a5e06162fccf1dee5ab76c8d262479caa9b2"
     },
     {
       "id": "1qs",
@@ -206,10 +206,10 @@
       "source_language": "he",
       "html_path": "works/1qs/index.html",
       "json_path": "data/works/1qs.json",
-      "fixed_html_path": "releases/public-0.36/works/1qs/index.html",
+      "fixed_html_path": "releases/public-0.36.1/works/1qs/index.html",
       "aliases": [],
       "passage_count": 67,
-      "json_sha256": "67a77a6fcb0cbd75d79bbdc5925f89a64f2a5ffb5e20dba06a7467d556cdc853"
+      "json_sha256": "ad3fbe359f2edffa95a89974316ad1bef392886cac8a2950f20219bd6433021d"
     },
     {
       "id": "legat",
@@ -223,10 +223,10 @@
       "source_language": "grc",
       "html_path": "works/legat/index.html",
       "json_path": "data/works/legat.json",
-      "fixed_html_path": "releases/public-0.36/works/legat/index.html",
+      "fixed_html_path": "releases/public-0.36.1/works/legat/index.html",
       "aliases": [],
       "passage_count": 373,
-      "json_sha256": "630ab5e7bd4db72ce2584657d2f71c5a9757e0c5d3de9de23b59008b90349b2d"
+      "json_sha256": "45221138dac4a72af990d68c0b6b978a330658d3fe1c0c275938d1175ad825ab"
     },
     {
       "id": "macc1",
@@ -240,7 +240,7 @@
       "source_language": "grc",
       "html_path": "works/macc1/index.html",
       "json_path": "data/works/macc1.json",
-      "fixed_html_path": "releases/public-0.36/works/macc1/index.html",
+      "fixed_html_path": "releases/public-0.36.1/works/macc1/index.html",
       "aliases": [
         "마카베오상권",
         "1Macc",
@@ -248,7 +248,7 @@
         "1Ma"
       ],
       "passage_count": 924,
-      "json_sha256": "3fc7d54ee454108842beb8353d4b87b249ead23bba96fbdc76b3529d264ca176"
+      "json_sha256": "8a17675e97655af91c8dd3be395c771bdfa99a8866f79cbcaa481532c2f87b67"
     },
     {
       "id": "macc2",
@@ -262,10 +262,10 @@
       "source_language": "grc",
       "html_path": "works/macc2/index.html",
       "json_path": "data/works/macc2.json",
-      "fixed_html_path": "releases/public-0.36/works/macc2/index.html",
+      "fixed_html_path": "releases/public-0.36.1/works/macc2/index.html",
       "aliases": [],
       "passage_count": 555,
-      "json_sha256": "7dac11076fdf1319943051471d7f70ea415d17b8480c1fe80032ed0d3ec012f0"
+      "json_sha256": "d45c44cf40d03c43a9b4600148cd1fc4f60396851be0a0bd5fe0c1d098136b67"
     },
     {
       "id": "opif",
@@ -279,10 +279,10 @@
       "source_language": "grc",
       "html_path": "works/opif/index.html",
       "json_path": "data/works/opif.json",
-      "fixed_html_path": "releases/public-0.36/works/opif/index.html",
+      "fixed_html_path": "releases/public-0.36.1/works/opif/index.html",
       "aliases": [],
       "passage_count": 172,
-      "json_sha256": "fdb8c9ab4afbccfa3e24acf596fc6b36dd1bf70f3665e5dc819b725f464d88b2"
+      "json_sha256": "96018ceb64866e9ed38ed1ffe033eb935bc4add3e9143872ea7828009bbcc8c2"
     },
     {
       "id": "pliny",
@@ -296,10 +296,10 @@
       "source_language": "lat",
       "html_path": "works/pliny/index.html",
       "json_path": "data/works/pliny.json",
-      "fixed_html_path": "releases/public-0.36/works/pliny/index.html",
+      "fixed_html_path": "releases/public-0.36.1/works/pliny/index.html",
       "aliases": [],
       "passage_count": 1981,
-      "json_sha256": "ddc99d8ff5a45ee37f2b528130bcdafa07495ac3ed598466beb8a3457aabc482"
+      "json_sha256": "05e06482594b47e628b2333ffec7184beb0929106eb970f149b0bba66bb53998"
     },
     {
       "id": "sir",
@@ -313,13 +313,13 @@
       "source_language": "grc",
       "html_path": "works/sir/index.html",
       "json_path": "data/works/sir.json",
-      "fixed_html_path": "releases/public-0.36/works/sir/index.html",
+      "fixed_html_path": "releases/public-0.36.1/works/sir/index.html",
       "aliases": [
         "시락서",
         "집회서(시락서)"
       ],
       "passage_count": 1402,
-      "json_sha256": "bc7ebb51f242ffba462c857d402cda42946e7bae07f91093d1a0d6ff78bdee09"
+      "json_sha256": "129bf9bf870de22c6603917781224d35403336bdc4b6a1ec727a114ecfb6aa55"
     },
     {
       "id": "vita",
@@ -333,13 +333,13 @@
       "source_language": "grc",
       "html_path": "works/vita/index.html",
       "json_path": "data/works/vita.json",
-      "fixed_html_path": "releases/public-0.36/works/vita/index.html",
+      "fixed_html_path": "releases/public-0.36.1/works/vita/index.html",
       "aliases": [
         "자서전",
         "Life of Josephus"
       ],
       "passage_count": 430,
-      "json_sha256": "12a40964ad5ca8b5af0d1b0f70c4e1b588c96d956852aa1c88110b27c5a761dc"
+      "json_sha256": "b0cdc93ba829a33e827dcc72f12024e2e61b8a078e4af4100af8d55503895a83"
     },
     {
       "id": "bar",
@@ -353,10 +353,10 @@
       "source_language": "grc",
       "html_path": "works/bar/index.html",
       "json_path": "data/works/bar.json",
-      "fixed_html_path": "releases/public-0.36/works/bar/index.html",
+      "fixed_html_path": "releases/public-0.36.1/works/bar/index.html",
       "aliases": [],
       "passage_count": 141,
-      "json_sha256": "c9f4b448efe1feaab874fe77d4ce34223a1aaba1ed834a1387091e04424e2916"
+      "json_sha256": "0c6c9e428469091cec8327b58dd20576f79a9af9e6bc3a168ff1527a1b4a662a"
     },
     {
       "id": "epjer",
@@ -370,14 +370,14 @@
       "source_language": "grc",
       "html_path": "works/epjer/index.html",
       "json_path": "data/works/epjer.json",
-      "fixed_html_path": "releases/public-0.36/works/epjer/index.html",
+      "fixed_html_path": "releases/public-0.36.1/works/epjer/index.html",
       "aliases": [
         "예레미야서신",
         "예레미야 서신",
         "바룩서 6장"
       ],
       "passage_count": 72,
-      "json_sha256": "7684d0a5d50e33c454439f4fa48ebc96a29bcf0bb35e3ae596461a7cd120bed6"
+      "json_sha256": "ba141c03a99b3259f90edfa28538a6025987e2067ebb8b6d0a8c1e54e87d70ac"
     },
     {
       "id": "prman",
@@ -391,10 +391,10 @@
       "source_language": "grc",
       "html_path": "works/prman/index.html",
       "json_path": "data/works/prman.json",
-      "fixed_html_path": "releases/public-0.36/works/prman/index.html",
+      "fixed_html_path": "releases/public-0.36.1/works/prman/index.html",
       "aliases": [],
       "passage_count": 15,
-      "json_sha256": "438570e2005710e7e49e25815a88f6cd128b1c899458705adb8833e578e34388"
+      "json_sha256": "2f46228f9212f4b1a4b77de3e2f18f2e5b4345ba87d76bab768dbe678250d0cc"
     },
     {
       "id": "sus-th",
@@ -408,14 +408,14 @@
       "source_language": "grc",
       "html_path": "works/sus-th/index.html",
       "json_path": "data/works/sus-th.json",
-      "fixed_html_path": "releases/public-0.36/works/sus-th/index.html",
+      "fixed_html_path": "releases/public-0.36.1/works/sus-th/index.html",
       "aliases": [
         "수산나",
         "Susanna",
         "Sousanna"
       ],
       "passage_count": 64,
-      "json_sha256": "843484c6e4249d58af8d07ac9ca32f4126181fecf7baa459a0719ab4da8db730"
+      "json_sha256": "fb6cab0e2c9965291209934cfc4cab237880c471831fea5a922780335c0b45c4"
     },
     {
       "id": "bel-th",
@@ -429,13 +429,13 @@
       "source_language": "grc",
       "html_path": "works/bel-th/index.html",
       "json_path": "data/works/bel-th.json",
-      "fixed_html_path": "releases/public-0.36/works/bel-th/index.html",
+      "fixed_html_path": "releases/public-0.36.1/works/bel-th/index.html",
       "aliases": [
         "벨과 용",
         "Bel and the Dragon"
       ],
       "passage_count": 42,
-      "json_sha256": "4cdd38241ddd54986b74c1d36e72464a57c5772efeafff0fb984f6611b7e4b5d"
+      "json_sha256": "d72ad3e5d8d415b29d6e90aa6f7d75fb7483813828e9207fb66c1d118b74b01b"
     },
     {
       "id": "tob-s",
@@ -449,7 +449,7 @@
       "source_language": "grc",
       "html_path": "works/tob-s/index.html",
       "json_path": "data/works/tob-s.json",
-      "fixed_html_path": "releases/public-0.36/works/tob-s/index.html",
+      "fixed_html_path": "releases/public-0.36.1/works/tob-s/index.html",
       "aliases": [
         "토빗",
         "토비트",
@@ -457,7 +457,7 @@
         "시내사본"
       ],
       "passage_count": 243,
-      "json_sha256": "31b4b3cc93d1ce77ae075e955cd4aec61263e4448a832b0cf505e525db0bf8d2"
+      "json_sha256": "9d8e249b990423b7bf0478674c89f095c348ec196fddfef2ad06506c4bb22749"
     },
     {
       "id": "jdt",
@@ -471,14 +471,14 @@
       "source_language": "grc",
       "html_path": "works/jdt/index.html",
       "json_path": "data/works/jdt.json",
-      "fixed_html_path": "releases/public-0.36/works/jdt/index.html",
+      "fixed_html_path": "releases/public-0.36.1/works/jdt/index.html",
       "aliases": [
         "유딧",
         "Judith",
         "Ioudith"
       ],
       "passage_count": 340,
-      "json_sha256": "0a1722f8d36146522815739da0168ec1b34c8dbb4423fae096358c09b408e13c"
+      "json_sha256": "886014bbf13c970567e44fdd41e05513b2852f96bb91e2e2b12a47e63656a3e6"
     },
     {
       "id": "macc3",
@@ -492,13 +492,13 @@
       "source_language": "grc",
       "html_path": "works/macc3/index.html",
       "json_path": "data/works/macc3.json",
-      "fixed_html_path": "releases/public-0.36/works/macc3/index.html",
+      "fixed_html_path": "releases/public-0.36.1/works/macc3/index.html",
       "aliases": [
         "제3마카베오기",
         "마카베오3서"
       ],
       "passage_count": 227,
-      "json_sha256": "c77c9c630b97ca1fce070c923029fbac3f81d10dd48579806fef803a9a8f19c8"
+      "json_sha256": "e6054afc02a4d7969d6a91980da309ee1153fb97f1267a7dc7cbb6c1b20bba57"
     },
     {
       "id": "macc4",
@@ -512,13 +512,13 @@
       "source_language": "grc",
       "html_path": "works/macc4/index.html",
       "json_path": "data/works/macc4.json",
-      "fixed_html_path": "releases/public-0.36/works/macc4/index.html",
+      "fixed_html_path": "releases/public-0.36.1/works/macc4/index.html",
       "aliases": [
         "제4마카베오기",
         "마카베오4서"
       ],
       "passage_count": 484,
-      "json_sha256": "a765c1a9c218f56d599ced90c1883bea68cd0ec0671a01a85fc81e4b6321a954"
+      "json_sha256": "54bc82655d113c05da9c9a9d32776411b43e6f6eb95495470b08539acaface76"
     },
     {
       "id": "enoch1",
@@ -532,14 +532,14 @@
       "source_language": "grc",
       "html_path": "works/enoch1/index.html",
       "json_path": "data/works/enoch1.json",
-      "fixed_html_path": "releases/public-0.36/works/enoch1/index.html",
+      "fixed_html_path": "releases/public-0.36.1/works/enoch1/index.html",
       "aliases": [
         "1에녹서",
         "제1에녹서",
         "Enoch"
       ],
       "passage_count": 1060,
-      "json_sha256": "cf74d62fc4b0a32708eb8b4cddd8839af22397c7fa13bc7fe051142cec9b13fd",
+      "json_sha256": "be597e0a940bb7414ceaeedf612c22d8568e430df2c35c26e3ef59b32db7ee84",
       "supplementary_works": [
         {
           "id": "enoch1-witnesses",
@@ -562,7 +562,7 @@
       "source_language": "grc",
       "html_path": "works/abrah/index.html",
       "json_path": "data/works/abrah.json",
-      "fixed_html_path": "releases/public-0.36/works/abrah/index.html",
+      "fixed_html_path": "releases/public-0.36.1/works/abrah/index.html",
       "aliases": [
         "아브라함에 관하여",
         "Abr.",
@@ -570,7 +570,7 @@
         "아브라함론"
       ],
       "passage_count": 276,
-      "json_sha256": "f1967af1bedb2950163610cff1e17591fc9e41bfdd66482a9d82370910f80f90"
+      "json_sha256": "6f8a14d69029d768a5c35c2b09716d37c81530ad7aa0dbb32a2c70753da95a5e"
     },
     {
       "id": "joseph",
@@ -584,7 +584,7 @@
       "source_language": "grc",
       "html_path": "works/joseph/index.html",
       "json_path": "data/works/joseph.json",
-      "fixed_html_path": "releases/public-0.36/works/joseph/index.html",
+      "fixed_html_path": "releases/public-0.36.1/works/joseph/index.html",
       "aliases": [
         "요셉에 관하여",
         "Jos.",
@@ -592,7 +592,7 @@
         "요셉론"
       ],
       "passage_count": 270,
-      "json_sha256": "a200b74f4c581ee1c8d2ef02c15336af692e5c56120098d6998d8a92373a5c25"
+      "json_sha256": "b512840ca7a953393baa419598a87ed299a9e89bcf8eefe89c87a267f5645bb1"
     },
     {
       "id": "moses",
@@ -606,14 +606,14 @@
       "source_language": "grc",
       "html_path": "works/moses/index.html",
       "json_path": "data/works/moses.json",
-      "fixed_html_path": "releases/public-0.36/works/moses/index.html",
+      "fixed_html_path": "releases/public-0.36.1/works/moses/index.html",
       "aliases": [
         "모세의 생애",
         "Mos.",
         "De vita Mosis (lib. i‑ii)"
       ],
       "passage_count": 626,
-      "json_sha256": "a22687f8814970df6aa091e2e7c22a39b0ddc2dace483454db5cbad86aef77c0"
+      "json_sha256": "f1381556f72d834eae67f3d51a8113a3fbb6716fc03d570b65863195884823b6"
     },
     {
       "id": "virt",
@@ -627,7 +627,7 @@
       "source_language": "grc",
       "html_path": "works/virt/index.html",
       "json_path": "data/works/virt.json",
-      "fixed_html_path": "releases/public-0.36/works/virt/index.html",
+      "fixed_html_path": "releases/public-0.36.1/works/virt/index.html",
       "aliases": [
         "덕에 관하여",
         "Virt.",
@@ -635,7 +635,7 @@
         "덕론"
       ],
       "passage_count": 227,
-      "json_sha256": "884ab907c6e8e1ffe618fb1ec363ff348820470fb8df43aa286cc4e150a6c3ad"
+      "json_sha256": "86de13051fe7332a4983d4a6ce40ccb64236116b05c29ba8b7ca03775770472c"
     },
     {
       "id": "prob",
@@ -649,7 +649,7 @@
       "source_language": "grc",
       "html_path": "works/prob/index.html",
       "json_path": "data/works/prob.json",
-      "fixed_html_path": "releases/public-0.36/works/prob/index.html",
+      "fixed_html_path": "releases/public-0.36.1/works/prob/index.html",
       "aliases": [
         "선한 사람은 모두 자유롭다",
         "Prob.",
@@ -657,7 +657,7 @@
         "자유론"
       ],
       "passage_count": 160,
-      "json_sha256": "d05dab5e095582b4921e15811e7857a40c2b469d0487abe58147f1b3c922ec57"
+      "json_sha256": "4ad76eb7ea2931e66136d81ba8d7e1a34098049c3a23c70345b330178fbeeb0a"
     },
     {
       "id": "contempl",
@@ -671,14 +671,14 @@
       "source_language": "grc",
       "html_path": "works/contempl/index.html",
       "json_path": "data/works/contempl.json",
-      "fixed_html_path": "releases/public-0.36/works/contempl/index.html",
+      "fixed_html_path": "releases/public-0.36.1/works/contempl/index.html",
       "aliases": [
         "관조적 삶에 관하여",
         "Contempl.",
         "De vita contemplativa"
       ],
       "passage_count": 90,
-      "json_sha256": "2e224f06c2db24c2708cae41382258f04743d59a5a4c684479a04b5280a1890c"
+      "json_sha256": "2fa5c32ec1c606aa2e8c82de88bfa590a629774ef86b2164e17fb218b926e6fb"
     },
     {
       "id": "esdras1",
@@ -692,13 +692,13 @@
       "source_language": "grc",
       "html_path": "works/esdras1/index.html",
       "json_path": "data/works/esdras1.json",
-      "fixed_html_path": "releases/public-0.36/works/esdras1/index.html",
+      "fixed_html_path": "releases/public-0.36.1/works/esdras1/index.html",
       "aliases": [
         "에스드라 제1서",
         "1 Esd."
       ],
       "passage_count": 431,
-      "json_sha256": "af6e2260009851eab8edbb52a6908783c7dee28b63b3f6f14bdae3c056236b84"
+      "json_sha256": "350961e841d92cd4d81d4e4aa636c9b49599aa765f0f6e4da359374e6554867a"
     },
     {
       "id": "ps151",
@@ -712,13 +712,13 @@
       "source_language": "grc",
       "html_path": "works/ps151/index.html",
       "json_path": "data/works/ps151.json",
-      "fixed_html_path": "releases/public-0.36/works/ps151/index.html",
+      "fixed_html_path": "releases/public-0.36.1/works/ps151/index.html",
       "aliases": [
         "시편 151편",
         "Ps.151"
       ],
       "passage_count": 7,
-      "json_sha256": "f9b7793c815880e80a0f27f671b06e2ced896fc29435d3ed299a8ced9da2001c"
+      "json_sha256": "0c687ce6f43a6a675957c17cbc05f5b08f53d985e3e875784405e07e3f58e490"
     },
     {
       "id": "praz",
@@ -732,13 +732,13 @@
       "source_language": "grc",
       "html_path": "works/praz/index.html",
       "json_path": "data/works/praz.json",
-      "fixed_html_path": "releases/public-0.36/works/praz/index.html",
+      "fixed_html_path": "releases/public-0.36.1/works/praz/index.html",
       "aliases": [
         "아자랴의 기도",
         "Pr. Az."
       ],
       "passage_count": 20,
-      "json_sha256": "60a4f7e27d712580589fdd556ea307293f97e84c400c3276b5b8306de36799db"
+      "json_sha256": "59a9596560767db123aa458336187cba02cdf4348172c435a2a927f93c247cae"
     },
     {
       "id": "song3",
@@ -752,13 +752,13 @@
       "source_language": "grc",
       "html_path": "works/song3/index.html",
       "json_path": "data/works/song3.json",
-      "fixed_html_path": "releases/public-0.36/works/song3/index.html",
+      "fixed_html_path": "releases/public-0.36.1/works/song3/index.html",
       "aliases": [
         "세 젊은이의 찬가",
         "Song3"
       ],
       "passage_count": 37,
-      "json_sha256": "071d4717175a46d856d12156f4a90895013e6b5e00fc1164e163a4f6123a6872"
+      "json_sha256": "d380b4b677c45450c4fcc2dede4bbf8da6db19b36d8c186bdf8187f7915ace35"
     },
     {
       "id": "leg",
@@ -772,14 +772,14 @@
       "source_language": "grc",
       "html_path": "works/leg/index.html",
       "json_path": "data/works/leg.json",
-      "fixed_html_path": "releases/public-0.36/works/leg/index.html",
+      "fixed_html_path": "releases/public-0.36.1/works/leg/index.html",
       "aliases": [
         "율법의 알레고리",
         "Leg.",
         "Legum allegoriae"
       ],
       "passage_count": 469,
-      "json_sha256": "19a028d5575ba8e5668f607257c865e21cd01843312050b8f7513051cd59f2c7"
+      "json_sha256": "00969a5fbbb481d4ccc7ee7885deb6b676582da05f6a12d66fb4b30424154eca"
     },
     {
       "id": "cher",
@@ -793,14 +793,14 @@
       "source_language": "grc",
       "html_path": "works/cher/index.html",
       "json_path": "data/works/cher.json",
-      "fixed_html_path": "releases/public-0.36/works/cher/index.html",
+      "fixed_html_path": "releases/public-0.36.1/works/cher/index.html",
       "aliases": [
         "케루빔에 관하여",
         "Cher.",
         "De cherubim"
       ],
       "passage_count": 130,
-      "json_sha256": "c014faf3d0e36f155f26aabb96b86ab842aa67864573ca1ea97072b3480b53ec"
+      "json_sha256": "236f441b73cd46e9691c0bceb3b19f130580a08934020b7a4d68b0f6fd001439"
     },
     {
       "id": "sacr",
@@ -814,14 +814,14 @@
       "source_language": "grc",
       "html_path": "works/sacr/index.html",
       "json_path": "data/works/sacr.json",
-      "fixed_html_path": "releases/public-0.36/works/sacr/index.html",
+      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html",
       "aliases": [
         "아벨과 카인의 제사에 관하여",
         "Sacr.",
         "De sacrificiis Abelis et Caini"
       ],
       "passage_count": 139,
-      "json_sha256": "94985b105a734a3dd47bbbc7107478c28bdf9af7524ba2e87f6e445ba5887b0a"
+      "json_sha256": "c9edad997d87cafa20b8b9b7c66d2f62ab84625acc499bc9f31714648fb6b861"
     },
     {
       "id": "det",
@@ -835,14 +835,14 @@
       "source_language": "grc",
       "html_path": "works/det/index.html",
       "json_path": "data/works/det.json",
-      "fixed_html_path": "releases/public-0.36/works/det/index.html",
+      "fixed_html_path": "releases/public-0.36.1/works/det/index.html",
       "aliases": [
         "악한 자가 선한 자를 공격함",
         "Det.",
         "Quod deterius potiori insidiari soleat"
       ],
       "passage_count": 178,
-      "json_sha256": "bd9d101ec3a1949cbb9a88b16353bd12a82d8be3da5ea4feb31276857232c6c9"
+      "json_sha256": "2239ce000b0a0f20746e9059006c5cba4ca825906a48ddc3fe93c6466a73ab97"
     },
     {
       "id": "post",
@@ -856,14 +856,14 @@
       "source_language": "grc",
       "html_path": "works/post/index.html",
       "json_path": "data/works/post.json",
-      "fixed_html_path": "releases/public-0.36/works/post/index.html",
+      "fixed_html_path": "releases/public-0.36.1/works/post/index.html",
       "aliases": [
         "카인의 후손에 관하여",
         "Post.",
         "De posteritate Caini"
       ],
       "passage_count": 185,
-      "json_sha256": "3077eb710c8d762ee55fdd5ac45815a021a1e4a1effa8155c191b7c4ea8421ba"
+      "json_sha256": "171b0d8176c313d0505a4ef11193b9f8841820287270f4dc79c446e779de65d9"
     },
     {
       "id": "gig",
@@ -877,14 +877,14 @@
       "source_language": "grc",
       "html_path": "works/gig/index.html",
       "json_path": "data/works/gig.json",
-      "fixed_html_path": "releases/public-0.36/works/gig/index.html",
+      "fixed_html_path": "releases/public-0.36.1/works/gig/index.html",
       "aliases": [
         "거인들에 관하여",
         "Gig.",
         "De gigantibus"
       ],
       "passage_count": 67,
-      "json_sha256": "7dc9f35168852dd2f0458fe76b2f3524a7dfb72194e4e5248fa9f354f35fabaf"
+      "json_sha256": "7dcf51030b14e32230bccca9fbb2ef124bd82b1843e328dcfed72897745dd5e3"
     },
     {
       "id": "deus",
@@ -898,14 +898,14 @@
       "source_language": "grc",
       "html_path": "works/deus/index.html",
       "json_path": "data/works/deus.json",
-      "fixed_html_path": "releases/public-0.36/works/deus/index.html",
+      "fixed_html_path": "releases/public-0.36.1/works/deus/index.html",
       "aliases": [
         "하나님의 불변성에 관하여",
         "Deus",
         "Quod Deus sit immutabilis"
       ],
       "passage_count": 183,
-      "json_sha256": "ae6c6048a2b4e0a01d99dac9ab8ba742645e24c0e4dea6d2e55a75160c4ae75d"
+      "json_sha256": "e1fffda00cc3252565dda14a4dcc70d32a65ea85cfa5834365b891936660fcb5"
     },
     {
       "id": "agr",
@@ -919,14 +919,14 @@
       "source_language": "grc",
       "html_path": "works/agr/index.html",
       "json_path": "data/works/agr.json",
-      "fixed_html_path": "releases/public-0.36/works/agr/index.html",
+      "fixed_html_path": "releases/public-0.36.1/works/agr/index.html",
       "aliases": [
         "농사에 관하여",
         "Agr.",
         "De agricultura"
       ],
       "passage_count": 181,
-      "json_sha256": "8ce982ce88d9f9412af6865ebb0416f995dbf6ef824eeef1e5bf136671360883"
+      "json_sha256": "4d5a979e390148cef96fbae912179e8243fcdccf46c641b02066df3e934ce8be"
     },
     {
       "id": "plant",
@@ -940,14 +940,14 @@
       "source_language": "grc",
       "html_path": "works/plant/index.html",
       "json_path": "data/works/plant.json",
-      "fixed_html_path": "releases/public-0.36/works/plant/index.html",
+      "fixed_html_path": "releases/public-0.36.1/works/plant/index.html",
       "aliases": [
         "나무 심기에 관하여",
         "Plant.",
         "De plantatione"
       ],
       "passage_count": 177,
-      "json_sha256": "ad46a66e118048f753269f175a2594b7a5a9e9d877f7b38d2c0491cc163f3cac"
+      "json_sha256": "201a1fe73606eece1db6f495079ca53714ac503a6f48242c76243f8d53684031"
     },
     {
       "id": "conf",
@@ -961,14 +961,14 @@
       "source_language": "grc",
       "html_path": "works/conf/index.html",
       "json_path": "data/works/conf.json",
-      "fixed_html_path": "releases/public-0.36/works/conf/index.html",
+      "fixed_html_path": "releases/public-0.36.1/works/conf/index.html",
       "aliases": [
         "언어의 혼란에 관하여",
         "Conf.",
         "De confusione linguarum"
       ],
       "passage_count": 198,
-      "json_sha256": "8158cfbdd8c4c010df823618e88e6167674e2a84fdac30399eeff0ef81e62cc2"
+      "json_sha256": "afd4a254133c1b4ee949f9c12fc86ad8751b5159fa6bcba7fc6ad1cd56ee952a"
     }
   ],
   "passage_index": {
@@ -998,7 +998,7 @@
     ],
     "detail_source": "work_json_path",
     "detail_key": "work_passage_id",
-    "sha256": "7833f4c4e63c956f5b50feb25b5404528c43ed4a2d0133b1bd6d0a054331e346"
+    "sha256": "dc38803f2510fbe1ca86a34642b08858d4708f8ec4d58d51c53cc01f493322c3"
   },
   "supplementary_works": [
     {
@@ -1013,10 +1013,10 @@
       "source_language": "grc",
       "html_path": "works/enoch1-witnesses/index.html",
       "json_path": "data/works/enoch1-witnesses.json",
-      "fixed_html_path": "releases/public-0.36/works/enoch1-witnesses/index.html",
+      "fixed_html_path": "releases/public-0.36.1/works/enoch1-witnesses/index.html",
       "aliases": [],
       "passage_count": 74,
-      "json_sha256": "d9488e2b7f59fef74654db5cfcc34afa4d1dd323408427c861cf99c398a7b871",
+      "json_sha256": "b969996b4a87ec020f1aa5d2318c9de59d2397b7d041202f1745402b7a2309c9",
       "parent_work_id": "enoch1",
       "supplementary": true,
       "link_label": "그리스어 대조본문 보기"
@@ -1052,7 +1052,7 @@
     ],
     "detail_source": "work_json_path",
     "detail_key": "work_passage_id",
-    "sha256": "1f5c618f4e785ba033d7763ab54877e63692ce2c313aee269a7fac42a491a21e"
+    "sha256": "44ca827c6e7e5dfd2d810599f666d429ee36302ec1ede18d7e2c769d62cc216e"
   },
   "search_index": {
     "schema_version": "ancient-library-search-1",
