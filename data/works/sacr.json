@@ -101,7 +101,7 @@
       ],
       "work_passage_id": "sacr:1",
       "html_path": "works/sacr/index.html#p-1",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-1",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-1",
       "alignment_revision": "sha256:e2d5c01de611729cc28703c847a6fde08e143436e7237c73e39dd9fbbac4854a",
       "review_state": {
         "human_reviewed": false,
@@ -137,9 +137,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "1",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:d05665a8ad9d2f9d800b80ccdfaa278cefbe4f88078d53dbdbe7fa0a16b9d5ae",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-1"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-1"
       }
     },
     {
@@ -232,7 +232,7 @@
       ],
       "work_passage_id": "sacr:2",
       "html_path": "works/sacr/index.html#p-2",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-2",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-2",
       "alignment_revision": "sha256:58a9f9fb7d983b102f89c1b7f54c63f793f235412d7efec5b2318c7f37f5b682",
       "review_state": {
         "human_reviewed": false,
@@ -268,9 +268,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "2",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:2729744ff0bf9fc6cc7200dbec7bfa1c737ba3ffc52be81973dfdde9a01aab60",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-2"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-2"
       }
     },
     {
@@ -371,7 +371,7 @@
       "notes": [],
       "work_passage_id": "sacr:3",
       "html_path": "works/sacr/index.html#p-3",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-3",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-3",
       "alignment_revision": "sha256:705a531b3deeecb68f1e5fb4482b6df0b4e40b1dd0c4d5eb6aa85094082bd574",
       "review_state": {
         "human_reviewed": false,
@@ -407,9 +407,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "3",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:d48c51b2186ecb52384f4f6aa71f07254cfa09c6d83d6c105efcc75bd3978185",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-3"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-3"
       }
     },
     {
@@ -541,7 +541,7 @@
       ],
       "work_passage_id": "sacr:4",
       "html_path": "works/sacr/index.html#p-4",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-4",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-4",
       "alignment_revision": "sha256:8cfc6ad9bf09e86eead4cd34b965fa4cbeef27d753f979b9cc138395aadfc380",
       "review_state": {
         "human_reviewed": false,
@@ -577,9 +577,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "4",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:717af5622a0b42f6153cf1203f5750a67e218d6f0ba963ee15fdfeeaf964eef7",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-4"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-4"
       }
     },
     {
@@ -667,7 +667,7 @@
       "notes": [],
       "work_passage_id": "sacr:5",
       "html_path": "works/sacr/index.html#p-5",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-5",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-5",
       "alignment_revision": "sha256:55ecad03f29e55f86008caf2a74bd6eea24ed7e5d62c17c119bf88d070af2b2e",
       "review_state": {
         "human_reviewed": false,
@@ -703,9 +703,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "5",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:4f165283d5d6a4bbb21e9e9fa3c6287be12d6a70c24c27c282611c995a7661bc",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-5"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-5"
       }
     },
     {
@@ -767,7 +767,7 @@
       "notes": [],
       "work_passage_id": "sacr:6",
       "html_path": "works/sacr/index.html#p-6",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-6",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-6",
       "alignment_revision": "sha256:883ed1b7aeeb6e0363c2704c857734a4f6252af9a5a1a966730b8c7a446e1469",
       "review_state": {
         "human_reviewed": false,
@@ -803,9 +803,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "6",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:6987062f51b313666f6b2bee404b5dbf35c71bd7c62513d3b57a11aa504404bf",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-6"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-6"
       }
     },
     {
@@ -896,7 +896,7 @@
       "notes": [],
       "work_passage_id": "sacr:7",
       "html_path": "works/sacr/index.html#p-7",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-7",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-7",
       "alignment_revision": "sha256:f50658affa3e023c38fa7eb57abe4747a2b659a69839d8abe495fc17f6e15feb",
       "review_state": {
         "human_reviewed": false,
@@ -932,9 +932,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "7",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:d77604e8ffbecc094106e48d2c621acd782aea42a75c665a48c9795612bfdfaf",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-7"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-7"
       }
     },
     {
@@ -1050,7 +1050,7 @@
       ],
       "work_passage_id": "sacr:8",
       "html_path": "works/sacr/index.html#p-8",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-8",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-8",
       "alignment_revision": "sha256:befb3f4d430661e27b4c4965d8fe9bce1924ce8160a02dadf600df48d5d3a1fa",
       "review_state": {
         "human_reviewed": false,
@@ -1086,9 +1086,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "8",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:8f66632058c5f618ef378b78ca735680d50f32f958dc414171f406b7ab79ccff",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-8"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-8"
       }
     },
     {
@@ -1194,7 +1194,7 @@
       ],
       "work_passage_id": "sacr:9",
       "html_path": "works/sacr/index.html#p-9",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-9",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-9",
       "alignment_revision": "sha256:8ed37d2dce58eb9501a502092d93ebdd561683bc1af066a8a63edc4d2750f2fa",
       "review_state": {
         "human_reviewed": false,
@@ -1230,9 +1230,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "9",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:0b333fd92b43a755aeb14e0ac2008938627492338513a2369b58ef199bc5060c",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-9"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-9"
       }
     },
     {
@@ -1346,7 +1346,7 @@
       "notes": [],
       "work_passage_id": "sacr:10",
       "html_path": "works/sacr/index.html#p-10",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-10",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-10",
       "alignment_revision": "sha256:715bc09280182253b20b0e06ccee8d78ae1878d55fb1e0214a332e451e32ad80",
       "review_state": {
         "human_reviewed": false,
@@ -1382,9 +1382,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "10",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:72403835c0c65f4250575d78c4682529b822be79de92dcd2df94ce66352938cb",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-10"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-10"
       }
     },
     {
@@ -1446,7 +1446,7 @@
       "notes": [],
       "work_passage_id": "sacr:11",
       "html_path": "works/sacr/index.html#p-11",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-11",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-11",
       "alignment_revision": "sha256:fcbcb9bc5b47a5fc4729527779569aeb1bc2782c48e1e2c9162e9d3f3e7afbc8",
       "review_state": {
         "human_reviewed": false,
@@ -1482,9 +1482,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "11",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:cafd98e59663f6e57ffd3c6ebff5d1403cc40c0681869da3b62a8c67fce37e2c",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-11"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-11"
       }
     },
     {
@@ -1564,7 +1564,7 @@
       ],
       "work_passage_id": "sacr:12",
       "html_path": "works/sacr/index.html#p-12",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-12",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-12",
       "alignment_revision": "sha256:c0450b44664938e688ef2d5277d2214ac16e71feeec4469c3653b75493c91df5",
       "review_state": {
         "human_reviewed": false,
@@ -1600,9 +1600,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "12",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:6e5e56b87c4cd311d6133f79c1d5ba42c74bb3fe5feb667355f978e00660bf3a",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-12"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-12"
       }
     },
     {
@@ -1664,7 +1664,7 @@
       "notes": [],
       "work_passage_id": "sacr:13",
       "html_path": "works/sacr/index.html#p-13",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-13",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-13",
       "alignment_revision": "sha256:a3891529378050ec75bad5a16ffcd2bcc382124d3bd8bbebd0c63ab230c736da",
       "review_state": {
         "human_reviewed": false,
@@ -1700,9 +1700,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "13",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:1a8b3221ea87489ce6fd05e5d709ea24eb68fb8975d6b290c4a6f3180f94e8aa",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-13"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-13"
       }
     },
     {
@@ -1777,7 +1777,7 @@
       "notes": [],
       "work_passage_id": "sacr:14",
       "html_path": "works/sacr/index.html#p-14",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-14",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-14",
       "alignment_revision": "sha256:57164e3c08743ce9ae826112caa03a83281054b761ab04eb8a2cefa22c35ece0",
       "review_state": {
         "human_reviewed": false,
@@ -1813,9 +1813,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "14",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:2dc37d28b5a1d8e4f668c70170a6968e72acdb90ebf4d6251107f0ab0115f302",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-14"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-14"
       }
     },
     {
@@ -1890,7 +1890,7 @@
       "notes": [],
       "work_passage_id": "sacr:15",
       "html_path": "works/sacr/index.html#p-15",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-15",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-15",
       "alignment_revision": "sha256:eb3b0e3630301a246e7609dfa902f6d469b549e04b25eee7f0d048ed81d4a231",
       "review_state": {
         "human_reviewed": false,
@@ -1926,9 +1926,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "15",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:e8b222cbb31d90bb59588921ad916cfd0c82c103d2afc672936b11eb01040131",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-15"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-15"
       }
     },
     {
@@ -2006,7 +2006,7 @@
       "notes": [],
       "work_passage_id": "sacr:16",
       "html_path": "works/sacr/index.html#p-16",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-16",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-16",
       "alignment_revision": "sha256:973282c561e72f01f56060f3b68f2044022f7aab02f55e1adfc5dac79ae44cd2",
       "review_state": {
         "human_reviewed": false,
@@ -2042,9 +2042,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "16",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:ba12f0f5aeaf2f4f1e18fa339337d4cd17500bd49e05d057d9e892e978bcf2da",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-16"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-16"
       }
     },
     {
@@ -2132,7 +2132,7 @@
       "notes": [],
       "work_passage_id": "sacr:17",
       "html_path": "works/sacr/index.html#p-17",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-17",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-17",
       "alignment_revision": "sha256:879dcebf274d4607b62b539b6ab3bd8b8b7262d54e9cf9dbdb0e1d59b6555258",
       "review_state": {
         "human_reviewed": false,
@@ -2168,9 +2168,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "17",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:aa55d8713a3eda962d45b77320901094394fb21eabc8bcc447116449d9c91e20",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-17"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-17"
       }
     },
     {
@@ -2232,7 +2232,7 @@
       "notes": [],
       "work_passage_id": "sacr:18",
       "html_path": "works/sacr/index.html#p-18",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-18",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-18",
       "alignment_revision": "sha256:671dec231e9fe3ffe66d9f00ba247a589e84a351baace8f7108d7979e9972db2",
       "review_state": {
         "human_reviewed": false,
@@ -2268,9 +2268,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "18",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:aaff977453530bc4ffa4a14bcf736b23169008251c7ade3f20df88f5d9adbc1d",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-18"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-18"
       }
     },
     {
@@ -2402,7 +2402,7 @@
       ],
       "work_passage_id": "sacr:19",
       "html_path": "works/sacr/index.html#p-19",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-19",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-19",
       "alignment_revision": "sha256:6a3380a1b6f187f7f58c15c3c817fda56e3a715f47781c0b20b026c9e1326d9e",
       "review_state": {
         "human_reviewed": false,
@@ -2438,9 +2438,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "19",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:e6bf44074714a255bcab533d32d8a501907737b0bf7499c207ec6046ec4e48a6",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-19"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-19"
       }
     },
     {
@@ -2562,7 +2562,7 @@
       ],
       "work_passage_id": "sacr:20",
       "html_path": "works/sacr/index.html#p-20",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-20",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-20",
       "alignment_revision": "sha256:0236d5cf1967876b7d7c7135732f80b9fae3bff27e8e60e430c60236eea7b691",
       "review_state": {
         "human_reviewed": false,
@@ -2598,9 +2598,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "20",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:6bbc58ea8834eef68e6507073b7877eb8e1b4130372c9978c3d8be5b6368ed6d",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-20",
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-20",
         "collation_edition": "Cohn 1896, vol. 1"
       }
     },
@@ -2728,7 +2728,7 @@
       ],
       "work_passage_id": "sacr:21",
       "html_path": "works/sacr/index.html#p-21",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-21",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-21",
       "alignment_revision": "sha256:ef9f4ba08f0d9a62d1495236a88b5e4f2de8a2def43c1a2eb34598f88d61cae5",
       "review_state": {
         "human_reviewed": false,
@@ -2764,9 +2764,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "21",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:8d18e530f5a634b0c2ff35e509f3bf134dab748317c530c7b648a606894a7823",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-21"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-21"
       }
     },
     {
@@ -2855,7 +2855,7 @@
       "notes": [],
       "work_passage_id": "sacr:22",
       "html_path": "works/sacr/index.html#p-22",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-22",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-22",
       "alignment_revision": "sha256:1a491ccb29771c22ce66255a86addecd81fa4af639a0b3bfa941d6361068d7f9",
       "review_state": {
         "human_reviewed": false,
@@ -2891,9 +2891,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "22",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:333cddfa33f3b05d43f98a20fb2fcda6f8338fb3a78e90aaa0aca15dc91b9ffc",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-22"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-22"
       }
     },
     {
@@ -2979,7 +2979,7 @@
       "notes": [],
       "work_passage_id": "sacr:23",
       "html_path": "works/sacr/index.html#p-23",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-23",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-23",
       "alignment_revision": "sha256:c649a1cfbd92f7a1b694f4c8626cded10c5d869f63df6fd2f3f428f3bad3cade",
       "review_state": {
         "human_reviewed": false,
@@ -3015,9 +3015,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "23",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:c3b804a3f1cd5115381e174ce979edc09577e318a26ae166eedbf17901395340",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-23"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-23"
       }
     },
     {
@@ -3090,7 +3090,7 @@
       "notes": [],
       "work_passage_id": "sacr:24",
       "html_path": "works/sacr/index.html#p-24",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-24",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-24",
       "alignment_revision": "sha256:a6f8926f15ba1c447b6d52766c7c0a3b92d554a4bdacfc40c0dfd9aaeadf49a5",
       "review_state": {
         "human_reviewed": false,
@@ -3126,9 +3126,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "24",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:a134d38c96194215efe38e1dcb8455d35ac366605d33095c6975e8841098f671",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-24"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-24"
       }
     },
     {
@@ -3243,7 +3243,7 @@
       "notes": [],
       "work_passage_id": "sacr:25",
       "html_path": "works/sacr/index.html#p-25",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-25",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-25",
       "alignment_revision": "sha256:67c1cd20868d6c746efbd89bf4b7ddae1d3757325e65ed354b9f86a867c6f306",
       "review_state": {
         "human_reviewed": false,
@@ -3279,9 +3279,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "25",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:1129240ff9709d516ee41e61aa64b730adac3f671f252cf5a7161997f4118cb2",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-25"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-25"
       }
     },
     {
@@ -3421,7 +3421,7 @@
       ],
       "work_passage_id": "sacr:26",
       "html_path": "works/sacr/index.html#p-26",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-26",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-26",
       "alignment_revision": "sha256:7c711d74d8c1ca375f4e83cb066ab85549c1ffd93ed0269bbc2e400a581a63df",
       "review_state": {
         "human_reviewed": false,
@@ -3457,9 +3457,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "26",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:b821d8a89a214275c0a67c04726a5d8d5f2c56a0abcee3d71639d0b47b5b28d6",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-26"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-26"
       }
     },
     {
@@ -3561,7 +3561,7 @@
       "notes": [],
       "work_passage_id": "sacr:27",
       "html_path": "works/sacr/index.html#p-27",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-27",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-27",
       "alignment_revision": "sha256:6c633fc86c46a61b435d85404c22b8bf4519499211fb06654a406ca03dc52b2b",
       "review_state": {
         "human_reviewed": false,
@@ -3597,9 +3597,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "27",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:af5af66adbcfca4911a889b6bb656dd55665347926d0f5cd3e40badd85d84e45",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-27"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-27"
       }
     },
     {
@@ -3698,7 +3698,7 @@
       "notes": [],
       "work_passage_id": "sacr:28",
       "html_path": "works/sacr/index.html#p-28",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-28",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-28",
       "alignment_revision": "sha256:5958c481b216ec6e6bd4d014b30f66f8226d4fe0d5b22c00c4e9f2f48d4d2385",
       "review_state": {
         "human_reviewed": false,
@@ -3734,9 +3734,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "28",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:ec2b82db42d06b2c61171e5632a96e44ec2aa79adc89e2208761a2d5f0fb20af",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-28"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-28"
       }
     },
     {
@@ -3864,7 +3864,7 @@
       "notes": [],
       "work_passage_id": "sacr:29",
       "html_path": "works/sacr/index.html#p-29",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-29",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-29",
       "alignment_revision": "sha256:1291426c999114d04b627788a330af23e14667ea16992c368061397cc3a8716d",
       "review_state": {
         "human_reviewed": false,
@@ -3900,9 +3900,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "29",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:79caf906e19da0431051969ebfeef589c7a1c06ff4e02400e379c647f0f9a1f0",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-29"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-29"
       }
     },
     {
@@ -4014,7 +4014,7 @@
       "notes": [],
       "work_passage_id": "sacr:30",
       "html_path": "works/sacr/index.html#p-30",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-30",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-30",
       "alignment_revision": "sha256:cf6ad3a8c71710b3b835e9ee8800d7cd194fe36337c5f312a21cc9c7dbd42acd",
       "review_state": {
         "human_reviewed": false,
@@ -4050,9 +4050,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "30",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:98cf268cb9b9ccccb80c0af765956a5c23b66e78652847beacb533af50d25ec3",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-30"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-30"
       }
     },
     {
@@ -4151,7 +4151,7 @@
       "notes": [],
       "work_passage_id": "sacr:31",
       "html_path": "works/sacr/index.html#p-31",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-31",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-31",
       "alignment_revision": "sha256:56f81bd81d58f97759a2e073b64b86ea77bebce39db592121205780d40fe7d59",
       "review_state": {
         "human_reviewed": false,
@@ -4187,9 +4187,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "31",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:7c9c333fc58900f4e74ffbeea7f06415d995e373ca0242b06c6948227ccc0ab1",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-31"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-31"
       }
     },
     {
@@ -4449,7 +4449,7 @@
       ],
       "work_passage_id": "sacr:32",
       "html_path": "works/sacr/index.html#p-32",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-32",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-32",
       "alignment_revision": "sha256:c2540969bf3b7328f1df8e0f0d9f6b8c1fef90753c467c174244f352380d6cfb",
       "review_state": {
         "human_reviewed": false,
@@ -4485,9 +4485,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "32",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:0db1d84843e01c4f03fe84df43c92978520e3337b2f2f33d75425acce2b6df63",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-32"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-32"
       }
     },
     {
@@ -4602,7 +4602,7 @@
       "notes": [],
       "work_passage_id": "sacr:33",
       "html_path": "works/sacr/index.html#p-33",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-33",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-33",
       "alignment_revision": "sha256:251c6951e9db4ca8396b444e4bac5663981e8dce354ee01959ef4eaf9e51d232",
       "review_state": {
         "human_reviewed": false,
@@ -4638,9 +4638,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "33",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:9f1df998a904ef1c57ad64f07031136d66033030742678676deb9d9ec577c382",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-33"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-33"
       }
     },
     {
@@ -4726,7 +4726,7 @@
       "notes": [],
       "work_passage_id": "sacr:34",
       "html_path": "works/sacr/index.html#p-34",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-34",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-34",
       "alignment_revision": "sha256:e97c84355b0522b3825832a96e5b8ff6cf7c74110c4c726897f964f110c10623",
       "review_state": {
         "human_reviewed": false,
@@ -4762,9 +4762,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "34",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:3440097819e7f4ff58cdc73d6fb7d513c9c1c29a1e1fb086d06a3e712e62483b",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-34"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-34"
       }
     },
     {
@@ -4868,7 +4868,7 @@
       ],
       "work_passage_id": "sacr:35",
       "html_path": "works/sacr/index.html#p-35",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-35",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-35",
       "alignment_revision": "sha256:42528859fcd11a9fa5230b7fa6280f7eba3e509d5ce590db859b0e2e4e6fac29",
       "review_state": {
         "human_reviewed": false,
@@ -4904,9 +4904,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "35",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:2a00ccfd536513a340e73ec94bfeaf59b0272f03f76669e6c9b8417750d9e8b2",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-35"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-35"
       }
     },
     {
@@ -5005,7 +5005,7 @@
       "notes": [],
       "work_passage_id": "sacr:36",
       "html_path": "works/sacr/index.html#p-36",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-36",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-36",
       "alignment_revision": "sha256:bc5ee94c798291a1365f1964880f2bf766e0d6eec526bb8485d0723c91217e17",
       "review_state": {
         "human_reviewed": false,
@@ -5041,9 +5041,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "36",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:93f38413a556b3f189bd8999c35064769497499f9b2cfc605f35052df1fe7834",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-36"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-36"
       }
     },
     {
@@ -5181,7 +5181,7 @@
       "notes": [],
       "work_passage_id": "sacr:37",
       "html_path": "works/sacr/index.html#p-37",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-37",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-37",
       "alignment_revision": "sha256:40c5bee0398960632de7187bffa6729367975676bbe33735b4e8295b15e6d14f",
       "review_state": {
         "human_reviewed": false,
@@ -5217,9 +5217,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "37",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:1d112d1b642ab90edb6540d8bac36a1e50bc55861d5845c14fa0e29ef9b3a9b8",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-37"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-37"
       }
     },
     {
@@ -5308,7 +5308,7 @@
       "notes": [],
       "work_passage_id": "sacr:38",
       "html_path": "works/sacr/index.html#p-38",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-38",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-38",
       "alignment_revision": "sha256:24aa19fecf3552d52eeaa84ccbdbf57b7d2de5121ec9fca471f61c8be9de000e",
       "review_state": {
         "human_reviewed": false,
@@ -5344,9 +5344,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "38",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:7750bbf226ed0631d9ac5311bd9f7bb01683dc0523dcf362eb740ce31216cb66",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-38"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-38"
       }
     },
     {
@@ -5432,7 +5432,7 @@
       "notes": [],
       "work_passage_id": "sacr:39",
       "html_path": "works/sacr/index.html#p-39",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-39",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-39",
       "alignment_revision": "sha256:9b9d0d4b41b26a5fcb558c5b86cf334d0df864ebaa54b1013d064d731e4450ba",
       "review_state": {
         "human_reviewed": false,
@@ -5468,9 +5468,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "39",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:91f32fb6bd945a605f76feb05807d61ba4a5f4588c9898fa26caff8bb36157a1",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-39"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-39"
       }
     },
     {
@@ -5582,7 +5582,7 @@
       "notes": [],
       "work_passage_id": "sacr:40",
       "html_path": "works/sacr/index.html#p-40",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-40",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-40",
       "alignment_revision": "sha256:9e325ad0c86d5a5a59bc05b926511ff52c03ed725179947c3f46b7a6e317ce1b",
       "review_state": {
         "human_reviewed": false,
@@ -5618,9 +5618,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "40",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:c0882114b8bc076c576e25d1816ff27ca4a5947621350da15d6def6644b65152",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-40"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-40"
       }
     },
     {
@@ -5748,7 +5748,7 @@
       "notes": [],
       "work_passage_id": "sacr:41",
       "html_path": "works/sacr/index.html#p-41",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-41",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-41",
       "alignment_revision": "sha256:b67a2ef2fa87f80902cf876c02b03bec29981eb612b181813c8306d4652802e2",
       "review_state": {
         "human_reviewed": false,
@@ -5784,9 +5784,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "41",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:7dcc177c6872995fb55aa861e4ed50026c990518db327cc14e8a62a5953768e2",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-41"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-41"
       }
     },
     {
@@ -5900,7 +5900,7 @@
       ],
       "work_passage_id": "sacr:42",
       "html_path": "works/sacr/index.html#p-42",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-42",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-42",
       "alignment_revision": "sha256:7929fe7b7dfe55606af54963feb8b0917c74c66816b0c452d7c1c0f929255e87",
       "review_state": {
         "human_reviewed": false,
@@ -5936,9 +5936,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "42",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:82632020f00bf7d2bb418322b6cdabbb89baecbb2ac35e29c4003eb7a8a2b6e4",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-42"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-42"
       }
     },
     {
@@ -6068,7 +6068,7 @@
       ],
       "work_passage_id": "sacr:43",
       "html_path": "works/sacr/index.html#p-43",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-43",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-43",
       "alignment_revision": "sha256:bb1f3c5da784813dbf0db2b039b00f1200599e738278674ce4108dc4b5ab83f3",
       "review_state": {
         "human_reviewed": false,
@@ -6104,9 +6104,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "43",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:080c767d92a027bb7bcc65385d75f681af977b0d83cde4da1b2c1d59d4d9cab6",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-43"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-43"
       }
     },
     {
@@ -6205,7 +6205,7 @@
       "notes": [],
       "work_passage_id": "sacr:44",
       "html_path": "works/sacr/index.html#p-44",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-44",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-44",
       "alignment_revision": "sha256:2d4551bf6cd398909934fa7b19e040cfa0f417ecb50447085ba290e095d009ac",
       "review_state": {
         "human_reviewed": false,
@@ -6241,9 +6241,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "44",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:eb95bd6c4e2497ed2437498b135109895b1a3b81f58e2b53c0dbea4958dd3b6f",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-44"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-44"
       }
     },
     {
@@ -6329,7 +6329,7 @@
       "notes": [],
       "work_passage_id": "sacr:45",
       "html_path": "works/sacr/index.html#p-45",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-45",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-45",
       "alignment_revision": "sha256:a0ad24bc49856383a1c5709d2257af09f38bcf698a876fad0177430cd1dc24f6",
       "review_state": {
         "human_reviewed": false,
@@ -6365,9 +6365,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "45",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:9738256cee1712766d6c85b43403983b30e6dd1f67389466841cded8b3eb143b",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-45"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-45"
       }
     },
     {
@@ -6481,7 +6481,7 @@
       ],
       "work_passage_id": "sacr:46",
       "html_path": "works/sacr/index.html#p-46",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-46",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-46",
       "alignment_revision": "sha256:8448649917025e385b5807c665a17f714f09847d786fcf1157ca18c9f94bc71b",
       "review_state": {
         "human_reviewed": false,
@@ -6517,9 +6517,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "46",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:3bf5d3f95c55a4f5352cc7ae8941bc5c055c1eee921d35816b27c6c501808b39",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-46"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-46"
       }
     },
     {
@@ -6634,7 +6634,7 @@
       "notes": [],
       "work_passage_id": "sacr:47",
       "html_path": "works/sacr/index.html#p-47",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-47",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-47",
       "alignment_revision": "sha256:b7d0309738dc968c640eef71d4b9145a124e8b5ea5a67803132ce552171053ae",
       "review_state": {
         "human_reviewed": false,
@@ -6670,9 +6670,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "47",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:45bc867121d6405750d79f2aeff4afddbc6cdf3d376102d84ed7624ef08ec053",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-47"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-47"
       }
     },
     {
@@ -6784,7 +6784,7 @@
       "notes": [],
       "work_passage_id": "sacr:48",
       "html_path": "works/sacr/index.html#p-48",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-48",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-48",
       "alignment_revision": "sha256:25a766da2eb9b1ed5f3cc667d06f147995f3ccc1f5bc0ce56fec09fb1b720dda",
       "review_state": {
         "human_reviewed": false,
@@ -6820,9 +6820,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "48",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:afaf77ebf6500d43e5489679b6d8e8f8f75727d0b8769f20764ccedda3349de2",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-48"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-48"
       }
     },
     {
@@ -6937,7 +6937,7 @@
       "notes": [],
       "work_passage_id": "sacr:49",
       "html_path": "works/sacr/index.html#p-49",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-49",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-49",
       "alignment_revision": "sha256:7082e25f08d3fbf162a87ee00dfaa54c210c5f1257a9adf8b4ebd6cfe7d0bf36",
       "review_state": {
         "human_reviewed": false,
@@ -6973,9 +6973,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "49",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:c54aee09aefaeae4e67a405b1d6e2627e4de64777d5c292346de99471caee5c3",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-49"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-49"
       }
     },
     {
@@ -7063,7 +7063,7 @@
       ],
       "work_passage_id": "sacr:50",
       "html_path": "works/sacr/index.html#p-50",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-50",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-50",
       "alignment_revision": "sha256:b8683951de63827fb482f93fadd040f96769eb9b3e46dcafdde7424160fcac36",
       "review_state": {
         "human_reviewed": false,
@@ -7099,9 +7099,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "50",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:faadb5830e29dcebd5366499944aec1281212c9ee645dbce2c2053048f8f49a5",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-50"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-50"
       }
     },
     {
@@ -7242,7 +7242,7 @@
       "notes": [],
       "work_passage_id": "sacr:51",
       "html_path": "works/sacr/index.html#p-51",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-51",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-51",
       "alignment_revision": "sha256:34a270fd976cd09c63d8829fc52a3f996e2fd04e32f77574842d3ab03f72a887",
       "review_state": {
         "human_reviewed": false,
@@ -7278,9 +7278,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "51",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:a5b2b3ee75575088a975ca46904c3ee33ace39b31fc9763da457db518eef70f3",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-51"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-51"
       }
     },
     {
@@ -7381,7 +7381,7 @@
       ],
       "work_passage_id": "sacr:52",
       "html_path": "works/sacr/index.html#p-52",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-52",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-52",
       "alignment_revision": "sha256:937a80851b69a181782b4939106a7629111c31eadc2ebdee83fec90862a97838",
       "review_state": {
         "human_reviewed": false,
@@ -7417,9 +7417,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "52",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:35373225ba655d0ad1cd6af47628cb3b9966fc9a50d62948f62f2e0c74910a64",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-52"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-52"
       }
     },
     {
@@ -7533,7 +7533,7 @@
       ],
       "work_passage_id": "sacr:53",
       "html_path": "works/sacr/index.html#p-53",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-53",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-53",
       "alignment_revision": "sha256:4b0d847f395ae025127860d0f9f587f6709cee78674db2f45526de3212f91693",
       "review_state": {
         "human_reviewed": false,
@@ -7569,9 +7569,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "53",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:5c8ab31f3804c32578638b43d38461231d1d0a72058346bb51d20eb6ca1bd587",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-53"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-53"
       }
     },
     {
@@ -7688,7 +7688,7 @@
       ],
       "work_passage_id": "sacr:54",
       "html_path": "works/sacr/index.html#p-54",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-54",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-54",
       "alignment_revision": "sha256:0e89eaa61dda6b1b6c8c4776571b67dcf0859c65bc75e536305fcaed41c39a18",
       "review_state": {
         "human_reviewed": false,
@@ -7724,9 +7724,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "54",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:8fbb2ed10b272f04cddbefcbbdf27a270870703c09f50aab322074deea996708",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-54"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-54"
       }
     },
     {
@@ -7851,7 +7851,7 @@
       "notes": [],
       "work_passage_id": "sacr:55",
       "html_path": "works/sacr/index.html#p-55",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-55",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-55",
       "alignment_revision": "sha256:8199be7c468d8f3c00d5dc07adc3df92656c75a984930d7a55d086001d2a86a4",
       "review_state": {
         "human_reviewed": false,
@@ -7887,9 +7887,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "55",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:a9069b1e821dbcd86b101ff569a411f5a706f266bac735a48aa04c60a0a9252e",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-55"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-55"
       }
     },
     {
@@ -7965,7 +7965,7 @@
       "notes": [],
       "work_passage_id": "sacr:56",
       "html_path": "works/sacr/index.html#p-56",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-56",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-56",
       "alignment_revision": "sha256:fb10aee660be455b78c176947a26c8101fcddf6d885804c7669eeeeae1dd72be",
       "review_state": {
         "human_reviewed": false,
@@ -8001,9 +8001,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "56",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:fc744e97ae5e1b6e051b321c22ca836ebb0d79f0b2752b7690a94dd9165d4181",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-56"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-56"
       }
     },
     {
@@ -8154,7 +8154,7 @@
       "notes": [],
       "work_passage_id": "sacr:57",
       "html_path": "works/sacr/index.html#p-57",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-57",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-57",
       "alignment_revision": "sha256:4224302e3b07ea7776945f354768305fbcc4933c6d71411d5f838b5e95a7986b",
       "review_state": {
         "human_reviewed": false,
@@ -8190,9 +8190,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "57",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:40706962afc2d0f6fd0aa6d34272746edd5b5ea17e5046e6f07c864f537aba91",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-57"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-57"
       }
     },
     {
@@ -8278,7 +8278,7 @@
       "notes": [],
       "work_passage_id": "sacr:58",
       "html_path": "works/sacr/index.html#p-58",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-58",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-58",
       "alignment_revision": "sha256:d450195cc5e95200b93e37d8d8e3188a40ed7a3ad5523c9dbc7c04db49ad3ae1",
       "review_state": {
         "human_reviewed": false,
@@ -8314,9 +8314,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "58",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:0164f45b1c221628209dfc746b0b6dab0dd3c428422270f2407472ae3d01d9c7",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-58"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-58"
       }
     },
     {
@@ -8472,7 +8472,7 @@
       ],
       "work_passage_id": "sacr:59",
       "html_path": "works/sacr/index.html#p-59",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-59",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-59",
       "alignment_revision": "sha256:818271813b6a7609d892acaa990fa8cdfa68ecef40c5558ab4fc6caeef3cf733",
       "review_state": {
         "human_reviewed": false,
@@ -8508,9 +8508,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "59",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:aa79fbafb5fa31af07087cbd40c173de18d57c734106003860700cfec23ed445",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-59"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-59"
       }
     },
     {
@@ -8666,7 +8666,7 @@
       ],
       "work_passage_id": "sacr:60",
       "html_path": "works/sacr/index.html#p-60",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-60",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-60",
       "alignment_revision": "sha256:0413fc1c5f460091c111650c128177f556d8c3849bdf3d9f5238a9727b993cfa",
       "review_state": {
         "human_reviewed": false,
@@ -8702,9 +8702,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "60",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:53930b7e2533a66438cb3c374b7ac43b30e2d8c324ed461df40b67094f505142",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-60"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-60"
       }
     },
     {
@@ -8803,7 +8803,7 @@
       "notes": [],
       "work_passage_id": "sacr:61",
       "html_path": "works/sacr/index.html#p-61",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-61",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-61",
       "alignment_revision": "sha256:7027cb2b8ce1464a1069c469f3ad5d92db75f5ebf8494e480da34960cebed9ec",
       "review_state": {
         "human_reviewed": false,
@@ -8839,9 +8839,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "61",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:80965d5aef5d571d2f7b6ac10791a2034d18ab00f11d0cea9be4221daaf8f7fb",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-61"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-61"
       }
     },
     {
@@ -8955,7 +8955,7 @@
       ],
       "work_passage_id": "sacr:62",
       "html_path": "works/sacr/index.html#p-62",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-62",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-62",
       "alignment_revision": "sha256:b968f2c12676e35030b1322c51b2a769f47092f2cc649fd6a2e923b9d2517462",
       "review_state": {
         "human_reviewed": false,
@@ -8991,9 +8991,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "62",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:3ae5430a11796dbc45d44ee0a108465e8d8a8c8097f87f857abe5f94684c2071",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-62"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-62"
       }
     },
     {
@@ -9149,7 +9149,7 @@
       ],
       "work_passage_id": "sacr:63",
       "html_path": "works/sacr/index.html#p-63",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-63",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-63",
       "alignment_revision": "sha256:836a33ad0df88f9efbfde7195cea421a92f6e426218b009821e4aeb377ac2235",
       "review_state": {
         "human_reviewed": false,
@@ -9185,9 +9185,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "63",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:060865099e19a4ba162a3bc41d7ac43668ec16a8f370ff52d455fba41f7e9034",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-63"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-63"
       }
     },
     {
@@ -9325,7 +9325,7 @@
       "notes": [],
       "work_passage_id": "sacr:64",
       "html_path": "works/sacr/index.html#p-64",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-64",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-64",
       "alignment_revision": "sha256:661235c2fdcb2822dd30deded9d8ccbeab8e5339199a9b0da5e40966fb696d9b",
       "review_state": {
         "human_reviewed": false,
@@ -9361,9 +9361,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "64",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:5f173fb9a16b1573f95e5a8842ca9bb34c0232c432cfade114cf4d07ccce35b9",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-64"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-64"
       }
     },
     {
@@ -9506,7 +9506,7 @@
       ],
       "work_passage_id": "sacr:65",
       "html_path": "works/sacr/index.html#p-65",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-65",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-65",
       "alignment_revision": "sha256:9eb4b472574ed3e9eba07e9bb32d3d59a46dcb4b2524d306699ec43c6f808d24",
       "review_state": {
         "human_reviewed": false,
@@ -9542,9 +9542,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "65",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:79193deca39407fe18fea3415133805299c96258d399e6c956e2949c17b29583",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-65"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-65"
       }
     },
     {
@@ -9669,7 +9669,7 @@
       "notes": [],
       "work_passage_id": "sacr:66",
       "html_path": "works/sacr/index.html#p-66",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-66",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-66",
       "alignment_revision": "sha256:8a1ff73b451106e27c636e1f53bccaf3f3fe1c6c8745d330fe2c76dcb00f0f53",
       "review_state": {
         "human_reviewed": false,
@@ -9705,9 +9705,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "66",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:1def3da4880f1007df17304656788ce6849a65e8dbd516875cfa4956b0439fd5",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-66"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-66"
       }
     },
     {
@@ -9811,7 +9811,7 @@
       ],
       "work_passage_id": "sacr:67",
       "html_path": "works/sacr/index.html#p-67",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-67",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-67",
       "alignment_revision": "sha256:ebafde091aa1c46af3b722fb13db54ff093468a5291482a762777e2a415eec2f",
       "review_state": {
         "human_reviewed": false,
@@ -9847,9 +9847,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "67",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:d8e0f65b7104785ef9938f428434bf5a53bb05d252982d2dfe15296848225355",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-67"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-67"
       }
     },
     {
@@ -9964,7 +9964,7 @@
       ],
       "work_passage_id": "sacr:68",
       "html_path": "works/sacr/index.html#p-68",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-68",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-68",
       "alignment_revision": "sha256:1eec99637cba6e723020694b5d402486168062d0ad02b17433ff4af15e140405",
       "review_state": {
         "human_reviewed": false,
@@ -10000,9 +10000,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "68",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:da27033dceddea055e44a67e96dbb933827672efb3ea820705aac1886e7eaec0",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-68"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-68"
       }
     },
     {
@@ -10169,7 +10169,7 @@
       "notes": [],
       "work_passage_id": "sacr:69",
       "html_path": "works/sacr/index.html#p-69",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-69",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-69",
       "alignment_revision": "sha256:b1c5845d22361abf6e1c0d695ace54b5b829ca96e4b42c619fd76f24a65dd963",
       "review_state": {
         "human_reviewed": false,
@@ -10205,9 +10205,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "69",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:26199146c7f6467b9d484f9ecc033c048cdf23afade8722abd3c9f52cd851d09",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-69"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-69"
       }
     },
     {
@@ -10345,7 +10345,7 @@
       "notes": [],
       "work_passage_id": "sacr:70",
       "html_path": "works/sacr/index.html#p-70",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-70",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-70",
       "alignment_revision": "sha256:b2a525f553644be5b52871ce268eb314e0a359875d0b90c96d7c6b2292c93edf",
       "review_state": {
         "human_reviewed": false,
@@ -10381,9 +10381,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "70",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:b8075c357bf9efead891d38e9b43daf33d758072533742b2ac588ad535315791",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-70"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-70"
       }
     },
     {
@@ -10524,7 +10524,7 @@
       "notes": [],
       "work_passage_id": "sacr:71",
       "html_path": "works/sacr/index.html#p-71",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-71",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-71",
       "alignment_revision": "sha256:3a77bf4f8ef656a4c04341b8a8910e6a90de91b1f8f93ddbcc958deb8b8daee7",
       "review_state": {
         "human_reviewed": false,
@@ -10560,9 +10560,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "71",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:33c7ed11bfc669904aed9174f0a74e7457d059cadec8fc9639220f76c16d5799",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-71"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-71"
       }
     },
     {
@@ -10700,7 +10700,7 @@
       "notes": [],
       "work_passage_id": "sacr:72",
       "html_path": "works/sacr/index.html#p-72",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-72",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-72",
       "alignment_revision": "sha256:c6a6a598877e981fe66e0b2fba239328a235c147a295602cb0070b468f5475ce",
       "review_state": {
         "human_reviewed": false,
@@ -10736,9 +10736,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "72",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:750364e1dcb9b21675caa5defcb5d73b11891ada2992c5fc9823879edc0887c3",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-72"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-72"
       }
     },
     {
@@ -10850,7 +10850,7 @@
       "notes": [],
       "work_passage_id": "sacr:73",
       "html_path": "works/sacr/index.html#p-73",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-73",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-73",
       "alignment_revision": "sha256:731abf1177f51d338616b126fc629ac2cc5ee18084d6356100765824304a8e93",
       "review_state": {
         "human_reviewed": false,
@@ -10886,9 +10886,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "73",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:575c921ca93cff09e654ee52b3bc8cffa7e179313ab089cc74f0ece4922b8af3",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-73"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-73"
       }
     },
     {
@@ -11003,7 +11003,7 @@
       "notes": [],
       "work_passage_id": "sacr:74",
       "html_path": "works/sacr/index.html#p-74",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-74",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-74",
       "alignment_revision": "sha256:5ab1a942bfb09522a12ff8ca734ee937b637b8948d5e8e297ad690ca8c3131cd",
       "review_state": {
         "human_reviewed": false,
@@ -11039,9 +11039,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "74",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:3a2e58f2a3417d88a0cce04b3ea0cef7ed54c2dcf9ee531246236f00c6777c05",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-74"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-74"
       }
     },
     {
@@ -11127,7 +11127,7 @@
       "notes": [],
       "work_passage_id": "sacr:75",
       "html_path": "works/sacr/index.html#p-75",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-75",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-75",
       "alignment_revision": "sha256:c8e8c8be7b1a4a2f672b4cfb669107a426228799b414f1df1b68ab82f75231a8",
       "review_state": {
         "human_reviewed": false,
@@ -11163,9 +11163,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "75",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:e69cc29dd1982bed900e37e62629824cec694759091749fcd5dd3afc51e8aac1",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-75"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-75"
       }
     },
     {
@@ -11319,7 +11319,7 @@
       ],
       "work_passage_id": "sacr:76",
       "html_path": "works/sacr/index.html#p-76",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-76",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-76",
       "alignment_revision": "sha256:90aa5a41089b76fe487298940ee5b802b2018b05cb5a042c31c578459b935963",
       "review_state": {
         "human_reviewed": false,
@@ -11355,9 +11355,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "76",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:ade22cd6d84bca069c55e68d25cf2968d0909e99960843d54b0889a51c1b7cbf",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-76"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-76"
       }
     },
     {
@@ -11513,7 +11513,7 @@
       ],
       "work_passage_id": "sacr:77",
       "html_path": "works/sacr/index.html#p-77",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-77",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-77",
       "alignment_revision": "sha256:0ff89f83ddffd38453588d9bf16d5856cec0634bdae867362e5437cb7e361de2",
       "review_state": {
         "human_reviewed": false,
@@ -11549,9 +11549,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "77",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:021d846f28e19e7fafc04df8145e1479e7b8016825bea4b3202a624e142b50a0",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-77"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-77"
       }
     },
     {
@@ -11663,7 +11663,7 @@
       "notes": [],
       "work_passage_id": "sacr:78",
       "html_path": "works/sacr/index.html#p-78",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-78",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-78",
       "alignment_revision": "sha256:4027ab38dfca91ef6843934060d76807e11708ee65378a68a49d8a6abe3c72d9",
       "review_state": {
         "human_reviewed": false,
@@ -11699,9 +11699,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "78",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:3368ce0eb677c8d11735fd6e9a8d62af29a1f5ca073328c2523d256d86c7dec0",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-78"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-78"
       }
     },
     {
@@ -11881,7 +11881,7 @@
       "notes": [],
       "work_passage_id": "sacr:79",
       "html_path": "works/sacr/index.html#p-79",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-79",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-79",
       "alignment_revision": "sha256:806bcf4eda19d638a3b314947fd9e2e5cbc049234ae8a1ad3bcbd8535eb30d78",
       "review_state": {
         "human_reviewed": false,
@@ -11917,9 +11917,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "79",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:004d585ca2897447b15b5e3d9c191d49e65c97b591ba96f483559b2cf786b24a",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-79"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-79"
       }
     },
     {
@@ -12031,7 +12031,7 @@
       "notes": [],
       "work_passage_id": "sacr:80",
       "html_path": "works/sacr/index.html#p-80",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-80",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-80",
       "alignment_revision": "sha256:4e4f84f690b423d242e8812db4fce884591f36137122b17bf8e851a453f1566e",
       "review_state": {
         "human_reviewed": false,
@@ -12067,9 +12067,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "80",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:ee094c558c63237b2e8967d84bf1199dc09d116f98f2f0b551267d72583b65fb",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-80"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-80"
       }
     },
     {
@@ -12170,7 +12170,7 @@
       ],
       "work_passage_id": "sacr:81",
       "html_path": "works/sacr/index.html#p-81",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-81",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-81",
       "alignment_revision": "sha256:6210c2b337d8296a52020ac67bf6929ac10a47600dc42a03536988825aac12e3",
       "review_state": {
         "human_reviewed": false,
@@ -12206,9 +12206,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "81",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:cd3f299fdb693a1a47d0a36fe601cf0ea13abff67e4650546ba816e4a6e1b40c",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-81"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-81"
       }
     },
     {
@@ -12336,7 +12336,7 @@
       "notes": [],
       "work_passage_id": "sacr:82",
       "html_path": "works/sacr/index.html#p-82",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-82",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-82",
       "alignment_revision": "sha256:61b74b43222575d907ba942eddce76e9847aa81d5f08373fd6e84c3a8a032c26",
       "review_state": {
         "human_reviewed": false,
@@ -12372,9 +12372,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "82",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:a045a982e2b6b2e665a1d7c96f82e4b22f20f8ae947782ba7834e656aae7ec03",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-82"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-82"
       }
     },
     {
@@ -12488,7 +12488,7 @@
       ],
       "work_passage_id": "sacr:83",
       "html_path": "works/sacr/index.html#p-83",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-83",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-83",
       "alignment_revision": "sha256:8fa4a31f9249c7ca3b2518da7e2837d05f7c7a107a127e33c3e7a9feca1a48e5",
       "review_state": {
         "human_reviewed": false,
@@ -12524,9 +12524,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "83",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:63d4d79d525330868a4d63d535640293d5e34f7241aa393e75da1df7d2d05400",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-83"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-83"
       }
     },
     {
@@ -12628,7 +12628,7 @@
       "notes": [],
       "work_passage_id": "sacr:84",
       "html_path": "works/sacr/index.html#p-84",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-84",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-84",
       "alignment_revision": "sha256:1bbf75c4e5cfc254b3109ad225e909417115dd80630a2012a46dd03fcb47926a",
       "review_state": {
         "human_reviewed": false,
@@ -12664,9 +12664,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "84",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:8f7906af9eea5bc26e621f4fb67c7d7311e14c9dba039396161529dcdf15c04c",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-84"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-84"
       }
     },
     {
@@ -12806,7 +12806,7 @@
       ],
       "work_passage_id": "sacr:85",
       "html_path": "works/sacr/index.html#p-85",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-85",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-85",
       "alignment_revision": "sha256:12f425eb038e62681e3f47dfc20e418d8024ad85b85b55e03108e0b914b3cf13",
       "review_state": {
         "human_reviewed": false,
@@ -12842,9 +12842,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "85",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:c38952840365b4ded4bd581de622af32e849f053e91ba32bb9084d6743c876f3",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-85"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-85"
       }
     },
     {
@@ -12974,7 +12974,7 @@
       ],
       "work_passage_id": "sacr:86",
       "html_path": "works/sacr/index.html#p-86",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-86",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-86",
       "alignment_revision": "sha256:20c1c37b3591e96552c70a188445eb6ce65e0972044f1390355130d38d56c732",
       "review_state": {
         "human_reviewed": false,
@@ -13010,9 +13010,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "86",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:d9d83aad9cedeef6ba59bbeef622f2963c6a47af6b6a3da8aea8cd22c62c27c2",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-86"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-86"
       }
     },
     {
@@ -13137,7 +13137,7 @@
       "notes": [],
       "work_passage_id": "sacr:87",
       "html_path": "works/sacr/index.html#p-87",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-87",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-87",
       "alignment_revision": "sha256:a19b0cc6b5f281de8e491495b0fde6d73fa0e72c97e9dec9b17c04a8df173a5e",
       "review_state": {
         "human_reviewed": false,
@@ -13173,9 +13173,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "87",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:e6c4747a10f08091e939029330a5e824e97b63f901a370765a30e35820c9b8bb",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-87"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-87"
       }
     },
     {
@@ -13316,7 +13316,7 @@
       "notes": [],
       "work_passage_id": "sacr:88",
       "html_path": "works/sacr/index.html#p-88",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-88",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-88",
       "alignment_revision": "sha256:60230a7dcecb85c4e8fef23014629806422d18e19e4a22d1ac1daf3a933ae35e",
       "review_state": {
         "human_reviewed": false,
@@ -13352,9 +13352,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "88",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:7ba6ef8c9ed956152c5eba0caa391a7a6e4ed46a3ad077fc5f5a33e443f12605",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-88"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-88"
       }
     },
     {
@@ -13507,7 +13507,7 @@
       ],
       "work_passage_id": "sacr:89",
       "html_path": "works/sacr/index.html#p-89",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-89",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-89",
       "alignment_revision": "sha256:ad2a852023b20992b2e4b89003e2ae7fe64d1b54beeab7b3cf394b0c19fd9b86",
       "review_state": {
         "human_reviewed": false,
@@ -13543,9 +13543,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "89",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:02d4b4a38d9d47bdc1769d6df7dcdf7fcea4c1dbfbc5adf1b35b9c9bd487b841",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-89"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-89"
       }
     },
     {
@@ -13649,7 +13649,7 @@
       ],
       "work_passage_id": "sacr:90",
       "html_path": "works/sacr/index.html#p-90",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-90",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-90",
       "alignment_revision": "sha256:53fb45dd7b39660814ddefa99eb8c172c0417ef545c347f2971e5bccc68fccbf",
       "review_state": {
         "human_reviewed": false,
@@ -13685,9 +13685,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "90",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:7dff7f173b42699f15838e895c9cf182d04e5e32e1b33e2e02ac5fcbe3481176",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-90"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-90"
       }
     },
     {
@@ -13799,7 +13799,7 @@
       "notes": [],
       "work_passage_id": "sacr:91",
       "html_path": "works/sacr/index.html#p-91",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-91",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-91",
       "alignment_revision": "sha256:48ef0add491805200b668c23b4a96cb6019003081d74df8b2152d2ee6db8173c",
       "review_state": {
         "human_reviewed": false,
@@ -13835,9 +13835,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "91",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:f25c511397c3aa05305407e882dc6e7bfd2ee5102db03b45cebf7317b4ce83d1",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-91"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-91"
       }
     },
     {
@@ -13936,7 +13936,7 @@
       "notes": [],
       "work_passage_id": "sacr:92",
       "html_path": "works/sacr/index.html#p-92",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-92",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-92",
       "alignment_revision": "sha256:c19695711328e37935c637e2488e02b554a542b54d1a56fd2d4d8a4efa382c26",
       "review_state": {
         "human_reviewed": false,
@@ -13972,9 +13972,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "92",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:c43e2786a2f400fb74c28c90732178d19e80e3ed38d18a84efed6c005e7ccf90",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-92"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-92"
       }
     },
     {
@@ -14076,7 +14076,7 @@
       "notes": [],
       "work_passage_id": "sacr:93",
       "html_path": "works/sacr/index.html#p-93",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-93",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-93",
       "alignment_revision": "sha256:a93c31512f8b69b70cb78048535d6ab3d0763be1fca172cc86e6dc3cbf8afd62",
       "review_state": {
         "human_reviewed": false,
@@ -14112,9 +14112,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "93",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:0ad21ebe495439187d88683d945c6f79a5509495d5f3df2afeeec7f668ee18d1",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-93"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-93"
       }
     },
     {
@@ -14215,7 +14215,7 @@
       ],
       "work_passage_id": "sacr:94",
       "html_path": "works/sacr/index.html#p-94",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-94",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-94",
       "alignment_revision": "sha256:d8b39a9556994f4b8eef7e57ee901661a98b8e08f06934812c7faaf9dcc1039a",
       "review_state": {
         "human_reviewed": false,
@@ -14251,9 +14251,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "94",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:ec1031f0c03b31b25e309e67c1cb93d3cf2776eddf6e6b31a211fb91a58989c8",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-94"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-94"
       }
     },
     {
@@ -14380,7 +14380,7 @@
       ],
       "work_passage_id": "sacr:95",
       "html_path": "works/sacr/index.html#p-95",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-95",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-95",
       "alignment_revision": "sha256:3e61cf175a841995fae8955ece257881fccb021c907b414ec475f5a85edde311",
       "review_state": {
         "human_reviewed": false,
@@ -14416,9 +14416,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "95",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:8bfaeb29946627302b7b59c5938a35615e3718d32bff7e37255f4518258bb819",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-95"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-95"
       }
     },
     {
@@ -14491,7 +14491,7 @@
       "notes": [],
       "work_passage_id": "sacr:96",
       "html_path": "works/sacr/index.html#p-96",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-96",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-96",
       "alignment_revision": "sha256:dce52fa6b53348996177dcf3210debeff794b531da270a9927a4137d82da76b4",
       "review_state": {
         "human_reviewed": false,
@@ -14527,9 +14527,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "96",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:e636b971ac08379f2e8c53cebfbcd09ec5da4ea897ddb0c7fd13507687a4d8ab",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-96"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-96"
       }
     },
     {
@@ -14633,7 +14633,7 @@
       ],
       "work_passage_id": "sacr:97",
       "html_path": "works/sacr/index.html#p-97",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-97",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-97",
       "alignment_revision": "sha256:2093ecb1d6dda323ee3c0222a809aa8bb6c77de05099c83cb603bf0f20e6a3f5",
       "review_state": {
         "human_reviewed": false,
@@ -14669,9 +14669,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "97",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:985c2148c5fb26040a595ff1da75ec1319e2afaedd1b46f90529ddf42e5e1779",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-97"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-97"
       }
     },
     {
@@ -14785,7 +14785,7 @@
       ],
       "work_passage_id": "sacr:98",
       "html_path": "works/sacr/index.html#p-98",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-98",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-98",
       "alignment_revision": "sha256:9ae78ea5fb538f42743df8207fe725b2da069ecf25813f7887257dd3d028e047",
       "review_state": {
         "human_reviewed": false,
@@ -14821,9 +14821,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "98",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:f788e5602cad652d6f7d96a6aad288618c6bf7be4b0311f9fa7a9cda0decab88",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-98"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-98"
       }
     },
     {
@@ -14899,7 +14899,7 @@
       "notes": [],
       "work_passage_id": "sacr:99",
       "html_path": "works/sacr/index.html#p-99",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-99",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-99",
       "alignment_revision": "sha256:803216fd35ab91a88af267e2d99654038eea6ed34505451b41e374120e90df1e",
       "review_state": {
         "human_reviewed": false,
@@ -14935,9 +14935,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "99",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:1f81535dcfe0c28ae992d54a1a7710abcf38e8040157240df0507e257b2cdd01",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-99"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-99"
       }
     },
     {
@@ -15025,7 +15025,7 @@
       ],
       "work_passage_id": "sacr:100",
       "html_path": "works/sacr/index.html#p-100",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-100",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-100",
       "alignment_revision": "sha256:744339bfc832fc8d4107dcfb5b8e9be844ed617bda325ff234cead91645c3b17",
       "review_state": {
         "human_reviewed": false,
@@ -15061,9 +15061,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "100",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:abc1d11531d8706aa4ee6b0577889fb6219579275d0bef5349a8f231c10a8ec5",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-100"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-100"
       }
     },
     {
@@ -15149,7 +15149,7 @@
       "notes": [],
       "work_passage_id": "sacr:101",
       "html_path": "works/sacr/index.html#p-101",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-101",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-101",
       "alignment_revision": "sha256:69093a43fe31c9892c46374debd0da46ae85bf49cfec2ffdbcb04198a90471dc",
       "review_state": {
         "human_reviewed": false,
@@ -15185,9 +15185,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "101",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:0cfc87bef85b4691fc593bb54b59d3a0480f5d30257ec99304639130f8a2a11e",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-101"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-101"
       }
     },
     {
@@ -15263,7 +15263,7 @@
       "notes": [],
       "work_passage_id": "sacr:102",
       "html_path": "works/sacr/index.html#p-102",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-102",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-102",
       "alignment_revision": "sha256:27302a7ca6a1e2d40d558af48a90bc8e95f32a7dae2f92588bb68924c3f1c8ea",
       "review_state": {
         "human_reviewed": false,
@@ -15299,9 +15299,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "102",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:ed2cc2ff98809c6bfea512bcd16e6f3f48ee700c7eb5764c35fc792ac4aab6da",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-102"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-102"
       }
     },
     {
@@ -15402,7 +15402,7 @@
       ],
       "work_passage_id": "sacr:103",
       "html_path": "works/sacr/index.html#p-103",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-103",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-103",
       "alignment_revision": "sha256:c6b4ea49a525db91899be25e2c147f5d85fae7c2a105fb2e7f53302dbe196f41",
       "review_state": {
         "human_reviewed": false,
@@ -15438,9 +15438,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "103",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:5c9dab2bfb846d65dcf4ef7d01c1f3f65038bbe8d5bf7f926405ad84f3921a67",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-103"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-103"
       }
     },
     {
@@ -15503,7 +15503,7 @@
       "notes": [],
       "work_passage_id": "sacr:104",
       "html_path": "works/sacr/index.html#p-104",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-104",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-104",
       "alignment_revision": "sha256:0f99aacce2b55ccd1731ccd6563a227276a0b4de304fd198f85e95f94afde819",
       "review_state": {
         "human_reviewed": false,
@@ -15539,9 +15539,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "104",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:161235a63032045a0d69f9c8383d34cfe03a88d74febe4fe9bc601c30f19e54c",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-104"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-104"
       }
     },
     {
@@ -15655,7 +15655,7 @@
       ],
       "work_passage_id": "sacr:105",
       "html_path": "works/sacr/index.html#p-105",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-105",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-105",
       "alignment_revision": "sha256:1a2ccef85a4c7a7a6a10de8e0d717bbee0a5e1a97e4eb23e0e46c07dea74d726",
       "review_state": {
         "human_reviewed": false,
@@ -15691,9 +15691,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "105",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:80374c81e239c2dcbcab61aecf5a69428214819b02e47b9fca8a3a181a4f06e1",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-105"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-105"
       }
     },
     {
@@ -15779,7 +15779,7 @@
       "notes": [],
       "work_passage_id": "sacr:106",
       "html_path": "works/sacr/index.html#p-106",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-106",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-106",
       "alignment_revision": "sha256:e3fc2faffa54915f905fbf2ffda68db1aaf42ee6c2387746e2afb6747ccd5d1a",
       "review_state": {
         "human_reviewed": false,
@@ -15815,9 +15815,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "106",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:d8297edb931f464dda85cdffcdb2bc0a77e5f8bb679709b727a47fce1ca75597",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-106"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-106"
       }
     },
     {
@@ -15908,7 +15908,7 @@
       ],
       "work_passage_id": "sacr:107",
       "html_path": "works/sacr/index.html#p-107",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-107",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-107",
       "alignment_revision": "sha256:f05e481764e1410c02c619ef680f58146fdcc330c7472004f34a6a29ba2e16b1",
       "review_state": {
         "human_reviewed": false,
@@ -15944,9 +15944,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "107",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:112b2a8d85ec94ec0b217344a333b6335f3b0a5e72ebc270127204ce4da75750",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-107"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-107"
       }
     },
     {
@@ -16032,7 +16032,7 @@
       "notes": [],
       "work_passage_id": "sacr:108",
       "html_path": "works/sacr/index.html#p-108",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-108",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-108",
       "alignment_revision": "sha256:8dd2a10c2b49a4ad6f49bc02ba08c9721317c31827d0ed07eab558d3eeef569f",
       "review_state": {
         "human_reviewed": false,
@@ -16068,9 +16068,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "108",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:28bd97e206f97f5a039b465de24fb277e4262564b6ce7c0bbfaa6ff875bc5b41",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-108"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-108"
       }
     },
     {
@@ -16172,7 +16172,7 @@
       "notes": [],
       "work_passage_id": "sacr:109",
       "html_path": "works/sacr/index.html#p-109",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-109",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-109",
       "alignment_revision": "sha256:ca73519eaf4546329d5aa1c1a0707dcab227673e1ed08c7bcac40c666d2e2238",
       "review_state": {
         "human_reviewed": false,
@@ -16208,9 +16208,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "109",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:4b0938f024f0f6bb30967525de2fe24efbdc0018bc69ab3d033ca1d66292b465",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-109"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-109"
       }
     },
     {
@@ -16285,7 +16285,7 @@
       ],
       "work_passage_id": "sacr:110",
       "html_path": "works/sacr/index.html#p-110",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-110",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-110",
       "alignment_revision": "sha256:1f79e873ccfa64a55d162ccdfc54818e700993d3ab261b77805d98a2302a558b",
       "review_state": {
         "human_reviewed": false,
@@ -16321,9 +16321,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "110",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:e97c8492d5720690837bf40f4ca16c76a3c37b325be9ef3b2867450168267da3",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-110"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-110"
       }
     },
     {
@@ -16425,7 +16425,7 @@
       "notes": [],
       "work_passage_id": "sacr:111",
       "html_path": "works/sacr/index.html#p-111",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-111",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-111",
       "alignment_revision": "sha256:d597a31447b0356957fa74fb9d8dcfeab02162f5c6882f4101a79d2f08059767",
       "review_state": {
         "human_reviewed": false,
@@ -16461,9 +16461,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "111",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:517160b7346c201244f73a3c1cc9c63420c063236f44db8c392e4a459c52ee5a",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-111"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-111"
       }
     },
     {
@@ -16577,7 +16577,7 @@
       ],
       "work_passage_id": "sacr:112",
       "html_path": "works/sacr/index.html#p-112",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-112",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-112",
       "alignment_revision": "sha256:44f75c598c18b3853b083cae52b928c45c1bfe6a5542b1b5588a56bef3e19ca5",
       "review_state": {
         "human_reviewed": false,
@@ -16613,9 +16613,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "112",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:96a8601b68bcb9bb7a0f530f03bd7a6953ae4d7bb3668bc1036dabcd5a84e713",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-112"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-112"
       }
     },
     {
@@ -16688,7 +16688,7 @@
       "notes": [],
       "work_passage_id": "sacr:113",
       "html_path": "works/sacr/index.html#p-113",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-113",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-113",
       "alignment_revision": "sha256:2fe25a4c1af7d5cdc08616a44ec0a9f2e9d0a6c97e6df801eb1be006d6c96445",
       "review_state": {
         "human_reviewed": false,
@@ -16724,9 +16724,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "113",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:80184426441a3654a4b6f753b92dbe19af13f12b7cc4ac905bdde65415361e1f",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-113"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-113"
       }
     },
     {
@@ -16828,7 +16828,7 @@
       "notes": [],
       "work_passage_id": "sacr:114",
       "html_path": "works/sacr/index.html#p-114",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-114",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-114",
       "alignment_revision": "sha256:7363ff670ff26741bb7536fd804dd05864883122909378356e9b0ff311dff4e7",
       "review_state": {
         "human_reviewed": false,
@@ -16864,9 +16864,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "114",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:4c2102d7256aaf104539dfa25589cfcdb32b6ded003e326913e673c10076d772",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-114"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-114"
       }
     },
     {
@@ -16967,7 +16967,7 @@
       ],
       "work_passage_id": "sacr:115",
       "html_path": "works/sacr/index.html#p-115",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-115",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-115",
       "alignment_revision": "sha256:1b5e549068d58d36224f8a47b3b37ad634d202392b3ba79666d9544a50e65cc0",
       "review_state": {
         "human_reviewed": false,
@@ -17003,9 +17003,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "115",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:23b4cb54dd26de7c84b5cf2b628d556651d97f7d893b014632323ae070b0b344",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-115"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-115"
       }
     },
     {
@@ -17091,7 +17091,7 @@
       "notes": [],
       "work_passage_id": "sacr:116",
       "html_path": "works/sacr/index.html#p-116",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-116",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-116",
       "alignment_revision": "sha256:53692f76d28cb90bac69e89e775821cbf26565b29514d77ca2ac4a421c6b07a0",
       "review_state": {
         "human_reviewed": false,
@@ -17127,9 +17127,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "116",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:aeb3108f5bd6a4b0866f7716e0c6a00e5062aa69030ae8deb5dd9a1766aeb5f9",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-116"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-116"
       }
     },
     {
@@ -17189,7 +17189,7 @@
       "notes": [],
       "work_passage_id": "sacr:117",
       "html_path": "works/sacr/index.html#p-117",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-117",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-117",
       "alignment_revision": "sha256:79ac56556b2e54c24eaa7ab7946570c1bf5c28cd1861ab364b268dd541ce1ded",
       "review_state": {
         "human_reviewed": false,
@@ -17225,9 +17225,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "117",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:26d833939ddb3083a6f2ee381a2d0d86a4216afb12950797a71472ea034da2c8",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-117"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-117"
       }
     },
     {
@@ -17329,7 +17329,7 @@
       "notes": [],
       "work_passage_id": "sacr:118",
       "html_path": "works/sacr/index.html#p-118",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-118",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-118",
       "alignment_revision": "sha256:9ccb28d5fc85246ba1aa368dac612d461c7466d7d50ce347ecbaa52e11aff15b",
       "review_state": {
         "human_reviewed": false,
@@ -17365,9 +17365,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "118",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:9a33269ba265a79a51c3c6a533f43ea127794a718e8ad6a803b325788d030f9b",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-118"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-118"
       }
     },
     {
@@ -17455,7 +17455,7 @@
       ],
       "work_passage_id": "sacr:119",
       "html_path": "works/sacr/index.html#p-119",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-119",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-119",
       "alignment_revision": "sha256:c9decd48329d6031d2a4c71d4bc3120bd499a4dfe9db162fb84195d8ecbf305f",
       "review_state": {
         "human_reviewed": false,
@@ -17491,9 +17491,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "119",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:48903fd8e490bb5239b353ffdb84ccd4533cf69440868a7adb6a401a6927c7fc",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-119"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-119"
       }
     },
     {
@@ -17597,7 +17597,7 @@
       ],
       "work_passage_id": "sacr:120",
       "html_path": "works/sacr/index.html#p-120",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-120",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-120",
       "alignment_revision": "sha256:16e8a9c5f3b8ded88363508cd1d4676b047663bab1ef6618801c4c3edebc3fb4",
       "review_state": {
         "human_reviewed": false,
@@ -17633,9 +17633,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "120",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:6e35acdf71cf8d9cadeaedfb6f913742f926f3a6df38c4753c647756f93c4e74",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-120"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-120"
       }
     },
     {
@@ -17734,7 +17734,7 @@
       "notes": [],
       "work_passage_id": "sacr:121",
       "html_path": "works/sacr/index.html#p-121",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-121",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-121",
       "alignment_revision": "sha256:a09568c64ca533519fda836723b463dde53042863125df44588223889f612a3e",
       "review_state": {
         "human_reviewed": false,
@@ -17770,9 +17770,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "121",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:9f59af2253d32debc08f495a8bd2f12b84973fbd3109368a9f93a26a97b57401",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-121"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-121"
       }
     },
     {
@@ -17860,7 +17860,7 @@
       ],
       "work_passage_id": "sacr:122",
       "html_path": "works/sacr/index.html#p-122",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-122",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-122",
       "alignment_revision": "sha256:052b7fd47d5723aab40af21c50716c917d49cb5eedd2c829b23268b46d4a7701",
       "review_state": {
         "human_reviewed": false,
@@ -17896,9 +17896,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "122",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:0b35a98566f166eb5b7efa1cdf729ef74ea33b6ef9bb43038bb660a0494129e7",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-122"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-122"
       }
     },
     {
@@ -18000,7 +18000,7 @@
       "notes": [],
       "work_passage_id": "sacr:123",
       "html_path": "works/sacr/index.html#p-123",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-123",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-123",
       "alignment_revision": "sha256:3b7f422155c2ae83ce35c3eb5661b55a57bba90da044d00bc1ec90efd900d850",
       "review_state": {
         "human_reviewed": false,
@@ -18036,9 +18036,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "123",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:358e822d23e27adeed32076c872a62a988d760f4d2a6466d746e1282ea6444b0",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-123"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-123"
       }
     },
     {
@@ -18124,7 +18124,7 @@
       "notes": [],
       "work_passage_id": "sacr:124",
       "html_path": "works/sacr/index.html#p-124",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-124",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-124",
       "alignment_revision": "sha256:aa3cc3eab9b1b0f19cf7f7c02b0f2c57cfced72cb31ce05af2c893487feb2109",
       "review_state": {
         "human_reviewed": false,
@@ -18160,9 +18160,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "124",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:b28a49cf4f17a61e7cda307b12a54ed53743ac63faefb546f684af842081e859",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-124"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-124"
       }
     },
     {
@@ -18251,7 +18251,7 @@
       "notes": [],
       "work_passage_id": "sacr:125",
       "html_path": "works/sacr/index.html#p-125",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-125",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-125",
       "alignment_revision": "sha256:79ccfe2424adec527d369facf9ad3a9f9af12def42bdc4aa041323fd4cfb5735",
       "review_state": {
         "human_reviewed": false,
@@ -18287,9 +18287,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "125",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:c71a68e443d8363a8a15be8d52cb01db8d471262c2d951db7eca678fd5117bb3",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-125"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-125"
       }
     },
     {
@@ -18364,7 +18364,7 @@
       ],
       "work_passage_id": "sacr:126",
       "html_path": "works/sacr/index.html#p-126",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-126",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-126",
       "alignment_revision": "sha256:086457bf0364686b572f300883d99be22cfa6fc4ada983005f2b60990f645b3f",
       "review_state": {
         "human_reviewed": false,
@@ -18400,9 +18400,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "126",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:aa5cfa57456473f99bab786cbb46f5eafda70a0280f31706104928f7068fca4b",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-126"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-126"
       }
     },
     {
@@ -18490,7 +18490,7 @@
       ],
       "work_passage_id": "sacr:127",
       "html_path": "works/sacr/index.html#p-127",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-127",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-127",
       "alignment_revision": "sha256:7431354ff2bc1bfa1d252c222eaa66afdbe0a3bb39e17e96e3ed6d4f4e0062e1",
       "review_state": {
         "human_reviewed": false,
@@ -18526,9 +18526,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "127",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:825a7471ec00a3b27789e89bc0fdea3b3941d94fe320503c9bdb0c1ef9ff24c3",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-127"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-127"
       }
     },
     {
@@ -18632,7 +18632,7 @@
       ],
       "work_passage_id": "sacr:128",
       "html_path": "works/sacr/index.html#p-128",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-128",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-128",
       "alignment_revision": "sha256:f0882acae0340a1db116f79d8adc70f26b43b80fc75fb8eeffe2eaac0c9b7144",
       "review_state": {
         "human_reviewed": false,
@@ -18668,9 +18668,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "128",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:ee5d0720f00d3f57e4299b5e2bbc75fbf5a7c11aed513ab741e43781d52345a2",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-128"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-128"
       }
     },
     {
@@ -18756,7 +18756,7 @@
       "notes": [],
       "work_passage_id": "sacr:129",
       "html_path": "works/sacr/index.html#p-129",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-129",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-129",
       "alignment_revision": "sha256:bc7c3d4d5150341608356be3252a2d347f6c40e084a76833b8617d5d3d33496b",
       "review_state": {
         "human_reviewed": false,
@@ -18792,9 +18792,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "129",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:1e1d1c8878bb337012535b65000846550655d6d7a2a6b5d276a7574f188e6b51",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-129"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-129"
       }
     },
     {
@@ -18908,7 +18908,7 @@
       ],
       "work_passage_id": "sacr:130",
       "html_path": "works/sacr/index.html#p-130",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-130",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-130",
       "alignment_revision": "sha256:6a59b77ce1071e745a13ce4ffc577d87b6dc7eaed13de9dd9143d8dd53864ad0",
       "review_state": {
         "human_reviewed": false,
@@ -18944,9 +18944,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "130",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:77e33c7f6472eca3e91161add2a82bae587706b4bb750f600cff481c3beeefbd",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-130"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-130"
       }
     },
     {
@@ -19066,7 +19066,7 @@
       ],
       "work_passage_id": "sacr:131",
       "html_path": "works/sacr/index.html#p-131",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-131",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-131",
       "alignment_revision": "sha256:a88448d5418925ffed59af9d89c926e9d69b1021a73d08b54307d65356219349",
       "review_state": {
         "human_reviewed": false,
@@ -19102,9 +19102,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "131",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:f5d00bfd9c4b0cbdf26e56adab3d3ebf8fc8047fd69c99defc3e7958b76f0f04",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-131",
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-131",
         "collation_edition": "Leopold Cohn, Philonis Alexandrini Opera Quae Supersunt, vol.1,1896,255쪽"
       }
     },
@@ -19180,7 +19180,7 @@
       ],
       "work_passage_id": "sacr:132",
       "html_path": "works/sacr/index.html#p-132",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-132",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-132",
       "alignment_revision": "sha256:12bc31a81fdcca19cf8137f814a2c588ca4ca88e7303755f485fecebe3c77a98",
       "review_state": {
         "human_reviewed": false,
@@ -19216,9 +19216,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "132",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:e7b34b0a046900b156becc3e11a5b3ec3512520f65bd2d21247de80c77e73d46",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-132"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-132"
       }
     },
     {
@@ -19293,7 +19293,7 @@
       ],
       "work_passage_id": "sacr:133",
       "html_path": "works/sacr/index.html#p-133",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-133",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-133",
       "alignment_revision": "sha256:e188135faed14bdbab72f1070d6c6afabe1e56e58f89a7eeee7c85fbdd072d3b",
       "review_state": {
         "human_reviewed": false,
@@ -19329,9 +19329,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "133",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:a18761b7d6a7adaaa40c6c689cf239fec27cc02b1c636f7c2676a9acfd1b6c33",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-133"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-133"
       }
     },
     {
@@ -19422,7 +19422,7 @@
       ],
       "work_passage_id": "sacr:134",
       "html_path": "works/sacr/index.html#p-134",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-134",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-134",
       "alignment_revision": "sha256:0545a879793109f980329bcfd76b2be7c2fd3e492cbf8ef510406273afb61c5b",
       "review_state": {
         "human_reviewed": false,
@@ -19458,9 +19458,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "134",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:dae2b5fb025a247f92fbdc8838787cbf6d24aaf6931aec63b19c9dd389b97505",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-134"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-134"
       }
     },
     {
@@ -19533,7 +19533,7 @@
       "notes": [],
       "work_passage_id": "sacr:135",
       "html_path": "works/sacr/index.html#p-135",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-135",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-135",
       "alignment_revision": "sha256:40cdd0d6eb11d825722de970ed8c490a09eddf3ecc5fb64f2fce29f21273fd39",
       "review_state": {
         "human_reviewed": false,
@@ -19569,9 +19569,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "135",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:7b9e09cf5d32d95d833c843c519afe5cd272b9406ae87d591d3e8a62fe8ec764",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-135"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-135"
       }
     },
     {
@@ -19646,7 +19646,7 @@
       ],
       "work_passage_id": "sacr:136",
       "html_path": "works/sacr/index.html#p-136",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-136",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-136",
       "alignment_revision": "sha256:42bc8b2e34f118728c2320741f0fbab24f93b696987f312e934f02b6e0277041",
       "review_state": {
         "human_reviewed": false,
@@ -19682,9 +19682,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "136",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:6baf1f7829f4963390508b48b6f6ff75b4b7caa78d5c62e859648ae1bd49cfaa",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-136"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-136"
       }
     },
     {
@@ -19747,7 +19747,7 @@
       "notes": [],
       "work_passage_id": "sacr:137",
       "html_path": "works/sacr/index.html#p-137",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-137",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-137",
       "alignment_revision": "sha256:a0aceffa35f168338e5e9523637a1a37ee9fc45b6e9a70cd7cc63e6fdf6d1d19",
       "review_state": {
         "human_reviewed": false,
@@ -19783,9 +19783,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "137",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:16d1d67e4e47cfe9b3aa9849a4cbca70de25a402b21efc7fea6d26aa63af2c65",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-137"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-137"
       }
     },
     {
@@ -19845,7 +19845,7 @@
       "notes": [],
       "work_passage_id": "sacr:138",
       "html_path": "works/sacr/index.html#p-138",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-138",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-138",
       "alignment_revision": "sha256:0b27c9eec2c9b905407cba4fbb4968d7e47cdca1b13b779dcf034d8841e459cf",
       "review_state": {
         "human_reviewed": false,
@@ -19881,9 +19881,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "138",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:26123973b017c46d57ec9b863d4285b349ebcc323a99671eba7e7abd6f2678ca",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-138"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-138"
       }
     },
     {
@@ -19971,7 +19971,7 @@
       ],
       "work_passage_id": "sacr:139",
       "html_path": "works/sacr/index.html#p-139",
-      "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html#p-139",
+      "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html#p-139",
       "alignment_revision": "sha256:32ae71864d16f543905d4aaea1408ef652c1346b11868f1a2f391435969549d0",
       "review_state": {
         "human_reviewed": false,
@@ -20007,9 +20007,9 @@
         "work": "아벨과 카인의 제사에 관하여",
         "reference": "139",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera Quae Supersunt, vol. 1, Reimer, 1896.",
-        "release": "public-0.36.1",
+        "release": "public-0.36.2",
         "translation_revision": "sha256:1a2fe22a648a02e0bfc375afc6f11478a5e5ab9f4180d599126a91ce7d860ba0",
-        "fixed_path": "releases/public-0.36.1/works/sacr/index.html#p-139"
+        "fixed_path": "releases/public-0.36.2/works/sacr/index.html#p-139"
       }
     }
   ],
@@ -20032,14 +20032,14 @@
   "display_author": "필론",
   "scope": "아벨과 카인의 제사에 관하여 채택 본문 139대목 전체",
   "coverage": "complete",
-  "release_id": "public-0.36.1",
+  "release_id": "public-0.36.2",
   "source_language": "grc",
   "source_kind": "edited_ancient_original",
   "human_reviewed": false,
   "translation_method": "고정 원어 본문에서 직접 번역",
   "html_path": "works/sacr/index.html",
   "json_path": "data/works/sacr.json",
-  "fixed_html_path": "releases/public-0.36.1/works/sacr/index.html",
+  "fixed_html_path": "releases/public-0.36.2/works/sacr/index.html",
   "source_profile": "sacr-complete-pinned-source-20261003",
   "source_decisions": [
     {
