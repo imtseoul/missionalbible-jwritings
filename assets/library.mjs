@@ -95,11 +95,11 @@ if(catalog){
   refresh(false);
 }
 
-const bookNames={막:'마가복음',고전:'고린도전서',행:'사도행전',롬:'로마서',갈:'갈라디아서',살전:'데살로니가전서',눅:'누가복음',빌:'빌립보서',몬:'빌레몬서',고후:'고린도후서'};
-function parseBible(input){let s=input;for(const [a,b] of Object.entries(bookNames))s=s.replace(b,a);const m=s.trim().match(/^([가-힣]+)\s*(\d+)(?::(\d+)(?:-(\d+))?)?$/);return m?{book:m[1],chapter:+m[2],start:+(m[3]||0),end:+(m[4]||m[3]||999)}:null;}
+const bookNames={마:'마태복음',막:'마가복음',눅:'누가복음',요:'요한복음',행:'사도행전',롬:'로마서',고전:'고린도전서',고후:'고린도후서',갈:'갈라디아서',엡:'에베소서',빌:'빌립보서',골:'골로새서',살전:'데살로니가전서',살후:'데살로니가후서',딤전:'디모데전서',딤후:'디모데후서',딛:'디도서',몬:'빌레몬서',히:'히브리서',약:'야고보서',벧전:'베드로전서',벧후:'베드로후서',요일:'요한일서',요이:'요한이서',요삼:'요한삼서',유:'유다서',계:'요한계시록'};
+function parseBible(input){let s=input;for(const [a,b] of Object.entries(bookNames).sort((x,y)=>y[1].length-x[1].length))s=s.replace(b,a);const m=s.trim().match(/^([가-힣]+)\s*(\d+)(?::(\d+)(?:-(\d+))?)?$/);return m?{book:m[1],chapter:+m[2],start:+(m[3]||0),end:+(m[4]||m[3]||999)}:null;}
 if($('#bible-search')){
   const input=$('#bible-q');input.value=new URLSearchParams(location.search).get('q')||'';const rows=[...document.querySelectorAll('.bible-row')];
-  const refresh=()=>{let count=0;const q=input.value.trim(),search=parseBible(q);for(const row of rows){const ref=row.dataset.reference,actual=parseBible(ref);let show=!q;if(q&&actual&&search)show=actual.book===search.book&&actual.chapter===search.chapter&&actual.start<=search.end&&search.start<=actual.end;else if(q)show=norm(ref+' '+bookNames[actual?.book]).includes(norm(q));row.hidden=!show;if(show)count++;}$('.bible-count').textContent=count+'개 연결';$('.empty-result').hidden=count!==0;history.replaceState(null,'',location.pathname+(q?'?q='+encodeURIComponent(q):''));};
+  const refresh=()=>{let count=0;const q=input.value.trim(),search=parseBible(q);for(const row of rows){const ref=row.dataset.reference,actual=parseBible(ref);let show=!q;if(q&&actual&&search)show=actual.book===search.book&&actual.chapter===search.chapter&&actual.start<=search.end&&search.start<=actual.end;else if(q)show=norm(ref+' '+bookNames[actual?.book]).includes(norm(q));row.hidden=!show;if(show)count++;}for(const g of document.querySelectorAll('.bible-book'))g.hidden=!g.querySelector('.bible-row:not([hidden])');$('.bible-count').textContent=count+'개 연결';$('.empty-result').hidden=count!==0;history.replaceState(null,'',location.pathname+(q?'?q='+encodeURIComponent(q):''));};
   input.addEventListener('input',refresh);$('#bible-search').addEventListener('submit',e=>{e.preventDefault();refresh();});refresh();
 }
 

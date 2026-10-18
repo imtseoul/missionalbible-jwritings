@@ -249,3 +249,15 @@ a.text-link,.information section p a,.translation-notes p a{text-decoration:unde
 @media print{.cite-button,.term-bar,.passage-results{display:none!important}}
 .search input::-webkit-search-cancel-button{-webkit-appearance:none;appearance:none;width:14px;height:14px;margin-left:8px;cursor:pointer;background:linear-gradient(45deg,transparent 45%,var(--muted) 45%,var(--muted) 55%,transparent 55%),linear-gradient(-45deg,transparent 45%,var(--muted) 45%,var(--muted) 55%,transparent 55%)}
 .has-term-bar .passage{scroll-margin-top:126px}
+/* Mobile book and section menu: one panel holds the book choice and the section ranges. */
+@media(max-width:700px){
+ .chapter-menu .chapter-panel{position:absolute;top:45px;left:0;z-index:10;width:min(353px,calc(100vw - 40px));max-height:min(70vh,520px);overflow:auto;padding:12px;background:var(--paper);border:1px solid var(--line);box-shadow:0 4px 12px var(--shadow)}
+ .chapter-menu .chapter-panel>nav{position:static;width:auto;max-height:none;overflow:visible;border:0;box-shadow:none;padding:0;background:none}
+ .chapter-menu .chapter-panel>nav.part-nav{display:block;margin-bottom:12px;padding-bottom:12px}
+}
+/* Bible page: books in canonical order. */
+.bible-books{display:flex;flex-wrap:wrap;gap:6px;margin:16px 0 4px}.bible-books a{display:inline-flex;align-items:center;gap:6px;min-height:36px;padding:0 12px;font-size:13px;color:var(--ink);border:1px solid var(--line);border-radius:18px}.bible-books a:hover{background:var(--wash);text-decoration:none}.bible-books span{font-size:11px;color:var(--muted)}
+.bible-book{scroll-margin-top:20px}.bible-book h2{display:flex;align-items:baseline;gap:10px;margin-top:30px;padding-bottom:10px;border-bottom:2px solid var(--ink);font-size:20px;font-weight:600}.bible-book h2 span{font-size:13px;font-weight:400;color:var(--muted)}
+.bible-row h3{font-size:16px;font-weight:600;color:var(--ink)}.bible-target{display:flex;flex-wrap:wrap;align-items:baseline;gap:4px 12px;margin-bottom:6px}.bible-target a{font-size:17px;color:var(--ink)}.bible-target a::after{content:' →';color:var(--accent)}.bible-target span{font-size:13px;color:var(--muted)}
+@media(max-width:700px){.bible-row h3{margin-bottom:6px}}
+.bible-count{border-bottom:0;padding-bottom:0}

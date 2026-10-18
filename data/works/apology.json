@@ -157,7 +157,7 @@
       ],
       "work_passage_id": "apology:17a",
       "html_path": "works/apology/index.html#p-17a",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-17a",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-17a",
       "alignment_revision": "sha256:4668df231af7321bbc1257019763fe8564f9c7136a9a82312d56ec07eb6b771b",
       "review_state": {
         "human_reviewed": false,
@@ -183,9 +183,9 @@
         "work": "소크라테스의 변명",
         "reference": "17a",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:852799e29a712a87974c34abea1dc2e54bc4fa4b3970fdc6a6e3569f50e9401e",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-17a"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-17a"
       }
     },
     {
@@ -252,7 +252,7 @@
       "notes": [],
       "work_passage_id": "apology:17a.2",
       "html_path": "works/apology/index.html#p-17a-2",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-17a-2",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-17a-2",
       "alignment_revision": "sha256:5f904284d8661d94d18af575d82e888c12490f6bc3017bc8c6a69d238c90fb29",
       "review_state": {
         "human_reviewed": false,
@@ -278,9 +278,9 @@
         "work": "소크라테스의 변명",
         "reference": "17a.2",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:9d768294f332b070e52ce6a8c512ff243e401b5d8032dbcd4ef9d337427fe169",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-17a-2"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-17a-2"
       }
     },
     {
@@ -399,7 +399,7 @@
       "notes": [],
       "work_passage_id": "apology:17b",
       "html_path": "works/apology/index.html#p-17b",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-17b",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-17b",
       "alignment_revision": "sha256:ffd5a5030461cf49c6f11e0a8b788ec6e042459c1cd7f1ebe5771fa85cdc49d5",
       "review_state": {
         "human_reviewed": false,
@@ -425,9 +425,9 @@
         "work": "소크라테스의 변명",
         "reference": "17b",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:96b62625220f88ac1e75380ae07f7d501e4db73e809042cb95648ae9eb79ed53",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-17b"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-17b"
       }
     },
     {
@@ -546,7 +546,7 @@
       "notes": [],
       "work_passage_id": "apology:17c",
       "html_path": "works/apology/index.html#p-17c",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-17c",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-17c",
       "alignment_revision": "sha256:3f6c25f8d387cc54b04daa8fc602a1761c42905cfb93e968690cb3bd7808f560",
       "review_state": {
         "human_reviewed": false,
@@ -572,9 +572,9 @@
         "work": "소크라테스의 변명",
         "reference": "17c",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:b6b16d7b3f6f4a0ffdf2e676ef76bc86fcc8cf1b9e81861f1cd7343fc345761c",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-17c"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-17c"
       }
     },
     {
@@ -667,7 +667,7 @@
       "notes": [],
       "work_passage_id": "apology:17d",
       "html_path": "works/apology/index.html#p-17d",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-17d",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-17d",
       "alignment_revision": "sha256:fe3afbeae2448088bb387e85517881f86cab32014d04215f5e424ed3fc9ca79d",
       "review_state": {
         "human_reviewed": false,
@@ -693,9 +693,9 @@
         "work": "소크라테스의 변명",
         "reference": "17d",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:887fb2fcdec65eb6af9b5c464c99243031bb4575fb14bf4ce55d61642eaec01b",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-17d"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-17d"
       }
     },
     {
@@ -814,7 +814,7 @@
       "notes": [],
       "work_passage_id": "apology:18a",
       "html_path": "works/apology/index.html#p-18a",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-18a",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-18a",
       "alignment_revision": "sha256:82e0de07134d82c402edc6ee2e86cbf1adf86f6e91f50518f22cf34bb7031c40",
       "review_state": {
         "human_reviewed": false,
@@ -840,9 +840,9 @@
         "work": "소크라테스의 변명",
         "reference": "18a",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:a34fed7b10ae3b0c6db7976254ee1be67bb65eecd9f619fd6cddeadf0d2b0b89",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-18a"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-18a"
       }
     },
     {
@@ -980,7 +980,7 @@
       ],
       "work_passage_id": "apology:18b",
       "html_path": "works/apology/index.html#p-18b",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-18b",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-18b",
       "alignment_revision": "sha256:39596fcf6280b4abd8885ce690d91581a1262ba74941413a7f3608dba07b41cb",
       "review_state": {
         "human_reviewed": false,
@@ -1006,9 +1006,9 @@
         "work": "소크라테스의 변명",
         "reference": "18b",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:8b387c781dbfea9daa7ccb84c5903bf3a5c1c3aeebbdfcfd951ae59bd27ab8f5",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-18b",
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-18b",
         "collation_edition": "Burnet, Platonis Opera 1, 전자저본 서지 1905"
       }
     },
@@ -1139,7 +1139,7 @@
       ],
       "work_passage_id": "apology:18c",
       "html_path": "works/apology/index.html#p-18c",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-18c",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-18c",
       "alignment_revision": "sha256:76cafef67d548fee08bdc23efd9950e23b677560b4576e9ae7bcd7788533391b",
       "review_state": {
         "human_reviewed": false,
@@ -1165,9 +1165,9 @@
         "work": "소크라테스의 변명",
         "reference": "18c",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:b5b5471c1301b44c47b4a4a98e4e7f197c132eeb29c722fc0bb5575e626be5d4",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-18c"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-18c"
       }
     },
     {
@@ -1299,7 +1299,7 @@
       "notes": [],
       "work_passage_id": "apology:18d",
       "html_path": "works/apology/index.html#p-18d",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-18d",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-18d",
       "alignment_revision": "sha256:11f6d06dbc218b0e74740c30734e6d59b024d78563e6874cf521b7fb5539ac6b",
       "review_state": {
         "human_reviewed": false,
@@ -1325,9 +1325,9 @@
         "work": "소크라테스의 변명",
         "reference": "18d",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:85cb64482eb7133dc8da36ac66052e8156e695d7b1a73ec1bc01dc3cabc71add",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-18d"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-18d"
       }
     },
     {
@@ -1407,7 +1407,7 @@
       "notes": [],
       "work_passage_id": "apology:18e",
       "html_path": "works/apology/index.html#p-18e",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-18e",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-18e",
       "alignment_revision": "sha256:5c7fde45bbfc05aeccc20c04212c0a063fba615e391f499d0c532aea107f74e9",
       "review_state": {
         "human_reviewed": false,
@@ -1433,9 +1433,9 @@
         "work": "소크라테스의 변명",
         "reference": "18e",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:a2cf612f9efdaefdf8e5c0aded37c1763a22458f1a67cb6ad942cf0cdbd03ca2",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-18e"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-18e"
       }
     },
     {
@@ -1541,7 +1541,7 @@
       "notes": [],
       "work_passage_id": "apology:19a",
       "html_path": "works/apology/index.html#p-19a",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-19a",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-19a",
       "alignment_revision": "sha256:81a811848d50ca249a388f8850dc70be9f05acb7d6cb8ca9c4f2198cfd2075eb",
       "review_state": {
         "human_reviewed": false,
@@ -1567,9 +1567,9 @@
         "work": "소크라테스의 변명",
         "reference": "19a",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:ff6c19d71be779f1786c16e5056de907ab42163a4a5d6d7e45df23016125e49a",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-19a"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-19a"
       }
     },
     {
@@ -1687,7 +1687,7 @@
       ],
       "work_passage_id": "apology:19b",
       "html_path": "works/apology/index.html#p-19b",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-19b",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-19b",
       "alignment_revision": "sha256:51fe05d38b8c951ace68660b8405510fb4624b4a7645e858ff13830e78234572",
       "review_state": {
         "human_reviewed": false,
@@ -1713,9 +1713,9 @@
         "work": "소크라테스의 변명",
         "reference": "19b",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:987f844169bb3544af3cb5acb4f1cd0c35b492c99c7ccd08e655d96f69c5ef92",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-19b"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-19b"
       }
     },
     {
@@ -1857,7 +1857,7 @@
       "notes": [],
       "work_passage_id": "apology:19c",
       "html_path": "works/apology/index.html#p-19c",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-19c",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-19c",
       "alignment_revision": "sha256:06ec39aa3047d03a46f5e7d2542e8e760f0dd8e616dedc36132d2093599c06de",
       "review_state": {
         "human_reviewed": false,
@@ -1883,9 +1883,9 @@
         "work": "소크라테스의 변명",
         "reference": "19c",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:a56b68218607454559edeec7b28aafaa78b6e3a22e6f23167a4588206ffe5f92",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-19c"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-19c"
       }
     },
     {
@@ -1991,7 +1991,7 @@
       "notes": [],
       "work_passage_id": "apology:19d",
       "html_path": "works/apology/index.html#p-19d",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-19d",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-19d",
       "alignment_revision": "sha256:d6b47373502bdc72478d309fbfc25523fe8d911ca5fe9606e85e060b9d3d468e",
       "review_state": {
         "human_reviewed": false,
@@ -2017,9 +2017,9 @@
         "work": "소크라테스의 변명",
         "reference": "19d",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:23dba0582a65c5e71fc586b980bbaf8fb8e171a1a7a321b778f4fb7f2bf39cd9",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-19d"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-19d"
       }
     },
     {
@@ -2125,7 +2125,7 @@
       "notes": [],
       "work_passage_id": "apology:19e",
       "html_path": "works/apology/index.html#p-19e",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-19e",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-19e",
       "alignment_revision": "sha256:c3b156bb9a73ce4426f9d00735a0f23908dd060a930323b6fb5f3b0ae383c350",
       "review_state": {
         "human_reviewed": false,
@@ -2151,9 +2151,9 @@
         "work": "소크라테스의 변명",
         "reference": "19e",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:3f73c9a341bb4db684e420abdfc51887934d76ba99dc93d4a86ea99a62b9ccdb",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-19e"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-19e"
       }
     },
     {
@@ -2291,7 +2291,7 @@
       "notes": [],
       "work_passage_id": "apology:20a",
       "html_path": "works/apology/index.html#p-20a",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-20a",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-20a",
       "alignment_revision": "sha256:4c276e2784fec0a28c9a604f8974ea66bf6ee9b70d3a98d073c4f65f5922f476",
       "review_state": {
         "human_reviewed": false,
@@ -2317,9 +2317,9 @@
         "work": "소크라테스의 변명",
         "reference": "20a",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:cc349ebd5c8d11788d9cb0e9eaff2ff6c69addc780abfc5bd33602902d29c516",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-20a"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-20a"
       }
     },
     {
@@ -2543,7 +2543,7 @@
       ],
       "work_passage_id": "apology:20b",
       "html_path": "works/apology/index.html#p-20b",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-20b",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-20b",
       "alignment_revision": "sha256:cb9eeb6d7dff82d3a8bca8981875bfffd82af09ca3cabba4e578dca560e52fa3",
       "review_state": {
         "human_reviewed": false,
@@ -2569,9 +2569,9 @@
         "work": "소크라테스의 변명",
         "reference": "20b",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:959536dd406ce488dc3904b4d115d7d9c7c9444ab761e10e632b8480dcefb757",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-20b"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-20b"
       }
     },
     {
@@ -2700,7 +2700,7 @@
       "notes": [],
       "work_passage_id": "apology:20c",
       "html_path": "works/apology/index.html#p-20c",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-20c",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-20c",
       "alignment_revision": "sha256:fa97498e236dde6affd3caed808966fd180cdb21fedf546a0dfd66e070110664",
       "review_state": {
         "human_reviewed": false,
@@ -2726,9 +2726,9 @@
         "work": "소크라테스의 변명",
         "reference": "20c",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:11a06a4f5ac2a5338d6509a8aaf958e25561f6914234e30988f5ce8126040d73",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-20c"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-20c"
       }
     },
     {
@@ -2870,7 +2870,7 @@
       "notes": [],
       "work_passage_id": "apology:20d",
       "html_path": "works/apology/index.html#p-20d",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-20d",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-20d",
       "alignment_revision": "sha256:a5d812d5f97401b268cef666913d45908c7780810e816bbf277ff38fc2af1fa4",
       "review_state": {
         "human_reviewed": false,
@@ -2896,9 +2896,9 @@
         "work": "소크라테스의 변명",
         "reference": "20d",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:766a211912c849fd34422c53abb29b4f9d42536d0faaecffa1ad32c4939ece66",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-20d"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-20d"
       }
     },
     {
@@ -3043,7 +3043,7 @@
       "notes": [],
       "work_passage_id": "apology:20e",
       "html_path": "works/apology/index.html#p-20e",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-20e",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-20e",
       "alignment_revision": "sha256:9414117d0d9ae8f14924a5677b0dc453556fba1b7a05868fd67f3955c734dda6",
       "review_state": {
         "human_reviewed": false,
@@ -3069,9 +3069,9 @@
         "work": "소크라테스의 변명",
         "reference": "20e",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:d2a11c067ef2cadec5f91dd03fad4f89847fc0810f930726b60b4ad05acdee26",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-20e"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-20e"
       }
     },
     {
@@ -3203,7 +3203,7 @@
       "notes": [],
       "work_passage_id": "apology:21a",
       "html_path": "works/apology/index.html#p-21a",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-21a",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-21a",
       "alignment_revision": "sha256:52ddf4ed45bf13fdfb923e1bb0d83f649bef78f15652b2cacf631eb0fd7b447f",
       "review_state": {
         "human_reviewed": false,
@@ -3229,9 +3229,9 @@
         "work": "소크라테스의 변명",
         "reference": "21a",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:1c4c78d6979d42cc3b6588a012e7b865e9339059173b816ec710da7279ccfa6c",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-21a"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-21a"
       }
     },
     {
@@ -3412,7 +3412,7 @@
       "notes": [],
       "work_passage_id": "apology:21b",
       "html_path": "works/apology/index.html#p-21b",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-21b",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-21b",
       "alignment_revision": "sha256:530bee61b813a6d9308d7b184ef1cc893f33567ae8f844b42ae8338c5df3b9bc",
       "review_state": {
         "human_reviewed": false,
@@ -3438,9 +3438,9 @@
         "work": "소크라테스의 변명",
         "reference": "21b",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:0e13f95f60d95fd6b24ffe1ba42652055d910254f489740b1a4181d1db971b11",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-21b"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-21b"
       }
     },
     {
@@ -3556,7 +3556,7 @@
       "notes": [],
       "work_passage_id": "apology:21c",
       "html_path": "works/apology/index.html#p-21c",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-21c",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-21c",
       "alignment_revision": "sha256:4b4cf1efb037212b409e117ef334b20f54a1a3b2a64cfe992c1696800905ca95",
       "review_state": {
         "human_reviewed": false,
@@ -3582,9 +3582,9 @@
         "work": "소크라테스의 변명",
         "reference": "21c",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:596a15834dfc42edc97bb5e9a0f3f03bacfa7e9d86a39f505dadb317c751961e",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-21c"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-21c"
       }
     },
     {
@@ -3703,7 +3703,7 @@
       "notes": [],
       "work_passage_id": "apology:21d",
       "html_path": "works/apology/index.html#p-21d",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-21d",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-21d",
       "alignment_revision": "sha256:6808081e72669dcc5f6dc456ec15eb34e02cb5f10d4062d6346d5ab4ac1e2045",
       "review_state": {
         "human_reviewed": false,
@@ -3729,9 +3729,9 @@
         "work": "소크라테스의 변명",
         "reference": "21d",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:5589f6476c9b11772521cdcc1ad3c7d1b74d2f94c8554baadb38bc12049e94ac",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-21d"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-21d"
       }
     },
     {
@@ -3833,7 +3833,7 @@
       "notes": [],
       "work_passage_id": "apology:21e",
       "html_path": "works/apology/index.html#p-21e",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-21e",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-21e",
       "alignment_revision": "sha256:54a364d352ea0a061faf4bb0cc4c026f4cc215201286594f260287e233d38f24",
       "review_state": {
         "human_reviewed": false,
@@ -3859,9 +3859,9 @@
         "work": "소크라테스의 변명",
         "reference": "21e",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:42747e02452172740cbc7dc68c4313d205da9e3d838633429a61d2012fee53ec",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-21e"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-21e"
       }
     },
     {
@@ -4006,7 +4006,7 @@
       "notes": [],
       "work_passage_id": "apology:22a",
       "html_path": "works/apology/index.html#p-22a",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-22a",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-22a",
       "alignment_revision": "sha256:54b42f1b01fe690057509b49e90eca250d567c6fb49ad7e500c366a42693b2a1",
       "review_state": {
         "human_reviewed": false,
@@ -4032,9 +4032,9 @@
         "work": "소크라테스의 변명",
         "reference": "22a",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:cdf63a6714cee1847087af35cd5fa3307b0ae23aadbefdf63abf530a90a2ab40",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-22a"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-22a"
       }
     },
     {
@@ -4153,7 +4153,7 @@
       "notes": [],
       "work_passage_id": "apology:22b",
       "html_path": "works/apology/index.html#p-22b",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-22b",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-22b",
       "alignment_revision": "sha256:7aeb480b207e0e1e39391fc189bd84d0737ba22545978b8fcc67b2fcb95194a2",
       "review_state": {
         "human_reviewed": false,
@@ -4179,9 +4179,9 @@
         "work": "소크라테스의 변명",
         "reference": "22b",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:34556b9c08c32a8c5d508c6bbd4c638b618e4a87ffcf46f8c7396698d02b818c",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-22b"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-22b"
       }
     },
     {
@@ -4326,7 +4326,7 @@
       "notes": [],
       "work_passage_id": "apology:22c",
       "html_path": "works/apology/index.html#p-22c",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-22c",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-22c",
       "alignment_revision": "sha256:a658abd90aab44db98083b470db083ccd091a69878ef46b7a86d032db0786ec3",
       "review_state": {
         "human_reviewed": false,
@@ -4352,9 +4352,9 @@
         "work": "소크라테스의 변명",
         "reference": "22c",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:251e5c3039e14689807918fcc56d1b7801ed448a8374cf5bd061c5bdad8802e1",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-22c"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-22c"
       }
     },
     {
@@ -4460,7 +4460,7 @@
       "notes": [],
       "work_passage_id": "apology:22d",
       "html_path": "works/apology/index.html#p-22d",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-22d",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-22d",
       "alignment_revision": "sha256:9256782e483d64cf1e66075e646f3b6a6e46bd9e3dfc701b56c88b7a04f764fb",
       "review_state": {
         "human_reviewed": false,
@@ -4486,9 +4486,9 @@
         "work": "소크라테스의 변명",
         "reference": "22d",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:7ed90a1d764de825a50579cc7f107670246beb4036d0738f6635c7ef6506c151",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-22d"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-22d"
       }
     },
     {
@@ -4581,7 +4581,7 @@
       "notes": [],
       "work_passage_id": "apology:22e",
       "html_path": "works/apology/index.html#p-22e",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-22e",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-22e",
       "alignment_revision": "sha256:d770baaa40361c5b0c1f8d66235ba7207bd963393ce43fe7abc5e9c2ba46f47c",
       "review_state": {
         "human_reviewed": false,
@@ -4607,9 +4607,9 @@
         "work": "소크라테스의 변명",
         "reference": "22e",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:1488aca07a53fb7274181f75a138aeaf517dbbe2f128b3340796c862248ad336",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-22e"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-22e"
       }
     },
     {
@@ -4715,7 +4715,7 @@
       "notes": [],
       "work_passage_id": "apology:23a",
       "html_path": "works/apology/index.html#p-23a",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-23a",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-23a",
       "alignment_revision": "sha256:b371db9811e33b4de51f555c31c9c8a31b6e911dac7c35f884c0fb2dbd582075",
       "review_state": {
         "human_reviewed": false,
@@ -4741,9 +4741,9 @@
         "work": "소크라테스의 변명",
         "reference": "23a",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:2a01b6b7ae317719be1221bf14f30a5885262d87fce6897a3f1b751ba2e2fff1",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-23a"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-23a"
       }
     },
     {
@@ -4880,7 +4880,7 @@
       "notes": [],
       "work_passage_id": "apology:23b",
       "html_path": "works/apology/index.html#p-23b",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-23b",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-23b",
       "alignment_revision": "sha256:0c6ce86df5ab94e8df1acd1003baabd449a7e551f68bcf79468bcdf868b9ce08",
       "review_state": {
         "human_reviewed": false,
@@ -4906,9 +4906,9 @@
         "work": "소크라테스의 변명",
         "reference": "23b",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:60ab58c32c7cab42747bf3dca241b663db49d333ef9858b1cf19e13b558d6131",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-23b"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-23b"
       }
     },
     {
@@ -5014,7 +5014,7 @@
       "notes": [],
       "work_passage_id": "apology:23c",
       "html_path": "works/apology/index.html#p-23c",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-23c",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-23c",
       "alignment_revision": "sha256:e1c72c25217e11048439fd248373e2038d18afbfd6218379ec131939f0bdb905",
       "review_state": {
         "human_reviewed": false,
@@ -5040,9 +5040,9 @@
         "work": "소크라테스의 변명",
         "reference": "23c",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:a7f422e6e17e1885ee6f9924c58cb55e85cccf65dfc99e8d8528625e9a2afaa8",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-23c"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-23c"
       }
     },
     {
@@ -5176,7 +5176,7 @@
       "notes": [],
       "work_passage_id": "apology:23d",
       "html_path": "works/apology/index.html#p-23d",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-23d",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-23d",
       "alignment_revision": "sha256:29cdff5c57b390bae39f8743552f7f481c2dbd25977ba732937d14340375fb48",
       "review_state": {
         "human_reviewed": false,
@@ -5202,9 +5202,9 @@
         "work": "소크라테스의 변명",
         "reference": "23d",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:1912835b7b319359727fb759c4bc711bf2016c12bbfb883da7df906620bace9d",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-23d"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-23d"
       }
     },
     {
@@ -5297,7 +5297,7 @@
       "notes": [],
       "work_passage_id": "apology:23e",
       "html_path": "works/apology/index.html#p-23e",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-23e",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-23e",
       "alignment_revision": "sha256:eae6d64c44f51d5a0177ff93ed899bd43fe35f9fa8af9597b044857d7fb82132",
       "review_state": {
         "human_reviewed": false,
@@ -5323,9 +5323,9 @@
         "work": "소크라테스의 변명",
         "reference": "23e",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:7ee9b43efc39a3a1e942b0ac44ac406acd90e3de2201f8a1f08d0f0fb98d21e1",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-23e"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-23e"
       }
     },
     {
@@ -5431,7 +5431,7 @@
       "notes": [],
       "work_passage_id": "apology:24a",
       "html_path": "works/apology/index.html#p-24a",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-24a",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-24a",
       "alignment_revision": "sha256:9e6c7407c97051ccc7fda0d4117f7d826160986b0ecb26f10ae39cb40e818697",
       "review_state": {
         "human_reviewed": false,
@@ -5457,9 +5457,9 @@
         "work": "소크라테스의 변명",
         "reference": "24a",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:370c2bbbcdbc586a43b10a73544ec2502281607a0f32b9f4b5537580c6d6f413",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-24a"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-24a"
       }
     },
     {
@@ -5591,7 +5591,7 @@
       "notes": [],
       "work_passage_id": "apology:24b",
       "html_path": "works/apology/index.html#p-24b",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-24b",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-24b",
       "alignment_revision": "sha256:390b4476ab9f2c8fd022b92d6d1676a836acc6442a81be1fae4aea31a92bc9bf",
       "review_state": {
         "human_reviewed": false,
@@ -5617,9 +5617,9 @@
         "work": "소크라테스의 변명",
         "reference": "24b",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:0ff67bfc460026910037769823dd4963fafa345a3d91c4d10dfd91189774c636",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-24b"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-24b"
       }
     },
     {
@@ -5753,7 +5753,7 @@
       ],
       "work_passage_id": "apology:24c",
       "html_path": "works/apology/index.html#p-24c",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-24c",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-24c",
       "alignment_revision": "sha256:4af4f95cfdf2ba0e6eb2befe4faa6bbd7ab81b39aeb98fadc188f2ccebf2b857",
       "review_state": {
         "human_reviewed": false,
@@ -5779,9 +5779,9 @@
         "work": "소크라테스의 변명",
         "reference": "24c",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:4b6ee3c64d2356122a11220520d367455b4f645735dde2d0be8465e951c0aa7b",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-24c"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-24c"
       }
     },
     {
@@ -5954,7 +5954,7 @@
       ],
       "work_passage_id": "apology:24d",
       "html_path": "works/apology/index.html#p-24d",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-24d",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-24d",
       "alignment_revision": "sha256:c1dbfd28476bad93c24b60d23abe398492ef011042e94d353b83172b38e694bc",
       "review_state": {
         "human_reviewed": false,
@@ -5980,9 +5980,9 @@
         "work": "소크라테스의 변명",
         "reference": "24d",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:c9e1871496d0f111ce1f0c8664ee5dead61db8493b7b516936431d6b61622b23",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-24d"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-24d"
       }
     },
     {
@@ -6127,7 +6127,7 @@
       "notes": [],
       "work_passage_id": "apology:24e",
       "html_path": "works/apology/index.html#p-24e",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-24e",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-24e",
       "alignment_revision": "sha256:080d77354ae2dbf17b6e971f338fef3425828cc6ebdd711f0c89c207cb2eac58",
       "review_state": {
         "human_reviewed": false,
@@ -6153,9 +6153,9 @@
         "work": "소크라테스의 변명",
         "reference": "24e",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:7bcd46ff1e3cfac26c7282f20e6d6ad8f58700802b86f081cc67419fc1918d8d",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-24e"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-24e"
       }
     },
     {
@@ -6365,7 +6365,7 @@
       "notes": [],
       "work_passage_id": "apology:25a",
       "html_path": "works/apology/index.html#p-25a",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-25a",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-25a",
       "alignment_revision": "sha256:a9b3ac9314c94a683d2fc1c8b42806245972e578bd4882922fda5499c4214735",
       "review_state": {
         "human_reviewed": false,
@@ -6391,9 +6391,9 @@
         "work": "소크라테스의 변명",
         "reference": "25a",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:559bfe143306c77c8027328d6b29677ffc0ebad453a97c619c44f3ba20b51a76",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-25a"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-25a"
       }
     },
     {
@@ -6501,7 +6501,7 @@
       ],
       "work_passage_id": "apology:25b",
       "html_path": "works/apology/index.html#p-25b",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-25b",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-25b",
       "alignment_revision": "sha256:89875f56dcc3f2d04ee66e9d126059bcfcf8b5be4ae677fe69b2d2265bf5e879",
       "review_state": {
         "human_reviewed": false,
@@ -6527,9 +6527,9 @@
         "work": "소크라테스의 변명",
         "reference": "25b",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:cb83c14b9baac118a9eb7d8d3b89b827464fd0d1fcc652717c98e36ba3bcd93e",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-25b"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-25b"
       }
     },
     {
@@ -6661,7 +6661,7 @@
       "notes": [],
       "work_passage_id": "apology:25c",
       "html_path": "works/apology/index.html#p-25c",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-25c",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-25c",
       "alignment_revision": "sha256:279191031a056197fa6adc4b86dce33e829e5e7bdf10f6e68eef6511cb1084c2",
       "review_state": {
         "human_reviewed": false,
@@ -6687,9 +6687,9 @@
         "work": "소크라테스의 변명",
         "reference": "25c",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:5a97dfe92f2679eb81abda55c8e93f32f5d27b9cb34e8f77b4d616bdb03e8480",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-25c"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-25c"
       }
     },
     {
@@ -6834,7 +6834,7 @@
       "notes": [],
       "work_passage_id": "apology:25d",
       "html_path": "works/apology/index.html#p-25d",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-25d",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-25d",
       "alignment_revision": "sha256:5e2756139032d6cc868fc31a1c804e275868e8d178ec4f0c78adbc2cc3587e1e",
       "review_state": {
         "human_reviewed": false,
@@ -6860,9 +6860,9 @@
         "work": "소크라테스의 변명",
         "reference": "25d",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:67f807014446408726932f75841b253543d9fcf28b83b1267c88f3570d551786",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-25d"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-25d"
       }
     },
     {
@@ -6979,7 +6979,7 @@
       ],
       "work_passage_id": "apology:25e",
       "html_path": "works/apology/index.html#p-25e",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-25e",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-25e",
       "alignment_revision": "sha256:839299c75d1ff58811ad26dd6747d61d15322c170d92a8f0c9bdf8633f830066",
       "review_state": {
         "human_reviewed": false,
@@ -7005,9 +7005,9 @@
         "work": "소크라테스의 변명",
         "reference": "25e",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:5c00677c6b7414a427e4bf5cecf4ff834467a28660fcebc35444498a928cced6",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-25e"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-25e"
       }
     },
     {
@@ -7124,7 +7124,7 @@
       ],
       "work_passage_id": "apology:26a",
       "html_path": "works/apology/index.html#p-26a",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-26a",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-26a",
       "alignment_revision": "sha256:c9ebf2165bfa9a21afb2671f1e0e795efce3b43fa87646e4efb84374adec07fa",
       "review_state": {
         "human_reviewed": false,
@@ -7150,9 +7150,9 @@
         "work": "소크라테스의 변명",
         "reference": "26a",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:5eeaa95355c0b0806874f3fce89c55e2a720901c3c1a33284ce3596a727f439b",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-26a"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-26a"
       }
     },
     {
@@ -7271,7 +7271,7 @@
       "notes": [],
       "work_passage_id": "apology:26b",
       "html_path": "works/apology/index.html#p-26b",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-26b",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-26b",
       "alignment_revision": "sha256:446056cc51f0d52166681771858a79b4f531ba4126fba1e6aac161cef1d7099a",
       "review_state": {
         "human_reviewed": false,
@@ -7297,9 +7297,9 @@
         "work": "소크라테스의 변명",
         "reference": "26b",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:6e5cb9e22479453647435c1b4cb62524d17221c9679feaab6467cc444d3e7d4b",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-26b"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-26b"
       }
     },
     {
@@ -7418,7 +7418,7 @@
       "notes": [],
       "work_passage_id": "apology:26c",
       "html_path": "works/apology/index.html#p-26c",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-26c",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-26c",
       "alignment_revision": "sha256:8eb40131b7463cb858abe0704533c5cfb2abcaed0a890af71da28795cabe6bc4",
       "review_state": {
         "human_reviewed": false,
@@ -7444,9 +7444,9 @@
         "work": "소크라테스의 변명",
         "reference": "26c",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:db5c7572d16d29463a08c043c235894bd981a67e36bddca1787c0e8d6a06b8f2",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-26c"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-26c"
       }
     },
     {
@@ -7567,7 +7567,7 @@
       ],
       "work_passage_id": "apology:26d",
       "html_path": "works/apology/index.html#p-26d",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-26d",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-26d",
       "alignment_revision": "sha256:219c3ed164cc70faa4019eb468cb956eb652645497c6b09e06de771c880c92ce",
       "review_state": {
         "human_reviewed": false,
@@ -7593,9 +7593,9 @@
         "work": "소크라테스의 변명",
         "reference": "26d",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:458f30a3467739e79aca9f0e11d117d935497732d9dd96ebbd899c7212e7edde",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-26d"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-26d"
       }
     },
     {
@@ -7703,7 +7703,7 @@
       ],
       "work_passage_id": "apology:26e",
       "html_path": "works/apology/index.html#p-26e",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-26e",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-26e",
       "alignment_revision": "sha256:e22f14f595bd0aa3710484240a5209f7277b0e0c52220cf81e3ae2162588bac3",
       "review_state": {
         "human_reviewed": false,
@@ -7729,9 +7729,9 @@
         "work": "소크라테스의 변명",
         "reference": "26e",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:2f152c60f5ec2dc92e59a67fb634b370d101aa052aaa6f7e9185c7823b5de633",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-26e"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-26e"
       }
     },
     {
@@ -7882,7 +7882,7 @@
       "notes": [],
       "work_passage_id": "apology:27a",
       "html_path": "works/apology/index.html#p-27a",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-27a",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-27a",
       "alignment_revision": "sha256:108334ce4688f1064853dce9cba566161cec82283b9de950bcbadeccd03fe118",
       "review_state": {
         "human_reviewed": false,
@@ -7908,9 +7908,9 @@
         "work": "소크라테스의 변명",
         "reference": "27a",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:91f2a8911740156798266457463db33918cc50a618de4d47bf52002ef123ac3f",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-27a"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-27a"
       }
     },
     {
@@ -8042,7 +8042,7 @@
       "notes": [],
       "work_passage_id": "apology:27b",
       "html_path": "works/apology/index.html#p-27b",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-27b",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-27b",
       "alignment_revision": "sha256:e25ce8b7bb8d56bc760635cb4e27111dbb0a626a98fad47e273a342cd6717fb9",
       "review_state": {
         "human_reviewed": false,
@@ -8068,9 +8068,9 @@
         "work": "소크라테스의 변명",
         "reference": "27b",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:a2864cf7abb43c3d6c219609041b9eb4b2cfe13372d47e80455cf3ea6c5ced4f",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-27b"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-27b"
       }
     },
     {
@@ -8215,7 +8215,7 @@
       "notes": [],
       "work_passage_id": "apology:27c",
       "html_path": "works/apology/index.html#p-27c",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-27c",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-27c",
       "alignment_revision": "sha256:a50421060c0b50ad844c99f36ad4c23a26b28f0fddff04b9d5218c32f2c57902",
       "review_state": {
         "human_reviewed": false,
@@ -8241,9 +8241,9 @@
         "work": "소크라테스의 변명",
         "reference": "27c",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:ea74c228807f040b4313644da555ec82fc90618f78aabeb5474befed3a3796e8",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-27c"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-27c"
       }
     },
     {
@@ -8364,7 +8364,7 @@
       ],
       "work_passage_id": "apology:27d",
       "html_path": "works/apology/index.html#p-27d",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-27d",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-27d",
       "alignment_revision": "sha256:b7ab04d5eace28830161db2f769250da66ef2993e94489ab14c926383f0da855",
       "review_state": {
         "human_reviewed": false,
@@ -8390,9 +8390,9 @@
         "work": "소크라테스의 변명",
         "reference": "27d",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:eff29de3ccc7e1f812618ab825abb267cd48119278a83e342aa236e5da5cf6fc",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-27d"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-27d"
       }
     },
     {
@@ -8485,7 +8485,7 @@
       "notes": [],
       "work_passage_id": "apology:27e",
       "html_path": "works/apology/index.html#p-27e",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-27e",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-27e",
       "alignment_revision": "sha256:6ec945d41d25097cd3eaf405aa296e62547545dd1deb4cdac1266f28ef0647d9",
       "review_state": {
         "human_reviewed": false,
@@ -8511,9 +8511,9 @@
         "work": "소크라테스의 변명",
         "reference": "27e",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:492479cc3fe67af1080dd7fc12f341ca653c7bb2b41daeadf025d5a898dde424",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-27e"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-27e"
       }
     },
     {
@@ -8619,7 +8619,7 @@
       "notes": [],
       "work_passage_id": "apology:28a",
       "html_path": "works/apology/index.html#p-28a",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-28a",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-28a",
       "alignment_revision": "sha256:1c9e18f9396dd2c96a9b84441983ba906cf93fb5924400a4537b00576e9f7c42",
       "review_state": {
         "human_reviewed": false,
@@ -8645,9 +8645,9 @@
         "work": "소크라테스의 변명",
         "reference": "28a",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:01e838227dbb9ca64e5bbbaad28294cc1ae27c7f8fdd745fb203b3b83cbe02d8",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-28a"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-28a"
       }
     },
     {
@@ -8798,7 +8798,7 @@
       "notes": [],
       "work_passage_id": "apology:28b",
       "html_path": "works/apology/index.html#p-28b",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-28b",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-28b",
       "alignment_revision": "sha256:5754eb935322d9df6b73000252659703dd143b8c1c0aa444bd7ae7da4cea1650",
       "review_state": {
         "human_reviewed": false,
@@ -8824,9 +8824,9 @@
         "work": "소크라테스의 변명",
         "reference": "28b",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:cbc7d292a790f42d825441697d282887d5baa69f39d6887b3882a4500f54f326",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-28b"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-28b"
       }
     },
     {
@@ -8975,7 +8975,7 @@
       ],
       "work_passage_id": "apology:28c",
       "html_path": "works/apology/index.html#p-28c",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-28c",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-28c",
       "alignment_revision": "sha256:5aa65a2afc5f32a8e4b301f392c15d05a44704dcc7507d1342403faeb1fcfbb7",
       "review_state": {
         "human_reviewed": false,
@@ -9001,9 +9001,9 @@
         "work": "소크라테스의 변명",
         "reference": "28c",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:a9b4d250f537c332c14397e3edee79f9f6e6d1d3833b2282245a763feed6197b",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-28c"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-28c"
       }
     },
     {
@@ -9172,7 +9172,7 @@
       ],
       "work_passage_id": "apology:28d",
       "html_path": "works/apology/index.html#p-28d",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-28d",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-28d",
       "alignment_revision": "sha256:ce9ab3b4ddc458369a2053d4c41b5025b22bfc696707ce2a792449a80480652b",
       "review_state": {
         "human_reviewed": false,
@@ -9198,9 +9198,9 @@
         "work": "소크라테스의 변명",
         "reference": "28d",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:ba0518dc7961c827cbdb5576ba33852e30dfa7e06283337e8eccfea29ff7116b",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-28d",
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-28d",
         "collation_edition": "Burnet, Platonis Opera 1, 전자저본 서지 1905"
       }
     },
@@ -9281,7 +9281,7 @@
       "notes": [],
       "work_passage_id": "apology:28e",
       "html_path": "works/apology/index.html#p-28e",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-28e",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-28e",
       "alignment_revision": "sha256:8542dc83a92f4f3f02edb530450b93b049995568f807b6d61757e6dca41d78e3",
       "review_state": {
         "human_reviewed": false,
@@ -9307,9 +9307,9 @@
         "work": "소크라테스의 변명",
         "reference": "28e",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:1dfc43617f74f793e5cffb998582f2248cac0f942da3ac7b946a5f0bb4c803d2",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-28e"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-28e"
       }
     },
     {
@@ -9428,7 +9428,7 @@
       "notes": [],
       "work_passage_id": "apology:29a",
       "html_path": "works/apology/index.html#p-29a",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-29a",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-29a",
       "alignment_revision": "sha256:403eb27976d1738f004982a0509a6c82a067469dcdf2dc514422ad712de0f150",
       "review_state": {
         "human_reviewed": false,
@@ -9454,9 +9454,9 @@
         "work": "소크라테스의 변명",
         "reference": "29a",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:30a04568ca542f1da1b0d21079a5aface1816ff26951c9420b27ba1e12ac2591",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-29a"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-29a"
       }
     },
     {
@@ -9575,7 +9575,7 @@
       "notes": [],
       "work_passage_id": "apology:29b",
       "html_path": "works/apology/index.html#p-29b",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-29b",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-29b",
       "alignment_revision": "sha256:d69897b7aa18a59f521d140e1784960866a695add629a6514cfcc6f61f0f33a6",
       "review_state": {
         "human_reviewed": false,
@@ -9601,9 +9601,9 @@
         "work": "소크라테스의 변명",
         "reference": "29b",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:95f063f308dc19c04773e9b65c95df186008dea605e77ac11c484fa6cb08e5d5",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-29b"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-29b"
       }
     },
     {
@@ -9729,7 +9729,7 @@
       ],
       "work_passage_id": "apology:29c",
       "html_path": "works/apology/index.html#p-29c",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-29c",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-29c",
       "alignment_revision": "sha256:7c9ba97e0bef71485e853649136633d4d9b120c8a510b46c94b2389d4beae7f9",
       "review_state": {
         "human_reviewed": false,
@@ -9755,9 +9755,9 @@
         "work": "소크라테스의 변명",
         "reference": "29c",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:414a0501269c0fc8ddd411e0cf5dcc6ca433d2d129ae2ffb1ebd71c6769cce24",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-29c"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-29c"
       }
     },
     {
@@ -9834,7 +9834,7 @@
       "notes": [],
       "work_passage_id": "apology:29d.1",
       "html_path": "works/apology/index.html#p-29d-1",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-29d-1",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-29d-1",
       "alignment_revision": "sha256:92ffe92e231b1134ddb131452196f65109b873afe16a66f476cdcf48ada07cfe",
       "review_state": {
         "human_reviewed": false,
@@ -9860,9 +9860,9 @@
         "work": "소크라테스의 변명",
         "reference": "29d.1",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:7ee1df50e8af43a27d035cfd67ce499133466633eb875fdab77ef179a00f4fdf",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-29d-1"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-29d-1"
       }
     },
     {
@@ -9929,7 +9929,7 @@
       ],
       "work_passage_id": "apology:29d",
       "html_path": "works/apology/index.html#p-29d",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-29d",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-29d",
       "alignment_revision": "sha256:6b3f43e2c2e0ffa8607802c05940d9a6136cc63616ee63f4102ff070e79611c0",
       "review_state": {
         "human_reviewed": false,
@@ -9955,9 +9955,9 @@
         "work": "소크라테스의 변명",
         "reference": "29d",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:8a20ea63a5789a22cec5230d271cef410f2dfbd67fab8e33f55e63cfa26b1a24",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-29d"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-29d"
       }
     },
     {
@@ -10082,7 +10082,7 @@
       "notes": [],
       "work_passage_id": "apology:29d.2",
       "html_path": "works/apology/index.html#p-29d-2",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-29d-2",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-29d-2",
       "alignment_revision": "sha256:3d10fe8792a7894c1bc0e44148fc12da6a6f78e5e0583f60814840b44cbeaa80",
       "review_state": {
         "human_reviewed": false,
@@ -10108,9 +10108,9 @@
         "work": "소크라테스의 변명",
         "reference": "29d.2",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:c49c76431a2d02e383ceeb43d341ab482ecd1b3c84ed3adc32d70e13ff493b31",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-29d-2"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-29d-2"
       }
     },
     {
@@ -10231,7 +10231,7 @@
       "notes": [],
       "work_passage_id": "apology:29e",
       "html_path": "works/apology/index.html#p-29e",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-29e",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-29e",
       "alignment_revision": "sha256:21b24db4226b20a56f2e4b85e193c10525fbdbee0c418365cd02e9e9a21b3cce",
       "review_state": {
         "human_reviewed": false,
@@ -10257,9 +10257,9 @@
         "work": "소크라테스의 변명",
         "reference": "29e",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:b1b9cf1e181fda9ba9d048ebc2ff6e4f8f15ad6a47ed3a4e2bc6010ee3c8411e",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-29e"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-29e"
       }
     },
     {
@@ -10375,7 +10375,7 @@
       "notes": [],
       "work_passage_id": "apology:30a",
       "html_path": "works/apology/index.html#p-30a",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-30a",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-30a",
       "alignment_revision": "sha256:56c1eb3319cf3d49886c466b0e2e0a5f291cc96d0118b9e4c149784f04238f21",
       "review_state": {
         "human_reviewed": false,
@@ -10401,9 +10401,9 @@
         "work": "소크라테스의 변명",
         "reference": "30a",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:e155d78c896bf17ac648c4e5191a3ddc14f2403c86ff49b6e82eeee86bcb9e0b",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-30a"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-30a"
       }
     },
     {
@@ -10550,7 +10550,7 @@
       "notes": [],
       "work_passage_id": "apology:30b",
       "html_path": "works/apology/index.html#p-30b",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-30b",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-30b",
       "alignment_revision": "sha256:5c767b5eec7300cdef40ad0fe88661ca540619ccd8dac5986135a558e6776195",
       "review_state": {
         "human_reviewed": false,
@@ -10576,9 +10576,9 @@
         "work": "소크라테스의 변명",
         "reference": "30b",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:398c2a9e493a5293cae6ee1be98c0d5741503688de0babd0a2f20c16cba3a9a5",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-30b"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-30b"
       }
     },
     {
@@ -10720,7 +10720,7 @@
       "notes": [],
       "work_passage_id": "apology:30c",
       "html_path": "works/apology/index.html#p-30c",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-30c",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-30c",
       "alignment_revision": "sha256:fa58ef84f72c2b73579bc574902cf57b67a029b337555d37e98956bc24438e58",
       "review_state": {
         "human_reviewed": false,
@@ -10746,9 +10746,9 @@
         "work": "소크라테스의 변명",
         "reference": "30c",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:6314abb7524ff1d3d6ca083b48ea0d0b493ee529cbd070a2deded0900de10a46",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-30c"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-30c"
       }
     },
     {
@@ -10854,7 +10854,7 @@
       "notes": [],
       "work_passage_id": "apology:30d",
       "html_path": "works/apology/index.html#p-30d",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-30d",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-30d",
       "alignment_revision": "sha256:3d6ab1af6f6b7f0958f31968f2d013c71e384538c3067757724af5404af213d5",
       "review_state": {
         "human_reviewed": false,
@@ -10880,9 +10880,9 @@
         "work": "소크라테스의 변명",
         "reference": "30d",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:44560d0e4f8b73f3e97d0b5f3870215fbfd505458bc0ffdea3f831f58fc8eabe",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-30d"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-30d"
       }
     },
     {
@@ -10988,7 +10988,7 @@
       "notes": [],
       "work_passage_id": "apology:30e",
       "html_path": "works/apology/index.html#p-30e",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-30e",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-30e",
       "alignment_revision": "sha256:c26a47a26802bd58323d8ddc23412da2d8dc185edfc4af343462e4fbaa95aa14",
       "review_state": {
         "human_reviewed": false,
@@ -11014,9 +11014,9 @@
         "work": "소크라테스의 변명",
         "reference": "30e",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:814bf040ce7f0948ce1c01409b9531b8a34dc6d7887bb7a67262aecaec36b7be",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-30e"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-30e"
       }
     },
     {
@@ -11109,7 +11109,7 @@
       "notes": [],
       "work_passage_id": "apology:31a",
       "html_path": "works/apology/index.html#p-31a",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-31a",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-31a",
       "alignment_revision": "sha256:2a64908619c456b02c1ac4858f77cbfd8579d9914d18f1dd90915f78ae6ac1d2",
       "review_state": {
         "human_reviewed": false,
@@ -11135,9 +11135,9 @@
         "work": "소크라테스의 변명",
         "reference": "31a",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:50ebf2af70d9dff938b8759322dc2512c5aa735bdeedfe831b0e3a97a5635b50",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-31a"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-31a"
       }
     },
     {
@@ -11217,7 +11217,7 @@
       "notes": [],
       "work_passage_id": "apology:31b",
       "html_path": "works/apology/index.html#p-31b",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-31b",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-31b",
       "alignment_revision": "sha256:de84613eb7b72ce66bd3a6ddfaeedb8763d254e3482c2e2a9c196eba8ee045ce",
       "review_state": {
         "human_reviewed": false,
@@ -11243,9 +11243,9 @@
         "work": "소크라테스의 변명",
         "reference": "31b",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:6f368af76d05789a52e93ca3f72e32205444970d1cf649ab4b2acbe3b7b6c37b",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-31b"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-31b"
       }
     },
     {
@@ -11338,7 +11338,7 @@
       "notes": [],
       "work_passage_id": "apology:31c",
       "html_path": "works/apology/index.html#p-31c",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-31c",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-31c",
       "alignment_revision": "sha256:ef8a472ddfe560e1434c19b2afad48d417e880ed6365a783fe40828fc99cb3eb",
       "review_state": {
         "human_reviewed": false,
@@ -11364,9 +11364,9 @@
         "work": "소크라테스의 변명",
         "reference": "31c",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:f9085a602f32c01297929c66bcd5aa8e067853be5e6b625333a0b288ffc11a3c",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-31c"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-31c"
       }
     },
     {
@@ -11483,7 +11483,7 @@
       ],
       "work_passage_id": "apology:31d",
       "html_path": "works/apology/index.html#p-31d",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-31d",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-31d",
       "alignment_revision": "sha256:f529eb33b42c901ce7e074e6e4e320a612cbf2fcfa30331fcc1af6f013e291ae",
       "review_state": {
         "human_reviewed": false,
@@ -11509,9 +11509,9 @@
         "work": "소크라테스의 변명",
         "reference": "31d",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:85c22e49d6bee04538cf1a8fea8501c385affb572ac55770f134462dea0016c8",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-31d"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-31d"
       }
     },
     {
@@ -11604,7 +11604,7 @@
       "notes": [],
       "work_passage_id": "apology:31e",
       "html_path": "works/apology/index.html#p-31e",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-31e",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-31e",
       "alignment_revision": "sha256:46ec892d11de07db44fa3bd7a0dae59c8727edbfa83ef5bb8e78fd2a2ae4fc22",
       "review_state": {
         "human_reviewed": false,
@@ -11630,9 +11630,9 @@
         "work": "소크라테스의 변명",
         "reference": "31e",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:90eeebc51c61a4f5d30a3c368ffa119517b50189a4ded968cc15924a798d9c44",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-31e"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-31e"
       }
     },
     {
@@ -11738,7 +11738,7 @@
       "notes": [],
       "work_passage_id": "apology:32a",
       "html_path": "works/apology/index.html#p-32a",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-32a",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-32a",
       "alignment_revision": "sha256:dab21a63b3ae787a621d7d21a318c487f7aab96f8b05611e8a71d8136059dada",
       "review_state": {
         "human_reviewed": false,
@@ -11764,9 +11764,9 @@
         "work": "소크라테스의 변명",
         "reference": "32a",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:457ef8c772b7cdc85689cba1ec964df054fdc89c82cbfb8dde9ac19acc597ef8",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-32a"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-32a"
       }
     },
     {
@@ -11861,7 +11861,7 @@
       ],
       "work_passage_id": "apology:32b",
       "html_path": "works/apology/index.html#p-32b",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-32b",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-32b",
       "alignment_revision": "sha256:42c448796f048555650f71dd3ada980f17601365bdfdd4ca2601f4856ef86a65",
       "review_state": {
         "human_reviewed": false,
@@ -11887,9 +11887,9 @@
         "work": "소크라테스의 변명",
         "reference": "32b",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:cbf694154944f5bcac05d5cf00c068e8b6286efa844a0b176d6be8db346704f6",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-32b"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-32b"
       }
     },
     {
@@ -11997,7 +11997,7 @@
       ],
       "work_passage_id": "apology:32c",
       "html_path": "works/apology/index.html#p-32c",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-32c",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-32c",
       "alignment_revision": "sha256:91709e01db51ad058272368a649967795b9c14fd46028feeb017d8a7e481db13",
       "review_state": {
         "human_reviewed": false,
@@ -12023,9 +12023,9 @@
         "work": "소크라테스의 변명",
         "reference": "32c",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:41204e4fa44cc514dff6285b02aac05563fe7b458f84b3546452de7fcbf266f3",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-32c"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-32c"
       }
     },
     {
@@ -12131,7 +12131,7 @@
       "notes": [],
       "work_passage_id": "apology:32d",
       "html_path": "works/apology/index.html#p-32d",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-32d",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-32d",
       "alignment_revision": "sha256:e01c8554ac9f2cae77aab05872d64e77826d5e01e3df579b8e236652efc965b7",
       "review_state": {
         "human_reviewed": false,
@@ -12157,9 +12157,9 @@
         "work": "소크라테스의 변명",
         "reference": "32d",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:2de8802489c7b9656e5ed845cbd3c3ef5456d15ec22032caa984ac22864b2415",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-32d"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-32d"
       }
     },
     {
@@ -12254,7 +12254,7 @@
       ],
       "work_passage_id": "apology:32e",
       "html_path": "works/apology/index.html#p-32e",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-32e",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-32e",
       "alignment_revision": "sha256:42259014acb1315901883ab8f3f9c9746bb6e1a423ef947a4608ff243be900a5",
       "review_state": {
         "human_reviewed": false,
@@ -12280,9 +12280,9 @@
         "work": "소크라테스의 변명",
         "reference": "32e",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:24e05453b421036a11d54cfe1c0097b58616c671cf6775354eb3a4eaeafef0c8",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-32e"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-32e"
       }
     },
     {
@@ -12388,7 +12388,7 @@
       "notes": [],
       "work_passage_id": "apology:33a",
       "html_path": "works/apology/index.html#p-33a",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-33a",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-33a",
       "alignment_revision": "sha256:17361c35e5aca514a83532fd05ded058f291a63460138b26bd2cf45665c2245f",
       "review_state": {
         "human_reviewed": false,
@@ -12414,9 +12414,9 @@
         "work": "소크라테스의 변명",
         "reference": "33a",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:04f32027dd79907a1a45751074c2d4d7287a3dd0b0c37e0bf085bbad50d1c132",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-33a"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-33a"
       }
     },
     {
@@ -12522,7 +12522,7 @@
       "notes": [],
       "work_passage_id": "apology:33b",
       "html_path": "works/apology/index.html#p-33b",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-33b",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-33b",
       "alignment_revision": "sha256:b0487ef16bf6538de66da389abdc460894dd121cfbff9630102df875ecb32b8f",
       "review_state": {
         "human_reviewed": false,
@@ -12548,9 +12548,9 @@
         "work": "소크라테스의 변명",
         "reference": "33b",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:0172848c9a79cb7efd1f9ac1085b9b72e1c87e1c6c425fb2953d7e68a38b1afc",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-33b"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-33b"
       }
     },
     {
@@ -12669,7 +12669,7 @@
       "notes": [],
       "work_passage_id": "apology:33c",
       "html_path": "works/apology/index.html#p-33c",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-33c",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-33c",
       "alignment_revision": "sha256:f588c9314316cf8b161197bcd93ee45777029aea47dc99350520eac03e1c567b",
       "review_state": {
         "human_reviewed": false,
@@ -12695,9 +12695,9 @@
         "work": "소크라테스의 변명",
         "reference": "33c",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:a961dc9f754a2cb285f282601197285bf3423380b1d408a0a1f218a31b4960a5",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-33c"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-33c"
       }
     },
     {
@@ -12790,7 +12790,7 @@
       "notes": [],
       "work_passage_id": "apology:33d",
       "html_path": "works/apology/index.html#p-33d",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-33d",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-33d",
       "alignment_revision": "sha256:ab0d0de67e03a8bcf356a8f823b59e50c8256a3d4af1e00a6907638288075f23",
       "review_state": {
         "human_reviewed": false,
@@ -12816,9 +12816,9 @@
         "work": "소크라테스의 변명",
         "reference": "33d",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:111b4c7cb7ae46b39dc0d97406a9a3af8b8c28b5986b5297c29cac5f6b01959f",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-33d"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-33d"
       }
     },
     {
@@ -12952,7 +12952,7 @@
       ],
       "work_passage_id": "apology:33e",
       "html_path": "works/apology/index.html#p-33e",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-33e",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-33e",
       "alignment_revision": "sha256:212f9bb7435fb0312b808789bf01c9a8988fd8a20bac65aedad3985de6ce1459",
       "review_state": {
         "human_reviewed": false,
@@ -12978,9 +12978,9 @@
         "work": "소크라테스의 변명",
         "reference": "33e",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:407e4e8fdd38c5629e839af861a0ba018f69b9d6b140a0303a8fba03769c8646",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-33e"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-33e"
       }
     },
     {
@@ -13088,7 +13088,7 @@
       ],
       "work_passage_id": "apology:34a",
       "html_path": "works/apology/index.html#p-34a",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-34a",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-34a",
       "alignment_revision": "sha256:adc092959b9d7af4b22858e5f62a2d115ff9ddd95df18806b5768598a0076784",
       "review_state": {
         "human_reviewed": false,
@@ -13114,9 +13114,9 @@
         "work": "소크라테스의 변명",
         "reference": "34a",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:06e5e287c926be5c544c78033d7663419352cfb55813537dc7b04b0779ccf7ca",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-34a"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-34a"
       }
     },
     {
@@ -13222,7 +13222,7 @@
       "notes": [],
       "work_passage_id": "apology:34b",
       "html_path": "works/apology/index.html#p-34b",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-34b",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-34b",
       "alignment_revision": "sha256:afdcd06111937280aca6a164c53ff146605d32e4e3e2e6adb29ae45712b93e62",
       "review_state": {
         "human_reviewed": false,
@@ -13248,9 +13248,9 @@
         "work": "소크라테스의 변명",
         "reference": "34b",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:3fb4a01de0eabe92618cfdae9afe1d981788e3c92b5a7b2624c497ef6f82135d",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-34b"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-34b"
       }
     },
     {
@@ -13343,7 +13343,7 @@
       "notes": [],
       "work_passage_id": "apology:34c",
       "html_path": "works/apology/index.html#p-34c",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-34c",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-34c",
       "alignment_revision": "sha256:f8cfd88f29cecd56d8a3d071174ac803c5f9909e33213b5b92ca0c2c196ce1c5",
       "review_state": {
         "human_reviewed": false,
@@ -13369,9 +13369,9 @@
         "work": "소크라테스의 변명",
         "reference": "34c",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:f2605e3fb63c47745c6783b190fefcc4ea5ac522ca0d4b8bc1f71b3b1846cc53",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-34c"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-34c"
       }
     },
     {
@@ -13535,7 +13535,7 @@
       "notes": [],
       "work_passage_id": "apology:34d",
       "html_path": "works/apology/index.html#p-34d",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-34d",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-34d",
       "alignment_revision": "sha256:412c389a4e0b198831b66dc4bad27049f3c0df6e4a0dcf07ae86f118e61dcc23",
       "review_state": {
         "human_reviewed": false,
@@ -13561,9 +13561,9 @@
         "work": "소크라테스의 변명",
         "reference": "34d",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:5f09765906a15bfa03a21153a461c31f9e81ef1b8e29082dce0edfa463c96ddd",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-34d"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-34d"
       }
     },
     {
@@ -13669,7 +13669,7 @@
       "notes": [],
       "work_passage_id": "apology:34e",
       "html_path": "works/apology/index.html#p-34e",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-34e",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-34e",
       "alignment_revision": "sha256:f35425057e6f8e550db7530217723d6418da4d484168ae05bd86444cb0c8c3b2",
       "review_state": {
         "human_reviewed": false,
@@ -13695,9 +13695,9 @@
         "work": "소크라테스의 변명",
         "reference": "34e",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:f8e4ab1d6c92c1d703fef4aabdbd8ef1536d9f8ac5c73e8e92d2b435678f0ba3",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-34e"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-34e"
       }
     },
     {
@@ -13803,7 +13803,7 @@
       "notes": [],
       "work_passage_id": "apology:35a",
       "html_path": "works/apology/index.html#p-35a",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-35a",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-35a",
       "alignment_revision": "sha256:474c789d01cdc1da5bcdf361335d6caca4d246f94b8c76ddb12b2af082fbe451",
       "review_state": {
         "human_reviewed": false,
@@ -13829,9 +13829,9 @@
         "work": "소크라테스의 변명",
         "reference": "35a",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:d91983a28cae906743a1622131c69d2930781feaed40657878c5bbf1699c5fe4",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-35a"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-35a"
       }
     },
     {
@@ -13924,7 +13924,7 @@
       "notes": [],
       "work_passage_id": "apology:35b",
       "html_path": "works/apology/index.html#p-35b",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-35b",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-35b",
       "alignment_revision": "sha256:beb4717a9e96feae97d36c2b75529509eb24412e119392fa6d87fb57720eeae8",
       "review_state": {
         "human_reviewed": false,
@@ -13950,9 +13950,9 @@
         "work": "소크라테스의 변명",
         "reference": "35b",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:739fb3839dd9100fb29986f7886ae5a5463cf9e06a09b049500c86528e6aef94",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-35b"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-35b"
       }
     },
     {
@@ -14071,7 +14071,7 @@
       "notes": [],
       "work_passage_id": "apology:35c",
       "html_path": "works/apology/index.html#p-35c",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-35c",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-35c",
       "alignment_revision": "sha256:24a26521ceacb7f5dafa9b0e23a6a951035fbdc5d070d1fa9dc6e0c942dee463",
       "review_state": {
         "human_reviewed": false,
@@ -14097,9 +14097,9 @@
         "work": "소크라테스의 변명",
         "reference": "35c",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:6b6f0a8c230503df2a35e4023d72a3939cca05cbaf707253c7ffc383ef48c466",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-35c"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-35c"
       }
     },
     {
@@ -14218,7 +14218,7 @@
       "notes": [],
       "work_passage_id": "apology:35d",
       "html_path": "works/apology/index.html#p-35d",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-35d",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-35d",
       "alignment_revision": "sha256:da1c51b7e50f897dbd8f5438c3f03896f1179e8970dca3a0f482e9fb7302a469",
       "review_state": {
         "human_reviewed": false,
@@ -14244,9 +14244,9 @@
         "work": "소크라테스의 변명",
         "reference": "35d",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:2996c5488685c5349aed5e964561349f92d73cc882cc17fa80e5d88b2f75309c",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-35d"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-35d"
       }
     },
     {
@@ -14302,7 +14302,7 @@
       ],
       "work_passage_id": "apology:35e",
       "html_path": "works/apology/index.html#p-35e",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-35e",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-35e",
       "alignment_revision": "sha256:d14f4ed00a7796c7110504c2cb47850d10e311885d198bd209e6baff848b7c30",
       "review_state": {
         "human_reviewed": false,
@@ -14328,9 +14328,9 @@
         "work": "소크라테스의 변명",
         "reference": "35e",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:10ae13cc22c502cbc8050fb3e0aa49efe9169ffbd2745c8bed690acc225ef40c",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-35e"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-35e"
       }
     },
     {
@@ -14451,7 +14451,7 @@
       ],
       "work_passage_id": "apology:36a",
       "html_path": "works/apology/index.html#p-36a",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-36a",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-36a",
       "alignment_revision": "sha256:4af753ec598bee0ee2bc2ad80d8b5663317159ed852328bd788c9a36fa9a47d8",
       "review_state": {
         "human_reviewed": false,
@@ -14477,9 +14477,9 @@
         "work": "소크라테스의 변명",
         "reference": "36a",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:7e3f6e0026cc6d60a31a134288924317efe0f9e74880e939cd48e9d3312d32c8",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-36a"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-36a"
       }
     },
     {
@@ -14631,7 +14631,7 @@
       ],
       "work_passage_id": "apology:36b",
       "html_path": "works/apology/index.html#p-36b",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-36b",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-36b",
       "alignment_revision": "sha256:9888d65003b88a3659c5ede8a88d6c9aadb6ed5ad007bebcba7c5768854bc748",
       "review_state": {
         "human_reviewed": false,
@@ -14657,9 +14657,9 @@
         "work": "소크라테스의 변명",
         "reference": "36b",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:6bac29089641e623f559a9db997f1fb03670815ab7e1d8f60ac22f1d64b537c1",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-36b",
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-36b",
         "collation_edition": "Burnet, Platonis Opera 1, 전자저본 서지 1905"
       }
     },
@@ -14812,7 +14812,7 @@
       ],
       "work_passage_id": "apology:36c",
       "html_path": "works/apology/index.html#p-36c",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-36c",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-36c",
       "alignment_revision": "sha256:bba907590a0aea37d54e1ee93757af80403fdd4ce2bf18b06152105f19412996",
       "review_state": {
         "human_reviewed": false,
@@ -14838,9 +14838,9 @@
         "work": "소크라테스의 변명",
         "reference": "36c",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:f09fab920a97fb2fcfa587c5ded1cada0c255cd1547c03ebbdc62c298b435bc7",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-36c",
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-36c",
         "collation_edition": "Burnet, Platonis Opera 1, 전자저본 서지 1905"
       }
     },
@@ -15002,7 +15002,7 @@
       ],
       "work_passage_id": "apology:36d",
       "html_path": "works/apology/index.html#p-36d",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-36d",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-36d",
       "alignment_revision": "sha256:2bb5933459e180a92fe4c55ab65b0c1c7fed2e4d7e89a833df3a7e95ce5e1986",
       "review_state": {
         "human_reviewed": false,
@@ -15028,9 +15028,9 @@
         "work": "소크라테스의 변명",
         "reference": "36d",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:d6c086366f279ecc00347ee33860e9d0cdcf81db7530f4a0a48cc7f85e5a8934",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-36d",
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-36d",
         "collation_edition": "Burnet, Platonis Opera 1, 전자저본 서지 1905"
       }
     },
@@ -15111,7 +15111,7 @@
       "notes": [],
       "work_passage_id": "apology:36e",
       "html_path": "works/apology/index.html#p-36e",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-36e",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-36e",
       "alignment_revision": "sha256:76d16a5ef82b524dbfadb96b4fc9fa97df620858b1ffa39393f15346ac9883eb",
       "review_state": {
         "human_reviewed": false,
@@ -15137,9 +15137,9 @@
         "work": "소크라테스의 변명",
         "reference": "36e",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:e375c16e682b679d99ed62a9062ae053c54d2d13e47d841b828f5dff8a7dbaee",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-36e"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-36e"
       }
     },
     {
@@ -15245,7 +15245,7 @@
       "notes": [],
       "work_passage_id": "apology:37a",
       "html_path": "works/apology/index.html#p-37a",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-37a",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-37a",
       "alignment_revision": "sha256:7de15cb410c18532b4f49177d046ffe720f4556cf9cee4dfac28d962dcb2e7cf",
       "review_state": {
         "human_reviewed": false,
@@ -15271,9 +15271,9 @@
         "work": "소크라테스의 변명",
         "reference": "37a",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:df948bd757fa22265a8256ed3169178c1f8914e6f341ca0e08d8a831a91cbc27",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-37a"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-37a"
       }
     },
     {
@@ -15405,7 +15405,7 @@
       "notes": [],
       "work_passage_id": "apology:37b",
       "html_path": "works/apology/index.html#p-37b",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-37b",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-37b",
       "alignment_revision": "sha256:2eab8cbe42374d82da2515222e600e1c3dd7a96232aebc2456576efee0781180",
       "review_state": {
         "human_reviewed": false,
@@ -15431,9 +15431,9 @@
         "work": "소크라테스의 변명",
         "reference": "37b",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:07cd200c6edf2d4eb8429f25a2e3e03d87bcde5759cc0d2faaee08d82b3e8260",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-37b"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-37b"
       }
     },
     {
@@ -15554,7 +15554,7 @@
       ],
       "work_passage_id": "apology:37c",
       "html_path": "works/apology/index.html#p-37c",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-37c",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-37c",
       "alignment_revision": "sha256:77b0aca88adfd0b2f7c879825eb1be6812a054234170ff1a5c5f0326d4bfbed9",
       "review_state": {
         "human_reviewed": false,
@@ -15580,9 +15580,9 @@
         "work": "소크라테스의 변명",
         "reference": "37c",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:d5c55ba301743574bf36d2eec87ad9da1f1cf1e9c2117af4d73e8c4ffce5f5dc",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-37c"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-37c"
       }
     },
     {
@@ -15701,7 +15701,7 @@
       "notes": [],
       "work_passage_id": "apology:37d",
       "html_path": "works/apology/index.html#p-37d",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-37d",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-37d",
       "alignment_revision": "sha256:52dc663bf1a575e66448e0478b150d7c4385313791c88602a19545fd1c5c5621",
       "review_state": {
         "human_reviewed": false,
@@ -15727,9 +15727,9 @@
         "work": "소크라테스의 변명",
         "reference": "37d",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:5ab1b2157360d0c0a7d6017b69301e6fd8f080b006868f1b0a3ca644150414a8",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-37d"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-37d"
       }
     },
     {
@@ -15832,7 +15832,7 @@
       "notes": [],
       "work_passage_id": "apology:37e",
       "html_path": "works/apology/index.html#p-37e",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-37e",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-37e",
       "alignment_revision": "sha256:2a65597c69073884222ba5ece8b4662f1874e4c5f6d4e14dbea2a4ded00d585c",
       "review_state": {
         "human_reviewed": false,
@@ -15858,9 +15858,9 @@
         "work": "소크라테스의 변명",
         "reference": "37e",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:e9d4e42c30f9c7b548079e841b55d3db5a7d345429fe5cb83eba8d6c547ae598",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-37e"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-37e"
       }
     },
     {
@@ -15940,7 +15940,7 @@
       "notes": [],
       "work_passage_id": "apology:38a.1",
       "html_path": "works/apology/index.html#p-38a-1",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-38a-1",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-38a-1",
       "alignment_revision": "sha256:62115a09c51f9e130d8b1da6a89f3958e2a5cccc26ff2716d32e17cd1b2ec90e",
       "review_state": {
         "human_reviewed": false,
@@ -15966,9 +15966,9 @@
         "work": "소크라테스의 변명",
         "reference": "38a.1",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:c1ca3b844bee05bf355975e38d72f54a0bf71326c24b9404a36692b55142a4b1",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-38a-1"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-38a-1"
       }
     },
     {
@@ -16025,7 +16025,7 @@
       ],
       "work_passage_id": "apology:38a",
       "html_path": "works/apology/index.html#p-38a",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-38a",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-38a",
       "alignment_revision": "sha256:198f63c019a571b9a3aa6457da6a62b5ac3686e192ba10567d94db59f3916259",
       "review_state": {
         "human_reviewed": false,
@@ -16051,9 +16051,9 @@
         "work": "소크라테스의 변명",
         "reference": "38a",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:e139f67373ff7857a96ab4ec414f43eb57be62ee2c0150faf98d0cb52470b766",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-38a"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-38a"
       }
     },
     {
@@ -16133,7 +16133,7 @@
       "notes": [],
       "work_passage_id": "apology:38a.2",
       "html_path": "works/apology/index.html#p-38a-2",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-38a-2",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-38a-2",
       "alignment_revision": "sha256:eb30968ee1269a1bfe925fd28725241401574ac818b956b4ed3387d80256ec11",
       "review_state": {
         "human_reviewed": false,
@@ -16159,9 +16159,9 @@
         "work": "소크라테스의 변명",
         "reference": "38a.2",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:2f171566e80a5cdb64dcbbe7a4bab70c3add151461dd8529ba5583c9aab53140",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-38a-2"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-38a-2"
       }
     },
     {
@@ -16282,7 +16282,7 @@
       ],
       "work_passage_id": "apology:38b",
       "html_path": "works/apology/index.html#p-38b",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-38b",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-38b",
       "alignment_revision": "sha256:3c5cb85520310371f830e387d81dd92b39519ab7142991ae17b8caf0bab7fee3",
       "review_state": {
         "human_reviewed": false,
@@ -16308,9 +16308,9 @@
         "work": "소크라테스의 변명",
         "reference": "38b",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:9fd3df2c4f22d601ac3df896dcc94cf8a7fbd809f9ba4196bfc243279ae84e5a",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-38b"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-38b"
       }
     },
     {
@@ -16418,7 +16418,7 @@
       ],
       "work_passage_id": "apology:38c",
       "html_path": "works/apology/index.html#p-38c",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-38c",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-38c",
       "alignment_revision": "sha256:02e3a77cb3a4a6f9749a9e28b790e938efff3e23d26d22a2b7d4fcde1c2ae199",
       "review_state": {
         "human_reviewed": false,
@@ -16444,9 +16444,9 @@
         "work": "소크라테스의 변명",
         "reference": "38c",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:75a3d190be8db1050eb02654be5b52d178d6cf1aca06059e6882176dcca02873",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-38c"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-38c"
       }
     },
     {
@@ -16565,7 +16565,7 @@
       "notes": [],
       "work_passage_id": "apology:38d",
       "html_path": "works/apology/index.html#p-38d",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-38d",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-38d",
       "alignment_revision": "sha256:e571bdcb4d390eaa025c987860d1f2793521669ad8266a1cbecc91bf328ed855",
       "review_state": {
         "human_reviewed": false,
@@ -16591,9 +16591,9 @@
         "work": "소크라테스의 변명",
         "reference": "38d",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:ede382b9af2228449d505bc6cb2acc067af81812c530b5bb4feb8b130fd26cbf",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-38d"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-38d"
       }
     },
     {
@@ -16673,7 +16673,7 @@
       "notes": [],
       "work_passage_id": "apology:38e",
       "html_path": "works/apology/index.html#p-38e",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-38e",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-38e",
       "alignment_revision": "sha256:303e629b8244ec2786f9c2e080a9e45f90dc52abc5d43aa7a2cdce52f283538d",
       "review_state": {
         "human_reviewed": false,
@@ -16699,9 +16699,9 @@
         "work": "소크라테스의 변명",
         "reference": "38e",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:cb1722bfaee531c2e51d016e8c3e669720d8ca292df3c68df56fc8d6f22989d0",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-38e"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-38e"
       }
     },
     {
@@ -16794,7 +16794,7 @@
       "notes": [],
       "work_passage_id": "apology:39a",
       "html_path": "works/apology/index.html#p-39a",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-39a",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-39a",
       "alignment_revision": "sha256:369b1ac76ff0a828f89e73544145c84cfe6c468efdcabec48a6fa2fd5a72f8eb",
       "review_state": {
         "human_reviewed": false,
@@ -16820,9 +16820,9 @@
         "work": "소크라테스의 변명",
         "reference": "39a",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:4ae8f4373f50f0455be58ad4ac5a869f1d151e24362e9f86c47ee724b1165675",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-39a"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-39a"
       }
     },
     {
@@ -16941,7 +16941,7 @@
       "notes": [],
       "work_passage_id": "apology:39b",
       "html_path": "works/apology/index.html#p-39b",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-39b",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-39b",
       "alignment_revision": "sha256:0d09c548ffbefc92ddad105c072c523a40193ff9ec4c7d5732f00740afaf8c8a",
       "review_state": {
         "human_reviewed": false,
@@ -16967,9 +16967,9 @@
         "work": "소크라테스의 변명",
         "reference": "39b",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:8b5edfffee17fe02cdb3e5009468928c00562884bc6feaed4cd24ffb637e6adc",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-39b"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-39b"
       }
     },
     {
@@ -17077,7 +17077,7 @@
       ],
       "work_passage_id": "apology:39c",
       "html_path": "works/apology/index.html#p-39c",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-39c",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-39c",
       "alignment_revision": "sha256:8e87eedf820b6755cd6d40882150b013c98eb9c54d31f6b601fbb8cb6de253ee",
       "review_state": {
         "human_reviewed": false,
@@ -17103,9 +17103,9 @@
         "work": "소크라테스의 변명",
         "reference": "39c",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:fac427b042f9999beceee6747302eb3e3e2b7785a5492a4970402407b0ed1a5b",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-39c"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-39c"
       }
     },
     {
@@ -17224,7 +17224,7 @@
       "notes": [],
       "work_passage_id": "apology:39d",
       "html_path": "works/apology/index.html#p-39d",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-39d",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-39d",
       "alignment_revision": "sha256:c2b7f52cda572b45f41392766cb248b16460f269f3ba1f10c91c6f37af99048b",
       "review_state": {
         "human_reviewed": false,
@@ -17250,9 +17250,9 @@
         "work": "소크라테스의 변명",
         "reference": "39d",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:eb1663e8ace07aec23a601b8359b2f62d39058c7ac2e3013c9fdc56c5ac9a51f",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-39d"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-39d"
       }
     },
     {
@@ -17345,7 +17345,7 @@
       "notes": [],
       "work_passage_id": "apology:39e",
       "html_path": "works/apology/index.html#p-39e",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-39e",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-39e",
       "alignment_revision": "sha256:c7e0d37d379b61132916d4b6cf33cc5037d9dd9ab5446140d6428619ebda0c38",
       "review_state": {
         "human_reviewed": false,
@@ -17371,9 +17371,9 @@
         "work": "소크라테스의 변명",
         "reference": "39e",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:48381f3a47e786bc14fb4abd674783921578a7e4c83ea45b20189bece807c9de",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-39e"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-39e"
       }
     },
     {
@@ -17466,7 +17466,7 @@
       "notes": [],
       "work_passage_id": "apology:40a",
       "html_path": "works/apology/index.html#p-40a",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-40a",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-40a",
       "alignment_revision": "sha256:a549210d4bf6b03768872287e18469a5ac8bd4a9fcf923a20e9a2d0bfa097fba",
       "review_state": {
         "human_reviewed": false,
@@ -17492,9 +17492,9 @@
         "work": "소크라테스의 변명",
         "reference": "40a",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:dc01b8773cfa3d0f3ed97cfc77aeecfb1d8177e02082562848f04a08f5d97ff3",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-40a"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-40a"
       }
     },
     {
@@ -17613,7 +17613,7 @@
       "notes": [],
       "work_passage_id": "apology:40b",
       "html_path": "works/apology/index.html#p-40b",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-40b",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-40b",
       "alignment_revision": "sha256:032cce365bb9f010e1f6d54985bfc94b81887e5d1c6c9a9bf14edac9bf3616b4",
       "review_state": {
         "human_reviewed": false,
@@ -17639,9 +17639,9 @@
         "work": "소크라테스의 변명",
         "reference": "40b",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:76eb77dd349b68c7c8f7850df9798ad100db7c7e21bbdd290ccdb8c4f65b5f20",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-40b"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-40b"
       }
     },
     {
@@ -17788,7 +17788,7 @@
       ],
       "work_passage_id": "apology:40c",
       "html_path": "works/apology/index.html#p-40c",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-40c",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-40c",
       "alignment_revision": "sha256:196c8186fb4cd34fe8905c0e2374ecd16549d4ad34bb89a6f7c1528ee63f00bd",
       "review_state": {
         "human_reviewed": false,
@@ -17814,9 +17814,9 @@
         "work": "소크라테스의 변명",
         "reference": "40c",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:04c62254112e34c623685b2e72a690ad8be4bd469cc86f3e9274074b6d780d02",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-40c"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-40c"
       }
     },
     {
@@ -17909,7 +17909,7 @@
       "notes": [],
       "work_passage_id": "apology:40d",
       "html_path": "works/apology/index.html#p-40d",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-40d",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-40d",
       "alignment_revision": "sha256:012a3156079ab70d8b723a2379bf1c4d8a0b60147f6e458e0fc30450431ad363",
       "review_state": {
         "human_reviewed": false,
@@ -17935,9 +17935,9 @@
         "work": "소크라테스의 변명",
         "reference": "40d",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:70a84f8a7b77a5672499070e0e1fa93fdf77037e4998179df72521c1b889a107",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-40d"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-40d"
       }
     },
     {
@@ -18030,7 +18030,7 @@
       "notes": [],
       "work_passage_id": "apology:40e",
       "html_path": "works/apology/index.html#p-40e",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-40e",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-40e",
       "alignment_revision": "sha256:5897d08b1b5f82ea9724f32ab737e51a2e5ba0da46e45aff117b4107abf03f31",
       "review_state": {
         "human_reviewed": false,
@@ -18056,9 +18056,9 @@
         "work": "소크라테스의 변명",
         "reference": "40e",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:2b729a8ed882281e67a044f0f7a09c24fd28b272dee21a56cc198e064cab32ec",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-40e"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-40e"
       }
     },
     {
@@ -18166,7 +18166,7 @@
       ],
       "work_passage_id": "apology:41a",
       "html_path": "works/apology/index.html#p-41a",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-41a",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-41a",
       "alignment_revision": "sha256:585316a555d1f8466cf180a61235c93c0b14b5c843fa289d47cf7697a98033bc",
       "review_state": {
         "human_reviewed": false,
@@ -18192,9 +18192,9 @@
         "work": "소크라테스의 변명",
         "reference": "41a",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:3b0be11b55ddcbb8ec20f274eb37e12665ba8e087ed2f8544db1dca6cd515c36",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-41a"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-41a"
       }
     },
     {
@@ -18300,7 +18300,7 @@
       "notes": [],
       "work_passage_id": "apology:41b",
       "html_path": "works/apology/index.html#p-41b",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-41b",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-41b",
       "alignment_revision": "sha256:a848914223ad386cb81c17a422c0351001ee151db25de5ee783a7d01befd6284",
       "review_state": {
         "human_reviewed": false,
@@ -18326,9 +18326,9 @@
         "work": "소크라테스의 변명",
         "reference": "41b",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:6c9bfa48c5bde42b17436d829cd45211f65733681e22e740122cc4cc8f66d12c",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-41b"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-41b"
       }
     },
     {
@@ -18449,7 +18449,7 @@
       ],
       "work_passage_id": "apology:41c",
       "html_path": "works/apology/index.html#p-41c",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-41c",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-41c",
       "alignment_revision": "sha256:7fb8a418280bd9fcd7ae676cc5dcd57877ff6903dfbb69ffec0a0a19b460a92f",
       "review_state": {
         "human_reviewed": false,
@@ -18475,9 +18475,9 @@
         "work": "소크라테스의 변명",
         "reference": "41c",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:c844dd96163239c98078b65b4c28d403d71ee5e5de4e8fcf5d4e5a37fb14bfbc",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-41c"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-41c"
       }
     },
     {
@@ -18583,7 +18583,7 @@
       "notes": [],
       "work_passage_id": "apology:41d",
       "html_path": "works/apology/index.html#p-41d",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-41d",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-41d",
       "alignment_revision": "sha256:77fd178f88b0fd22b5e6ceee49ac48650281085e95a5eea8f48906321f4782ea",
       "review_state": {
         "human_reviewed": false,
@@ -18609,9 +18609,9 @@
         "work": "소크라테스의 변명",
         "reference": "41d",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:8448723f56dee0e68e2f3d33fdb966cb1b7a9e954fbf1301120810b40012cd54",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-41d"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-41d"
       }
     },
     {
@@ -18704,7 +18704,7 @@
       "notes": [],
       "work_passage_id": "apology:41e",
       "html_path": "works/apology/index.html#p-41e",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-41e",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-41e",
       "alignment_revision": "sha256:e90c07df623a3940e99eb395db39ee16a461699e09ef837fc5ce0817ff6127d3",
       "review_state": {
         "human_reviewed": false,
@@ -18730,9 +18730,9 @@
         "work": "소크라테스의 변명",
         "reference": "41e",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:1376d6c2b17afb5970949a4876b58af7feeee20f561e8489c44acb1eac8bfe5e",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-41e"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-41e"
       }
     },
     {
@@ -18814,7 +18814,7 @@
       ],
       "work_passage_id": "apology:42a",
       "html_path": "works/apology/index.html#p-42a",
-      "fixed_html_path": "releases/public-0.36.5/works/apology/index.html#p-42a",
+      "fixed_html_path": "releases/public-0.36.6/works/apology/index.html#p-42a",
       "alignment_revision": "sha256:997e1b809b59a1c2cbcaaac3ea30f0aa101514b8fa21d2b9c920f9605050e2a0",
       "review_state": {
         "human_reviewed": false,
@@ -18840,9 +18840,9 @@
         "work": "소크라테스의 변명",
         "reference": "42a",
         "edition": "John Burnet 편, Platonis Opera 1, Oxford: Clarendon Press, 1905. 전자저본의 서지 표기를 따름.",
-        "release": "public-0.36.5",
+        "release": "public-0.36.6",
         "translation_revision": "sha256:f35fba5d51c3de47a234a8f80957b7469df7b9d8d40c3d931f0793c970a1824f",
-        "fixed_path": "releases/public-0.36.5/works/apology/index.html#p-42a"
+        "fixed_path": "releases/public-0.36.6/works/apology/index.html#p-42a"
       }
     }
   ],
@@ -18883,14 +18883,14 @@
   "display_author": "플라톤",
   "scope": "Burnet 편 고정 그리스어 본문의 Stephanus 17a-42a 전체",
   "coverage": "complete",
-  "release_id": "public-0.36.5",
+  "release_id": "public-0.36.6",
   "source_language": "grc",
   "source_kind": "edited_ancient_original",
   "human_reviewed": false,
   "translation_method": "고정 원어 본문에서 직접 번역",
   "html_path": "works/apology/index.html",
   "json_path": "data/works/apology.json",
-  "fixed_html_path": "releases/public-0.36.5/works/apology/index.html",
+  "fixed_html_path": "releases/public-0.36.6/works/apology/index.html",
   "source_profile": "apology-burnet-pinned-stephanus-1",
   "source_decisions": [
     {
