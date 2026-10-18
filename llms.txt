@@ -5,7 +5,7 @@
 - 목록: https://atexts.missionalbible.org/catalog.json
 - 주본문: https://atexts.missionalbible.org/data/passages.jsonl
 - 대조본문: https://atexts.missionalbible.org/data/supplementary-passages.jsonl
-- 고정판: https://atexts.missionalbible.org/releases/public-0.36.3/catalog.json
+- 고정판: https://atexts.missionalbible.org/releases/public-0.36.4/catalog.json
 
 catalog.json의 works와 work_count는 주자료 49건이며 passage_count와 data/passages.jsonl은 주본문 29235대목입니다. 대조본문 1건 74대목은 supplementary_works와 supplementary_passage_index, 별도 supplementary-passages.jsonl에 있습니다. 부모 문헌은 parent_work_id로 연결합니다.
 

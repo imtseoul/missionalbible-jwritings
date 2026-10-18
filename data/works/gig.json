@@ -101,7 +101,7 @@
       ],
       "work_passage_id": "gig:1",
       "html_path": "works/gig/index.html#p-1",
-      "fixed_html_path": "releases/public-0.36.3/works/gig/index.html#p-1",
+      "fixed_html_path": "releases/public-0.36.4/works/gig/index.html#p-1",
       "alignment_revision": "sha256:b944f9ea7e7b01def05c45f0361ad51911d4051eb06a4190fa33858f9a7c37d0",
       "review_state": {
         "human_reviewed": false,
@@ -137,9 +137,9 @@
         "work": "거인들에 관하여",
         "reference": "1",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.3",
+        "release": "public-0.36.4",
         "translation_revision": "sha256:3efa7a30fbac407339c702e9e4d3a644acfafd2c99ff62c2700c00c56c9ffefe",
-        "fixed_path": "releases/public-0.36.3/works/gig/index.html#p-1"
+        "fixed_path": "releases/public-0.36.4/works/gig/index.html#p-1"
       }
     },
     {
@@ -201,7 +201,7 @@
       "notes": [],
       "work_passage_id": "gig:2",
       "html_path": "works/gig/index.html#p-2",
-      "fixed_html_path": "releases/public-0.36.3/works/gig/index.html#p-2",
+      "fixed_html_path": "releases/public-0.36.4/works/gig/index.html#p-2",
       "alignment_revision": "sha256:748fec7b1108a30630001cef549c86a741b6e39c1a01d0fd29617cdb98810809",
       "review_state": {
         "human_reviewed": false,
@@ -237,9 +237,9 @@
         "work": "거인들에 관하여",
         "reference": "2",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.3",
+        "release": "public-0.36.4",
         "translation_revision": "sha256:563fb1354ef7e1e461b191135823eb18be60aed996c05948ed84a1df3568ee10",
-        "fixed_path": "releases/public-0.36.3/works/gig/index.html#p-2"
+        "fixed_path": "releases/public-0.36.4/works/gig/index.html#p-2"
       }
     },
     {
@@ -301,7 +301,7 @@
       "notes": [],
       "work_passage_id": "gig:3",
       "html_path": "works/gig/index.html#p-3",
-      "fixed_html_path": "releases/public-0.36.3/works/gig/index.html#p-3",
+      "fixed_html_path": "releases/public-0.36.4/works/gig/index.html#p-3",
       "alignment_revision": "sha256:a198c7a32cfe784ca366b44ceedf5112b53958445a4d3bf6d1ce2b478e12a6de",
       "review_state": {
         "human_reviewed": false,
@@ -337,9 +337,9 @@
         "work": "거인들에 관하여",
         "reference": "3",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.3",
+        "release": "public-0.36.4",
         "translation_revision": "sha256:19cb036198051b3e10328cd8a4ebac294b512ee8382b8c692080cadbbb61905b",
-        "fixed_path": "releases/public-0.36.3/works/gig/index.html#p-3"
+        "fixed_path": "releases/public-0.36.4/works/gig/index.html#p-3"
       }
     },
     {
@@ -419,7 +419,7 @@
       ],
       "work_passage_id": "gig:4",
       "html_path": "works/gig/index.html#p-4",
-      "fixed_html_path": "releases/public-0.36.3/works/gig/index.html#p-4",
+      "fixed_html_path": "releases/public-0.36.4/works/gig/index.html#p-4",
       "alignment_revision": "sha256:2d7d80fddb66cb7e966d8cfbfe6af1504355bf6dce346567eb05768fadaa2d6b",
       "review_state": {
         "human_reviewed": false,
@@ -455,9 +455,9 @@
         "work": "거인들에 관하여",
         "reference": "4",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.3",
+        "release": "public-0.36.4",
         "translation_revision": "sha256:efadf6cd0057cf991edd91083e1bc67d79375f55a6e75fe9b7a184429a5a4a55",
-        "fixed_path": "releases/public-0.36.3/works/gig/index.html#p-4"
+        "fixed_path": "releases/public-0.36.4/works/gig/index.html#p-4"
       }
     },
     {
@@ -532,7 +532,7 @@
       "notes": [],
       "work_passage_id": "gig:5",
       "html_path": "works/gig/index.html#p-5",
-      "fixed_html_path": "releases/public-0.36.3/works/gig/index.html#p-5",
+      "fixed_html_path": "releases/public-0.36.4/works/gig/index.html#p-5",
       "alignment_revision": "sha256:a6c0fdc6c8a75321b68e06706e568ab3e38732508f9faf2ad106372dd63fde91",
       "review_state": {
         "human_reviewed": false,
@@ -568,9 +568,9 @@
         "work": "거인들에 관하여",
         "reference": "5",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.3",
+        "release": "public-0.36.4",
         "translation_revision": "sha256:177151f3ce5f8191abedf444f5665541ece129acddd60859ba188f4af2cf3572",
-        "fixed_path": "releases/public-0.36.3/works/gig/index.html#p-5"
+        "fixed_path": "releases/public-0.36.4/works/gig/index.html#p-5"
       }
     },
     {
@@ -647,7 +647,7 @@
       ],
       "work_passage_id": "gig:6",
       "html_path": "works/gig/index.html#p-6",
-      "fixed_html_path": "releases/public-0.36.3/works/gig/index.html#p-6",
+      "fixed_html_path": "releases/public-0.36.4/works/gig/index.html#p-6",
       "alignment_revision": "sha256:0897a26ab17d7326594e96dedc42b7cc785248f45a5ec248dc13eb50d4e9fd47",
       "review_state": {
         "human_reviewed": false,
@@ -683,9 +683,9 @@
         "work": "거인들에 관하여",
         "reference": "6",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.3",
+        "release": "public-0.36.4",
         "translation_revision": "sha256:fd16d550f1762d39a5afbbadb66c209620c26533c1c6dd6007c587cefe7fb117",
-        "fixed_path": "releases/public-0.36.3/works/gig/index.html#p-6"
+        "fixed_path": "releases/public-0.36.4/works/gig/index.html#p-6"
       }
     },
     {
@@ -786,7 +786,7 @@
       "notes": [],
       "work_passage_id": "gig:7",
       "html_path": "works/gig/index.html#p-7",
-      "fixed_html_path": "releases/public-0.36.3/works/gig/index.html#p-7",
+      "fixed_html_path": "releases/public-0.36.4/works/gig/index.html#p-7",
       "alignment_revision": "sha256:12327835c8b94204081373f9306d86d41a3a461b1b805ad11f3e922949aba87d",
       "review_state": {
         "human_reviewed": false,
@@ -822,9 +822,9 @@
         "work": "거인들에 관하여",
         "reference": "7",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.3",
+        "release": "public-0.36.4",
         "translation_revision": "sha256:07797369f6b9fffe652730d0e17b561c2f8881231265d0eea123c3d2f05f881c",
-        "fixed_path": "releases/public-0.36.3/works/gig/index.html#p-7"
+        "fixed_path": "releases/public-0.36.4/works/gig/index.html#p-7"
       }
     },
     {
@@ -912,7 +912,7 @@
       "notes": [],
       "work_passage_id": "gig:8",
       "html_path": "works/gig/index.html#p-8",
-      "fixed_html_path": "releases/public-0.36.3/works/gig/index.html#p-8",
+      "fixed_html_path": "releases/public-0.36.4/works/gig/index.html#p-8",
       "alignment_revision": "sha256:895c209a04883abbf2eaf64c349a79a229f93ebbf726820bf87a701b7fdf4379",
       "review_state": {
         "human_reviewed": false,
@@ -948,9 +948,9 @@
         "work": "거인들에 관하여",
         "reference": "8",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.3",
+        "release": "public-0.36.4",
         "translation_revision": "sha256:5b38e1ccef4a0bd08708e5b4506b207201db1d89b001ef657c40814351cba7e5",
-        "fixed_path": "releases/public-0.36.3/works/gig/index.html#p-8"
+        "fixed_path": "releases/public-0.36.4/works/gig/index.html#p-8"
       }
     },
     {
@@ -1025,7 +1025,7 @@
       "notes": [],
       "work_passage_id": "gig:9",
       "html_path": "works/gig/index.html#p-9",
-      "fixed_html_path": "releases/public-0.36.3/works/gig/index.html#p-9",
+      "fixed_html_path": "releases/public-0.36.4/works/gig/index.html#p-9",
       "alignment_revision": "sha256:7ad15ccd8c50406d0c9a4187394dfd91ca1d613d5feddcf3d8db00238e71c6e7",
       "review_state": {
         "human_reviewed": false,
@@ -1061,9 +1061,9 @@
         "work": "거인들에 관하여",
         "reference": "9",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.3",
+        "release": "public-0.36.4",
         "translation_revision": "sha256:1fb516daeb96ba24a030a08882c739da64b1b94010460b0691270cc831263844",
-        "fixed_path": "releases/public-0.36.3/works/gig/index.html#p-9"
+        "fixed_path": "releases/public-0.36.4/works/gig/index.html#p-9"
       }
     },
     {
@@ -1138,7 +1138,7 @@
       "notes": [],
       "work_passage_id": "gig:10",
       "html_path": "works/gig/index.html#p-10",
-      "fixed_html_path": "releases/public-0.36.3/works/gig/index.html#p-10",
+      "fixed_html_path": "releases/public-0.36.4/works/gig/index.html#p-10",
       "alignment_revision": "sha256:99eb1f564386af6db6e07dbdb01f06b0565c62cb848a49fefb5886e67880f1e2",
       "review_state": {
         "human_reviewed": false,
@@ -1174,9 +1174,9 @@
         "work": "거인들에 관하여",
         "reference": "10",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.3",
+        "release": "public-0.36.4",
         "translation_revision": "sha256:91bdfb2b6822b9d784795954585ade10aaf46af4e88525c5426c475b60e61f69",
-        "fixed_path": "releases/public-0.36.3/works/gig/index.html#p-10"
+        "fixed_path": "releases/public-0.36.4/works/gig/index.html#p-10"
       }
     },
     {
@@ -1241,7 +1241,7 @@
       "notes": [],
       "work_passage_id": "gig:11",
       "html_path": "works/gig/index.html#p-11",
-      "fixed_html_path": "releases/public-0.36.3/works/gig/index.html#p-11",
+      "fixed_html_path": "releases/public-0.36.4/works/gig/index.html#p-11",
       "alignment_revision": "sha256:2a2f06b2e166a7fe718e87c089026aded260a422ce8eeba17bd67ce5ad3d2f02",
       "review_state": {
         "human_reviewed": false,
@@ -1277,9 +1277,9 @@
         "work": "거인들에 관하여",
         "reference": "11",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.3",
+        "release": "public-0.36.4",
         "translation_revision": "sha256:e26279ce874a632446b8bca3c3925403595b14dee1f9cee37532330695c7ff6f",
-        "fixed_path": "releases/public-0.36.3/works/gig/index.html#p-11"
+        "fixed_path": "releases/public-0.36.4/works/gig/index.html#p-11"
       }
     },
     {
@@ -1369,7 +1369,7 @@
       ],
       "work_passage_id": "gig:12",
       "html_path": "works/gig/index.html#p-12",
-      "fixed_html_path": "releases/public-0.36.3/works/gig/index.html#p-12",
+      "fixed_html_path": "releases/public-0.36.4/works/gig/index.html#p-12",
       "alignment_revision": "sha256:d47317ac05f357e471a573b88f5238641c06ef4f4e02002c6fd718da67e029b3",
       "review_state": {
         "human_reviewed": false,
@@ -1405,9 +1405,9 @@
         "work": "거인들에 관하여",
         "reference": "12",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.3",
+        "release": "public-0.36.4",
         "translation_revision": "sha256:ba24c28fc18c8b45465d9a170a6891248aedc717230ee2acbec744352c516ebb",
-        "fixed_path": "releases/public-0.36.3/works/gig/index.html#p-12"
+        "fixed_path": "releases/public-0.36.4/works/gig/index.html#p-12"
       }
     },
     {
@@ -1482,7 +1482,7 @@
       "notes": [],
       "work_passage_id": "gig:13",
       "html_path": "works/gig/index.html#p-13",
-      "fixed_html_path": "releases/public-0.36.3/works/gig/index.html#p-13",
+      "fixed_html_path": "releases/public-0.36.4/works/gig/index.html#p-13",
       "alignment_revision": "sha256:369e486f07e85290b7c277d382e6775b133b7add4e7ec11dccb02e2c27b4fff2",
       "review_state": {
         "human_reviewed": false,
@@ -1518,9 +1518,9 @@
         "work": "거인들에 관하여",
         "reference": "13",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.3",
+        "release": "public-0.36.4",
         "translation_revision": "sha256:6c02e3ce7ae2a8ad50e600f0d47f3f067acc318823f41056f9034963a6a5b89f",
-        "fixed_path": "releases/public-0.36.3/works/gig/index.html#p-13"
+        "fixed_path": "releases/public-0.36.4/works/gig/index.html#p-13"
       }
     },
     {
@@ -1584,7 +1584,7 @@
       ],
       "work_passage_id": "gig:14",
       "html_path": "works/gig/index.html#p-14",
-      "fixed_html_path": "releases/public-0.36.3/works/gig/index.html#p-14",
+      "fixed_html_path": "releases/public-0.36.4/works/gig/index.html#p-14",
       "alignment_revision": "sha256:4acee07cce4645381d56bfc448c36356fac410bd7eee6c5e7379eb76cfcaaf80",
       "review_state": {
         "human_reviewed": false,
@@ -1620,9 +1620,9 @@
         "work": "거인들에 관하여",
         "reference": "14",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.3",
+        "release": "public-0.36.4",
         "translation_revision": "sha256:bbae5c2d695728cdeb0d523760b267626ee4eb3f41963c3e672a970dea57ca7a",
-        "fixed_path": "releases/public-0.36.3/works/gig/index.html#p-14"
+        "fixed_path": "releases/public-0.36.4/works/gig/index.html#p-14"
       }
     },
     {
@@ -1723,7 +1723,7 @@
       "notes": [],
       "work_passage_id": "gig:15",
       "html_path": "works/gig/index.html#p-15",
-      "fixed_html_path": "releases/public-0.36.3/works/gig/index.html#p-15",
+      "fixed_html_path": "releases/public-0.36.4/works/gig/index.html#p-15",
       "alignment_revision": "sha256:fc2033fb8d6b524292135d2398a749600ef0ae68a7a68fe302bff01b5aa19cff",
       "review_state": {
         "human_reviewed": false,
@@ -1759,9 +1759,9 @@
         "work": "거인들에 관하여",
         "reference": "15",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.3",
+        "release": "public-0.36.4",
         "translation_revision": "sha256:f6a8f085b92b2b94c723d6f78fb5d46f3f7546fc25eef15aaab08a1389c4bf3f",
-        "fixed_path": "releases/public-0.36.3/works/gig/index.html#p-15"
+        "fixed_path": "releases/public-0.36.4/works/gig/index.html#p-15"
       }
     },
     {
@@ -1865,7 +1865,7 @@
       "notes": [],
       "work_passage_id": "gig:16",
       "html_path": "works/gig/index.html#p-16",
-      "fixed_html_path": "releases/public-0.36.3/works/gig/index.html#p-16",
+      "fixed_html_path": "releases/public-0.36.4/works/gig/index.html#p-16",
       "alignment_revision": "sha256:f090aabb884a7ce77fa9a4499d29ae5a8c391c6ac8e7ceafe9e4848c68d3f840",
       "review_state": {
         "human_reviewed": false,
@@ -1901,9 +1901,9 @@
         "work": "거인들에 관하여",
         "reference": "16",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.3",
+        "release": "public-0.36.4",
         "translation_revision": "sha256:bbcf2a160a0c9e291f992fe26effa1d4f31e657a0748523325209323cb0f9537",
-        "fixed_path": "releases/public-0.36.3/works/gig/index.html#p-16"
+        "fixed_path": "releases/public-0.36.4/works/gig/index.html#p-16"
       }
     },
     {
@@ -2006,7 +2006,7 @@
       ],
       "work_passage_id": "gig:17",
       "html_path": "works/gig/index.html#p-17",
-      "fixed_html_path": "releases/public-0.36.3/works/gig/index.html#p-17",
+      "fixed_html_path": "releases/public-0.36.4/works/gig/index.html#p-17",
       "alignment_revision": "sha256:5d9f3fd283ea59c22d08c272ee05273a635f9f7b6723c98bcfdb7ff307cd9227",
       "review_state": {
         "human_reviewed": false,
@@ -2042,9 +2042,9 @@
         "work": "거인들에 관하여",
         "reference": "17",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.3",
+        "release": "public-0.36.4",
         "translation_revision": "sha256:1716b40a1ae9ef1b1c43a16957fe56d1b4774a7282bc5f3dcdfcc5a82b742661",
-        "fixed_path": "releases/public-0.36.3/works/gig/index.html#p-17"
+        "fixed_path": "releases/public-0.36.4/works/gig/index.html#p-17"
       }
     },
     {
@@ -2132,7 +2132,7 @@
       "notes": [],
       "work_passage_id": "gig:18",
       "html_path": "works/gig/index.html#p-18",
-      "fixed_html_path": "releases/public-0.36.3/works/gig/index.html#p-18",
+      "fixed_html_path": "releases/public-0.36.4/works/gig/index.html#p-18",
       "alignment_revision": "sha256:4d001eebec00ea73beef5f5a52a2a2035fe7f378ee21df7707cd1855d968939f",
       "review_state": {
         "human_reviewed": false,
@@ -2168,9 +2168,9 @@
         "work": "거인들에 관하여",
         "reference": "18",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.3",
+        "release": "public-0.36.4",
         "translation_revision": "sha256:84f1313bbfc3a80460464f6de010f845a8eb30f4875166059fbe8a28f5a304b9",
-        "fixed_path": "releases/public-0.36.3/works/gig/index.html#p-18"
+        "fixed_path": "releases/public-0.36.4/works/gig/index.html#p-18"
       }
     },
     {
@@ -2247,7 +2247,7 @@
       ],
       "work_passage_id": "gig:19",
       "html_path": "works/gig/index.html#p-19",
-      "fixed_html_path": "releases/public-0.36.3/works/gig/index.html#p-19",
+      "fixed_html_path": "releases/public-0.36.4/works/gig/index.html#p-19",
       "alignment_revision": "sha256:f239892d5d8cd1ba2cdc89829416b00ddd754704b87efc0fb7c67c1de23d893c",
       "review_state": {
         "human_reviewed": false,
@@ -2283,9 +2283,9 @@
         "work": "거인들에 관하여",
         "reference": "19",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.3",
+        "release": "public-0.36.4",
         "translation_revision": "sha256:a56b671d4545cf80629be71041784d54b830a928b6530afe2d95c77c7caaa661",
-        "fixed_path": "releases/public-0.36.3/works/gig/index.html#p-19"
+        "fixed_path": "releases/public-0.36.4/works/gig/index.html#p-19"
       }
     },
     {
@@ -2363,7 +2363,7 @@
       "notes": [],
       "work_passage_id": "gig:20",
       "html_path": "works/gig/index.html#p-20",
-      "fixed_html_path": "releases/public-0.36.3/works/gig/index.html#p-20",
+      "fixed_html_path": "releases/public-0.36.4/works/gig/index.html#p-20",
       "alignment_revision": "sha256:2622950d06f59c4892856c8a09dfeb9823f5f0c053ef182b5f41e9593605eb8c",
       "review_state": {
         "human_reviewed": false,
@@ -2399,9 +2399,9 @@
         "work": "거인들에 관하여",
         "reference": "20",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.3",
+        "release": "public-0.36.4",
         "translation_revision": "sha256:3fd999bce89804bb59b43521271c77bef1fdeba7f17dae3ecf964623cc4eb4a0",
-        "fixed_path": "releases/public-0.36.3/works/gig/index.html#p-20"
+        "fixed_path": "releases/public-0.36.4/works/gig/index.html#p-20"
       }
     },
     {
@@ -2428,60 +2428,60 @@
         }
       ],
       "encoded_printed_page_start": "v.2.p.46",
-      "korean": "아름다움의 모습은 곧 자리를 옮겨 떠나간다. 새로 들어와 법과 정의를 내쫓은 거주자들을 외면하기 때문이다. 아름다운 것 대신 수치스러운 것을 택한 이들을 책망하려는 목적이 없었다면, 애초에 그런 이들에게 오지도 않았을 것이다.",
-      "translation_revision": "sha256:68bc4e2518af63145cb2cd83f7b003d1268bb742dd2c41b92b6c8286fc3cf97c",
+      "korean": "아름다움의 모습은 곧 자리를 옮겨 떠나간다. 법과 정의를 저버린 채 들어와 사는 거주자들을 외면하기 때문이다. 아름다운 것 대신 수치스러운 것을 택한 이들을 책망하려는 목적이 없었다면, 애초에 그런 이들에게 오지도 않았을 것이다.",
+      "translation_revision": "sha256:26ed3e1e8db0c7c8a9bc628c1a90e4375a87af29653fc24bdba0a76987c59bd8",
       "groups": [
         {
-          "id": "a-fc3718e8eb54d7339953",
+          "id": "a-e1faed2c556c4748d124",
           "source_range": [
             0,
             107
           ],
           "ko_range": [
             0,
-            59
+            61
           ],
           "source_text": "οἴχεται γὰρ εὐθέως μεταναστᾶσα, τοὺς προσεληλυθότας οἰκήτορας νόμον καὶ δίκην ἐκδεδιῃτημένους ἀποστραφεῖσα,",
-          "ko_text": "아름다움의 모습은 곧 자리를 옮겨 떠나간다. 새로 들어와 법과 정의를 내쫓은 거주자들을 외면하기 때문이다."
+          "ko_text": "아름다움의 모습은 곧 자리를 옮겨 떠나간다. 법과 정의를 저버린 채 들어와 사는 거주자들을 외면하기 때문이다."
         },
         {
-          "id": "a-b68047d554c12bce6f0f",
+          "id": "a-a90c47e9be27fbd213ea",
           "source_range": [
             108,
             197
           ],
           "ko_range": [
-            60,
-            126
+            62,
+            128
           ],
           "source_text": "πρὸς οὓς οὐδ’ ἄν ποτε ἧκεν, εἰ μὴ τοῦ διελέγξαι χάριν τοὺς ἀντὶ καλῶν αἰσχρὰ αἱρουμένους.",
           "ko_text": "아름다운 것 대신 수치스러운 것을 택한 이들을 책망하려는 목적이 없었다면, 애초에 그런 이들에게 오지도 않았을 것이다."
         }
       ],
       "notes": [
-        "떠나가는 주어는 20절의 ‘아름다움의 모습’, ἡ τοῦ καλοῦ φαντασία이다. 그것이 머무르지 못하는 사람들은 법과 정의를 집에서 내쫓은 거주자들로 비유된다."
+        "떠나가는 주어는 20절의 ‘아름다움의 모습’, ἡ τοῦ καλοῦ φαντασία이다. 그것이 머무르지 못하는 사람들은 법과 정의를 저버린 거주자들로 서술된다."
       ],
       "work_passage_id": "gig:21",
       "html_path": "works/gig/index.html#p-21",
-      "fixed_html_path": "releases/public-0.36.3/works/gig/index.html#p-21",
-      "alignment_revision": "sha256:77f9033d54b3902b7002153cb534bd78fac56998af6f8bd701f4788669e2201f",
+      "fixed_html_path": "releases/public-0.36.4/works/gig/index.html#p-21",
+      "alignment_revision": "sha256:ca4cc25f6549b1ac3d997687151cc297a58e37db0db645ba9837473831b8b2ab",
       "review_state": {
         "human_reviewed": false,
         "translation": "ai_authored",
         "source_check": "pinned_xml_extraction",
         "targets": {
           "source_revision": "sha256:9f2ad508c535615aa20b3b18d44db6fa25a18f45dd6c17168b4389406c8f3654",
-          "translation_revision": "sha256:68bc4e2518af63145cb2cd83f7b003d1268bb742dd2c41b92b6c8286fc3cf97c",
-          "alignment_revision": "sha256:77f9033d54b3902b7002153cb534bd78fac56998af6f8bd701f4788669e2201f"
+          "translation_revision": "sha256:26ed3e1e8db0c7c8a9bc628c1a90e4375a87af29653fc24bdba0a76987c59bd8",
+          "alignment_revision": "sha256:ca4cc25f6549b1ac3d997687151cc297a58e37db0db645ba9837473831b8b2ab"
         },
         "scoped_ai_review": {
-          "id": "gig-complete-extension-20261007",
-          "scope": "거인들에 관하여 채택 본문 67대목 전체",
-          "date": "2026-10-07",
+          "id": "gig-audit-20261018",
+          "scope": "Full source-against-translation audit 2026-10-18; corrections recorded in the chunk support/audit-20261018.json",
+          "date": "2026-10-18",
           "targets": {
             "source_revision": "sha256:9f2ad508c535615aa20b3b18d44db6fa25a18f45dd6c17168b4389406c8f3654",
-            "translation_revision": "sha256:68bc4e2518af63145cb2cd83f7b003d1268bb742dd2c41b92b6c8286fc3cf97c",
-            "alignment_revision": "sha256:77f9033d54b3902b7002153cb534bd78fac56998af6f8bd701f4788669e2201f"
+            "translation_revision": "sha256:26ed3e1e8db0c7c8a9bc628c1a90e4375a87af29653fc24bdba0a76987c59bd8",
+            "alignment_revision": "sha256:ca4cc25f6549b1ac3d997687151cc297a58e37db0db645ba9837473831b8b2ab"
           }
         }
       },
@@ -2499,9 +2499,9 @@
         "work": "거인들에 관하여",
         "reference": "21",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.3",
-        "translation_revision": "sha256:68bc4e2518af63145cb2cd83f7b003d1268bb742dd2c41b92b6c8286fc3cf97c",
-        "fixed_path": "releases/public-0.36.3/works/gig/index.html#p-21"
+        "release": "public-0.36.4",
+        "translation_revision": "sha256:26ed3e1e8db0c7c8a9bc628c1a90e4375a87af29653fc24bdba0a76987c59bd8",
+        "fixed_path": "releases/public-0.36.4/works/gig/index.html#p-21"
       }
     },
     {
@@ -2589,7 +2589,7 @@
       ],
       "work_passage_id": "gig:22",
       "html_path": "works/gig/index.html#p-22",
-      "fixed_html_path": "releases/public-0.36.3/works/gig/index.html#p-22",
+      "fixed_html_path": "releases/public-0.36.4/works/gig/index.html#p-22",
       "alignment_revision": "sha256:f37c83fc20a48f9fc757286432df3718ed4c42fd14f9051983cf7c5d110a3380",
       "review_state": {
         "human_reviewed": false,
@@ -2625,9 +2625,9 @@
         "work": "거인들에 관하여",
         "reference": "22",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.3",
+        "release": "public-0.36.4",
         "translation_revision": "sha256:55b19d03c7f025195018d437ec877d7eee4c4540542995b8d19e6725553effec",
-        "fixed_path": "releases/public-0.36.3/works/gig/index.html#p-22"
+        "fixed_path": "releases/public-0.36.4/works/gig/index.html#p-22"
       }
     },
     {
@@ -2702,7 +2702,7 @@
       ],
       "work_passage_id": "gig:23",
       "html_path": "works/gig/index.html#p-23",
-      "fixed_html_path": "releases/public-0.36.3/works/gig/index.html#p-23",
+      "fixed_html_path": "releases/public-0.36.4/works/gig/index.html#p-23",
       "alignment_revision": "sha256:3da0ade552a9b5c9f76d6c170fc391798e75976bf0aedca0abd7d5755a7367c2",
       "review_state": {
         "human_reviewed": false,
@@ -2738,9 +2738,9 @@
         "work": "거인들에 관하여",
         "reference": "23",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.3",
+        "release": "public-0.36.4",
         "translation_revision": "sha256:cba751c0303d3387dfaf5101c09954f42749cd6b6a5bfeca383a91e92f3a5e2b",
-        "fixed_path": "releases/public-0.36.3/works/gig/index.html#p-23"
+        "fixed_path": "releases/public-0.36.4/works/gig/index.html#p-23"
       }
     },
     {
@@ -2826,7 +2826,7 @@
       "notes": [],
       "work_passage_id": "gig:24",
       "html_path": "works/gig/index.html#p-24",
-      "fixed_html_path": "releases/public-0.36.3/works/gig/index.html#p-24",
+      "fixed_html_path": "releases/public-0.36.4/works/gig/index.html#p-24",
       "alignment_revision": "sha256:8750a9742bddde8c554ba19f74b22ce13fa6c887f3d8c9e31201436ed07b6819",
       "review_state": {
         "human_reviewed": false,
@@ -2862,9 +2862,9 @@
         "work": "거인들에 관하여",
         "reference": "24",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.3",
+        "release": "public-0.36.4",
         "translation_revision": "sha256:089f1c528362c178c64c6daa8ae098bfb0ee7e387ee04ad4ffbe58cdd96a1580",
-        "fixed_path": "releases/public-0.36.3/works/gig/index.html#p-24"
+        "fixed_path": "releases/public-0.36.4/works/gig/index.html#p-24"
       }
     },
     {
@@ -2955,7 +2955,7 @@
       ],
       "work_passage_id": "gig:25",
       "html_path": "works/gig/index.html#p-25",
-      "fixed_html_path": "releases/public-0.36.3/works/gig/index.html#p-25",
+      "fixed_html_path": "releases/public-0.36.4/works/gig/index.html#p-25",
       "alignment_revision": "sha256:bf1222ddbdef74af310f268ec84c38d0e1aab478369f70748c0ce1e318c60013",
       "review_state": {
         "human_reviewed": false,
@@ -2991,9 +2991,9 @@
         "work": "거인들에 관하여",
         "reference": "25",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.3",
+        "release": "public-0.36.4",
         "translation_revision": "sha256:9763172c64f8bd134eed8cae85cd6190872755996ea230665b93b273dcf223fe",
-        "fixed_path": "releases/public-0.36.3/works/gig/index.html#p-25"
+        "fixed_path": "releases/public-0.36.4/works/gig/index.html#p-25"
       }
     },
     {
@@ -3053,7 +3053,7 @@
       "notes": [],
       "work_passage_id": "gig:26",
       "html_path": "works/gig/index.html#p-26",
-      "fixed_html_path": "releases/public-0.36.3/works/gig/index.html#p-26",
+      "fixed_html_path": "releases/public-0.36.4/works/gig/index.html#p-26",
       "alignment_revision": "sha256:bca30878cd5e32d77a46e2c8a3f06b6b324d36067bb77681cea97f0d3c38d215",
       "review_state": {
         "human_reviewed": false,
@@ -3089,9 +3089,9 @@
         "work": "거인들에 관하여",
         "reference": "26",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.3",
+        "release": "public-0.36.4",
         "translation_revision": "sha256:572a13705d97e5568029f21fedc5f79621c4b52eea054a5c0f67f8adaa241313",
-        "fixed_path": "releases/public-0.36.3/works/gig/index.html#p-26"
+        "fixed_path": "releases/public-0.36.4/works/gig/index.html#p-26"
       }
     },
     {
@@ -3151,7 +3151,7 @@
       "notes": [],
       "work_passage_id": "gig:27",
       "html_path": "works/gig/index.html#p-27",
-      "fixed_html_path": "releases/public-0.36.3/works/gig/index.html#p-27",
+      "fixed_html_path": "releases/public-0.36.4/works/gig/index.html#p-27",
       "alignment_revision": "sha256:b734349ebf2f552f8571b0c11d4b09018f58cfad711f4ba770d086f382aa000a",
       "review_state": {
         "human_reviewed": false,
@@ -3187,9 +3187,9 @@
         "work": "거인들에 관하여",
         "reference": "27",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.3",
+        "release": "public-0.36.4",
         "translation_revision": "sha256:8ed269e0f041331f97acd72ea9b8c543350ec6a2e58e152cb3b1866a9b89dd34",
-        "fixed_path": "releases/public-0.36.3/works/gig/index.html#p-27"
+        "fixed_path": "releases/public-0.36.4/works/gig/index.html#p-27"
       }
     },
     {
@@ -3264,7 +3264,7 @@
       ],
       "work_passage_id": "gig:28",
       "html_path": "works/gig/index.html#p-28",
-      "fixed_html_path": "releases/public-0.36.3/works/gig/index.html#p-28",
+      "fixed_html_path": "releases/public-0.36.4/works/gig/index.html#p-28",
       "alignment_revision": "sha256:065f214054fd725c185cee799d37c55d2d95883ca65ae697d11bff0490d5c38c",
       "review_state": {
         "human_reviewed": false,
@@ -3300,9 +3300,9 @@
         "work": "거인들에 관하여",
         "reference": "28",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.3",
+        "release": "public-0.36.4",
         "translation_revision": "sha256:879230fcc0b18ef089eb307e46a6670e7b86db8dd60f183ac38dad87448bfc20",
-        "fixed_path": "releases/public-0.36.3/works/gig/index.html#p-28"
+        "fixed_path": "releases/public-0.36.4/works/gig/index.html#p-28"
       }
     },
     {
@@ -3332,11 +3332,11 @@
       "encoded_page_breaks": [
         "v.2.p.48"
       ],
-      "korean": "지식이 없는 상태의 가장 큰 원인은 육체와 육체를 가까이하는 태도이다. 하나님 자신도 “그들이 육체이기 때문”에 신적인 영이 계속 머물 수 없다고 밝히신다. 결혼과 자녀 양육, 필요한 것들을 마련하는 일, 재산 없이 명예를 잃는 일, 개인의 일과 공적인 일, 그 밖의 수많은 것도 지혜가 피어나기 전에 시들게 했다.",
-      "translation_revision": "sha256:adb283b615881084528c5506d6119b4886e05ee1bd6ce9cb2955dfaccc893118",
+      "korean": "지식이 없는 상태의 가장 큰 원인은 육체와 육체를 가까이하는 태도이다. 입법자 자신도 “그들이 육체이기 때문”에 신적인 영이 계속 머물 수 없다고 말하며 이를 인정한다. 결혼과 자녀 양육, 필요한 것들을 마련하는 일, 재산 없이 명예를 잃는 일, 개인의 일과 공적인 일, 그 밖의 수많은 것도 지혜가 피어나기 전에 시들게 했다.",
+      "translation_revision": "sha256:1a70fab0a26cad7f36251eb975f544764d4c2804f81403789d4068aad1823881",
       "groups": [
         {
-          "id": "a-40fd738a5895e6f058e6",
+          "id": "a-6c2e381007785b40ee06",
           "source_range": [
             0,
             73
@@ -3349,27 +3349,27 @@
           "ko_text": "지식이 없는 상태의 가장 큰 원인은 육체와 육체를 가까이하는 태도이다."
         },
         {
-          "id": "a-d29f521a5132d560ffc7",
+          "id": "a-66fae65bd61b44da956c",
           "source_range": [
             74,
             171
           ],
           "ko_range": [
             40,
-            87
+            94
           ],
           "source_text": "καὶ αὐτὸς δὲ ὁμολογεῖ φάσκων “διὰ τὸ εἶναι αὐτοὺς σάρκας” μὴ δύνασθαι τὸ θεῖον πνεῦμα καταμεῖναι.",
-          "ko_text": "하나님 자신도 “그들이 육체이기 때문”에 신적인 영이 계속 머물 수 없다고 밝히신다."
+          "ko_text": "입법자 자신도 “그들이 육체이기 때문”에 신적인 영이 계속 머물 수 없다고 말하며 이를 인정한다."
         },
         {
-          "id": "a-d68b6096fe2c95ccde8b",
+          "id": "a-d825e518de64393962e5",
           "source_range": [
             172,
             354
           ],
           "ko_range": [
-            88,
-            176
+            95,
+            183
           ],
           "source_text": "καίτοι καὶ γάμος καὶ παιδοτροφία καὶ πορισμὸς τῶν ἀναγκαίων ἀδοξία τε μετὰ ἀχρηματίας καὶ πραγματεῖαι, ὧν αἱ μὲν ἴδιαι αἱ δὲ κοιναί, καὶ μυρία ἄλλα, πρὶν σοφίαν ἀνθῆσαι, κατεμάραναν.",
           "ko_text": "결혼과 자녀 양육, 필요한 것들을 마련하는 일, 재산 없이 명예를 잃는 일, 개인의 일과 공적인 일, 그 밖의 수많은 것도 지혜가 피어나기 전에 시들게 했다."
@@ -3378,25 +3378,25 @@
       "notes": [],
       "work_passage_id": "gig:29",
       "html_path": "works/gig/index.html#p-29",
-      "fixed_html_path": "releases/public-0.36.3/works/gig/index.html#p-29",
-      "alignment_revision": "sha256:83e2e3c06aad5f9c81df7dc35ec27a645601ddb48d28cf764c3afa06a6bad132",
+      "fixed_html_path": "releases/public-0.36.4/works/gig/index.html#p-29",
+      "alignment_revision": "sha256:86604f67cbac802280319b439971c97d7763595faacfd82769eb98bb4b038a40",
       "review_state": {
         "human_reviewed": false,
         "translation": "ai_authored",
         "source_check": "pinned_xml_extraction",
         "targets": {
           "source_revision": "sha256:1334f43b9962949a427e04e9a6e5ec7ffcbf04c1229a184d8ccf5e9958c4edf3",
-          "translation_revision": "sha256:adb283b615881084528c5506d6119b4886e05ee1bd6ce9cb2955dfaccc893118",
-          "alignment_revision": "sha256:83e2e3c06aad5f9c81df7dc35ec27a645601ddb48d28cf764c3afa06a6bad132"
+          "translation_revision": "sha256:1a70fab0a26cad7f36251eb975f544764d4c2804f81403789d4068aad1823881",
+          "alignment_revision": "sha256:86604f67cbac802280319b439971c97d7763595faacfd82769eb98bb4b038a40"
         },
         "scoped_ai_review": {
-          "id": "gig-complete-extension-20261007",
-          "scope": "거인들에 관하여 채택 본문 67대목 전체",
-          "date": "2026-10-07",
+          "id": "gig-audit-20261018",
+          "scope": "Full source-against-translation audit 2026-10-18; corrections recorded in the chunk support/audit-20261018.json",
+          "date": "2026-10-18",
           "targets": {
             "source_revision": "sha256:1334f43b9962949a427e04e9a6e5ec7ffcbf04c1229a184d8ccf5e9958c4edf3",
-            "translation_revision": "sha256:adb283b615881084528c5506d6119b4886e05ee1bd6ce9cb2955dfaccc893118",
-            "alignment_revision": "sha256:83e2e3c06aad5f9c81df7dc35ec27a645601ddb48d28cf764c3afa06a6bad132"
+            "translation_revision": "sha256:1a70fab0a26cad7f36251eb975f544764d4c2804f81403789d4068aad1823881",
+            "alignment_revision": "sha256:86604f67cbac802280319b439971c97d7763595faacfd82769eb98bb4b038a40"
           }
         }
       },
@@ -3414,9 +3414,9 @@
         "work": "거인들에 관하여",
         "reference": "29",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.3",
-        "translation_revision": "sha256:adb283b615881084528c5506d6119b4886e05ee1bd6ce9cb2955dfaccc893118",
-        "fixed_path": "releases/public-0.36.3/works/gig/index.html#p-29"
+        "release": "public-0.36.4",
+        "translation_revision": "sha256:1a70fab0a26cad7f36251eb975f544764d4c2804f81403789d4068aad1823881",
+        "fixed_path": "releases/public-0.36.4/works/gig/index.html#p-29"
       }
     },
     {
@@ -3476,7 +3476,7 @@
       "notes": [],
       "work_passage_id": "gig:30",
       "html_path": "works/gig/index.html#p-30",
-      "fixed_html_path": "releases/public-0.36.3/works/gig/index.html#p-30",
+      "fixed_html_path": "releases/public-0.36.4/works/gig/index.html#p-30",
       "alignment_revision": "sha256:4eb133783e016c72f3139d49eb0ad5cb39b392acf3c08268b34aa1ab85eea602",
       "review_state": {
         "human_reviewed": false,
@@ -3512,9 +3512,9 @@
         "work": "거인들에 관하여",
         "reference": "30",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.3",
+        "release": "public-0.36.4",
         "translation_revision": "sha256:cdaa24e29ce76a65758ba71c2432f440696bf3a15053765af9de1b8fc0ccf7d8",
-        "fixed_path": "releases/public-0.36.3/works/gig/index.html#p-30"
+        "fixed_path": "releases/public-0.36.4/works/gig/index.html#p-30"
       }
     },
     {
@@ -3541,11 +3541,11 @@
         }
       ],
       "encoded_printed_page_start": "v.2.p.48",
-      "korean": "살과 몸이 없는 영혼들은 온 우주라는 극장에서 날을 보내며, 신적인 광경과 소리를 아무 방해 없이 누린다. 그것들을 향한 한없는 사랑이 영혼에 들어왔기 때문이다. 그러나 육체의 짐을 지고 다니는 영혼들은 그 무게에 눌려, 하늘의 궤도들을 올려다볼 수 없다. 목이 힘껏 아래로 끌려 내려가, 네발짐승처럼 땅에 뿌리박는다.",
-      "translation_revision": "sha256:f9a1d0741bff07c637d30a01b3c4032ab20278cffdc0182c5c1811293c902f3e",
+      "korean": "살과 몸이 없는 영혼들은 온 우주라는 극장에서 날을 보내며, 신적인 광경과 소리를 아무 방해 없이 누린다. 그것들을 향한 한없는 사랑이 영혼에 들어왔기 때문이다. 그러나 육체의 짐을 지고 다니는 영혼들은 그 무게에 짓눌려 위로 하늘의 궤도들을 올려다볼 수 없고, 목이 억지로 아래로 끌려 내려가 네발짐승처럼 땅에 뿌리박는다.",
+      "translation_revision": "sha256:30d7798d357170a73154c209f489ddde3269cf20912c60ccc7ab6e3a296fdf27",
       "groups": [
         {
-          "id": "a-2988fb940f76d46fd1af",
+          "id": "a-39bd25259f830971114e",
           "source_range": [
             0,
             176
@@ -3558,54 +3558,54 @@
           "ko_text": "살과 몸이 없는 영혼들은 온 우주라는 극장에서 날을 보내며, 신적인 광경과 소리를 아무 방해 없이 누린다. 그것들을 향한 한없는 사랑이 영혼에 들어왔기 때문이다."
         },
         {
-          "id": "a-821d550f0c2fae53747f",
+          "id": "a-b753d5eec1ea3897a719",
           "source_range": [
             177,
             215
           ],
           "ko_range": [
             91,
-            143
+            113
           ],
           "source_text": "ὅσαι δὲ τὸν σαρκῶν φόρτον ἀχθοφοροῦσι,",
-          "ko_text": "그러나 육체의 짐을 지고 다니는 영혼들은 그 무게에 눌려, 하늘의 궤도들을 올려다볼 수 없다."
+          "ko_text": "그러나 육체의 짐을 지고 다니는 영혼들은"
         },
         {
-          "id": "a-7bb2f436fef9a74b27f3",
+          "id": "a-57cc9791ebc9e5b2d48a",
           "source_range": [
             216,
             372
           ],
           "ko_range": [
-            144,
-            178
+            114,
+            181
           ],
           "source_text": "βαρυνόμεναι καὶ πιεζόμεναι ἄνω μὲν βλέπειν εἰς τὰς οὐρανίους περιόδους ἀδυνατοῦσι, κάτω δὲ ἑλκυσθεῖσαι τὸν αὐχένα βιαίως δίκην τετραπόδων γῇ προσερρίζωνται.",
-          "ko_text": "목이 힘껏 아래로 끌려 내려가, 네발짐승처럼 땅에 뿌리박는다."
+          "ko_text": "그 무게에 짓눌려 위로 하늘의 궤도들을 올려다볼 수 없고, 목이 억지로 아래로 끌려 내려가 네발짐승처럼 땅에 뿌리박는다."
         }
       ],
       "notes": [],
       "work_passage_id": "gig:31",
       "html_path": "works/gig/index.html#p-31",
-      "fixed_html_path": "releases/public-0.36.3/works/gig/index.html#p-31",
-      "alignment_revision": "sha256:1e8c5fdf17323af291e732da3c6904ff00fad24934ee11af64764d8b36df16b9",
+      "fixed_html_path": "releases/public-0.36.4/works/gig/index.html#p-31",
+      "alignment_revision": "sha256:fac86a03703c9b0134314a75a0a69058254ea44b123e672f7ba95c58562d0baf",
       "review_state": {
         "human_reviewed": false,
         "translation": "ai_authored",
         "source_check": "pinned_xml_extraction",
         "targets": {
           "source_revision": "sha256:ad974a36cd1a320e1ed7eabf9f96fe75cb5d262f8ec11a9c2c73bc5976106b51",
-          "translation_revision": "sha256:f9a1d0741bff07c637d30a01b3c4032ab20278cffdc0182c5c1811293c902f3e",
-          "alignment_revision": "sha256:1e8c5fdf17323af291e732da3c6904ff00fad24934ee11af64764d8b36df16b9"
+          "translation_revision": "sha256:30d7798d357170a73154c209f489ddde3269cf20912c60ccc7ab6e3a296fdf27",
+          "alignment_revision": "sha256:fac86a03703c9b0134314a75a0a69058254ea44b123e672f7ba95c58562d0baf"
         },
         "scoped_ai_review": {
-          "id": "gig-complete-extension-20261007",
-          "scope": "거인들에 관하여 채택 본문 67대목 전체",
-          "date": "2026-10-07",
+          "id": "gig-audit-20261018",
+          "scope": "Full source-against-translation audit 2026-10-18; corrections recorded in the chunk support/audit-20261018.json",
+          "date": "2026-10-18",
           "targets": {
             "source_revision": "sha256:ad974a36cd1a320e1ed7eabf9f96fe75cb5d262f8ec11a9c2c73bc5976106b51",
-            "translation_revision": "sha256:f9a1d0741bff07c637d30a01b3c4032ab20278cffdc0182c5c1811293c902f3e",
-            "alignment_revision": "sha256:1e8c5fdf17323af291e732da3c6904ff00fad24934ee11af64764d8b36df16b9"
+            "translation_revision": "sha256:30d7798d357170a73154c209f489ddde3269cf20912c60ccc7ab6e3a296fdf27",
+            "alignment_revision": "sha256:fac86a03703c9b0134314a75a0a69058254ea44b123e672f7ba95c58562d0baf"
           }
         }
       },
@@ -3623,9 +3623,9 @@
         "work": "거인들에 관하여",
         "reference": "31",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.3",
-        "translation_revision": "sha256:f9a1d0741bff07c637d30a01b3c4032ab20278cffdc0182c5c1811293c902f3e",
-        "fixed_path": "releases/public-0.36.3/works/gig/index.html#p-31"
+        "release": "public-0.36.4",
+        "translation_revision": "sha256:30d7798d357170a73154c209f489ddde3269cf20912c60ccc7ab6e3a296fdf27",
+        "fixed_path": "releases/public-0.36.4/works/gig/index.html#p-31"
       }
     },
     {
@@ -3700,7 +3700,7 @@
       ],
       "work_passage_id": "gig:32",
       "html_path": "works/gig/index.html#p-32",
-      "fixed_html_path": "releases/public-0.36.3/works/gig/index.html#p-32",
+      "fixed_html_path": "releases/public-0.36.4/works/gig/index.html#p-32",
       "alignment_revision": "sha256:77ac9b1d6457dff2483a6988bd5f3fcaf04a862f801fb9be9b5ee66baad94d7d",
       "review_state": {
         "human_reviewed": false,
@@ -3736,9 +3736,9 @@
         "work": "거인들에 관하여",
         "reference": "32",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.3",
+        "release": "public-0.36.4",
         "translation_revision": "sha256:c5406a8e68c447e8a5e3c826520c0f1f4f51f1fce288387700fd7e31e0dfe0a3",
-        "fixed_path": "releases/public-0.36.3/works/gig/index.html#p-32"
+        "fixed_path": "releases/public-0.36.4/works/gig/index.html#p-32"
       }
     },
     {
@@ -3829,7 +3829,7 @@
       ],
       "work_passage_id": "gig:33",
       "html_path": "works/gig/index.html#p-33",
-      "fixed_html_path": "releases/public-0.36.3/works/gig/index.html#p-33",
+      "fixed_html_path": "releases/public-0.36.4/works/gig/index.html#p-33",
       "alignment_revision": "sha256:c346e18757986758d1e7d25dea3a3686ce5425bd025bd88582f763d92049ebd8",
       "review_state": {
         "human_reviewed": false,
@@ -3865,9 +3865,9 @@
         "work": "거인들에 관하여",
         "reference": "33",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.3",
+        "release": "public-0.36.4",
         "translation_revision": "sha256:38c12f3a760ee2ba670179c4025216deb2301ff721bfaa3e49acf883772884bf",
-        "fixed_path": "releases/public-0.36.3/works/gig/index.html#p-33",
+        "fixed_path": "releases/public-0.36.4/works/gig/index.html#p-33",
         "collation_edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897, 48쪽"
       }
     },
@@ -3944,7 +3944,7 @@
       "notes": [],
       "work_passage_id": "gig:34",
       "html_path": "works/gig/index.html#p-34",
-      "fixed_html_path": "releases/public-0.36.3/works/gig/index.html#p-34",
+      "fixed_html_path": "releases/public-0.36.4/works/gig/index.html#p-34",
       "alignment_revision": "sha256:2a1b8d3ca92f6e40fcf1a6f274ef58bdff6bb78e57e8bd70361dedb5f95c45c4",
       "review_state": {
         "human_reviewed": false,
@@ -3980,9 +3980,9 @@
         "work": "거인들에 관하여",
         "reference": "34",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.3",
+        "release": "public-0.36.4",
         "translation_revision": "sha256:990b2a6610532e6d9762248f974352e981f288201592f11aa0cd4b46fb08574c",
-        "fixed_path": "releases/public-0.36.3/works/gig/index.html#p-34"
+        "fixed_path": "releases/public-0.36.4/works/gig/index.html#p-34"
       }
     },
     {
@@ -4009,11 +4009,11 @@
         }
       ],
       "encoded_printed_page_start": "v.2.p.49",
-      "korean": "그러므로 육체가 좋아하는 모든 것을 향해 욕구를 자극하지 말라. 길들지 않은 쾌락들은 개들처럼 꼬리를 흔들다가도, 갑자기 돌아서서 치유할 수 없는 상처를 내곤 한다. 그러므로 덕의 벗인 소박한 필요를 육체와 가까운 것들보다 앞서 택하여, 화해할 수 없고 끝도 없는 수많은 적을 무너뜨리자. 어떤 형편이 적당하고 충분한 것보다 더 많이 받도록 몰아가더라도, 우리 스스로 찾아 나서지는 말자. 그가 “그 사람은 부끄러운 부분을 드러내러 다가가서는 안 된다”라고 말하기 때문이다.",
-      "translation_revision": "sha256:29c22f322fb2d9fbf9c3c67ee807746aaab2f061105947bd5203d116dfd6c604",
+      "korean": "그러므로 육체가 좋아하는 모든 것을 향해 욕구를 자극하지 말라. 길들지 않은 쾌락들은 개들처럼 꼬리를 흔들다가도, 갑자기 돌아서서 치유할 수 없는 상처를 내곤 한다. 그러므로 덕의 벗인 소박한 필요를 육체와 가까운 것들보다 앞서 택하여, 화해할 수 없고 끝도 없는 수많은 적을 무너뜨리자. 어떤 형편이 적당하고 충분한 것보다 더 많이 받도록 몰아가더라도, 우리 스스로 찾아 나서지는 말자. 그가 “그 자신은 부끄러운 부분을 드러내러 다가가서는 안 된다”라고 말하기 때문이다.",
+      "translation_revision": "sha256:a1f5754735233e6c6d024abf776ee10809d95f258d88e797bd0aee97551755e7",
       "groups": [
         {
-          "id": "a-c069e66941ffde9432da",
+          "id": "a-5bdc45e221173d8ebcc7",
           "source_range": [
             0,
             60
@@ -4026,7 +4026,7 @@
           "ko_text": "그러므로 육체가 좋아하는 모든 것을 향해 욕구를 자극하지 말라."
         },
         {
-          "id": "a-69599969c1519ed4720d",
+          "id": "a-36218d79b5931448274b",
           "source_range": [
             61,
             154
@@ -4039,7 +4039,7 @@
           "ko_text": "길들지 않은 쾌락들은 개들처럼 꼬리를 흔들다가도, 갑자기 돌아서서 치유할 수 없는 상처를 내곤 한다."
         },
         {
-          "id": "a-1a70bcd782bc76b4714a",
+          "id": "a-e0873b7235f9fd52197a",
           "source_range": [
             155,
             280
@@ -4052,7 +4052,7 @@
           "ko_text": "그러므로 덕의 벗인 소박한 필요를 육체와 가까운 것들보다 앞서 택하여, 화해할 수 없고 끝도 없는 수많은 적을 무너뜨리자."
         },
         {
-          "id": "a-afa828ec0f5644986001",
+          "id": "a-c043635a19d3de8c1473",
           "source_range": [
             281,
             374
@@ -4065,7 +4065,7 @@
           "ko_text": "어떤 형편이 적당하고 충분한 것보다 더 많이 받도록 몰아가더라도, 우리 스스로 찾아 나서지는 말자."
         },
         {
-          "id": "a-dcc3c1fc4f502d70b681",
+          "id": "a-bd4864bae98ff2811c6b",
           "source_range": [
             375,
             434
@@ -4075,31 +4075,31 @@
             265
           ],
           "source_text": "λέγει γάρ· “οὐ προσελεύσεται αὐτὸς ἀποκαλύψαι ἀσχημοσύνην”.",
-          "ko_text": "그가 “그 사람은 부끄러운 부분을 드러내러 다가가서는 안 된다”라고 말하기 때문이다."
+          "ko_text": "그가 “그 자신은 부끄러운 부분을 드러내러 다가가서는 안 된다”라고 말하기 때문이다."
         }
       ],
       "notes": [],
       "work_passage_id": "gig:35",
       "html_path": "works/gig/index.html#p-35",
-      "fixed_html_path": "releases/public-0.36.3/works/gig/index.html#p-35",
-      "alignment_revision": "sha256:d96e0e87e00844b252bd3a3051b22f8af037a78c68f0066342b4b71660ea12a3",
+      "fixed_html_path": "releases/public-0.36.4/works/gig/index.html#p-35",
+      "alignment_revision": "sha256:75950f3360728e0a6a8ec8284901318f83522089b9be4021efad02e66fa39083",
       "review_state": {
         "human_reviewed": false,
         "translation": "ai_authored",
         "source_check": "pinned_xml_extraction",
         "targets": {
           "source_revision": "sha256:152f2de7989f13cf1f8f654ef9b2c09953557fac38ffa199c700932bbdfc5a75",
-          "translation_revision": "sha256:29c22f322fb2d9fbf9c3c67ee807746aaab2f061105947bd5203d116dfd6c604",
-          "alignment_revision": "sha256:d96e0e87e00844b252bd3a3051b22f8af037a78c68f0066342b4b71660ea12a3"
+          "translation_revision": "sha256:a1f5754735233e6c6d024abf776ee10809d95f258d88e797bd0aee97551755e7",
+          "alignment_revision": "sha256:75950f3360728e0a6a8ec8284901318f83522089b9be4021efad02e66fa39083"
         },
         "scoped_ai_review": {
-          "id": "gig-complete-extension-20261007",
-          "scope": "거인들에 관하여 채택 본문 67대목 전체",
-          "date": "2026-10-07",
+          "id": "gig-audit-20261018",
+          "scope": "Full source-against-translation audit 2026-10-18; corrections recorded in the chunk support/audit-20261018.json",
+          "date": "2026-10-18",
           "targets": {
             "source_revision": "sha256:152f2de7989f13cf1f8f654ef9b2c09953557fac38ffa199c700932bbdfc5a75",
-            "translation_revision": "sha256:29c22f322fb2d9fbf9c3c67ee807746aaab2f061105947bd5203d116dfd6c604",
-            "alignment_revision": "sha256:d96e0e87e00844b252bd3a3051b22f8af037a78c68f0066342b4b71660ea12a3"
+            "translation_revision": "sha256:a1f5754735233e6c6d024abf776ee10809d95f258d88e797bd0aee97551755e7",
+            "alignment_revision": "sha256:75950f3360728e0a6a8ec8284901318f83522089b9be4021efad02e66fa39083"
           }
         }
       },
@@ -4117,9 +4117,9 @@
         "work": "거인들에 관하여",
         "reference": "35",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.3",
-        "translation_revision": "sha256:29c22f322fb2d9fbf9c3c67ee807746aaab2f061105947bd5203d116dfd6c604",
-        "fixed_path": "releases/public-0.36.3/works/gig/index.html#p-35"
+        "release": "public-0.36.4",
+        "translation_revision": "sha256:a1f5754735233e6c6d024abf776ee10809d95f258d88e797bd0aee97551755e7",
+        "fixed_path": "releases/public-0.36.4/works/gig/index.html#p-35"
       }
     },
     {
@@ -4205,7 +4205,7 @@
       "notes": [],
       "work_passage_id": "gig:36",
       "html_path": "works/gig/index.html#p-36",
-      "fixed_html_path": "releases/public-0.36.3/works/gig/index.html#p-36",
+      "fixed_html_path": "releases/public-0.36.4/works/gig/index.html#p-36",
       "alignment_revision": "sha256:f3a3e61b57ee8840524f858a8f46164f0ebc44a4f53fe2e3a91ac1e1bede0eaf",
       "review_state": {
         "human_reviewed": false,
@@ -4241,9 +4241,9 @@
         "work": "거인들에 관하여",
         "reference": "36",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.3",
+        "release": "public-0.36.4",
         "translation_revision": "sha256:d390b3f6c1e271373633fdfd4ec4dbc0df3167debd911925031ceb927fa40161",
-        "fixed_path": "releases/public-0.36.3/works/gig/index.html#p-36"
+        "fixed_path": "releases/public-0.36.4/works/gig/index.html#p-36"
       }
     },
     {
@@ -4344,7 +4344,7 @@
       ],
       "work_passage_id": "gig:37",
       "html_path": "works/gig/index.html#p-37",
-      "fixed_html_path": "releases/public-0.36.3/works/gig/index.html#p-37",
+      "fixed_html_path": "releases/public-0.36.4/works/gig/index.html#p-37",
       "alignment_revision": "sha256:a4e77c575280d293153757f4ff65348cb9662b17b34001d3da8b302cfa03f203",
       "review_state": {
         "human_reviewed": false,
@@ -4380,9 +4380,9 @@
         "work": "거인들에 관하여",
         "reference": "37",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.3",
+        "release": "public-0.36.4",
         "translation_revision": "sha256:67b5c4e79ae4f7ca000a3a28a6eab1ade82e86465f19966cba85e1662355672d",
-        "fixed_path": "releases/public-0.36.3/works/gig/index.html#p-37"
+        "fixed_path": "releases/public-0.36.4/works/gig/index.html#p-37"
       }
     },
     {
@@ -4442,7 +4442,7 @@
       "notes": [],
       "work_passage_id": "gig:38",
       "html_path": "works/gig/index.html#p-38",
-      "fixed_html_path": "releases/public-0.36.3/works/gig/index.html#p-38",
+      "fixed_html_path": "releases/public-0.36.4/works/gig/index.html#p-38",
       "alignment_revision": "sha256:39270155ae22af6993203aed3a60c0357e47c32f3ef7d9a6c707f186ba8fd99c",
       "review_state": {
         "human_reviewed": false,
@@ -4478,9 +4478,9 @@
         "work": "거인들에 관하여",
         "reference": "38",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.3",
+        "release": "public-0.36.4",
         "translation_revision": "sha256:2471843f78ea881c72320ba263d32dcf12929e122afa0f018a26147971e6f3a4",
-        "fixed_path": "releases/public-0.36.3/works/gig/index.html#p-38"
+        "fixed_path": "releases/public-0.36.4/works/gig/index.html#p-38"
       }
     },
     {
@@ -4510,11 +4510,11 @@
       "encoded_page_breaks": [
         "v.2.p.50"
       ],
-      "korean": "그러나 그런 것들을 찾아 나서며 그 발자취를 따라가려는 사람은 철학에 수치스러운 평판을 가득 안긴다. 그래서 ‘부끄러운 부분을 드러낸다’라고 말하는 것이다. 지혜자라고 말하면서 지혜를 팔고 값을 올리는 사람들의 수치는 얼마나 뚜렷하고 드러나 있는가? 시장에서 팔 물건을 소리쳐 알리는 이들이 그러하다고 한다. 그들은 때로는 적은 이익에, 때로는 듣기 좋고 쉽게 속이는 말에, 때로는 확실한 근거가 전혀 없는 불안정한 희망에 지혜를 판다. 때로는",
-      "translation_revision": "sha256:23b5f2ea26ddbd19f82220ebff76c7c13f989ca6a678cc15d4e16fbca1a730d6",
+      "korean": "그러나 그런 것들을 찾아 나서며 그 발자취를 따라가려는 사람은 철학에 수치스러운 평판을 가득 안긴다. 그래서 ‘부끄러운 부분을 드러낸다’라고 말하는 것이다. 지혜자라고 말하면서 지혜를 팔고 헐값에 내놓는 사람들의 수치는 얼마나 뚜렷하고 드러나 있는가? 시장에서 팔 물건을 소리쳐 알리는 이들이 그러하다고 한다. 그들은 때로는 적은 이익에, 때로는 듣기 좋고 쉽게 속이는 말에, 때로는 확실한 근거가 전혀 없는 불안정한 희망에 지혜를 판다. 때로는",
+      "translation_revision": "sha256:c62f4bbb8030513caf283cdab4ab6c3c0abd1c78d562b280a31a1e7f7160c61e",
       "groups": [
         {
-          "id": "a-2d018bd8afc290b0d7bc",
+          "id": "a-31d2c5cc023e4e4817c1",
           "source_range": [
             0,
             79
@@ -4527,7 +4527,7 @@
           "ko_text": "그러나 그런 것들을 찾아 나서며 그 발자취를 따라가려는 사람은 철학에 수치스러운 평판을 가득 안긴다."
         },
         {
-          "id": "a-3f246f3ce98e67b4b9ba",
+          "id": "a-3f3f41a20770b97aa7cf",
           "source_range": [
             80,
             126
@@ -4540,27 +4540,27 @@
           "ko_text": "그래서 ‘부끄러운 부분을 드러낸다’라고 말하는 것이다."
         },
         {
-          "id": "a-5603f1cf02124e2192b8",
+          "id": "a-f511877c597f7cba8b55",
           "source_range": [
             127,
             285
           ],
           "ko_range": [
             88,
-            172
+            173
           ],
           "source_text": "πῶς γὰρ οὐκ ἐναργῆ καὶ πρόδηλα τὰ ὀνείδη τῶν λεγόντων μὲν εἶναι σοφῶν, πωλούντων δὲ σοφίαν καὶ ἐπευωνιζόντων, ὥσπερ φασὶ τοὺς ἐν ἀγορᾷ τὰ ὤνια προκηρύττοντας,",
-          "ko_text": "지혜자라고 말하면서 지혜를 팔고 값을 올리는 사람들의 수치는 얼마나 뚜렷하고 드러나 있는가? 시장에서 팔 물건을 소리쳐 알리는 이들이 그러하다고 한다."
+          "ko_text": "지혜자라고 말하면서 지혜를 팔고 헐값에 내놓는 사람들의 수치는 얼마나 뚜렷하고 드러나 있는가? 시장에서 팔 물건을 소리쳐 알리는 이들이 그러하다고 한다."
         },
         {
-          "id": "a-fb5aaf4df20119dad5f2",
+          "id": "a-97a9af07b83b56a7354a",
           "source_range": [
             286,
             419
           ],
           "ko_range": [
-            173,
-            248
+            174,
+            249
           ],
           "source_text": "τοτὲ μὲν μικροῦ λήμματος, τοτὲ δὲ ἡδέος καὶ εὐπαραγώγου λόγου, τοτὲ δὲ ἀβεβαίου ἐλπίδος ἀπὸ μηδενὸς ἠρτημένης ἐχυροῦ, ἔστι δ’ ὅτε καὶ",
           "ko_text": "그들은 때로는 적은 이익에, 때로는 듣기 좋고 쉽게 속이는 말에, 때로는 확실한 근거가 전혀 없는 불안정한 희망에 지혜를 판다. 때로는"
@@ -4569,25 +4569,25 @@
       "notes": [],
       "work_passage_id": "gig:39",
       "html_path": "works/gig/index.html#p-39",
-      "fixed_html_path": "releases/public-0.36.3/works/gig/index.html#p-39",
-      "alignment_revision": "sha256:ad19ea7990ca3c607efdb6f5acc280487ea41f092e8a97cafcd92f355de612df",
+      "fixed_html_path": "releases/public-0.36.4/works/gig/index.html#p-39",
+      "alignment_revision": "sha256:8392919ddac33ee86da78a0f77fd6144b2122e9a0c9c05a3c0a6ee740d412415",
       "review_state": {
         "human_reviewed": false,
         "translation": "ai_authored",
         "source_check": "pinned_xml_extraction",
         "targets": {
           "source_revision": "sha256:e7f840cb2a6d3c897cba2c1d70d7da93e2bb707c45418bd5a31fee2844d4138b",
-          "translation_revision": "sha256:23b5f2ea26ddbd19f82220ebff76c7c13f989ca6a678cc15d4e16fbca1a730d6",
-          "alignment_revision": "sha256:ad19ea7990ca3c607efdb6f5acc280487ea41f092e8a97cafcd92f355de612df"
+          "translation_revision": "sha256:c62f4bbb8030513caf283cdab4ab6c3c0abd1c78d562b280a31a1e7f7160c61e",
+          "alignment_revision": "sha256:8392919ddac33ee86da78a0f77fd6144b2122e9a0c9c05a3c0a6ee740d412415"
         },
         "scoped_ai_review": {
-          "id": "gig-complete-extension-20261007",
-          "scope": "거인들에 관하여 채택 본문 67대목 전체",
-          "date": "2026-10-07",
+          "id": "gig-audit-20261018",
+          "scope": "Full source-against-translation audit 2026-10-18; corrections recorded in the chunk support/audit-20261018.json",
+          "date": "2026-10-18",
           "targets": {
             "source_revision": "sha256:e7f840cb2a6d3c897cba2c1d70d7da93e2bb707c45418bd5a31fee2844d4138b",
-            "translation_revision": "sha256:23b5f2ea26ddbd19f82220ebff76c7c13f989ca6a678cc15d4e16fbca1a730d6",
-            "alignment_revision": "sha256:ad19ea7990ca3c607efdb6f5acc280487ea41f092e8a97cafcd92f355de612df"
+            "translation_revision": "sha256:c62f4bbb8030513caf283cdab4ab6c3c0abd1c78d562b280a31a1e7f7160c61e",
+            "alignment_revision": "sha256:8392919ddac33ee86da78a0f77fd6144b2122e9a0c9c05a3c0a6ee740d412415"
           }
         }
       },
@@ -4605,9 +4605,9 @@
         "work": "거인들에 관하여",
         "reference": "39",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.3",
-        "translation_revision": "sha256:23b5f2ea26ddbd19f82220ebff76c7c13f989ca6a678cc15d4e16fbca1a730d6",
-        "fixed_path": "releases/public-0.36.3/works/gig/index.html#p-39"
+        "release": "public-0.36.4",
+        "translation_revision": "sha256:c62f4bbb8030513caf283cdab4ab6c3c0abd1c78d562b280a31a1e7f7160c61e",
+        "fixed_path": "releases/public-0.36.4/works/gig/index.html#p-39"
       }
     },
     {
@@ -4693,7 +4693,7 @@
       "notes": [],
       "work_passage_id": "gig:40",
       "html_path": "works/gig/index.html#p-40",
-      "fixed_html_path": "releases/public-0.36.3/works/gig/index.html#p-40",
+      "fixed_html_path": "releases/public-0.36.4/works/gig/index.html#p-40",
       "alignment_revision": "sha256:b851b7c23392dec9fbae4bcc8b11427a2b962571ef796735f297914b9edae393",
       "review_state": {
         "human_reviewed": false,
@@ -4729,9 +4729,9 @@
         "work": "거인들에 관하여",
         "reference": "40",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.3",
+        "release": "public-0.36.4",
         "translation_revision": "sha256:3d87332792a4e9ab44d378d4176b91817e6432b4bc6d9423a44853304a9681f5",
-        "fixed_path": "releases/public-0.36.3/works/gig/index.html#p-40"
+        "fixed_path": "releases/public-0.36.4/works/gig/index.html#p-40"
       }
     },
     {
@@ -4793,7 +4793,7 @@
       ],
       "work_passage_id": "gig:41",
       "html_path": "works/gig/index.html#p-41",
-      "fixed_html_path": "releases/public-0.36.3/works/gig/index.html#p-41",
+      "fixed_html_path": "releases/public-0.36.4/works/gig/index.html#p-41",
       "alignment_revision": "sha256:1a8d2fbab3dad812a88b0d6b77b08dd92572d0dd24705b21309097aa04c8fdba",
       "review_state": {
         "human_reviewed": false,
@@ -4829,9 +4829,9 @@
         "work": "거인들에 관하여",
         "reference": "41",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.3",
+        "release": "public-0.36.4",
         "translation_revision": "sha256:7ba1a8c44b8ec3ae03e4f5eab83fdef5e2ce052d6f5a48452b98cd750b71510d",
-        "fixed_path": "releases/public-0.36.3/works/gig/index.html#p-41"
+        "fixed_path": "releases/public-0.36.4/works/gig/index.html#p-41"
       }
     },
     {
@@ -4891,7 +4891,7 @@
       "notes": [],
       "work_passage_id": "gig:42",
       "html_path": "works/gig/index.html#p-42",
-      "fixed_html_path": "releases/public-0.36.3/works/gig/index.html#p-42",
+      "fixed_html_path": "releases/public-0.36.4/works/gig/index.html#p-42",
       "alignment_revision": "sha256:dbf2353a93bb3df15b06adc5494c1159b071ca5266ecfe416354956f9fc5385b",
       "review_state": {
         "human_reviewed": false,
@@ -4927,9 +4927,9 @@
         "work": "거인들에 관하여",
         "reference": "42",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.3",
+        "release": "public-0.36.4",
         "translation_revision": "sha256:956585b7fb3af367989f1f4168488c326450f7095cc2317686a40bde94f1b0d7",
-        "fixed_path": "releases/public-0.36.3/works/gig/index.html#p-42"
+        "fixed_path": "releases/public-0.36.4/works/gig/index.html#p-42"
       }
     },
     {
@@ -5000,11 +5000,11 @@
         }
       ],
       "notes": [
-        "쾌락은 자기의 것을 주는 이에게 손해를 주고, 그것을 빼앗는 이에게 이익을 준다는 역설로 의인화된다. 하나님의 대열을 떠나 쾌락 쪽으로 넘어가는 군사 비유와 연결된다."
+        "쾌락은 자기의 좋은 것을 나누어 받는 이에게 손해를 주고, 그것을 빼앗기는 이에게 이익을 준다는 역설로 의인화된다. 하나님의 대열을 떠나 쾌락 쪽으로 넘어가는 군사 비유와 연결된다."
       ],
       "work_passage_id": "gig:43",
       "html_path": "works/gig/index.html#p-43",
-      "fixed_html_path": "releases/public-0.36.3/works/gig/index.html#p-43",
+      "fixed_html_path": "releases/public-0.36.4/works/gig/index.html#p-43",
       "alignment_revision": "sha256:45414de2509949723cf3876a08959a311c18ab0fd9700f34cb34a8ffb177ea9c",
       "review_state": {
         "human_reviewed": false,
@@ -5040,9 +5040,9 @@
         "work": "거인들에 관하여",
         "reference": "43",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.3",
+        "release": "public-0.36.4",
         "translation_revision": "sha256:7362af8da91eae102e858d5834fddabc673b798dbd5e13cc627eded134031a5a",
-        "fixed_path": "releases/public-0.36.3/works/gig/index.html#p-43"
+        "fixed_path": "releases/public-0.36.4/works/gig/index.html#p-43"
       }
     },
     {
@@ -5069,11 +5069,11 @@
         }
       ],
       "encoded_printed_page_start": "v.2.p.50",
-      "korean": "쾌락은 줄 때에는 해치고, 거두어 갈 때에는 호의를 베푸는 것이다. 그러므로 영혼이여, 쾌락의 유혹 가운데 무엇이 너를 부르면 몸을 돌려라. 반대쪽으로 눈길을 돌려 덕의 참된 아름다움을 바라보고, 바라보며 머물러라. 네 안에 사랑이 스며들고, 자석처럼 너를 끌어당길 때까지 그렇게 하라.",
-      "translation_revision": "sha256:62486e54c0383bca2958062f151843975934119d5f357b965a6e43f941616371",
+      "korean": "쾌락은 줄 때에는 해치고, 거두어 갈 때에는 호의를 베푸는 것이다. 그러므로 영혼이여, 쾌락의 유혹 가운데 무엇이 너를 부르면 몸을 돌리고, 반대쪽으로 눈길을 돌려 덕의 참된 아름다움을 바라보고, 바라보며 머물러라. 네 안에 사랑이 스며들고, 자석처럼 너를 끌어당길 때까지 그렇게 하라.",
+      "translation_revision": "sha256:3e990c852a913314c1e7a4c4ef049712c4e381f23c1be7dd237906800e296ff7",
       "groups": [
         {
-          "id": "a-9382abcca6004e846393",
+          "id": "a-8da005f5cea187149ee5",
           "source_range": [
             0,
             55
@@ -5086,33 +5086,33 @@
           "ko_text": "쾌락은 줄 때에는 해치고, 거두어 갈 때에는 호의를 베푸는 것이다."
         },
         {
-          "id": "a-345c2769c447e8a58fef",
+          "id": "a-5de8a814040d4c65d410",
           "source_range": [
             56,
             110
           ],
           "ko_range": [
             38,
-            78
+            70
           ],
           "source_text": "ἐὰν οὖν, ὦ ψυχή, προσκαλῆταί σέ τι τῶν ἡδονῆς φίλτρων,",
-          "ko_text": "그러므로 영혼이여, 쾌락의 유혹 가운데 무엇이 너를 부르면 몸을 돌려라."
+          "ko_text": "그러므로 영혼이여, 쾌락의 유혹 가운데 무엇이 너를 부르면"
         },
         {
-          "id": "a-7bc6f30153da10c713a5",
+          "id": "a-5d0aa0dc9778709b72f1",
           "source_range": [
             111,
             209
           ],
           "ko_range": [
-            79,
+            71,
             120
           ],
           "source_text": "μετάκλινε σεαυτὴν καὶ ἀντιπεριάγουσα τὴν ὄψιν κάτιδε τὸ γνήσιον ἀρετῆς κάλλος καὶ ὁρῶσα ἐπίμεινον,",
-          "ko_text": "반대쪽으로 눈길을 돌려 덕의 참된 아름다움을 바라보고, 바라보며 머물러라."
+          "ko_text": "몸을 돌리고, 반대쪽으로 눈길을 돌려 덕의 참된 아름다움을 바라보고, 바라보며 머물러라."
         },
         {
-          "id": "a-931beedd55eab7856cd0",
+          "id": "a-ef2e3e87e4ece3c27644",
           "source_range": [
             210,
             271
@@ -5128,25 +5128,25 @@
       "notes": [],
       "work_passage_id": "gig:44",
       "html_path": "works/gig/index.html#p-44",
-      "fixed_html_path": "releases/public-0.36.3/works/gig/index.html#p-44",
-      "alignment_revision": "sha256:1618cbc580b311761822407ee4effdf0d0e44b0efd663d47428fa9ef849de9e9",
+      "fixed_html_path": "releases/public-0.36.4/works/gig/index.html#p-44",
+      "alignment_revision": "sha256:b0f52e75658318db34791ef194fd0e7f1f2a23aa955b2fa0b250c7b950363a90",
       "review_state": {
         "human_reviewed": false,
         "translation": "ai_authored",
         "source_check": "pinned_xml_extraction",
         "targets": {
           "source_revision": "sha256:2bc202a32d9474d9db18d05f15cad1c38a6170263322ecf1da5c5738cb15c30b",
-          "translation_revision": "sha256:62486e54c0383bca2958062f151843975934119d5f357b965a6e43f941616371",
-          "alignment_revision": "sha256:1618cbc580b311761822407ee4effdf0d0e44b0efd663d47428fa9ef849de9e9"
+          "translation_revision": "sha256:3e990c852a913314c1e7a4c4ef049712c4e381f23c1be7dd237906800e296ff7",
+          "alignment_revision": "sha256:b0f52e75658318db34791ef194fd0e7f1f2a23aa955b2fa0b250c7b950363a90"
         },
         "scoped_ai_review": {
-          "id": "gig-complete-extension-20261007",
-          "scope": "거인들에 관하여 채택 본문 67대목 전체",
-          "date": "2026-10-07",
+          "id": "gig-audit-20261018",
+          "scope": "Full source-against-translation audit 2026-10-18; corrections recorded in the chunk support/audit-20261018.json",
+          "date": "2026-10-18",
           "targets": {
             "source_revision": "sha256:2bc202a32d9474d9db18d05f15cad1c38a6170263322ecf1da5c5738cb15c30b",
-            "translation_revision": "sha256:62486e54c0383bca2958062f151843975934119d5f357b965a6e43f941616371",
-            "alignment_revision": "sha256:1618cbc580b311761822407ee4effdf0d0e44b0efd663d47428fa9ef849de9e9"
+            "translation_revision": "sha256:3e990c852a913314c1e7a4c4ef049712c4e381f23c1be7dd237906800e296ff7",
+            "alignment_revision": "sha256:b0f52e75658318db34791ef194fd0e7f1f2a23aa955b2fa0b250c7b950363a90"
           }
         }
       },
@@ -5164,9 +5164,9 @@
         "work": "거인들에 관하여",
         "reference": "44",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.3",
-        "translation_revision": "sha256:62486e54c0383bca2958062f151843975934119d5f357b965a6e43f941616371",
-        "fixed_path": "releases/public-0.36.3/works/gig/index.html#p-44"
+        "release": "public-0.36.4",
+        "translation_revision": "sha256:3e990c852a913314c1e7a4c4ef049712c4e381f23c1be7dd237906800e296ff7",
+        "fixed_path": "releases/public-0.36.4/works/gig/index.html#p-44"
       }
     },
     {
@@ -5244,7 +5244,7 @@
       ],
       "work_passage_id": "gig:45",
       "html_path": "works/gig/index.html#p-45",
-      "fixed_html_path": "releases/public-0.36.3/works/gig/index.html#p-45",
+      "fixed_html_path": "releases/public-0.36.4/works/gig/index.html#p-45",
       "alignment_revision": "sha256:25c3f04581cdbdd51e0abcd7563c17c6b6ddea3806babe52dcaea9dcac759bb9",
       "review_state": {
         "human_reviewed": false,
@@ -5280,9 +5280,9 @@
         "work": "거인들에 관하여",
         "reference": "45",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.3",
+        "release": "public-0.36.4",
         "translation_revision": "sha256:7611ebf79a26a047c1c6fce362e2b297a1b90275622cf362034ed902f9910710",
-        "fixed_path": "releases/public-0.36.3/works/gig/index.html#p-45"
+        "fixed_path": "releases/public-0.36.4/works/gig/index.html#p-45"
       }
     },
     {
@@ -5342,7 +5342,7 @@
       "notes": [],
       "work_passage_id": "gig:46",
       "html_path": "works/gig/index.html#p-46",
-      "fixed_html_path": "releases/public-0.36.3/works/gig/index.html#p-46",
+      "fixed_html_path": "releases/public-0.36.4/works/gig/index.html#p-46",
       "alignment_revision": "sha256:a5c02490ca6b7e0ac7416a16348590a953c188de2b0fc2360b1f4efde75d70d1",
       "review_state": {
         "human_reviewed": false,
@@ -5378,9 +5378,9 @@
         "work": "거인들에 관하여",
         "reference": "46",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.3",
+        "release": "public-0.36.4",
         "translation_revision": "sha256:b5108d6985774b49543f980c694e75f74ce8e976717df8aabd2af90cddcac074",
-        "fixed_path": "releases/public-0.36.3/works/gig/index.html#p-46"
+        "fixed_path": "releases/public-0.36.4/works/gig/index.html#p-46"
       }
     },
     {
@@ -5453,7 +5453,7 @@
       "notes": [],
       "work_passage_id": "gig:47",
       "html_path": "works/gig/index.html#p-47",
-      "fixed_html_path": "releases/public-0.36.3/works/gig/index.html#p-47",
+      "fixed_html_path": "releases/public-0.36.4/works/gig/index.html#p-47",
       "alignment_revision": "sha256:03464d63146d49092df4a435dd1b52c6b0c89067c7c5a2e287dc199ac11d068a",
       "review_state": {
         "human_reviewed": false,
@@ -5489,9 +5489,9 @@
         "work": "거인들에 관하여",
         "reference": "47",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.3",
+        "release": "public-0.36.4",
         "translation_revision": "sha256:72340769274ec068957e400499e3072d54960172fd2a8c9f4f716e0b34e80494",
-        "fixed_path": "releases/public-0.36.3/works/gig/index.html#p-47"
+        "fixed_path": "releases/public-0.36.4/works/gig/index.html#p-47"
       }
     },
     {
@@ -5579,7 +5579,7 @@
       ],
       "work_passage_id": "gig:48",
       "html_path": "works/gig/index.html#p-48",
-      "fixed_html_path": "releases/public-0.36.3/works/gig/index.html#p-48",
+      "fixed_html_path": "releases/public-0.36.4/works/gig/index.html#p-48",
       "alignment_revision": "sha256:c34c8220ac4a9b2b05c6802ec60c3c0c735e090d0defeca184a92aed76963280",
       "review_state": {
         "human_reviewed": false,
@@ -5615,9 +5615,9 @@
         "work": "거인들에 관하여",
         "reference": "48",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.3",
+        "release": "public-0.36.4",
         "translation_revision": "sha256:de98f6094d5cfe2203536c53d623832f0868d2b1b8093689c17134a4dbeb1501",
-        "fixed_path": "releases/public-0.36.3/works/gig/index.html#p-48"
+        "fixed_path": "releases/public-0.36.4/works/gig/index.html#p-48"
       }
     },
     {
@@ -5690,7 +5690,7 @@
       "notes": [],
       "work_passage_id": "gig:49",
       "html_path": "works/gig/index.html#p-49",
-      "fixed_html_path": "releases/public-0.36.3/works/gig/index.html#p-49",
+      "fixed_html_path": "releases/public-0.36.4/works/gig/index.html#p-49",
       "alignment_revision": "sha256:a21ba9926f4970589e7b7c22ee397a9bf06b31e1393b58ed691a189f08e30a40",
       "review_state": {
         "human_reviewed": false,
@@ -5726,9 +5726,9 @@
         "work": "거인들에 관하여",
         "reference": "49",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.3",
+        "release": "public-0.36.4",
         "translation_revision": "sha256:72e49f883ad4cb0381b0c5793ede5087709b6397507e6f38a42003b216b79bc4",
-        "fixed_path": "releases/public-0.36.3/works/gig/index.html#p-49"
+        "fixed_path": "releases/public-0.36.4/works/gig/index.html#p-49"
       }
     },
     {
@@ -5803,7 +5803,7 @@
       ],
       "work_passage_id": "gig:50",
       "html_path": "works/gig/index.html#p-50",
-      "fixed_html_path": "releases/public-0.36.3/works/gig/index.html#p-50",
+      "fixed_html_path": "releases/public-0.36.4/works/gig/index.html#p-50",
       "alignment_revision": "sha256:77ff41644b9cf63671f5d93c7d49e2f00ac02b0497e9d659bd660f5c1766bf8d",
       "review_state": {
         "human_reviewed": false,
@@ -5839,9 +5839,9 @@
         "work": "거인들에 관하여",
         "reference": "50",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.3",
+        "release": "public-0.36.4",
         "translation_revision": "sha256:ec20015c2b364370afb2a2b1f7226df3bb9dc9605e449af61b63a716477aaf42",
-        "fixed_path": "releases/public-0.36.3/works/gig/index.html#p-50"
+        "fixed_path": "releases/public-0.36.4/works/gig/index.html#p-50"
       }
     },
     {
@@ -5904,7 +5904,7 @@
       "notes": [],
       "work_passage_id": "gig:51",
       "html_path": "works/gig/index.html#p-51",
-      "fixed_html_path": "releases/public-0.36.3/works/gig/index.html#p-51",
+      "fixed_html_path": "releases/public-0.36.4/works/gig/index.html#p-51",
       "alignment_revision": "sha256:06866084ae482c52a341787587fe47258a84fe68d962149d908ac0a337ce419e",
       "review_state": {
         "human_reviewed": false,
@@ -5940,9 +5940,9 @@
         "work": "거인들에 관하여",
         "reference": "51",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.3",
+        "release": "public-0.36.4",
         "translation_revision": "sha256:49bae5ddaca8a5cacf93b182f496ff452206858ba146e753888a09d886de884d",
-        "fixed_path": "releases/public-0.36.3/works/gig/index.html#p-51"
+        "fixed_path": "releases/public-0.36.4/works/gig/index.html#p-51"
       }
     },
     {
@@ -6017,7 +6017,7 @@
       ],
       "work_passage_id": "gig:52",
       "html_path": "works/gig/index.html#p-52",
-      "fixed_html_path": "releases/public-0.36.3/works/gig/index.html#p-52",
+      "fixed_html_path": "releases/public-0.36.4/works/gig/index.html#p-52",
       "alignment_revision": "sha256:6ceb5ae2c66b5afb8abf4db0a611e2d83a72c76a12f3aa2182c8cc14eccdf414",
       "review_state": {
         "human_reviewed": false,
@@ -6053,9 +6053,9 @@
         "work": "거인들에 관하여",
         "reference": "52",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.3",
+        "release": "public-0.36.4",
         "translation_revision": "sha256:ad18dd291c0bba16e6b76d96377cf2f50e18bd1281e7fb35562b9ec0c1cfc816",
-        "fixed_path": "releases/public-0.36.3/works/gig/index.html#p-52"
+        "fixed_path": "releases/public-0.36.4/works/gig/index.html#p-52"
       }
     },
     {
@@ -6128,7 +6128,7 @@
       "notes": [],
       "work_passage_id": "gig:53",
       "html_path": "works/gig/index.html#p-53",
-      "fixed_html_path": "releases/public-0.36.3/works/gig/index.html#p-53",
+      "fixed_html_path": "releases/public-0.36.4/works/gig/index.html#p-53",
       "alignment_revision": "sha256:dbb7b29cda6466585e8c70b841d42fece35a9d3b8965eab35da7275f9ed7a151",
       "review_state": {
         "human_reviewed": false,
@@ -6164,9 +6164,9 @@
         "work": "거인들에 관하여",
         "reference": "53",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.3",
+        "release": "public-0.36.4",
         "translation_revision": "sha256:4dd9145680347117123cae37ed7af130c2646935bc4c612db5a3d4b169092d64",
-        "fixed_path": "releases/public-0.36.3/works/gig/index.html#p-53"
+        "fixed_path": "releases/public-0.36.4/works/gig/index.html#p-53"
       }
     },
     {
@@ -6241,7 +6241,7 @@
       ],
       "work_passage_id": "gig:54",
       "html_path": "works/gig/index.html#p-54",
-      "fixed_html_path": "releases/public-0.36.3/works/gig/index.html#p-54",
+      "fixed_html_path": "releases/public-0.36.4/works/gig/index.html#p-54",
       "alignment_revision": "sha256:115e1470540af6bbbf019695272588435602500992c966cea2dac155502a4622",
       "review_state": {
         "human_reviewed": false,
@@ -6277,9 +6277,9 @@
         "work": "거인들에 관하여",
         "reference": "54",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.3",
+        "release": "public-0.36.4",
         "translation_revision": "sha256:931b393870b81c99e05669649f87d13369e612d56b03325520f20c7ea39e24e2",
-        "fixed_path": "releases/public-0.36.3/works/gig/index.html#p-54"
+        "fixed_path": "releases/public-0.36.4/works/gig/index.html#p-54"
       }
     },
     {
@@ -6352,7 +6352,7 @@
       "notes": [],
       "work_passage_id": "gig:55",
       "html_path": "works/gig/index.html#p-55",
-      "fixed_html_path": "releases/public-0.36.3/works/gig/index.html#p-55",
+      "fixed_html_path": "releases/public-0.36.4/works/gig/index.html#p-55",
       "alignment_revision": "sha256:a4abf449debeefc3052b49faec8fd72f07c135d174b4286442963a9a9d0834c3",
       "review_state": {
         "human_reviewed": false,
@@ -6388,9 +6388,9 @@
         "work": "거인들에 관하여",
         "reference": "55",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.3",
+        "release": "public-0.36.4",
         "translation_revision": "sha256:54d65d2fcd161f3d63370475540349e44bdfbe81813be73ccdd2ae568752e969",
-        "fixed_path": "releases/public-0.36.3/works/gig/index.html#p-55"
+        "fixed_path": "releases/public-0.36.4/works/gig/index.html#p-55"
       }
     },
     {
@@ -6481,7 +6481,7 @@
       ],
       "work_passage_id": "gig:56",
       "html_path": "works/gig/index.html#p-56",
-      "fixed_html_path": "releases/public-0.36.3/works/gig/index.html#p-56",
+      "fixed_html_path": "releases/public-0.36.4/works/gig/index.html#p-56",
       "alignment_revision": "sha256:a09258c160699dd7ee29292027268e04bbc713bfddd2506289f2e11d2c4f0865",
       "review_state": {
         "human_reviewed": false,
@@ -6517,9 +6517,9 @@
         "work": "거인들에 관하여",
         "reference": "56",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.3",
+        "release": "public-0.36.4",
         "translation_revision": "sha256:0cd8db10a0317972ecf28fa49c8fdcfc7a86e1e04342ba86bc1011b2bb098afa",
-        "fixed_path": "releases/public-0.36.3/works/gig/index.html#p-56"
+        "fixed_path": "releases/public-0.36.4/works/gig/index.html#p-56"
       }
     },
     {
@@ -6579,7 +6579,7 @@
       "notes": [],
       "work_passage_id": "gig:57",
       "html_path": "works/gig/index.html#p-57",
-      "fixed_html_path": "releases/public-0.36.3/works/gig/index.html#p-57",
+      "fixed_html_path": "releases/public-0.36.4/works/gig/index.html#p-57",
       "alignment_revision": "sha256:628b2da8dca6987e1bde70d519605930af7915d16740fadb5a5ec5286da98120",
       "review_state": {
         "human_reviewed": false,
@@ -6615,9 +6615,9 @@
         "work": "거인들에 관하여",
         "reference": "57",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.3",
+        "release": "public-0.36.4",
         "translation_revision": "sha256:ef732e868c489a1935bf5c89e3750c5e96477505b8cb4e4995df59bed4d0a11d",
-        "fixed_path": "releases/public-0.36.3/works/gig/index.html#p-57"
+        "fixed_path": "releases/public-0.36.4/works/gig/index.html#p-57"
       }
     },
     {
@@ -6677,7 +6677,7 @@
       "notes": [],
       "work_passage_id": "gig:58",
       "html_path": "works/gig/index.html#p-58",
-      "fixed_html_path": "releases/public-0.36.3/works/gig/index.html#p-58",
+      "fixed_html_path": "releases/public-0.36.4/works/gig/index.html#p-58",
       "alignment_revision": "sha256:a9f25fc1f65824a5f0f73da9e7d643f6861eaea65df259b5997c94aff1e5f04a",
       "review_state": {
         "human_reviewed": false,
@@ -6713,9 +6713,9 @@
         "work": "거인들에 관하여",
         "reference": "58",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.3",
+        "release": "public-0.36.4",
         "translation_revision": "sha256:3c62f0b56e15b0e3e55cb4f9500fa37a2b811023bb32eb2658c745bb84e195a8",
-        "fixed_path": "releases/public-0.36.3/works/gig/index.html#p-58"
+        "fixed_path": "releases/public-0.36.4/works/gig/index.html#p-58"
       }
     },
     {
@@ -6775,7 +6775,7 @@
       "notes": [],
       "work_passage_id": "gig:59",
       "html_path": "works/gig/index.html#p-59",
-      "fixed_html_path": "releases/public-0.36.3/works/gig/index.html#p-59",
+      "fixed_html_path": "releases/public-0.36.4/works/gig/index.html#p-59",
       "alignment_revision": "sha256:42cbc80bf6e8e73548bbe679fd2c214c1f7230b08c2a8069e4374e1918b9a89d",
       "review_state": {
         "human_reviewed": false,
@@ -6811,9 +6811,9 @@
         "work": "거인들에 관하여",
         "reference": "59",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.3",
+        "release": "public-0.36.4",
         "translation_revision": "sha256:e824aa5e8c171aed63a2aa9995d9bbbec4ce0132dee7015a80cad4249fa09262",
-        "fixed_path": "releases/public-0.36.3/works/gig/index.html#p-59"
+        "fixed_path": "releases/public-0.36.4/works/gig/index.html#p-59"
       }
     },
     {
@@ -6840,11 +6840,11 @@
         }
       ],
       "encoded_printed_page_start": "v.2.p.53",
-      "korean": "그는 거인에 관한 신화를 전혀 제시하지 않는다. 그가 밝히려는 것은 사람들 가운데 땅에서 태어난 이들, 하늘에서 태어난 이들, 하나님에게서 태어난 이들이 있다는 것이다. 땅에서 태어난 이들은 육체의 쾌락을 뒤쫓아 누리고 사용하며, 각각의 쾌락에 필요한 것을 마련하는 사람들이다. 하늘에서 태어난 이들은 기술자와 학자, 배우기를 좋아하는 사람들이다. 우리 안에서 하늘에 속하는 부분은 지성이며, 하늘에 있는 각각의 것도 지성이기 때문이다. 지성은 기초 학문과 다른 모든 기술을 익히면서, 사유할 수 있는 것들 안에서 자신을 날카롭게 하고 갈고 닦고 단련하고 굳게 세운다.",
-      "translation_revision": "sha256:d102a1dd787bf0421a5f81abb21df0d217e9a4776119991acc7583f4d1783a6a",
+      "korean": "그는 거인에 관한 신화를 전혀 제시하지 않는다. 그가 밝히려는 것은 사람들 가운데 땅의 사람들, 하늘의 사람들, 하나님의 사람들이 있다는 것이다. 땅의 사람들은 육체의 쾌락을 뒤쫓아 누리고 사용하며, 각각의 쾌락에 필요한 것을 마련하는 사람들이다. 하늘의 사람들은 기술자와 학자, 배우기를 좋아하는 사람들이다. 우리 안에서 하늘에 속하는 부분은 지성이며, 하늘에 있는 각각의 것도 지성이기 때문이다. 지성은 기초 학문과 다른 모든 기술을 익히면서, 사유할 수 있는 것들 안에서 자신을 날카롭게 하고 갈고 닦고 단련하고 굳게 세운다.",
+      "translation_revision": "sha256:06b9945294cfcf5589475fc6fa2c8cd2e374ac1052972f08c6aa9579377c48ee",
       "groups": [
         {
-          "id": "a-eedeaaf0be0f19dd1cb0",
+          "id": "a-058c60590c93453c1300",
           "source_range": [
             0,
             57
@@ -6857,53 +6857,53 @@
           "ko_text": "그는 거인에 관한 신화를 전혀 제시하지 않는다."
         },
         {
-          "id": "a-bcf779da88dc93f41747",
+          "id": "a-2025e4cd992ae481d674",
           "source_range": [
             58,
             154
           ],
           "ko_range": [
             27,
-            94
+            81
           ],
           "source_text": "βούλεται δὲ ἐκεῖνό σοι παραστῆσαι, ὅτι οἱ μὲν γῆς, οἱ δὲ οὐρανοῦ, οἱ δὲ θεοῦ γεγόνασιν ἄνθρωποι·",
-          "ko_text": "그가 밝히려는 것은 사람들 가운데 땅에서 태어난 이들, 하늘에서 태어난 이들, 하나님에게서 태어난 이들이 있다는 것이다."
+          "ko_text": "그가 밝히려는 것은 사람들 가운데 땅의 사람들, 하늘의 사람들, 하나님의 사람들이 있다는 것이다."
         },
         {
-          "id": "a-2346b8c57c05a17c4dab",
+          "id": "a-2ef2023a351a673306cc",
           "source_range": [
             155,
             282
           ],
           "ko_range": [
-            95,
-            155
+            82,
+            138
           ],
           "source_text": "γῆς μὲν οἱ θηρευτικοὶ τῶν σώματος ἡδονῶν ἀπόλαυσίν τε καὶ χρῆσιν ἐπιτηδεύοντες αὐτῶν καὶ πορισταὶ τῶν συντεινόντων εἰς ἑκάστην,",
-          "ko_text": "땅에서 태어난 이들은 육체의 쾌락을 뒤쫓아 누리고 사용하며, 각각의 쾌락에 필요한 것을 마련하는 사람들이다."
+          "ko_text": "땅의 사람들은 육체의 쾌락을 뒤쫓아 누리고 사용하며, 각각의 쾌락에 필요한 것을 마련하는 사람들이다."
         },
         {
-          "id": "a-e79c7f40709f224525ab",
+          "id": "a-d2a445ae32ed25865bb5",
           "source_range": [
             283,
             338
           ],
           "ko_range": [
-            156,
-            194
+            139,
+            173
           ],
           "source_text": "οὐρανοῦ δὲ ὅσοι τεχνῖται καὶ ἐπιστήμονες καὶ φιλομαθεῖς",
-          "ko_text": "하늘에서 태어난 이들은 기술자와 학자, 배우기를 좋아하는 사람들이다."
+          "ko_text": "하늘의 사람들은 기술자와 학자, 배우기를 좋아하는 사람들이다."
         },
         {
-          "id": "a-a4bcdd114b49bbf99792",
+          "id": "a-fb832e3d36995eefac7e",
           "source_range": [
             339,
             547
           ],
           "ko_range": [
-            195,
-            318
+            174,
+            297
           ],
           "source_text": "- τὸ γὰρ οὐράνιον τῶν ἐν ἡμῖν ὁ νοῦς (νοῦς δὲ καὶ τῶν κατ’ οὐρανὸν ἕκαστον) τὰ ἐγκύκλια καὶ τὰς ἄλλας ἅπαξ ἁπάσας ἐπιτηδεύει τέχνας, παραθήγων καὶ ἀκονῶν ἔτι τε γυμνάζων καὶ συγκροτῶν ἐν τοῖς νοητοῖς αὑτόν -,",
           "ko_text": "우리 안에서 하늘에 속하는 부분은 지성이며, 하늘에 있는 각각의 것도 지성이기 때문이다. 지성은 기초 학문과 다른 모든 기술을 익히면서, 사유할 수 있는 것들 안에서 자신을 날카롭게 하고 갈고 닦고 단련하고 굳게 세운다."
@@ -6914,25 +6914,25 @@
       ],
       "work_passage_id": "gig:60",
       "html_path": "works/gig/index.html#p-60",
-      "fixed_html_path": "releases/public-0.36.3/works/gig/index.html#p-60",
-      "alignment_revision": "sha256:d2bf54edb33208f3e5851c6ebf9096b710bf56b3beffc15d8cebfac7ee10ed63",
+      "fixed_html_path": "releases/public-0.36.4/works/gig/index.html#p-60",
+      "alignment_revision": "sha256:b8a90e4d6e1798f82c5170fb978e410f4f5debab5202ff4c0e9b0d2c38b3bfcb",
       "review_state": {
         "human_reviewed": false,
         "translation": "ai_authored",
         "source_check": "pinned_xml_extraction",
         "targets": {
           "source_revision": "sha256:41bc2a70a310ac0e57d5a5efd599ffe5c3716b5666d87b9c20d6742bdf2fec05",
-          "translation_revision": "sha256:d102a1dd787bf0421a5f81abb21df0d217e9a4776119991acc7583f4d1783a6a",
-          "alignment_revision": "sha256:d2bf54edb33208f3e5851c6ebf9096b710bf56b3beffc15d8cebfac7ee10ed63"
+          "translation_revision": "sha256:06b9945294cfcf5589475fc6fa2c8cd2e374ac1052972f08c6aa9579377c48ee",
+          "alignment_revision": "sha256:b8a90e4d6e1798f82c5170fb978e410f4f5debab5202ff4c0e9b0d2c38b3bfcb"
         },
         "scoped_ai_review": {
-          "id": "gig-complete-extension-20261007",
-          "scope": "거인들에 관하여 채택 본문 67대목 전체",
-          "date": "2026-10-07",
+          "id": "gig-audit-20261018",
+          "scope": "Full source-against-translation audit 2026-10-18; corrections recorded in the chunk support/audit-20261018.json",
+          "date": "2026-10-18",
           "targets": {
             "source_revision": "sha256:41bc2a70a310ac0e57d5a5efd599ffe5c3716b5666d87b9c20d6742bdf2fec05",
-            "translation_revision": "sha256:d102a1dd787bf0421a5f81abb21df0d217e9a4776119991acc7583f4d1783a6a",
-            "alignment_revision": "sha256:d2bf54edb33208f3e5851c6ebf9096b710bf56b3beffc15d8cebfac7ee10ed63"
+            "translation_revision": "sha256:06b9945294cfcf5589475fc6fa2c8cd2e374ac1052972f08c6aa9579377c48ee",
+            "alignment_revision": "sha256:b8a90e4d6e1798f82c5170fb978e410f4f5debab5202ff4c0e9b0d2c38b3bfcb"
           }
         }
       },
@@ -6950,9 +6950,9 @@
         "work": "거인들에 관하여",
         "reference": "60",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.3",
-        "translation_revision": "sha256:d102a1dd787bf0421a5f81abb21df0d217e9a4776119991acc7583f4d1783a6a",
-        "fixed_path": "releases/public-0.36.3/works/gig/index.html#p-60"
+        "release": "public-0.36.4",
+        "translation_revision": "sha256:06b9945294cfcf5589475fc6fa2c8cd2e374ac1052972f08c6aa9579377c48ee",
+        "fixed_path": "releases/public-0.36.4/works/gig/index.html#p-60"
       }
     },
     {
@@ -6979,44 +6979,44 @@
         }
       ],
       "encoded_printed_page_start": "v.2.p.53",
-      "korean": "하나님에게서 태어난 사람들은 제사장과 예언자이다. 그들은 이 세계의 시민권을 얻고 세계 시민이 되는 것을 택하지 않았다. 감각할 수 있는 모든 것을 넘어, 사유로 알 수 있는 세계로 옮겨 가 그곳에 살았다. 썩지 않는 ⟨그리고⟩ 몸 없는 이데아들의 공동체에 시민으로 등록된 것이다.",
-      "translation_revision": "sha256:d47253a8ee29eec3a700aa55f83d2b877eca2f9136d8b21ccf521e51115652d6",
+      "korean": "하나님의 사람들은 제사장과 예언자이다. 그들은 이 세계의 시민권을 얻고 세계 시민이 되는 것을 택하지 않았다. 감각할 수 있는 모든 것을 넘어, 사유로 알 수 있는 세계로 옮겨 가 그곳에 살았다. 썩지 않는 ⟨그리고⟩ 몸 없는 이데아들의 공동체에 시민으로 등록된 것이다.",
+      "translation_revision": "sha256:c968d03baf473684957aa29d6737efcd5134da5cd52db302aa023224d88375c6",
       "groups": [
         {
-          "id": "a-3a35846cfcb0150a0c3b",
+          "id": "a-d2c8c13b7ca5cb86954f",
           "source_range": [
             0,
             119
           ],
           "ko_range": [
             0,
-            67
+            61
           ],
           "source_text": "θεοῦ δὲ ἄνθρωποι ἱερεῖς καὶ προφῆται, οἵτινες οὐκ ἠξίωσαν πολιτείας τῆς παρὰ τῷ κόσμῳ τυχεῖν καὶ κοσμοπολῖται γενέσθαι,",
-          "ko_text": "하나님에게서 태어난 사람들은 제사장과 예언자이다. 그들은 이 세계의 시민권을 얻고 세계 시민이 되는 것을 택하지 않았다."
+          "ko_text": "하나님의 사람들은 제사장과 예언자이다. 그들은 이 세계의 시민권을 얻고 세계 시민이 되는 것을 택하지 않았다."
         },
         {
-          "id": "a-8951fe9660f337038ffd",
+          "id": "a-2d2084ba5b353663df27",
           "source_range": [
             120,
             201
           ],
           "ko_range": [
-            68,
-            115
+            62,
+            109
           ],
           "source_text": "τὸ δὲ αἰσθητὸν πᾶν ὑπερκύψαντες εἰς τὸν νοητὸν κόσμον μετανέστησαν κἀκεῖθι ᾤκησαν",
           "ko_text": "감각할 수 있는 모든 것을 넘어, 사유로 알 수 있는 세계로 옮겨 가 그곳에 살았다."
         },
         {
-          "id": "a-1eeb642b7997cbd54487",
+          "id": "a-f9342c647545825a0530",
           "source_range": [
             202,
             253
           ],
           "ko_range": [
-            116,
-            157
+            110,
+            151
           ],
           "source_text": "ἐγγραφέντες ἀφθάρτων ⟨καὶ⟩ ἀσωμάτων ἰδεῶν πολιτείᾳ.",
           "ko_text": "썩지 않는 ⟨그리고⟩ 몸 없는 이데아들의 공동체에 시민으로 등록된 것이다."
@@ -7025,25 +7025,25 @@
       "notes": [],
       "work_passage_id": "gig:61",
       "html_path": "works/gig/index.html#p-61",
-      "fixed_html_path": "releases/public-0.36.3/works/gig/index.html#p-61",
-      "alignment_revision": "sha256:83fc23dee0701af953dce5f5c2898739947fc32af13a67a97eef350c8b6e7ec7",
+      "fixed_html_path": "releases/public-0.36.4/works/gig/index.html#p-61",
+      "alignment_revision": "sha256:34951c85aead1e9eb5d334ba25818b49952f296260fd1372332858a71808c04c",
       "review_state": {
         "human_reviewed": false,
         "translation": "ai_authored",
         "source_check": "pinned_xml_extraction",
         "targets": {
           "source_revision": "sha256:2c2d071d3703478f9ac15df166de9cd74f8a55076d2d16c9cbdce81ac9989091",
-          "translation_revision": "sha256:d47253a8ee29eec3a700aa55f83d2b877eca2f9136d8b21ccf521e51115652d6",
-          "alignment_revision": "sha256:83fc23dee0701af953dce5f5c2898739947fc32af13a67a97eef350c8b6e7ec7"
+          "translation_revision": "sha256:c968d03baf473684957aa29d6737efcd5134da5cd52db302aa023224d88375c6",
+          "alignment_revision": "sha256:34951c85aead1e9eb5d334ba25818b49952f296260fd1372332858a71808c04c"
         },
         "scoped_ai_review": {
-          "id": "gig-complete-extension-20261007",
-          "scope": "거인들에 관하여 채택 본문 67대목 전체",
-          "date": "2026-10-07",
+          "id": "gig-audit-20261018",
+          "scope": "Full source-against-translation audit 2026-10-18; corrections recorded in the chunk support/audit-20261018.json",
+          "date": "2026-10-18",
           "targets": {
             "source_revision": "sha256:2c2d071d3703478f9ac15df166de9cd74f8a55076d2d16c9cbdce81ac9989091",
-            "translation_revision": "sha256:d47253a8ee29eec3a700aa55f83d2b877eca2f9136d8b21ccf521e51115652d6",
-            "alignment_revision": "sha256:83fc23dee0701af953dce5f5c2898739947fc32af13a67a97eef350c8b6e7ec7"
+            "translation_revision": "sha256:c968d03baf473684957aa29d6737efcd5134da5cd52db302aa023224d88375c6",
+            "alignment_revision": "sha256:34951c85aead1e9eb5d334ba25818b49952f296260fd1372332858a71808c04c"
           }
         }
       },
@@ -7061,9 +7061,9 @@
         "work": "거인들에 관하여",
         "reference": "61",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.3",
-        "translation_revision": "sha256:d47253a8ee29eec3a700aa55f83d2b877eca2f9136d8b21ccf521e51115652d6",
-        "fixed_path": "releases/public-0.36.3/works/gig/index.html#p-61"
+        "release": "public-0.36.4",
+        "translation_revision": "sha256:c968d03baf473684957aa29d6737efcd5134da5cd52db302aa023224d88375c6",
+        "fixed_path": "releases/public-0.36.4/works/gig/index.html#p-61"
       }
     },
     {
@@ -7154,7 +7154,7 @@
       ],
       "work_passage_id": "gig:62",
       "html_path": "works/gig/index.html#p-62",
-      "fixed_html_path": "releases/public-0.36.3/works/gig/index.html#p-62",
+      "fixed_html_path": "releases/public-0.36.4/works/gig/index.html#p-62",
       "alignment_revision": "sha256:1e20694b4c611b6b07396606655e9a4a06c1f8d66d4da675152351e6cc9dd26a",
       "review_state": {
         "human_reviewed": false,
@@ -7190,9 +7190,9 @@
         "work": "거인들에 관하여",
         "reference": "62",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.3",
+        "release": "public-0.36.4",
         "translation_revision": "sha256:2fae8b65cf7446d4f50c39b29b1634a8b766caa0ac2d86c4a12ebf5abae4e74e",
-        "fixed_path": "releases/public-0.36.3/works/gig/index.html#p-62"
+        "fixed_path": "releases/public-0.36.4/works/gig/index.html#p-62"
       }
     },
     {
@@ -7239,7 +7239,7 @@
       "notes": [],
       "work_passage_id": "gig:63",
       "html_path": "works/gig/index.html#p-63",
-      "fixed_html_path": "releases/public-0.36.3/works/gig/index.html#p-63",
+      "fixed_html_path": "releases/public-0.36.4/works/gig/index.html#p-63",
       "alignment_revision": "sha256:7ecca055e325de6706c0b5122c65eb9856eddac491f5413e41cd267d9f1d12d9",
       "review_state": {
         "human_reviewed": false,
@@ -7275,9 +7275,9 @@
         "work": "거인들에 관하여",
         "reference": "63",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.3",
+        "release": "public-0.36.4",
         "translation_revision": "sha256:1e0deb167a508e2ad16e204153964b0962eb8de337433f309a0df12ecfb74f48",
-        "fixed_path": "releases/public-0.36.3/works/gig/index.html#p-63"
+        "fixed_path": "releases/public-0.36.4/works/gig/index.html#p-63"
       }
     },
     {
@@ -7378,7 +7378,7 @@
       ],
       "work_passage_id": "gig:64",
       "html_path": "works/gig/index.html#p-64",
-      "fixed_html_path": "releases/public-0.36.3/works/gig/index.html#p-64",
+      "fixed_html_path": "releases/public-0.36.4/works/gig/index.html#p-64",
       "alignment_revision": "sha256:b8a19c17bc58a0df7d848db4ba493dce97196dc9128d7e80bbdde2c990ff5f45",
       "review_state": {
         "human_reviewed": false,
@@ -7414,9 +7414,9 @@
         "work": "거인들에 관하여",
         "reference": "64",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.3",
+        "release": "public-0.36.4",
         "translation_revision": "sha256:a8ace21d1495347565ea108d813db92d03157b68c72aaedd24f6d7697382fef9",
-        "fixed_path": "releases/public-0.36.3/works/gig/index.html#p-64"
+        "fixed_path": "releases/public-0.36.4/works/gig/index.html#p-64"
       }
     },
     {
@@ -7489,7 +7489,7 @@
       "notes": [],
       "work_passage_id": "gig:65",
       "html_path": "works/gig/index.html#p-65",
-      "fixed_html_path": "releases/public-0.36.3/works/gig/index.html#p-65",
+      "fixed_html_path": "releases/public-0.36.4/works/gig/index.html#p-65",
       "alignment_revision": "sha256:8f3374b12f3cae6a121c47fb5fe2f4273d80f9458f71611dd49bc38a9cf4879a",
       "review_state": {
         "human_reviewed": false,
@@ -7525,9 +7525,9 @@
         "work": "거인들에 관하여",
         "reference": "65",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.3",
+        "release": "public-0.36.4",
         "translation_revision": "sha256:38337093b8922437702100102d864a4a6c322dc6895aaddd29c048258744144d",
-        "fixed_path": "releases/public-0.36.3/works/gig/index.html#p-65"
+        "fixed_path": "releases/public-0.36.4/works/gig/index.html#p-65"
       }
     },
     {
@@ -7644,7 +7644,7 @@
       ],
       "work_passage_id": "gig:66",
       "html_path": "works/gig/index.html#p-66",
-      "fixed_html_path": "releases/public-0.36.3/works/gig/index.html#p-66",
+      "fixed_html_path": "releases/public-0.36.4/works/gig/index.html#p-66",
       "alignment_revision": "sha256:85a8692e143293d534167a134ca5e9a50d779a3892b8b2bcb295e8e1a5ef076c",
       "review_state": {
         "human_reviewed": false,
@@ -7680,9 +7680,9 @@
         "work": "거인들에 관하여",
         "reference": "66",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.3",
+        "release": "public-0.36.4",
         "translation_revision": "sha256:97f368fd654c1aee2238cb1c0470fc260f7842ad72d5b0a25983cdce36baaf86",
-        "fixed_path": "releases/public-0.36.3/works/gig/index.html#p-66"
+        "fixed_path": "releases/public-0.36.4/works/gig/index.html#p-66"
       }
     },
     {
@@ -7744,7 +7744,7 @@
       ],
       "work_passage_id": "gig:67",
       "html_path": "works/gig/index.html#p-67",
-      "fixed_html_path": "releases/public-0.36.3/works/gig/index.html#p-67",
+      "fixed_html_path": "releases/public-0.36.4/works/gig/index.html#p-67",
       "alignment_revision": "sha256:ed3f4f96a48cadc9841fe722565e4ace8b9473655e2201935ae48cae7c79560c",
       "review_state": {
         "human_reviewed": false,
@@ -7780,9 +7780,9 @@
         "work": "거인들에 관하여",
         "reference": "67",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.3",
+        "release": "public-0.36.4",
         "translation_revision": "sha256:87f5aa21a27f546aaa6428eb164126934f37aceb809faeda252b7eb6af43e90b",
-        "fixed_path": "releases/public-0.36.3/works/gig/index.html#p-67"
+        "fixed_path": "releases/public-0.36.4/works/gig/index.html#p-67"
       }
     }
   ],
@@ -7805,14 +7805,14 @@
   "display_author": "필론",
   "scope": "거인들에 관하여 채택 본문 67대목 전체",
   "coverage": "complete",
-  "release_id": "public-0.36.3",
+  "release_id": "public-0.36.4",
   "source_language": "grc",
   "source_kind": "edited_ancient_original",
   "human_reviewed": false,
   "translation_method": "고정 원어 본문에서 직접 번역",
   "html_path": "works/gig/index.html",
   "json_path": "data/works/gig.json",
-  "fixed_html_path": "releases/public-0.36.3/works/gig/index.html",
+  "fixed_html_path": "releases/public-0.36.4/works/gig/index.html",
   "source_profile": "gig-complete-pinned-source-20261003",
   "source_decisions": [
     {
@@ -8182,14 +8182,6 @@
       ],
       "passages": [
         {
-          "ref": "21",
-          "targets": {
-            "source_revision": "sha256:9f2ad508c535615aa20b3b18d44db6fa25a18f45dd6c17168b4389406c8f3654",
-            "translation_revision": "sha256:68bc4e2518af63145cb2cd83f7b003d1268bb742dd2c41b92b6c8286fc3cf97c",
-            "alignment_revision": "sha256:77f9033d54b3902b7002153cb534bd78fac56998af6f8bd701f4788669e2201f"
-          }
-        },
-        {
           "ref": "22",
           "targets": {
             "source_revision": "sha256:f0070742cf99c40649221bc41a762da47f554b9e9a92f2d7a413c18d3892b4f8",
@@ -8246,27 +8238,11 @@
           }
         },
         {
-          "ref": "29",
-          "targets": {
-            "source_revision": "sha256:1334f43b9962949a427e04e9a6e5ec7ffcbf04c1229a184d8ccf5e9958c4edf3",
-            "translation_revision": "sha256:adb283b615881084528c5506d6119b4886e05ee1bd6ce9cb2955dfaccc893118",
-            "alignment_revision": "sha256:83e2e3c06aad5f9c81df7dc35ec27a645601ddb48d28cf764c3afa06a6bad132"
-          }
-        },
-        {
           "ref": "30",
           "targets": {
             "source_revision": "sha256:c17a9605723bb43d2c475441f309a080a9e55e660617b0e2be42e8fbdaeafa96",
             "translation_revision": "sha256:cdaa24e29ce76a65758ba71c2432f440696bf3a15053765af9de1b8fc0ccf7d8",
             "alignment_revision": "sha256:4eb133783e016c72f3139d49eb0ad5cb39b392acf3c08268b34aa1ab85eea602"
-          }
-        },
-        {
-          "ref": "31",
-          "targets": {
-            "source_revision": "sha256:ad974a36cd1a320e1ed7eabf9f96fe75cb5d262f8ec11a9c2c73bc5976106b51",
-            "translation_revision": "sha256:f9a1d0741bff07c637d30a01b3c4032ab20278cffdc0182c5c1811293c902f3e",
-            "alignment_revision": "sha256:1e8c5fdf17323af291e732da3c6904ff00fad24934ee11af64764d8b36df16b9"
           }
         },
         {
@@ -8294,14 +8270,6 @@
           }
         },
         {
-          "ref": "35",
-          "targets": {
-            "source_revision": "sha256:152f2de7989f13cf1f8f654ef9b2c09953557fac38ffa199c700932bbdfc5a75",
-            "translation_revision": "sha256:29c22f322fb2d9fbf9c3c67ee807746aaab2f061105947bd5203d116dfd6c604",
-            "alignment_revision": "sha256:d96e0e87e00844b252bd3a3051b22f8af037a78c68f0066342b4b71660ea12a3"
-          }
-        },
-        {
           "ref": "36",
           "targets": {
             "source_revision": "sha256:6ec20efa0cffb134969d226c09d9a41b07107bdeb88846931fc5a4b5ef538b05",
@@ -8323,14 +8291,6 @@
             "source_revision": "sha256:70e568a736f255625a2cf8f4fc66eaa5e5c18e2c34a0e651703d4a6eb6f21365",
             "translation_revision": "sha256:2471843f78ea881c72320ba263d32dcf12929e122afa0f018a26147971e6f3a4",
             "alignment_revision": "sha256:39270155ae22af6993203aed3a60c0357e47c32f3ef7d9a6c707f186ba8fd99c"
-          }
-        },
-        {
-          "ref": "39",
-          "targets": {
-            "source_revision": "sha256:e7f840cb2a6d3c897cba2c1d70d7da93e2bb707c45418bd5a31fee2844d4138b",
-            "translation_revision": "sha256:23b5f2ea26ddbd19f82220ebff76c7c13f989ca6a678cc15d4e16fbca1a730d6",
-            "alignment_revision": "sha256:ad19ea7990ca3c607efdb6f5acc280487ea41f092e8a97cafcd92f355de612df"
           }
         },
         {
@@ -8363,14 +8323,6 @@
             "source_revision": "sha256:0bc360cd75b0bcc1566720281675b54c7c4427bd961a51f364ed36471dc2c1cd",
             "translation_revision": "sha256:7362af8da91eae102e858d5834fddabc673b798dbd5e13cc627eded134031a5a",
             "alignment_revision": "sha256:45414de2509949723cf3876a08959a311c18ab0fd9700f34cb34a8ffb177ea9c"
-          }
-        },
-        {
-          "ref": "44",
-          "targets": {
-            "source_revision": "sha256:2bc202a32d9474d9db18d05f15cad1c38a6170263322ecf1da5c5738cb15c30b",
-            "translation_revision": "sha256:62486e54c0383bca2958062f151843975934119d5f357b965a6e43f941616371",
-            "alignment_revision": "sha256:1618cbc580b311761822407ee4effdf0d0e44b0efd663d47428fa9ef849de9e9"
           }
         },
         {
@@ -8494,22 +8446,6 @@
           }
         },
         {
-          "ref": "60",
-          "targets": {
-            "source_revision": "sha256:41bc2a70a310ac0e57d5a5efd599ffe5c3716b5666d87b9c20d6742bdf2fec05",
-            "translation_revision": "sha256:d102a1dd787bf0421a5f81abb21df0d217e9a4776119991acc7583f4d1783a6a",
-            "alignment_revision": "sha256:d2bf54edb33208f3e5851c6ebf9096b710bf56b3beffc15d8cebfac7ee10ed63"
-          }
-        },
-        {
-          "ref": "61",
-          "targets": {
-            "source_revision": "sha256:2c2d071d3703478f9ac15df166de9cd74f8a55076d2d16c9cbdce81ac9989091",
-            "translation_revision": "sha256:d47253a8ee29eec3a700aa55f83d2b877eca2f9136d8b21ccf521e51115652d6",
-            "alignment_revision": "sha256:83fc23dee0701af953dce5f5c2898739947fc32af13a67a97eef350c8b6e7ec7"
-          }
-        },
-        {
           "ref": "62",
           "targets": {
             "source_revision": "sha256:c93177bc92226302276fe9acc8260e38162c01c9e474e8ea70db993230c387cd",
@@ -8558,6 +8494,118 @@
           }
         }
       ]
+    },
+    {
+      "id": "gig-audit-20261018",
+      "scope": "Full source-against-translation audit 2026-10-18; corrections recorded in the chunk support/audit-20261018.json",
+      "date": "2026-10-18",
+      "reviewer_type": "AI",
+      "human_reviewed": false,
+      "reading_record_count": 8,
+      "meaning_groups": 29,
+      "source_changed": false,
+      "translation_changed": true,
+      "alignment_changed": true,
+      "audit_records": [
+        "research/planning/complete-corpus-20261003/chunks/gig-01/support/audit-20261018.json"
+      ],
+      "changed_translation_refs": [
+        "21",
+        "29",
+        "31",
+        "35",
+        "39",
+        "44",
+        "60",
+        "61"
+      ],
+      "changed_note_refs": [
+        "21",
+        "43"
+      ],
+      "superseded_review_entries": {
+        "data/gig/revalidation-complete-20261007.json": [
+          "21",
+          "29",
+          "31",
+          "35",
+          "39",
+          "44",
+          "60",
+          "61"
+        ]
+      },
+      "methods": [
+        "각 대목의 data 번역 블록과 메모를 해당 청크의 현재 translation.txt, notes.json과 대목 단위로 비교해, 감사 수정으로 달라진 대목만 청크 내용으로 바꾸었다. 원문(source.json)과 원문 범위는 그대로이다.",
+        "이 대목들의 이전 AI 검토 항목은 superseded_review_entries에 적은 기록에서 빼고, 새 번역·대응 수정본의 targets를 이 기록에 다시 계산했다."
+      ],
+      "passages": [
+        {
+          "ref": "21",
+          "targets": {
+            "source_revision": "sha256:9f2ad508c535615aa20b3b18d44db6fa25a18f45dd6c17168b4389406c8f3654",
+            "translation_revision": "sha256:26ed3e1e8db0c7c8a9bc628c1a90e4375a87af29653fc24bdba0a76987c59bd8",
+            "alignment_revision": "sha256:ca4cc25f6549b1ac3d997687151cc297a58e37db0db645ba9837473831b8b2ab"
+          }
+        },
+        {
+          "ref": "29",
+          "targets": {
+            "source_revision": "sha256:1334f43b9962949a427e04e9a6e5ec7ffcbf04c1229a184d8ccf5e9958c4edf3",
+            "translation_revision": "sha256:1a70fab0a26cad7f36251eb975f544764d4c2804f81403789d4068aad1823881",
+            "alignment_revision": "sha256:86604f67cbac802280319b439971c97d7763595faacfd82769eb98bb4b038a40"
+          }
+        },
+        {
+          "ref": "31",
+          "targets": {
+            "source_revision": "sha256:ad974a36cd1a320e1ed7eabf9f96fe75cb5d262f8ec11a9c2c73bc5976106b51",
+            "translation_revision": "sha256:30d7798d357170a73154c209f489ddde3269cf20912c60ccc7ab6e3a296fdf27",
+            "alignment_revision": "sha256:fac86a03703c9b0134314a75a0a69058254ea44b123e672f7ba95c58562d0baf"
+          }
+        },
+        {
+          "ref": "35",
+          "targets": {
+            "source_revision": "sha256:152f2de7989f13cf1f8f654ef9b2c09953557fac38ffa199c700932bbdfc5a75",
+            "translation_revision": "sha256:a1f5754735233e6c6d024abf776ee10809d95f258d88e797bd0aee97551755e7",
+            "alignment_revision": "sha256:75950f3360728e0a6a8ec8284901318f83522089b9be4021efad02e66fa39083"
+          }
+        },
+        {
+          "ref": "39",
+          "targets": {
+            "source_revision": "sha256:e7f840cb2a6d3c897cba2c1d70d7da93e2bb707c45418bd5a31fee2844d4138b",
+            "translation_revision": "sha256:c62f4bbb8030513caf283cdab4ab6c3c0abd1c78d562b280a31a1e7f7160c61e",
+            "alignment_revision": "sha256:8392919ddac33ee86da78a0f77fd6144b2122e9a0c9c05a3c0a6ee740d412415"
+          }
+        },
+        {
+          "ref": "44",
+          "targets": {
+            "source_revision": "sha256:2bc202a32d9474d9db18d05f15cad1c38a6170263322ecf1da5c5738cb15c30b",
+            "translation_revision": "sha256:3e990c852a913314c1e7a4c4ef049712c4e381f23c1be7dd237906800e296ff7",
+            "alignment_revision": "sha256:b0f52e75658318db34791ef194fd0e7f1f2a23aa955b2fa0b250c7b950363a90"
+          }
+        },
+        {
+          "ref": "60",
+          "targets": {
+            "source_revision": "sha256:41bc2a70a310ac0e57d5a5efd599ffe5c3716b5666d87b9c20d6742bdf2fec05",
+            "translation_revision": "sha256:06b9945294cfcf5589475fc6fa2c8cd2e374ac1052972f08c6aa9579377c48ee",
+            "alignment_revision": "sha256:b8a90e4d6e1798f82c5170fb978e410f4f5debab5202ff4c0e9b0d2c38b3bfcb"
+          }
+        },
+        {
+          "ref": "61",
+          "targets": {
+            "source_revision": "sha256:2c2d071d3703478f9ac15df166de9cd74f8a55076d2d16c9cbdce81ac9989091",
+            "translation_revision": "sha256:c968d03baf473684957aa29d6737efcd5134da5cd52db302aa023224d88375c6",
+            "alignment_revision": "sha256:34951c85aead1e9eb5d334ba25818b49952f296260fd1372332858a71808c04c"
+          }
+        }
+      ],
+      "unreviewed_changed_refs": []
     }
   ],
   "publication_status": "public_review_edition"
