@@ -101,7 +101,7 @@
       ],
       "work_passage_id": "agr:1",
       "html_path": "works/agr/index.html#p-1",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-1",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-1",
       "alignment_revision": "sha256:d7cf85855fe6c44125f780c5e6e6ae129ab18b4e70d526fd928b20e9f51d7f01",
       "review_state": {
         "human_reviewed": false,
@@ -137,9 +137,9 @@
         "work": "농사에 관하여",
         "reference": "1",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:e2c1a3377d0c1e7cebac9505b4559f2236dbd3f54b86ce460c00deff2321e5a8",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-1"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-1"
       }
     },
     {
@@ -201,7 +201,7 @@
       "notes": [],
       "work_passage_id": "agr:2",
       "html_path": "works/agr/index.html#p-2",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-2",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-2",
       "alignment_revision": "sha256:fbfb124f51d75e95252a17970b0efba7fa275feb2690864c0503020fb0e7f998",
       "review_state": {
         "human_reviewed": false,
@@ -237,9 +237,9 @@
         "work": "농사에 관하여",
         "reference": "2",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:3586aa855c764fdc7ac31f247d707a253a95c81f9fbfa104eb4f560bb8981535",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-2"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-2"
       }
     },
     {
@@ -288,7 +288,7 @@
       "notes": [],
       "work_passage_id": "agr:3",
       "html_path": "works/agr/index.html#p-3",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-3",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-3",
       "alignment_revision": "sha256:aba83602a2922c44c65054220a87476f68fa55b4be16535ad6223a4ad2059573",
       "review_state": {
         "human_reviewed": false,
@@ -324,9 +324,9 @@
         "work": "농사에 관하여",
         "reference": "3",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:4248a5ba9c7cd1bdea22800f16c7e567e8997da4703eb4aee86961a3862065d1",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-3"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-3"
       }
     },
     {
@@ -391,7 +391,7 @@
       "notes": [],
       "work_passage_id": "agr:4",
       "html_path": "works/agr/index.html#p-4",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-4",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-4",
       "alignment_revision": "sha256:6f4d23b9b8f58f2848e04d023f784e361cc8a3d0f396cecd0a2dbffc0203a709",
       "review_state": {
         "human_reviewed": false,
@@ -427,9 +427,9 @@
         "work": "농사에 관하여",
         "reference": "4",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:304dfb33293cdcd0003e0b4eb4d5d11a79c35396df17c4bbe57fef3898da13cb",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-4"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-4"
       }
     },
     {
@@ -506,7 +506,7 @@
       ],
       "work_passage_id": "agr:5",
       "html_path": "works/agr/index.html#p-5",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-5",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-5",
       "alignment_revision": "sha256:81819ea9b0c9d1e8909344eafe6f97199426ed49049768692ef31d2fd276a4fa",
       "review_state": {
         "human_reviewed": false,
@@ -542,9 +542,9 @@
         "work": "농사에 관하여",
         "reference": "5",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:809f52fe794c25ea828b0402f81a8fa674b1a7427fc6455207bde35411a9aa2c",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-5"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-5"
       }
     },
     {
@@ -632,7 +632,7 @@
       "notes": [],
       "work_passage_id": "agr:6",
       "html_path": "works/agr/index.html#p-6",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-6",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-6",
       "alignment_revision": "sha256:fc1dc18f00a200f0b13d3305042d81d97911258ccbb2a8efdc5f75dfb87ccb28",
       "review_state": {
         "human_reviewed": false,
@@ -668,9 +668,9 @@
         "work": "농사에 관하여",
         "reference": "6",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:f24e61eda5dce714d0321ea485b4cf00b623df9a8106fe26f92da73d714e0bd8",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-6"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-6"
       }
     },
     {
@@ -763,7 +763,7 @@
       ],
       "work_passage_id": "agr:7",
       "html_path": "works/agr/index.html#p-7",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-7",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-7",
       "alignment_revision": "sha256:e26e88581917779cf92a354a87115734f408272c757c5b1409444b0026b36dfd",
       "review_state": {
         "human_reviewed": false,
@@ -799,9 +799,9 @@
         "work": "농사에 관하여",
         "reference": "7",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:4595d8dc4f59cba0a4fe308f12b0442f47e93380eddbe003d9f3a7cbfcb072b3",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-7",
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-7",
         "collation_edition": "Wendland 1897, vol. 2"
       }
     },
@@ -864,7 +864,7 @@
       "notes": [],
       "work_passage_id": "agr:8",
       "html_path": "works/agr/index.html#p-8",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-8",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-8",
       "alignment_revision": "sha256:25cbad8fd4e7fe2bbadf353d63508d139a7b3a7d91374026a0fca6491ce2dd7b",
       "review_state": {
         "human_reviewed": false,
@@ -900,9 +900,9 @@
         "work": "농사에 관하여",
         "reference": "8",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:8ac8f0a5048c351af89fe09123a16c7b4781db73ae62f896de9b1f9637bf10d6",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-8"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-8"
       }
     },
     {
@@ -1008,7 +1008,7 @@
       ],
       "work_passage_id": "agr:9",
       "html_path": "works/agr/index.html#p-9",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-9",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-9",
       "alignment_revision": "sha256:44af8aba15c2a428d1a21097d33251f026d35374fe5619647da507862926fb1c",
       "review_state": {
         "human_reviewed": false,
@@ -1044,9 +1044,9 @@
         "work": "농사에 관하여",
         "reference": "9",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:4566f7a92d9392988230db4543359f84a1eb21075470a65587a2acfdaa897455",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-9"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-9"
       }
     },
     {
@@ -1108,7 +1108,7 @@
       "notes": [],
       "work_passage_id": "agr:10",
       "html_path": "works/agr/index.html#p-10",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-10",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-10",
       "alignment_revision": "sha256:fe6e0322819074a55b38a606ccd1d9444061cfea6a7f06cb67e92cb1b34b9609",
       "review_state": {
         "human_reviewed": false,
@@ -1144,9 +1144,9 @@
         "work": "농사에 관하여",
         "reference": "10",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:985ac53ff9ff95ebb3b5264fbd232414a554611daa6d17827dd72daee14382ac",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-10"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-10"
       }
     },
     {
@@ -1208,7 +1208,7 @@
       "notes": [],
       "work_passage_id": "agr:11",
       "html_path": "works/agr/index.html#p-11",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-11",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-11",
       "alignment_revision": "sha256:9c5fcfd7c1d188b196f6bfb7928b3ca8ea7de4eee9252ed2e5753ec729dc5ffc",
       "review_state": {
         "human_reviewed": false,
@@ -1244,9 +1244,9 @@
         "work": "농사에 관하여",
         "reference": "11",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:b208b88bfdbadde306001e8aff406e8cd189eba636350cd43453e18715f9633c",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-11"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-11"
       }
     },
     {
@@ -1310,7 +1310,7 @@
       ],
       "work_passage_id": "agr:12",
       "html_path": "works/agr/index.html#p-12",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-12",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-12",
       "alignment_revision": "sha256:a408f98dd6adc049c711918c1e0f202092970c195ecc6459b209b8c19c348e7b",
       "review_state": {
         "human_reviewed": false,
@@ -1346,9 +1346,9 @@
         "work": "농사에 관하여",
         "reference": "12",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:a8bf0d075a754e6f82f4c082704b403d6fc28a20f2ee4eed21b4284345d41c90",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-12"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-12"
       }
     },
     {
@@ -1436,7 +1436,7 @@
       "notes": [],
       "work_passage_id": "agr:13",
       "html_path": "works/agr/index.html#p-13",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-13",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-13",
       "alignment_revision": "sha256:a937f6df2e28d59463492f74cd7d0e72f53a34df0f9041948b0d4baf4ad1cae7",
       "review_state": {
         "human_reviewed": false,
@@ -1472,9 +1472,9 @@
         "work": "농사에 관하여",
         "reference": "13",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:e293591cc8ce9d621ffe917cfe572a4549d99308da3d78a598f3e14faedd6dbd",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-13"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-13"
       }
     },
     {
@@ -1554,7 +1554,7 @@
       ],
       "work_passage_id": "agr:14",
       "html_path": "works/agr/index.html#p-14",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-14",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-14",
       "alignment_revision": "sha256:b08f71e52eb733965054ff936b77207cd811962f34fe74b40a38d67c36d13b09",
       "review_state": {
         "human_reviewed": false,
@@ -1590,9 +1590,9 @@
         "work": "농사에 관하여",
         "reference": "14",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:a3209f343452bcb37a68d2c01dea4ffc1601ec3c7c6d15dbc3c8a31e05703e09",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-14"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-14"
       }
     },
     {
@@ -1654,7 +1654,7 @@
       "notes": [],
       "work_passage_id": "agr:15",
       "html_path": "works/agr/index.html#p-15",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-15",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-15",
       "alignment_revision": "sha256:642da101ca3b8e77bb14f1982d9eec6fef3af39fae6e0181bf70757c3e03b5f3",
       "review_state": {
         "human_reviewed": false,
@@ -1690,9 +1690,9 @@
         "work": "농사에 관하여",
         "reference": "15",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:4bc80a99d535c9ee0872bfedc9311b9b21f8569a94cd31064519d9fee83ad696",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-15"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-15"
       }
     },
     {
@@ -1780,7 +1780,7 @@
       "notes": [],
       "work_passage_id": "agr:16",
       "html_path": "works/agr/index.html#p-16",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-16",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-16",
       "alignment_revision": "sha256:c7770c1753f273ee0d0e45b23cb8afb395aee85d3934046e1e3e4fa829f77287",
       "review_state": {
         "human_reviewed": false,
@@ -1816,9 +1816,9 @@
         "work": "농사에 관하여",
         "reference": "16",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:34df3dc07b15edc3c5742c8204135a63768e1e9f9a6a1156e3645fa8c4ffdf1d",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-16"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-16"
       }
     },
     {
@@ -1919,7 +1919,7 @@
       "notes": [],
       "work_passage_id": "agr:17",
       "html_path": "works/agr/index.html#p-17",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-17",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-17",
       "alignment_revision": "sha256:443b2ffd83d26b2e1d0541b0439f09cbb0ef834326b8a6b162ccb661e59cf41b",
       "review_state": {
         "human_reviewed": false,
@@ -1955,9 +1955,9 @@
         "work": "농사에 관하여",
         "reference": "17",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:5aaa65ed3211920fa86aba5add3039b43f07fe5d81c7fe10fcc94b1b9ccf634c",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-17"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-17"
       }
     },
     {
@@ -2061,7 +2061,7 @@
       "notes": [],
       "work_passage_id": "agr:18",
       "html_path": "works/agr/index.html#p-18",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-18",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-18",
       "alignment_revision": "sha256:da8850faec9e463eaa3b667976ab27a0e9c7fa4761b18930ac7c21098b018759",
       "review_state": {
         "human_reviewed": false,
@@ -2097,9 +2097,9 @@
         "work": "농사에 관하여",
         "reference": "18",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:5a0af1036f940da36554aa7160687a762a8892011213d41d079d95537ada04d8",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-18"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-18"
       }
     },
     {
@@ -2161,7 +2161,7 @@
       "notes": [],
       "work_passage_id": "agr:19",
       "html_path": "works/agr/index.html#p-19",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-19",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-19",
       "alignment_revision": "sha256:e293d803ec9a76ab0822293cc21d7d9130d371ffcda360cee3b2703d7c102680",
       "review_state": {
         "human_reviewed": false,
@@ -2197,9 +2197,9 @@
         "work": "농사에 관하여",
         "reference": "19",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:7e0595f4be28d727dcbf3ebc7969e6378852b1dd6c3e87002faf472e5e1aec14",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-19"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-19"
       }
     },
     {
@@ -2279,7 +2279,7 @@
       ],
       "work_passage_id": "agr:20",
       "html_path": "works/agr/index.html#p-20",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-20",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-20",
       "alignment_revision": "sha256:e140102525a22eecc485f14808ccc73f1b9badf1f097ea096c245b8d655e438a",
       "review_state": {
         "human_reviewed": false,
@@ -2315,9 +2315,9 @@
         "work": "농사에 관하여",
         "reference": "20",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:7caa82391f3a269a016c3647d7ce8fd132f799ce29b38b7722b4151462010a2f",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-20",
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-20",
         "collation_edition": "Wendland 1897, vol. 2"
       }
     },
@@ -2406,7 +2406,7 @@
       ],
       "work_passage_id": "agr:21",
       "html_path": "works/agr/index.html#p-21",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-21",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-21",
       "alignment_revision": "sha256:7f5a147e255391c551d42fa3ed04ca298b7dcc437024417c459ea20712abe290",
       "review_state": {
         "human_reviewed": false,
@@ -2442,9 +2442,9 @@
         "work": "농사에 관하여",
         "reference": "21",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:c0d235c64002c4b1f3b89702890bae15fc27134e51938e93e1e283c802cbdf5c",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-21"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-21"
       }
     },
     {
@@ -2517,7 +2517,7 @@
       "notes": [],
       "work_passage_id": "agr:22",
       "html_path": "works/agr/index.html#p-22",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-22",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-22",
       "alignment_revision": "sha256:78fe72f69d41615efddc884e3f8b7e28b5943cb5c89f63bdcb298c713eb1517c",
       "review_state": {
         "human_reviewed": false,
@@ -2553,9 +2553,9 @@
         "work": "농사에 관하여",
         "reference": "22",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:2be61c6fe27647d0b908b5409d93717b5739e592d583f841ee92ae7fada677b8",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-22"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-22"
       }
     },
     {
@@ -2615,7 +2615,7 @@
       "notes": [],
       "work_passage_id": "agr:23",
       "html_path": "works/agr/index.html#p-23",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-23",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-23",
       "alignment_revision": "sha256:c07e25491c434b32c57c6718fd7e4eb220a44921f0b3f8eefdb8c96fb2d6e1a9",
       "review_state": {
         "human_reviewed": false,
@@ -2651,9 +2651,9 @@
         "work": "농사에 관하여",
         "reference": "23",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:4f17dd95a04e923fe9f87da6b1fc05445ab8d031e40c126d41f13c8b367d481a",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-23"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-23"
       }
     },
     {
@@ -2729,7 +2729,7 @@
       "notes": [],
       "work_passage_id": "agr:24",
       "html_path": "works/agr/index.html#p-24",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-24",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-24",
       "alignment_revision": "sha256:abbc685902187f2e22a31627d60b86e7a1e7c94b352f3847557eeeac43b830e0",
       "review_state": {
         "human_reviewed": false,
@@ -2765,9 +2765,9 @@
         "work": "농사에 관하여",
         "reference": "24",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:4cedee2e2d341a10b510a5bc181c0c1ad8435425468994444bd0fe44e86937f7",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-24"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-24"
       }
     },
     {
@@ -2866,7 +2866,7 @@
       "notes": [],
       "work_passage_id": "agr:25",
       "html_path": "works/agr/index.html#p-25",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-25",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-25",
       "alignment_revision": "sha256:70316769d34bee99180ce74db1ca8f7d9e784b241cfd4f6f0ec856055c2a4d1b",
       "review_state": {
         "human_reviewed": false,
@@ -2902,9 +2902,9 @@
         "work": "농사에 관하여",
         "reference": "25",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:1a4872df19df8da70ea2e178fde6f8ab7f4716dc23a16913629b014e23e086b0",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-25"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-25"
       }
     },
     {
@@ -2977,7 +2977,7 @@
       "notes": [],
       "work_passage_id": "agr:26",
       "html_path": "works/agr/index.html#p-26",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-26",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-26",
       "alignment_revision": "sha256:83393fec7153c317eee7a23e915f296f55abcd4377762142b9a6428495a5a5c3",
       "review_state": {
         "human_reviewed": false,
@@ -3013,9 +3013,9 @@
         "work": "농사에 관하여",
         "reference": "26",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:fb6442383a4056e43614f8676538906c8fe1f36e545eb3cfb54406a6e962b4b3",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-26"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-26"
       }
     },
     {
@@ -3075,7 +3075,7 @@
       "notes": [],
       "work_passage_id": "agr:27",
       "html_path": "works/agr/index.html#p-27",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-27",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-27",
       "alignment_revision": "sha256:0bcef7e1a7cdfc5339caa4ea793e5801afe3f61fa3860120f399eb5dbcbe4c18",
       "review_state": {
         "human_reviewed": false,
@@ -3111,9 +3111,9 @@
         "work": "농사에 관하여",
         "reference": "27",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:7a514ec774afba17a4f9ea14fdba7bc3a51877a422432eee78c43fa9a52ea622",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-27"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-27"
       }
     },
     {
@@ -3173,7 +3173,7 @@
       "notes": [],
       "work_passage_id": "agr:28",
       "html_path": "works/agr/index.html#p-28",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-28",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-28",
       "alignment_revision": "sha256:a653014175b63701becdb9fef9a211b4d20955df4f074ab1c2d0f8a80a9dfe6c",
       "review_state": {
         "human_reviewed": false,
@@ -3209,9 +3209,9 @@
         "work": "농사에 관하여",
         "reference": "28",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:61ee350bc4221aa775f81264b482cf117d1d41c066791a3ca0576f15103df114",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-28"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-28"
       }
     },
     {
@@ -3287,7 +3287,7 @@
       "notes": [],
       "work_passage_id": "agr:29",
       "html_path": "works/agr/index.html#p-29",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-29",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-29",
       "alignment_revision": "sha256:e2bfdacc87e2d0c7ed40fb5b13373aece8e6cb7a1ad8f81147b5d30714862f56",
       "review_state": {
         "human_reviewed": false,
@@ -3323,9 +3323,9 @@
         "work": "농사에 관하여",
         "reference": "29",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:70dd06fed7d50a0aa9caec036569961f25f978ffdb2a18fbe37ae6811a6cd3d9",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-29"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-29"
       }
     },
     {
@@ -3400,7 +3400,7 @@
       ],
       "work_passage_id": "agr:30",
       "html_path": "works/agr/index.html#p-30",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-30",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-30",
       "alignment_revision": "sha256:b0930db10357a69b6508f2a4d8cea8ff8553769bd84d21a31907183926cd1229",
       "review_state": {
         "human_reviewed": false,
@@ -3436,9 +3436,9 @@
         "work": "농사에 관하여",
         "reference": "30",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:550b6bffb66cf566883ef1e6a0c974ba980e144b95f0ca824f55fdd30ac39a75",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-30"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-30"
       }
     },
     {
@@ -3498,7 +3498,7 @@
       "notes": [],
       "work_passage_id": "agr:31",
       "html_path": "works/agr/index.html#p-31",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-31",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-31",
       "alignment_revision": "sha256:ffc920f96694769fdc659ae67d8bf7734ea89ed381edf46c59a88cbde2c2f8d6",
       "review_state": {
         "human_reviewed": false,
@@ -3534,9 +3534,9 @@
         "work": "농사에 관하여",
         "reference": "31",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:4dbf7d8120d12089103827c0a19e51ece7a84791abf3b552d3584b0e2612f68c",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-31"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-31"
       }
     },
     {
@@ -3596,7 +3596,7 @@
       "notes": [],
       "work_passage_id": "agr:32",
       "html_path": "works/agr/index.html#p-32",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-32",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-32",
       "alignment_revision": "sha256:a84dabfe365a453e6c4a20780327131d77d2f7e09cda13c81c63125eb8379709",
       "review_state": {
         "human_reviewed": false,
@@ -3632,9 +3632,9 @@
         "work": "농사에 관하여",
         "reference": "32",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:95621cd9af7c9ba3e9919bd10ad57de1b052c5e39dcb894db7cd9b42eb2d3a11",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-32"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-32"
       }
     },
     {
@@ -3707,7 +3707,7 @@
       "notes": [],
       "work_passage_id": "agr:33",
       "html_path": "works/agr/index.html#p-33",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-33",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-33",
       "alignment_revision": "sha256:7ec81bc9da2a3a33e09bbde7cc3a45d32fe4fb0184cc4d4ae05f3ca5c866f9c8",
       "review_state": {
         "human_reviewed": false,
@@ -3743,9 +3743,9 @@
         "work": "농사에 관하여",
         "reference": "33",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:5bdf2a0fa364231c3cd48836df30e72b2099968a7bbf48a48c939c2cf804ae1f",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-33"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-33"
       }
     },
     {
@@ -3818,7 +3818,7 @@
       "notes": [],
       "work_passage_id": "agr:34",
       "html_path": "works/agr/index.html#p-34",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-34",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-34",
       "alignment_revision": "sha256:8d6b9ff6b602fe73cf064f07f1a2948f4ef90e3c608cca76d599d9571f4bc35d",
       "review_state": {
         "human_reviewed": false,
@@ -3854,9 +3854,9 @@
         "work": "농사에 관하여",
         "reference": "34",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:245761fe78bd195de16ea03f01c093ee43fceecbb09a06ad463447ac8d4df88e",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-34"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-34"
       }
     },
     {
@@ -3971,7 +3971,7 @@
       "notes": [],
       "work_passage_id": "agr:35",
       "html_path": "works/agr/index.html#p-35",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-35",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-35",
       "alignment_revision": "sha256:ac1e8340c5b5dd24109e7e2a88452f87fd180a0cd6b48c0499e7ac3a11dd5c26",
       "review_state": {
         "human_reviewed": false,
@@ -4007,9 +4007,9 @@
         "work": "농사에 관하여",
         "reference": "35",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:092b726def40348a91715095b68e221149b8c144aba7126027b448e56a7fcb6e",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-35"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-35"
       }
     },
     {
@@ -4097,7 +4097,7 @@
       ],
       "work_passage_id": "agr:36",
       "html_path": "works/agr/index.html#p-36",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-36",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-36",
       "alignment_revision": "sha256:954fb6c7b9065e54cdb7f854146c310cf7a1877d66641e4654a08428b2150e1b",
       "review_state": {
         "human_reviewed": false,
@@ -4133,9 +4133,9 @@
         "work": "농사에 관하여",
         "reference": "36",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:6dfe24a86129c40819b5251cd84983a621a690e548454641213f79bc715d666e",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-36"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-36"
       }
     },
     {
@@ -4208,7 +4208,7 @@
       "notes": [],
       "work_passage_id": "agr:37",
       "html_path": "works/agr/index.html#p-37",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-37",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-37",
       "alignment_revision": "sha256:4050db7bbb16fff666b1e018fb45578468a3a341d8c88891917dd0d010bf1b3b",
       "review_state": {
         "human_reviewed": false,
@@ -4244,9 +4244,9 @@
         "work": "농사에 관하여",
         "reference": "37",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:5ad09af58603b9eaaa88b2c6ff766abc38ef8933fefb7a3a5cdbce62505fd469",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-37"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-37"
       }
     },
     {
@@ -4306,7 +4306,7 @@
       "notes": [],
       "work_passage_id": "agr:38",
       "html_path": "works/agr/index.html#p-38",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-38",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-38",
       "alignment_revision": "sha256:44abbb41d443079caf5debb1de8a4149c24d939bd9d3424dbc4a4bbce115674d",
       "review_state": {
         "human_reviewed": false,
@@ -4342,9 +4342,9 @@
         "work": "농사에 관하여",
         "reference": "38",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:ae1c8822f965bace0e0f76b3c511c3b3e25e73c3a5a489ee55458f5cca5e40d4",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-38"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-38"
       }
     },
     {
@@ -4446,7 +4446,7 @@
       "notes": [],
       "work_passage_id": "agr:39",
       "html_path": "works/agr/index.html#p-39",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-39",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-39",
       "alignment_revision": "sha256:a55f5a905a76fb0e955505c97f333ab0b659df2b122e2fed81a26d26f6c61d8f",
       "review_state": {
         "human_reviewed": false,
@@ -4482,9 +4482,9 @@
         "work": "농사에 관하여",
         "reference": "39",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:3fec038a1b509429a4a5b8e23e8e3f9862b350eeb6bb1c770edc70855434d452",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-39"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-39"
       }
     },
     {
@@ -4570,7 +4570,7 @@
       "notes": [],
       "work_passage_id": "agr:40",
       "html_path": "works/agr/index.html#p-40",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-40",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-40",
       "alignment_revision": "sha256:cac6e7e992807283543eac4f59f4f983d54d5226f1017bcbe516ddfb342f3de8",
       "review_state": {
         "human_reviewed": false,
@@ -4606,9 +4606,9 @@
         "work": "농사에 관하여",
         "reference": "40",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:77d5941177a0eadbc04c70ce5cdebcbc971c23db1d57cb069145d3ea84f60f4f",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-40"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-40"
       }
     },
     {
@@ -4694,7 +4694,7 @@
       "notes": [],
       "work_passage_id": "agr:41",
       "html_path": "works/agr/index.html#p-41",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-41",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-41",
       "alignment_revision": "sha256:8fd32765838a3b1ea4eb71f467ab7f57815148f4b8ac853f6b02e9b647191d69",
       "review_state": {
         "human_reviewed": false,
@@ -4730,9 +4730,9 @@
         "work": "농사에 관하여",
         "reference": "41",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:f10aa553dbfa98a5b2abc49281a2d17f6b5fda4fac595d485eb76296659faa2e",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-41"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-41"
       }
     },
     {
@@ -4807,7 +4807,7 @@
       ],
       "work_passage_id": "agr:42",
       "html_path": "works/agr/index.html#p-42",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-42",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-42",
       "alignment_revision": "sha256:a0bee796e87d6b77c78e9c5b4c1e5b58cb87cc7a9d9438c6a65475c11315026b",
       "review_state": {
         "human_reviewed": false,
@@ -4843,9 +4843,9 @@
         "work": "농사에 관하여",
         "reference": "42",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:5d02f3bf87ee87302b8b956c847b30f5e1709cfa39abdcbe116655dd9f6fedd4",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-42"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-42"
       }
     },
     {
@@ -4949,7 +4949,7 @@
       ],
       "work_passage_id": "agr:43",
       "html_path": "works/agr/index.html#p-43",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-43",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-43",
       "alignment_revision": "sha256:1697152225f6a9535de155242553cc56720fa4cf520487bc90e94f4bfbdf51ba",
       "review_state": {
         "human_reviewed": false,
@@ -4985,9 +4985,9 @@
         "work": "농사에 관하여",
         "reference": "43",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:efbe811d9f2e0b1a0532f765b8f5347c785f8c81bb43898aa4d2c4ce74cbd39f",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-43"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-43"
       }
     },
     {
@@ -5075,7 +5075,7 @@
       ],
       "work_passage_id": "agr:44",
       "html_path": "works/agr/index.html#p-44",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-44",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-44",
       "alignment_revision": "sha256:3b6f67d08379cbec91e34c03ff784f007136e41f9796d3ceefb80df9ad6ad374",
       "review_state": {
         "human_reviewed": false,
@@ -5111,9 +5111,9 @@
         "work": "농사에 관하여",
         "reference": "44",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:14e2931dd599ddca051392c3e6fbb096696c7f66da9816c7949e1204cacb7351",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-44"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-44"
       }
     },
     {
@@ -5173,7 +5173,7 @@
       "notes": [],
       "work_passage_id": "agr:45",
       "html_path": "works/agr/index.html#p-45",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-45",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-45",
       "alignment_revision": "sha256:63049f51bb3a1890d9d01dad27aef1d3b72c8150d708adaf476d539ca2e700c6",
       "review_state": {
         "human_reviewed": false,
@@ -5209,9 +5209,9 @@
         "work": "농사에 관하여",
         "reference": "45",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:d4dda17f85d49cecbb12c9de36b3db32533022e3958c5e766c224b026b92d32a",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-45"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-45"
       }
     },
     {
@@ -5284,7 +5284,7 @@
       "notes": [],
       "work_passage_id": "agr:46",
       "html_path": "works/agr/index.html#p-46",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-46",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-46",
       "alignment_revision": "sha256:375b8b063276865c8869566871ef2806f6bf8ec57f15106a3978c9e5aea692c5",
       "review_state": {
         "human_reviewed": false,
@@ -5320,9 +5320,9 @@
         "work": "농사에 관하여",
         "reference": "46",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:4c4161cc66e681436a323f835e9a7c5c3dc4548fbdedf98e4d8fba29b4deee01",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-46"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-46"
       }
     },
     {
@@ -5411,7 +5411,7 @@
       "notes": [],
       "work_passage_id": "agr:47",
       "html_path": "works/agr/index.html#p-47",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-47",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-47",
       "alignment_revision": "sha256:92a3235b57ba62475d21921f4362bb8a86431911b3a4f5b8148addb598deee5e",
       "review_state": {
         "human_reviewed": false,
@@ -5447,9 +5447,9 @@
         "work": "농사에 관하여",
         "reference": "47",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:950a36a11816d69d1243d3e52ebfa363fdd5f9f6609f38afac5af6e161f50026",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-47"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-47"
       }
     },
     {
@@ -5524,7 +5524,7 @@
       ],
       "work_passage_id": "agr:48",
       "html_path": "works/agr/index.html#p-48",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-48",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-48",
       "alignment_revision": "sha256:84127b138367eb09c6283816518c1066d1b00992fe0f311f6ea5e69a05af65f1",
       "review_state": {
         "human_reviewed": false,
@@ -5560,9 +5560,9 @@
         "work": "농사에 관하여",
         "reference": "48",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:b87c293c8bbbadd10fd8b4ccc3f7161b101a5dddbbc29455f8416f14746f9871",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-48"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-48"
       }
     },
     {
@@ -5648,7 +5648,7 @@
       "notes": [],
       "work_passage_id": "agr:49",
       "html_path": "works/agr/index.html#p-49",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-49",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-49",
       "alignment_revision": "sha256:e5f64bba3a1c8bffdd0f66264902c72297b57cd97b2dc076393379652d722662",
       "review_state": {
         "human_reviewed": false,
@@ -5684,9 +5684,9 @@
         "work": "농사에 관하여",
         "reference": "49",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:e6638eb4aafdcb83a0b46a22e85198b56c27f6c6df2c061f16e79d49e1687fa1",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-49"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-49"
       }
     },
     {
@@ -5761,7 +5761,7 @@
       ],
       "work_passage_id": "agr:50",
       "html_path": "works/agr/index.html#p-50",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-50",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-50",
       "alignment_revision": "sha256:0fcdf6c3632e65be4b00b2e763f1955f30badc73f1b3a1e1bb34fdb53983e7dc",
       "review_state": {
         "human_reviewed": false,
@@ -5797,9 +5797,9 @@
         "work": "농사에 관하여",
         "reference": "50",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:2fc665a3686a5b45a7fc49dc6fdd450ffa61ddc7df20116f381fb0a103ededbf",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-50"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-50"
       }
     },
     {
@@ -5916,7 +5916,7 @@
       ],
       "work_passage_id": "agr:51",
       "html_path": "works/agr/index.html#p-51",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-51",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-51",
       "alignment_revision": "sha256:829584a61582ea738e80b1c2755c87fa3dc5ba4622c15e6b9d0b550ba41554aa",
       "review_state": {
         "human_reviewed": false,
@@ -5952,9 +5952,9 @@
         "work": "농사에 관하여",
         "reference": "51",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:d42d934c91c8c546583fa380a248f241323fa378d6135e73faf4e069ca1b5a02",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-51"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-51"
       }
     },
     {
@@ -6014,7 +6014,7 @@
       "notes": [],
       "work_passage_id": "agr:52",
       "html_path": "works/agr/index.html#p-52",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-52",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-52",
       "alignment_revision": "sha256:07504fdf46d46326a6aeb36773fc7528c6d51b31537a23cd6b9142c4730cb8bb",
       "review_state": {
         "human_reviewed": false,
@@ -6050,9 +6050,9 @@
         "work": "농사에 관하여",
         "reference": "52",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:fd0f2349896e520ed096458cbb2224ac5c530e5c9082d824414081f7077fb34b",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-52"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-52"
       }
     },
     {
@@ -6125,7 +6125,7 @@
       "notes": [],
       "work_passage_id": "agr:53",
       "html_path": "works/agr/index.html#p-53",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-53",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-53",
       "alignment_revision": "sha256:688c92f728f09726d0ab9581a05bfc2be32c30676d21b615790d3f82cb34b916",
       "review_state": {
         "human_reviewed": false,
@@ -6161,9 +6161,9 @@
         "work": "농사에 관하여",
         "reference": "53",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:0bb35d39fd7bd79a616b89000acb4a840dc71a4f482c7656342951d28df69182",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-53"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-53"
       }
     },
     {
@@ -6262,7 +6262,7 @@
       "notes": [],
       "work_passage_id": "agr:54",
       "html_path": "works/agr/index.html#p-54",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-54",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-54",
       "alignment_revision": "sha256:8155bf919cdc9f10481137a1ab36c3acc04081ed395553d54fd3f974f5a778d5",
       "review_state": {
         "human_reviewed": false,
@@ -6298,9 +6298,9 @@
         "work": "농사에 관하여",
         "reference": "54",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:236ec0371f9fe433560a619c2e510c51639148094cdc8cff69fae2c197d7ccf1",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-54"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-54"
       }
     },
     {
@@ -6360,7 +6360,7 @@
       "notes": [],
       "work_passage_id": "agr:55",
       "html_path": "works/agr/index.html#p-55",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-55",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-55",
       "alignment_revision": "sha256:db3aac9e1b6acd92877369c3a927ca224265a9f98295719e2f81c320750cd8e2",
       "review_state": {
         "human_reviewed": false,
@@ -6396,9 +6396,9 @@
         "work": "농사에 관하여",
         "reference": "55",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:10ac00ec0d3400701675df4f6fb059980cce0aa3b1d70eb9399f0b41c035562d",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-55"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-55"
       }
     },
     {
@@ -6502,7 +6502,7 @@
       ],
       "work_passage_id": "agr:56",
       "html_path": "works/agr/index.html#p-56",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-56",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-56",
       "alignment_revision": "sha256:da6283df9faa2d6318387c35d5f0d89f805ca957384714dd39981699a97c3d22",
       "review_state": {
         "human_reviewed": false,
@@ -6538,9 +6538,9 @@
         "work": "농사에 관하여",
         "reference": "56",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:b678094b3aa07fc08caae642fee1796820e32f0e542b0b5f85248ee22d6d2d7a",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-56"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-56"
       }
     },
     {
@@ -6602,7 +6602,7 @@
       ],
       "work_passage_id": "agr:57",
       "html_path": "works/agr/index.html#p-57",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-57",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-57",
       "alignment_revision": "sha256:9eb2861ae7945387458b18db8488f77d0a25e969b06ec817842033086296b484",
       "review_state": {
         "human_reviewed": false,
@@ -6638,9 +6638,9 @@
         "work": "농사에 관하여",
         "reference": "57",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:244fb66d48a73188cf24dc22bf4597439840d4ed7cadc20c5f06ea64fb037330",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-57"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-57"
       }
     },
     {
@@ -6700,7 +6700,7 @@
       "notes": [],
       "work_passage_id": "agr:58",
       "html_path": "works/agr/index.html#p-58",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-58",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-58",
       "alignment_revision": "sha256:9e89763cb948ab423ef9c42f041313557a9535d850f1a39fd655fb20410a558d",
       "review_state": {
         "human_reviewed": false,
@@ -6736,9 +6736,9 @@
         "work": "농사에 관하여",
         "reference": "58",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:9f4785f7f114e0cf82dca9f92a6e5214ec44ab8a8ff1a7d419caf462fdb6020e",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-58"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-58"
       }
     },
     {
@@ -6811,7 +6811,7 @@
       "notes": [],
       "work_passage_id": "agr:59",
       "html_path": "works/agr/index.html#p-59",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-59",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-59",
       "alignment_revision": "sha256:2d0017504d5853e4173dc9786f6ade7906f8b1d3b4a000c3a1d15567dab2f935",
       "review_state": {
         "human_reviewed": false,
@@ -6847,9 +6847,9 @@
         "work": "농사에 관하여",
         "reference": "59",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:40627d18a44b77a17237afb009af8f2cd1cdc0396e9746beab52cb0c7fbb43d5",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-59"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-59"
       }
     },
     {
@@ -6912,7 +6912,7 @@
       "notes": [],
       "work_passage_id": "agr:60",
       "html_path": "works/agr/index.html#p-60",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-60",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-60",
       "alignment_revision": "sha256:971231a2ed8181179b6052e47607f6c0c06473160abc6d957e11b16ba542eab6",
       "review_state": {
         "human_reviewed": false,
@@ -6948,9 +6948,9 @@
         "work": "농사에 관하여",
         "reference": "60",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:c2c1fcb2917c0ec1714adb6a588bfdee66304127fdfb20b7e5e9246d221f91a3",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-60"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-60"
       }
     },
     {
@@ -7010,7 +7010,7 @@
       "notes": [],
       "work_passage_id": "agr:61",
       "html_path": "works/agr/index.html#p-61",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-61",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-61",
       "alignment_revision": "sha256:3de4f80cf3098636d0ce4d3032b9c0ea9833fdac6069d0f18292bf76023fb1f0",
       "review_state": {
         "human_reviewed": false,
@@ -7046,9 +7046,9 @@
         "work": "농사에 관하여",
         "reference": "61",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:ed89950dc590b80717219282fa453835f138db73284a430d964f2093e22759b6",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-61"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-61"
       }
     },
     {
@@ -7108,7 +7108,7 @@
       "notes": [],
       "work_passage_id": "agr:62",
       "html_path": "works/agr/index.html#p-62",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-62",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-62",
       "alignment_revision": "sha256:8bd7ff0941dd5020f2fd232dbb9941188d0151331fb07734aadbc80ae1de6a03",
       "review_state": {
         "human_reviewed": false,
@@ -7144,9 +7144,9 @@
         "work": "농사에 관하여",
         "reference": "62",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:f48d8e90cfc3c1da09c41623044923d1ece8b521848e8041dc9f96b519d3069d",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-62"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-62"
       }
     },
     {
@@ -7206,7 +7206,7 @@
       "notes": [],
       "work_passage_id": "agr:63",
       "html_path": "works/agr/index.html#p-63",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-63",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-63",
       "alignment_revision": "sha256:46a88df240ac8dca354f3fe26f99c45894725f66c640fab7f62ee0f458663677",
       "review_state": {
         "human_reviewed": false,
@@ -7242,9 +7242,9 @@
         "work": "농사에 관하여",
         "reference": "63",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:bd9f4b798a4d3e87f3228d01cc17fed950ef456383d8ef1c1b4c78e702f0d2ee",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-63"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-63"
       }
     },
     {
@@ -7332,7 +7332,7 @@
       ],
       "work_passage_id": "agr:64",
       "html_path": "works/agr/index.html#p-64",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-64",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-64",
       "alignment_revision": "sha256:92ad15fa23311e2283a8a4bbbf57e2ea21ffe75d17e5bdb2afaa8648ea314130",
       "review_state": {
         "human_reviewed": false,
@@ -7368,9 +7368,9 @@
         "work": "농사에 관하여",
         "reference": "64",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:7b6bca77f39231e84df305a4dfd0b25e196660d6e16b04f112c8e7baf5de2ea8",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-64"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-64"
       }
     },
     {
@@ -7430,7 +7430,7 @@
       "notes": [],
       "work_passage_id": "agr:65",
       "html_path": "works/agr/index.html#p-65",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-65",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-65",
       "alignment_revision": "sha256:a12c5b3d1ff3d27579bc696a5de3e80cd7b197c8617a60a4640f7240ff030dbd",
       "review_state": {
         "human_reviewed": false,
@@ -7466,9 +7466,9 @@
         "work": "농사에 관하여",
         "reference": "65",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:4731a7f7515b11815c266005b966f1d1bb053f7c39aae94cc599b8844f7c016a",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-65"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-65"
       }
     },
     {
@@ -7554,7 +7554,7 @@
       "notes": [],
       "work_passage_id": "agr:66",
       "html_path": "works/agr/index.html#p-66",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-66",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-66",
       "alignment_revision": "sha256:2de04bcf3b39f56e121d8252347f2aaa703cfde74c8c655fcd6c041e7bc1db3f",
       "review_state": {
         "human_reviewed": false,
@@ -7590,9 +7590,9 @@
         "work": "농사에 관하여",
         "reference": "66",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:37923cef077912a1bc013b6f86ee3dbd10a32c49c39503e1146ed64b6265961c",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-66"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-66"
       }
     },
     {
@@ -7668,7 +7668,7 @@
       "notes": [],
       "work_passage_id": "agr:67",
       "html_path": "works/agr/index.html#p-67",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-67",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-67",
       "alignment_revision": "sha256:db5516797af4a2a4e6f15582b6bf1c8fa1565579fd86e3b2b2e75f2b307498e5",
       "review_state": {
         "human_reviewed": false,
@@ -7704,9 +7704,9 @@
         "work": "농사에 관하여",
         "reference": "67",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:8a2c81871234b8c99e3e1ec57c845b550ba3888b2b734e8b55f8d3ffa4e129de",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-67"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-67"
       }
     },
     {
@@ -7781,7 +7781,7 @@
       ],
       "work_passage_id": "agr:68",
       "html_path": "works/agr/index.html#p-68",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-68",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-68",
       "alignment_revision": "sha256:796145c357d4dfa2ffce58f3046fd3eface481e204bb879fcae884a09d7a29a2",
       "review_state": {
         "human_reviewed": false,
@@ -7817,9 +7817,9 @@
         "work": "농사에 관하여",
         "reference": "68",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:abc9d96b76d31db7f95c5d7805049ac42b228d6a587e10452f6dd326567bc765",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-68"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-68"
       }
     },
     {
@@ -7892,7 +7892,7 @@
       "notes": [],
       "work_passage_id": "agr:69",
       "html_path": "works/agr/index.html#p-69",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-69",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-69",
       "alignment_revision": "sha256:46e266140c10d04dc1a269d284ab34dcfe758dd781d4c592a406de3d186ab846",
       "review_state": {
         "human_reviewed": false,
@@ -7928,9 +7928,9 @@
         "work": "농사에 관하여",
         "reference": "69",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:516e5d86436ad12688fb5a6e842000adc20a8ae388a8a9b9c22c741f5172c1fd",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-69"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-69"
       }
     },
     {
@@ -8003,7 +8003,7 @@
       "notes": [],
       "work_passage_id": "agr:70",
       "html_path": "works/agr/index.html#p-70",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-70",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-70",
       "alignment_revision": "sha256:0639bb1dc52bc2b2180db4b1b0a406f9841c09e2d2343d10482ae3e944421b87",
       "review_state": {
         "human_reviewed": false,
@@ -8039,9 +8039,9 @@
         "work": "농사에 관하여",
         "reference": "70",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:417b81091f6ae7798ae0b331c1f7d7db3f42fe24c8f70c53da338636244cda35",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-70"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-70"
       }
     },
     {
@@ -8114,7 +8114,7 @@
       "notes": [],
       "work_passage_id": "agr:71",
       "html_path": "works/agr/index.html#p-71",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-71",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-71",
       "alignment_revision": "sha256:589f731e52ea34dbd46a91ed064fee94cded643a75f50321f88847a388355402",
       "review_state": {
         "human_reviewed": false,
@@ -8150,9 +8150,9 @@
         "work": "농사에 관하여",
         "reference": "71",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:3ccd4d225b4ce2dfb4203202c20c5c0703a97a51fe93e95ac60a7f033bb7342a",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-71"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-71"
       }
     },
     {
@@ -8212,7 +8212,7 @@
       "notes": [],
       "work_passage_id": "agr:72",
       "html_path": "works/agr/index.html#p-72",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-72",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-72",
       "alignment_revision": "sha256:0b7131722b585226326844bf604d6135b4261411b98c62ea5e955247c494b3a9",
       "review_state": {
         "human_reviewed": false,
@@ -8248,9 +8248,9 @@
         "work": "농사에 관하여",
         "reference": "72",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:77c2df565add6cc8f096cd4ed8b5088777dc16f21020d627580b541f3b298c0f",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-72"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-72"
       }
     },
     {
@@ -8354,7 +8354,7 @@
       ],
       "work_passage_id": "agr:73",
       "html_path": "works/agr/index.html#p-73",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-73",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-73",
       "alignment_revision": "sha256:acf2493b95ea4493098ae9b57e60607c017e5876ccc020bd127e2289d6ffbfb0",
       "review_state": {
         "human_reviewed": false,
@@ -8390,9 +8390,9 @@
         "work": "농사에 관하여",
         "reference": "73",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:a4fac13401d57a5da1db6dc6b0e94bf3a7e68ddd8a3c0451a6d748efdd87ee91",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-73"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-73"
       }
     },
     {
@@ -8452,7 +8452,7 @@
       "notes": [],
       "work_passage_id": "agr:74",
       "html_path": "works/agr/index.html#p-74",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-74",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-74",
       "alignment_revision": "sha256:a8b2802e0ca7409a088b48ed6e5d64fb421c98db2cf73a343948d44d3ba0c8d3",
       "review_state": {
         "human_reviewed": false,
@@ -8488,9 +8488,9 @@
         "work": "농사에 관하여",
         "reference": "74",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:eafc687bdd191f0854f5e57c055dc1d4b6e88b18148ff356e466f79395130b00",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-74"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-74"
       }
     },
     {
@@ -8589,7 +8589,7 @@
       "notes": [],
       "work_passage_id": "agr:75",
       "html_path": "works/agr/index.html#p-75",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-75",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-75",
       "alignment_revision": "sha256:5737afcf5767b1cb20ea9ab0cbe6e977b9f6c9b8318d8e05012b393259aef346",
       "review_state": {
         "human_reviewed": false,
@@ -8625,9 +8625,9 @@
         "work": "농사에 관하여",
         "reference": "75",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:f40549109056cdf3c4ec67b4948ac577979df782c7141effa4839d78c9ba0b3b",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-75"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-75"
       }
     },
     {
@@ -8700,7 +8700,7 @@
       "notes": [],
       "work_passage_id": "agr:76",
       "html_path": "works/agr/index.html#p-76",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-76",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-76",
       "alignment_revision": "sha256:b4664e1c1c01acd1276bf1887d66c9579896c21fbce86c986f3eabfa4bc96633",
       "review_state": {
         "human_reviewed": false,
@@ -8736,9 +8736,9 @@
         "work": "농사에 관하여",
         "reference": "76",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:bc9206a2704173ea7a99a5ffd501fa25b23c8f2d51cf589e2189b30eb9e5e6a3",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-76"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-76"
       }
     },
     {
@@ -8811,7 +8811,7 @@
       "notes": [],
       "work_passage_id": "agr:77",
       "html_path": "works/agr/index.html#p-77",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-77",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-77",
       "alignment_revision": "sha256:2a783d59fecd09212631d73491669f933eb9aada1739a9ed066a719e55dff3c5",
       "review_state": {
         "human_reviewed": false,
@@ -8847,9 +8847,9 @@
         "work": "농사에 관하여",
         "reference": "77",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:20462eeabf9316c55abad3efb9b3bb4ef8fce3300b0245da18f580e289a285b3",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-77"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-77"
       }
     },
     {
@@ -8927,7 +8927,7 @@
       ],
       "work_passage_id": "agr:78",
       "html_path": "works/agr/index.html#p-78",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-78",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-78",
       "alignment_revision": "sha256:269cca9316272f341dee2365a1b31011a29fbaf12d6b19f86719a8a5df83a93c",
       "review_state": {
         "human_reviewed": false,
@@ -8963,9 +8963,9 @@
         "work": "농사에 관하여",
         "reference": "78",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:72cfb6f535a6974c02cb7742084d31d39d40904742464989c5c159c031d3d544",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-78"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-78"
       }
     },
     {
@@ -9038,7 +9038,7 @@
       "notes": [],
       "work_passage_id": "agr:79",
       "html_path": "works/agr/index.html#p-79",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-79",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-79",
       "alignment_revision": "sha256:29ab0f4307c19d03d24a554408002d9097e95d2a8ec4ee180d50aa6af1b3290c",
       "review_state": {
         "human_reviewed": false,
@@ -9074,9 +9074,9 @@
         "work": "농사에 관하여",
         "reference": "79",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:99cad45ce1dac55bb695465ad69fbb9c8739dfefce3128d73d95adcace252464",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-79"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-79"
       }
     },
     {
@@ -9149,7 +9149,7 @@
       "notes": [],
       "work_passage_id": "agr:80",
       "html_path": "works/agr/index.html#p-80",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-80",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-80",
       "alignment_revision": "sha256:43f943ffe2eccb54f40c2cd816b0e6fde0dda27986aaeb28e50ea761239b1a1f",
       "review_state": {
         "human_reviewed": false,
@@ -9185,9 +9185,9 @@
         "work": "농사에 관하여",
         "reference": "80",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:bc04df42493d5f14ac1d287d363f01376f7f7f08a0137c3ac6f8b97b35550a0b",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-80"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-80"
       }
     },
     {
@@ -9247,7 +9247,7 @@
       "notes": [],
       "work_passage_id": "agr:81",
       "html_path": "works/agr/index.html#p-81",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-81",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-81",
       "alignment_revision": "sha256:5df2f24dd2c8a6aa13cceb9925977be32d47f57393351027a72428c0fb1dd2b6",
       "review_state": {
         "human_reviewed": false,
@@ -9283,9 +9283,9 @@
         "work": "농사에 관하여",
         "reference": "81",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:959caa5cf07a686f82d3854e663a1ce80368b569eb31a478ba81c56ab71dfb37",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-81"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-81"
       }
     },
     {
@@ -9347,7 +9347,7 @@
       ],
       "work_passage_id": "agr:82",
       "html_path": "works/agr/index.html#p-82",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-82",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-82",
       "alignment_revision": "sha256:1bacabac16512ecd000ac77fd31b7ecd5c95d8c548af0751d6fef775e4b70146",
       "review_state": {
         "human_reviewed": false,
@@ -9383,9 +9383,9 @@
         "work": "농사에 관하여",
         "reference": "82",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:4e82db6126853d530aa608635e5701f16793b8ac5a9f0bbda888717baa440841",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-82"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-82"
       }
     },
     {
@@ -9461,7 +9461,7 @@
       "notes": [],
       "work_passage_id": "agr:83",
       "html_path": "works/agr/index.html#p-83",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-83",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-83",
       "alignment_revision": "sha256:ee29154928d7529feaa46afd8e1ede4a6b9929f10aca2d46dc193c5e58ee7ff7",
       "review_state": {
         "human_reviewed": false,
@@ -9497,9 +9497,9 @@
         "work": "농사에 관하여",
         "reference": "83",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:0aed046262c4727d3fe4fecee7e7907be0c0360c2f687a4792a9afe65c72901b",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-83"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-83"
       }
     },
     {
@@ -9587,7 +9587,7 @@
       ],
       "work_passage_id": "agr:84",
       "html_path": "works/agr/index.html#p-84",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-84",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-84",
       "alignment_revision": "sha256:1e56f2eca8f68f65029f5a22dfa1d6449bd73e8a2242d778b56671d09a8bd87b",
       "review_state": {
         "human_reviewed": false,
@@ -9623,9 +9623,9 @@
         "work": "농사에 관하여",
         "reference": "84",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:49da56aa2e5400c3ee5b8bb7ed9b5a8206cc7cfbcb6dbed39c9eea583cb50b3b",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-84"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-84"
       }
     },
     {
@@ -9737,7 +9737,7 @@
       "notes": [],
       "work_passage_id": "agr:85",
       "html_path": "works/agr/index.html#p-85",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-85",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-85",
       "alignment_revision": "sha256:bda8ab221c538cd3a8fdca7770a83e5dd72c1f2d1fcc2ce1901f1b526c36f2f7",
       "review_state": {
         "human_reviewed": false,
@@ -9773,9 +9773,9 @@
         "work": "농사에 관하여",
         "reference": "85",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:dcd3b71aab525c04d8c12b059e43dd46d9989831f66903ec312d347309b8fb07",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-85"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-85"
       }
     },
     {
@@ -9848,7 +9848,7 @@
       "notes": [],
       "work_passage_id": "agr:86",
       "html_path": "works/agr/index.html#p-86",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-86",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-86",
       "alignment_revision": "sha256:d557bccfe84c8d4f0c6eb9b5ab864740a9e29a8449e6dfdb4db75f2bb03aa110",
       "review_state": {
         "human_reviewed": false,
@@ -9884,9 +9884,9 @@
         "work": "농사에 관하여",
         "reference": "86",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:d8439d7c7011c45de9f19b154f2febd58036e7be150e7ca18549d7fb35ead5a4",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-86"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-86"
       }
     },
     {
@@ -9948,7 +9948,7 @@
       ],
       "work_passage_id": "agr:87",
       "html_path": "works/agr/index.html#p-87",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-87",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-87",
       "alignment_revision": "sha256:a4af3893e1ab6ebe5db7a54c00768209cba8bddf55f69bc63c51a89bda8e6d64",
       "review_state": {
         "human_reviewed": false,
@@ -9984,9 +9984,9 @@
         "work": "농사에 관하여",
         "reference": "87",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:27523c40d934c33afb86f8e05037b2bad3557594a4a569b39c92a9fccdbbde04",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-87"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-87"
       }
     },
     {
@@ -10075,7 +10075,7 @@
       "notes": [],
       "work_passage_id": "agr:88",
       "html_path": "works/agr/index.html#p-88",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-88",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-88",
       "alignment_revision": "sha256:5f13b4681d1dbf31168992874fd100277657ffe64579f86113d9c5675e2d85cd",
       "review_state": {
         "human_reviewed": false,
@@ -10111,9 +10111,9 @@
         "work": "농사에 관하여",
         "reference": "88",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:4b9f11ac6e31943412aa6370d05b1afcb96f2cd0b1b0134017d9913af3f96fb5",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-88"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-88"
       }
     },
     {
@@ -10186,7 +10186,7 @@
       "notes": [],
       "work_passage_id": "agr:89",
       "html_path": "works/agr/index.html#p-89",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-89",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-89",
       "alignment_revision": "sha256:2af8231c678ef6c7ed31895e7f789680cda5ec39d733961d29fb8f70557d16e7",
       "review_state": {
         "human_reviewed": false,
@@ -10222,9 +10222,9 @@
         "work": "농사에 관하여",
         "reference": "89",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:0ee01413f7326386a095463a2c314640af5d81b5732b57b20e385d07cdfe49fe",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-89"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-89"
       }
     },
     {
@@ -10310,7 +10310,7 @@
       "notes": [],
       "work_passage_id": "agr:90",
       "html_path": "works/agr/index.html#p-90",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-90",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-90",
       "alignment_revision": "sha256:5582cd93b5a0216cc5280420cbbc13ba653b15a811c2d08b909f6a74e25273d6",
       "review_state": {
         "human_reviewed": false,
@@ -10346,9 +10346,9 @@
         "work": "농사에 관하여",
         "reference": "90",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:edc50d576f7e0021b9980955e3940ed54c961b8527ce761f8e4e72c0eac427f2",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-90"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-90"
       }
     },
     {
@@ -10462,7 +10462,7 @@
       ],
       "work_passage_id": "agr:91",
       "html_path": "works/agr/index.html#p-91",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-91",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-91",
       "alignment_revision": "sha256:eb33b41e90c243a22d3230c707c2334c0da2cacd9648dfcfb1a79bea752325cd",
       "review_state": {
         "human_reviewed": false,
@@ -10498,9 +10498,9 @@
         "work": "농사에 관하여",
         "reference": "91",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:67430bf4b3348b38b392718f112fc146c5679add23148918d8ed852115c8e84c",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-91"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-91"
       }
     },
     {
@@ -10563,7 +10563,7 @@
       "notes": [],
       "work_passage_id": "agr:92",
       "html_path": "works/agr/index.html#p-92",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-92",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-92",
       "alignment_revision": "sha256:b30467633a4e0000c2ffafd154bf73633b8d6c2871f283559dd60d989450e395",
       "review_state": {
         "human_reviewed": false,
@@ -10599,9 +10599,9 @@
         "work": "농사에 관하여",
         "reference": "92",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:cbbd37016d33a22348be4ac0a64ca1d270d4a06b2d5006df6214ea93b83bd263",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-92"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-92"
       }
     },
     {
@@ -10713,7 +10713,7 @@
       "notes": [],
       "work_passage_id": "agr:93",
       "html_path": "works/agr/index.html#p-93",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-93",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-93",
       "alignment_revision": "sha256:57062bbd3f3c21bf8b3ad7ebbcad734d2e7ab7eea11e2aeca96b77ee6e5492c2",
       "review_state": {
         "human_reviewed": false,
@@ -10749,9 +10749,9 @@
         "work": "농사에 관하여",
         "reference": "93",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:86f83d30edbe4184e9f3221b12293a3e32ce568872b5c5d6cf3826f4348bc1d6",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-93"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-93"
       }
     },
     {
@@ -10865,7 +10865,7 @@
       ],
       "work_passage_id": "agr:94",
       "html_path": "works/agr/index.html#p-94",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-94",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-94",
       "alignment_revision": "sha256:b73142900e4df5e13acb3994f3fdf22025202d5014d6e142dd0075e83615c664",
       "review_state": {
         "human_reviewed": false,
@@ -10901,9 +10901,9 @@
         "work": "농사에 관하여",
         "reference": "94",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:7d0272be7cbb6591928095a0c91470a9a96480d905dd55718100c3dfbee92907",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-94"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-94"
       }
     },
     {
@@ -11004,7 +11004,7 @@
       ],
       "work_passage_id": "agr:95",
       "html_path": "works/agr/index.html#p-95",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-95",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-95",
       "alignment_revision": "sha256:38fdb7a26c68a5d71c9045f210a3e3bb22b90bc74b33448a9e50ab67e4a70a85",
       "review_state": {
         "human_reviewed": false,
@@ -11040,9 +11040,9 @@
         "work": "농사에 관하여",
         "reference": "95",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:204ae4e677a7664388a638b79d338301323819d77e2180d24db4fc22ec1cf4ef",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-95"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-95"
       }
     },
     {
@@ -11128,7 +11128,7 @@
       "notes": [],
       "work_passage_id": "agr:96",
       "html_path": "works/agr/index.html#p-96",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-96",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-96",
       "alignment_revision": "sha256:29c1965c10e0bc447a0b762f7c944cfabf31da369c55a291d537ead3667611d2",
       "review_state": {
         "human_reviewed": false,
@@ -11164,9 +11164,9 @@
         "work": "농사에 관하여",
         "reference": "96",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:10d59f7015e60266c5b5a8695394299f32ba436edec65a3062a6e60e6cc71603",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-96"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-96"
       }
     },
     {
@@ -11281,7 +11281,7 @@
       "notes": [],
       "work_passage_id": "agr:97",
       "html_path": "works/agr/index.html#p-97",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-97",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-97",
       "alignment_revision": "sha256:7b6aada250ae7017cad27f1eaff4ca8942c5a8dae33e261c53a932ee9c9333f5",
       "review_state": {
         "human_reviewed": false,
@@ -11317,9 +11317,9 @@
         "work": "농사에 관하여",
         "reference": "97",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:172588d595a0fd7a466606070a139e4d5cc0a9a40995894e18b83e06349ab3f2",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-97"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-97"
       }
     },
     {
@@ -11405,7 +11405,7 @@
       "notes": [],
       "work_passage_id": "agr:98",
       "html_path": "works/agr/index.html#p-98",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-98",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-98",
       "alignment_revision": "sha256:fbea6b68ac5b1323db79e86f67acfaf8231cf5b0f83c67079ae3516aee76bfbf",
       "review_state": {
         "human_reviewed": false,
@@ -11441,9 +11441,9 @@
         "work": "농사에 관하여",
         "reference": "98",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:3f10f4eb839c6bfca2894780b473db1e3a5ed63e0c090cdd4ebfd6b43096c50c",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-98"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-98"
       }
     },
     {
@@ -11518,7 +11518,7 @@
       ],
       "work_passage_id": "agr:99",
       "html_path": "works/agr/index.html#p-99",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-99",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-99",
       "alignment_revision": "sha256:89452d12dab8d2cd1de269c1026751495697bc6fe009d80e64e2e6d3e13c0e4c",
       "review_state": {
         "human_reviewed": false,
@@ -11554,9 +11554,9 @@
         "work": "농사에 관하여",
         "reference": "99",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:1d364a7847fbe3ef3247568410732ed3eb01dcc760235e9e8f32cb98c7eaea58",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-99"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-99"
       }
     },
     {
@@ -11642,7 +11642,7 @@
       "notes": [],
       "work_passage_id": "agr:100",
       "html_path": "works/agr/index.html#p-100",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-100",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-100",
       "alignment_revision": "sha256:67a55b0cd7ac837bad34cabf021428d2fbdfe6c9a9794a9da7c6545301c9515d",
       "review_state": {
         "human_reviewed": false,
@@ -11678,9 +11678,9 @@
         "work": "농사에 관하여",
         "reference": "100",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:30ba36bb5e9e64ebd57d9bc9786100cf75d70f7e07765ddff5ba4405b02844f1",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-100"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-100"
       }
     },
     {
@@ -11810,7 +11810,7 @@
       ],
       "work_passage_id": "agr:101",
       "html_path": "works/agr/index.html#p-101",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-101",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-101",
       "alignment_revision": "sha256:858eb6cae58e2e1334fc6475c996b7c26bb538c9ab654d6b801d5a75bcaa3e2e",
       "review_state": {
         "human_reviewed": false,
@@ -11846,9 +11846,9 @@
         "work": "농사에 관하여",
         "reference": "101",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:e2a09d12f1b3ff6ccff5019b56578b1dffc659c5e74c92b5c3869caa0d6da270",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-101"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-101"
       }
     },
     {
@@ -11921,7 +11921,7 @@
       "notes": [],
       "work_passage_id": "agr:102",
       "html_path": "works/agr/index.html#p-102",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-102",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-102",
       "alignment_revision": "sha256:d17bed2680ee4d890c51b6ade9d1b286cc5b0e17c64138cdb4c8cfa23fda2516",
       "review_state": {
         "human_reviewed": false,
@@ -11957,9 +11957,9 @@
         "work": "농사에 관하여",
         "reference": "102",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:e0c343227758f426e93cb4dd69a49a2bb66d8e4f4a5000c4c610e244d4900ea7",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-102"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-102"
       }
     },
     {
@@ -12034,7 +12034,7 @@
       ],
       "work_passage_id": "agr:103",
       "html_path": "works/agr/index.html#p-103",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-103",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-103",
       "alignment_revision": "sha256:33b7d747d0dad0bdfc65a8a535ca9c3aa683d3e7983705be60ed7f95000a210c",
       "review_state": {
         "human_reviewed": false,
@@ -12070,9 +12070,9 @@
         "work": "농사에 관하여",
         "reference": "103",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:fcd962189c61a5240919f762f2634825a0974268e95e188648bc2813d0f77f5e",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-103"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-103"
       }
     },
     {
@@ -12145,7 +12145,7 @@
       "notes": [],
       "work_passage_id": "agr:104",
       "html_path": "works/agr/index.html#p-104",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-104",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-104",
       "alignment_revision": "sha256:5fe2b0804166be6a27d63e0bd47c6d3c1eda8160a8049772eb278009d3720cc2",
       "review_state": {
         "human_reviewed": false,
@@ -12181,9 +12181,9 @@
         "work": "농사에 관하여",
         "reference": "104",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:019e506346bd2b7b62a50baad21588f1f679b34d03eb16493c94a6cc61d8396b",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-104"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-104"
       }
     },
     {
@@ -12243,7 +12243,7 @@
       "notes": [],
       "work_passage_id": "agr:105",
       "html_path": "works/agr/index.html#p-105",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-105",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-105",
       "alignment_revision": "sha256:bf1642cc17f43cc01b8ad1f5742fa74383eee577a08ca1ae6a419a9876b49316",
       "review_state": {
         "human_reviewed": false,
@@ -12279,9 +12279,9 @@
         "work": "농사에 관하여",
         "reference": "105",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:49b888e96488e261c6ea013aa8265a5d104255dad770c821be9fed5b698401bd",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-105"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-105"
       }
     },
     {
@@ -12341,7 +12341,7 @@
       "notes": [],
       "work_passage_id": "agr:106",
       "html_path": "works/agr/index.html#p-106",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-106",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-106",
       "alignment_revision": "sha256:ad10c1b8c84c84317b262ed9c662a2f9a7e7027d249daaffd9cfc1ff3b13a135",
       "review_state": {
         "human_reviewed": false,
@@ -12377,9 +12377,9 @@
         "work": "농사에 관하여",
         "reference": "106",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:90356026edfe9e3996083d5e62c5f3086c1c66b1f80a9e64505b10958d387099",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-106"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-106"
       }
     },
     {
@@ -12454,7 +12454,7 @@
       ],
       "work_passage_id": "agr:107",
       "html_path": "works/agr/index.html#p-107",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-107",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-107",
       "alignment_revision": "sha256:d8795fdbfd9127ee60e5c9b421c68c8c0e86aebdfd98b85cc42f6dd54e724161",
       "review_state": {
         "human_reviewed": false,
@@ -12490,9 +12490,9 @@
         "work": "농사에 관하여",
         "reference": "107",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:34216d600ce423ba6fd2ec0d6094ad7665b88e9dc70e7eb74db32d357dcffbae",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-107"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-107"
       }
     },
     {
@@ -12539,7 +12539,7 @@
       "notes": [],
       "work_passage_id": "agr:108",
       "html_path": "works/agr/index.html#p-108",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-108",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-108",
       "alignment_revision": "sha256:05bf7fd9c96f41b9fe7b08de484a695d42cebe92c52465f6ad4b7ef0b6b56534",
       "review_state": {
         "human_reviewed": false,
@@ -12575,9 +12575,9 @@
         "work": "농사에 관하여",
         "reference": "108",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:bb6340914642c2a40fa171e6ab15f0ab3553d1a2355d5647bc7d49965b5274c1",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-108"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-108"
       }
     },
     {
@@ -12640,7 +12640,7 @@
       "notes": [],
       "work_passage_id": "agr:109",
       "html_path": "works/agr/index.html#p-109",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-109",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-109",
       "alignment_revision": "sha256:a08856fc5ef78e5c22fd77e93c2e4a18b2f34e134fd79522d7c860c0a52f7e2a",
       "review_state": {
         "human_reviewed": false,
@@ -12676,9 +12676,9 @@
         "work": "농사에 관하여",
         "reference": "109",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:5d8732b2d908b4a105cbdd33aa4e5d7dcde27aaa18b209aeed07e64855041d0f",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-109"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-109"
       }
     },
     {
@@ -12764,7 +12764,7 @@
       "notes": [],
       "work_passage_id": "agr:110",
       "html_path": "works/agr/index.html#p-110",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-110",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-110",
       "alignment_revision": "sha256:40f24438c5414758c58523f655794f88a47db038c07c421c9b76b2d88faa3047",
       "review_state": {
         "human_reviewed": false,
@@ -12800,9 +12800,9 @@
         "work": "농사에 관하여",
         "reference": "110",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:20e081aad7ee86c0e6883a55469f997d7bb36af4ca43a5aa9c7c6f7589527770",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-110"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-110"
       }
     },
     {
@@ -12875,7 +12875,7 @@
       "notes": [],
       "work_passage_id": "agr:111",
       "html_path": "works/agr/index.html#p-111",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-111",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-111",
       "alignment_revision": "sha256:08990c0ff96766b9a419b843db69fcb89851111b147c7ebfe354a8a26948479f",
       "review_state": {
         "human_reviewed": false,
@@ -12911,9 +12911,9 @@
         "work": "농사에 관하여",
         "reference": "111",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:1600aab34664135728ca814cc742bc47d216162360575ff9897c330ef5e4b824",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-111"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-111"
       }
     },
     {
@@ -13025,7 +13025,7 @@
       "notes": [],
       "work_passage_id": "agr:112",
       "html_path": "works/agr/index.html#p-112",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-112",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-112",
       "alignment_revision": "sha256:8c7ec1b696e48d4187621f994a26e142928f432fc596f0d8651527a16aecadeb",
       "review_state": {
         "human_reviewed": false,
@@ -13061,9 +13061,9 @@
         "work": "농사에 관하여",
         "reference": "112",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:bd04ff8ddbf6a9b35c5993d74672140151ad3867777640cd86152e02eefc1b31",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-112"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-112"
       }
     },
     {
@@ -13141,7 +13141,7 @@
       ],
       "work_passage_id": "agr:113",
       "html_path": "works/agr/index.html#p-113",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-113",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-113",
       "alignment_revision": "sha256:c738848c5665739ffba7e0b8196619b1763e8b9dcef24e2fd554b59e06c94019",
       "review_state": {
         "human_reviewed": false,
@@ -13177,9 +13177,9 @@
         "work": "농사에 관하여",
         "reference": "113",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:587c7b4011ca78e6e515e2161f09b4916b9569caa186d5a3e820af3432bb2e4c",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-113"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-113"
       }
     },
     {
@@ -13265,7 +13265,7 @@
       "notes": [],
       "work_passage_id": "agr:114",
       "html_path": "works/agr/index.html#p-114",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-114",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-114",
       "alignment_revision": "sha256:328d464a06437ad1dca3a423e7ee905838f3b2511048807b0811acd7181dde98",
       "review_state": {
         "human_reviewed": false,
@@ -13301,9 +13301,9 @@
         "work": "농사에 관하여",
         "reference": "114",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:a974abcefb09f5b0cc3adb36f34e94509cb431613e5c4d694d9972fb4a1794c9",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-114"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-114"
       }
     },
     {
@@ -13363,7 +13363,7 @@
       "notes": [],
       "work_passage_id": "agr:115",
       "html_path": "works/agr/index.html#p-115",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-115",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-115",
       "alignment_revision": "sha256:6841544a16fe20e41197cdb7bb05afee78c774ed219760f2fe698b431def8a01",
       "review_state": {
         "human_reviewed": false,
@@ -13399,9 +13399,9 @@
         "work": "농사에 관하여",
         "reference": "115",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:77f2ecb5920f094a0fedaed0aa70ab2fc877eb603eb8ecba6672bfcc53ea4029",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-115"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-115"
       }
     },
     {
@@ -13461,7 +13461,7 @@
       "notes": [],
       "work_passage_id": "agr:116",
       "html_path": "works/agr/index.html#p-116",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-116",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-116",
       "alignment_revision": "sha256:3a62d64f4f1abcd9f3373023c9e2387a33dd4c098d7edff87665a1caeb6e3759",
       "review_state": {
         "human_reviewed": false,
@@ -13497,9 +13497,9 @@
         "work": "농사에 관하여",
         "reference": "116",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:d1a8600b064947a61dcddb219f899137b5c4fc78f823ccabf119830ec9fa284a",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-116"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-116"
       }
     },
     {
@@ -13559,7 +13559,7 @@
       "notes": [],
       "work_passage_id": "agr:117",
       "html_path": "works/agr/index.html#p-117",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-117",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-117",
       "alignment_revision": "sha256:0b574adcef5512d988634529d0a530605f2140c6f8b71bea10ec2bf6370d6472",
       "review_state": {
         "human_reviewed": false,
@@ -13595,9 +13595,9 @@
         "work": "농사에 관하여",
         "reference": "117",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:c460d12e1f44e5d5225d8e38498227514dddbc86dbba25c00f8af0d65e59fad6",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-117"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-117"
       }
     },
     {
@@ -13686,7 +13686,7 @@
       "notes": [],
       "work_passage_id": "agr:118",
       "html_path": "works/agr/index.html#p-118",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-118",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-118",
       "alignment_revision": "sha256:6512dbd723f0e109ee62cbd7f41411620c15bcd06b376adc5a9b607986fe71fa",
       "review_state": {
         "human_reviewed": false,
@@ -13722,9 +13722,9 @@
         "work": "농사에 관하여",
         "reference": "118",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:a0f7c7f66cdda7cae1ee7648de4ae78bce4c139c1bfb930b171cb445bf1c8d78",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-118"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-118"
       }
     },
     {
@@ -13797,7 +13797,7 @@
       "notes": [],
       "work_passage_id": "agr:119",
       "html_path": "works/agr/index.html#p-119",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-119",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-119",
       "alignment_revision": "sha256:f3c009b063fe8b57e6da8c405fd44f6c04a0dba00ebbd31579ec3f545d67e9dd",
       "review_state": {
         "human_reviewed": false,
@@ -13833,9 +13833,9 @@
         "work": "농사에 관하여",
         "reference": "119",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:bc26496181567dc06f9a9e1da00b81104bd466476ffa2e9edb2f573760b9aee6",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-119"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-119"
       }
     },
     {
@@ -13895,7 +13895,7 @@
       "notes": [],
       "work_passage_id": "agr:120",
       "html_path": "works/agr/index.html#p-120",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-120",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-120",
       "alignment_revision": "sha256:af0f47a81687295d15a4193f23e44da1a250efe03db427c9cbdd9fe3d6a0db0f",
       "review_state": {
         "human_reviewed": false,
@@ -13931,9 +13931,9 @@
         "work": "농사에 관하여",
         "reference": "120",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:b799689910437bc22613961fe37eb6f096ebafc193d1d1dc6606ca246f912b1b",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-120"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-120"
       }
     },
     {
@@ -14019,7 +14019,7 @@
       "notes": [],
       "work_passage_id": "agr:121",
       "html_path": "works/agr/index.html#p-121",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-121",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-121",
       "alignment_revision": "sha256:7b9303b0229c6f68afcee516d569175dc2765877ed98bd1d79a0ca21153c1463",
       "review_state": {
         "human_reviewed": false,
@@ -14055,9 +14055,9 @@
         "work": "농사에 관하여",
         "reference": "121",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:33180df378124cc27aeaef1f8752d9d600ca2cb028a0e1ef6156d660977c8d28",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-121"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-121"
       }
     },
     {
@@ -14145,7 +14145,7 @@
       ],
       "work_passage_id": "agr:122",
       "html_path": "works/agr/index.html#p-122",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-122",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-122",
       "alignment_revision": "sha256:0612d377c15c37066451a189156ff28fb3d45fdfb6078c3202287f6281bdff50",
       "review_state": {
         "human_reviewed": false,
@@ -14181,9 +14181,9 @@
         "work": "농사에 관하여",
         "reference": "122",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:0d225b3ce64822fe59303084cf264e902caba1c3a93e86750c9357b520b67352",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-122"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-122"
       }
     },
     {
@@ -14274,7 +14274,7 @@
       ],
       "work_passage_id": "agr:123",
       "html_path": "works/agr/index.html#p-123",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-123",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-123",
       "alignment_revision": "sha256:0aa7877f52227e8cb9d87d36148e2e6096d4a61f12423c6dcb7140eea8e5d136",
       "review_state": {
         "human_reviewed": false,
@@ -14310,9 +14310,9 @@
         "work": "농사에 관하여",
         "reference": "123",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:6c624f939a53435b5202e4066658a0c9ddf38a08653f75d73cf9bba85e6a3086",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-123"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-123"
       }
     },
     {
@@ -14372,7 +14372,7 @@
       "notes": [],
       "work_passage_id": "agr:124",
       "html_path": "works/agr/index.html#p-124",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-124",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-124",
       "alignment_revision": "sha256:f9f96da6d1f6e451711ecdcde0636af25166b457f8d21674bd61af1ee102e54e",
       "review_state": {
         "human_reviewed": false,
@@ -14408,9 +14408,9 @@
         "work": "농사에 관하여",
         "reference": "124",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:e12dd85a0f379fa8b8ba7d1223cd551d837a820cbba4516eacb6ad8c243dc0a4",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-124"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-124"
       }
     },
     {
@@ -14509,7 +14509,7 @@
       "notes": [],
       "work_passage_id": "agr:125",
       "html_path": "works/agr/index.html#p-125",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-125",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-125",
       "alignment_revision": "sha256:b0da237419de43a2d145196e854694b15658fb5c7019730b91cee9bc51114cc6",
       "review_state": {
         "human_reviewed": false,
@@ -14545,9 +14545,9 @@
         "work": "농사에 관하여",
         "reference": "125",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:f6e47790622ef86a0aa5d24d1f1437d506012b57fcd39e64e699e063486937e7",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-125"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-125"
       }
     },
     {
@@ -14607,7 +14607,7 @@
       "notes": [],
       "work_passage_id": "agr:126",
       "html_path": "works/agr/index.html#p-126",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-126",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-126",
       "alignment_revision": "sha256:fbefc8fdbd63d72fb9f613861885ac6cea3b4fa980eda96581f6db676cd3c842",
       "review_state": {
         "human_reviewed": false,
@@ -14643,9 +14643,9 @@
         "work": "농사에 관하여",
         "reference": "126",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:1054007238db4a755159fb9172ab58775c572a605e0a77a15eee1cd2b1e515a5",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-126"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-126"
       }
     },
     {
@@ -14720,7 +14720,7 @@
       ],
       "work_passage_id": "agr:127",
       "html_path": "works/agr/index.html#p-127",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-127",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-127",
       "alignment_revision": "sha256:6425b942395963bf5efaa030d2d93379e88dfd1dbe1b430ee6430aec773c5c1f",
       "review_state": {
         "human_reviewed": false,
@@ -14756,9 +14756,9 @@
         "work": "농사에 관하여",
         "reference": "127",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:9938b359b593ddbc667875f622d1a480766292dc18f2406306a7f34c45976678",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-127"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-127"
       }
     },
     {
@@ -14831,7 +14831,7 @@
       "notes": [],
       "work_passage_id": "agr:128",
       "html_path": "works/agr/index.html#p-128",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-128",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-128",
       "alignment_revision": "sha256:b292120880c44b239e7da784dcf28626d61aea8ed1c28416fae2e46558a02871",
       "review_state": {
         "human_reviewed": false,
@@ -14867,9 +14867,9 @@
         "work": "농사에 관하여",
         "reference": "128",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:a7bd2190a4f1d65a8cb1afa8f8f0a05912cbcbd464084468e979031a8dfa88b7",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-128"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-128"
       }
     },
     {
@@ -14945,7 +14945,7 @@
       "notes": [],
       "work_passage_id": "agr:129",
       "html_path": "works/agr/index.html#p-129",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-129",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-129",
       "alignment_revision": "sha256:75de9a436bb5919690b479b31404665a2d29eba249b90bb8ea11a22dad62c954",
       "review_state": {
         "human_reviewed": false,
@@ -14981,9 +14981,9 @@
         "work": "농사에 관하여",
         "reference": "129",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:6a01ca519919e39f7e48a033d7a64663dcd8cb8dc64c74c9652b423311e6bf72",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-129"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-129"
       }
     },
     {
@@ -15071,7 +15071,7 @@
       ],
       "work_passage_id": "agr:130",
       "html_path": "works/agr/index.html#p-130",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-130",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-130",
       "alignment_revision": "sha256:8261e1a7c7c7bae5e5c930190a777dfe29c21ed8d590551ce2edf04540c8c580",
       "review_state": {
         "human_reviewed": false,
@@ -15107,9 +15107,9 @@
         "work": "농사에 관하여",
         "reference": "130",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:4594d484615a62c9efd1f348f4d173220c11c9d53d0d9e91d19cf8184238a7fb",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-130"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-130"
       }
     },
     {
@@ -15184,7 +15184,7 @@
       ],
       "work_passage_id": "agr:131",
       "html_path": "works/agr/index.html#p-131",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-131",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-131",
       "alignment_revision": "sha256:5b31b23482131748c2c573fa1ed16115506637e0becc1b457f970b63d034ce3e",
       "review_state": {
         "human_reviewed": false,
@@ -15220,9 +15220,9 @@
         "work": "농사에 관하여",
         "reference": "131",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:e2a3b871b5068867d4bdbe40ed0b4b169951e9d510d15938642976a45aae30f8",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-131"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-131"
       }
     },
     {
@@ -15295,7 +15295,7 @@
       "notes": [],
       "work_passage_id": "agr:132",
       "html_path": "works/agr/index.html#p-132",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-132",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-132",
       "alignment_revision": "sha256:4147bf040a6aa13bdb0e5438c2c0bc22495102dfb3d73d0df1b8f07704e7def5",
       "review_state": {
         "human_reviewed": false,
@@ -15331,9 +15331,9 @@
         "work": "농사에 관하여",
         "reference": "132",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:c4e544fdadbfc4b76c7f443857bb75980a13c59fcdd83205e48ee002b9caabcc",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-132"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-132"
       }
     },
     {
@@ -15409,7 +15409,7 @@
       ],
       "work_passage_id": "agr:133",
       "html_path": "works/agr/index.html#p-133",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-133",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-133",
       "alignment_revision": "sha256:b30ae5018baafad032c747f3794bd0a587a25f245b7dd672d7c259300798f77f",
       "review_state": {
         "human_reviewed": false,
@@ -15445,9 +15445,9 @@
         "work": "농사에 관하여",
         "reference": "133",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:f33f2f0e307fa11cc93454217eaa022acee5e64a62f0e817360f3a4424d44749",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-133"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-133"
       }
     },
     {
@@ -15525,7 +15525,7 @@
       ],
       "work_passage_id": "agr:134",
       "html_path": "works/agr/index.html#p-134",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-134",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-134",
       "alignment_revision": "sha256:35141173445305085bb81e6a32e8bab84f230ade6939348e2d5a81f43803e5a4",
       "review_state": {
         "human_reviewed": false,
@@ -15561,9 +15561,9 @@
         "work": "농사에 관하여",
         "reference": "134",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:e7f56e77948123035854e1f86d52adee5ca8964b61626c6da501ec1e0b7f4909",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-134"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-134"
       }
     },
     {
@@ -15623,7 +15623,7 @@
       "notes": [],
       "work_passage_id": "agr:135",
       "html_path": "works/agr/index.html#p-135",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-135",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-135",
       "alignment_revision": "sha256:4808dab4a0c236c4a4710a809e9b9bc2877a8a35719b78e9217a22c5dc611433",
       "review_state": {
         "human_reviewed": false,
@@ -15659,9 +15659,9 @@
         "work": "농사에 관하여",
         "reference": "135",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:b19676186f0e761b3e79bf917ca3155d76bbbc2720a1d7c5b51e79ea0ec51f23",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-135"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-135"
       }
     },
     {
@@ -15749,7 +15749,7 @@
       ],
       "work_passage_id": "agr:136",
       "html_path": "works/agr/index.html#p-136",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-136",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-136",
       "alignment_revision": "sha256:f921ec080547e019a5c19f5b843cae2463784399d74d4967fff1e562793b2140",
       "review_state": {
         "human_reviewed": false,
@@ -15785,9 +15785,9 @@
         "work": "농사에 관하여",
         "reference": "136",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:add4b2c5836d9256ac86c5b9d34662a5469ab42b435da69eb3afcd40faf21a36",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-136"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-136"
       }
     },
     {
@@ -15849,7 +15849,7 @@
       ],
       "work_passage_id": "agr:137",
       "html_path": "works/agr/index.html#p-137",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-137",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-137",
       "alignment_revision": "sha256:f926429f4707a2f583502d000b357347c658273d831b6cae2995890c7dbdc001",
       "review_state": {
         "human_reviewed": false,
@@ -15885,9 +15885,9 @@
         "work": "농사에 관하여",
         "reference": "137",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:54180e55ce008f4a9f8cd04d529fece104852e368a68abb6738040d855984d06",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-137"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-137"
       }
     },
     {
@@ -15947,7 +15947,7 @@
       "notes": [],
       "work_passage_id": "agr:138",
       "html_path": "works/agr/index.html#p-138",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-138",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-138",
       "alignment_revision": "sha256:5180828bf767da500d2ab2df4cade61db0b06d6670fc13f99186e95a721185f5",
       "review_state": {
         "human_reviewed": false,
@@ -15983,9 +15983,9 @@
         "work": "농사에 관하여",
         "reference": "138",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:581535ae1f63639f8982ed1a706004fbecd0dd16a6bfdab25d8d21c948275e91",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-138"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-138"
       }
     },
     {
@@ -16058,7 +16058,7 @@
       "notes": [],
       "work_passage_id": "agr:139",
       "html_path": "works/agr/index.html#p-139",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-139",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-139",
       "alignment_revision": "sha256:bcd6cf142eb8e71b9d82195279e5e098a335a8e3a5aae1a3db61f373da7d9b7a",
       "review_state": {
         "human_reviewed": false,
@@ -16094,9 +16094,9 @@
         "work": "농사에 관하여",
         "reference": "139",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:0cf2f0dfff2cd9b307d03f91fb084ede940f22431ae57232aa48ff2f1038dfa9",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-139"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-139"
       }
     },
     {
@@ -16187,7 +16187,7 @@
       ],
       "work_passage_id": "agr:140",
       "html_path": "works/agr/index.html#p-140",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-140",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-140",
       "alignment_revision": "sha256:66468a40b980f7472a7a5a2704a0f9550e67b687925474c8731be97d7843a789",
       "review_state": {
         "human_reviewed": false,
@@ -16223,9 +16223,9 @@
         "work": "농사에 관하여",
         "reference": "140",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:55f930602382d2070a51ea4a86015e5eb8745906171cbbef450f5aa443aacf9a",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-140"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-140"
       }
     },
     {
@@ -16300,7 +16300,7 @@
       ],
       "work_passage_id": "agr:141",
       "html_path": "works/agr/index.html#p-141",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-141",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-141",
       "alignment_revision": "sha256:0cc4b7fbaa810a29e72630f8ee3f4a53baf579c88dce02abe416f1560c89f98e",
       "review_state": {
         "human_reviewed": false,
@@ -16336,9 +16336,9 @@
         "work": "농사에 관하여",
         "reference": "141",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:13c8a88449ae3169e7a91e8b5491b87339ac5807652fc46707ff8d927e652f83",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-141"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-141"
       }
     },
     {
@@ -16411,7 +16411,7 @@
       "notes": [],
       "work_passage_id": "agr:142",
       "html_path": "works/agr/index.html#p-142",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-142",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-142",
       "alignment_revision": "sha256:f09d41c68a3625cf220339ae88833e1682dc51e5cbcf8af4276a82d81c6719f0",
       "review_state": {
         "human_reviewed": false,
@@ -16447,9 +16447,9 @@
         "work": "농사에 관하여",
         "reference": "142",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:5f6bd12e78fd07c207e809e2852d61bdbd7ab9c511f8e44411ced8013007c767",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-142"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-142"
       }
     },
     {
@@ -16509,7 +16509,7 @@
       "notes": [],
       "work_passage_id": "agr:143",
       "html_path": "works/agr/index.html#p-143",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-143",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-143",
       "alignment_revision": "sha256:70f2bedfbf7936ca8afc65880ab33f46005bef2b0021708379c0b1d73f3735c9",
       "review_state": {
         "human_reviewed": false,
@@ -16545,9 +16545,9 @@
         "work": "농사에 관하여",
         "reference": "143",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:c1af0c26dc39740e1532b3ffaa9195ab557abcc57d8130a790643381e7f24912",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-143"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-143"
       }
     },
     {
@@ -16610,7 +16610,7 @@
       "notes": [],
       "work_passage_id": "agr:144",
       "html_path": "works/agr/index.html#p-144",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-144",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-144",
       "alignment_revision": "sha256:fc83cc82d8b41201a400a11f164b2b3e7f72d9de612815f39df08c07c9374786",
       "review_state": {
         "human_reviewed": false,
@@ -16646,9 +16646,9 @@
         "work": "농사에 관하여",
         "reference": "144",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:9114639e01cb9079846d5c1964056d404a23cebba71f8aa4d342d6ee2ae81d71",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-144"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-144"
       }
     },
     {
@@ -16723,7 +16723,7 @@
       ],
       "work_passage_id": "agr:145",
       "html_path": "works/agr/index.html#p-145",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-145",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-145",
       "alignment_revision": "sha256:2f473fd8c78f93beb6d4cd0f8224beb5603931cf67e64a88a16804357521330c",
       "review_state": {
         "human_reviewed": false,
@@ -16759,9 +16759,9 @@
         "work": "농사에 관하여",
         "reference": "145",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:21bc9d6d280b228d8f856818d8d95f6f0972b49ec7013f2fabad489ce7b12768",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-145"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-145"
       }
     },
     {
@@ -16834,7 +16834,7 @@
       "notes": [],
       "work_passage_id": "agr:146",
       "html_path": "works/agr/index.html#p-146",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-146",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-146",
       "alignment_revision": "sha256:24a4a14048deef02d0ff68b0d5670260c92e4454cd38c328764801e7719c4a63",
       "review_state": {
         "human_reviewed": false,
@@ -16870,9 +16870,9 @@
         "work": "농사에 관하여",
         "reference": "146",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:2cc2986b21163be349b72e5bab9fcea1ca5c0991cdeb49ee571c87d8b2668494",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-146"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-146"
       }
     },
     {
@@ -16932,7 +16932,7 @@
       "notes": [],
       "work_passage_id": "agr:147",
       "html_path": "works/agr/index.html#p-147",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-147",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-147",
       "alignment_revision": "sha256:0c2405999a7aeccac7e14452fec8ceb11e0e593b233c7f773977da84cba1c649",
       "review_state": {
         "human_reviewed": false,
@@ -16968,9 +16968,9 @@
         "work": "농사에 관하여",
         "reference": "147",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:25236318e81a38f763f3d1e65611f639cd1dedeb255a0af39be0507070ca50dd",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-147"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-147"
       }
     },
     {
@@ -17097,7 +17097,7 @@
       ],
       "work_passage_id": "agr:148",
       "html_path": "works/agr/index.html#p-148",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-148",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-148",
       "alignment_revision": "sha256:c1bcd2ddede48e811b6384223e90aad9d71de2b351c7d4d4f38033587af91de1",
       "review_state": {
         "human_reviewed": false,
@@ -17133,9 +17133,9 @@
         "work": "농사에 관하여",
         "reference": "148",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:890e410680a58932de2ec4ec94affac867477ed3d35cdcf4d9f11cc12e2b168b",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-148"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-148"
       }
     },
     {
@@ -17211,7 +17211,7 @@
       "notes": [],
       "work_passage_id": "agr:149",
       "html_path": "works/agr/index.html#p-149",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-149",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-149",
       "alignment_revision": "sha256:bee1753471c5911e2e5dcd382f9bfa7397eb2e5905194bedcb3395c781b86bd9",
       "review_state": {
         "human_reviewed": false,
@@ -17247,9 +17247,9 @@
         "work": "농사에 관하여",
         "reference": "149",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:a677818269f769d91ce9a3d0ce40980b8a9b49661e10e5a2d044a08a3d01800c",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-149"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-149"
       }
     },
     {
@@ -17335,7 +17335,7 @@
       "notes": [],
       "work_passage_id": "agr:150",
       "html_path": "works/agr/index.html#p-150",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-150",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-150",
       "alignment_revision": "sha256:2f55463b4a0b4470b5347a8258e2a80f79da829504b1b9dc19c4751f4cca9cb0",
       "review_state": {
         "human_reviewed": false,
@@ -17371,9 +17371,9 @@
         "work": "농사에 관하여",
         "reference": "150",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:1af11f0e7de93ed6b1e4d3f04db2e60d8dc08e6bfb840478d52b4cf5e59be803",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-150"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-150"
       }
     },
     {
@@ -17446,7 +17446,7 @@
       "notes": [],
       "work_passage_id": "agr:151",
       "html_path": "works/agr/index.html#p-151",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-151",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-151",
       "alignment_revision": "sha256:541e7f3b1418f5ef06bb4efc2f1ed390f698d6cf5b7e46deceadc417e42ba01a",
       "review_state": {
         "human_reviewed": false,
@@ -17482,9 +17482,9 @@
         "work": "농사에 관하여",
         "reference": "151",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:3b4953916be4b6030179cded0d3b0d7c03e40d6fcd1a6c7328565385cd3b42f8",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-151"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-151"
       }
     },
     {
@@ -17601,7 +17601,7 @@
       ],
       "work_passage_id": "agr:152",
       "html_path": "works/agr/index.html#p-152",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-152",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-152",
       "alignment_revision": "sha256:90d92bd85683e7cd79b22f9548ce74ecf3ae3b5326154e17e3c8776a0e26d412",
       "review_state": {
         "human_reviewed": false,
@@ -17637,9 +17637,9 @@
         "work": "농사에 관하여",
         "reference": "152",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:1c807bf3607edb70c39ba7730eb5de05ce0a2dc4ce8df31f680cbb52145f9df9",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-152"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-152"
       }
     },
     {
@@ -17701,7 +17701,7 @@
       ],
       "work_passage_id": "agr:153",
       "html_path": "works/agr/index.html#p-153",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-153",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-153",
       "alignment_revision": "sha256:0fd2a148915b242cfbba558a13bd736d52c9e8654652c92c9b48bdd280eb71a0",
       "review_state": {
         "human_reviewed": false,
@@ -17737,9 +17737,9 @@
         "work": "농사에 관하여",
         "reference": "153",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:1cdd58e0c9a92019fb0f97579fcc1d971779d07b59d9090911a7cf4971097580",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-153"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-153"
       }
     },
     {
@@ -17812,7 +17812,7 @@
       "notes": [],
       "work_passage_id": "agr:154",
       "html_path": "works/agr/index.html#p-154",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-154",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-154",
       "alignment_revision": "sha256:df66c9a8210d028f3ec210b7f2609c429c5903c3063bdff30ae2c5fbb5881267",
       "review_state": {
         "human_reviewed": false,
@@ -17848,9 +17848,9 @@
         "work": "농사에 관하여",
         "reference": "154",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:590e3468a5ee325cd90881a89fcbef550c33c0ae8b2cd8d3e1ec273c54340848",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-154"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-154"
       }
     },
     {
@@ -17923,7 +17923,7 @@
       "notes": [],
       "work_passage_id": "agr:155",
       "html_path": "works/agr/index.html#p-155",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-155",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-155",
       "alignment_revision": "sha256:413894883608422cd48144cc923597a7e30ee4a3db77216d89e71e6b034a2846",
       "review_state": {
         "human_reviewed": false,
@@ -17959,9 +17959,9 @@
         "work": "농사에 관하여",
         "reference": "155",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:5e0fc26c5f1512aba927a4918044f7a2a9e2123ca5d31f847d3339e761314986",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-155"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-155"
       }
     },
     {
@@ -18034,7 +18034,7 @@
       "notes": [],
       "work_passage_id": "agr:156",
       "html_path": "works/agr/index.html#p-156",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-156",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-156",
       "alignment_revision": "sha256:6c9c48889500ba25b4d225c22a7f8879965dc84bb2856fad2ddd0e491876b8b8",
       "review_state": {
         "human_reviewed": false,
@@ -18070,9 +18070,9 @@
         "work": "농사에 관하여",
         "reference": "156",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:c7fb2cbe62a5191d8573b32c3c915424f26f8f48ab2cec80c17040f3dd77f74d",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-156"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-156"
       }
     },
     {
@@ -18187,7 +18187,7 @@
       "notes": [],
       "work_passage_id": "agr:157",
       "html_path": "works/agr/index.html#p-157",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-157",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-157",
       "alignment_revision": "sha256:0d217ef6959783e750949cd2868826692b7bc1baaeff7f882a5a5c7885300aca",
       "review_state": {
         "human_reviewed": false,
@@ -18223,9 +18223,9 @@
         "work": "농사에 관하여",
         "reference": "157",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:0bab4ed0f0f65744368aabb4300ee1078bd782d555962fe5ec77273488a2b240",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-157"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-157"
       }
     },
     {
@@ -18300,7 +18300,7 @@
       ],
       "work_passage_id": "agr:158",
       "html_path": "works/agr/index.html#p-158",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-158",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-158",
       "alignment_revision": "sha256:afb11f5a3897c5094118252a1be35349326af72b10c0afac200734fd1230d825",
       "review_state": {
         "human_reviewed": false,
@@ -18336,9 +18336,9 @@
         "work": "농사에 관하여",
         "reference": "158",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:5d81ba353d508b39c9e8ee22fa3bd8e61ed58d834f8932ac1b873333755b60c7",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-158"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-158"
       }
     },
     {
@@ -18398,7 +18398,7 @@
       "notes": [],
       "work_passage_id": "agr:159",
       "html_path": "works/agr/index.html#p-159",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-159",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-159",
       "alignment_revision": "sha256:3b1313aa0037e42ae4915f999be3febd3215798db7bb47f875b5408ccf105d23",
       "review_state": {
         "human_reviewed": false,
@@ -18434,9 +18434,9 @@
         "work": "농사에 관하여",
         "reference": "159",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:c1747d595952b4cc6dbf5ac789077740e520ca51a68d78a689690b680a93a62d",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-159"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-159"
       }
     },
     {
@@ -18511,7 +18511,7 @@
       ],
       "work_passage_id": "agr:160",
       "html_path": "works/agr/index.html#p-160",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-160",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-160",
       "alignment_revision": "sha256:6c1ee9cfbaa44fc41ed68f4b00e74691ff52352c1818fc91c4a4decc9e2ee671",
       "review_state": {
         "human_reviewed": false,
@@ -18547,9 +18547,9 @@
         "work": "농사에 관하여",
         "reference": "160",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:1407c40a89e17e49526c8116c0d45a238744567936dc8d77417b92f12c940986",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-160"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-160"
       }
     },
     {
@@ -18640,7 +18640,7 @@
       ],
       "work_passage_id": "agr:161",
       "html_path": "works/agr/index.html#p-161",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-161",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-161",
       "alignment_revision": "sha256:3eb6ce74de46c8868dab3113a8d25bc02996bb37d83a65c353c884f9fb200380",
       "review_state": {
         "human_reviewed": false,
@@ -18676,9 +18676,9 @@
         "work": "농사에 관하여",
         "reference": "161",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:4ba754c7108c7284b30783c01e2750a0c8da24e640d170aff8a4890370dda69b",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-161"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-161"
       }
     },
     {
@@ -18751,7 +18751,7 @@
       "notes": [],
       "work_passage_id": "agr:162",
       "html_path": "works/agr/index.html#p-162",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-162",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-162",
       "alignment_revision": "sha256:6e63053a0c1b366ceb07c8e1ab39f6651f604c2086a0553d09ee0daa232d5667",
       "review_state": {
         "human_reviewed": false,
@@ -18787,9 +18787,9 @@
         "work": "농사에 관하여",
         "reference": "162",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:c41a67f0409dd19aac040bf0ff72c9e967110670a574001de389aac7c561e67c",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-162"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-162"
       }
     },
     {
@@ -18849,7 +18849,7 @@
       "notes": [],
       "work_passage_id": "agr:163",
       "html_path": "works/agr/index.html#p-163",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-163",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-163",
       "alignment_revision": "sha256:74e9ff335d40ce8bd39b4b967cfe7807810aad885bbc4ddb4864063e225adc4a",
       "review_state": {
         "human_reviewed": false,
@@ -18885,9 +18885,9 @@
         "work": "농사에 관하여",
         "reference": "163",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:d19fa34b5a96db8111d26c261cef50945ed20d8bfae294d9a61bf521787fe891",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-163"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-163"
       }
     },
     {
@@ -18960,7 +18960,7 @@
       "notes": [],
       "work_passage_id": "agr:164",
       "html_path": "works/agr/index.html#p-164",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-164",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-164",
       "alignment_revision": "sha256:8e09078604c516fabc94fb78b24b3aad5b4b42ad943d603f851d3d604a8921a3",
       "review_state": {
         "human_reviewed": false,
@@ -18996,9 +18996,9 @@
         "work": "농사에 관하여",
         "reference": "164",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:ccb4d2b827309f30f40b7f4797f76a1566fcafae9916de5572aabea9b0e0c3e5",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-164"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-164"
       }
     },
     {
@@ -19071,7 +19071,7 @@
       "notes": [],
       "work_passage_id": "agr:165",
       "html_path": "works/agr/index.html#p-165",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-165",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-165",
       "alignment_revision": "sha256:a9880420f56513d8d8a5adaca5d4783f16bccfd8573e57fd2895881d5d25cd45",
       "review_state": {
         "human_reviewed": false,
@@ -19107,9 +19107,9 @@
         "work": "농사에 관하여",
         "reference": "165",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:07fd012538006666efc79f5c1709d19d23f48846b864d848c85b3fd0c6b19665",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-165"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-165"
       }
     },
     {
@@ -19200,7 +19200,7 @@
       ],
       "work_passage_id": "agr:166",
       "html_path": "works/agr/index.html#p-166",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-166",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-166",
       "alignment_revision": "sha256:f7cdffc33e20dcbc9104e0cb136a7fb7d5108dacb00f9e9066fa2cdaf96b028f",
       "review_state": {
         "human_reviewed": false,
@@ -19236,9 +19236,9 @@
         "work": "농사에 관하여",
         "reference": "166",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:ccb361a68393335021802215f0016084012964880f87fe98955f77f2811c7c7e",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-166"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-166"
       }
     },
     {
@@ -19326,7 +19326,7 @@
       ],
       "work_passage_id": "agr:167",
       "html_path": "works/agr/index.html#p-167",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-167",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-167",
       "alignment_revision": "sha256:6a45e6a8247cd86f065966918c855f8921634adbbb034d70dde3a611e7919569",
       "review_state": {
         "human_reviewed": false,
@@ -19362,9 +19362,9 @@
         "work": "농사에 관하여",
         "reference": "167",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:199b307cc6973492da1acf48b9d9994c8a5faa6747c83cc4e1f2fa8c0b488b5a",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-167"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-167"
       }
     },
     {
@@ -19437,7 +19437,7 @@
       "notes": [],
       "work_passage_id": "agr:168",
       "html_path": "works/agr/index.html#p-168",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-168",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-168",
       "alignment_revision": "sha256:431d4466e03ffdaafca7fa4069c346b907f3c90d1efb61f0950e9fc5417bb9a7",
       "review_state": {
         "human_reviewed": false,
@@ -19473,9 +19473,9 @@
         "work": "농사에 관하여",
         "reference": "168",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:247c8b0ada7d23faa0691f81a697bb2c397080de4bc3f8674b726f88ba9bf9fb",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-168"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-168"
       }
     },
     {
@@ -19563,7 +19563,7 @@
       ],
       "work_passage_id": "agr:169",
       "html_path": "works/agr/index.html#p-169",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-169",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-169",
       "alignment_revision": "sha256:23a64dd35b782a54e38cc34553167bc13b42cd46389e64bf8629c441e96fe8dc",
       "review_state": {
         "human_reviewed": false,
@@ -19599,9 +19599,9 @@
         "work": "농사에 관하여",
         "reference": "169",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:800f9490cc051b05f954b9f937e7cc1c7dae8093507793f02721e01ec9a984a5",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-169"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-169"
       }
     },
     {
@@ -19663,7 +19663,7 @@
       ],
       "work_passage_id": "agr:170",
       "html_path": "works/agr/index.html#p-170",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-170",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-170",
       "alignment_revision": "sha256:8220a0d419f00397989c6621bc01b3f7a17f2c923339d0867bed7ec5fef7172b",
       "review_state": {
         "human_reviewed": false,
@@ -19699,9 +19699,9 @@
         "work": "농사에 관하여",
         "reference": "170",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:5ff009cd4cc1456b4767364a6f35f3134ceddfbc266c4a72b15b9e42d2916cd1",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-170"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-170"
       }
     },
     {
@@ -19790,7 +19790,7 @@
       "notes": [],
       "work_passage_id": "agr:171",
       "html_path": "works/agr/index.html#p-171",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-171",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-171",
       "alignment_revision": "sha256:e71dcd0542509ac0dff55761e4207c39de3ae021cc2726c62002680a9ca4bdbb",
       "review_state": {
         "human_reviewed": false,
@@ -19826,9 +19826,9 @@
         "work": "농사에 관하여",
         "reference": "171",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:2e700e7bd78aaae274400ba1229427b8fff867fb9159f39a79ba8c874a436d2e",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-171"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-171"
       }
     },
     {
@@ -19890,7 +19890,7 @@
       ],
       "work_passage_id": "agr:172",
       "html_path": "works/agr/index.html#p-172",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-172",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-172",
       "alignment_revision": "sha256:3ced82f67752fd52272b5a4e0e47bb5a5d37da0da1441bf0db28173fc10f2adf",
       "review_state": {
         "human_reviewed": false,
@@ -19926,9 +19926,9 @@
         "work": "농사에 관하여",
         "reference": "172",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:eb6c3063e3810f64323f5bc186e55d39fe361e69a3664192256b5eb30c7abf69",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-172"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-172"
       }
     },
     {
@@ -20003,7 +20003,7 @@
       ],
       "work_passage_id": "agr:173",
       "html_path": "works/agr/index.html#p-173",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-173",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-173",
       "alignment_revision": "sha256:70d422344da6c7ed811cddc1ac704400959459d915907b08f2942aed4e0d27d4",
       "review_state": {
         "human_reviewed": false,
@@ -20039,9 +20039,9 @@
         "work": "농사에 관하여",
         "reference": "173",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:f67afc61134ebdfe0e808033d1f6173e1536589f9a7b2a80e980d80e448fdb30",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-173"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-173"
       }
     },
     {
@@ -20114,7 +20114,7 @@
       "notes": [],
       "work_passage_id": "agr:174",
       "html_path": "works/agr/index.html#p-174",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-174",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-174",
       "alignment_revision": "sha256:70475024909889db661d477ac8f8483559f4ca9dcba6f0c28e70f703a00ecefe",
       "review_state": {
         "human_reviewed": false,
@@ -20150,9 +20150,9 @@
         "work": "농사에 관하여",
         "reference": "174",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:10ccbdb0320e42c737763652f030b98695de8a9e81c30ba7a9e7d2b8a94478b6",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-174"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-174"
       }
     },
     {
@@ -20243,7 +20243,7 @@
       ],
       "work_passage_id": "agr:175",
       "html_path": "works/agr/index.html#p-175",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-175",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-175",
       "alignment_revision": "sha256:aa1a1cd875970edb8969a4d720d4a2518651c4581c291e28e8af351c4a511ce9",
       "review_state": {
         "human_reviewed": false,
@@ -20279,9 +20279,9 @@
         "work": "농사에 관하여",
         "reference": "175",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:08e4a43cf1900287aec787554f5b0a893bfb4d3fa8962b5898bac20834c429c4",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-175"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-175"
       }
     },
     {
@@ -20356,7 +20356,7 @@
       ],
       "work_passage_id": "agr:176",
       "html_path": "works/agr/index.html#p-176",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-176",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-176",
       "alignment_revision": "sha256:8eaa126b2f139f39b068184ad0bbccbbbc2faec80ae0fc48ac23cd342b0a9d7a",
       "review_state": {
         "human_reviewed": false,
@@ -20392,9 +20392,9 @@
         "work": "농사에 관하여",
         "reference": "176",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:0eb36c072c47feb4b66283b73006ba669ed2f50a60600b9a98678dbdf2d5063d",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-176"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-176"
       }
     },
     {
@@ -20454,7 +20454,7 @@
       "notes": [],
       "work_passage_id": "agr:177",
       "html_path": "works/agr/index.html#p-177",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-177",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-177",
       "alignment_revision": "sha256:7c8dea01dcacad77d54c144bcfaa724f6bad7ea246866aa5d0c5123884396033",
       "review_state": {
         "human_reviewed": false,
@@ -20490,9 +20490,9 @@
         "work": "농사에 관하여",
         "reference": "177",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:d2836c08275a579ea1e148a0ebd1d313343f4becb6e34c09624f5b038bc8b28b",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-177"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-177"
       }
     },
     {
@@ -20554,7 +20554,7 @@
       ],
       "work_passage_id": "agr:178",
       "html_path": "works/agr/index.html#p-178",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-178",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-178",
       "alignment_revision": "sha256:3647f3a756bb3f1c8e03be1f7eb0e75ea7388fbae1f0ab00d1885b2008b2c712",
       "review_state": {
         "human_reviewed": false,
@@ -20590,9 +20590,9 @@
         "work": "농사에 관하여",
         "reference": "178",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:32aec72f24c89b44a9aa74de113a7bbcf6de23542b02abb1297cd366953c2408",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-178"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-178"
       }
     },
     {
@@ -20667,7 +20667,7 @@
       ],
       "work_passage_id": "agr:179",
       "html_path": "works/agr/index.html#p-179",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-179",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-179",
       "alignment_revision": "sha256:21c7487412d1faea0c48c5adb59f90e2be57bc2538973cc36e824d129e3d0cee",
       "review_state": {
         "human_reviewed": false,
@@ -20703,9 +20703,9 @@
         "work": "농사에 관하여",
         "reference": "179",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:e01b5640031f1cadd2972e98cbca438ec5fefdadf58d6d713f91ec9e7f2735a2",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-179"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-179"
       }
     },
     {
@@ -20768,7 +20768,7 @@
       "notes": [],
       "work_passage_id": "agr:180",
       "html_path": "works/agr/index.html#p-180",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-180",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-180",
       "alignment_revision": "sha256:d49eaef84fe6bbc82922011e140a64d47256aaf20893a97baa669fc6bc99aba4",
       "review_state": {
         "human_reviewed": false,
@@ -20804,9 +20804,9 @@
         "work": "농사에 관하여",
         "reference": "180",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:6c7431cf9e9c1e5a169c811eea3975caa4ca3976faf19f9a2b05936363700b2e",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-180"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-180"
       }
     },
     {
@@ -20881,7 +20881,7 @@
       ],
       "work_passage_id": "agr:181",
       "html_path": "works/agr/index.html#p-181",
-      "fixed_html_path": "releases/public-0.36.2/works/agr/index.html#p-181",
+      "fixed_html_path": "releases/public-0.36.3/works/agr/index.html#p-181",
       "alignment_revision": "sha256:e4d0d5bb17e0f8926c66e3120462064e7ba90448cf1d9551913b4110971bc276",
       "review_state": {
         "human_reviewed": false,
@@ -20917,9 +20917,9 @@
         "work": "농사에 관하여",
         "reference": "181",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.2",
+        "release": "public-0.36.3",
         "translation_revision": "sha256:cef658c8e1e1852909610cfcc27a19df1bc19f9cf8e290a84252d594117780c6",
-        "fixed_path": "releases/public-0.36.2/works/agr/index.html#p-181"
+        "fixed_path": "releases/public-0.36.3/works/agr/index.html#p-181"
       }
     }
   ],
@@ -20942,14 +20942,14 @@
   "display_author": "필론",
   "scope": "농사에 관하여 채택 본문 181대목 전체",
   "coverage": "complete",
-  "release_id": "public-0.36.2",
+  "release_id": "public-0.36.3",
   "source_language": "grc",
   "source_kind": "edited_ancient_original",
   "human_reviewed": false,
   "translation_method": "고정 원어 본문에서 직접 번역",
   "html_path": "works/agr/index.html",
   "json_path": "data/works/agr.json",
-  "fixed_html_path": "releases/public-0.36.2/works/agr/index.html",
+  "fixed_html_path": "releases/public-0.36.3/works/agr/index.html",
   "source_profile": "agr-complete-pinned-source-20261003",
   "source_decisions": [
     {

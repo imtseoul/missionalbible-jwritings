@@ -1,0 +1,21 @@
+{
+  "family": "Noto Sans Ethiopic",
+  "license": "SIL Open Font License 1.1",
+  "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/ethiopic)",
+  "repository": "https://github.com/google/fonts",
+  "commit": "8b0a1d0f5983c89bc2b93f1b5fb55f9e252744b5",
+  "files": {
+    "NotoSansEthiopic-VF.ttf": {
+      "url": "https://raw.githubusercontent.com/google/fonts/8b0a1d0f5983c89bc2b93f1b5fb55f9e252744b5/ofl/notosansethiopic/NotoSansEthiopic%5Bwdth%2Cwght%5D.ttf",
+      "sha256": "0dbccc00b22d180ebd6a4bd8a733918a29e709fa6798023adc3e6cd40da65077",
+      "bytes": 1143168
+    },
+    "NotoSansEthiopic-OFL.txt": {
+      "url": "https://raw.githubusercontent.com/google/fonts/8b0a1d0f5983c89bc2b93f1b5fb55f9e252744b5/ofl/notosansethiopic/OFL.txt",
+      "sha256": "72606b23f312cb25973958f2892d4d2c2012deabadbf0f763232624a9649fc69",
+      "bytes": 4384
+    }
+  },
+  "modified": false,
+  "scope": "Ge’ez text marked lang=gez"
+}
