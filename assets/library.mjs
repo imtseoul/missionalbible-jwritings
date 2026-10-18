@@ -53,13 +53,43 @@ if(catalog){
     for(const group of document.querySelectorAll('.author-group'))group.hidden=!group.querySelector('.catalog-row:not([hidden])');
     for(const group of document.querySelectorAll('.corpus-group'))group.hidden=!group.querySelector('.author-group:not([hidden])');
     $('.catalog-results').setAttribute('aria-busy',String(loading));
-    $('.result-count').textContent=loading?'본문 검색 중…':total+'편'+(q&&bodyFailed?' · 문헌 정보 검색 결과입니다. 본문 검색을 불러오지 못했습니다.':'');$('#selected-author').textContent=author==='all'?'전체 저자':author;$('.empty-result').hidden=loading||total!==0;
+    $('.result-count').textContent=loading?'본문 검색 중…':'문헌 '+total+'편'+(q&&bodyFailed?' · 문헌 정보 검색 결과입니다. 본문 검색을 불러오지 못했습니다.':'');$('#selected-author').textContent=author==='all'?'전체 저자':author;$('.empty-result').hidden=loading||total!==0;
     document.querySelectorAll('[data-filter-group] a').forEach(a=>{const group=a.closest('[data-filter-group]').dataset.filterGroup;a.setAttribute('aria-current',String(a.dataset.filter===(group==='corpus'?corpus:author)));});
     if(update){const p=new URLSearchParams();if(input.value.trim())p.set('q',input.value.trim());if(corpus!=='all')p.set('corpus',corpus);if(author!=='all')p.set('author',author);history.replaceState(null,'',location.pathname+(p.size?'?'+p:''));}
     if(loading)loadBodyIndex();
+    passageSearch(q&&bodyIndex?input.value.trim():'',rows.filter(row=>!row.hidden).map(row=>row.dataset.work));
   };
   const more=document.createElement('button');more.type='button';more.className='more-results';more.hidden=true;$('.result-count').after(more);
   let expanded=false;more.addEventListener('click',()=>{expanded=true;refresh(false);live($('.result-count').textContent);});
+  // Passage results: per-work search files are fetched only for works that match, a few at a time.
+  const panel=document.createElement('section');panel.className='passage-results';panel.hidden=true;panel.setAttribute('aria-label','대목 검색 결과');
+  panel.innerHTML='<h2>대목</h2><ol></ol><button type="button" class="more-passages" hidden>대목 더 보기</button>';
+  $('.catalog-results .result-count').before(panel);
+  const workFiles=new Map(),esc=t=>t.replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+  const loadWork=id=>{if(!workFiles.has(id))workFiles.set(id,fetch(new URL('../data/search/'+id+'.json',import.meta.url)).then(r=>{if(!r.ok)throw Error('search file');return r.json();}).then(d=>({...d,norm:d.rows.map(r=>norm(r[2]))})));return workFiles.get(id);};
+  const snippet=(text,raw)=>{const i=text.toLowerCase().indexOf(raw.toLowerCase());if(i<0)return esc(text.length>90?text.slice(0,90)+'…':text);const a=Math.max(0,i-36),b=Math.min(text.length,i+raw.length+54);return (a?'…':'')+esc(text.slice(a,i))+'<mark>'+esc(text.slice(i,i+raw.length))+'</mark>'+esc(text.slice(i+raw.length,b))+(b<text.length?'…':'');};
+  let passageQuery=null,passageWorks=[],cursor={work:0,row:0},shown=0,searching=false;
+  const listMore=async(limit=20)=>{
+    if(searching)return;searching=true;const q=passageQuery,target=shown+limit,list=panel.querySelector('ol');
+    while(shown<target&&cursor.work<passageWorks.length&&q===passageQuery){
+      let data;try{data=await loadWork(passageWorks[cursor.work]);}catch{cursor.work++;cursor.row=0;continue;}
+      if(q!==passageQuery)break;const n=norm(q);
+      for(;cursor.row<data.rows.length&&shown<target;cursor.row++){
+        if(!hit(data.norm[cursor.row],n))continue;const [ref,label,korean,page]=data.rows[cursor.row];
+        const href=new URL('../'+data.pages[page],import.meta.url);href.search='q='+encodeURIComponent(q);href.hash='p-'+ref.replaceAll('.','-');
+        list.insertAdjacentHTML('beforeend','<li><a href="'+esc(href.pathname+href.search+href.hash)+'"><span class="passage-hit-ref">'+esc(data.title)+' '+esc(label)+'</span><span class="passage-hit-text">'+snippet(korean,q)+'</span></a></li>');shown++;
+      }
+      if(cursor.row>=data.rows.length){cursor.work++;cursor.row=0;}
+    }
+    if(q===passageQuery){panel.hidden=shown===0;panel.querySelector('h2').textContent='대목 '+shown+(cursor.work<passageWorks.length?'곳 이상':'곳');panel.querySelector('.more-passages').hidden=cursor.work>=passageWorks.length;}
+    searching=false;
+  };
+  const passageSearch=(q,works)=>{
+    if(norm(q).length<2||/^[a-z]/i.test(q)&&/\d/.test(q)){passageQuery=null;panel.hidden=true;return;}
+    const key=q+'|'+works.join();if(key===passageSearch.key)return;passageSearch.key=key;
+    passageQuery=q;passageWorks=works;cursor={work:0,row:0};shown=0;searching=false;panel.querySelector('ol').innerHTML='';listMore();
+  };
+  panel.querySelector('.more-passages').addEventListener('click',()=>listMore());
   input.addEventListener('input',()=>{bodyFailed=false;expanded=false;refresh();});$('.search').addEventListener('submit',e=>{e.preventDefault();bodyFailed=false;refresh();live($('.result-count').textContent);});
   document.querySelectorAll('[data-filter-group] a').forEach(a=>a.addEventListener('click',e=>{e.preventDefault();const group=a.closest('[data-filter-group]').dataset.filterGroup;if(group==='corpus')corpus=a.dataset.filter;else{author=a.dataset.filter;if(narrow.matches)a.closest('details').open=false;}refresh();}));
   refresh(false);
@@ -161,6 +191,33 @@ if($('.reader')){
   if('ResizeObserver' in window)new ResizeObserver(scheduleRange).observe($('.reader'));
   document.fonts?.ready.then(scheduleRange);
   scheduleRange();
+  // Search term from the catalogue: mark matches and step through the passages that contain them.
+  const term=(new URLSearchParams(location.search).get('q')||'').trim();
+  if(term.length>=2){
+    const lower=term.toLowerCase(),found=passages.filter(p=>p.textContent.toLowerCase().includes(lower));
+    if(found.length){
+      if('highlights' in CSS){const ranges=[];for(const p of found){const walker=document.createTreeWalker(p.querySelector('.passage-body'),NodeFilter.SHOW_TEXT);for(let n=walker.nextNode();n;n=walker.nextNode()){const t=n.data.toLowerCase();for(let i=t.indexOf(lower);i>=0;i=t.indexOf(lower,i+lower.length)){const r=new Range();r.setStart(n,i);r.setEnd(n,i+term.length);ranges.push(r);}}}CSS.highlights.set('search-term',new Highlight(...ranges));}
+      else for(const p of found)p.classList.add('has-term');
+      const bar=document.createElement('div');bar.className='term-bar';bar.setAttribute('role','group');bar.setAttribute('aria-label','검색어 이동');
+      bar.innerHTML='<span class="term-label"></span><button type="button" data-step="-1" aria-label="이전 일치">↑</button><button type="button" data-step="1" aria-label="다음 일치">↓</button><a class="term-close" aria-label="검색어 표시 끄기">✕</a>';
+      bar.querySelector('.term-close').href=location.pathname+location.hash;
+      $('.reading-tools').after(bar);document.body.classList.add('has-term-bar');
+      let at=Math.max(0,found.findIndex(p=>'#'+p.id===location.hash));
+      const show=(move=true)=>{bar.querySelector('.term-label').textContent='‘'+term+'’ '+(at+1)+'/'+found.length;if(move){found[at].scrollIntoView({block:'start'});setRoving(found[at]);}};
+      bar.addEventListener('click',e=>{const b=e.target.closest('[data-step]');if(!b)return;at=(at+Number(b.dataset.step)+found.length)%found.length;show();});
+      show(!location.hash);
+    }
+  }
+  // Citation: author, work, reference, fixed edition address.
+  let release=null;const releaseId=()=>release??=fetch(new URL('../catalog.json',import.meta.url)).then(r=>r.json()).then(c=>c.release_id).catch(()=>null);
+  const root=new URL('../',import.meta.url);
+  for(const button of document.querySelectorAll('.cite-button')){button.hidden=false;button.addEventListener('click',async()=>{
+    const passage=button.closest('.passage'),id=await releaseId(),path=location.pathname.slice(root.pathname.length);
+    const url=root.origin+root.pathname+(id?'releases/'+id+'/':'')+path+'#'+passage.id;
+    const text=($('.work-author')?.textContent.trim()||'')+', 『'+$('.work-heading h1').textContent.trim()+'』 '+button.dataset.cite+'. 신약 연구 문헌도서관 한국어 번역'+(id?'('+id+')':'')+'. '+url;
+    try{await navigator.clipboard.writeText(text);live('인용을 복사했습니다: '+button.dataset.cite);button.textContent='복사됨';setTimeout(()=>button.textContent='인용',1600);}
+    catch{let box=passage.querySelector('.cite-fallback');if(!box){box=document.createElement('p');box.className='cite-fallback';passage.querySelector('.passage-body').append(box);}box.textContent=text;getSelection().selectAllChildren(box);live('인용문을 선택했습니다. 복사하세요.');}
+  });}
 }
 
 // Back to top: appears once the reader has scrolled a screen or more.
