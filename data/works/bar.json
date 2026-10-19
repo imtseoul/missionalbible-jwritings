@@ -70,7 +70,7 @@
       ],
       "work_passage_id": "bar:1.1",
       "html_path": "works/bar/index.html#p-1-1",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-1-1",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-1-1",
       "alignment_revision": "sha256:4815e5d304d941ff7eb5393b1f84c7fc643a72d0a06f1b7866e65cc75c59e1ed",
       "review_state": {
         "human_reviewed": false,
@@ -106,9 +106,9 @@
         "work": "바룩서",
         "reference": "1.1",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:057c8a0469c908e9c7e65dba69748e555269bb7e6548f8a4dc0a4b6e36f5fdf2",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-1-1"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-1-1"
       }
     },
     {
@@ -149,7 +149,7 @@
       ],
       "work_passage_id": "bar:1.2",
       "html_path": "works/bar/index.html#p-1-2",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-1-2",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-1-2",
       "alignment_revision": "sha256:0f1fe77a834434e34d24e8f73709d32d53f2de6a959ca3e1739de72269c93f29",
       "review_state": {
         "human_reviewed": false,
@@ -185,9 +185,9 @@
         "work": "바룩서",
         "reference": "1.2",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:a5c22ebc80370421a5dfcf4d98ee6bbe54965e6e89bbda1c3e57fd85624b20c3",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-1-2"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-1-2"
       }
     },
     {
@@ -239,7 +239,7 @@
       "notes": [],
       "work_passage_id": "bar:1.3",
       "html_path": "works/bar/index.html#p-1-3",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-1-3",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-1-3",
       "alignment_revision": "sha256:3279c524fc70a07304d4683fdd7561a275ea8f7dfe515f21ac80c661ebdc3bb2",
       "review_state": {
         "human_reviewed": false,
@@ -275,9 +275,9 @@
         "work": "바룩서",
         "reference": "1.3",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:db922b482d85d52dcc7d42a79441a78b0cc641371c5e0d44e0b666eedee9911a",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-1-3"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-1-3"
       }
     },
     {
@@ -329,7 +329,7 @@
       "notes": [],
       "work_passage_id": "bar:1.4",
       "html_path": "works/bar/index.html#p-1-4",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-1-4",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-1-4",
       "alignment_revision": "sha256:34fdde5207b2f5b18649567acf2c64f315bb233e5aecb0554e03e2e43ac987c1",
       "review_state": {
         "human_reviewed": false,
@@ -365,9 +365,9 @@
         "work": "바룩서",
         "reference": "1.4",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:1a2da86ced9a3c775f01919db3dba9a7c0e287a483ae307e090999077e48860c",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-1-4"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-1-4"
       }
     },
     {
@@ -406,7 +406,7 @@
       "notes": [],
       "work_passage_id": "bar:1.5",
       "html_path": "works/bar/index.html#p-1-5",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-1-5",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-1-5",
       "alignment_revision": "sha256:a59c5a2651fe10611b8b3733b569169f392cc6c804cf86c0ae37b03aa8a29330",
       "review_state": {
         "human_reviewed": false,
@@ -442,9 +442,9 @@
         "work": "바룩서",
         "reference": "1.5",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:5f9d3b282428b0bd869cb2d38b62dd57bddb680175505a71eaf729d800ca9971",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-1-5"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-1-5"
       }
     },
     {
@@ -483,7 +483,7 @@
       "notes": [],
       "work_passage_id": "bar:1.6",
       "html_path": "works/bar/index.html#p-1-6",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-1-6",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-1-6",
       "alignment_revision": "sha256:31786c067d3b3d96e708423937ce4bc7a3a6d0e1a8a8b3da45b41db55c5c401b",
       "review_state": {
         "human_reviewed": false,
@@ -519,9 +519,9 @@
         "work": "바룩서",
         "reference": "1.6",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:463ccfcb2b14409793653f6c28cee8a423c5292a7ecc4a1343a85c9b5aa70aa7",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-1-6"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-1-6"
       }
     },
     {
@@ -573,7 +573,7 @@
       "notes": [],
       "work_passage_id": "bar:1.7",
       "html_path": "works/bar/index.html#p-1-7",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-1-7",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-1-7",
       "alignment_revision": "sha256:aba98870b533a6aa2c8fd2b244c5c2f590ac6e56369948aea014efefe00c8069",
       "review_state": {
         "human_reviewed": false,
@@ -609,9 +609,9 @@
         "work": "바룩서",
         "reference": "1.7",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:461280448b4ee511ee3a44c126a9b9ff8382e61c8feecfa227f036f4c9f39be5",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-1-7"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-1-7"
       }
     },
     {
@@ -665,7 +665,7 @@
       ],
       "work_passage_id": "bar:1.8",
       "html_path": "works/bar/index.html#p-1-8",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-1-8",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-1-8",
       "alignment_revision": "sha256:696adf2036b69b99692cc810636fe54f84d35464dc910ccb4e5a31ccb313fd17",
       "review_state": {
         "human_reviewed": false,
@@ -701,9 +701,9 @@
         "work": "바룩서",
         "reference": "1.8",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:4669b6cf5b9fe96113d93a0740d710a789970f771df7b4b2787dd5a623214afb",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-1-8"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-1-8"
       }
     },
     {
@@ -757,7 +757,7 @@
       ],
       "work_passage_id": "bar:1.9",
       "html_path": "works/bar/index.html#p-1-9",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-1-9",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-1-9",
       "alignment_revision": "sha256:314a0dd6f5824971a1130f31b7e256d301ff33ad4dcae3e39c791f20bae90de7",
       "review_state": {
         "human_reviewed": false,
@@ -793,9 +793,9 @@
         "work": "바룩서",
         "reference": "1.9",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:3794ec7839b58e1d6a7853e4c37a47a9303b9f6e963db4ba2bc545f32ff3cbc1",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-1-9"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-1-9"
       }
     },
     {
@@ -862,7 +862,7 @@
       ],
       "work_passage_id": "bar:1.10",
       "html_path": "works/bar/index.html#p-1-10",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-1-10",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-1-10",
       "alignment_revision": "sha256:d523467cd969c1525861df169a1f386794ed0069c0473a720ca976674e33885a",
       "review_state": {
         "human_reviewed": false,
@@ -898,9 +898,9 @@
         "work": "바룩서",
         "reference": "1.10",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:6830fdc385c9a18d795c3f7158071a65711947b55d26bbc70db94fd4113f8ea1",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-1-10"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-1-10"
       }
     },
     {
@@ -954,7 +954,7 @@
       ],
       "work_passage_id": "bar:1.11",
       "html_path": "works/bar/index.html#p-1-11",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-1-11",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-1-11",
       "alignment_revision": "sha256:8e2fd8a8c088b3e5bcf0241570ad08f5633518cd9029662770a493688b33c06b",
       "review_state": {
         "human_reviewed": false,
@@ -990,9 +990,9 @@
         "work": "바룩서",
         "reference": "1.11",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:6b5532701d982e7e5412673dc2be7770bda961cbff7e92fe15c8baa6d4b25e27",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-1-11"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-1-11"
       }
     },
     {
@@ -1057,7 +1057,7 @@
       "notes": [],
       "work_passage_id": "bar:1.12",
       "html_path": "works/bar/index.html#p-1-12",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-1-12",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-1-12",
       "alignment_revision": "sha256:3056f1bb66d19163629143089d31512126af1d9aabacfec64d00f87738e3e812",
       "review_state": {
         "human_reviewed": false,
@@ -1093,9 +1093,9 @@
         "work": "바룩서",
         "reference": "1.12",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:f62c0df0371ad98d063fabb930847eec5eb982c35844f625184404ab10f4578c",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-1-12"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-1-12"
       }
     },
     {
@@ -1174,7 +1174,7 @@
       "notes": [],
       "work_passage_id": "bar:1.13",
       "html_path": "works/bar/index.html#p-1-13",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-1-13",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-1-13",
       "alignment_revision": "sha256:da506edfd49559e583738c06bfafd70e98e20faee7724682a2c471a03460bebb",
       "review_state": {
         "human_reviewed": false,
@@ -1210,9 +1210,9 @@
         "work": "바룩서",
         "reference": "1.13",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:98fe44747e59ed1bbe2c7ba5d16f0d867165bc481441fa94106c1bcfe81cdf79",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-1-13",
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-1-13",
         "collation_edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소."
       }
     },
@@ -1252,7 +1252,7 @@
       "notes": [],
       "work_passage_id": "bar:1.14",
       "html_path": "works/bar/index.html#p-1-14",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-1-14",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-1-14",
       "alignment_revision": "sha256:4f7f613ab073dc1e8878b9295149fce39fa2e1a94765173b1a58144fbc84f655",
       "review_state": {
         "human_reviewed": false,
@@ -1288,9 +1288,9 @@
         "work": "바룩서",
         "reference": "1.14",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:5a4cb9c6b801fb59454b7b6fcc8071b65c943ee79700a698644fc4d3286fde56",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-1-14"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-1-14"
       }
     },
     {
@@ -1342,7 +1342,7 @@
       "notes": [],
       "work_passage_id": "bar:1.15",
       "html_path": "works/bar/index.html#p-1-15",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-1-15",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-1-15",
       "alignment_revision": "sha256:0b373d9cd323390b58567880ec417cc07bc12cdab5c701d6848664196cd17cc3",
       "review_state": {
         "human_reviewed": false,
@@ -1378,9 +1378,9 @@
         "work": "바룩서",
         "reference": "1.15",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:422b397f2e19b17ed91da38af616c4f4b248758645b5fd76cd313509361f62d4",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-1-15"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-1-15"
       }
     },
     {
@@ -1419,7 +1419,7 @@
       "notes": [],
       "work_passage_id": "bar:1.16",
       "html_path": "works/bar/index.html#p-1-16",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-1-16",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-1-16",
       "alignment_revision": "sha256:1ed6b4c89e540f885addbc5db8d9e21cc494f9ac283ba24a804e03c324d3a859",
       "review_state": {
         "human_reviewed": false,
@@ -1455,9 +1455,9 @@
         "work": "바룩서",
         "reference": "1.16",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:d508250e1b2c6f495a8edb66e6b4b0d366376067cbaf00d729c3e3c3cf25a171",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-1-16"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-1-16"
       }
     },
     {
@@ -1496,7 +1496,7 @@
       "notes": [],
       "work_passage_id": "bar:1.17",
       "html_path": "works/bar/index.html#p-1-17",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-1-17",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-1-17",
       "alignment_revision": "sha256:122f034dd31f23b09f02af6da8ea03a747af21b9c89530cbac5bef5bc49cb3be",
       "review_state": {
         "human_reviewed": false,
@@ -1532,9 +1532,9 @@
         "work": "바룩서",
         "reference": "1.17",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:12c9143f31ba0a64e539f6fcc23e57b5ed08e70056039984ac111bcc063eade9",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-1-17"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-1-17"
       }
     },
     {
@@ -1586,7 +1586,7 @@
       "notes": [],
       "work_passage_id": "bar:1.18",
       "html_path": "works/bar/index.html#p-1-18",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-1-18",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-1-18",
       "alignment_revision": "sha256:405faa38083fdafc8a67ede6ef15be948e7de9040d919d5936fb52ff02665869",
       "review_state": {
         "human_reviewed": false,
@@ -1622,9 +1622,9 @@
         "work": "바룩서",
         "reference": "1.18",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:f5d065e4bee90322a25450f18387b76ea64c1c0d090e2968fc30e934610b994e",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-1-18"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-1-18"
       }
     },
     {
@@ -1676,7 +1676,7 @@
       "notes": [],
       "work_passage_id": "bar:1.19",
       "html_path": "works/bar/index.html#p-1-19",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-1-19",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-1-19",
       "alignment_revision": "sha256:d0f6dbc84deb65a401012e4a590444fda72f8c8e44d0d0b2e296bee4d5399ee6",
       "review_state": {
         "human_reviewed": false,
@@ -1712,9 +1712,9 @@
         "work": "바룩서",
         "reference": "1.19",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:cab42549e8f99352c1a1fd83c311d20aa6144d347895e0bc1313ce48ddbebe93",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-1-19"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-1-19"
       }
     },
     {
@@ -1779,7 +1779,7 @@
       "notes": [],
       "work_passage_id": "bar:1.20",
       "html_path": "works/bar/index.html#p-1-20",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-1-20",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-1-20",
       "alignment_revision": "sha256:750440473d4523ce86f857fa4ac2b0cdcf1d2efa873cd3e182b1065ad1389d4c",
       "review_state": {
         "human_reviewed": false,
@@ -1815,9 +1815,9 @@
         "work": "바룩서",
         "reference": "1.20",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:5cf256812201beb1a683e848a458137d05fbf30b826404ae4f90dea46b46be43",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-1-20"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-1-20"
       }
     },
     {
@@ -1856,7 +1856,7 @@
       "notes": [],
       "work_passage_id": "bar:1.21",
       "html_path": "works/bar/index.html#p-1-21",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-1-21",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-1-21",
       "alignment_revision": "sha256:214a1415515cae67c22b72b2a5396ccc27f2db0711fc1bc48b64e816677af4db",
       "review_state": {
         "human_reviewed": false,
@@ -1892,9 +1892,9 @@
         "work": "바룩서",
         "reference": "1.21",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:e8c74a175f651a65bdb047a6acef5f9f357d25b29f9e534c0cc5240b09e03976",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-1-21"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-1-21"
       }
     },
     {
@@ -1946,7 +1946,7 @@
       "notes": [],
       "work_passage_id": "bar:1.22",
       "html_path": "works/bar/index.html#p-1-22",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-1-22",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-1-22",
       "alignment_revision": "sha256:885271f3e0f24aa5e256d7173e542488173cc1d2f1d0a58b5191cf22a1ccc159",
       "review_state": {
         "human_reviewed": false,
@@ -1982,9 +1982,9 @@
         "work": "바룩서",
         "reference": "1.22",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:c6347670f2501b3f961173d1c1b74f64cad8d713cbc1abdd31b4c902ef5121fa",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-1-22"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-1-22"
       }
     },
     {
@@ -2036,7 +2036,7 @@
       "notes": [],
       "work_passage_id": "bar:2.1",
       "html_path": "works/bar/index.html#p-2-1",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-2-1",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-2-1",
       "alignment_revision": "sha256:116d486d49340549c778a0580b8d5e7d23d8c2b9ba1951a6b634a62af2c66c8c",
       "review_state": {
         "human_reviewed": false,
@@ -2072,9 +2072,9 @@
         "work": "바룩서",
         "reference": "2.1",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:57655ec9ec8d2b694e4c1ff7355e6b40d5908d4438f6176f1e8b42940160be93",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-2-1"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-2-1"
       }
     },
     {
@@ -2126,7 +2126,7 @@
       "notes": [],
       "work_passage_id": "bar:2.2",
       "html_path": "works/bar/index.html#p-2-2",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-2-2",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-2-2",
       "alignment_revision": "sha256:0f88d3092cc57bb3fadeac9371eb0014c10e646a6eeb350544e0e5137b34d3dc",
       "review_state": {
         "human_reviewed": false,
@@ -2162,9 +2162,9 @@
         "work": "바룩서",
         "reference": "2.2",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:85a28832a714f4a0194b34fe56d05db569b850b980d80a487a84070ad20b894a",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-2-2"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-2-2"
       }
     },
     {
@@ -2217,7 +2217,7 @@
       "notes": [],
       "work_passage_id": "bar:2.3",
       "html_path": "works/bar/index.html#p-2-3",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-2-3",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-2-3",
       "alignment_revision": "sha256:5c858716af370a0f74f931d658a32d32668453ce0cac48959dac99e0a3da8b9a",
       "review_state": {
         "human_reviewed": false,
@@ -2253,9 +2253,9 @@
         "work": "바룩서",
         "reference": "2.3",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:9d9090521c4a0f47a026ec9d28996c15ba144b857b328eb6b14a88aade5201f9",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-2-3",
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-2-3",
         "collation_edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소."
       }
     },
@@ -2308,7 +2308,7 @@
       "notes": [],
       "work_passage_id": "bar:2.4",
       "html_path": "works/bar/index.html#p-2-4",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-2-4",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-2-4",
       "alignment_revision": "sha256:aa5a85e7266285605cb0bca9482431c2710f64c8a46dbb99049d2abc5ef9f0db",
       "review_state": {
         "human_reviewed": false,
@@ -2344,9 +2344,9 @@
         "work": "바룩서",
         "reference": "2.4",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:972ab19db9ba1cf44dda2efd822a70a91b5f222553fe0276ff62162f2fdccb8d",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-2-4"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-2-4"
       }
     },
     {
@@ -2398,7 +2398,7 @@
       "notes": [],
       "work_passage_id": "bar:2.5",
       "html_path": "works/bar/index.html#p-2-5",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-2-5",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-2-5",
       "alignment_revision": "sha256:d48b66a08ad5321fbb2ad8665ea77cbc15d31718daae941810acb551ea50afa3",
       "review_state": {
         "human_reviewed": false,
@@ -2434,9 +2434,9 @@
         "work": "바룩서",
         "reference": "2.5",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:94c283a2fc960316af5c8c87f0f15166d3e293c04742609e864c872abbf96f97",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-2-5"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-2-5"
       }
     },
     {
@@ -2488,7 +2488,7 @@
       "notes": [],
       "work_passage_id": "bar:2.6",
       "html_path": "works/bar/index.html#p-2-6",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-2-6",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-2-6",
       "alignment_revision": "sha256:d06e407911960f8ad3cfc483262ebd00efeed761cc63d325e8c072fc6c984806",
       "review_state": {
         "human_reviewed": false,
@@ -2524,9 +2524,9 @@
         "work": "바룩서",
         "reference": "2.6",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:4460cda668b118959591bf50bc9100bed3daa1df89b21e0a838f3fdc670786bd",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-2-6"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-2-6"
       }
     },
     {
@@ -2565,7 +2565,7 @@
       "notes": [],
       "work_passage_id": "bar:2.7",
       "html_path": "works/bar/index.html#p-2-7",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-2-7",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-2-7",
       "alignment_revision": "sha256:d3a1f1f9289165c175d1385aef99c3e870ffe39f9fef4a18d9aa8b8735e4ea4d",
       "review_state": {
         "human_reviewed": false,
@@ -2601,9 +2601,9 @@
         "work": "바룩서",
         "reference": "2.7",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:c8203ff52ac948bfb3d9ceff04bcc7ecb04d13cf996cc72e846009d838bf0ed9",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-2-7"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-2-7"
       }
     },
     {
@@ -2642,7 +2642,7 @@
       "notes": [],
       "work_passage_id": "bar:2.8",
       "html_path": "works/bar/index.html#p-2-8",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-2-8",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-2-8",
       "alignment_revision": "sha256:d029e3aa97b4de691b1be811c2bdf83c754ded7f7633cb2723a351d0746c6c41",
       "review_state": {
         "human_reviewed": false,
@@ -2678,9 +2678,9 @@
         "work": "바룩서",
         "reference": "2.8",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:ea791c7a503652e6e3dd571dff5e4e1b105014208d7b9710bf141e9710357e3a",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-2-8"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-2-8"
       }
     },
     {
@@ -2732,7 +2732,7 @@
       "notes": [],
       "work_passage_id": "bar:2.9",
       "html_path": "works/bar/index.html#p-2-9",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-2-9",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-2-9",
       "alignment_revision": "sha256:d4f9e042d2027c31a2360a5fcaf4d3055e572e280fbb226fcf74cc374443da87",
       "review_state": {
         "human_reviewed": false,
@@ -2768,9 +2768,9 @@
         "work": "바룩서",
         "reference": "2.9",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:b4b3465be7bc9d34b1bac78850a8abe7e80f8bb33c1baa4c85832103a88331dd",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-2-9"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-2-9"
       }
     },
     {
@@ -2809,7 +2809,7 @@
       "notes": [],
       "work_passage_id": "bar:2.10",
       "html_path": "works/bar/index.html#p-2-10",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-2-10",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-2-10",
       "alignment_revision": "sha256:53eb73071bb03c508893eb7eb126d0a7a7dbe47d7c0f73f4a46f238b11853bf2",
       "review_state": {
         "human_reviewed": false,
@@ -2845,9 +2845,9 @@
         "work": "바룩서",
         "reference": "2.10",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:439d70cdb63cfa33138c610bd8a312387ae631b20b408dfae8185fe6112b2f13",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-2-10"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-2-10"
       }
     },
     {
@@ -2899,7 +2899,7 @@
       "notes": [],
       "work_passage_id": "bar:2.11",
       "html_path": "works/bar/index.html#p-2-11",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-2-11",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-2-11",
       "alignment_revision": "sha256:8af721ac4113f0ce75fe26deee7c54625bf9b58718ca2fa1c82fff5f9ff9c688",
       "review_state": {
         "human_reviewed": false,
@@ -2935,9 +2935,9 @@
         "work": "바룩서",
         "reference": "2.11",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:35b151b64a2af62f5c30c4f5542371ebd3053b11b5b5a9b8749c9f883d7a8af1",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-2-11"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-2-11"
       }
     },
     {
@@ -2976,7 +2976,7 @@
       "notes": [],
       "work_passage_id": "bar:2.12",
       "html_path": "works/bar/index.html#p-2-12",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-2-12",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-2-12",
       "alignment_revision": "sha256:d28f6c6160ffeacebcaaac14a8bf6454571fd2b5c8f2cb5a267eebbff1e95c93",
       "review_state": {
         "human_reviewed": false,
@@ -3012,9 +3012,9 @@
         "work": "바룩서",
         "reference": "2.12",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:b34953a331fb27e9bc24c91290c0364a4303cd8528ae87f3327ec892df286822",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-2-12"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-2-12"
       }
     },
     {
@@ -3066,7 +3066,7 @@
       "notes": [],
       "work_passage_id": "bar:2.13",
       "html_path": "works/bar/index.html#p-2-13",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-2-13",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-2-13",
       "alignment_revision": "sha256:05bf6433f6150a224d7eb0def4890420cef2ad1728a3b1f1cc856357148d490f",
       "review_state": {
         "human_reviewed": false,
@@ -3102,9 +3102,9 @@
         "work": "바룩서",
         "reference": "2.13",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:f6eea8b1afb2cf3d048b3256c4cbd726a5a2a9e485e42b3e11a6813c9047c60a",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-2-13"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-2-13"
       }
     },
     {
@@ -3156,7 +3156,7 @@
       "notes": [],
       "work_passage_id": "bar:2.14",
       "html_path": "works/bar/index.html#p-2-14",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-2-14",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-2-14",
       "alignment_revision": "sha256:640e8a54eb4094a518ca70ee1764ac144599d3bf4b2cefa0b8458196db8dbfd4",
       "review_state": {
         "human_reviewed": false,
@@ -3192,9 +3192,9 @@
         "work": "바룩서",
         "reference": "2.14",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:b8fd5145a3fd0e4a5fab412a15499d79767295326c8441ee170275fb6a8c8588",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-2-14"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-2-14"
       }
     },
     {
@@ -3246,7 +3246,7 @@
       "notes": [],
       "work_passage_id": "bar:2.15",
       "html_path": "works/bar/index.html#p-2-15",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-2-15",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-2-15",
       "alignment_revision": "sha256:b2316db64bb4f29764a03268ec61a8b20ffa104cbdcb0c0650ef15f13f3caf9e",
       "review_state": {
         "human_reviewed": false,
@@ -3282,9 +3282,9 @@
         "work": "바룩서",
         "reference": "2.15",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:ca9617822aa0977f5734ef885e5528c4ab43ac011ee8e1251f60f673b33a5061",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-2-15"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-2-15"
       }
     },
     {
@@ -3336,7 +3336,7 @@
       "notes": [],
       "work_passage_id": "bar:2.16",
       "html_path": "works/bar/index.html#p-2-16",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-2-16",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-2-16",
       "alignment_revision": "sha256:ba58fae89c081fad0c7fa63d1d527bf669dade437604af8f77b951b77b43845c",
       "review_state": {
         "human_reviewed": false,
@@ -3372,9 +3372,9 @@
         "work": "바룩서",
         "reference": "2.16",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:3e3691b131f4970cab2ebe4d30840144c8688d59b63a346ca010d0aae8167204",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-2-16"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-2-16"
       }
     },
     {
@@ -3428,7 +3428,7 @@
       ],
       "work_passage_id": "bar:2.17",
       "html_path": "works/bar/index.html#p-2-17",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-2-17",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-2-17",
       "alignment_revision": "sha256:7ec4bc421a33c10821cf03aac838cb3ec6dcd0465a7f6ed5316bd74fb7d1780a",
       "review_state": {
         "human_reviewed": false,
@@ -3464,9 +3464,9 @@
         "work": "바룩서",
         "reference": "2.17",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:4efd360d0b3deae94f2d12af479a18790d29c2a801cd4bc1e41eaa333054a78c",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-2-17"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-2-17"
       }
     },
     {
@@ -3518,7 +3518,7 @@
       "notes": [],
       "work_passage_id": "bar:2.18",
       "html_path": "works/bar/index.html#p-2-18",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-2-18",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-2-18",
       "alignment_revision": "sha256:fbac75ccc93ee896181e5252b0d1ad4f5be2404efd43e6e8088d0d26aa1552ae",
       "review_state": {
         "human_reviewed": false,
@@ -3554,9 +3554,9 @@
         "work": "바룩서",
         "reference": "2.18",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:7c2e124fe2cf316946a11f08483a9e83b607c354d21712a13c2741907a78af5f",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-2-18"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-2-18"
       }
     },
     {
@@ -3595,7 +3595,7 @@
       "notes": [],
       "work_passage_id": "bar:2.19",
       "html_path": "works/bar/index.html#p-2-19",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-2-19",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-2-19",
       "alignment_revision": "sha256:4217e738497747c90be6ed62bc3e63803516e8a6dd0dda89edb765cb40313cd1",
       "review_state": {
         "human_reviewed": false,
@@ -3631,9 +3631,9 @@
         "work": "바룩서",
         "reference": "2.19",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:34389fd42ab0a6270e27f121b9a5493ca37660c87636fc434f90225a68c39b7d",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-2-19"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-2-19"
       }
     },
     {
@@ -3685,7 +3685,7 @@
       "notes": [],
       "work_passage_id": "bar:2.20",
       "html_path": "works/bar/index.html#p-2-20",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-2-20",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-2-20",
       "alignment_revision": "sha256:c17898a5c09b137d0fc2fce81afdafe1b12ca26e01f844ecf6d10ee1a2c1be39",
       "review_state": {
         "human_reviewed": false,
@@ -3721,9 +3721,9 @@
         "work": "바룩서",
         "reference": "2.20",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:3f989639f02c5898072cb8a60a2e2bbb5ac019dcc28ffe81bc27d064a6469550",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-2-20"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-2-20"
       }
     },
     {
@@ -3775,7 +3775,7 @@
       "notes": [],
       "work_passage_id": "bar:2.21",
       "html_path": "works/bar/index.html#p-2-21",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-2-21",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-2-21",
       "alignment_revision": "sha256:9a6c62ef5e62dfcb6a59b87ca9ef750d79f38061e09277840da645b501dbd83f",
       "review_state": {
         "human_reviewed": false,
@@ -3811,9 +3811,9 @@
         "work": "바룩서",
         "reference": "2.21",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:3e0c20023f8cab9f0884187dc975a44ff31dcc71841d32f7a850886890c43e77",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-2-21"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-2-21"
       }
     },
     {
@@ -3852,7 +3852,7 @@
       "notes": [],
       "work_passage_id": "bar:2.22",
       "html_path": "works/bar/index.html#p-2-22",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-2-22",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-2-22",
       "alignment_revision": "sha256:e96455057cfb8e222be3a72f5ac57d2f960700fd6ea111a0e1c9bbe739b9f0ab",
       "review_state": {
         "human_reviewed": false,
@@ -3888,9 +3888,9 @@
         "work": "바룩서",
         "reference": "2.22",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:3388f3f653bd5dbffb7ff8cb6cf2f332e8c1d41c406c25f3dfe608f6aee5ad85",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-2-22"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-2-22"
       }
     },
     {
@@ -3942,7 +3942,7 @@
       "notes": [],
       "work_passage_id": "bar:2.23",
       "html_path": "works/bar/index.html#p-2-23",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-2-23",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-2-23",
       "alignment_revision": "sha256:7d28cc9a1ffe89d0193be49c4585547f8eac65f004ea9b5d9d41a0d5d2c28448",
       "review_state": {
         "human_reviewed": false,
@@ -3978,9 +3978,9 @@
         "work": "바룩서",
         "reference": "2.23",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:cf6a35307a1ed3048b855ef42ffa5cfbcd38a3a8c1be1dc7908dbb0d05f4c525",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-2-23"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-2-23"
       }
     },
     {
@@ -4032,7 +4032,7 @@
       "notes": [],
       "work_passage_id": "bar:2.24",
       "html_path": "works/bar/index.html#p-2-24",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-2-24",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-2-24",
       "alignment_revision": "sha256:3675e4f31a5361e7448c371f0f14eb69503138c7ab45681df8e50a3f13a87ac7",
       "review_state": {
         "human_reviewed": false,
@@ -4068,9 +4068,9 @@
         "work": "바룩서",
         "reference": "2.24",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:a8adffc8e17744b4c23627d998f9fe1686f867506806eea71a56b76b41b9540a",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-2-24"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-2-24"
       }
     },
     {
@@ -4124,7 +4124,7 @@
       ],
       "work_passage_id": "bar:2.25",
       "html_path": "works/bar/index.html#p-2-25",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-2-25",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-2-25",
       "alignment_revision": "sha256:3779c2b2f0ee7818ed133c979cb8d910493fb53492be62a6d4c942da8b6b0bd5",
       "review_state": {
         "human_reviewed": false,
@@ -4160,9 +4160,9 @@
         "work": "바룩서",
         "reference": "2.25",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:1f99218fe0712d6e20f0b73bc669bc5a21b2038a89ec621b939504b9b564301a",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-2-25"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-2-25"
       }
     },
     {
@@ -4201,7 +4201,7 @@
       "notes": [],
       "work_passage_id": "bar:2.26",
       "html_path": "works/bar/index.html#p-2-26",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-2-26",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-2-26",
       "alignment_revision": "sha256:9ef09796319ff47e030699b5a2bf6bdceab54d7108a1682e93b24d5455670d2d",
       "review_state": {
         "human_reviewed": false,
@@ -4237,9 +4237,9 @@
         "work": "바룩서",
         "reference": "2.26",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:a1df9a7e493bce5de28d1888b45b1fbd19daad6d80ad011b9cc7642fbc9a2247",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-2-26"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-2-26"
       }
     },
     {
@@ -4278,7 +4278,7 @@
       "notes": [],
       "work_passage_id": "bar:2.27",
       "html_path": "works/bar/index.html#p-2-27",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-2-27",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-2-27",
       "alignment_revision": "sha256:ccb15b218f24ec56a5c710ba748451ae6beb6310e7a493a28e5fd222bcd7460d",
       "review_state": {
         "human_reviewed": false,
@@ -4314,9 +4314,9 @@
         "work": "바룩서",
         "reference": "2.27",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:3131bf75b9b9208cf89bc6ef09ac258a990aa036c42943edc482d417bcb29a1a",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-2-27"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-2-27"
       }
     },
     {
@@ -4355,7 +4355,7 @@
       "notes": [],
       "work_passage_id": "bar:2.28",
       "html_path": "works/bar/index.html#p-2-28",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-2-28",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-2-28",
       "alignment_revision": "sha256:3123b56ef6e7e4470a7019d4b60f576e73e7915bff1c80739be37a9f6ebb355a",
       "review_state": {
         "human_reviewed": false,
@@ -4391,9 +4391,9 @@
         "work": "바룩서",
         "reference": "2.28",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:5e73375a265bc4651f6ebe34a09b1053939794be1755503cef630c6817599f09",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-2-28"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-2-28"
       }
     },
     {
@@ -4447,7 +4447,7 @@
       ],
       "work_passage_id": "bar:2.29",
       "html_path": "works/bar/index.html#p-2-29",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-2-29",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-2-29",
       "alignment_revision": "sha256:09ec8ff406388eba75dda47b1fb56aedc7d69cf18d5a9f1e59c0f419cc887da8",
       "review_state": {
         "human_reviewed": false,
@@ -4483,9 +4483,9 @@
         "work": "바룩서",
         "reference": "2.29",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:d599a2140c9de6af7fc71168a0e3e4462093d83669931207941b427ae5ad6214",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-2-29"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-2-29"
       }
     },
     {
@@ -4537,7 +4537,7 @@
       "notes": [],
       "work_passage_id": "bar:2.30",
       "html_path": "works/bar/index.html#p-2-30",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-2-30",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-2-30",
       "alignment_revision": "sha256:02d344d9ef7cd8b6ae3445e818610129e8f9c9c238850c48f498d5f16a750635",
       "review_state": {
         "human_reviewed": false,
@@ -4573,9 +4573,9 @@
         "work": "바룩서",
         "reference": "2.30",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:f24425336ba69dfcc32c9a8506e7e119fa9c6cbcdc9062d26423814f5482b47c",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-2-30"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-2-30"
       }
     },
     {
@@ -4627,7 +4627,7 @@
       "notes": [],
       "work_passage_id": "bar:2.31",
       "html_path": "works/bar/index.html#p-2-31",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-2-31",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-2-31",
       "alignment_revision": "sha256:e55b71f2117140f87a00b12bff01003e708c587d3d59933ef8432506d35c3a7e",
       "review_state": {
         "human_reviewed": false,
@@ -4663,9 +4663,9 @@
         "work": "바룩서",
         "reference": "2.31",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:4e4ee928420702d2795690e311bd72839eb74e7a5b338a2f0b677a010e39e2af",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-2-31"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-2-31"
       }
     },
     {
@@ -4704,7 +4704,7 @@
       "notes": [],
       "work_passage_id": "bar:2.32",
       "html_path": "works/bar/index.html#p-2-32",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-2-32",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-2-32",
       "alignment_revision": "sha256:74ea5ae71c9ec9bf082975815fddd57fe8f0a84d245dfe1c8a85ea51c6750dfe",
       "review_state": {
         "human_reviewed": false,
@@ -4740,9 +4740,9 @@
         "work": "바룩서",
         "reference": "2.32",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:7f65dd18f8d2ee398e3662387d10bc77e7601562546bb754843083d8cdf86e37",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-2-32"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-2-32"
       }
     },
     {
@@ -4794,7 +4794,7 @@
       "notes": [],
       "work_passage_id": "bar:2.33",
       "html_path": "works/bar/index.html#p-2-33",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-2-33",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-2-33",
       "alignment_revision": "sha256:5b09bfea8d00a029496bbddc74298cacac582b7adf212e0240893d553c88e5ea",
       "review_state": {
         "human_reviewed": false,
@@ -4830,9 +4830,9 @@
         "work": "바룩서",
         "reference": "2.33",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:1d68316da1f24ed73db10b4b48108798c282d0fded5ae926545739cd19fc5e58",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-2-33"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-2-33"
       }
     },
     {
@@ -4884,7 +4884,7 @@
       "notes": [],
       "work_passage_id": "bar:2.34",
       "html_path": "works/bar/index.html#p-2-34",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-2-34",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-2-34",
       "alignment_revision": "sha256:44f13ad462e656085c222724de5aaa1b08c817c5d71401b9f6beb255ba799bfe",
       "review_state": {
         "human_reviewed": false,
@@ -4920,9 +4920,9 @@
         "work": "바룩서",
         "reference": "2.34",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:22bc7868f90c4ccc7dee17d48aafce1f9c46be42336adee9c5598bd8f6a2c8ea",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-2-34"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-2-34"
       }
     },
     {
@@ -4974,7 +4974,7 @@
       "notes": [],
       "work_passage_id": "bar:2.35",
       "html_path": "works/bar/index.html#p-2-35",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-2-35",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-2-35",
       "alignment_revision": "sha256:ae71829e6333b5180aab95ce198b2dc1c1173c66d2049011e781a985992aad38",
       "review_state": {
         "human_reviewed": false,
@@ -5010,9 +5010,9 @@
         "work": "바룩서",
         "reference": "2.35",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:fa6d53d45ecd9c1639064b863f32a5feef2eaa1e1a2ef1df4a5cdd034ccc00b6",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-2-35"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-2-35"
       }
     },
     {
@@ -5064,7 +5064,7 @@
       "notes": [],
       "work_passage_id": "bar:3.1",
       "html_path": "works/bar/index.html#p-3-1",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-3-1",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-3-1",
       "alignment_revision": "sha256:00db4d5202669506bfca85231ca4fdaf1e6d1af2d0aa62d6b2a064d2eab59aba",
       "review_state": {
         "human_reviewed": false,
@@ -5100,9 +5100,9 @@
         "work": "바룩서",
         "reference": "3.1",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:46eb7bb63842794707e3b950c3f58d6af525e7dc1a083e9be334b914c685dc7e",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-3-1"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-3-1"
       }
     },
     {
@@ -5141,7 +5141,7 @@
       "notes": [],
       "work_passage_id": "bar:3.2",
       "html_path": "works/bar/index.html#p-3-2",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-3-2",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-3-2",
       "alignment_revision": "sha256:8dd5e282e76bea9fba737afaa0187ea05356dda6fdd7173a7ee7c63bd2f68d66",
       "review_state": {
         "human_reviewed": false,
@@ -5177,9 +5177,9 @@
         "work": "바룩서",
         "reference": "3.2",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:c55e432771398c9264bce547da1973c48770d67bb30e99e1cc9bfdb0cf1f3ff7",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-3-2"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-3-2"
       }
     },
     {
@@ -5218,7 +5218,7 @@
       "notes": [],
       "work_passage_id": "bar:3.3",
       "html_path": "works/bar/index.html#p-3-3",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-3-3",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-3-3",
       "alignment_revision": "sha256:26d0f56cd1b20176ff31f851501219f9658c9b3c45f60a5a88130058e39b2c46",
       "review_state": {
         "human_reviewed": false,
@@ -5254,9 +5254,9 @@
         "work": "바룩서",
         "reference": "3.3",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:7f06b1e1e0fd958bafe774436da86cf59ceadf463c5dc25b263f1cdf26d13b74",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-3-3"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-3-3"
       }
     },
     {
@@ -5310,7 +5310,7 @@
       ],
       "work_passage_id": "bar:3.4",
       "html_path": "works/bar/index.html#p-3-4",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-3-4",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-3-4",
       "alignment_revision": "sha256:62ceebf3fed1d7222f2e7b9842dc5c22438f92a394452d1afc95a70421ddd67a",
       "review_state": {
         "human_reviewed": false,
@@ -5346,9 +5346,9 @@
         "work": "바룩서",
         "reference": "3.4",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:3c62c3dbde441aeecef3afa12f8c8334f5a4e9c50d1bf5e77cce4284482ad08b",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-3-4"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-3-4"
       }
     },
     {
@@ -5400,7 +5400,7 @@
       "notes": [],
       "work_passage_id": "bar:3.5",
       "html_path": "works/bar/index.html#p-3-5",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-3-5",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-3-5",
       "alignment_revision": "sha256:e722ef53d1a385be3ce9dfd74753a7eda3d7a9bc655f544f315c50d409adff4d",
       "review_state": {
         "human_reviewed": false,
@@ -5436,9 +5436,9 @@
         "work": "바룩서",
         "reference": "3.5",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:a57906b1723fcc0520e4b5d4bb6924148b28f240eea3c8c528e725e824f13550",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-3-5"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-3-5"
       }
     },
     {
@@ -5477,7 +5477,7 @@
       "notes": [],
       "work_passage_id": "bar:3.6",
       "html_path": "works/bar/index.html#p-3-6",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-3-6",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-3-6",
       "alignment_revision": "sha256:b46a3fbd31294af03fa8d5b3d09dcd081bfb157b5246cc5f68b636fa827d462c",
       "review_state": {
         "human_reviewed": false,
@@ -5513,9 +5513,9 @@
         "work": "바룩서",
         "reference": "3.6",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:26b1dab7a53589c65bdcbbcbe718284da1326d451bf317061ff4dcc92b107db3",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-3-6"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-3-6"
       }
     },
     {
@@ -5596,7 +5596,7 @@
       ],
       "work_passage_id": "bar:3.7",
       "html_path": "works/bar/index.html#p-3-7",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-3-7",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-3-7",
       "alignment_revision": "sha256:f5ca30704b21b47d909431bef98daad02806967f762f1a733d2308e34f218dc3",
       "review_state": {
         "human_reviewed": false,
@@ -5632,9 +5632,9 @@
         "work": "바룩서",
         "reference": "3.7",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:2aa4e14c63889b06a931fa599b97828f3e3d11535d806ab0961b88c6451f6d37",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-3-7",
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-3-7",
         "collation_edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소."
       }
     },
@@ -5687,7 +5687,7 @@
       "notes": [],
       "work_passage_id": "bar:3.8",
       "html_path": "works/bar/index.html#p-3-8",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-3-8",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-3-8",
       "alignment_revision": "sha256:95d20fac4f996f5c68fa5f905406eeff4ac51aea34a6a7cda487de2c180bed07",
       "review_state": {
         "human_reviewed": false,
@@ -5723,9 +5723,9 @@
         "work": "바룩서",
         "reference": "3.8",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:8b1daf991ddf071304cb71810c242bc54475a44e4df36b73025e7f2488b88c02",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-3-8"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-3-8"
       }
     },
     {
@@ -5777,7 +5777,7 @@
       "notes": [],
       "work_passage_id": "bar:3.9",
       "html_path": "works/bar/index.html#p-3-9",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-3-9",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-3-9",
       "alignment_revision": "sha256:c9b9f1c45d1f66d01d80032348a5486c3419c062f403ed53001dff80c1309d04",
       "review_state": {
         "human_reviewed": false,
@@ -5813,9 +5813,9 @@
         "work": "바룩서",
         "reference": "3.9",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:d83a2573ce3e989259ba66df4c31303c3a4a2cc8c80f827ba5321d162385f903",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-3-9"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-3-9"
       }
     },
     {
@@ -5867,7 +5867,7 @@
       "notes": [],
       "work_passage_id": "bar:3.10",
       "html_path": "works/bar/index.html#p-3-10",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-3-10",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-3-10",
       "alignment_revision": "sha256:5c0d1671441f23bea69a187362fb7c64b19974d1f4309f4997c83f88bfd1abf9",
       "review_state": {
         "human_reviewed": false,
@@ -5903,9 +5903,9 @@
         "work": "바룩서",
         "reference": "3.10",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:037d6425010a2394b19992cfcf363136d244bc1aaff421d7d5018bc7d4d30b4c",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-3-10"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-3-10"
       }
     },
     {
@@ -5944,7 +5944,7 @@
       "notes": [],
       "work_passage_id": "bar:3.11",
       "html_path": "works/bar/index.html#p-3-11",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-3-11",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-3-11",
       "alignment_revision": "sha256:88e198a09a0c808e8cde0129f6120f17e54f0863656d6ae3571ceace87a6200a",
       "review_state": {
         "human_reviewed": false,
@@ -5980,9 +5980,9 @@
         "work": "바룩서",
         "reference": "3.11",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:53a10c708726235195c2ae5fe251c1c336065572e5f23ead9f11004a6cf1f72e",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-3-11"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-3-11"
       }
     },
     {
@@ -6035,7 +6035,7 @@
       "notes": [],
       "work_passage_id": "bar:3.12",
       "html_path": "works/bar/index.html#p-3-12",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-3-12",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-3-12",
       "alignment_revision": "sha256:d7a11c3d994813cf368a70349ab8b6ec59cac8871b397e92b54f5f325a5a7fbd",
       "review_state": {
         "human_reviewed": false,
@@ -6071,9 +6071,9 @@
         "work": "바룩서",
         "reference": "3.12",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:c0f556b3a0563a8a7870abeee758c575bf22c6dc85ae49bc4ce5b71d9383d34b",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-3-12",
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-3-12",
         "collation_edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소."
       }
     },
@@ -6113,7 +6113,7 @@
       "notes": [],
       "work_passage_id": "bar:3.13",
       "html_path": "works/bar/index.html#p-3-13",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-3-13",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-3-13",
       "alignment_revision": "sha256:ab276fa6c619396b4b83f2daf22218834f9fdc08ed2feb750adf5c23e6be1a39",
       "review_state": {
         "human_reviewed": false,
@@ -6149,9 +6149,9 @@
         "work": "바룩서",
         "reference": "3.13",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:5c8bac2a053397e81e5c3f01d7915c1a63283e32a586083a8477be1a9c602d88",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-3-13"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-3-13"
       }
     },
     {
@@ -6203,7 +6203,7 @@
       "notes": [],
       "work_passage_id": "bar:3.14",
       "html_path": "works/bar/index.html#p-3-14",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-3-14",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-3-14",
       "alignment_revision": "sha256:f6cb2c06a1b88c7440ba91bdbbd332af0217fde999cf59cd5fc1fad7c35d51ea",
       "review_state": {
         "human_reviewed": false,
@@ -6239,9 +6239,9 @@
         "work": "바룩서",
         "reference": "3.14",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:e4661cac9ce41bc79b6abda1477b95b5290248f3ce871054b1e417f0a298423e",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-3-14"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-3-14"
       }
     },
     {
@@ -6280,7 +6280,7 @@
       "notes": [],
       "work_passage_id": "bar:3.15",
       "html_path": "works/bar/index.html#p-3-15",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-3-15",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-3-15",
       "alignment_revision": "sha256:e445da448f23c31fb7898cd28ff75a98541816b6d17613c615ee4ef75a582457",
       "review_state": {
         "human_reviewed": false,
@@ -6316,9 +6316,9 @@
         "work": "바룩서",
         "reference": "3.15",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:0681bfeb096b7cf54947f3de40d5dbb694c1c58286dc14c07ebf249a5b94e63a",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-3-15"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-3-15"
       }
     },
     {
@@ -6357,7 +6357,7 @@
       "notes": [],
       "work_passage_id": "bar:3.16",
       "html_path": "works/bar/index.html#p-3-16",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-3-16",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-3-16",
       "alignment_revision": "sha256:a44113da9a1cc2c25e507a2a95e2a5d871e8e47d71708ce91cbb9c58f40b7ce4",
       "review_state": {
         "human_reviewed": false,
@@ -6393,9 +6393,9 @@
         "work": "바룩서",
         "reference": "3.16",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:6169b0128bc65b6d3185568815bfe28cf13745b25e598aa95237bd0146e5651e",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-3-16"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-3-16"
       }
     },
     {
@@ -6447,7 +6447,7 @@
       "notes": [],
       "work_passage_id": "bar:3.17",
       "html_path": "works/bar/index.html#p-3-17",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-3-17",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-3-17",
       "alignment_revision": "sha256:92c74788de97e086578f4be81f9b388270f95cd2e5b33d898af6806cca10c090",
       "review_state": {
         "human_reviewed": false,
@@ -6483,9 +6483,9 @@
         "work": "바룩서",
         "reference": "3.17",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:de9ff6904faa344a2fe65841d7726f292bc5906679e162a4b386b87d1fed8001",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-3-17"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-3-17"
       }
     },
     {
@@ -6537,7 +6537,7 @@
       "notes": [],
       "work_passage_id": "bar:3.18",
       "html_path": "works/bar/index.html#p-3-18",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-3-18",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-3-18",
       "alignment_revision": "sha256:ba0a91c3434fc6801658eae96cd33e08445050a4e0121692f478cb874eec94b9",
       "review_state": {
         "human_reviewed": false,
@@ -6573,9 +6573,9 @@
         "work": "바룩서",
         "reference": "3.18",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:cf9e6ca2013da2797ea31bb66e3af2b7c357e0d48706ec4d635fd5a753e32666",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-3-18"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-3-18"
       }
     },
     {
@@ -6614,7 +6614,7 @@
       "notes": [],
       "work_passage_id": "bar:3.19",
       "html_path": "works/bar/index.html#p-3-19",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-3-19",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-3-19",
       "alignment_revision": "sha256:6e68bdfadb1543c49af3ea6c7fc8e5dd821fe68db5685de279c7d6cdf37faf5b",
       "review_state": {
         "human_reviewed": false,
@@ -6650,9 +6650,9 @@
         "work": "바룩서",
         "reference": "3.19",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:cb4b4e6b32d4177ab45376386ca94c3d02978f9129ac76c933705b5d6ade12e3",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-3-19"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-3-19"
       }
     },
     {
@@ -6691,7 +6691,7 @@
       "notes": [],
       "work_passage_id": "bar:3.20",
       "html_path": "works/bar/index.html#p-3-20",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-3-20",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-3-20",
       "alignment_revision": "sha256:13a6c23c3cc80c5fafbd9f13d65ff8be464c8e04444275c9c9aff01e8fab4c75",
       "review_state": {
         "human_reviewed": false,
@@ -6727,9 +6727,9 @@
         "work": "바룩서",
         "reference": "3.20",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:dc0d51cb9c5d300ae53290f48be49b2775662431e01023ef5ece8c0c01163e01",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-3-20"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-3-20"
       }
     },
     {
@@ -6781,7 +6781,7 @@
       "notes": [],
       "work_passage_id": "bar:3.21",
       "html_path": "works/bar/index.html#p-3-21",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-3-21",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-3-21",
       "alignment_revision": "sha256:2b9c0853b2bdf665c4899f1104f36ae6230043eff0552d78af0b6e8f253c0145",
       "review_state": {
         "human_reviewed": false,
@@ -6817,9 +6817,9 @@
         "work": "바룩서",
         "reference": "3.21",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:214871abf9c5e9e2c520780c7c04915234bba70b3223cba3b2cab26f3f09c20f",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-3-21"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-3-21"
       }
     },
     {
@@ -6858,7 +6858,7 @@
       "notes": [],
       "work_passage_id": "bar:3.22",
       "html_path": "works/bar/index.html#p-3-22",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-3-22",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-3-22",
       "alignment_revision": "sha256:c0d5c4dcc916c67a46330f20a55e6ee660a5f8d389cda8ea4a83085532202c62",
       "review_state": {
         "human_reviewed": false,
@@ -6894,9 +6894,9 @@
         "work": "바룩서",
         "reference": "3.22",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:9063e5173cb690232e3d52a1657ae7eac911cddedbb7b639beaf2c78252499b7",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-3-22"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-3-22"
       }
     },
     {
@@ -6950,7 +6950,7 @@
       ],
       "work_passage_id": "bar:3.23",
       "html_path": "works/bar/index.html#p-3-23",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-3-23",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-3-23",
       "alignment_revision": "sha256:97375f2179be4bec12d2940a2dd0ee76daddd8ae23c6286e7c6dbf814ca7bbbf",
       "review_state": {
         "human_reviewed": false,
@@ -6986,9 +6986,9 @@
         "work": "바룩서",
         "reference": "3.23",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:477b9e2263b9923395b85534cbcd9bbfbf4e74dfd9107c4d67d83f28392bd3df",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-3-23"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-3-23"
       }
     },
     {
@@ -7027,7 +7027,7 @@
       "notes": [],
       "work_passage_id": "bar:3.24",
       "html_path": "works/bar/index.html#p-3-24",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-3-24",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-3-24",
       "alignment_revision": "sha256:2ffa6286acaf58522b8feeff093772f58854d7c9d383b287b33b966dc18330a8",
       "review_state": {
         "human_reviewed": false,
@@ -7063,9 +7063,9 @@
         "work": "바룩서",
         "reference": "3.24",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:7c1d66c76303755bbbd6c384fd2736fa67a25202e987ddd9f114ec88e7ade141",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-3-24"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-3-24"
       }
     },
     {
@@ -7104,7 +7104,7 @@
       "notes": [],
       "work_passage_id": "bar:3.25",
       "html_path": "works/bar/index.html#p-3-25",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-3-25",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-3-25",
       "alignment_revision": "sha256:8b4bfb7b301bb414f847a11deed31f9986d722ce1aebb511d17f990f36342113",
       "review_state": {
         "human_reviewed": false,
@@ -7140,9 +7140,9 @@
         "work": "바룩서",
         "reference": "3.25",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:ceadd01efaf2e6056ccca7864b90bc41fdda3ccb29a5688934a8db368feb1510",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-3-25"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-3-25"
       }
     },
     {
@@ -7181,7 +7181,7 @@
       "notes": [],
       "work_passage_id": "bar:3.26",
       "html_path": "works/bar/index.html#p-3-26",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-3-26",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-3-26",
       "alignment_revision": "sha256:5fa77778fd825aae4f4fb228e1f4e3d5c5cee271c85c9bda969f4b872871452f",
       "review_state": {
         "human_reviewed": false,
@@ -7217,9 +7217,9 @@
         "work": "바룩서",
         "reference": "3.26",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:8d4443ffef252b59d4e9aaf1af10356819c80b19c91ce7e48f8039c60be71249",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-3-26"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-3-26"
       }
     },
     {
@@ -7258,7 +7258,7 @@
       "notes": [],
       "work_passage_id": "bar:3.27",
       "html_path": "works/bar/index.html#p-3-27",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-3-27",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-3-27",
       "alignment_revision": "sha256:9f5598a7e01a1e148f0af83f3ca570b9209e789b3614f6be06ee25afda10c33f",
       "review_state": {
         "human_reviewed": false,
@@ -7294,9 +7294,9 @@
         "work": "바룩서",
         "reference": "3.27",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:c99e18d45d003977ee6107ce0c25f563a62b64040394d240fd756d6210954589",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-3-27"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-3-27"
       }
     },
     {
@@ -7335,7 +7335,7 @@
       "notes": [],
       "work_passage_id": "bar:3.28",
       "html_path": "works/bar/index.html#p-3-28",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-3-28",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-3-28",
       "alignment_revision": "sha256:5224ebaba68b2d7643d83947807ee84811530021852def01a066d31a08ce79ff",
       "review_state": {
         "human_reviewed": false,
@@ -7371,9 +7371,9 @@
         "work": "바룩서",
         "reference": "3.28",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:2039230b1b7a74e7c2fdfedfae12e3525c74e8f7c7f1a508be7d91cbf676976e",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-3-28"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-3-28"
       }
     },
     {
@@ -7412,7 +7412,7 @@
       "notes": [],
       "work_passage_id": "bar:3.29",
       "html_path": "works/bar/index.html#p-3-29",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-3-29",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-3-29",
       "alignment_revision": "sha256:54dac7658f87bb2ec25065eac76bc243c13c04e84a324d111d71417330ce10bc",
       "review_state": {
         "human_reviewed": false,
@@ -7448,9 +7448,9 @@
         "work": "바룩서",
         "reference": "3.29",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:4374cf2b2fa425a088eaf4af98a8a95c5928b9269eeb7120ea49e937bb171d91",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-3-29"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-3-29"
       }
     },
     {
@@ -7489,7 +7489,7 @@
       "notes": [],
       "work_passage_id": "bar:3.30",
       "html_path": "works/bar/index.html#p-3-30",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-3-30",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-3-30",
       "alignment_revision": "sha256:d546069cf56a582584e62c30a20a6a5cb9958775d148562924b8b575f845b63d",
       "review_state": {
         "human_reviewed": false,
@@ -7525,9 +7525,9 @@
         "work": "바룩서",
         "reference": "3.30",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:e807422ec26f134e6fe5b38cf110987abfb350bc536298316c338e087c33e579",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-3-30"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-3-30"
       }
     },
     {
@@ -7566,7 +7566,7 @@
       "notes": [],
       "work_passage_id": "bar:3.31",
       "html_path": "works/bar/index.html#p-3-31",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-3-31",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-3-31",
       "alignment_revision": "sha256:5989e4f5363a657408313df08ad0eedd5f6dd7b6504b729046081a138d8b40f3",
       "review_state": {
         "human_reviewed": false,
@@ -7602,9 +7602,9 @@
         "work": "바룩서",
         "reference": "3.31",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:98a8b5ce5cdb7350208dab4ccddc024cf059bc3df28e93c58e5dc5541c440a76",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-3-31"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-3-31"
       }
     },
     {
@@ -7656,7 +7656,7 @@
       "notes": [],
       "work_passage_id": "bar:3.32",
       "html_path": "works/bar/index.html#p-3-32",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-3-32",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-3-32",
       "alignment_revision": "sha256:a79536ad999f3b02d2b29c2cb2aad0af0d09e205e4597291708d336c66648a1c",
       "review_state": {
         "human_reviewed": false,
@@ -7692,9 +7692,9 @@
         "work": "바룩서",
         "reference": "3.32",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:c6d4d71db5ed0108fd7b145d0cd81c99b6cd3e78c4e6a1af5edf1678c7b50384",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-3-32"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-3-32"
       }
     },
     {
@@ -7746,7 +7746,7 @@
       "notes": [],
       "work_passage_id": "bar:3.33",
       "html_path": "works/bar/index.html#p-3-33",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-3-33",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-3-33",
       "alignment_revision": "sha256:1393d6eda884c88230d1ab55372d76361393f3454071542a899e905f9f1663c8",
       "review_state": {
         "human_reviewed": false,
@@ -7782,9 +7782,9 @@
         "work": "바룩서",
         "reference": "3.33",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:9a22b33df874628fa1b828bcbe25dfdf95e3c1c40c3f727094f9f8a19f147fc0",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-3-33"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-3-33"
       }
     },
     {
@@ -7823,7 +7823,7 @@
       "notes": [],
       "work_passage_id": "bar:3.34",
       "html_path": "works/bar/index.html#p-3-34",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-3-34",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-3-34",
       "alignment_revision": "sha256:5f9a59801e98b01555e8dffc0a09b909b19953b3015041baffda05edebe8ded6",
       "review_state": {
         "human_reviewed": false,
@@ -7859,9 +7859,9 @@
         "work": "바룩서",
         "reference": "3.34",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:38f6493d663f71035de1988c176ae9ea6e513eaeceda47b1136b0ea209ccdaaf",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-3-34"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-3-34"
       }
     },
     {
@@ -7913,7 +7913,7 @@
       "notes": [],
       "work_passage_id": "bar:3.35",
       "html_path": "works/bar/index.html#p-3-35",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-3-35",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-3-35",
       "alignment_revision": "sha256:d858b10adda01e39490711a4031e1e887624c78feb3ca67442772c596d7b1684",
       "review_state": {
         "human_reviewed": false,
@@ -7949,9 +7949,9 @@
         "work": "바룩서",
         "reference": "3.35",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:aa06f12558dbcf39be14d53a6256af9ec6cdd7dc03b18a50e7fc0f8eb80dcfd9",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-3-35"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-3-35"
       }
     },
     {
@@ -7990,7 +7990,7 @@
       "notes": [],
       "work_passage_id": "bar:3.36",
       "html_path": "works/bar/index.html#p-3-36",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-3-36",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-3-36",
       "alignment_revision": "sha256:580ffd246b03dec7d10a2f8ee4e49de9ac45c3722c2a79fc1b4b4b047aeb1d94",
       "review_state": {
         "human_reviewed": false,
@@ -8026,9 +8026,9 @@
         "work": "바룩서",
         "reference": "3.36",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:b5f828afd2178e9bd7cc1fd3f48f9a24d01981f79f1d2bda0b788015f7c3c208",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-3-36"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-3-36"
       }
     },
     {
@@ -8080,7 +8080,7 @@
       "notes": [],
       "work_passage_id": "bar:3.37",
       "html_path": "works/bar/index.html#p-3-37",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-3-37",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-3-37",
       "alignment_revision": "sha256:488e5f3b8008bb5c9933db27104dd9f05da12a52350771e25224a11157aab6e3",
       "review_state": {
         "human_reviewed": false,
@@ -8116,9 +8116,9 @@
         "work": "바룩서",
         "reference": "3.37",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:e47ee5dab33c038bc260dafc3cd817e63e7428f31c8b5c0ac61509161af4902e",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-3-37"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-3-37"
       }
     },
     {
@@ -8159,7 +8159,7 @@
       ],
       "work_passage_id": "bar:3.38",
       "html_path": "works/bar/index.html#p-3-38",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-3-38",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-3-38",
       "alignment_revision": "sha256:c2aade9765dde745aa63698c614c938ec60a9338829f920e7335b7afd7a0dd8b",
       "review_state": {
         "human_reviewed": false,
@@ -8195,9 +8195,9 @@
         "work": "바룩서",
         "reference": "3.38",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:b8daa31266c2fd32b3544a4d74c71c5d4711137b6a4e9d3797e0ae070d160070",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-3-38"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-3-38"
       }
     },
     {
@@ -8262,7 +8262,7 @@
       "notes": [],
       "work_passage_id": "bar:4.1",
       "html_path": "works/bar/index.html#p-4-1",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-4-1",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-4-1",
       "alignment_revision": "sha256:62a6dad1576b9ad0a5e288b7a6ffd5e3d0c54f0bfb3be4a1d33770d7bf42afbc",
       "review_state": {
         "human_reviewed": false,
@@ -8298,9 +8298,9 @@
         "work": "바룩서",
         "reference": "4.1",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:6de27327a985603e48f271aeb3ce162549cbdb7d4d650563ae5437a219066945",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-4-1"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-4-1"
       }
     },
     {
@@ -8352,7 +8352,7 @@
       "notes": [],
       "work_passage_id": "bar:4.2",
       "html_path": "works/bar/index.html#p-4-2",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-4-2",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-4-2",
       "alignment_revision": "sha256:15f38ee9bc776d10cd7b1ed136739de53d4f99f0e2071b09414a395caaf52a3e",
       "review_state": {
         "human_reviewed": false,
@@ -8388,9 +8388,9 @@
         "work": "바룩서",
         "reference": "4.2",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:5c266ee8d8c37dfb189b5ce9339d3a7cc51b868c4dfd91fc4562801678575991",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-4-2"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-4-2"
       }
     },
     {
@@ -8429,7 +8429,7 @@
       "notes": [],
       "work_passage_id": "bar:4.3",
       "html_path": "works/bar/index.html#p-4-3",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-4-3",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-4-3",
       "alignment_revision": "sha256:7a91176865eaa4f79bb20b768a709e1af25a5cc119ed7c73a80a702239c474fc",
       "review_state": {
         "human_reviewed": false,
@@ -8465,9 +8465,9 @@
         "work": "바룩서",
         "reference": "4.3",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:be7731986779a3112b7a93479d8f1c94cac4ced4c98461a07e4a3acb168a24d0",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-4-3"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-4-3"
       }
     },
     {
@@ -8506,7 +8506,7 @@
       "notes": [],
       "work_passage_id": "bar:4.4",
       "html_path": "works/bar/index.html#p-4-4",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-4-4",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-4-4",
       "alignment_revision": "sha256:b375e6c68d604c06e118fd8efda3f44767053df265858420a35f683b16175748",
       "review_state": {
         "human_reviewed": false,
@@ -8542,9 +8542,9 @@
         "work": "바룩서",
         "reference": "4.4",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:8fef5104a2b873e9dbd0ae009daf5e06ca68b58c149c3ba08c8eb5f4bab281f3",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-4-4"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-4-4"
       }
     },
     {
@@ -8583,7 +8583,7 @@
       "notes": [],
       "work_passage_id": "bar:4.5",
       "html_path": "works/bar/index.html#p-4-5",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-4-5",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-4-5",
       "alignment_revision": "sha256:97700f41e51a57372a7c172bfe8d92a863689301e3a581d145b3ef4af13f358b",
       "review_state": {
         "human_reviewed": false,
@@ -8619,9 +8619,9 @@
         "work": "바룩서",
         "reference": "4.5",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:e1c11f3e30310de0259317dbe1043592d507d1919ad9b977a8b28ae099ed67dd",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-4-5"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-4-5"
       }
     },
     {
@@ -8673,7 +8673,7 @@
       "notes": [],
       "work_passage_id": "bar:4.6",
       "html_path": "works/bar/index.html#p-4-6",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-4-6",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-4-6",
       "alignment_revision": "sha256:e3834ee00f6f039a193718e111add604dac80c82fe9cddffa9b13bbabc49369b",
       "review_state": {
         "human_reviewed": false,
@@ -8709,9 +8709,9 @@
         "work": "바룩서",
         "reference": "4.6",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:636bed084a118c1ca28e0199ad7f0d006150209c1b2011f97c9b6c2fd51476a1",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-4-6"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-4-6"
       }
     },
     {
@@ -8750,7 +8750,7 @@
       "notes": [],
       "work_passage_id": "bar:4.7",
       "html_path": "works/bar/index.html#p-4-7",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-4-7",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-4-7",
       "alignment_revision": "sha256:c2ea5decdad4968378b239cddcf993735b0ac398abd1e6fd460330f15ac7115f",
       "review_state": {
         "human_reviewed": false,
@@ -8786,9 +8786,9 @@
         "work": "바룩서",
         "reference": "4.7",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:4a93a9c464675cff51a7ddfcff81149afd0fad511a06cb987641e14c35e06c2f",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-4-7"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-4-7"
       }
     },
     {
@@ -8854,7 +8854,7 @@
       "notes": [],
       "work_passage_id": "bar:4.8",
       "html_path": "works/bar/index.html#p-4-8",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-4-8",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-4-8",
       "alignment_revision": "sha256:1abb55a80aebd18b766f5b6e4dde2487144e37c9629334173a86bd034346630c",
       "review_state": {
         "human_reviewed": false,
@@ -8890,9 +8890,9 @@
         "work": "바룩서",
         "reference": "4.8",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:a595af52276e877e67764b3524afdd4b777693f002a0a715a7e67ece456b7d6d",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-4-8",
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-4-8",
         "collation_edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소."
       }
     },
@@ -8947,7 +8947,7 @@
       ],
       "work_passage_id": "bar:4.9",
       "html_path": "works/bar/index.html#p-4-9",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-4-9",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-4-9",
       "alignment_revision": "sha256:0358ceead9ca68aad3392e885a3ba06bf0bcbc5b946b5040ea5d70c8ec9e227b",
       "review_state": {
         "human_reviewed": false,
@@ -8983,9 +8983,9 @@
         "work": "바룩서",
         "reference": "4.9",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:39056fd10d250772ec19ce5826ba015bc2a41dd381e93bc9946ec6e459727053",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-4-9"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-4-9"
       }
     },
     {
@@ -9024,7 +9024,7 @@
       "notes": [],
       "work_passage_id": "bar:4.10",
       "html_path": "works/bar/index.html#p-4-10",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-4-10",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-4-10",
       "alignment_revision": "sha256:4a09bac78bff67d30e3bba6615b86366e8fecc35a72024fefe5f545bc9b48351",
       "review_state": {
         "human_reviewed": false,
@@ -9060,9 +9060,9 @@
         "work": "바룩서",
         "reference": "4.10",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:7e23083a9d41a6e8d3dd6e694b56da99fabd4df1eb2ce484c9e753c98fa67497",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-4-10"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-4-10"
       }
     },
     {
@@ -9101,7 +9101,7 @@
       "notes": [],
       "work_passage_id": "bar:4.11",
       "html_path": "works/bar/index.html#p-4-11",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-4-11",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-4-11",
       "alignment_revision": "sha256:6a7fa5b2088d14eb8cebb3bd80c1c76f58fa1b32ec32242c5f8aa17c3562a3a5",
       "review_state": {
         "human_reviewed": false,
@@ -9137,9 +9137,9 @@
         "work": "바룩서",
         "reference": "4.11",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:839e6f6e824eb0c9dd9090ed24e624c6967ddd0df4f9f53396c83fa474aa40e4",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-4-11"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-4-11"
       }
     },
     {
@@ -9191,7 +9191,7 @@
       "notes": [],
       "work_passage_id": "bar:4.12",
       "html_path": "works/bar/index.html#p-4-12",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-4-12",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-4-12",
       "alignment_revision": "sha256:2486cbad940d311f8d876ef1192da4dde4b01073de627dbef9253270538ad158",
       "review_state": {
         "human_reviewed": false,
@@ -9227,9 +9227,9 @@
         "work": "바룩서",
         "reference": "4.12",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:0bf6b5fb0c819b8521449a4303011799a8f13c22186fd88414e2ea83e043214a",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-4-12"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-4-12"
       }
     },
     {
@@ -9294,7 +9294,7 @@
       "notes": [],
       "work_passage_id": "bar:4.13",
       "html_path": "works/bar/index.html#p-4-13",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-4-13",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-4-13",
       "alignment_revision": "sha256:b85c96286caa06d8af667036936ae29e02304a0e6419c8efa29b63ddcde4b57f",
       "review_state": {
         "human_reviewed": false,
@@ -9330,9 +9330,9 @@
         "work": "바룩서",
         "reference": "4.13",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:7e2f5831ad2655973adeac644fb158ab8832bee4ca4c6e5d2ade0cd63404ea8e",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-4-13"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-4-13"
       }
     },
     {
@@ -9384,7 +9384,7 @@
       "notes": [],
       "work_passage_id": "bar:4.14",
       "html_path": "works/bar/index.html#p-4-14",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-4-14",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-4-14",
       "alignment_revision": "sha256:b7fd2ae5cf195016d203a08e4ffc7dc7db5e74afa0d5d2d817e888e744dc09da",
       "review_state": {
         "human_reviewed": false,
@@ -9420,9 +9420,9 @@
         "work": "바룩서",
         "reference": "4.14",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:c6e87e51a1cc7cdf6ee674ba71e18c44bd6d9e527b93baa2c4c2e120dfa40f23",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-4-14"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-4-14"
       }
     },
     {
@@ -9474,7 +9474,7 @@
       "notes": [],
       "work_passage_id": "bar:4.15",
       "html_path": "works/bar/index.html#p-4-15",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-4-15",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-4-15",
       "alignment_revision": "sha256:25c7071e7efc76687b3ade0dd7b717e79036ee3227f698c1638b1d8ec0f5d443",
       "review_state": {
         "human_reviewed": false,
@@ -9510,9 +9510,9 @@
         "work": "바룩서",
         "reference": "4.15",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:49912a48fc5568ad768f388763ec9453d12f24c06f48ff9c8ee5112d5fc831ba",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-4-15"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-4-15"
       }
     },
     {
@@ -9551,7 +9551,7 @@
       "notes": [],
       "work_passage_id": "bar:4.16",
       "html_path": "works/bar/index.html#p-4-16",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-4-16",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-4-16",
       "alignment_revision": "sha256:a365cc7faa8ce7cfdd282d30cbc3b6489fb8ac7e34ef43a34341830fd1650b20",
       "review_state": {
         "human_reviewed": false,
@@ -9587,9 +9587,9 @@
         "work": "바룩서",
         "reference": "4.16",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:583cf69eb297ede9f67b95273e961b315ed910486fc91a0912745f7bad4f950d",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-4-16"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-4-16"
       }
     },
     {
@@ -9628,7 +9628,7 @@
       "notes": [],
       "work_passage_id": "bar:4.17",
       "html_path": "works/bar/index.html#p-4-17",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-4-17",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-4-17",
       "alignment_revision": "sha256:07f642e8366d03f341570becfdf8b7dbaeb297d142e5bd4a3286e369a9009c48",
       "review_state": {
         "human_reviewed": false,
@@ -9664,9 +9664,9 @@
         "work": "바룩서",
         "reference": "4.17",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:97800208b744264f410371d9433e6233a378957c073be56ee6acfebd363745a1",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-4-17"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-4-17"
       }
     },
     {
@@ -9705,7 +9705,7 @@
       "notes": [],
       "work_passage_id": "bar:4.18",
       "html_path": "works/bar/index.html#p-4-18",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-4-18",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-4-18",
       "alignment_revision": "sha256:66873d44afd510c94d3edc38eb692cc274f0c45b755e133c95ddb9d84c15647a",
       "review_state": {
         "human_reviewed": false,
@@ -9741,9 +9741,9 @@
         "work": "바룩서",
         "reference": "4.18",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:938be632e8c3e0eb2371ee5d3a9d566704677673f53289a36138a9123f1e5c70",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-4-18"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-4-18"
       }
     },
     {
@@ -9782,7 +9782,7 @@
       "notes": [],
       "work_passage_id": "bar:4.19",
       "html_path": "works/bar/index.html#p-4-19",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-4-19",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-4-19",
       "alignment_revision": "sha256:15964567d244c03ce107eae226102a94b5cfd25885e965e67ae4edf28ccb068e",
       "review_state": {
         "human_reviewed": false,
@@ -9818,9 +9818,9 @@
         "work": "바룩서",
         "reference": "4.19",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:a1d9adc010cd02b29c75ee10b04d57d8d4c9a0a2fa6d0b201f562dc8fc231d93",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-4-19"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-4-19"
       }
     },
     {
@@ -9872,7 +9872,7 @@
       "notes": [],
       "work_passage_id": "bar:4.20",
       "html_path": "works/bar/index.html#p-4-20",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-4-20",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-4-20",
       "alignment_revision": "sha256:72d010517257e60d4256c6f0b9342a51b31fb96fe951d87022ca01d00d8600ac",
       "review_state": {
         "human_reviewed": false,
@@ -9908,9 +9908,9 @@
         "work": "바룩서",
         "reference": "4.20",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:24488319e4528ba9c1b016bec127b6cd719bab5c83f6f062e258336ab71c9de8",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-4-20"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-4-20"
       }
     },
     {
@@ -9962,7 +9962,7 @@
       "notes": [],
       "work_passage_id": "bar:4.21",
       "html_path": "works/bar/index.html#p-4-21",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-4-21",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-4-21",
       "alignment_revision": "sha256:30b8817899662066a822de5bcdc10b7dd189067f8f2614d6073ccd8cdecf823f",
       "review_state": {
         "human_reviewed": false,
@@ -9998,9 +9998,9 @@
         "work": "바룩서",
         "reference": "4.21",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:731e74bd1ca8f38413a2a9710f9810165ca015e126d2f2038efa8684e28c5bb2",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-4-21"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-4-21"
       }
     },
     {
@@ -10052,7 +10052,7 @@
       "notes": [],
       "work_passage_id": "bar:4.22",
       "html_path": "works/bar/index.html#p-4-22",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-4-22",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-4-22",
       "alignment_revision": "sha256:da4a39da80fd1f443672d4321a9a72f84f357cd677202cd954aa4f80ba467909",
       "review_state": {
         "human_reviewed": false,
@@ -10088,9 +10088,9 @@
         "work": "바룩서",
         "reference": "4.22",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:907a649bbc65b9d50d4e182f66defaf1ac3c342f40bb26dc1dbbe4c60bcf7908",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-4-22"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-4-22"
       }
     },
     {
@@ -10142,7 +10142,7 @@
       "notes": [],
       "work_passage_id": "bar:4.23",
       "html_path": "works/bar/index.html#p-4-23",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-4-23",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-4-23",
       "alignment_revision": "sha256:1388a43633efd3f48a0246d0e0065b3238edcd44fe58fb55b94cf4fe0f5afc01",
       "review_state": {
         "human_reviewed": false,
@@ -10178,9 +10178,9 @@
         "work": "바룩서",
         "reference": "4.23",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:5e9a52254e54fe159f49791518b0b27e31042736e7654cbdd36db4a44fb98528",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-4-23"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-4-23"
       }
     },
     {
@@ -10232,7 +10232,7 @@
       "notes": [],
       "work_passage_id": "bar:4.24",
       "html_path": "works/bar/index.html#p-4-24",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-4-24",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-4-24",
       "alignment_revision": "sha256:7b1c753623ccd70a3462d26d7d0ed1fb22992037aa6e362603c5ee03e13ecc5e",
       "review_state": {
         "human_reviewed": false,
@@ -10268,9 +10268,9 @@
         "work": "바룩서",
         "reference": "4.24",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:cfd2304fa1543eb88a7e6d3a56e3cc434c538b7e43d7b2e592e5c9a179aa102b",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-4-24"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-4-24"
       }
     },
     {
@@ -10335,7 +10335,7 @@
       "notes": [],
       "work_passage_id": "bar:4.25",
       "html_path": "works/bar/index.html#p-4-25",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-4-25",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-4-25",
       "alignment_revision": "sha256:ba7633c6b1e0700f20e0be3229cd3157facb05de53b3b043f3c65af96d9ad9e2",
       "review_state": {
         "human_reviewed": false,
@@ -10371,9 +10371,9 @@
         "work": "바룩서",
         "reference": "4.25",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:8885a60016b7c51c01ac8bbd5e6d059dc487807606445958893e5e3419647b4a",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-4-25"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-4-25"
       }
     },
     {
@@ -10412,7 +10412,7 @@
       "notes": [],
       "work_passage_id": "bar:4.26",
       "html_path": "works/bar/index.html#p-4-26",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-4-26",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-4-26",
       "alignment_revision": "sha256:f6dccc04ef4c2bcb7ec8164481f7162d8253603767cf2acafc5ff0c57f774d7c",
       "review_state": {
         "human_reviewed": false,
@@ -10448,9 +10448,9 @@
         "work": "바룩서",
         "reference": "4.26",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:4f4442005a5aa2689c707a0246987d194df9e2c2edbb8d6c021fe06201e1c8e7",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-4-26"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-4-26"
       }
     },
     {
@@ -10502,7 +10502,7 @@
       "notes": [],
       "work_passage_id": "bar:4.27",
       "html_path": "works/bar/index.html#p-4-27",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-4-27",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-4-27",
       "alignment_revision": "sha256:663043add7c2655266475ab0d16bcb74fd9093fddd985608880b15a7c3d28721",
       "review_state": {
         "human_reviewed": false,
@@ -10538,9 +10538,9 @@
         "work": "바룩서",
         "reference": "4.27",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:365bcc55c0290958d015c2026829b0befbc82b2b97117ee471317ceb621ca866",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-4-27"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-4-27"
       }
     },
     {
@@ -10592,7 +10592,7 @@
       "notes": [],
       "work_passage_id": "bar:4.28",
       "html_path": "works/bar/index.html#p-4-28",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-4-28",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-4-28",
       "alignment_revision": "sha256:07b9ee5b347aa31f776cd928a2d9d23d3448f07a8343707741b6764b7c4638ac",
       "review_state": {
         "human_reviewed": false,
@@ -10628,9 +10628,9 @@
         "work": "바룩서",
         "reference": "4.28",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:0b865d29e22466c1663e864f4ce607f14174062a56be0e68cca93fc2f026bf57",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-4-28"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-4-28"
       }
     },
     {
@@ -10669,7 +10669,7 @@
       "notes": [],
       "work_passage_id": "bar:4.29",
       "html_path": "works/bar/index.html#p-4-29",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-4-29",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-4-29",
       "alignment_revision": "sha256:b3705194df583e4f024af3377335245291a1e163a6e01bf2fd0e3fe402de493f",
       "review_state": {
         "human_reviewed": false,
@@ -10705,9 +10705,9 @@
         "work": "바룩서",
         "reference": "4.29",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:d29a5941cbcdbc9c541ba9f12f4058b031a54969ab47173d52910064a2dcd161",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-4-29"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-4-29"
       }
     },
     {
@@ -10746,7 +10746,7 @@
       "notes": [],
       "work_passage_id": "bar:4.30",
       "html_path": "works/bar/index.html#p-4-30",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-4-30",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-4-30",
       "alignment_revision": "sha256:dc6a8eceb42333b96a28017734d308eba000cd3eed68710afd271797d67c4f33",
       "review_state": {
         "human_reviewed": false,
@@ -10782,9 +10782,9 @@
         "work": "바룩서",
         "reference": "4.30",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:0198f9fc28b7991ddd5c937fd55b0d6843f7fffcfcc190b57821fa77bb4db606",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-4-30"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-4-30"
       }
     },
     {
@@ -10823,7 +10823,7 @@
       "notes": [],
       "work_passage_id": "bar:4.31",
       "html_path": "works/bar/index.html#p-4-31",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-4-31",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-4-31",
       "alignment_revision": "sha256:e4be21d6b9c40c60afafd17fa5459c99ed8e06fc697e5e7f71d9ad8595b604c1",
       "review_state": {
         "human_reviewed": false,
@@ -10859,9 +10859,9 @@
         "work": "바룩서",
         "reference": "4.31",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:0bdafe81f3e944674cc4531c69cd953962a0f57d867ab250f77dbf883ba98f31",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-4-31"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-4-31"
       }
     },
     {
@@ -10900,7 +10900,7 @@
       "notes": [],
       "work_passage_id": "bar:4.32",
       "html_path": "works/bar/index.html#p-4-32",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-4-32",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-4-32",
       "alignment_revision": "sha256:31de69e116984fc107f150d79ee90b1b6a0c096105bc1254d9f6c6ae5fd6343a",
       "review_state": {
         "human_reviewed": false,
@@ -10936,9 +10936,9 @@
         "work": "바룩서",
         "reference": "4.32",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:22bf8bf8ccedb6d47793d6ac53cb2a1c226b62d0f0e1227c5e8a71e53ab6ae5a",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-4-32"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-4-32"
       }
     },
     {
@@ -10977,7 +10977,7 @@
       "notes": [],
       "work_passage_id": "bar:4.33",
       "html_path": "works/bar/index.html#p-4-33",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-4-33",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-4-33",
       "alignment_revision": "sha256:6532231516fce2a25d926c93ae268cbf59ea6e1f1a44ef04671b1555e7daa14e",
       "review_state": {
         "human_reviewed": false,
@@ -11013,9 +11013,9 @@
         "work": "바룩서",
         "reference": "4.33",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:ca4946d09b452b8cea7ed71a68bc42dab454fc2be53caea2507020398c8401ab",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-4-33"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-4-33"
       }
     },
     {
@@ -11067,7 +11067,7 @@
       "notes": [],
       "work_passage_id": "bar:4.34",
       "html_path": "works/bar/index.html#p-4-34",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-4-34",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-4-34",
       "alignment_revision": "sha256:d25c0e3853363df340b25a35f1674ee655a346fb83fb82b4990a77930a13ce88",
       "review_state": {
         "human_reviewed": false,
@@ -11103,9 +11103,9 @@
         "work": "바룩서",
         "reference": "4.34",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:54370694431cd5a341305c3ebbcdb2ba7e7c2d02cf9126560a60ac88542a9854",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-4-34"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-4-34"
       }
     },
     {
@@ -11157,7 +11157,7 @@
       "notes": [],
       "work_passage_id": "bar:4.35",
       "html_path": "works/bar/index.html#p-4-35",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-4-35",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-4-35",
       "alignment_revision": "sha256:c9b0a45eda4c54dbc2ef0803b2b10c75920edcef37c692af0a8c1729da190310",
       "review_state": {
         "human_reviewed": false,
@@ -11193,9 +11193,9 @@
         "work": "바룩서",
         "reference": "4.35",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:7dc979dfbeb129d3e97b14d7e67225abd69070d8a104b8cdbdd6afb638f27732",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-4-35"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-4-35"
       }
     },
     {
@@ -11234,7 +11234,7 @@
       "notes": [],
       "work_passage_id": "bar:4.36",
       "html_path": "works/bar/index.html#p-4-36",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-4-36",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-4-36",
       "alignment_revision": "sha256:c80fe0d5eef5152ede7a271d24f45cde93fed42cc9a2195d8f25149937c1eb8b",
       "review_state": {
         "human_reviewed": false,
@@ -11270,9 +11270,9 @@
         "work": "바룩서",
         "reference": "4.36",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:51d8a62ecbf69beb23e935fde3f1c4377909271d66f4bdccc381f64e286eea34",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-4-36"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-4-36"
       }
     },
     {
@@ -11324,7 +11324,7 @@
       "notes": [],
       "work_passage_id": "bar:4.37",
       "html_path": "works/bar/index.html#p-4-37",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-4-37",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-4-37",
       "alignment_revision": "sha256:2681d2bedd629039efbcbef5a1d26b5993d69ade6f0ce00a9f8ccf09e1d35ce4",
       "review_state": {
         "human_reviewed": false,
@@ -11360,9 +11360,9 @@
         "work": "바룩서",
         "reference": "4.37",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:3f85038abdc2b5f5da1a71f222e30d6021a24ec5289cc77a2fa854983d3aa322",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-4-37"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-4-37"
       }
     },
     {
@@ -11414,7 +11414,7 @@
       "notes": [],
       "work_passage_id": "bar:5.1",
       "html_path": "works/bar/index.html#p-5-1",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-5-1",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-5-1",
       "alignment_revision": "sha256:e2399164f3d97dcdcb8f5583a6afc1cb36fff1f825bc7b4d8ff85ee93dc6e4a3",
       "review_state": {
         "human_reviewed": false,
@@ -11450,9 +11450,9 @@
         "work": "바룩서",
         "reference": "5.1",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:eac546b230ba719b20498e4bc9525bf398b514454a25f1fe3e458eff0ce2dc4e",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-5-1"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-5-1"
       }
     },
     {
@@ -11504,7 +11504,7 @@
       "notes": [],
       "work_passage_id": "bar:5.2",
       "html_path": "works/bar/index.html#p-5-2",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-5-2",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-5-2",
       "alignment_revision": "sha256:6ad0450629bb906000488ccc5382c9ac9bfc4b454881a468690b225fe63b654c",
       "review_state": {
         "human_reviewed": false,
@@ -11540,9 +11540,9 @@
         "work": "바룩서",
         "reference": "5.2",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:51a18775328e0971459f0769ef0698058b7d1ef7518a8955c478b2d2976a8668",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-5-2"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-5-2"
       }
     },
     {
@@ -11581,7 +11581,7 @@
       "notes": [],
       "work_passage_id": "bar:5.3",
       "html_path": "works/bar/index.html#p-5-3",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-5-3",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-5-3",
       "alignment_revision": "sha256:78a0d6350803fde927bc636d7fe34b600eed4b7431978728755275073431a63b",
       "review_state": {
         "human_reviewed": false,
@@ -11617,9 +11617,9 @@
         "work": "바룩서",
         "reference": "5.3",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:31974588b994747abcde3df0ce5a00918d47fbf55f71aba9b004ea24a8d0f0de",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-5-3"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-5-3"
       }
     },
     {
@@ -11671,7 +11671,7 @@
       "notes": [],
       "work_passage_id": "bar:5.4",
       "html_path": "works/bar/index.html#p-5-4",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-5-4",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-5-4",
       "alignment_revision": "sha256:57dd5fd014f86fceb19dea672fdf2f4c38f74dc3ac8b060d1c00ee74d87e31a9",
       "review_state": {
         "human_reviewed": false,
@@ -11707,9 +11707,9 @@
         "work": "바룩서",
         "reference": "5.4",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:68f915e1724bac0a838bcae8493e63674051fb526359a13cc7aebd342a283b87",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-5-4"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-5-4"
       }
     },
     {
@@ -11774,7 +11774,7 @@
       "notes": [],
       "work_passage_id": "bar:5.5",
       "html_path": "works/bar/index.html#p-5-5",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-5-5",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-5-5",
       "alignment_revision": "sha256:2a64c9d0cdd4d187bfbfa227f67654a18e19fae3faba73b47b5b8405f3da9ff0",
       "review_state": {
         "human_reviewed": false,
@@ -11810,9 +11810,9 @@
         "work": "바룩서",
         "reference": "5.5",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:1644860aa6b86daab0435e4a4c27876f7c84dc545dd02c0407c766b38e78acfb",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-5-5"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-5-5"
       }
     },
     {
@@ -11866,7 +11866,7 @@
       ],
       "work_passage_id": "bar:5.6",
       "html_path": "works/bar/index.html#p-5-6",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-5-6",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-5-6",
       "alignment_revision": "sha256:8170cfa99cb9534af3076d839c11a6752a1e20039a274d2365acc17514f2b7f2",
       "review_state": {
         "human_reviewed": false,
@@ -11902,9 +11902,9 @@
         "work": "바룩서",
         "reference": "5.6",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:f4a7b38cac43a1733a7aea0b09769976acf07e253a06a906031dfa61e0cd56a3",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-5-6"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-5-6"
       }
     },
     {
@@ -11956,7 +11956,7 @@
       "notes": [],
       "work_passage_id": "bar:5.7",
       "html_path": "works/bar/index.html#p-5-7",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-5-7",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-5-7",
       "alignment_revision": "sha256:2f8ec4ac026143d4ed162bbfb137af5bbe847e93608a412bfecad3be1832cad4",
       "review_state": {
         "human_reviewed": false,
@@ -11992,9 +11992,9 @@
         "work": "바룩서",
         "reference": "5.7",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:675f664a8399cfc0212aaf8180fd79b971e4018bf3ff473eb85b3f7251e5421b",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-5-7"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-5-7"
       }
     },
     {
@@ -12033,7 +12033,7 @@
       "notes": [],
       "work_passage_id": "bar:5.8",
       "html_path": "works/bar/index.html#p-5-8",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-5-8",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-5-8",
       "alignment_revision": "sha256:5d97477888ca1a94d72a9437e3c33f1005ff926cc01f7a866281a254a7a9bec7",
       "review_state": {
         "human_reviewed": false,
@@ -12069,9 +12069,9 @@
         "work": "바룩서",
         "reference": "5.8",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:423c7bb717fbab9d195472cbc51b12094119880858641ff16d02283f3b1519a5",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-5-8"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-5-8"
       }
     },
     {
@@ -12125,7 +12125,7 @@
       ],
       "work_passage_id": "bar:5.9",
       "html_path": "works/bar/index.html#p-5-9",
-      "fixed_html_path": "releases/public-0.36.7/works/bar/index.html#p-5-9",
+      "fixed_html_path": "releases/public-0.37/works/bar/index.html#p-5-9",
       "alignment_revision": "sha256:30baf246e2b57ae742b78f6a5f1af39dd3f981d26237dc7fa40012f823d87b6c",
       "review_state": {
         "human_reviewed": false,
@@ -12161,9 +12161,9 @@
         "work": "바룩서",
         "reference": "5.9",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.7",
+        "release": "public-0.37",
         "translation_revision": "sha256:2f1b2696188e968fb7b4ebac47367ef329b2f2d531d08d477787b2fa7bf610cd",
-        "fixed_path": "releases/public-0.36.7/works/bar/index.html#p-5-9"
+        "fixed_path": "releases/public-0.37/works/bar/index.html#p-5-9"
       }
     }
   ],
@@ -13350,14 +13350,14 @@
   "display_author": "익명",
   "scope": "바룩서 1-5장 141절 전체",
   "coverage": "complete",
-  "release_id": "public-0.36.7",
+  "release_id": "public-0.37",
   "source_language": "grc",
   "source_kind": "edited_ancient_original",
   "human_reviewed": false,
   "translation_method": "고정 원어 본문에서 직접 번역",
   "html_path": "works/bar/index.html",
   "json_path": "data/works/bar.json",
-  "fixed_html_path": "releases/public-0.36.7/works/bar/index.html",
+  "fixed_html_path": "releases/public-0.37/works/bar/index.html",
   "source_profile": "bar-swete-pinned-word-table-1",
   "source_decisions": [
     {

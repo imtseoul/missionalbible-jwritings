@@ -266,3 +266,7 @@ a.text-link,.information section p a,.translation-notes p a{text-decoration:unde
 @media(max-width:700px){.toggle-long{display:none}.reading-tools .source-toggle{margin-left:auto;min-height:40px;padding:0 12px}.reading-settings{margin-left:0}.reading-settings-panel{width:auto;min-width:220px}}
 @media(min-width:701px){.reading-tools .source-toggle{margin-left:auto}.reading-tools .reading-settings{margin-left:0;width:auto}}
 .toggle-long{margin-left:.25em}.source-toggle,.reading-tools button,.reading-tools summary{-webkit-tap-highlight-color:transparent}
+/* Chapter titles for works whose source.json carries chapter_titles: Korean title, then the original title in source grey. */
+.chapter-heading{margin:12px 0 24px;padding-top:24px;border-top:1px solid var(--line)}.reading-tools+.chapter-heading{margin-top:0;padding-top:0;border-top:0}.chapter-title{font-size:20px;font-weight:500;line-height:1.45;color:var(--ink)}.chapter-title-original{font-size:15px;line-height:1.7;color:var(--source);margin-top:6px;word-break:normal;overflow-wrap:anywhere}.hide-source .chapter-title-original{display:none}
+@media(max-width:700px){.chapter-heading{margin:8px 0 20px;padding-top:20px}.chapter-title{font-size:18px}.chapter-title-original{font-size:14px}}
+@media print{.chapter-heading{break-after:avoid}}
