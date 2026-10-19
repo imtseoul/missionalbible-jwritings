@@ -257,7 +257,7 @@
       ],
       "work_passage_id": "conf:1",
       "html_path": "works/conf/index.html#p-1",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-1",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-1",
       "alignment_revision": "sha256:61cc65ed17806024b6f4262560a2a87379109d76fd8123abe9a66ccc0c9e3cb5",
       "review_state": {
         "human_reviewed": false,
@@ -293,9 +293,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "1",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:ab1392d632570612ae44a4b6c8ce89349a4bea57fef216f5e4335c6163a1d2d7",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-1"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-1"
       }
     },
     {
@@ -362,7 +362,7 @@
       ],
       "work_passage_id": "conf:2",
       "html_path": "works/conf/index.html#p-2",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-2",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-2",
       "alignment_revision": "sha256:78c12d181a529a50bf6b5edb8d7ec21816fd5da60530547d124293801ac48aa0",
       "review_state": {
         "human_reviewed": false,
@@ -398,9 +398,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "2",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:70b215e5baf9cc67006a515d2d71e76ad1c6d546fa417bb70323a1ba1ea21bfa",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-2"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-2"
       }
     },
     {
@@ -475,7 +475,7 @@
       "notes": [],
       "work_passage_id": "conf:3",
       "html_path": "works/conf/index.html#p-3",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-3",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-3",
       "alignment_revision": "sha256:5145358a01e6c7d585d9e5a6c0006530c2df8754d25347ddf218d099f4ce8ac0",
       "review_state": {
         "human_reviewed": false,
@@ -511,9 +511,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "3",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:2f5940c16cab7c86f0c97b17284caecb0c844aa6ce6957826cec2b915d861343",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-3"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-3"
       }
     },
     {
@@ -629,7 +629,7 @@
       ],
       "work_passage_id": "conf:4",
       "html_path": "works/conf/index.html#p-4",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-4",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-4",
       "alignment_revision": "sha256:7169e2504072161e13dfa2e8874090d553b3335f59354c667671af33eace11c9",
       "review_state": {
         "human_reviewed": false,
@@ -665,9 +665,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "4",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:2438b80cfdc4bc73f8354e61273ba0f7a6c1982922c15c95537bc2f12f02e7f7",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-4"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-4"
       }
     },
     {
@@ -771,7 +771,7 @@
       "notes": [],
       "work_passage_id": "conf:5",
       "html_path": "works/conf/index.html#p-5",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-5",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-5",
       "alignment_revision": "sha256:49332c4f51adec57df69df3e0eb01929c8b723fa5b6dd3a9277872dfbaa5ca5d",
       "review_state": {
         "human_reviewed": false,
@@ -807,9 +807,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "5",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:d2d2f6c1f79fb9264d05cf4c6f99d696ad855766127f0fb821eba7ad2bb5a027",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-5"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-5"
       }
     },
     {
@@ -884,7 +884,7 @@
       "notes": [],
       "work_passage_id": "conf:6",
       "html_path": "works/conf/index.html#p-6",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-6",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-6",
       "alignment_revision": "sha256:4c4b4193a7d18abf73f7c9d632e4d77f41617d36c9747737c08c191150e219f2",
       "review_state": {
         "human_reviewed": false,
@@ -920,9 +920,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "6",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:e238ba25f6aa015cfc55cd31ec146f226b6de3fb0e0e2ec7ccd956b8a26067b3",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-6"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-6"
       }
     },
     {
@@ -1036,7 +1036,7 @@
       "notes": [],
       "work_passage_id": "conf:7",
       "html_path": "works/conf/index.html#p-7",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-7",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-7",
       "alignment_revision": "sha256:5d535a84f695d99ebb3e045a0a24ffecc4e24572a15aa97866e72b8fd19c35cc",
       "review_state": {
         "human_reviewed": false,
@@ -1072,9 +1072,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "7",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:5a81546c2d1b5f2179bdff1e0c55b0109a5bb7284be340548363d8c3b6094027",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-7"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-7"
       }
     },
     {
@@ -1136,7 +1136,7 @@
       "notes": [],
       "work_passage_id": "conf:8",
       "html_path": "works/conf/index.html#p-8",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-8",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-8",
       "alignment_revision": "sha256:8de8261015322f593e0851dbb76685e97c62b927bf5f5893a437ca3a517a0454",
       "review_state": {
         "human_reviewed": false,
@@ -1172,9 +1172,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "8",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:44ea85a2998d527c5a839bf0c1a393e3885baaec8b578881acf0df3adce58ed3",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-8"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-8"
       }
     },
     {
@@ -1277,7 +1277,7 @@
       ],
       "work_passage_id": "conf:9",
       "html_path": "works/conf/index.html#p-9",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-9",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-9",
       "alignment_revision": "sha256:6b6685d65774fc25d6a251185bf25d511122b2d86919369adecdbe1db2f06e40",
       "review_state": {
         "human_reviewed": false,
@@ -1313,9 +1313,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "9",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:0c21905cf47271dbb5737f72a5989fc6db658e50b12b82c93b69c6a6cae9acca",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-9"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-9"
       }
     },
     {
@@ -1380,7 +1380,7 @@
       "notes": [],
       "work_passage_id": "conf:10",
       "html_path": "works/conf/index.html#p-10",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-10",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-10",
       "alignment_revision": "sha256:a9866d684996f7939616907cd53d2df08d858cc032966dcfb3780680ec39038a",
       "review_state": {
         "human_reviewed": false,
@@ -1416,9 +1416,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "10",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:e835a686a0672deb0bddcf3df0e49eab4f64f6df6d42699134cff72a82db2ab8",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-10"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-10"
       }
     },
     {
@@ -1480,7 +1480,7 @@
       "notes": [],
       "work_passage_id": "conf:11",
       "html_path": "works/conf/index.html#p-11",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-11",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-11",
       "alignment_revision": "sha256:e8e444fab223d2fd92124e3c8b9251be4bc22c568811e8ecfbdd6a2592608bc7",
       "review_state": {
         "human_reviewed": false,
@@ -1516,9 +1516,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "11",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:9fb60280862e4e7f1a2c921421c2a09da4dc97769349aa3dd2a1e66603b3f5c8",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-11"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-11"
       }
     },
     {
@@ -1595,7 +1595,7 @@
       ],
       "work_passage_id": "conf:12",
       "html_path": "works/conf/index.html#p-12",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-12",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-12",
       "alignment_revision": "sha256:89122c90686fda1dc7c896cecf17366eb1044b6d8cb1e1b895718fbc77b70fb4",
       "review_state": {
         "human_reviewed": false,
@@ -1631,9 +1631,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "12",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:e1885d64e62ddceb5d22d0846c678ed6d75039f2e8fdb503cba5f77ec3754095",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-12"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-12"
       }
     },
     {
@@ -1708,7 +1708,7 @@
       "notes": [],
       "work_passage_id": "conf:13",
       "html_path": "works/conf/index.html#p-13",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-13",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-13",
       "alignment_revision": "sha256:dde7e892ad23c9bac8cb7af4966002009c0f08cc401977290f680e70f217c82f",
       "review_state": {
         "human_reviewed": false,
@@ -1744,9 +1744,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "13",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:6686d48f02d2b35cf37c2de407eebe02a5af1632fbb129177e5a011dc07d62cc",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-13"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-13"
       }
     },
     {
@@ -1836,7 +1836,7 @@
       ],
       "work_passage_id": "conf:14",
       "html_path": "works/conf/index.html#p-14",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-14",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-14",
       "alignment_revision": "sha256:3f450689dc293379f7e1c8e7cdc6cf2ac67c45349439269235ee74f872c4556b",
       "review_state": {
         "human_reviewed": false,
@@ -1872,9 +1872,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "14",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:497c512bd29f9cecb5e8db939f3f2cb8afeefcff327f7ec8364f02bd96f3dd7d",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-14"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-14"
       }
     },
     {
@@ -1964,7 +1964,7 @@
       ],
       "work_passage_id": "conf:15",
       "html_path": "works/conf/index.html#p-15",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-15",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-15",
       "alignment_revision": "sha256:c04b1590219349efe66f6a70e45f92c28cb96e1c16a4f5bf9645d67b997a1189",
       "review_state": {
         "human_reviewed": false,
@@ -2000,9 +2000,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "15",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:eac5f8e0e2db62822c74b2433a847f6946c81d1a933cc4b29374808195b3ff14",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-15"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-15"
       }
     },
     {
@@ -2067,7 +2067,7 @@
       "notes": [],
       "work_passage_id": "conf:16",
       "html_path": "works/conf/index.html#p-16",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-16",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-16",
       "alignment_revision": "sha256:55019f0621083e8436a2052d3a4d7e7c4f1201b9efcdb5632269bffd9418b565",
       "review_state": {
         "human_reviewed": false,
@@ -2103,9 +2103,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "16",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:7e2ebc0e579c0e55e5cc896ead4f7ff208e3d2960b65308276bae980fb9d7f0c",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-16"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-16"
       }
     },
     {
@@ -2180,7 +2180,7 @@
       "notes": [],
       "work_passage_id": "conf:17",
       "html_path": "works/conf/index.html#p-17",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-17",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-17",
       "alignment_revision": "sha256:785b0a9c7068c0ee80c43522e9100b9f3e2abd1b5da518cc673d68ab71d51419",
       "review_state": {
         "human_reviewed": false,
@@ -2216,9 +2216,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "17",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:e8393e47bc69e10fb47a58af3972050ef415717277780b8e49b2ae728308ed0c",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-17"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-17"
       }
     },
     {
@@ -2280,7 +2280,7 @@
       "notes": [],
       "work_passage_id": "conf:18",
       "html_path": "works/conf/index.html#p-18",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-18",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-18",
       "alignment_revision": "sha256:e41206f55ae9c344d35b2c204f016edbad3ed26952fcabd0a886a6366c330bc3",
       "review_state": {
         "human_reviewed": false,
@@ -2316,9 +2316,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "18",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:71b7fabc460b7654b884f19e972a615f63f2ea81686a336f8d8d439fe98fac5e",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-18"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-18"
       }
     },
     {
@@ -2406,7 +2406,7 @@
       "notes": [],
       "work_passage_id": "conf:19",
       "html_path": "works/conf/index.html#p-19",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-19",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-19",
       "alignment_revision": "sha256:e24ae0dd5da86e1a56ab2987e41e17a85b7fa6a72862da9597ad1264eeaf678d",
       "review_state": {
         "human_reviewed": false,
@@ -2442,9 +2442,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "19",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:ea9696dd0b75fc6cf15c5676eaad5daf9484d208b90c4b8045bda6feb5f0a42f",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-19"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-19"
       }
     },
     {
@@ -2521,7 +2521,7 @@
       ],
       "work_passage_id": "conf:20",
       "html_path": "works/conf/index.html#p-20",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-20",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-20",
       "alignment_revision": "sha256:3a8efaee96b851b4c099f2845eab5b5f612d2aedc06ebea30fa462ef73c574ae",
       "review_state": {
         "human_reviewed": false,
@@ -2557,9 +2557,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "20",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:2faee5ee34d72180196f4e6fd80b54e9aa27854f8c5ecd4874e744e043ccdd3a",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-20"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-20"
       }
     },
     {
@@ -2673,7 +2673,7 @@
       ],
       "work_passage_id": "conf:21",
       "html_path": "works/conf/index.html#p-21",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-21",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-21",
       "alignment_revision": "sha256:17645483b52fadc2ecfc9dec382a49dce675afa6556d2fb5c47cea125c4d9ef5",
       "review_state": {
         "human_reviewed": false,
@@ -2709,9 +2709,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "21",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:80205f9684c00a132fe05ee96d99d855c475da574b4cec65139b3fd4ac7657e2",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-21"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-21"
       }
     },
     {
@@ -2800,7 +2800,7 @@
       "notes": [],
       "work_passage_id": "conf:22",
       "html_path": "works/conf/index.html#p-22",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-22",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-22",
       "alignment_revision": "sha256:293c0f5231fb7ece19ef0f6e89ee8b294380557f7a0ea2d875000118cd3c7391",
       "review_state": {
         "human_reviewed": false,
@@ -2836,9 +2836,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "22",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:6a7a418858042aaea42d19e36ce9022a58cb18c28b5e67622788655aee0692d2",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-22"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-22"
       }
     },
     {
@@ -2926,7 +2926,7 @@
       ],
       "work_passage_id": "conf:23",
       "html_path": "works/conf/index.html#p-23",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-23",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-23",
       "alignment_revision": "sha256:697f268bb3c7ba79093107b2c7bb6bcb22bd495fe154e2caeb6563f5ee9a765e",
       "review_state": {
         "human_reviewed": false,
@@ -2962,9 +2962,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "23",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:6567770b865d8e10555b1f70c72eee67e22c15a442f09fac6a9a2fda0747efa0",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-23"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-23"
       }
     },
     {
@@ -3037,7 +3037,7 @@
       "notes": [],
       "work_passage_id": "conf:24",
       "html_path": "works/conf/index.html#p-24",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-24",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-24",
       "alignment_revision": "sha256:85df3216ad6e3354f98dd301028d381e725d55ee498b07a5ac8bd5da15078d09",
       "review_state": {
         "human_reviewed": false,
@@ -3073,9 +3073,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "24",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:f3ce4cde50935abf7fea01be57d2ad676796db653b06293055463f4e4624efe0",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-24"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-24"
       }
     },
     {
@@ -3189,7 +3189,7 @@
       ],
       "work_passage_id": "conf:25",
       "html_path": "works/conf/index.html#p-25",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-25",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-25",
       "alignment_revision": "sha256:5f42ec82b4972dfc5f725c746e55acaeaeeefb30b5883e6733348e924de6ef12",
       "review_state": {
         "human_reviewed": false,
@@ -3225,9 +3225,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "25",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:e05cf351e5b35ce7304e6218963a17d9221ea96edf98b62ddc8ea2aeb992612c",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-25"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-25"
       }
     },
     {
@@ -3318,7 +3318,7 @@
       ],
       "work_passage_id": "conf:26",
       "html_path": "works/conf/index.html#p-26",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-26",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-26",
       "alignment_revision": "sha256:4af57bbd86ae7b96706598237c2df505504a588bda87002441e5d7096c9ca3b9",
       "review_state": {
         "human_reviewed": false,
@@ -3354,9 +3354,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "26",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:aeb4744129620b5abae362668b46acf8559016eade6ba15d03c171a7289e3c58",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-26"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-26"
       }
     },
     {
@@ -3442,7 +3442,7 @@
       "notes": [],
       "work_passage_id": "conf:27",
       "html_path": "works/conf/index.html#p-27",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-27",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-27",
       "alignment_revision": "sha256:41ab8accc2e35108b919ae91a04538f700cc98d8d4690fdcc15bb4e3d54986b9",
       "review_state": {
         "human_reviewed": false,
@@ -3478,9 +3478,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "27",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:ebf11a658f4e2db5cc50ca376ed3c28647556119b1d01e64e71e753549d63990",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-27"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-27"
       }
     },
     {
@@ -3540,7 +3540,7 @@
       "notes": [],
       "work_passage_id": "conf:28",
       "html_path": "works/conf/index.html#p-28",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-28",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-28",
       "alignment_revision": "sha256:f28e122dc289884130f0b355f3118f319087b14bf020c138d7a7d46af01c4998",
       "review_state": {
         "human_reviewed": false,
@@ -3576,9 +3576,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "28",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:ff9f514a94cdfddd0db1bbfea4924b9fb3be094b82925bd93e79cc90faf45d2d",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-28"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-28"
       }
     },
     {
@@ -3653,7 +3653,7 @@
       ],
       "work_passage_id": "conf:29",
       "html_path": "works/conf/index.html#p-29",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-29",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-29",
       "alignment_revision": "sha256:fe043a8d775a66009b767c09df0e7cfdf14842fd1dc93618d96905dc3ddbfe2f",
       "review_state": {
         "human_reviewed": false,
@@ -3689,9 +3689,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "29",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:5f3dee3f4d19d424b5a10f045514b2951ae59c93ffc12e251c723ee2c1d7aad5",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-29"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-29"
       }
     },
     {
@@ -3764,7 +3764,7 @@
       "notes": [],
       "work_passage_id": "conf:30",
       "html_path": "works/conf/index.html#p-30",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-30",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-30",
       "alignment_revision": "sha256:f4ad893ef30138fdde8298ffea3fd8920254908b774f156c7f8ff91ae56c3431",
       "review_state": {
         "human_reviewed": false,
@@ -3800,9 +3800,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "30",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:4b134ef5d8e0b83fa732e27840e4504cf5ad243df41d85c10f9c62f3f94b430a",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-30"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-30"
       }
     },
     {
@@ -3888,7 +3888,7 @@
       "notes": [],
       "work_passage_id": "conf:31",
       "html_path": "works/conf/index.html#p-31",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-31",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-31",
       "alignment_revision": "sha256:a17bd2f52ee9a3a28cf222af3087b014419697d082e79a34bd25dbda28a7192e",
       "review_state": {
         "human_reviewed": false,
@@ -3924,9 +3924,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "31",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:ee8d2ecd2ccbf32bda8b771a40f99e3de52f0d0b101d998d1f66d0eddf9ffa49",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-31"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-31"
       }
     },
     {
@@ -4002,7 +4002,7 @@
       "notes": [],
       "work_passage_id": "conf:32",
       "html_path": "works/conf/index.html#p-32",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-32",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-32",
       "alignment_revision": "sha256:62ff6da624802996f3c2997ccf705a24f17c8289f963c1055be9764d705e51b0",
       "review_state": {
         "human_reviewed": false,
@@ -4038,9 +4038,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "32",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:0227bd4dfb4b7699bb896f37cd25078d882715c139e0a6d108735faf59a88793",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-32"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-32"
       }
     },
     {
@@ -4126,7 +4126,7 @@
       "notes": [],
       "work_passage_id": "conf:33",
       "html_path": "works/conf/index.html#p-33",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-33",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-33",
       "alignment_revision": "sha256:b40170d028d08991f787f19ff4217ced6a0b37f1552b0e49fbd4a17d8202a3e0",
       "review_state": {
         "human_reviewed": false,
@@ -4162,9 +4162,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "33",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:5229f062de0eea12c761f832af559a891304cbd3ebc8b297e4aa22fe68ffc136",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-33"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-33"
       }
     },
     {
@@ -4224,7 +4224,7 @@
       "notes": [],
       "work_passage_id": "conf:34",
       "html_path": "works/conf/index.html#p-34",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-34",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-34",
       "alignment_revision": "sha256:c2604d3682824eececa758ab32e57fc39219cf357f891da5f08c77598a51f7da",
       "review_state": {
         "human_reviewed": false,
@@ -4260,9 +4260,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "34",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:075e6269c73ab1e32a632a633c210994a0bb7fd501eafdf4cad4f872756306c7",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-34"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-34"
       }
     },
     {
@@ -4322,7 +4322,7 @@
       "notes": [],
       "work_passage_id": "conf:35",
       "html_path": "works/conf/index.html#p-35",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-35",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-35",
       "alignment_revision": "sha256:bc609ec7a09d86a2b74a3aeef7d8a8061ad1e8ced2d99845f4bf41f7f85b2762",
       "review_state": {
         "human_reviewed": false,
@@ -4358,9 +4358,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "35",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:5583e71500f328b778cfdf086718024ba7bfca69b64628849cfc1db5fd707283",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-35"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-35"
       }
     },
     {
@@ -4435,7 +4435,7 @@
       ],
       "work_passage_id": "conf:36",
       "html_path": "works/conf/index.html#p-36",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-36",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-36",
       "alignment_revision": "sha256:e165ca5ff690273dfa27db4d7e2518f4e834deb80c9762e6cf60bbd6310ab831",
       "review_state": {
         "human_reviewed": false,
@@ -4471,9 +4471,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "36",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:dbf04adc12e249970914205fa4e11a0dcadccc349e1639297940a9960767929e",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-36"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-36"
       }
     },
     {
@@ -4559,7 +4559,7 @@
       "notes": [],
       "work_passage_id": "conf:37",
       "html_path": "works/conf/index.html#p-37",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-37",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-37",
       "alignment_revision": "sha256:096301f0eb7fffc4f8c57a672c81ae4cb50498fb19d7ca5495ae2caf9cff68ca",
       "review_state": {
         "human_reviewed": false,
@@ -4595,9 +4595,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "37",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:44fb3b5fa79022690e26dcae40295d9521dc4a802551909cfea6102bd5f7ba5e",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-37"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-37"
       }
     },
     {
@@ -4727,7 +4727,7 @@
       ],
       "work_passage_id": "conf:38",
       "html_path": "works/conf/index.html#p-38",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-38",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-38",
       "alignment_revision": "sha256:f8ed2566f5dbe2088c34441b16b7551d269762865e649408da4d51b4f5d87372",
       "review_state": {
         "human_reviewed": false,
@@ -4763,9 +4763,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "38",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:d4f8165c587470ed8435096c7858093c827ae52007af894642592ed26611e107",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-38"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-38"
       }
     },
     {
@@ -4838,7 +4838,7 @@
       "notes": [],
       "work_passage_id": "conf:39",
       "html_path": "works/conf/index.html#p-39",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-39",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-39",
       "alignment_revision": "sha256:61e73bac98268e6b3c1ad9ff3c02fc1fd3445925faa61035583a6148044df0c7",
       "review_state": {
         "human_reviewed": false,
@@ -4874,9 +4874,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "39",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:2729357edf2d16b03fe63ba3530702509e06e0e58a49de4cce7eb1b8b696e9c0",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-39"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-39"
       }
     },
     {
@@ -4949,7 +4949,7 @@
       "notes": [],
       "work_passage_id": "conf:40",
       "html_path": "works/conf/index.html#p-40",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-40",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-40",
       "alignment_revision": "sha256:e1a70d7b45b239ab1ba49fc8c1ddf61da406abf427f0913da95997277b3ae117",
       "review_state": {
         "human_reviewed": false,
@@ -4985,9 +4985,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "40",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:3c34d60befef604fb1f30fb9e533abf8d80a1a0302892fa24cbecdf25e7dbfef",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-40"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-40"
       }
     },
     {
@@ -5075,7 +5075,7 @@
       ],
       "work_passage_id": "conf:41",
       "html_path": "works/conf/index.html#p-41",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-41",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-41",
       "alignment_revision": "sha256:f5c17f979f78219edadd339dd2098b15b1eada38f8cfaa8ea2bc3ba9abf3c14f",
       "review_state": {
         "human_reviewed": false,
@@ -5111,9 +5111,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "41",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:8ded15596728b28089b97c2537a4ce0deb214b7ec9a43887e36c3ace98ea9fba",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-41"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-41"
       }
     },
     {
@@ -5186,7 +5186,7 @@
       "notes": [],
       "work_passage_id": "conf:42",
       "html_path": "works/conf/index.html#p-42",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-42",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-42",
       "alignment_revision": "sha256:319502d6537bb11d8e5889534046d1e113a779134d485b6042756acf84da1b4f",
       "review_state": {
         "human_reviewed": false,
@@ -5222,9 +5222,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "42",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:b5a97a867301c4972a419ca3101152a27711a7acc8f9d79f3ed0d33f5d0b676b",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-42"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-42"
       }
     },
     {
@@ -5323,7 +5323,7 @@
       "notes": [],
       "work_passage_id": "conf:43",
       "html_path": "works/conf/index.html#p-43",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-43",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-43",
       "alignment_revision": "sha256:7a9ee9d741f743e7d89aa3b0532fcddb8c7fd66dea705b5c45a37a96032943cd",
       "review_state": {
         "human_reviewed": false,
@@ -5359,9 +5359,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "43",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:b39f14fe8d6394edca5f28b799e4dee1e869a58c94a304c76763741bc28ef14e",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-43"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-43"
       }
     },
     {
@@ -5465,7 +5465,7 @@
       ],
       "work_passage_id": "conf:44",
       "html_path": "works/conf/index.html#p-44",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-44",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-44",
       "alignment_revision": "sha256:f987358e86143441731ace45a8e1471d5112a3046e32d34b8470f573293a27c5",
       "review_state": {
         "human_reviewed": false,
@@ -5501,9 +5501,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "44",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:8f02add34ee2964a0aae645f7d9166fc7c8545eaf142fd6094daa49315a7935e",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-44"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-44"
       }
     },
     {
@@ -5563,7 +5563,7 @@
       "notes": [],
       "work_passage_id": "conf:45",
       "html_path": "works/conf/index.html#p-45",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-45",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-45",
       "alignment_revision": "sha256:d2bfdb5d5c3dfc0e1686386336e3537a9df32e46137d13c54c5dfee8a5161125",
       "review_state": {
         "human_reviewed": false,
@@ -5599,9 +5599,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "45",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:99a2faf97718b7dae7fc7c35b4af118079b0a9451afa2feba3d598b4670e700e",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-45"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-45"
       }
     },
     {
@@ -5674,7 +5674,7 @@
       "notes": [],
       "work_passage_id": "conf:46",
       "html_path": "works/conf/index.html#p-46",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-46",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-46",
       "alignment_revision": "sha256:509e960cd235d5726c97f8e2379adaa80843da052b513035619c7bce7297f6d1",
       "review_state": {
         "human_reviewed": false,
@@ -5710,9 +5710,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "46",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:3b7a5126e9aecd166f2256db369920926f56954202871086816efe593a12111c",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-46"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-46"
       }
     },
     {
@@ -5785,7 +5785,7 @@
       "notes": [],
       "work_passage_id": "conf:47",
       "html_path": "works/conf/index.html#p-47",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-47",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-47",
       "alignment_revision": "sha256:c64a7dfb49f2544ded715be6f9f4da93784bf59ad91572de301c95a9182d0b20",
       "review_state": {
         "human_reviewed": false,
@@ -5821,9 +5821,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "47",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:af61a5609de749a853c5d0751043a7fdfd4c2f2a3c6a91426044715e7b758d11",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-47"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-47"
       }
     },
     {
@@ -5922,7 +5922,7 @@
       "notes": [],
       "work_passage_id": "conf:48",
       "html_path": "works/conf/index.html#p-48",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-48",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-48",
       "alignment_revision": "sha256:2c18a8a4fa0630c2dfc62459a0bf0d31558de967ca8c8f08072deeeba90284a6",
       "review_state": {
         "human_reviewed": false,
@@ -5958,9 +5958,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "48",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:bfc6fefcd9280bd08ecf5139a78c0e9b6d11b3fa77e795393c51917d1ca2d25d",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-48"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-48"
       }
     },
     {
@@ -6075,7 +6075,7 @@
       "notes": [],
       "work_passage_id": "conf:49",
       "html_path": "works/conf/index.html#p-49",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-49",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-49",
       "alignment_revision": "sha256:968de64e8494c1409e1542c97e737f6c591e42ebcdf3d1894e4d8b7463b7d946",
       "review_state": {
         "human_reviewed": false,
@@ -6111,9 +6111,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "49",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:914eeaa9a84de5cc548951a109b30d96064b0d02e607fe8097aa8139c6486509",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-49"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-49"
       }
     },
     {
@@ -6199,7 +6199,7 @@
       "notes": [],
       "work_passage_id": "conf:50",
       "html_path": "works/conf/index.html#p-50",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-50",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-50",
       "alignment_revision": "sha256:84938f9ccb46909c73093df3f1518587803c77991f37d74b1c037b8af7da1a3d",
       "review_state": {
         "human_reviewed": false,
@@ -6235,9 +6235,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "50",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:c6f06ed91f4d13e012bf6b2b9d18d0cbd19a3ac1d8e65da4d32f698bbb8e5605",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-50"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-50"
       }
     },
     {
@@ -6310,7 +6310,7 @@
       "notes": [],
       "work_passage_id": "conf:51",
       "html_path": "works/conf/index.html#p-51",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-51",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-51",
       "alignment_revision": "sha256:461df3caa94b5ec0e7b8be7bcf6eb6d720381ed9b666699205ca1b84326f919f",
       "review_state": {
         "human_reviewed": false,
@@ -6346,9 +6346,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "51",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:b730d4b85f6856e91e430a24fbdd526558faf7db781e71d19a2ec259c7586416",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-51"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-51"
       }
     },
     {
@@ -6460,7 +6460,7 @@
       "notes": [],
       "work_passage_id": "conf:52",
       "html_path": "works/conf/index.html#p-52",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-52",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-52",
       "alignment_revision": "sha256:f970475feb813a9c1eca90170233c36882f15009ebb569da438ece8c9d67ac2f",
       "review_state": {
         "human_reviewed": false,
@@ -6496,9 +6496,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "52",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:a712d21613805122ba12809b6d21bc21269d4b62c3e4009f6ba3bebc5f3c78cc",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-52"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-52"
       }
     },
     {
@@ -6558,7 +6558,7 @@
       "notes": [],
       "work_passage_id": "conf:53",
       "html_path": "works/conf/index.html#p-53",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-53",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-53",
       "alignment_revision": "sha256:65d0b10ebbf806bf95198fb3763da04e456a8abc457f6f325487cb0073629b31",
       "review_state": {
         "human_reviewed": false,
@@ -6594,9 +6594,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "53",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:d026fd3fb585e1875d03b3235068dd6e14a7fab86756bae620625bd0da3410dc",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-53"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-53"
       }
     },
     {
@@ -6685,7 +6685,7 @@
       "notes": [],
       "work_passage_id": "conf:54",
       "html_path": "works/conf/index.html#p-54",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-54",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-54",
       "alignment_revision": "sha256:7492a1cf5f4e7b9e8aa3a575e6cc6699e9c3f549e5fd8e66adccf8e5c83f2c15",
       "review_state": {
         "human_reviewed": false,
@@ -6721,9 +6721,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "54",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:080294b041237b73ebb0743bd8cb7d5ca559550d8e4440fec31c5616e4ab05f2",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-54"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-54"
       }
     },
     {
@@ -6838,7 +6838,7 @@
       ],
       "work_passage_id": "conf:55",
       "html_path": "works/conf/index.html#p-55",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-55",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-55",
       "alignment_revision": "sha256:b97732ff501403f3ccc4b42165b96d660694393c21370de6ac174d1e6ac9ad7b",
       "review_state": {
         "human_reviewed": false,
@@ -6874,9 +6874,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "55",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:eae3a511318ba7d421e8887b877b367d4e22f9475fd87fd220228987fe963479",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-55"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-55"
       }
     },
     {
@@ -6949,7 +6949,7 @@
       "notes": [],
       "work_passage_id": "conf:56",
       "html_path": "works/conf/index.html#p-56",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-56",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-56",
       "alignment_revision": "sha256:28f4f443672368d0093afdfb91644a92b8618ca7bad7215753a2688228389275",
       "review_state": {
         "human_reviewed": false,
@@ -6985,9 +6985,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "56",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:15b5274bb21bf0e7fa280cd4ec6449fb4fe2d505b418868dd846b39910b2318b",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-56"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-56"
       }
     },
     {
@@ -7075,7 +7075,7 @@
       ],
       "work_passage_id": "conf:57",
       "html_path": "works/conf/index.html#p-57",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-57",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-57",
       "alignment_revision": "sha256:4b814082f89658fcadeec9b4b1807da1b656e9ad6d1fe6f1f9bd5993b83b8bd5",
       "review_state": {
         "human_reviewed": false,
@@ -7111,9 +7111,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "57",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:6831807e599ca09f5608157585e1e41b11878f43791d07608f04a3af8ce89e83",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-57"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-57"
       }
     },
     {
@@ -7186,7 +7186,7 @@
       "notes": [],
       "work_passage_id": "conf:58",
       "html_path": "works/conf/index.html#p-58",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-58",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-58",
       "alignment_revision": "sha256:944a3615747e38f0ecf88fd8f94cd144867fe7758c1cac28102f2aa3cbdfd120",
       "review_state": {
         "human_reviewed": false,
@@ -7222,9 +7222,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "58",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:319faa9b109c6a4f112159f7182404e605af3b7eedcac7bd03e13124d0946414",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-58"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-58"
       }
     },
     {
@@ -7326,7 +7326,7 @@
       "notes": [],
       "work_passage_id": "conf:59",
       "html_path": "works/conf/index.html#p-59",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-59",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-59",
       "alignment_revision": "sha256:23d1760890e806fee01aa32b793209109e8ecdc325ff85cc5319f61e134700bb",
       "review_state": {
         "human_reviewed": false,
@@ -7362,9 +7362,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "59",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:ccd493cc2bf4756f732075b82e5b92623b33f682239382ac4b950752c184ee56",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-59"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-59"
       }
     },
     {
@@ -7452,7 +7452,7 @@
       ],
       "work_passage_id": "conf:60",
       "html_path": "works/conf/index.html#p-60",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-60",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-60",
       "alignment_revision": "sha256:00e76957a5858256190d377038516b528696200c1f45023beb09e61e6acb350d",
       "review_state": {
         "human_reviewed": false,
@@ -7488,9 +7488,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "60",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:2b2c56d7df4463eac00dba3080dc110cb81ce2ab7c55ca9afc4b8b7791985e5c",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-60"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-60"
       }
     },
     {
@@ -7563,7 +7563,7 @@
       "notes": [],
       "work_passage_id": "conf:61",
       "html_path": "works/conf/index.html#p-61",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-61",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-61",
       "alignment_revision": "sha256:aa8f9d9b60087f64b04e33e43e836ec6680c9c94c13f9e3ceeb306cddc7798b2",
       "review_state": {
         "human_reviewed": false,
@@ -7599,9 +7599,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "61",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:95a3ee349c5be503f41f2aff78da6ab7b689de4ba777992d5458fd1536833526",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-61"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-61"
       }
     },
     {
@@ -7676,7 +7676,7 @@
       ],
       "work_passage_id": "conf:62",
       "html_path": "works/conf/index.html#p-62",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-62",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-62",
       "alignment_revision": "sha256:cd9e4844a11bb6b5cfac92958a0747ba14e3657828d262a9eb2da669036f2247",
       "review_state": {
         "human_reviewed": false,
@@ -7712,9 +7712,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "62",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:97956f620ba4f622e5ed5165641108a2213b342d93f7f6a5e648d7bcf20c4c99",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-62"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-62"
       }
     },
     {
@@ -7787,7 +7787,7 @@
       "notes": [],
       "work_passage_id": "conf:63",
       "html_path": "works/conf/index.html#p-63",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-63",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-63",
       "alignment_revision": "sha256:41ae24a422e380853c5e03ef7fc8d308ae3b1698d30ac1d2ac5f5f84ee74ac06",
       "review_state": {
         "human_reviewed": false,
@@ -7823,9 +7823,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "63",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:729324941596d43697e924b189a962abf8da8e97fcf3ce8d71fc36512a889e08",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-63"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-63"
       }
     },
     {
@@ -7898,7 +7898,7 @@
       "notes": [],
       "work_passage_id": "conf:64",
       "html_path": "works/conf/index.html#p-64",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-64",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-64",
       "alignment_revision": "sha256:329f59d56aee0b7577167898cb7d93ded6bbde70b5b75aba4a922777011a11cd",
       "review_state": {
         "human_reviewed": false,
@@ -7934,9 +7934,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "64",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:bea17748084e9ff5187effa153b2e734b89c3fd476a78cd7ae05937f4bf9f180",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-64"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-64"
       }
     },
     {
@@ -8012,7 +8012,7 @@
       "notes": [],
       "work_passage_id": "conf:65",
       "html_path": "works/conf/index.html#p-65",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-65",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-65",
       "alignment_revision": "sha256:c2c9452cd0c6a2e80705e82bddb7e12ab42f09b7624528e95ca8304ead294bf8",
       "review_state": {
         "human_reviewed": false,
@@ -8048,9 +8048,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "65",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:56c6424b1d954312aa3b43805d995ce9aa53fd17a40d63bd1ad3f52d90a3612e",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-65"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-65"
       }
     },
     {
@@ -8110,7 +8110,7 @@
       "notes": [],
       "work_passage_id": "conf:66",
       "html_path": "works/conf/index.html#p-66",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-66",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-66",
       "alignment_revision": "sha256:a34d2504f721bd516b919079335afef0c23d6618a9d43442b3563beb7eeb559f",
       "review_state": {
         "human_reviewed": false,
@@ -8146,9 +8146,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "66",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:00808d31d7f31dc1cba015ca3db6240bcddb3527a289809afc3ad337e18cbe1e",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-66"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-66"
       }
     },
     {
@@ -8247,7 +8247,7 @@
       "notes": [],
       "work_passage_id": "conf:67",
       "html_path": "works/conf/index.html#p-67",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-67",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-67",
       "alignment_revision": "sha256:6de9de4ee6f2489911f912c25264b9f4b91c30ecf24b82a9ae6b0b6c219c2f18",
       "review_state": {
         "human_reviewed": false,
@@ -8283,9 +8283,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "67",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:b2edc0312cdf9bd9d32b65d3656eec260ffc28cec64008bf8507cd91ee8dc34b",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-67"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-67"
       }
     },
     {
@@ -8360,7 +8360,7 @@
       ],
       "work_passage_id": "conf:68",
       "html_path": "works/conf/index.html#p-68",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-68",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-68",
       "alignment_revision": "sha256:fbd9ad28d2fc8ecbb68e26edf688f6f940619d39cc6953f5a3e7da2b4c23832b",
       "review_state": {
         "human_reviewed": false,
@@ -8396,9 +8396,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "68",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:e10c15c6e1104f4f5ae3c6487551810731e62d11018a3df0650ee3634df75095",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-68"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-68"
       }
     },
     {
@@ -8484,7 +8484,7 @@
       "notes": [],
       "work_passage_id": "conf:69",
       "html_path": "works/conf/index.html#p-69",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-69",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-69",
       "alignment_revision": "sha256:227e5b5fb48d1b9034af8deaf2b6cd07251503161ec29edd4e5ac214c7ca2dd8",
       "review_state": {
         "human_reviewed": false,
@@ -8520,9 +8520,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "69",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:6898cee667be6c1b2fcd630ba962a8e1658339caee9a8a1a462c95cf0f15374f",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-69"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-69"
       }
     },
     {
@@ -8598,7 +8598,7 @@
       "notes": [],
       "work_passage_id": "conf:70",
       "html_path": "works/conf/index.html#p-70",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-70",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-70",
       "alignment_revision": "sha256:a817808a780cec8e7bc7c4cf425ee4b7b69029784d4ac85493c0fbd4ed0e14c9",
       "review_state": {
         "human_reviewed": false,
@@ -8634,9 +8634,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "70",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:646ca5a7bb0cc774b60c421a9ab50ac3c4a06e732104efebe0a98a7b06d65bcb",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-70"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-70"
       }
     },
     {
@@ -8709,7 +8709,7 @@
       "notes": [],
       "work_passage_id": "conf:71",
       "html_path": "works/conf/index.html#p-71",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-71",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-71",
       "alignment_revision": "sha256:7976f8534d9e1360d2e340cf6aea23200f81483385dae480b70cf3cdc24f27dd",
       "review_state": {
         "human_reviewed": false,
@@ -8745,9 +8745,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "71",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:e7cab585ba210d8f4f6f0810629d03652ed6e7e1a785f79019ff1bdb1f5dc87f",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-71"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-71"
       }
     },
     {
@@ -8861,7 +8861,7 @@
       ],
       "work_passage_id": "conf:72",
       "html_path": "works/conf/index.html#p-72",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-72",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-72",
       "alignment_revision": "sha256:bfab895f4ceeacb22dc68f599175857dba5e7d023913345100a1c32d08e6e37a",
       "review_state": {
         "human_reviewed": false,
@@ -8897,9 +8897,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "72",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:40c4eb00defdf3654a4d3dd316301854e0cc5e24e9411d9a16b5469acd2ca674",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-72"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-72"
       }
     },
     {
@@ -8959,7 +8959,7 @@
       "notes": [],
       "work_passage_id": "conf:73",
       "html_path": "works/conf/index.html#p-73",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-73",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-73",
       "alignment_revision": "sha256:01995d6bea8781add73676709918ca9e63bfb065d187830f3eceb3f93c4c3d38",
       "review_state": {
         "human_reviewed": false,
@@ -8995,9 +8995,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "73",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:b09c942d08e4d3014f222cc1220a847b2983363f124294e3848a36900dd34965",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-73"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-73"
       }
     },
     {
@@ -9098,7 +9098,7 @@
       ],
       "work_passage_id": "conf:74",
       "html_path": "works/conf/index.html#p-74",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-74",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-74",
       "alignment_revision": "sha256:7b81d953d8061e21d174136bb4908a70501af0d27179bcedb2d7a95704a413ae",
       "review_state": {
         "human_reviewed": false,
@@ -9134,9 +9134,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "74",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:d23d31ec5ab9d80a7d0f1a18b1bddf1a98b75a5de978488556c4ca3ae80d686d",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-74"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-74"
       }
     },
     {
@@ -9225,7 +9225,7 @@
       "notes": [],
       "work_passage_id": "conf:75",
       "html_path": "works/conf/index.html#p-75",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-75",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-75",
       "alignment_revision": "sha256:1712bb325ebc6c1200a950120b8484fcde57159fa561605bf3057bddca4c306e",
       "review_state": {
         "human_reviewed": false,
@@ -9261,9 +9261,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "75",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:9181bfdde3f925a5c78eebbacc30d4a57c57d7c93f2242ae9ee9da2a4688163e",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-75"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-75"
       }
     },
     {
@@ -9362,7 +9362,7 @@
       "notes": [],
       "work_passage_id": "conf:76",
       "html_path": "works/conf/index.html#p-76",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-76",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-76",
       "alignment_revision": "sha256:70dd2185007bcaa17dfe632bd2375657ba830de8e90f04b008c4b99a280ddfe1",
       "review_state": {
         "human_reviewed": false,
@@ -9398,9 +9398,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "76",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:bf08f6d2f808be83a598f1c4b5f6d671b7244af3ce2c40d52b5d5956bbf975b7",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-76"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-76"
       }
     },
     {
@@ -9475,7 +9475,7 @@
       ],
       "work_passage_id": "conf:77",
       "html_path": "works/conf/index.html#p-77",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-77",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-77",
       "alignment_revision": "sha256:37c1cba67ce1a578bc70293db64f70babc2ef01c2c3ade371770a77274fc5fa0",
       "review_state": {
         "human_reviewed": false,
@@ -9511,9 +9511,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "77",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:3f572f4a733b7332d7651c47c0291d5fbda974e1d216484c94f6b9ad97e7eab5",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-77"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-77"
       }
     },
     {
@@ -9599,7 +9599,7 @@
       "notes": [],
       "work_passage_id": "conf:78",
       "html_path": "works/conf/index.html#p-78",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-78",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-78",
       "alignment_revision": "sha256:70ca54897b0667986a20b4e2d2b4c645b1d32f44fbbb75a69bb3fe05292636f7",
       "review_state": {
         "human_reviewed": false,
@@ -9635,9 +9635,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "78",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:8c2cb56e5691bb0bed16beb7f83ff6fb4aee83a605a82f15f2f0af9c46650483",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-78"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-78"
       }
     },
     {
@@ -9723,7 +9723,7 @@
       "notes": [],
       "work_passage_id": "conf:79",
       "html_path": "works/conf/index.html#p-79",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-79",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-79",
       "alignment_revision": "sha256:858b470af0bbb852dd24d6061cfb4212a83d18704ec10831ced1a941362b4809",
       "review_state": {
         "human_reviewed": false,
@@ -9759,9 +9759,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "79",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:e853120e67da7af3d9c385379f4747f082df9287d8296a6958816bacf93e2df6",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-79"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-79"
       }
     },
     {
@@ -9834,7 +9834,7 @@
       "notes": [],
       "work_passage_id": "conf:80",
       "html_path": "works/conf/index.html#p-80",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-80",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-80",
       "alignment_revision": "sha256:1e752b0c73985db66e0bb7dfcabb2deef1a401dcccaca52a9d9f23d233a9d7a2",
       "review_state": {
         "human_reviewed": false,
@@ -9870,9 +9870,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "80",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:553c87bd49a99be783b6520179be7dcfaf37b1747823132124bee1d076e1c5ec",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-80"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-80"
       }
     },
     {
@@ -9974,7 +9974,7 @@
       "notes": [],
       "work_passage_id": "conf:81",
       "html_path": "works/conf/index.html#p-81",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-81",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-81",
       "alignment_revision": "sha256:518a4ab55175cba4f315e3cbdb5a0c44c46ce083b1b9ceb1085379665afbd20d",
       "review_state": {
         "human_reviewed": false,
@@ -10010,9 +10010,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "81",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:7c35ad9b73e8a7c2d3f9629c18e7a9688af06e8a3af5fa7d6b7a2080f1e502e1",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-81"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-81"
       }
     },
     {
@@ -10085,7 +10085,7 @@
       "notes": [],
       "work_passage_id": "conf:82",
       "html_path": "works/conf/index.html#p-82",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-82",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-82",
       "alignment_revision": "sha256:66107a31c7102404244cad4cdfcbdb3e9c9f62841cebc9067a6a58cfe096fa1f",
       "review_state": {
         "human_reviewed": false,
@@ -10121,9 +10121,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "82",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:b510e25338c273dbc3ddaa7bd27fd353025d40486058ab5470115a51f7596f6d",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-82"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-82"
       }
     },
     {
@@ -10209,7 +10209,7 @@
       "notes": [],
       "work_passage_id": "conf:83",
       "html_path": "works/conf/index.html#p-83",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-83",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-83",
       "alignment_revision": "sha256:e231ac4a092d230210f2d9c66f8093d7691383e3a32d89a4d42e25582df31bf7",
       "review_state": {
         "human_reviewed": false,
@@ -10245,9 +10245,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "83",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:31a3037399f0d62a9fbdb701db23b144eb96d4c44f8d7bf8be2745218956156d",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-83"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-83"
       }
     },
     {
@@ -10309,7 +10309,7 @@
       ],
       "work_passage_id": "conf:84",
       "html_path": "works/conf/index.html#p-84",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-84",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-84",
       "alignment_revision": "sha256:f88c324db57651e4286eaacf01e348fdbb0385edbf1f93bbda857985d5f608dc",
       "review_state": {
         "human_reviewed": false,
@@ -10345,9 +10345,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "84",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:dca884ab3a173d0a76054ee5cd55ca56c8d8296798d33164fe0d9f326231c983",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-84"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-84"
       }
     },
     {
@@ -10433,7 +10433,7 @@
       "notes": [],
       "work_passage_id": "conf:85",
       "html_path": "works/conf/index.html#p-85",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-85",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-85",
       "alignment_revision": "sha256:8a8c9944855d3e0441af862a478b0b124339eef10331dea0d210fe54889b1ee9",
       "review_state": {
         "human_reviewed": false,
@@ -10469,9 +10469,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "85",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:d61e1a50f6267cb248cc9821483ca80f26898db3b4bd20dbb7832859474f181d",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-85"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-85"
       }
     },
     {
@@ -10544,7 +10544,7 @@
       "notes": [],
       "work_passage_id": "conf:86",
       "html_path": "works/conf/index.html#p-86",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-86",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-86",
       "alignment_revision": "sha256:764bcfe3ecc040032429f336a7984c4d3ab1c907a27bfe5b1313cfeaaead03b5",
       "review_state": {
         "human_reviewed": false,
@@ -10580,9 +10580,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "86",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:9a64188bb904bcdbe1d88aad73b383b9042f0fcc5126f789b843f7d7499ee6bc",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-86"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-86"
       }
     },
     {
@@ -10681,7 +10681,7 @@
       "notes": [],
       "work_passage_id": "conf:87",
       "html_path": "works/conf/index.html#p-87",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-87",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-87",
       "alignment_revision": "sha256:53a9b9c35f6c50ed1de46b2aa5ddfdc1741a7b45f27245f2731d9a840d562689",
       "review_state": {
         "human_reviewed": false,
@@ -10717,9 +10717,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "87",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:2ce42597daa0b5a20dd8116d91877238c447c871e0574ce8f763d7f069fa6646",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-87"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-87"
       }
     },
     {
@@ -10782,7 +10782,7 @@
       "notes": [],
       "work_passage_id": "conf:88",
       "html_path": "works/conf/index.html#p-88",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-88",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-88",
       "alignment_revision": "sha256:db23893028726cc090bdfe1f2f40d7d4829b291c8c19f73bfc44c5d5284b944a",
       "review_state": {
         "human_reviewed": false,
@@ -10818,9 +10818,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "88",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:d0b51824808c574a6ee0945261d50d3a0ec785988f79afbe30b950fbd4035286",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-88"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-88"
       }
     },
     {
@@ -10893,7 +10893,7 @@
       "notes": [],
       "work_passage_id": "conf:89",
       "html_path": "works/conf/index.html#p-89",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-89",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-89",
       "alignment_revision": "sha256:f08ef9feb8f812000de50737ee0294142b5e9065c530865c4eb21465e6487e65",
       "review_state": {
         "human_reviewed": false,
@@ -10929,9 +10929,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "89",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:d49c9ebb2b15bb214c9e0dc34e7766985f0b3f270eb3773ff90e4743a33047b1",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-89"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-89"
       }
     },
     {
@@ -11043,7 +11043,7 @@
       "notes": [],
       "work_passage_id": "conf:90",
       "html_path": "works/conf/index.html#p-90",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-90",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-90",
       "alignment_revision": "sha256:9a8243a9f17fca8a03f54aa14514bd2c077a3035bc45a034d4d85d04a8aa37d1",
       "review_state": {
         "human_reviewed": false,
@@ -11079,9 +11079,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "90",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:8f9bb58b76cb9b6e6040967ea34c0ada6e4ec10627e1b30d15cb876ecd5c1653",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-90"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-90"
       }
     },
     {
@@ -11182,7 +11182,7 @@
       ],
       "work_passage_id": "conf:91",
       "html_path": "works/conf/index.html#p-91",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-91",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-91",
       "alignment_revision": "sha256:3b376e7237f52d5dc3b8f2ed5350b3d8079cef49bea31b5553fb5d837a261878",
       "review_state": {
         "human_reviewed": false,
@@ -11218,9 +11218,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "91",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:9c20812cfba841e0ce9da2271450c9beaf88ea368b1bfabe3b3b3fd0e015b6dd",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-91"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-91"
       }
     },
     {
@@ -11306,7 +11306,7 @@
       "notes": [],
       "work_passage_id": "conf:92",
       "html_path": "works/conf/index.html#p-92",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-92",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-92",
       "alignment_revision": "sha256:64fe6ad215780668d7fcc67a8888eaca09d44a50110ddf6e0cac3b33110c9910",
       "review_state": {
         "human_reviewed": false,
@@ -11342,9 +11342,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "92",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:d43f3c6227ef17f2c87e43bd958ba04c62f3e6de4762c0292ac6977a4726c316",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-92"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-92"
       }
     },
     {
@@ -11433,7 +11433,7 @@
       "notes": [],
       "work_passage_id": "conf:93",
       "html_path": "works/conf/index.html#p-93",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-93",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-93",
       "alignment_revision": "sha256:d2a384464fa92bb7d8a561c15e34b7e93af6c67aac72ca16adb969f3bef1eb02",
       "review_state": {
         "human_reviewed": false,
@@ -11469,9 +11469,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "93",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:5fa22ad838177aa026d858acd881c72704be7bef4435936dd62077bb98c4d7fc",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-93"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-93"
       }
     },
     {
@@ -11544,7 +11544,7 @@
       "notes": [],
       "work_passage_id": "conf:94",
       "html_path": "works/conf/index.html#p-94",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-94",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-94",
       "alignment_revision": "sha256:24fa844988e1a2d861bce3ea60645c14620aa5975741b98a057673534614248b",
       "review_state": {
         "human_reviewed": false,
@@ -11580,9 +11580,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "94",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:341708a32b58ee0d4987d1bd9967f267d48c421d05c9e0abe1dc9e4d00a677f9",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-94"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-94"
       }
     },
     {
@@ -11642,7 +11642,7 @@
       "notes": [],
       "work_passage_id": "conf:95",
       "html_path": "works/conf/index.html#p-95",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-95",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-95",
       "alignment_revision": "sha256:fec694d488430466bb6d95c088c63aaf076f34af8a86b276b83ee78964f8bbf2",
       "review_state": {
         "human_reviewed": false,
@@ -11678,9 +11678,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "95",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:29d85ef1ac36dbc91a549fd01cc331033b01a334fb8e53c18c68f891bcecd61f",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-95"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-95"
       }
     },
     {
@@ -11753,7 +11753,7 @@
       "notes": [],
       "work_passage_id": "conf:96",
       "html_path": "works/conf/index.html#p-96",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-96",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-96",
       "alignment_revision": "sha256:981db8916e965338cd189770367af592e3597362a1ba2408a5c16496680d0403",
       "review_state": {
         "human_reviewed": false,
@@ -11789,9 +11789,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "96",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:fabdae8172715cc3dfab5b6b496563e3b6eb5b5cdd0852ccd151a249e34d850a",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-96"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-96"
       }
     },
     {
@@ -11879,7 +11879,7 @@
       ],
       "work_passage_id": "conf:97",
       "html_path": "works/conf/index.html#p-97",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-97",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-97",
       "alignment_revision": "sha256:1baab6d6485386941fddab212b010e175e341e4e8538ce667045ad2118b181c0",
       "review_state": {
         "human_reviewed": false,
@@ -11915,9 +11915,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "97",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:37d5836cebe05426ceef9e029b486c01ae0cd4a9bca16452ea3376b8ed869c6e",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-97"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-97"
       }
     },
     {
@@ -12032,7 +12032,7 @@
       "notes": [],
       "work_passage_id": "conf:98",
       "html_path": "works/conf/index.html#p-98",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-98",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-98",
       "alignment_revision": "sha256:99bc5e9d76a855b2d28452e03b342edb4f4ba79a7f8a503af8df71b0dc03c7f1",
       "review_state": {
         "human_reviewed": false,
@@ -12068,9 +12068,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "98",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:0aa1f3446db8b7f6e7b90986ac01057805032296be5b72ae49f0cb1fdb2d6d36",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-98"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-98"
       }
     },
     {
@@ -12143,7 +12143,7 @@
       "notes": [],
       "work_passage_id": "conf:99",
       "html_path": "works/conf/index.html#p-99",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-99",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-99",
       "alignment_revision": "sha256:c036b91c3a678a4f8ad070ec715e38f0c2fb163d9ab2951804881713f5e46bdb",
       "review_state": {
         "human_reviewed": false,
@@ -12179,9 +12179,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "99",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:82279885f506b1fe1ea223059be9e8400bb7bc011888e8b9cc5485b478a7da83",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-99"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-99"
       }
     },
     {
@@ -12267,7 +12267,7 @@
       "notes": [],
       "work_passage_id": "conf:100",
       "html_path": "works/conf/index.html#p-100",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-100",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-100",
       "alignment_revision": "sha256:0deb2d9c5b9bcd8cfc4e4b0b06a0d980214e347ae09f6268932d5bb2984ddc07",
       "review_state": {
         "human_reviewed": false,
@@ -12303,9 +12303,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "100",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:716180715e898855c8bf32fb5804283103a6b415b465d3ab023b8e53f21a8d89",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-100"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-100"
       }
     },
     {
@@ -12391,7 +12391,7 @@
       "notes": [],
       "work_passage_id": "conf:101",
       "html_path": "works/conf/index.html#p-101",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-101",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-101",
       "alignment_revision": "sha256:eed401c96456e2fd59d650aebe6c6469cc4e6b273ece575d03f5726178539ce1",
       "review_state": {
         "human_reviewed": false,
@@ -12427,9 +12427,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "101",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:5da2d0fa1390b36f8a34566fa3b4bf782f3044dbf473b2d8cb81221024d88c24",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-101"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-101"
       }
     },
     {
@@ -12543,7 +12543,7 @@
       ],
       "work_passage_id": "conf:102",
       "html_path": "works/conf/index.html#p-102",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-102",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-102",
       "alignment_revision": "sha256:40e6d9bf41885849518d7dc2c71f5a4639a829ac661d9bcc036e4d3dc0e3ca5e",
       "review_state": {
         "human_reviewed": false,
@@ -12579,9 +12579,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "102",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:09111db038b5bb48dc00855cb9ae6cb4f98094c489c27ade0ff52ffd17420f67",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-102"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-102"
       }
     },
     {
@@ -12654,7 +12654,7 @@
       "notes": [],
       "work_passage_id": "conf:103",
       "html_path": "works/conf/index.html#p-103",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-103",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-103",
       "alignment_revision": "sha256:1411394a63207efb30ab7335d4eaaf46fc9acbd93908bbedeab5c9abbc5b9095",
       "review_state": {
         "human_reviewed": false,
@@ -12690,9 +12690,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "103",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:fa1546706fcc0b3b7da7f81bf3d26b8e4dbf2a18a4e7f4a884c3e7905a980e66",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-103"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-103"
       }
     },
     {
@@ -12768,7 +12768,7 @@
       "notes": [],
       "work_passage_id": "conf:104",
       "html_path": "works/conf/index.html#p-104",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-104",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-104",
       "alignment_revision": "sha256:6c55e9c3e6216cf324780d63369ff9681ab8f6c987e0c56c682ce0e634df4a0d",
       "review_state": {
         "human_reviewed": false,
@@ -12804,9 +12804,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "104",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:dc85fc1ccf7abe45146258c8b83dafab838bd22b4312fc6d8ccd2559ea62d71f",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-104"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-104"
       }
     },
     {
@@ -12879,7 +12879,7 @@
       "notes": [],
       "work_passage_id": "conf:105",
       "html_path": "works/conf/index.html#p-105",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-105",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-105",
       "alignment_revision": "sha256:f7318cf2d31d5c2aada4bd9da3796fb01a84cafd553acd8b83ebb6265ae2897f",
       "review_state": {
         "human_reviewed": false,
@@ -12915,9 +12915,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "105",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:00e4e35d9496a1b77789dd9709dc9aa11dc553bcb0c6ad06ab328f0ded13ac66",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-105"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-105"
       }
     },
     {
@@ -13044,7 +13044,7 @@
       ],
       "work_passage_id": "conf:106",
       "html_path": "works/conf/index.html#p-106",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-106",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-106",
       "alignment_revision": "sha256:b76f5e096efb43dc2600efcf85233b5eb0df1a67645825241b14a794a4cf584f",
       "review_state": {
         "human_reviewed": false,
@@ -13080,9 +13080,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "106",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:74f1ee5c3557758c250a8b6a54c3da1d982d5e616f40f78b4da1ea4a0b38f4b7",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-106"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-106"
       }
     },
     {
@@ -13168,7 +13168,7 @@
       "notes": [],
       "work_passage_id": "conf:107",
       "html_path": "works/conf/index.html#p-107",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-107",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-107",
       "alignment_revision": "sha256:51284659c6675e9c7f8a57fc887bc751cda5111c6b8ed31b50555bc9526de863",
       "review_state": {
         "human_reviewed": false,
@@ -13204,9 +13204,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "107",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:7f9029fb8f1811eeb3772855b07c0dfd83fe6d971ddab025b29153c67ec666cf",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-107"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-107"
       }
     },
     {
@@ -13334,7 +13334,7 @@
       "notes": [],
       "work_passage_id": "conf:108",
       "html_path": "works/conf/index.html#p-108",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-108",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-108",
       "alignment_revision": "sha256:e0d04d31c2239a88508196e15bd5393d832ddf853c20fcb97debe919c581c974",
       "review_state": {
         "human_reviewed": false,
@@ -13370,9 +13370,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "108",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:37152e205630dd066e7d7b5885f0eb1e45d8edd949d28c7ebfb2bf88e6995baa",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-108"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-108"
       }
     },
     {
@@ -13445,7 +13445,7 @@
       "notes": [],
       "work_passage_id": "conf:109",
       "html_path": "works/conf/index.html#p-109",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-109",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-109",
       "alignment_revision": "sha256:9a63a9ccc4f35e2deb589761c689002f5a5780ba108ad286dfced3f5e94e5d11",
       "review_state": {
         "human_reviewed": false,
@@ -13481,9 +13481,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "109",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:26a6550ef8b18b93b86bc8d53300ac2fa9e0700c90c152db9c000f064754d2d3",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-109"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-109"
       }
     },
     {
@@ -13556,7 +13556,7 @@
       "notes": [],
       "work_passage_id": "conf:110",
       "html_path": "works/conf/index.html#p-110",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-110",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-110",
       "alignment_revision": "sha256:9f3cfd64f8b9ee31db7d636b63bef62d26fd76a08bad72454e03dc627fcc04b6",
       "review_state": {
         "human_reviewed": false,
@@ -13592,9 +13592,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "110",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:8fed1a32cf966304baac6b153f40357df78aa8196e2fae68fd27a342e4ad76e9",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-110"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-110"
       }
     },
     {
@@ -13667,7 +13667,7 @@
       "notes": [],
       "work_passage_id": "conf:111",
       "html_path": "works/conf/index.html#p-111",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-111",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-111",
       "alignment_revision": "sha256:cc0887c3387264c33553ef132bbad036a101495166e2410a6f37134f0ac4eac4",
       "review_state": {
         "human_reviewed": false,
@@ -13703,9 +13703,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "111",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:ee471437450bd75ccca4e32e402647d626396b0d6bab7b838790479f1e12cd5f",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-111"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-111"
       }
     },
     {
@@ -13765,7 +13765,7 @@
       "notes": [],
       "work_passage_id": "conf:112",
       "html_path": "works/conf/index.html#p-112",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-112",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-112",
       "alignment_revision": "sha256:1012e8280470559a88326011e4d98bdc3620f75b6a618fe6abf081408d73de9d",
       "review_state": {
         "human_reviewed": false,
@@ -13801,9 +13801,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "112",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:b239b1c877400b7b533f28a9f4c2c0bac300e6d9028e4c6c1091f87d3224b3e2",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-112"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-112"
       }
     },
     {
@@ -13865,7 +13865,7 @@
       ],
       "work_passage_id": "conf:113",
       "html_path": "works/conf/index.html#p-113",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-113",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-113",
       "alignment_revision": "sha256:7597a0d2eca306cdde4f19aaf5775f688673b688a1d9be809fa4a8c8593fba1d",
       "review_state": {
         "human_reviewed": false,
@@ -13901,9 +13901,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "113",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:ccf95022aafc2d056524435969c68479d70cdf6bb9367102c317eaaac4b44564",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-113"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-113"
       }
     },
     {
@@ -14005,7 +14005,7 @@
       "notes": [],
       "work_passage_id": "conf:114",
       "html_path": "works/conf/index.html#p-114",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-114",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-114",
       "alignment_revision": "sha256:2a0c632874cd18fb36c36d9bdf06dc014930376c983e30803b0a9d23f273982c",
       "review_state": {
         "human_reviewed": false,
@@ -14041,9 +14041,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "114",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:7ad222fb7d7b4a4c5a3cf7d9ecadfe3ff2c0e49e3d8238b75e0ac144b572589d",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-114"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-114"
       }
     },
     {
@@ -14142,7 +14142,7 @@
       "notes": [],
       "work_passage_id": "conf:115",
       "html_path": "works/conf/index.html#p-115",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-115",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-115",
       "alignment_revision": "sha256:fa2a62c74c6f63636b77ba839581f1f555510eeaa91a7e4c9901369028d3681b",
       "review_state": {
         "human_reviewed": false,
@@ -14178,9 +14178,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "115",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:e74ffdc3f7ad3a78f586b15fe07bc9942171c254912c90d3e72bb36f85cf1869",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-115"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-115"
       }
     },
     {
@@ -14292,7 +14292,7 @@
       "notes": [],
       "work_passage_id": "conf:116",
       "html_path": "works/conf/index.html#p-116",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-116",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-116",
       "alignment_revision": "sha256:4528e08c63a5d5bb6e3284efad60106e965495861c529fb90cb21e1a050925c4",
       "review_state": {
         "human_reviewed": false,
@@ -14328,9 +14328,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "116",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:ccd2afc0208b0e697a34af939cd34492607fe9f8193b3c680b41c8c5678bb42f",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-116"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-116"
       }
     },
     {
@@ -14468,7 +14468,7 @@
       "notes": [],
       "work_passage_id": "conf:117",
       "html_path": "works/conf/index.html#p-117",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-117",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-117",
       "alignment_revision": "sha256:c3d99359159188ab7e3b3ef23a0532a96726cd9ee176639da82f42f659dc07a5",
       "review_state": {
         "human_reviewed": false,
@@ -14504,9 +14504,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "117",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:a1d14b5094c752a6496030f08671f2e3fdd818a33fa50d31976187c04dfd05fd",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-117"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-117"
       }
     },
     {
@@ -14608,7 +14608,7 @@
       "notes": [],
       "work_passage_id": "conf:118",
       "html_path": "works/conf/index.html#p-118",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-118",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-118",
       "alignment_revision": "sha256:bde703e99b927e7f04bf8f9b5e59286b2d2321a30bc0e196ac22044d551125b7",
       "review_state": {
         "human_reviewed": false,
@@ -14644,9 +14644,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "118",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:68af05fb2fc35bd76ad0d9e50ad32b971c1e1c777227afe6bd932033f8fb5402",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-118"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-118"
       }
     },
     {
@@ -14732,7 +14732,7 @@
       "notes": [],
       "work_passage_id": "conf:119",
       "html_path": "works/conf/index.html#p-119",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-119",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-119",
       "alignment_revision": "sha256:45defe8244c27278b47f8061408caae21387dabeefbb96e53ebef3ccd214a3bb",
       "review_state": {
         "human_reviewed": false,
@@ -14768,9 +14768,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "119",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:7cfdedda5649cf2a806469a5f9af8f8b410a9155a6f9742d9f57347a518878da",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-119"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-119"
       }
     },
     {
@@ -14830,7 +14830,7 @@
       "notes": [],
       "work_passage_id": "conf:120",
       "html_path": "works/conf/index.html#p-120",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-120",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-120",
       "alignment_revision": "sha256:e349abd70a45a2c6a086e9926ece09b52d1b80fb05d90a10a2224646dc2c6c98",
       "review_state": {
         "human_reviewed": false,
@@ -14866,9 +14866,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "120",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:166025d7bb9fa820cdd2dc40ea6f5dd546dcc19498fecc4a8b5028a38baa0c0c",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-120"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-120"
       }
     },
     {
@@ -14954,7 +14954,7 @@
       "notes": [],
       "work_passage_id": "conf:121",
       "html_path": "works/conf/index.html#p-121",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-121",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-121",
       "alignment_revision": "sha256:1fff24da7394ef61040272a4aec66b86aca81ed0acc085c273c2b6f9fc40fc37",
       "review_state": {
         "human_reviewed": false,
@@ -14990,9 +14990,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "121",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:979f13dd9debcda1044c43ac97a9b32f541eab6035ecc7f23b3795474a974c72",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-121"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-121"
       }
     },
     {
@@ -15067,7 +15067,7 @@
       ],
       "work_passage_id": "conf:122",
       "html_path": "works/conf/index.html#p-122",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-122",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-122",
       "alignment_revision": "sha256:319842ab3773da97ed2ae8d34865d861ef9de7031f158fd1c46f49079e320615",
       "review_state": {
         "human_reviewed": false,
@@ -15103,9 +15103,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "122",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:bbe40b4900e225492856bf36d9c22bc5676a319b703ae463d4f4739b7ddbed30",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-122"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-122"
       }
     },
     {
@@ -15206,7 +15206,7 @@
       ],
       "work_passage_id": "conf:123",
       "html_path": "works/conf/index.html#p-123",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-123",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-123",
       "alignment_revision": "sha256:df7b7566545d57dac5f82edb4d50fb2116f9d557cbb31abd322c44cf3b62466b",
       "review_state": {
         "human_reviewed": false,
@@ -15242,9 +15242,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "123",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:9e2dccab51c1b11bb3231439c9b78b812b415ef4fdc7c0c8fc01c54838a6fe88",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-123"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-123"
       }
     },
     {
@@ -15333,7 +15333,7 @@
       "notes": [],
       "work_passage_id": "conf:124",
       "html_path": "works/conf/index.html#p-124",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-124",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-124",
       "alignment_revision": "sha256:b90915ffb713937f8f0b6d09325cc8a641b42685f91f428f829b68c58d08aab4",
       "review_state": {
         "human_reviewed": false,
@@ -15369,9 +15369,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "124",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:a0799f066f50e96aa5eb52a440a54248acc4380bc67670c0ab16071b9425a7a3",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-124"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-124"
       }
     },
     {
@@ -15444,7 +15444,7 @@
       "notes": [],
       "work_passage_id": "conf:125",
       "html_path": "works/conf/index.html#p-125",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-125",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-125",
       "alignment_revision": "sha256:063040241208f30a0e9955a087df6b0956eb836b2bdd81896c6cf6eeed83dc6d",
       "review_state": {
         "human_reviewed": false,
@@ -15480,9 +15480,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "125",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:43e0f236656238820ff2d0d9c197684c23e7a2f38f93d60f7c76e6808c350982",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-125"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-125"
       }
     },
     {
@@ -15581,7 +15581,7 @@
       "notes": [],
       "work_passage_id": "conf:126",
       "html_path": "works/conf/index.html#p-126",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-126",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-126",
       "alignment_revision": "sha256:ce49c65e72558daa782aa4bb0dba35742ada4d1398671373804d8bfa2ea28637",
       "review_state": {
         "human_reviewed": false,
@@ -15617,9 +15617,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "126",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:84f0af13c8185cc384dbbe81085797ae250b53dd6a181a495f43871e8ce7f593",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-126"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-126"
       }
     },
     {
@@ -15692,7 +15692,7 @@
       "notes": [],
       "work_passage_id": "conf:127",
       "html_path": "works/conf/index.html#p-127",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-127",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-127",
       "alignment_revision": "sha256:54d6846a5985604b654ffa44584d2f41becf802d8145759d4c35a4a74fede068",
       "review_state": {
         "human_reviewed": false,
@@ -15728,9 +15728,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "127",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:d5de170f7c4dae438074b24998cb89beae0f005db647891452e4c645f0cbba5d",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-127"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-127"
       }
     },
     {
@@ -15803,7 +15803,7 @@
       "notes": [],
       "work_passage_id": "conf:128",
       "html_path": "works/conf/index.html#p-128",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-128",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-128",
       "alignment_revision": "sha256:ba28675b719035edaada499dc620eae46a8424430b4779867d3f49f4825e8f43",
       "review_state": {
         "human_reviewed": false,
@@ -15839,9 +15839,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "128",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:0f2c8cbbfbaed6692a699af3e2f977203c58cd46889c055847d27c088c0251e0",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-128"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-128"
       }
     },
     {
@@ -15929,7 +15929,7 @@
       ],
       "work_passage_id": "conf:129",
       "html_path": "works/conf/index.html#p-129",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-129",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-129",
       "alignment_revision": "sha256:99d75f24c0757a0bdfbce6200a5a28df13d5c16f075b42e0ed2c9546b2f1c33d",
       "review_state": {
         "human_reviewed": false,
@@ -15965,9 +15965,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "129",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:203cfd59454a73f0fbdb223d508cb3c6fb22fb1183aa0a5520a296546950897f",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-129"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-129"
       }
     },
     {
@@ -16055,7 +16055,7 @@
       ],
       "work_passage_id": "conf:130",
       "html_path": "works/conf/index.html#p-130",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-130",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-130",
       "alignment_revision": "sha256:e4f0c4c6105e55ba67fbd24dac64168c59e287997da9e536fef2e0ae1097fa01",
       "review_state": {
         "human_reviewed": false,
@@ -16091,9 +16091,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "130",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:010c70585a70a79e9ffb03eb0d6ed49773a298dbd9f87a971fc7c08baf9ae58f",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-130"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-130"
       }
     },
     {
@@ -16169,7 +16169,7 @@
       "notes": [],
       "work_passage_id": "conf:131",
       "html_path": "works/conf/index.html#p-131",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-131",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-131",
       "alignment_revision": "sha256:162276c166cae7d15c29af7189cc0d7737b97a368094dcbea748dd37c8982523",
       "review_state": {
         "human_reviewed": false,
@@ -16205,9 +16205,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "131",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:f9b80ec8aae017f041e47bcbbbf297c947a87d2f10e645bb863a210107251d6f",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-131"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-131"
       }
     },
     {
@@ -16267,7 +16267,7 @@
       "notes": [],
       "work_passage_id": "conf:132",
       "html_path": "works/conf/index.html#p-132",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-132",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-132",
       "alignment_revision": "sha256:3bebad7b653a8ccb78d7e9c68ff1d08e601b9a918a686084ca51960ed7c43201",
       "review_state": {
         "human_reviewed": false,
@@ -16303,9 +16303,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "132",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:faa916cc7efc4d3094c08e3887167e1b86aaf732a99aeb0f5150e031bcd399ca",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-132"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-132"
       }
     },
     {
@@ -16404,7 +16404,7 @@
       "notes": [],
       "work_passage_id": "conf:133",
       "html_path": "works/conf/index.html#p-133",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-133",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-133",
       "alignment_revision": "sha256:fc5df4aa942c0ee3cff7edbe017c5c0cf5d9dc2d90f65bbde1a122cf5d1bc580",
       "review_state": {
         "human_reviewed": false,
@@ -16440,9 +16440,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "133",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:505ed283db161ea50360fd6d6b8b83fceed6972324a0801ee4815ef88645768e",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-133"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-133"
       }
     },
     {
@@ -16530,7 +16530,7 @@
       ],
       "work_passage_id": "conf:134",
       "html_path": "works/conf/index.html#p-134",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-134",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-134",
       "alignment_revision": "sha256:6227b317b9341fde383f7e5ddb35cb604189896d8017c24bb6d7a6659cae590c",
       "review_state": {
         "human_reviewed": false,
@@ -16566,9 +16566,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "134",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:5da304d1818efc452da98c8d025626ac9ab0a716a392d9e279d4558cab28a355",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-134"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-134"
       }
     },
     {
@@ -16628,7 +16628,7 @@
       "notes": [],
       "work_passage_id": "conf:135",
       "html_path": "works/conf/index.html#p-135",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-135",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-135",
       "alignment_revision": "sha256:738be9d79b88ea2b569443930b5662da7bf4177af5be980c7978e495b686b5e7",
       "review_state": {
         "human_reviewed": false,
@@ -16664,9 +16664,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "135",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:fc38d8d23b1a0ef5b4f3340196d6c16eb1ed6cc7b6503b1cabc6c2350a290e79",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-135"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-135"
       }
     },
     {
@@ -16796,7 +16796,7 @@
       ],
       "work_passage_id": "conf:136",
       "html_path": "works/conf/index.html#p-136",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-136",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-136",
       "alignment_revision": "sha256:5a4ab8716435e8ab3543ffb8dab386b39536bfa50ecd38fc4f8be05a9e8f2c00",
       "review_state": {
         "human_reviewed": false,
@@ -16832,9 +16832,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "136",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:6d5104f0c92e1c825ea58854322aa383729e22adea54176df841ce0fc217fa77",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-136"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-136"
       }
     },
     {
@@ -16923,7 +16923,7 @@
       ],
       "work_passage_id": "conf:137",
       "html_path": "works/conf/index.html#p-137",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-137",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-137",
       "alignment_revision": "sha256:c1449cbcf9b8a6f64d85c4a70eacee05d4ade76b2f4341a994ccb5a8657e9266",
       "review_state": {
         "human_reviewed": false,
@@ -16959,9 +16959,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "137",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:2ab323269928a304613450bcf169a744b5aa0c87000bd5a47893edc67437aadb",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-137"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-137"
       }
     },
     {
@@ -17049,7 +17049,7 @@
       ],
       "work_passage_id": "conf:138",
       "html_path": "works/conf/index.html#p-138",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-138",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-138",
       "alignment_revision": "sha256:19f9241f16a9ce337d2073361bfb220312369d01e4ddfa607ade21d292921a53",
       "review_state": {
         "human_reviewed": false,
@@ -17085,9 +17085,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "138",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:a2ebcdd15f910441147bd8f82d08f68d249b41c3ccb1dc60e6a764b548266472",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-138"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-138"
       }
     },
     {
@@ -17147,7 +17147,7 @@
       "notes": [],
       "work_passage_id": "conf:139",
       "html_path": "works/conf/index.html#p-139",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-139",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-139",
       "alignment_revision": "sha256:86d0d9f76452894480beaac17289ded9babe547c3d0932e8548a665a64379dae",
       "review_state": {
         "human_reviewed": false,
@@ -17183,9 +17183,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "139",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:56465be06c5701aba7d2a013d44f29fcd9abc4585ca535abb457f5c56966bbbf",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-139"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-139"
       }
     },
     {
@@ -17284,7 +17284,7 @@
       "notes": [],
       "work_passage_id": "conf:140",
       "html_path": "works/conf/index.html#p-140",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-140",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-140",
       "alignment_revision": "sha256:c23f4b2e73ce3a0fd0b01cdbdb56824710f27d0dcef0854e9d17487a5a001541",
       "review_state": {
         "human_reviewed": false,
@@ -17320,9 +17320,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "140",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:5321091c4ed8080bde3fce6984a1bd5205c8e7b303b9d8a29bee5a147ca3a316",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-140"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-140"
       }
     },
     {
@@ -17426,7 +17426,7 @@
       ],
       "work_passage_id": "conf:141",
       "html_path": "works/conf/index.html#p-141",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-141",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-141",
       "alignment_revision": "sha256:537749f6801b966dd3e74abd3b4567e72d89b62fd27c36a1d5004347526e3dad",
       "review_state": {
         "human_reviewed": false,
@@ -17462,9 +17462,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "141",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:bbea9113e3648142b055c12a26a628d437dacac35d48d5e0dec31ab15b8e09dc",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-141"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-141"
       }
     },
     {
@@ -17576,7 +17576,7 @@
       "notes": [],
       "work_passage_id": "conf:142",
       "html_path": "works/conf/index.html#p-142",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-142",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-142",
       "alignment_revision": "sha256:78e4140bec4a8df365fee990df16993d738a8b6207bb994866cb850ec69b5a36",
       "review_state": {
         "human_reviewed": false,
@@ -17612,9 +17612,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "142",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:d54fe644da9c07d6bd13e73297f2606f097d4a2fc85d8b1830e4bac1a10f01ea",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-142"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-142"
       }
     },
     {
@@ -17689,7 +17689,7 @@
       ],
       "work_passage_id": "conf:143",
       "html_path": "works/conf/index.html#p-143",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-143",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-143",
       "alignment_revision": "sha256:4851398993de39938a0ead0d2ec0ad43b1b9a8aeffaa4403074d581d2988ef0f",
       "review_state": {
         "human_reviewed": false,
@@ -17725,9 +17725,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "143",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:774ad52fca79adb4dcf397178eb4e1df1c7f8de698328356c74e640f4e6389a4",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-143"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-143"
       }
     },
     {
@@ -17880,7 +17880,7 @@
       ],
       "work_passage_id": "conf:144",
       "html_path": "works/conf/index.html#p-144",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-144",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-144",
       "alignment_revision": "sha256:20f63905f91e484f0b0ce0dfbf4364e0ba48de514018f8d6fee669a3734ff168",
       "review_state": {
         "human_reviewed": false,
@@ -17916,9 +17916,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "144",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:b0cca4e2c62f9e00646d86453eebde91c14e60b4aa02b39b2fb53fa13e63449e",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-144"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-144"
       }
     },
     {
@@ -18022,7 +18022,7 @@
       ],
       "work_passage_id": "conf:145",
       "html_path": "works/conf/index.html#p-145",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-145",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-145",
       "alignment_revision": "sha256:29799838a2759a9f920b63b2f2d4bae1b900b5e3e950b5b503aa93057294e320",
       "review_state": {
         "human_reviewed": false,
@@ -18058,9 +18058,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "145",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:0149b749b81901c58d61a0ed3296e7cadea9c1c8a262bd249c44b05dded5b6fe",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-145"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-145"
       }
     },
     {
@@ -18148,7 +18148,7 @@
       ],
       "work_passage_id": "conf:146",
       "html_path": "works/conf/index.html#p-146",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-146",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-146",
       "alignment_revision": "sha256:d3fedcddf5bb9186681850617e92255c1ab62b611d0454ef378faafabf00dec6",
       "review_state": {
         "human_reviewed": false,
@@ -18184,9 +18184,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "146",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:b93090781c80aa28bc765333b434ec5d1189e4e7c08ba73f988c9aea66298a31",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-146"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-146"
       }
     },
     {
@@ -18272,7 +18272,7 @@
       "notes": [],
       "work_passage_id": "conf:147",
       "html_path": "works/conf/index.html#p-147",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-147",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-147",
       "alignment_revision": "sha256:e5cba60fe8700aadd3f05deaa6435e8c54d0b18d2afb78bdd4ba3c6c0b9b6a0d",
       "review_state": {
         "human_reviewed": false,
@@ -18308,9 +18308,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "147",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:e07ad2ed65dc37c8c3d6c517421960f70b995e641a3433094523b4dcaf8a20ae",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-147"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-147"
       }
     },
     {
@@ -18383,7 +18383,7 @@
       "notes": [],
       "work_passage_id": "conf:148",
       "html_path": "works/conf/index.html#p-148",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-148",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-148",
       "alignment_revision": "sha256:a14e5c174d8727e66963eb95a5067544f7a6bb34018281cad770ef92992c6142",
       "review_state": {
         "human_reviewed": false,
@@ -18419,9 +18419,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "148",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:4d25d08406f62b6169a2c9643dc2393ad359ef01a60190bcb22ce5fd2ab9209f",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-148"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-148"
       }
     },
     {
@@ -18522,7 +18522,7 @@
       ],
       "work_passage_id": "conf:149",
       "html_path": "works/conf/index.html#p-149",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-149",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-149",
       "alignment_revision": "sha256:4cff22f057619b23c3c6fdef639a64d1e5035a910cef7cbc9e3e66cc95c126f5",
       "review_state": {
         "human_reviewed": false,
@@ -18558,9 +18558,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "149",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:1421065b55995639ec2aa0a955cdac21bc053f9d268a078ea8144f010a0a0e4e",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-149"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-149"
       }
     },
     {
@@ -18675,7 +18675,7 @@
       "notes": [],
       "work_passage_id": "conf:150",
       "html_path": "works/conf/index.html#p-150",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-150",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-150",
       "alignment_revision": "sha256:7fe5f00058a93ee952e5eb1398ca9017f9a2302cc332451f6afa41165bf00557",
       "review_state": {
         "human_reviewed": false,
@@ -18711,9 +18711,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "150",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:befc5e9409739213a0a0dffe0522f0c06cf54ffe710c5204bccc5ddca8da86f8",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-150"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-150"
       }
     },
     {
@@ -18789,7 +18789,7 @@
       ],
       "work_passage_id": "conf:151",
       "html_path": "works/conf/index.html#p-151",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-151",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-151",
       "alignment_revision": "sha256:6695a639326578c9e10f7c909fab507612b571c7b04b4a32d82a8f53c1ba631b",
       "review_state": {
         "human_reviewed": false,
@@ -18825,9 +18825,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "151",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:56b788b3f8eb523448461d5b3d5a78b6a8304d94ad65406c71392bc7c6edb66a",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-151"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-151"
       }
     },
     {
@@ -18900,7 +18900,7 @@
       "notes": [],
       "work_passage_id": "conf:152",
       "html_path": "works/conf/index.html#p-152",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-152",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-152",
       "alignment_revision": "sha256:6d23f3f39923532abf57c665cf1952bfeed6b1548308503d2dcb8120f56a3112",
       "review_state": {
         "human_reviewed": false,
@@ -18936,9 +18936,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "152",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:dff3ffb0889843a6c3a246b33079ed9cffdf967091e55a5f5ec9d8de44a5601d",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-152"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-152"
       }
     },
     {
@@ -19050,7 +19050,7 @@
       "notes": [],
       "work_passage_id": "conf:153",
       "html_path": "works/conf/index.html#p-153",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-153",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-153",
       "alignment_revision": "sha256:4d2af79fd2ca3c0f750b7f5e42713801420affaab04a20c8677e9a47c2f2e7a3",
       "review_state": {
         "human_reviewed": false,
@@ -19086,9 +19086,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "153",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:66a033ddc4a70490489758d41ed817895740b717548b18515397b5afaa763e2f",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-153"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-153"
       }
     },
     {
@@ -19216,7 +19216,7 @@
       ],
       "work_passage_id": "conf:154",
       "html_path": "works/conf/index.html#p-154",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-154",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-154",
       "alignment_revision": "sha256:1ab73138d31ad9c7649e4efb3eb7f702c8d2dee9ca6145b57e1da7dc3093a814",
       "review_state": {
         "human_reviewed": false,
@@ -19252,9 +19252,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "154",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:7286cbdd1cb0ad07de5413b060907cdeb24c0042738ae54f38dfb0bd5f3e80c3",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-154"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-154"
       }
     },
     {
@@ -19340,7 +19340,7 @@
       "notes": [],
       "work_passage_id": "conf:155",
       "html_path": "works/conf/index.html#p-155",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-155",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-155",
       "alignment_revision": "sha256:3e65bb742601cb39971bfb10a3a47a55653091728aaad2061170efc1d9e14edc",
       "review_state": {
         "human_reviewed": false,
@@ -19376,9 +19376,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "155",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:795441d5f1310a0d73d7d2b4e8ffc9fa5470abf76296f5fdb7d148fb38313b08",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-155"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-155"
       }
     },
     {
@@ -19480,7 +19480,7 @@
       "notes": [],
       "work_passage_id": "conf:156",
       "html_path": "works/conf/index.html#p-156",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-156",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-156",
       "alignment_revision": "sha256:4051f0797630b2ecfcf1df8d270a4b205ff912ebba320aa92d82c851a4366d55",
       "review_state": {
         "human_reviewed": false,
@@ -19516,9 +19516,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "156",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:f360e3688cebc6c8c1bd3e2b229e124643e7050ce64cc3f4e48213533b30fa3a",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-156"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-156"
       }
     },
     {
@@ -19617,7 +19617,7 @@
       "notes": [],
       "work_passage_id": "conf:157",
       "html_path": "works/conf/index.html#p-157",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-157",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-157",
       "alignment_revision": "sha256:176f433c5f287842d71361de11334718678df48018339ee2c4e39adc82740bc4",
       "review_state": {
         "human_reviewed": false,
@@ -19653,9 +19653,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "157",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:e70fb6293df971ec8f294bc971e76b9b46f8d44299de85e9c67b760704187d06",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-157"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-157"
       }
     },
     {
@@ -19754,7 +19754,7 @@
       "notes": [],
       "work_passage_id": "conf:158",
       "html_path": "works/conf/index.html#p-158",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-158",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-158",
       "alignment_revision": "sha256:0a6a8780d38e2474c52f118caa3f3a730bcf1134ce443d14e2fd0eb410e78e91",
       "review_state": {
         "human_reviewed": false,
@@ -19790,9 +19790,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "158",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:1c89cd08ec989706cfcc9639906ddaece58fe183df2ceb732419365e477103ca",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-158"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-158"
       }
     },
     {
@@ -19906,7 +19906,7 @@
       ],
       "work_passage_id": "conf:159",
       "html_path": "works/conf/index.html#p-159",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-159",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-159",
       "alignment_revision": "sha256:4e622cedbcae2eed253a9e49868694f1ce60b5fd6d62c249660f81d8221339ed",
       "review_state": {
         "human_reviewed": false,
@@ -19942,9 +19942,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "159",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:7dd9be20804adeb66997fab76295c36a5acbed9fffe46d154ad6428d5ae7e100",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-159"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-159"
       }
     },
     {
@@ -20074,7 +20074,7 @@
       ],
       "work_passage_id": "conf:160",
       "html_path": "works/conf/index.html#p-160",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-160",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-160",
       "alignment_revision": "sha256:7b6df2bc3f41b9cb2b2614664a262c85a693fe1fbc84202c0ae17d78d91135b1",
       "review_state": {
         "human_reviewed": false,
@@ -20110,9 +20110,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "160",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:cd1c78e375de0b567602860a8ed490fa1bb80702ca62376fc3ba67b9e230a4c0",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-160"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-160"
       }
     },
     {
@@ -20224,7 +20224,7 @@
       "notes": [],
       "work_passage_id": "conf:161",
       "html_path": "works/conf/index.html#p-161",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-161",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-161",
       "alignment_revision": "sha256:7cca284cc0f83924eaad16804048db1e183f97eed5bdd37c181941056df39438",
       "review_state": {
         "human_reviewed": false,
@@ -20260,9 +20260,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "161",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:dfba3236a2a8fc0ee934cfe13a23ab43cfc9774af67dba454a6cd2735b5c1118",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-161"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-161"
       }
     },
     {
@@ -20376,7 +20376,7 @@
       ],
       "work_passage_id": "conf:162",
       "html_path": "works/conf/index.html#p-162",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-162",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-162",
       "alignment_revision": "sha256:c21a508392b29216a12029b29ba33e56ac497a4665609c38d6ead39e5a244678",
       "review_state": {
         "human_reviewed": false,
@@ -20412,9 +20412,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "162",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:20ae56cf08a53a68e754cb670a989a2525353aa526179045e75eafc9be3ba70c",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-162"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-162"
       }
     },
     {
@@ -20528,7 +20528,7 @@
       ],
       "work_passage_id": "conf:163",
       "html_path": "works/conf/index.html#p-163",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-163",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-163",
       "alignment_revision": "sha256:f767fdebcae25c5f157747fcdd4decec5713eebde74d29957f4fb1ae113cce0e",
       "review_state": {
         "human_reviewed": false,
@@ -20564,9 +20564,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "163",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:add800609c8600124f34f2bfb12f9f91b9bc5c3988ba7b621ab23affc0208a3e",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-163"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-163"
       }
     },
     {
@@ -20657,7 +20657,7 @@
       ],
       "work_passage_id": "conf:164",
       "html_path": "works/conf/index.html#p-164",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-164",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-164",
       "alignment_revision": "sha256:d3306fb6ad449b807dc0419bc59ecc2eb89f76fdd3a350ef3203f9fcca30f2c7",
       "review_state": {
         "human_reviewed": false,
@@ -20693,9 +20693,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "164",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:a07c08753b8f4d273950e2b5b92098809501976229879bcae4132dfa2a89d4f3",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-164"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-164"
       }
     },
     {
@@ -20783,7 +20783,7 @@
       ],
       "work_passage_id": "conf:165",
       "html_path": "works/conf/index.html#p-165",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-165",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-165",
       "alignment_revision": "sha256:fdf6b1fdd4751c7e5f7153580be2acd6c47f5241fed06a23d084277626340b01",
       "review_state": {
         "human_reviewed": false,
@@ -20819,9 +20819,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "165",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:1f9aa7b6641298d6117393eb17404a52e31a582699d1c7549a560430594b40ec",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-165"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-165"
       }
     },
     {
@@ -20922,7 +20922,7 @@
       ],
       "work_passage_id": "conf:166",
       "html_path": "works/conf/index.html#p-166",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-166",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-166",
       "alignment_revision": "sha256:8cc3540100077c002db577bc22e72bd6a747f884dfdae802cd2a9992c6c084b6",
       "review_state": {
         "human_reviewed": false,
@@ -20958,9 +20958,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "166",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:e3919efc2e059ac576bc52e04082618a64747002bb6fa54410957e0cb3fe737a",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-166"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-166"
       }
     },
     {
@@ -21059,7 +21059,7 @@
       "notes": [],
       "work_passage_id": "conf:167",
       "html_path": "works/conf/index.html#p-167",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-167",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-167",
       "alignment_revision": "sha256:f747dd79f5530037b3995a87547c01b97424de3848c67afc999ee956b6174076",
       "review_state": {
         "human_reviewed": false,
@@ -21095,9 +21095,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "167",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:7237b8ff9a13b8dc56f5d3d613c47895f25d3ffaab00562682b912063b620538",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-167"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-167"
       }
     },
     {
@@ -21196,7 +21196,7 @@
       "notes": [],
       "work_passage_id": "conf:168",
       "html_path": "works/conf/index.html#p-168",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-168",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-168",
       "alignment_revision": "sha256:3967c4e9f6bd4793c0e85ec91c92586355407641781495671e98568d5626889b",
       "review_state": {
         "human_reviewed": false,
@@ -21232,9 +21232,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "168",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:10cae0ffacfa813659911fad03d1048557b2bfa92455b73436e50ab44e9e0cb6",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-168"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-168"
       }
     },
     {
@@ -21320,7 +21320,7 @@
       "notes": [],
       "work_passage_id": "conf:169",
       "html_path": "works/conf/index.html#p-169",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-169",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-169",
       "alignment_revision": "sha256:8efeadc837cb4a8155ef3057e59e4312712761ea07729ef389a30b826f1f23c6",
       "review_state": {
         "human_reviewed": false,
@@ -21356,9 +21356,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "169",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:134bb89cd5a9b8bb4b0f077e445b7e0dc71d7b8d32682470e23184fbd361e131",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-169"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-169"
       }
     },
     {
@@ -21475,7 +21475,7 @@
       ],
       "work_passage_id": "conf:170",
       "html_path": "works/conf/index.html#p-170",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-170",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-170",
       "alignment_revision": "sha256:dd98c995ee5058f47f0cf3ed90a1c68b55c802471141e52e3976fed61abaf462",
       "review_state": {
         "human_reviewed": false,
@@ -21511,9 +21511,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "170",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:09d131817c88863ec5096600129ad0108e364504ac5f334e77c027f3602e267c",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-170"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-170"
       }
     },
     {
@@ -21625,7 +21625,7 @@
       "notes": [],
       "work_passage_id": "conf:171",
       "html_path": "works/conf/index.html#p-171",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-171",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-171",
       "alignment_revision": "sha256:9f13c5c8337a8082bc08614a29e0f4b10936ee2d41cc01912e3b1a534ab356b4",
       "review_state": {
         "human_reviewed": false,
@@ -21661,9 +21661,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "171",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:2ef8c6b8ad77119003ebb28b508800c33050427dad2f2880341ee6cdbb084fbc",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-171"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-171"
       }
     },
     {
@@ -21736,7 +21736,7 @@
       "notes": [],
       "work_passage_id": "conf:172",
       "html_path": "works/conf/index.html#p-172",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-172",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-172",
       "alignment_revision": "sha256:5192a0c3d8dbab7fc0160c884b3eb0de03f2492d921a0f5102da558717dea80f",
       "review_state": {
         "human_reviewed": false,
@@ -21772,9 +21772,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "172",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:399b57cd79271497045a12f495a7fcf356e033a13f92e5b022884491f37d1b48",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-172"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-172"
       }
     },
     {
@@ -21875,7 +21875,7 @@
       ],
       "work_passage_id": "conf:173",
       "html_path": "works/conf/index.html#p-173",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-173",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-173",
       "alignment_revision": "sha256:148d42fb4fa13bbdd2bb2c722005e246b223acd9cef58d2dc33d10d30bb053eb",
       "review_state": {
         "human_reviewed": false,
@@ -21911,9 +21911,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "173",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:10235b35106d6f2e936715c4ae7b17e35da4a2e80d35dccdff5b9060390babe0",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-173"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-173"
       }
     },
     {
@@ -22015,7 +22015,7 @@
       "notes": [],
       "work_passage_id": "conf:174",
       "html_path": "works/conf/index.html#p-174",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-174",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-174",
       "alignment_revision": "sha256:d04878646b2b41a0db57a9f9d646b5a0616ac5d2fe7fd7a26c8027dc2b409afe",
       "review_state": {
         "human_reviewed": false,
@@ -22051,9 +22051,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "174",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:432a65e7853ee6be937a21e88b1e96e7366850e4bac2fc2ca4fe3a580e040ba7",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-174"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-174"
       }
     },
     {
@@ -22180,7 +22180,7 @@
       ],
       "work_passage_id": "conf:175",
       "html_path": "works/conf/index.html#p-175",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-175",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-175",
       "alignment_revision": "sha256:4f74f40ecb36490e2bc1a00f58e84860a42b2472900b28b59962ff950647f4af",
       "review_state": {
         "human_reviewed": false,
@@ -22216,9 +22216,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "175",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:cbbec3d1b096bd5eeabc79e93e1a6f527d64e5c5586b62224e2c278a919cd61b",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-175"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-175"
       }
     },
     {
@@ -22304,7 +22304,7 @@
       "notes": [],
       "work_passage_id": "conf:176",
       "html_path": "works/conf/index.html#p-176",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-176",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-176",
       "alignment_revision": "sha256:8603936f474950c146a6920d8761dfdbcbcfece7f9ec72f8a1463f8746dfda28",
       "review_state": {
         "human_reviewed": false,
@@ -22340,9 +22340,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "176",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:fdf9f93d8a7988c71570ada74fd1d7e9d25466a099e8fa72ace132c83659e739",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-176"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-176"
       }
     },
     {
@@ -22430,7 +22430,7 @@
       ],
       "work_passage_id": "conf:177",
       "html_path": "works/conf/index.html#p-177",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-177",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-177",
       "alignment_revision": "sha256:29c89f8a716d5f81e7084c1b0f491d84e034b4ea612ae82db57f7adc6983a8e9",
       "review_state": {
         "human_reviewed": false,
@@ -22466,9 +22466,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "177",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:5beadb46ae87f757d4787cc8bfc1608aca19efcf3194915be4c954f86858143f",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-177"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-177"
       }
     },
     {
@@ -22541,7 +22541,7 @@
       "notes": [],
       "work_passage_id": "conf:178",
       "html_path": "works/conf/index.html#p-178",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-178",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-178",
       "alignment_revision": "sha256:5a7656fc769b3d5fd7d9306d043b24add31850b0f54570bf59e86c76952fe661",
       "review_state": {
         "human_reviewed": false,
@@ -22577,9 +22577,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "178",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:028e24aa3b1438c4d6edbbca0c6dcaf47f93eb048620d870497b2c5546332bab",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-178"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-178"
       }
     },
     {
@@ -22691,7 +22691,7 @@
       "notes": [],
       "work_passage_id": "conf:179",
       "html_path": "works/conf/index.html#p-179",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-179",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-179",
       "alignment_revision": "sha256:cc963aa25911e6df5c03c37d4323466cae6fd4f9a90ab2beb96d22aaebe59b1f",
       "review_state": {
         "human_reviewed": false,
@@ -22727,9 +22727,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "179",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:adaa8fd3edf786595fa53822b4f7937c491ba637b760b78c503e8b147d4d5362",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-179"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-179"
       }
     },
     {
@@ -22831,7 +22831,7 @@
       "notes": [],
       "work_passage_id": "conf:180",
       "html_path": "works/conf/index.html#p-180",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-180",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-180",
       "alignment_revision": "sha256:6eba09a13b9b6dc22c9f2e6b61c11fd591d0d8d93e77718e3d17fb5f1a3dc5b4",
       "review_state": {
         "human_reviewed": false,
@@ -22867,9 +22867,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "180",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:8f55a8e14668dc5bcd4802d75205c6ac055d963a45fbebba5b1b166639f27796",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-180"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-180"
       }
     },
     {
@@ -22983,7 +22983,7 @@
       ],
       "work_passage_id": "conf:181",
       "html_path": "works/conf/index.html#p-181",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-181",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-181",
       "alignment_revision": "sha256:1ad4df9593e6b7b10526d9cafa454fa74be6384cd7124d9f30f8b941a622c45a",
       "review_state": {
         "human_reviewed": false,
@@ -23019,9 +23019,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "181",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:e0b5d77634005dd94d1b0b33da8c88fe79d1617e266c30a61064bddbcc95aa0b",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-181"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-181"
       }
     },
     {
@@ -23122,7 +23122,7 @@
       ],
       "work_passage_id": "conf:182",
       "html_path": "works/conf/index.html#p-182",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-182",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-182",
       "alignment_revision": "sha256:558b02cccb60909c5a2ea82090bce7a255a23e537e3c523be77581e23f8615bf",
       "review_state": {
         "human_reviewed": false,
@@ -23158,9 +23158,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "182",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:a1ca3efad86dd8c0469a1bfbf8347c2122fbc65863d366b524b16ed3940e6234",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-182"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-182"
       }
     },
     {
@@ -23246,7 +23246,7 @@
       "notes": [],
       "work_passage_id": "conf:183",
       "html_path": "works/conf/index.html#p-183",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-183",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-183",
       "alignment_revision": "sha256:9f751ada3638c53d8802046d9afc7207933f590128b37ddaf30f3ec48ce48037",
       "review_state": {
         "human_reviewed": false,
@@ -23282,9 +23282,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "183",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:02dfbee9ef028bc8beab8f6ee46961113b939fa69b80926c835a05ada7c1793c",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-183"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-183"
       }
     },
     {
@@ -23359,7 +23359,7 @@
       ],
       "work_passage_id": "conf:184",
       "html_path": "works/conf/index.html#p-184",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-184",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-184",
       "alignment_revision": "sha256:2c05d84742bc3f134f9fc3be66aec456a2fef62aeaf5c5180564ef4d742e32d1",
       "review_state": {
         "human_reviewed": false,
@@ -23395,9 +23395,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "184",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:927cdc2a532d80fe26fa44107bdd1af3364458e9029984a29116b2fac02f20a1",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-184"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-184"
       }
     },
     {
@@ -23499,7 +23499,7 @@
       "notes": [],
       "work_passage_id": "conf:185",
       "html_path": "works/conf/index.html#p-185",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-185",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-185",
       "alignment_revision": "sha256:44ffd1f355e540a28fbdb200ce510124c2296df530676b23ed8188095026a9cd",
       "review_state": {
         "human_reviewed": false,
@@ -23535,9 +23535,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "185",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:4d45203b4203213902650180bb0a0da71048e4399a7f14b99e6748eee5bd0fa3",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-185"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-185"
       }
     },
     {
@@ -23649,7 +23649,7 @@
       "notes": [],
       "work_passage_id": "conf:186",
       "html_path": "works/conf/index.html#p-186",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-186",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-186",
       "alignment_revision": "sha256:bf3d81f28118510ed756fc9cb872bb63e5e8e66c766a14ec49947cef1c2a05b3",
       "review_state": {
         "human_reviewed": false,
@@ -23685,9 +23685,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "186",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:4a4d7331d033e92d3abc29403758537d6c9fdbf2695caeaa8b8558b041579fcf",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-186"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-186"
       }
     },
     {
@@ -23786,7 +23786,7 @@
       "notes": [],
       "work_passage_id": "conf:187",
       "html_path": "works/conf/index.html#p-187",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-187",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-187",
       "alignment_revision": "sha256:f28c92704ddc83fd88dcdfd952050d4bfc57d8d87515c8fe41a0b41e0d186975",
       "review_state": {
         "human_reviewed": false,
@@ -23822,9 +23822,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "187",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:7b46b91a2030dc09cd17a813e3dd2fd6fc74ab0eba18907350c75897af30a45f",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-187"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-187"
       }
     },
     {
@@ -23910,7 +23910,7 @@
       "notes": [],
       "work_passage_id": "conf:188",
       "html_path": "works/conf/index.html#p-188",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-188",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-188",
       "alignment_revision": "sha256:9bb56cf8ab142ec7532ef6a254f0e9d83cb10622cae9abc2e05e9e82243161b5",
       "review_state": {
         "human_reviewed": false,
@@ -23946,9 +23946,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "188",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:372a051639f5988847c178021bb7d0955733e3f6acafbb770d0c67885f1b621f",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-188"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-188"
       }
     },
     {
@@ -24036,7 +24036,7 @@
       ],
       "work_passage_id": "conf:189",
       "html_path": "works/conf/index.html#p-189",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-189",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-189",
       "alignment_revision": "sha256:6fdf5e750cc4fe9cefe86bbaf00e959179bbef9325c1258943e0ce8432632d46",
       "review_state": {
         "human_reviewed": false,
@@ -24072,9 +24072,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "189",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:da880f8a15455b933e599c1224f0ea5152dfc70e650945e412f7ea73984de2bf",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-189"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-189"
       }
     },
     {
@@ -24186,7 +24186,7 @@
       "notes": [],
       "work_passage_id": "conf:190",
       "html_path": "works/conf/index.html#p-190",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-190",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-190",
       "alignment_revision": "sha256:3337adbaf9685521f66cc93e88eca30839d5257c03b5492e220ebb50f1f16cf0",
       "review_state": {
         "human_reviewed": false,
@@ -24222,9 +24222,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "190",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:f69dc4f29c687a592da1ee8ea26c0f3db26508158e9765831aa1fbfbf01251d0",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-190"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-190"
       }
     },
     {
@@ -24352,7 +24352,7 @@
       "notes": [],
       "work_passage_id": "conf:191",
       "html_path": "works/conf/index.html#p-191",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-191",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-191",
       "alignment_revision": "sha256:fe713e0aa73a71721a0dbd9a33a7e665076aada6f92363fae264aadf3de43200",
       "review_state": {
         "human_reviewed": false,
@@ -24388,9 +24388,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "191",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:6a11583158020e5cef410f55eaaae47a39bd7a574e7c60e150837b750c5099f8",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-191"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-191"
       }
     },
     {
@@ -24515,7 +24515,7 @@
       "notes": [],
       "work_passage_id": "conf:192",
       "html_path": "works/conf/index.html#p-192",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-192",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-192",
       "alignment_revision": "sha256:5b492feee6ca43bbcbe0015cd18edfdd3842e9f2868d92ba92d04e62223b7ee1",
       "review_state": {
         "human_reviewed": false,
@@ -24551,9 +24551,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "192",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:b61720cdfef54d052ecbbaa9f784d9160b72a2e38fe16ceccf37ebe62727421b",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-192"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-192"
       }
     },
     {
@@ -24639,7 +24639,7 @@
       "notes": [],
       "work_passage_id": "conf:193",
       "html_path": "works/conf/index.html#p-193",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-193",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-193",
       "alignment_revision": "sha256:dc631afd654eb0cfcad0cce804752f3d612d9f39d264113c96f7e57cb36aaf0e",
       "review_state": {
         "human_reviewed": false,
@@ -24675,9 +24675,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "193",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:2735581926d7acdc52a43a6ea577e25473af37cc3fc2eea45b588dfdcdde1494",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-193"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-193"
       }
     },
     {
@@ -24778,7 +24778,7 @@
       ],
       "work_passage_id": "conf:194",
       "html_path": "works/conf/index.html#p-194",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-194",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-194",
       "alignment_revision": "sha256:eca807a39a5e98386e70f26b6fdc4e5b61033ffc3660be4eff92e83a76b5178b",
       "review_state": {
         "human_reviewed": false,
@@ -24814,9 +24814,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "194",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:754b65344837e4d2f45e91f88bc538bfc180a64e5363a6bad9f90a83b7e251f6",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-194"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-194"
       }
     },
     {
@@ -24917,7 +24917,7 @@
       ],
       "work_passage_id": "conf:195",
       "html_path": "works/conf/index.html#p-195",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-195",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-195",
       "alignment_revision": "sha256:ee90b38f1c87f3c8b31c2618023847516ff01abb910c34323197a76042ce98e5",
       "review_state": {
         "human_reviewed": false,
@@ -24953,9 +24953,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "195",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:c46bda8a1877d3d5a9488b9d86d123a3cb8ae3063a556d9e3cbc3450b815b84b",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-195"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-195"
       }
     },
     {
@@ -25098,7 +25098,7 @@
       ],
       "work_passage_id": "conf:196",
       "html_path": "works/conf/index.html#p-196",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-196",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-196",
       "alignment_revision": "sha256:07099ab25f6ac732c360bf6470d7405909a0aab2d0dd605b4c8ec16710ad9302",
       "review_state": {
         "human_reviewed": false,
@@ -25134,9 +25134,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "196",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:ea21b5f14f787386738c4da2df13a8deef8aa0851a3abf5ae5cf209e6f283ab6",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-196"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-196"
       }
     },
     {
@@ -25237,7 +25237,7 @@
       ],
       "work_passage_id": "conf:197",
       "html_path": "works/conf/index.html#p-197",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-197",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-197",
       "alignment_revision": "sha256:6aea4747ba3ef3810e52e5b1dd3b00ec37dbd7e90e1ed5c030fdbd2eb52003e7",
       "review_state": {
         "human_reviewed": false,
@@ -25273,9 +25273,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "197",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:8f9255e26f9c44027b13696e5119383d8fc1df0dabf705d744c2c80880f94dbf",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-197"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-197"
       }
     },
     {
@@ -25361,7 +25361,7 @@
       "notes": [],
       "work_passage_id": "conf:198",
       "html_path": "works/conf/index.html#p-198",
-      "fixed_html_path": "releases/public-0.36.6/works/conf/index.html#p-198",
+      "fixed_html_path": "releases/public-0.36.7/works/conf/index.html#p-198",
       "alignment_revision": "sha256:8780dd1cc828065c9b6f0d3ec75f6062ebe1e156404593c1d851f1399ad91309",
       "review_state": {
         "human_reviewed": false,
@@ -25397,9 +25397,9 @@
         "work": "언어의 혼란에 관하여",
         "reference": "198",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera Quae Supersunt, vol. 2, Reimer, 1897.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:d4aa528374c84d74d96f1833864fc2112381f0286bdc5c8a250ad6ea7a7cf611",
-        "fixed_path": "releases/public-0.36.6/works/conf/index.html#p-198"
+        "fixed_path": "releases/public-0.36.7/works/conf/index.html#p-198"
       }
     }
   ],
@@ -25422,14 +25422,14 @@
   "display_author": "필론",
   "scope": "언어의 혼란에 관하여 채택 본문 198대목 전체",
   "coverage": "complete",
-  "release_id": "public-0.36.6",
+  "release_id": "public-0.36.7",
   "source_language": "grc",
   "source_kind": "edited_ancient_original",
   "human_reviewed": false,
   "translation_method": "고정 원어 본문에서 직접 번역",
   "html_path": "works/conf/index.html",
   "json_path": "data/works/conf.json",
-  "fixed_html_path": "releases/public-0.36.6/works/conf/index.html",
+  "fixed_html_path": "releases/public-0.36.7/works/conf/index.html",
   "source_profile": "conf-complete-pinned-source-20261003",
   "source_decisions": [
     {

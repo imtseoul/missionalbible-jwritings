@@ -25,10 +25,19 @@ export function installPhraseHover(root) {
     if (event.pointerType === 'touch') return;
     select(unitAt(event.relatedTarget)?.dataset.align);
   });
+  // Touch: a tap selects a phrase; a finger that moves (scrolling) selects nothing.
+  let touch = null;
   root.addEventListener('pointerdown', event => {
     const unit = unitAt(event.target);
+    if (event.pointerType === 'touch') { touch = { x: event.clientX, y: event.clientY, t: event.timeStamp, unit }; return; }
     if (!unit) select(null);
-    else if (event.pointerType === 'touch') select(unit.dataset.align);
+  });
+  root.addEventListener('pointercancel', () => { touch = null; });
+  root.addEventListener('pointerup', event => {
+    if (event.pointerType !== 'touch' || !touch) return;
+    const moved = Math.hypot(event.clientX - touch.x, event.clientY - touch.y), tap = moved < 10 && event.timeStamp - touch.t < 600;
+    if (tap) select(touch.unit ? touch.unit.dataset.align : null);
+    touch = null;
   });
   root.addEventListener('focusin', event => {
     const unit = unitAt(event.target);

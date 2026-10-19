@@ -81,7 +81,7 @@
       ],
       "work_passage_id": "epjer:1.1",
       "html_path": "works/epjer/index.html#p-1-1",
-      "fixed_html_path": "releases/public-0.36.6/works/epjer/index.html#p-1-1",
+      "fixed_html_path": "releases/public-0.36.7/works/epjer/index.html#p-1-1",
       "alignment_revision": "sha256:56ce62c211e3d16f793c5856787a7320ce6a1870cfbf56aae4441b1f392beac9",
       "review_state": {
         "human_reviewed": false,
@@ -117,9 +117,9 @@
         "work": "예레미야의 편지",
         "reference": "1.1",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:b850200306e2ebd5291ef5ff4854477d84723e042e0c0b92f962212855e717af",
-        "fixed_path": "releases/public-0.36.6/works/epjer/index.html#p-1-1"
+        "fixed_path": "releases/public-0.36.7/works/epjer/index.html#p-1-1"
       }
     },
     {
@@ -173,7 +173,7 @@
       ],
       "work_passage_id": "epjer:1.2",
       "html_path": "works/epjer/index.html#p-1-2",
-      "fixed_html_path": "releases/public-0.36.6/works/epjer/index.html#p-1-2",
+      "fixed_html_path": "releases/public-0.36.7/works/epjer/index.html#p-1-2",
       "alignment_revision": "sha256:604e22cc949670763a0576c0c4f630de046377cafe0ffc8c2dee796df15a6d2c",
       "review_state": {
         "human_reviewed": false,
@@ -209,9 +209,9 @@
         "work": "예레미야의 편지",
         "reference": "1.2",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:552c763b2a2fffc50185886548563dc2eb78fd1931497c61992bc756eb3b6a99",
-        "fixed_path": "releases/public-0.36.6/works/epjer/index.html#p-1-2"
+        "fixed_path": "releases/public-0.36.7/works/epjer/index.html#p-1-2"
       }
     },
     {
@@ -263,7 +263,7 @@
       "notes": [],
       "work_passage_id": "epjer:1.3",
       "html_path": "works/epjer/index.html#p-1-3",
-      "fixed_html_path": "releases/public-0.36.6/works/epjer/index.html#p-1-3",
+      "fixed_html_path": "releases/public-0.36.7/works/epjer/index.html#p-1-3",
       "alignment_revision": "sha256:dd4f12c2f7f90193612a958ced4a2f831b595623f3f5a4d271418aa33e3687e1",
       "review_state": {
         "human_reviewed": false,
@@ -299,9 +299,9 @@
         "work": "예레미야의 편지",
         "reference": "1.3",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:4d79f676c05d656d167c071a5b57e29d8c2206a6e2df9e59ee930bcc76ecc074",
-        "fixed_path": "releases/public-0.36.6/works/epjer/index.html#p-1-3"
+        "fixed_path": "releases/public-0.36.7/works/epjer/index.html#p-1-3"
       }
     },
     {
@@ -353,7 +353,7 @@
       "notes": [],
       "work_passage_id": "epjer:1.4",
       "html_path": "works/epjer/index.html#p-1-4",
-      "fixed_html_path": "releases/public-0.36.6/works/epjer/index.html#p-1-4",
+      "fixed_html_path": "releases/public-0.36.7/works/epjer/index.html#p-1-4",
       "alignment_revision": "sha256:03f076296f9c2850730b411ae04bf6d9827eebe90363fa76408a7d16226af061",
       "review_state": {
         "human_reviewed": false,
@@ -389,9 +389,9 @@
         "work": "예레미야의 편지",
         "reference": "1.4",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:575fa5d19160af4b369345dd250d3ffec36b191a99480bb65f8eb8592bae9ddb",
-        "fixed_path": "releases/public-0.36.6/works/epjer/index.html#p-1-4"
+        "fixed_path": "releases/public-0.36.7/works/epjer/index.html#p-1-4"
       }
     },
     {
@@ -443,7 +443,7 @@
       "notes": [],
       "work_passage_id": "epjer:1.5",
       "html_path": "works/epjer/index.html#p-1-5",
-      "fixed_html_path": "releases/public-0.36.6/works/epjer/index.html#p-1-5",
+      "fixed_html_path": "releases/public-0.36.7/works/epjer/index.html#p-1-5",
       "alignment_revision": "sha256:01562007ce1b98bc3bad168cdb16384959a8e5f0c7860ddcaa66229844e7898e",
       "review_state": {
         "human_reviewed": false,
@@ -479,9 +479,9 @@
         "work": "예레미야의 편지",
         "reference": "1.5",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:68fc3cc13f4cda3a29bd0d25adf78e06eb11001f0dd56847c6635f22ba55cd15",
-        "fixed_path": "releases/public-0.36.6/works/epjer/index.html#p-1-5"
+        "fixed_path": "releases/public-0.36.7/works/epjer/index.html#p-1-5"
       }
     },
     {
@@ -520,7 +520,7 @@
       "notes": [],
       "work_passage_id": "epjer:1.6",
       "html_path": "works/epjer/index.html#p-1-6",
-      "fixed_html_path": "releases/public-0.36.6/works/epjer/index.html#p-1-6",
+      "fixed_html_path": "releases/public-0.36.7/works/epjer/index.html#p-1-6",
       "alignment_revision": "sha256:e4ce067338c9b38d350125fe4a06896e72cb6006d4d6c796eabfc91628977dea",
       "review_state": {
         "human_reviewed": false,
@@ -556,9 +556,9 @@
         "work": "예레미야의 편지",
         "reference": "1.6",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:6457571009022d3f1f36badef94b72ffae2ca06d7405379b9991e0427c7c16cb",
-        "fixed_path": "releases/public-0.36.6/works/epjer/index.html#p-1-6"
+        "fixed_path": "releases/public-0.36.7/works/epjer/index.html#p-1-6"
       }
     },
     {
@@ -624,7 +624,7 @@
       "notes": [],
       "work_passage_id": "epjer:1.7",
       "html_path": "works/epjer/index.html#p-1-7",
-      "fixed_html_path": "releases/public-0.36.6/works/epjer/index.html#p-1-7",
+      "fixed_html_path": "releases/public-0.36.7/works/epjer/index.html#p-1-7",
       "alignment_revision": "sha256:cc23d767e5911940ee8fff3712d4c50f1024b7bfbf27790c9629e796218bf855",
       "review_state": {
         "human_reviewed": false,
@@ -660,9 +660,9 @@
         "work": "예레미야의 편지",
         "reference": "1.7",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:aa8a6e03ce8896391acd429bf5a7e04b5924fa431e93048ea51b7e4c99180977",
-        "fixed_path": "releases/public-0.36.6/works/epjer/index.html#p-1-7",
+        "fixed_path": "releases/public-0.36.7/works/epjer/index.html#p-1-7",
         "collation_edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소."
       }
     },
@@ -702,7 +702,7 @@
       "notes": [],
       "work_passage_id": "epjer:1.8",
       "html_path": "works/epjer/index.html#p-1-8",
-      "fixed_html_path": "releases/public-0.36.6/works/epjer/index.html#p-1-8",
+      "fixed_html_path": "releases/public-0.36.7/works/epjer/index.html#p-1-8",
       "alignment_revision": "sha256:36599ef64a87e538e2b5548223d16a69bfa15726a9e8211dc5f7c3fe2092267c",
       "review_state": {
         "human_reviewed": false,
@@ -738,9 +738,9 @@
         "work": "예레미야의 편지",
         "reference": "1.8",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:338edb65cf5806a80ba0a39ce83c00726bff768c7ad132e448d9cf3b07524fae",
-        "fixed_path": "releases/public-0.36.6/works/epjer/index.html#p-1-8"
+        "fixed_path": "releases/public-0.36.7/works/epjer/index.html#p-1-8"
       }
     },
     {
@@ -792,7 +792,7 @@
       "notes": [],
       "work_passage_id": "epjer:1.9",
       "html_path": "works/epjer/index.html#p-1-9",
-      "fixed_html_path": "releases/public-0.36.6/works/epjer/index.html#p-1-9",
+      "fixed_html_path": "releases/public-0.36.7/works/epjer/index.html#p-1-9",
       "alignment_revision": "sha256:6756035b1e8af400053126258e2d2770194fca32390e5979194229888e25f546",
       "review_state": {
         "human_reviewed": false,
@@ -828,9 +828,9 @@
         "work": "예레미야의 편지",
         "reference": "1.9",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:2129cd1d42e3580c75a5e10d9fe437fe7c917cbfa8b8caebf603e5200d9f151d",
-        "fixed_path": "releases/public-0.36.6/works/epjer/index.html#p-1-9"
+        "fixed_path": "releases/public-0.36.7/works/epjer/index.html#p-1-9"
       }
     },
     {
@@ -882,7 +882,7 @@
       "notes": [],
       "work_passage_id": "epjer:1.10",
       "html_path": "works/epjer/index.html#p-1-10",
-      "fixed_html_path": "releases/public-0.36.6/works/epjer/index.html#p-1-10",
+      "fixed_html_path": "releases/public-0.36.7/works/epjer/index.html#p-1-10",
       "alignment_revision": "sha256:8016d6cb80e7bbde52271f0f7957ba20dded98daabe4e98b4273c03af51f24e7",
       "review_state": {
         "human_reviewed": false,
@@ -918,9 +918,9 @@
         "work": "예레미야의 편지",
         "reference": "1.10",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:33f917bcf727ba270ce387db868c8de330423ca141748db3206c598bc0713f2b",
-        "fixed_path": "releases/public-0.36.6/works/epjer/index.html#p-1-10"
+        "fixed_path": "releases/public-0.36.7/works/epjer/index.html#p-1-10"
       }
     },
     {
@@ -961,7 +961,7 @@
       ],
       "work_passage_id": "epjer:1.11",
       "html_path": "works/epjer/index.html#p-1-11",
-      "fixed_html_path": "releases/public-0.36.6/works/epjer/index.html#p-1-11",
+      "fixed_html_path": "releases/public-0.36.7/works/epjer/index.html#p-1-11",
       "alignment_revision": "sha256:1e7dc63c4bdf4aa14f8f9d1893f1141550ec657d511ff0fc117a995a6af9e05d",
       "review_state": {
         "human_reviewed": false,
@@ -997,9 +997,9 @@
         "work": "예레미야의 편지",
         "reference": "1.11",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:37b4cbc3da91ed80bda93e26f5774942eff4781241e152d8516d615371078085",
-        "fixed_path": "releases/public-0.36.6/works/epjer/index.html#p-1-11"
+        "fixed_path": "releases/public-0.36.7/works/epjer/index.html#p-1-11"
       }
     },
     {
@@ -1038,7 +1038,7 @@
       "notes": [],
       "work_passage_id": "epjer:1.12",
       "html_path": "works/epjer/index.html#p-1-12",
-      "fixed_html_path": "releases/public-0.36.6/works/epjer/index.html#p-1-12",
+      "fixed_html_path": "releases/public-0.36.7/works/epjer/index.html#p-1-12",
       "alignment_revision": "sha256:f3d756a6bbe0e2f8b4b9efcd74414472d6dd0b7b138c5d92dfce595e7c3cbd00",
       "review_state": {
         "human_reviewed": false,
@@ -1074,9 +1074,9 @@
         "work": "예레미야의 편지",
         "reference": "1.12",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:36a62c92dbfdc819044cc873924c3595845aae072a865cb2225160e1708076d2",
-        "fixed_path": "releases/public-0.36.6/works/epjer/index.html#p-1-12"
+        "fixed_path": "releases/public-0.36.7/works/epjer/index.html#p-1-12"
       }
     },
     {
@@ -1115,7 +1115,7 @@
       "notes": [],
       "work_passage_id": "epjer:1.13",
       "html_path": "works/epjer/index.html#p-1-13",
-      "fixed_html_path": "releases/public-0.36.6/works/epjer/index.html#p-1-13",
+      "fixed_html_path": "releases/public-0.36.7/works/epjer/index.html#p-1-13",
       "alignment_revision": "sha256:6a99c8d26986727bf690b925f85447d7c860c56bd058980cab03f00b769b632b",
       "review_state": {
         "human_reviewed": false,
@@ -1151,9 +1151,9 @@
         "work": "예레미야의 편지",
         "reference": "1.13",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:ea717401fd49a0915ba9bcdc74a5a6c0767af124ff8f9df53f5b0364b7ec54ad",
-        "fixed_path": "releases/public-0.36.6/works/epjer/index.html#p-1-13"
+        "fixed_path": "releases/public-0.36.7/works/epjer/index.html#p-1-13"
       }
     },
     {
@@ -1218,7 +1218,7 @@
       "notes": [],
       "work_passage_id": "epjer:1.14",
       "html_path": "works/epjer/index.html#p-1-14",
-      "fixed_html_path": "releases/public-0.36.6/works/epjer/index.html#p-1-14",
+      "fixed_html_path": "releases/public-0.36.7/works/epjer/index.html#p-1-14",
       "alignment_revision": "sha256:6940c9f44b0473f524930cfa2e46605df7abf58dec70eac2d60d50de323e267f",
       "review_state": {
         "human_reviewed": false,
@@ -1254,9 +1254,9 @@
         "work": "예레미야의 편지",
         "reference": "1.14",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:7dc6e8132a07b80fa974225ecbdd8ed597582234f31c12a35fa06c7425720e95",
-        "fixed_path": "releases/public-0.36.6/works/epjer/index.html#p-1-14"
+        "fixed_path": "releases/public-0.36.7/works/epjer/index.html#p-1-14"
       }
     },
     {
@@ -1295,7 +1295,7 @@
       "notes": [],
       "work_passage_id": "epjer:1.15",
       "html_path": "works/epjer/index.html#p-1-15",
-      "fixed_html_path": "releases/public-0.36.6/works/epjer/index.html#p-1-15",
+      "fixed_html_path": "releases/public-0.36.7/works/epjer/index.html#p-1-15",
       "alignment_revision": "sha256:5ff7c6ea82ab5f0172cbb54cddcc5cad3cf61a72554c503b37e6bec4eddc7c57",
       "review_state": {
         "human_reviewed": false,
@@ -1331,9 +1331,9 @@
         "work": "예레미야의 편지",
         "reference": "1.15",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:7c0471e26099a1862a8ea2f54dd79bace5dd3e2c411f1a32ef93bfb99ce4da9c",
-        "fixed_path": "releases/public-0.36.6/works/epjer/index.html#p-1-15"
+        "fixed_path": "releases/public-0.36.7/works/epjer/index.html#p-1-15"
       }
     },
     {
@@ -1385,7 +1385,7 @@
       "notes": [],
       "work_passage_id": "epjer:1.16",
       "html_path": "works/epjer/index.html#p-1-16",
-      "fixed_html_path": "releases/public-0.36.6/works/epjer/index.html#p-1-16",
+      "fixed_html_path": "releases/public-0.36.7/works/epjer/index.html#p-1-16",
       "alignment_revision": "sha256:3c85126ca2c344d02385d76e66e3dff183f78c58becaa294b7baf922bf4b66a0",
       "review_state": {
         "human_reviewed": false,
@@ -1421,9 +1421,9 @@
         "work": "예레미야의 편지",
         "reference": "1.16",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:df0ddb1d970976d3e8e9cb8a6bbbec5f8cf106ece54ee9baee47fcf711e450b5",
-        "fixed_path": "releases/public-0.36.6/works/epjer/index.html#p-1-16"
+        "fixed_path": "releases/public-0.36.7/works/epjer/index.html#p-1-16"
       }
     },
     {
@@ -1488,7 +1488,7 @@
       "notes": [],
       "work_passage_id": "epjer:1.17",
       "html_path": "works/epjer/index.html#p-1-17",
-      "fixed_html_path": "releases/public-0.36.6/works/epjer/index.html#p-1-17",
+      "fixed_html_path": "releases/public-0.36.7/works/epjer/index.html#p-1-17",
       "alignment_revision": "sha256:776ece670bdfac2ec86ee5b90096ce4b9cfc4246401d1952c9aabf690f1513ff",
       "review_state": {
         "human_reviewed": false,
@@ -1524,9 +1524,9 @@
         "work": "예레미야의 편지",
         "reference": "1.17",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:b16dabe740188457bbfad9d146a5ee62c4241ab56aaa3744f96a47f1f4987b48",
-        "fixed_path": "releases/public-0.36.6/works/epjer/index.html#p-1-17"
+        "fixed_path": "releases/public-0.36.7/works/epjer/index.html#p-1-17"
       }
     },
     {
@@ -1565,7 +1565,7 @@
       "notes": [],
       "work_passage_id": "epjer:1.18",
       "html_path": "works/epjer/index.html#p-1-18",
-      "fixed_html_path": "releases/public-0.36.6/works/epjer/index.html#p-1-18",
+      "fixed_html_path": "releases/public-0.36.7/works/epjer/index.html#p-1-18",
       "alignment_revision": "sha256:f16e38f74f078aed69a64e95c7351c1a3c5e4946e604af46d3a839a4bc08e864",
       "review_state": {
         "human_reviewed": false,
@@ -1601,9 +1601,9 @@
         "work": "예레미야의 편지",
         "reference": "1.18",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:f0c60558eced6d341e12bb5038128a331ed3f1a47c789421c838e9388206293a",
-        "fixed_path": "releases/public-0.36.6/works/epjer/index.html#p-1-18"
+        "fixed_path": "releases/public-0.36.7/works/epjer/index.html#p-1-18"
       }
     },
     {
@@ -1655,7 +1655,7 @@
       "notes": [],
       "work_passage_id": "epjer:1.19",
       "html_path": "works/epjer/index.html#p-1-19",
-      "fixed_html_path": "releases/public-0.36.6/works/epjer/index.html#p-1-19",
+      "fixed_html_path": "releases/public-0.36.7/works/epjer/index.html#p-1-19",
       "alignment_revision": "sha256:d321e5776023f47984ceef7c74bcd0ea2d815ed53f377f06480a6c82a1d9327e",
       "review_state": {
         "human_reviewed": false,
@@ -1691,9 +1691,9 @@
         "work": "예레미야의 편지",
         "reference": "1.19",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:d805ac34cb3e3cf30785828b8da9582247c19f9e0014f046f99249f3301841bb",
-        "fixed_path": "releases/public-0.36.6/works/epjer/index.html#p-1-19"
+        "fixed_path": "releases/public-0.36.7/works/epjer/index.html#p-1-19"
       }
     },
     {
@@ -1732,7 +1732,7 @@
       "notes": [],
       "work_passage_id": "epjer:1.20",
       "html_path": "works/epjer/index.html#p-1-20",
-      "fixed_html_path": "releases/public-0.36.6/works/epjer/index.html#p-1-20",
+      "fixed_html_path": "releases/public-0.36.7/works/epjer/index.html#p-1-20",
       "alignment_revision": "sha256:c2474eff09b0ce58a4daed3fa33297fb2a2de765058ce857c661908bfa84feb7",
       "review_state": {
         "human_reviewed": false,
@@ -1768,9 +1768,9 @@
         "work": "예레미야의 편지",
         "reference": "1.20",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:16a17542b663f1ea6a46c9352621fc6661fb03a0dc378e07d24ab18ad4039a81",
-        "fixed_path": "releases/public-0.36.6/works/epjer/index.html#p-1-20"
+        "fixed_path": "releases/public-0.36.7/works/epjer/index.html#p-1-20"
       }
     },
     {
@@ -1822,7 +1822,7 @@
       "notes": [],
       "work_passage_id": "epjer:1.21",
       "html_path": "works/epjer/index.html#p-1-21",
-      "fixed_html_path": "releases/public-0.36.6/works/epjer/index.html#p-1-21",
+      "fixed_html_path": "releases/public-0.36.7/works/epjer/index.html#p-1-21",
       "alignment_revision": "sha256:ff9849643696898fdb04dbe3ef16d42367db7ae5b26a4e4f2c6fc9eb26f4691e",
       "review_state": {
         "human_reviewed": false,
@@ -1858,9 +1858,9 @@
         "work": "예레미야의 편지",
         "reference": "1.21",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:e8cd5a798142d35b75abaaa1f0227003344a34e022da5e3da5119e55d1762764",
-        "fixed_path": "releases/public-0.36.6/works/epjer/index.html#p-1-21"
+        "fixed_path": "releases/public-0.36.7/works/epjer/index.html#p-1-21"
       }
     },
     {
@@ -1912,7 +1912,7 @@
       "notes": [],
       "work_passage_id": "epjer:1.22",
       "html_path": "works/epjer/index.html#p-1-22",
-      "fixed_html_path": "releases/public-0.36.6/works/epjer/index.html#p-1-22",
+      "fixed_html_path": "releases/public-0.36.7/works/epjer/index.html#p-1-22",
       "alignment_revision": "sha256:d86c0deb45091217955ab3e582d5edd3b9e1f97bf344cf5b4210739eef14af15",
       "review_state": {
         "human_reviewed": false,
@@ -1948,9 +1948,9 @@
         "work": "예레미야의 편지",
         "reference": "1.22",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:7bce836bd3c7bc712b40b17e4ee61bd7484bddea505a22533a501644c4f66c36",
-        "fixed_path": "releases/public-0.36.6/works/epjer/index.html#p-1-22"
+        "fixed_path": "releases/public-0.36.7/works/epjer/index.html#p-1-22"
       }
     },
     {
@@ -2002,7 +2002,7 @@
       "notes": [],
       "work_passage_id": "epjer:1.23",
       "html_path": "works/epjer/index.html#p-1-23",
-      "fixed_html_path": "releases/public-0.36.6/works/epjer/index.html#p-1-23",
+      "fixed_html_path": "releases/public-0.36.7/works/epjer/index.html#p-1-23",
       "alignment_revision": "sha256:3410e9eeabee718b7c18479888d05db1329fa6ec331261eb37d5e6510e52dfbc",
       "review_state": {
         "human_reviewed": false,
@@ -2038,9 +2038,9 @@
         "work": "예레미야의 편지",
         "reference": "1.23",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:edea8acd0509b8e140a42a718a78eb53555cd706a7a5c11aa9f536ebdbca7cf9",
-        "fixed_path": "releases/public-0.36.6/works/epjer/index.html#p-1-23"
+        "fixed_path": "releases/public-0.36.7/works/epjer/index.html#p-1-23"
       }
     },
     {
@@ -2093,7 +2093,7 @@
       "notes": [],
       "work_passage_id": "epjer:1.24",
       "html_path": "works/epjer/index.html#p-1-24",
-      "fixed_html_path": "releases/public-0.36.6/works/epjer/index.html#p-1-24",
+      "fixed_html_path": "releases/public-0.36.7/works/epjer/index.html#p-1-24",
       "alignment_revision": "sha256:361980c2b97da46d78c10f6af85aed955346dab90263fc8556c347a880197725",
       "review_state": {
         "human_reviewed": false,
@@ -2129,9 +2129,9 @@
         "work": "예레미야의 편지",
         "reference": "1.24",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:573edb4b0042046c104c3a43917a0d6fc37031a79f7a8a76280d5c1f70a9a727",
-        "fixed_path": "releases/public-0.36.6/works/epjer/index.html#p-1-24",
+        "fixed_path": "releases/public-0.36.7/works/epjer/index.html#p-1-24",
         "collation_edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소."
       }
     },
@@ -2184,7 +2184,7 @@
       "notes": [],
       "work_passage_id": "epjer:1.25",
       "html_path": "works/epjer/index.html#p-1-25",
-      "fixed_html_path": "releases/public-0.36.6/works/epjer/index.html#p-1-25",
+      "fixed_html_path": "releases/public-0.36.7/works/epjer/index.html#p-1-25",
       "alignment_revision": "sha256:b691f052cdb84872aac1e8b43019df5c88e557c4a06495ac9874b5797bd2c199",
       "review_state": {
         "human_reviewed": false,
@@ -2220,9 +2220,9 @@
         "work": "예레미야의 편지",
         "reference": "1.25",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:b6f5bfbb683597ead20674a65e57635bd483b3baf64158db7d6d6e14e1ca653e",
-        "fixed_path": "releases/public-0.36.6/works/epjer/index.html#p-1-25"
+        "fixed_path": "releases/public-0.36.7/works/epjer/index.html#p-1-25"
       }
     },
     {
@@ -2302,7 +2302,7 @@
       ],
       "work_passage_id": "epjer:1.26",
       "html_path": "works/epjer/index.html#p-1-26",
-      "fixed_html_path": "releases/public-0.36.6/works/epjer/index.html#p-1-26",
+      "fixed_html_path": "releases/public-0.36.7/works/epjer/index.html#p-1-26",
       "alignment_revision": "sha256:d853edf09e3956be9311f2472fc3530ba4fd05291234e014b65acfa031dbe201",
       "review_state": {
         "human_reviewed": false,
@@ -2338,9 +2338,9 @@
         "work": "예레미야의 편지",
         "reference": "1.26",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:1f045c740113858136c62810ddc57a670007702f614acf86e6f8b36d33579c16",
-        "fixed_path": "releases/public-0.36.6/works/epjer/index.html#p-1-26"
+        "fixed_path": "releases/public-0.36.7/works/epjer/index.html#p-1-26"
       }
     },
     {
@@ -2392,7 +2392,7 @@
       "notes": [],
       "work_passage_id": "epjer:1.27",
       "html_path": "works/epjer/index.html#p-1-27",
-      "fixed_html_path": "releases/public-0.36.6/works/epjer/index.html#p-1-27",
+      "fixed_html_path": "releases/public-0.36.7/works/epjer/index.html#p-1-27",
       "alignment_revision": "sha256:347a1052c05190fda47adfe30f0740d619cf44469bbf14315b3fb4ff73f04e98",
       "review_state": {
         "human_reviewed": false,
@@ -2428,9 +2428,9 @@
         "work": "예레미야의 편지",
         "reference": "1.27",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:458a5de36fad574f3e95d2e7f35c4caea278ae4310343d83ef8b9d107c475efa",
-        "fixed_path": "releases/public-0.36.6/works/epjer/index.html#p-1-27"
+        "fixed_path": "releases/public-0.36.7/works/epjer/index.html#p-1-27"
       }
     },
     {
@@ -2484,7 +2484,7 @@
       ],
       "work_passage_id": "epjer:1.28",
       "html_path": "works/epjer/index.html#p-1-28",
-      "fixed_html_path": "releases/public-0.36.6/works/epjer/index.html#p-1-28",
+      "fixed_html_path": "releases/public-0.36.7/works/epjer/index.html#p-1-28",
       "alignment_revision": "sha256:248b07fa2165610bd124dfa05d15d5cab4de1d266642a61975f815f18c12bc9a",
       "review_state": {
         "human_reviewed": false,
@@ -2520,9 +2520,9 @@
         "work": "예레미야의 편지",
         "reference": "1.28",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:6a4672682a762edaae00e0d8bb9c62561c8239d86eba23fb0d551b9b94052607",
-        "fixed_path": "releases/public-0.36.6/works/epjer/index.html#p-1-28"
+        "fixed_path": "releases/public-0.36.7/works/epjer/index.html#p-1-28"
       }
     },
     {
@@ -2574,7 +2574,7 @@
       "notes": [],
       "work_passage_id": "epjer:1.29",
       "html_path": "works/epjer/index.html#p-1-29",
-      "fixed_html_path": "releases/public-0.36.6/works/epjer/index.html#p-1-29",
+      "fixed_html_path": "releases/public-0.36.7/works/epjer/index.html#p-1-29",
       "alignment_revision": "sha256:e7e09bad218ab51c2c34841b9e758167976d65071caf4be251674856fcd6a8be",
       "review_state": {
         "human_reviewed": false,
@@ -2610,9 +2610,9 @@
         "work": "예레미야의 편지",
         "reference": "1.29",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:f8db9a4e3a3bc08c4228fe6dbbb1f395e163e0e6dfd3e3352bfefe9339d816e8",
-        "fixed_path": "releases/public-0.36.6/works/epjer/index.html#p-1-29"
+        "fixed_path": "releases/public-0.36.7/works/epjer/index.html#p-1-29"
       }
     },
     {
@@ -2664,7 +2664,7 @@
       "notes": [],
       "work_passage_id": "epjer:1.30",
       "html_path": "works/epjer/index.html#p-1-30",
-      "fixed_html_path": "releases/public-0.36.6/works/epjer/index.html#p-1-30",
+      "fixed_html_path": "releases/public-0.36.7/works/epjer/index.html#p-1-30",
       "alignment_revision": "sha256:f05b7b24fdb38d52e535fc506e2c24c2acc6ca9b9a4227175e5e981944f76453",
       "review_state": {
         "human_reviewed": false,
@@ -2700,9 +2700,9 @@
         "work": "예레미야의 편지",
         "reference": "1.30",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:92be2eb8b057c4d48561bf9e028b59e9e71137cfbcaadc41aa191ea78fb17657",
-        "fixed_path": "releases/public-0.36.6/works/epjer/index.html#p-1-30"
+        "fixed_path": "releases/public-0.36.7/works/epjer/index.html#p-1-30"
       }
     },
     {
@@ -2741,7 +2741,7 @@
       "notes": [],
       "work_passage_id": "epjer:1.31",
       "html_path": "works/epjer/index.html#p-1-31",
-      "fixed_html_path": "releases/public-0.36.6/works/epjer/index.html#p-1-31",
+      "fixed_html_path": "releases/public-0.36.7/works/epjer/index.html#p-1-31",
       "alignment_revision": "sha256:17358bc9f361c8179b5a8d4ab16e91f8a7a260da69c9e5f20de6611e3d3cabc1",
       "review_state": {
         "human_reviewed": false,
@@ -2777,9 +2777,9 @@
         "work": "예레미야의 편지",
         "reference": "1.31",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:f35036349dd2a1b9fa776bd6125cb369ba7551aa0daa6ddc1f57b5e9dd71e386",
-        "fixed_path": "releases/public-0.36.6/works/epjer/index.html#p-1-31"
+        "fixed_path": "releases/public-0.36.7/works/epjer/index.html#p-1-31"
       }
     },
     {
@@ -2818,7 +2818,7 @@
       "notes": [],
       "work_passage_id": "epjer:1.32",
       "html_path": "works/epjer/index.html#p-1-32",
-      "fixed_html_path": "releases/public-0.36.6/works/epjer/index.html#p-1-32",
+      "fixed_html_path": "releases/public-0.36.7/works/epjer/index.html#p-1-32",
       "alignment_revision": "sha256:71c0330377c0c41af04df9511caae1f348ff0912351c7eaf9abb600a26a9050c",
       "review_state": {
         "human_reviewed": false,
@@ -2854,9 +2854,9 @@
         "work": "예레미야의 편지",
         "reference": "1.32",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:8f6bca0c3e209f03df13001fa9782282f1640d88e33d8be410e152ea08a473c7",
-        "fixed_path": "releases/public-0.36.6/works/epjer/index.html#p-1-32"
+        "fixed_path": "releases/public-0.36.7/works/epjer/index.html#p-1-32"
       }
     },
     {
@@ -2908,7 +2908,7 @@
       "notes": [],
       "work_passage_id": "epjer:1.33",
       "html_path": "works/epjer/index.html#p-1-33",
-      "fixed_html_path": "releases/public-0.36.6/works/epjer/index.html#p-1-33",
+      "fixed_html_path": "releases/public-0.36.7/works/epjer/index.html#p-1-33",
       "alignment_revision": "sha256:60974c704fc405c8040f5c629366a583bd0d8259f73a31b2c05497c7f764dc51",
       "review_state": {
         "human_reviewed": false,
@@ -2944,9 +2944,9 @@
         "work": "예레미야의 편지",
         "reference": "1.33",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:1bfcd235084fab2af59170ed867a94522ce318a927f34d2ef516c9c0b5b91d1e",
-        "fixed_path": "releases/public-0.36.6/works/epjer/index.html#p-1-33"
+        "fixed_path": "releases/public-0.36.7/works/epjer/index.html#p-1-33"
       }
     },
     {
@@ -2998,7 +2998,7 @@
       "notes": [],
       "work_passage_id": "epjer:1.34",
       "html_path": "works/epjer/index.html#p-1-34",
-      "fixed_html_path": "releases/public-0.36.6/works/epjer/index.html#p-1-34",
+      "fixed_html_path": "releases/public-0.36.7/works/epjer/index.html#p-1-34",
       "alignment_revision": "sha256:5ae3b83fe3a39af6ab38cafe492cb7b6220f46092580d8e194cc4027884ddceb",
       "review_state": {
         "human_reviewed": false,
@@ -3034,9 +3034,9 @@
         "work": "예레미야의 편지",
         "reference": "1.34",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:4728d52890f706c4969eafca7fd5c9ade33839e23b00db2775a8b0cad5a23b64",
-        "fixed_path": "releases/public-0.36.6/works/epjer/index.html#p-1-34"
+        "fixed_path": "releases/public-0.36.7/works/epjer/index.html#p-1-34"
       }
     },
     {
@@ -3075,7 +3075,7 @@
       "notes": [],
       "work_passage_id": "epjer:1.35",
       "html_path": "works/epjer/index.html#p-1-35",
-      "fixed_html_path": "releases/public-0.36.6/works/epjer/index.html#p-1-35",
+      "fixed_html_path": "releases/public-0.36.7/works/epjer/index.html#p-1-35",
       "alignment_revision": "sha256:533283fab83c43d3421121f68efc2d694c7697343a1fd9eee53c943d292a1d0f",
       "review_state": {
         "human_reviewed": false,
@@ -3111,9 +3111,9 @@
         "work": "예레미야의 편지",
         "reference": "1.35",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:9875bf06497dab082d3648aca9d8eed447f7a31f596432f5c73e6c2f10939802",
-        "fixed_path": "releases/public-0.36.6/works/epjer/index.html#p-1-35"
+        "fixed_path": "releases/public-0.36.7/works/epjer/index.html#p-1-35"
       }
     },
     {
@@ -3165,7 +3165,7 @@
       "notes": [],
       "work_passage_id": "epjer:1.36",
       "html_path": "works/epjer/index.html#p-1-36",
-      "fixed_html_path": "releases/public-0.36.6/works/epjer/index.html#p-1-36",
+      "fixed_html_path": "releases/public-0.36.7/works/epjer/index.html#p-1-36",
       "alignment_revision": "sha256:96f9f89eb241d0c7cd6279357a26273ae90319cb42e5331646f0f58a836622bc",
       "review_state": {
         "human_reviewed": false,
@@ -3201,9 +3201,9 @@
         "work": "예레미야의 편지",
         "reference": "1.36",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:2cc67078a6eac1413e1a218a8e5c1e657c214bd47b1c2e9eb6fc4afe4b82b6a4",
-        "fixed_path": "releases/public-0.36.6/works/epjer/index.html#p-1-36"
+        "fixed_path": "releases/public-0.36.7/works/epjer/index.html#p-1-36"
       }
     },
     {
@@ -3242,7 +3242,7 @@
       "notes": [],
       "work_passage_id": "epjer:1.37",
       "html_path": "works/epjer/index.html#p-1-37",
-      "fixed_html_path": "releases/public-0.36.6/works/epjer/index.html#p-1-37",
+      "fixed_html_path": "releases/public-0.36.7/works/epjer/index.html#p-1-37",
       "alignment_revision": "sha256:4244b29d834a74a6ff8f096bb916dd380001f5bfd68462ed350c61211c11eccc",
       "review_state": {
         "human_reviewed": false,
@@ -3278,9 +3278,9 @@
         "work": "예레미야의 편지",
         "reference": "1.37",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:f3af7ba8b186cccaf39969b77d53512424f02fe663222d05a03364cbb2e01797",
-        "fixed_path": "releases/public-0.36.6/works/epjer/index.html#p-1-37"
+        "fixed_path": "releases/public-0.36.7/works/epjer/index.html#p-1-37"
       }
     },
     {
@@ -3332,7 +3332,7 @@
       "notes": [],
       "work_passage_id": "epjer:1.38",
       "html_path": "works/epjer/index.html#p-1-38",
-      "fixed_html_path": "releases/public-0.36.6/works/epjer/index.html#p-1-38",
+      "fixed_html_path": "releases/public-0.36.7/works/epjer/index.html#p-1-38",
       "alignment_revision": "sha256:e90c2e75da8ee19fc91124cc4ee266b915e5bfc7756606a16fe9a1c12c6cf662",
       "review_state": {
         "human_reviewed": false,
@@ -3368,9 +3368,9 @@
         "work": "예레미야의 편지",
         "reference": "1.38",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:023860e6dafdbb8370ec8ee7a76ad1210f1300b60cd35002fa6633c5031c6b7b",
-        "fixed_path": "releases/public-0.36.6/works/epjer/index.html#p-1-38"
+        "fixed_path": "releases/public-0.36.7/works/epjer/index.html#p-1-38"
       }
     },
     {
@@ -3409,7 +3409,7 @@
       "notes": [],
       "work_passage_id": "epjer:1.39",
       "html_path": "works/epjer/index.html#p-1-39",
-      "fixed_html_path": "releases/public-0.36.6/works/epjer/index.html#p-1-39",
+      "fixed_html_path": "releases/public-0.36.7/works/epjer/index.html#p-1-39",
       "alignment_revision": "sha256:d3cf353d1e236f0f847f4f39e111bec53d29b157daf5236eeb0c9e4dc4595a33",
       "review_state": {
         "human_reviewed": false,
@@ -3445,9 +3445,9 @@
         "work": "예레미야의 편지",
         "reference": "1.39",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:b8c1b770b1687ed217d64d1234a5647d03d1e35ae88b27249c0a43344938f1e5",
-        "fixed_path": "releases/public-0.36.6/works/epjer/index.html#p-1-39"
+        "fixed_path": "releases/public-0.36.7/works/epjer/index.html#p-1-39"
       }
     },
     {
@@ -3501,7 +3501,7 @@
       ],
       "work_passage_id": "epjer:1.40",
       "html_path": "works/epjer/index.html#p-1-40",
-      "fixed_html_path": "releases/public-0.36.6/works/epjer/index.html#p-1-40",
+      "fixed_html_path": "releases/public-0.36.7/works/epjer/index.html#p-1-40",
       "alignment_revision": "sha256:4976694b62fa86ccde702c32a855b821ae5f9fa7c1dcd86873b1f32c57e8948a",
       "review_state": {
         "human_reviewed": false,
@@ -3537,9 +3537,9 @@
         "work": "예레미야의 편지",
         "reference": "1.40",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:ef3b3aea45f3fc812c947e6749420fdbc8bece93e7215318d23bcc2183c346fd",
-        "fixed_path": "releases/public-0.36.6/works/epjer/index.html#p-1-40"
+        "fixed_path": "releases/public-0.36.7/works/epjer/index.html#p-1-40"
       }
     },
     {
@@ -3578,7 +3578,7 @@
       "notes": [],
       "work_passage_id": "epjer:1.41",
       "html_path": "works/epjer/index.html#p-1-41",
-      "fixed_html_path": "releases/public-0.36.6/works/epjer/index.html#p-1-41",
+      "fixed_html_path": "releases/public-0.36.7/works/epjer/index.html#p-1-41",
       "alignment_revision": "sha256:dcab516d57e04d36291b9e332115ef8b68ae2fed2d670248000d7f9e199ec4fb",
       "review_state": {
         "human_reviewed": false,
@@ -3614,9 +3614,9 @@
         "work": "예레미야의 편지",
         "reference": "1.41",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:853bd2a80c03ad85b755a68cc8083904c7b412693c566da5ac4304fadf8ca9dc",
-        "fixed_path": "releases/public-0.36.6/works/epjer/index.html#p-1-41"
+        "fixed_path": "releases/public-0.36.7/works/epjer/index.html#p-1-41"
       }
     },
     {
@@ -3655,7 +3655,7 @@
       "notes": [],
       "work_passage_id": "epjer:1.42",
       "html_path": "works/epjer/index.html#p-1-42",
-      "fixed_html_path": "releases/public-0.36.6/works/epjer/index.html#p-1-42",
+      "fixed_html_path": "releases/public-0.36.7/works/epjer/index.html#p-1-42",
       "alignment_revision": "sha256:41f712d322669f011668059954a650756b94108d1276658a1b58792c4e2e760f",
       "review_state": {
         "human_reviewed": false,
@@ -3691,9 +3691,9 @@
         "work": "예레미야의 편지",
         "reference": "1.42",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:1ffc810c46915aa20275a2d2c1d8dff11cc28f3ba874250a456409296d4fdc86",
-        "fixed_path": "releases/public-0.36.6/works/epjer/index.html#p-1-42"
+        "fixed_path": "releases/public-0.36.7/works/epjer/index.html#p-1-42"
       }
     },
     {
@@ -3747,7 +3747,7 @@
       ],
       "work_passage_id": "epjer:1.43",
       "html_path": "works/epjer/index.html#p-1-43",
-      "fixed_html_path": "releases/public-0.36.6/works/epjer/index.html#p-1-43",
+      "fixed_html_path": "releases/public-0.36.7/works/epjer/index.html#p-1-43",
       "alignment_revision": "sha256:6dcb0bde4825affec5046573b426a8589122dc3758c14ea5b1dfcbca8f142a50",
       "review_state": {
         "human_reviewed": false,
@@ -3783,9 +3783,9 @@
         "work": "예레미야의 편지",
         "reference": "1.43",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:c3684bbc87f17557452cbb0c549ed60251aa8b1d9895a066eca2d3f0ef33c056",
-        "fixed_path": "releases/public-0.36.6/works/epjer/index.html#p-1-43"
+        "fixed_path": "releases/public-0.36.7/works/epjer/index.html#p-1-43"
       }
     },
     {
@@ -3837,7 +3837,7 @@
       "notes": [],
       "work_passage_id": "epjer:1.44",
       "html_path": "works/epjer/index.html#p-1-44",
-      "fixed_html_path": "releases/public-0.36.6/works/epjer/index.html#p-1-44",
+      "fixed_html_path": "releases/public-0.36.7/works/epjer/index.html#p-1-44",
       "alignment_revision": "sha256:50ba2c515c5a7f6354f33b40b7041839c2b626a28fb148c73ebd1d5a7283433c",
       "review_state": {
         "human_reviewed": false,
@@ -3873,9 +3873,9 @@
         "work": "예레미야의 편지",
         "reference": "1.44",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:1b55845b3050883895d0052ed81b9f50dada1055c88fd54cbe98ffb5f1f2434c",
-        "fixed_path": "releases/public-0.36.6/works/epjer/index.html#p-1-44"
+        "fixed_path": "releases/public-0.36.7/works/epjer/index.html#p-1-44"
       }
     },
     {
@@ -3927,7 +3927,7 @@
       "notes": [],
       "work_passage_id": "epjer:1.45",
       "html_path": "works/epjer/index.html#p-1-45",
-      "fixed_html_path": "releases/public-0.36.6/works/epjer/index.html#p-1-45",
+      "fixed_html_path": "releases/public-0.36.7/works/epjer/index.html#p-1-45",
       "alignment_revision": "sha256:b5ac659756ac530690878d008bef79a56aa53fe44a7c56255836c7eb230c3979",
       "review_state": {
         "human_reviewed": false,
@@ -3963,9 +3963,9 @@
         "work": "예레미야의 편지",
         "reference": "1.45",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:5910ab81b05a3be1081c38b7232cd27ca198cb0911a49a5a27d2bca1fb331be6",
-        "fixed_path": "releases/public-0.36.6/works/epjer/index.html#p-1-45"
+        "fixed_path": "releases/public-0.36.7/works/epjer/index.html#p-1-45"
       }
     },
     {
@@ -4004,7 +4004,7 @@
       "notes": [],
       "work_passage_id": "epjer:1.46",
       "html_path": "works/epjer/index.html#p-1-46",
-      "fixed_html_path": "releases/public-0.36.6/works/epjer/index.html#p-1-46",
+      "fixed_html_path": "releases/public-0.36.7/works/epjer/index.html#p-1-46",
       "alignment_revision": "sha256:330150f0facd173aa8dedfbba5788d8c05e0d54ae9287605b9d96f33223a52c3",
       "review_state": {
         "human_reviewed": false,
@@ -4040,9 +4040,9 @@
         "work": "예레미야의 편지",
         "reference": "1.46",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:16f0609bf7d592d5da4fbd1086c69852b6c1b784a61335bfeb3cdf95660f49be",
-        "fixed_path": "releases/public-0.36.6/works/epjer/index.html#p-1-46"
+        "fixed_path": "releases/public-0.36.7/works/epjer/index.html#p-1-46"
       }
     },
     {
@@ -4094,7 +4094,7 @@
       "notes": [],
       "work_passage_id": "epjer:1.47",
       "html_path": "works/epjer/index.html#p-1-47",
-      "fixed_html_path": "releases/public-0.36.6/works/epjer/index.html#p-1-47",
+      "fixed_html_path": "releases/public-0.36.7/works/epjer/index.html#p-1-47",
       "alignment_revision": "sha256:3dcc34cabbe5a8adc78059b72870fa9418e4445205224eb1e9d87f6be6b1249b",
       "review_state": {
         "human_reviewed": false,
@@ -4130,9 +4130,9 @@
         "work": "예레미야의 편지",
         "reference": "1.47",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:4e656a69958ea1f22b474b094eac589a56de0f37cf67c5d9c0b623ef30203663",
-        "fixed_path": "releases/public-0.36.6/works/epjer/index.html#p-1-47"
+        "fixed_path": "releases/public-0.36.7/works/epjer/index.html#p-1-47"
       }
     },
     {
@@ -4171,7 +4171,7 @@
       "notes": [],
       "work_passage_id": "epjer:1.48",
       "html_path": "works/epjer/index.html#p-1-48",
-      "fixed_html_path": "releases/public-0.36.6/works/epjer/index.html#p-1-48",
+      "fixed_html_path": "releases/public-0.36.7/works/epjer/index.html#p-1-48",
       "alignment_revision": "sha256:37b3524e13ac76b2935175b9e07369fab6a1f44c00d32029dcfc36e0af106a9a",
       "review_state": {
         "human_reviewed": false,
@@ -4207,9 +4207,9 @@
         "work": "예레미야의 편지",
         "reference": "1.48",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:69a01f0433128005d281bd6d453ee42b7b75c0ee082a0c1352ca15d9a7ba68dd",
-        "fixed_path": "releases/public-0.36.6/works/epjer/index.html#p-1-48"
+        "fixed_path": "releases/public-0.36.7/works/epjer/index.html#p-1-48"
       }
     },
     {
@@ -4248,7 +4248,7 @@
       "notes": [],
       "work_passage_id": "epjer:1.49",
       "html_path": "works/epjer/index.html#p-1-49",
-      "fixed_html_path": "releases/public-0.36.6/works/epjer/index.html#p-1-49",
+      "fixed_html_path": "releases/public-0.36.7/works/epjer/index.html#p-1-49",
       "alignment_revision": "sha256:44c7e571f321158eb2e124b0ea967d20add3691e801b2e649d2b0f66f9e8749b",
       "review_state": {
         "human_reviewed": false,
@@ -4284,9 +4284,9 @@
         "work": "예레미야의 편지",
         "reference": "1.49",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:82059bb1b3930687b63beacd1299ffb8597dc4ba67455b5086ac24c82fec806b",
-        "fixed_path": "releases/public-0.36.6/works/epjer/index.html#p-1-49"
+        "fixed_path": "releases/public-0.36.7/works/epjer/index.html#p-1-49"
       }
     },
     {
@@ -4351,7 +4351,7 @@
       "notes": [],
       "work_passage_id": "epjer:1.50",
       "html_path": "works/epjer/index.html#p-1-50",
-      "fixed_html_path": "releases/public-0.36.6/works/epjer/index.html#p-1-50",
+      "fixed_html_path": "releases/public-0.36.7/works/epjer/index.html#p-1-50",
       "alignment_revision": "sha256:9e38e609874600d3e02625122c5a7040b7444bd39b444be00154f5c3dbcb7ce4",
       "review_state": {
         "human_reviewed": false,
@@ -4387,9 +4387,9 @@
         "work": "예레미야의 편지",
         "reference": "1.50",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:435bc390dfda764b49b254d650dcf945e22852263696f3df46d0153ba3619b98",
-        "fixed_path": "releases/public-0.36.6/works/epjer/index.html#p-1-50"
+        "fixed_path": "releases/public-0.36.7/works/epjer/index.html#p-1-50"
       }
     },
     {
@@ -4428,7 +4428,7 @@
       "notes": [],
       "work_passage_id": "epjer:1.51",
       "html_path": "works/epjer/index.html#p-1-51",
-      "fixed_html_path": "releases/public-0.36.6/works/epjer/index.html#p-1-51",
+      "fixed_html_path": "releases/public-0.36.7/works/epjer/index.html#p-1-51",
       "alignment_revision": "sha256:a14a8033ab9be5556cc0172397ec32196688d188f255da50cdaf664e9c897310",
       "review_state": {
         "human_reviewed": false,
@@ -4464,9 +4464,9 @@
         "work": "예레미야의 편지",
         "reference": "1.51",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:5318ce430356c647f2c1b565b379969421807a4825d5c78a9b2462a275938f2f",
-        "fixed_path": "releases/public-0.36.6/works/epjer/index.html#p-1-51"
+        "fixed_path": "releases/public-0.36.7/works/epjer/index.html#p-1-51"
       }
     },
     {
@@ -4518,7 +4518,7 @@
       "notes": [],
       "work_passage_id": "epjer:1.52",
       "html_path": "works/epjer/index.html#p-1-52",
-      "fixed_html_path": "releases/public-0.36.6/works/epjer/index.html#p-1-52",
+      "fixed_html_path": "releases/public-0.36.7/works/epjer/index.html#p-1-52",
       "alignment_revision": "sha256:b7ad18e77c91e929dd12fb3049f152afc5c8a9e37b4f0513f8b3375d6fe5f928",
       "review_state": {
         "human_reviewed": false,
@@ -4554,9 +4554,9 @@
         "work": "예레미야의 편지",
         "reference": "1.52",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:575511fca867d1f4e61b80237cd0f27f4139d3f958635826fc6572c83e389dbf",
-        "fixed_path": "releases/public-0.36.6/works/epjer/index.html#p-1-52"
+        "fixed_path": "releases/public-0.36.7/works/epjer/index.html#p-1-52"
       }
     },
     {
@@ -4595,7 +4595,7 @@
       "notes": [],
       "work_passage_id": "epjer:1.53",
       "html_path": "works/epjer/index.html#p-1-53",
-      "fixed_html_path": "releases/public-0.36.6/works/epjer/index.html#p-1-53",
+      "fixed_html_path": "releases/public-0.36.7/works/epjer/index.html#p-1-53",
       "alignment_revision": "sha256:cada8c3bbc27b08002d97cce320fb4a6f7253e2fa2b482cbdd066f2eba6db973",
       "review_state": {
         "human_reviewed": false,
@@ -4631,9 +4631,9 @@
         "work": "예레미야의 편지",
         "reference": "1.53",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:3646a5a4751a47dfef50718a95039d8bbf138e876f4b1d66ae812dc9e28525f2",
-        "fixed_path": "releases/public-0.36.6/works/epjer/index.html#p-1-53"
+        "fixed_path": "releases/public-0.36.7/works/epjer/index.html#p-1-53"
       }
     },
     {
@@ -4700,7 +4700,7 @@
       ],
       "work_passage_id": "epjer:1.54",
       "html_path": "works/epjer/index.html#p-1-54",
-      "fixed_html_path": "releases/public-0.36.6/works/epjer/index.html#p-1-54",
+      "fixed_html_path": "releases/public-0.36.7/works/epjer/index.html#p-1-54",
       "alignment_revision": "sha256:1aa6b4bb25727eb85e3696757964242e8b26891a449e97c39014991e6f8d94b0",
       "review_state": {
         "human_reviewed": false,
@@ -4736,9 +4736,9 @@
         "work": "예레미야의 편지",
         "reference": "1.54",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:178c78fa5bb7adf2eda94e22ffaf2cbcf02a72173bcab11e44abc7353c1573fd",
-        "fixed_path": "releases/public-0.36.6/works/epjer/index.html#p-1-54"
+        "fixed_path": "releases/public-0.36.7/works/epjer/index.html#p-1-54"
       }
     },
     {
@@ -4777,7 +4777,7 @@
       "notes": [],
       "work_passage_id": "epjer:1.55",
       "html_path": "works/epjer/index.html#p-1-55",
-      "fixed_html_path": "releases/public-0.36.6/works/epjer/index.html#p-1-55",
+      "fixed_html_path": "releases/public-0.36.7/works/epjer/index.html#p-1-55",
       "alignment_revision": "sha256:e27bfd88113f9e4f4c9306ca71dbf2c14d7c82f5b49b0df281c0f66e37a3e7ee",
       "review_state": {
         "human_reviewed": false,
@@ -4813,9 +4813,9 @@
         "work": "예레미야의 편지",
         "reference": "1.55",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:7a2f7435ec2f8477d2b86b0b752765bb866b1b1dcd280dce9a5de4b838fac723",
-        "fixed_path": "releases/public-0.36.6/works/epjer/index.html#p-1-55"
+        "fixed_path": "releases/public-0.36.7/works/epjer/index.html#p-1-55"
       }
     },
     {
@@ -4867,7 +4867,7 @@
       "notes": [],
       "work_passage_id": "epjer:1.56",
       "html_path": "works/epjer/index.html#p-1-56",
-      "fixed_html_path": "releases/public-0.36.6/works/epjer/index.html#p-1-56",
+      "fixed_html_path": "releases/public-0.36.7/works/epjer/index.html#p-1-56",
       "alignment_revision": "sha256:59c2811e0ece9239b013e339fbd125835100300f1efe709ef4dc3de05666707c",
       "review_state": {
         "human_reviewed": false,
@@ -4903,9 +4903,9 @@
         "work": "예레미야의 편지",
         "reference": "1.56",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:22f8ab5cb0f51ff9f62e97204882800d55ef343f2ff54f8c3dbc9048b36617c9",
-        "fixed_path": "releases/public-0.36.6/works/epjer/index.html#p-1-56"
+        "fixed_path": "releases/public-0.36.7/works/epjer/index.html#p-1-56"
       }
     },
     {
@@ -4957,7 +4957,7 @@
       "notes": [],
       "work_passage_id": "epjer:1.57",
       "html_path": "works/epjer/index.html#p-1-57",
-      "fixed_html_path": "releases/public-0.36.6/works/epjer/index.html#p-1-57",
+      "fixed_html_path": "releases/public-0.36.7/works/epjer/index.html#p-1-57",
       "alignment_revision": "sha256:683678741fbf86c7a1e4d43d7d03834b2aa98a93a4fafa6491c83fc977a49f23",
       "review_state": {
         "human_reviewed": false,
@@ -4993,9 +4993,9 @@
         "work": "예레미야의 편지",
         "reference": "1.57",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:2d98865cbf1839298fdb8e7b9934baa4d15701fa5d918db9d997c324306a2ee0",
-        "fixed_path": "releases/public-0.36.6/works/epjer/index.html#p-1-57"
+        "fixed_path": "releases/public-0.36.7/works/epjer/index.html#p-1-57"
       }
     },
     {
@@ -5060,7 +5060,7 @@
       "notes": [],
       "work_passage_id": "epjer:1.58",
       "html_path": "works/epjer/index.html#p-1-58",
-      "fixed_html_path": "releases/public-0.36.6/works/epjer/index.html#p-1-58",
+      "fixed_html_path": "releases/public-0.36.7/works/epjer/index.html#p-1-58",
       "alignment_revision": "sha256:515d44dc50f5cb4805dc3f03e400139a8394a18efc4651d255bbf48f75154897",
       "review_state": {
         "human_reviewed": false,
@@ -5096,9 +5096,9 @@
         "work": "예레미야의 편지",
         "reference": "1.58",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:7f53dabb745e0780bdd1b3a32e7bd8c3099e33feed3e992fb2738e8fc90ff18e",
-        "fixed_path": "releases/public-0.36.6/works/epjer/index.html#p-1-58"
+        "fixed_path": "releases/public-0.36.7/works/epjer/index.html#p-1-58"
       }
     },
     {
@@ -5137,7 +5137,7 @@
       "notes": [],
       "work_passage_id": "epjer:1.59",
       "html_path": "works/epjer/index.html#p-1-59",
-      "fixed_html_path": "releases/public-0.36.6/works/epjer/index.html#p-1-59",
+      "fixed_html_path": "releases/public-0.36.7/works/epjer/index.html#p-1-59",
       "alignment_revision": "sha256:6f7a439ead87dbf563e2377a197b87abdb453adf73d5b53b31111393f800eadf",
       "review_state": {
         "human_reviewed": false,
@@ -5173,9 +5173,9 @@
         "work": "예레미야의 편지",
         "reference": "1.59",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:8616869ae3097e13a255514d6d26add34bc0389c1571db09fabba1bb4ad2d2f7",
-        "fixed_path": "releases/public-0.36.6/works/epjer/index.html#p-1-59"
+        "fixed_path": "releases/public-0.36.7/works/epjer/index.html#p-1-59"
       }
     },
     {
@@ -5227,7 +5227,7 @@
       "notes": [],
       "work_passage_id": "epjer:1.60",
       "html_path": "works/epjer/index.html#p-1-60",
-      "fixed_html_path": "releases/public-0.36.6/works/epjer/index.html#p-1-60",
+      "fixed_html_path": "releases/public-0.36.7/works/epjer/index.html#p-1-60",
       "alignment_revision": "sha256:7ef95b3cb6ef20c814666455be22090aa08e50bb42e08fe30733f5abe05b87a9",
       "review_state": {
         "human_reviewed": false,
@@ -5263,9 +5263,9 @@
         "work": "예레미야의 편지",
         "reference": "1.60",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:7369d4bfc37b4a90bd525024bc3fd460cba37615aac0efc5f54092970a8f778b",
-        "fixed_path": "releases/public-0.36.6/works/epjer/index.html#p-1-60"
+        "fixed_path": "releases/public-0.36.7/works/epjer/index.html#p-1-60"
       }
     },
     {
@@ -5304,7 +5304,7 @@
       "notes": [],
       "work_passage_id": "epjer:1.61",
       "html_path": "works/epjer/index.html#p-1-61",
-      "fixed_html_path": "releases/public-0.36.6/works/epjer/index.html#p-1-61",
+      "fixed_html_path": "releases/public-0.36.7/works/epjer/index.html#p-1-61",
       "alignment_revision": "sha256:137834ff07cf7551148c6dd610813b337a1ad46543c191fe7b4ba03148ca5e80",
       "review_state": {
         "human_reviewed": false,
@@ -5340,9 +5340,9 @@
         "work": "예레미야의 편지",
         "reference": "1.61",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:e862e5d7dbf6d2bee1843bdc8aa39c5fa2bb279d8016777b0f3cdc99f282b954",
-        "fixed_path": "releases/public-0.36.6/works/epjer/index.html#p-1-61"
+        "fixed_path": "releases/public-0.36.7/works/epjer/index.html#p-1-61"
       }
     },
     {
@@ -5394,7 +5394,7 @@
       "notes": [],
       "work_passage_id": "epjer:1.62",
       "html_path": "works/epjer/index.html#p-1-62",
-      "fixed_html_path": "releases/public-0.36.6/works/epjer/index.html#p-1-62",
+      "fixed_html_path": "releases/public-0.36.7/works/epjer/index.html#p-1-62",
       "alignment_revision": "sha256:fad1c5ed9ac2852133ff5962911945002ff11bbae4354ce6395e0bb4823de09f",
       "review_state": {
         "human_reviewed": false,
@@ -5430,9 +5430,9 @@
         "work": "예레미야의 편지",
         "reference": "1.62",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:2d3d854edfddf4939ab6940c3e6c0c8d3d1ffcfd2d1bd7074d0ee7f88c074eb1",
-        "fixed_path": "releases/public-0.36.6/works/epjer/index.html#p-1-62"
+        "fixed_path": "releases/public-0.36.7/works/epjer/index.html#p-1-62"
       }
     },
     {
@@ -5484,7 +5484,7 @@
       "notes": [],
       "work_passage_id": "epjer:1.63",
       "html_path": "works/epjer/index.html#p-1-63",
-      "fixed_html_path": "releases/public-0.36.6/works/epjer/index.html#p-1-63",
+      "fixed_html_path": "releases/public-0.36.7/works/epjer/index.html#p-1-63",
       "alignment_revision": "sha256:5a8c8d07f2211ff7a2853a188f8d5f6184535c9e0bed7c0c7ab9c1f4c71d72e2",
       "review_state": {
         "human_reviewed": false,
@@ -5520,9 +5520,9 @@
         "work": "예레미야의 편지",
         "reference": "1.63",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:3a8e8535d68056979eebc029f5b51ae9989284f214ce81bcfbdcd928e9f355ba",
-        "fixed_path": "releases/public-0.36.6/works/epjer/index.html#p-1-63"
+        "fixed_path": "releases/public-0.36.7/works/epjer/index.html#p-1-63"
       }
     },
     {
@@ -5561,7 +5561,7 @@
       "notes": [],
       "work_passage_id": "epjer:1.64",
       "html_path": "works/epjer/index.html#p-1-64",
-      "fixed_html_path": "releases/public-0.36.6/works/epjer/index.html#p-1-64",
+      "fixed_html_path": "releases/public-0.36.7/works/epjer/index.html#p-1-64",
       "alignment_revision": "sha256:e856730eb02c50379900561c688cf3c2f77abf554469f7b4135a13e5a4da9245",
       "review_state": {
         "human_reviewed": false,
@@ -5597,9 +5597,9 @@
         "work": "예레미야의 편지",
         "reference": "1.64",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:e9c64019df50868e71932b351146d28bcfbb4f6079e1efacb56459e512c3da7f",
-        "fixed_path": "releases/public-0.36.6/works/epjer/index.html#p-1-64"
+        "fixed_path": "releases/public-0.36.7/works/epjer/index.html#p-1-64"
       }
     },
     {
@@ -5638,7 +5638,7 @@
       "notes": [],
       "work_passage_id": "epjer:1.65",
       "html_path": "works/epjer/index.html#p-1-65",
-      "fixed_html_path": "releases/public-0.36.6/works/epjer/index.html#p-1-65",
+      "fixed_html_path": "releases/public-0.36.7/works/epjer/index.html#p-1-65",
       "alignment_revision": "sha256:2d0fffc7bf7aab1d3aea98b8cb64e8fe6415798336a84ffafd5350d3e4844471",
       "review_state": {
         "human_reviewed": false,
@@ -5674,9 +5674,9 @@
         "work": "예레미야의 편지",
         "reference": "1.65",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:f845775e62235b33b9cfb1588dc26aff81280ec8d529a80194227160952b9055",
-        "fixed_path": "releases/public-0.36.6/works/epjer/index.html#p-1-65"
+        "fixed_path": "releases/public-0.36.7/works/epjer/index.html#p-1-65"
       }
     },
     {
@@ -5728,7 +5728,7 @@
       "notes": [],
       "work_passage_id": "epjer:1.66",
       "html_path": "works/epjer/index.html#p-1-66",
-      "fixed_html_path": "releases/public-0.36.6/works/epjer/index.html#p-1-66",
+      "fixed_html_path": "releases/public-0.36.7/works/epjer/index.html#p-1-66",
       "alignment_revision": "sha256:d330ea61de127185d1c16c81bc37e71f25e56436bee1f88121ff11c1075fa4de",
       "review_state": {
         "human_reviewed": false,
@@ -5764,9 +5764,9 @@
         "work": "예레미야의 편지",
         "reference": "1.66",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:0fbf2f864b6cd1e536a0e1e7ecf78422be21dd601427b430524e3a0713955db6",
-        "fixed_path": "releases/public-0.36.6/works/epjer/index.html#p-1-66"
+        "fixed_path": "releases/public-0.36.7/works/epjer/index.html#p-1-66"
       }
     },
     {
@@ -5818,7 +5818,7 @@
       "notes": [],
       "work_passage_id": "epjer:1.67",
       "html_path": "works/epjer/index.html#p-1-67",
-      "fixed_html_path": "releases/public-0.36.6/works/epjer/index.html#p-1-67",
+      "fixed_html_path": "releases/public-0.36.7/works/epjer/index.html#p-1-67",
       "alignment_revision": "sha256:88b9bd90529af80600bb2d027b25dfb49a30d31dda48566c9d7a9b60c358d3ab",
       "review_state": {
         "human_reviewed": false,
@@ -5854,9 +5854,9 @@
         "work": "예레미야의 편지",
         "reference": "1.67",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:24c010b4482d71404b6f4a19589a54fb240390247e53200034db387460054d13",
-        "fixed_path": "releases/public-0.36.6/works/epjer/index.html#p-1-67"
+        "fixed_path": "releases/public-0.36.7/works/epjer/index.html#p-1-67"
       }
     },
     {
@@ -5908,7 +5908,7 @@
       "notes": [],
       "work_passage_id": "epjer:1.68",
       "html_path": "works/epjer/index.html#p-1-68",
-      "fixed_html_path": "releases/public-0.36.6/works/epjer/index.html#p-1-68",
+      "fixed_html_path": "releases/public-0.36.7/works/epjer/index.html#p-1-68",
       "alignment_revision": "sha256:4a59b903fb8b4c7415f00866f905df76c98a9017ee29a4f452b8f71e8e417adc",
       "review_state": {
         "human_reviewed": false,
@@ -5944,9 +5944,9 @@
         "work": "예레미야의 편지",
         "reference": "1.68",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:43d9e0098f157df574610e279fbab65f353b0841869daed5b710486794bf86ad",
-        "fixed_path": "releases/public-0.36.6/works/epjer/index.html#p-1-68"
+        "fixed_path": "releases/public-0.36.7/works/epjer/index.html#p-1-68"
       }
     },
     {
@@ -6000,7 +6000,7 @@
       ],
       "work_passage_id": "epjer:1.69",
       "html_path": "works/epjer/index.html#p-1-69",
-      "fixed_html_path": "releases/public-0.36.6/works/epjer/index.html#p-1-69",
+      "fixed_html_path": "releases/public-0.36.7/works/epjer/index.html#p-1-69",
       "alignment_revision": "sha256:6317d2732466ce05ea3a1fcd35550e8216939fbfc8051665aab604297759eb31",
       "review_state": {
         "human_reviewed": false,
@@ -6036,9 +6036,9 @@
         "work": "예레미야의 편지",
         "reference": "1.69",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:c905f18a57737bbf11adce705b1f768541ab223034722d905c9dfd7f20602ec2",
-        "fixed_path": "releases/public-0.36.6/works/epjer/index.html#p-1-69"
+        "fixed_path": "releases/public-0.36.7/works/epjer/index.html#p-1-69"
       }
     },
     {
@@ -6077,7 +6077,7 @@
       "notes": [],
       "work_passage_id": "epjer:1.70",
       "html_path": "works/epjer/index.html#p-1-70",
-      "fixed_html_path": "releases/public-0.36.6/works/epjer/index.html#p-1-70",
+      "fixed_html_path": "releases/public-0.36.7/works/epjer/index.html#p-1-70",
       "alignment_revision": "sha256:79886832e15b46fe2aa5dfb1bae467bc5d8c0301204bd3be8ccb57f8bca3af37",
       "review_state": {
         "human_reviewed": false,
@@ -6113,9 +6113,9 @@
         "work": "예레미야의 편지",
         "reference": "1.70",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:98df0a8507a85f1b0866c45b274c0092190ae8f390686f4794309d7e55a4ab4a",
-        "fixed_path": "releases/public-0.36.6/works/epjer/index.html#p-1-70"
+        "fixed_path": "releases/public-0.36.7/works/epjer/index.html#p-1-70"
       }
     },
     {
@@ -6169,7 +6169,7 @@
       ],
       "work_passage_id": "epjer:1.71",
       "html_path": "works/epjer/index.html#p-1-71",
-      "fixed_html_path": "releases/public-0.36.6/works/epjer/index.html#p-1-71",
+      "fixed_html_path": "releases/public-0.36.7/works/epjer/index.html#p-1-71",
       "alignment_revision": "sha256:c32d822b549c24ce4ff391c6b904fa3a633494d4c9c964964ae48eafb8286668",
       "review_state": {
         "human_reviewed": false,
@@ -6205,9 +6205,9 @@
         "work": "예레미야의 편지",
         "reference": "1.71",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:17d6660e580f38fa79a1461dc5d8a827bf01c8cf082ddcf06ec96946e67c2754",
-        "fixed_path": "releases/public-0.36.6/works/epjer/index.html#p-1-71"
+        "fixed_path": "releases/public-0.36.7/works/epjer/index.html#p-1-71"
       }
     },
     {
@@ -6261,7 +6261,7 @@
       ],
       "work_passage_id": "epjer:1.72",
       "html_path": "works/epjer/index.html#p-1-72",
-      "fixed_html_path": "releases/public-0.36.6/works/epjer/index.html#p-1-72",
+      "fixed_html_path": "releases/public-0.36.7/works/epjer/index.html#p-1-72",
       "alignment_revision": "sha256:ca886d0e464d0f059d1b3be19c31eb999855d3108d9768cee1e403322d109a28",
       "review_state": {
         "human_reviewed": false,
@@ -6297,9 +6297,9 @@
         "work": "예레미야의 편지",
         "reference": "1.72",
         "edition": "Henry Barclay Swete 편, The Old Testament in Greek, vol. 3, 제4판 1912, Cambridge University Press, 1930 재인쇄. Pasquale Amicarelli 전사본, Eliran Wong 저장소.",
-        "release": "public-0.36.6",
+        "release": "public-0.36.7",
         "translation_revision": "sha256:102062e19fbe3022ce82004a9951c9e8dd04c9cefe162cfa93af5682e675eaad",
-        "fixed_path": "releases/public-0.36.6/works/epjer/index.html#p-1-72"
+        "fixed_path": "releases/public-0.36.7/works/epjer/index.html#p-1-72"
       }
     }
   ],
@@ -6318,14 +6318,14 @@
   "display_author": "익명",
   "scope": "예레미야의 편지 1.1-1.72 72절 전체",
   "coverage": "complete",
-  "release_id": "public-0.36.6",
+  "release_id": "public-0.36.7",
   "source_language": "grc",
   "source_kind": "edited_ancient_original",
   "human_reviewed": false,
   "translation_method": "고정 원어 본문에서 직접 번역",
   "html_path": "works/epjer/index.html",
   "json_path": "data/works/epjer.json",
-  "fixed_html_path": "releases/public-0.36.6/works/epjer/index.html",
+  "fixed_html_path": "releases/public-0.36.7/works/epjer/index.html",
   "source_profile": "epjer-swete-pinned-word-table-1",
   "source_decisions": [
     {
