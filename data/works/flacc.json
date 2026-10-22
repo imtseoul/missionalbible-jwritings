@@ -89,7 +89,7 @@
       ],
       "work_passage_id": "flacc:1",
       "html_path": "works/flacc/index.html#p-1",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-1",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-1",
       "alignment_revision": "sha256:8c9443252c0fbea08147b47e34a2eb833bd50a698bbabee407f6897331c049fe",
       "review_state": {
         "human_reviewed": false,
@@ -125,9 +125,9 @@
         "work": "플라쿠스 반박",
         "reference": "1",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:9586dcd98dfa81e2179080a7c00023fc71f3084af19e514dcf63e399884e5f97",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-1"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-1"
       }
     },
     {
@@ -203,7 +203,7 @@
       ],
       "work_passage_id": "flacc:2",
       "html_path": "works/flacc/index.html#p-2",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-2",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-2",
       "alignment_revision": "sha256:841ac19832f4090289e2d2878aa7fe48b448958e4733ce4c6a4c70e39f311176",
       "review_state": {
         "human_reviewed": false,
@@ -239,9 +239,9 @@
         "work": "플라쿠스 반박",
         "reference": "2",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:d9a183538e2111834e5b9f328e2651c75da60f9e19e6eadf322e0df891f463a8",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-2"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-2"
       }
     },
     {
@@ -304,7 +304,7 @@
       "notes": [],
       "work_passage_id": "flacc:3",
       "html_path": "works/flacc/index.html#p-3",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-3",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-3",
       "alignment_revision": "sha256:a5f9d4619ccc7c05daa0608b84f25a2ddb4a888aace92d650ccdf1b4d13af23d",
       "review_state": {
         "human_reviewed": false,
@@ -340,9 +340,9 @@
         "work": "플라쿠스 반박",
         "reference": "3",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:e05f5885f7ffdfc6445692bb13f0f2f208fd4f22c8537ae0ef7d6e579921e382",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-3"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-3"
       }
     },
     {
@@ -428,7 +428,7 @@
       "notes": [],
       "work_passage_id": "flacc:4",
       "html_path": "works/flacc/index.html#p-4",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-4",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-4",
       "alignment_revision": "sha256:411d1bdd454b405a71f8a438f913d37d88393e9684aac5541292d65ab7fafa59",
       "review_state": {
         "human_reviewed": false,
@@ -464,9 +464,9 @@
         "work": "플라쿠스 반박",
         "reference": "4",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:ceee91aa779867792489b9003a7f822a5ba979e537c6bd2bc98246089c60dbe3",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-4"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-4"
       }
     },
     {
@@ -552,7 +552,7 @@
       "notes": [],
       "work_passage_id": "flacc:5",
       "html_path": "works/flacc/index.html#p-5",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-5",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-5",
       "alignment_revision": "sha256:4478c387021b0e9fcb6c433925c394c21dbf69fbba6b50f755f21bba9a31012d",
       "review_state": {
         "human_reviewed": false,
@@ -588,9 +588,9 @@
         "work": "플라쿠스 반박",
         "reference": "5",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:7a34eaad51ebae71f763475ec3ffd4e07d8f5ab4ff6986d0b65d0ac52b2ed65a",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-5"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-5"
       }
     },
     {
@@ -650,7 +650,7 @@
       "notes": [],
       "work_passage_id": "flacc:6",
       "html_path": "works/flacc/index.html#p-6",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-6",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-6",
       "alignment_revision": "sha256:6c84ba1f5206a3d543b8f5406a10c6f17aa03bae56e383544ef3c4615bd3a8e5",
       "review_state": {
         "human_reviewed": false,
@@ -686,9 +686,9 @@
         "work": "플라쿠스 반박",
         "reference": "6",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:34c7740db9b2b474046cb694215d0b0b86fd01f25425cdbe577da6a795bc4055",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-6"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-6"
       }
     },
     {
@@ -748,7 +748,7 @@
       "notes": [],
       "work_passage_id": "flacc:7",
       "html_path": "works/flacc/index.html#p-7",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-7",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-7",
       "alignment_revision": "sha256:d6fb6f4ed779ec468ac419d79ce1e08b018d87105eb452c5ad0c1e483a5e2562",
       "review_state": {
         "human_reviewed": false,
@@ -784,9 +784,9 @@
         "work": "플라쿠스 반박",
         "reference": "7",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:42240c2707609049200baba4b15cb9a5a58be5c7f2daaaed13aaf197659baa30",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-7"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-7"
       }
     },
     {
@@ -849,7 +849,7 @@
       "notes": [],
       "work_passage_id": "flacc:8",
       "html_path": "works/flacc/index.html#p-8",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-8",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-8",
       "alignment_revision": "sha256:1c0616fcab930b2f6d2b3a28e9d1fec52bc1ceaedf81cb042589be3b2dbb4b12",
       "review_state": {
         "human_reviewed": false,
@@ -885,9 +885,9 @@
         "work": "플라쿠스 반박",
         "reference": "8",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:8a46826afa19b49d53e4db277c761611ad68e58325f1bd4c9b5f60f345f08d28",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-8"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-8"
       }
     },
     {
@@ -989,7 +989,7 @@
       ],
       "work_passage_id": "flacc:9",
       "html_path": "works/flacc/index.html#p-9",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-9",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-9",
       "alignment_revision": "sha256:cab95dfcc4dbaa85e8a65309c6d87252fd445af6daf4c9c345f15a9cc35e4022",
       "review_state": {
         "human_reviewed": false,
@@ -1025,9 +1025,9 @@
         "work": "플라쿠스 반박",
         "reference": "9",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:72fe207e0a795a2991986299026904c72fb25f564446a65d8e6fc7f93c15050b",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-9"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-9"
       }
     },
     {
@@ -1089,7 +1089,7 @@
       ],
       "work_passage_id": "flacc:10",
       "html_path": "works/flacc/index.html#p-10",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-10",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-10",
       "alignment_revision": "sha256:54773cb15b1f2e45d4dc3b94a08df5869cd36cc5405d95a5ee2c9fd481dea228",
       "review_state": {
         "human_reviewed": false,
@@ -1125,9 +1125,9 @@
         "work": "플라쿠스 반박",
         "reference": "10",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:2cc0689a41c69a3e74e4d4c170740aa7bdec6549ac95478c2f456b82ac6404a2",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-10"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-10"
       }
     },
     {
@@ -1202,7 +1202,7 @@
       ],
       "work_passage_id": "flacc:11",
       "html_path": "works/flacc/index.html#p-11",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-11",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-11",
       "alignment_revision": "sha256:60f0b4b23b1465535b03ecbcc70bef92ab3d74a3af3ebeefbaa9af1ff4bc5f99",
       "review_state": {
         "human_reviewed": false,
@@ -1238,9 +1238,9 @@
         "work": "플라쿠스 반박",
         "reference": "11",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:752caf216f52fd0147083bf097313d5d8e1716da67f8b9c698b4232315f2e4d6",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-11"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-11"
       }
     },
     {
@@ -1300,7 +1300,7 @@
       "notes": [],
       "work_passage_id": "flacc:12",
       "html_path": "works/flacc/index.html#p-12",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-12",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-12",
       "alignment_revision": "sha256:d6ee0ec456f46dad1284852030c5a392ff5778bd41bef34200a53c3dfeff1ec5",
       "review_state": {
         "human_reviewed": false,
@@ -1336,9 +1336,9 @@
         "work": "플라쿠스 반박",
         "reference": "12",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:44b1b1f868782d1e1bdd9c947b2c5e8c1d5722ade530f4ab0feef89ce8cda59f",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-12"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-12"
       }
     },
     {
@@ -1385,7 +1385,7 @@
       "notes": [],
       "work_passage_id": "flacc:13",
       "html_path": "works/flacc/index.html#p-13",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-13",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-13",
       "alignment_revision": "sha256:d7be0b5018436a4f4a94d950f6741aa430c77e43c505baffd783fe7d077c8387",
       "review_state": {
         "human_reviewed": false,
@@ -1421,9 +1421,9 @@
         "work": "플라쿠스 반박",
         "reference": "13",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:f3f24f48c6ff2b21c3d1acb833be29b96a1e4dfee4027655495298e21ff94e7c",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-13"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-13"
       }
     },
     {
@@ -1486,7 +1486,7 @@
       "notes": [],
       "work_passage_id": "flacc:14",
       "html_path": "works/flacc/index.html#p-14",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-14",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-14",
       "alignment_revision": "sha256:1b9204231733da4fc0ada8f87412a3b9c3bf36d4ba4417c98d3f01974b1a8329",
       "review_state": {
         "human_reviewed": false,
@@ -1522,9 +1522,9 @@
         "work": "플라쿠스 반박",
         "reference": "14",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:1e701fb83744ffb8a3645f01b38229689113d068c002e13d3688b23d9f4449e6",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-14"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-14"
       }
     },
     {
@@ -1584,7 +1584,7 @@
       "notes": [],
       "work_passage_id": "flacc:15",
       "html_path": "works/flacc/index.html#p-15",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-15",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-15",
       "alignment_revision": "sha256:b2cdc3cb525b4309ad9c62abdbfac7cb50d4c1184824927346dbe0e1f24791be",
       "review_state": {
         "human_reviewed": false,
@@ -1620,9 +1620,9 @@
         "work": "플라쿠스 반박",
         "reference": "15",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:55c0844831c3aa7b9c881c0f3f47a904cf8b837495389b6ae90293d34ab95e1e",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-15"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-15"
       }
     },
     {
@@ -1682,7 +1682,7 @@
       "notes": [],
       "work_passage_id": "flacc:16",
       "html_path": "works/flacc/index.html#p-16",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-16",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-16",
       "alignment_revision": "sha256:04ea98c99fac686dde43bd2a45bca8cbd81ea7ee41ed02e1137f30ec021f8528",
       "review_state": {
         "human_reviewed": false,
@@ -1718,9 +1718,9 @@
         "work": "플라쿠스 반박",
         "reference": "16",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:05f4a99454e5680f0e3d44021f117df0d275166f7affb3510657824816e2dc99",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-16"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-16"
       }
     },
     {
@@ -1780,7 +1780,7 @@
       "notes": [],
       "work_passage_id": "flacc:17",
       "html_path": "works/flacc/index.html#p-17",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-17",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-17",
       "alignment_revision": "sha256:2ab7981e982a6c988f5ae46433de97db500a145b035d2e44775d7158b5ce61a2",
       "review_state": {
         "human_reviewed": false,
@@ -1816,9 +1816,9 @@
         "work": "플라쿠스 반박",
         "reference": "17",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:4ad6bcf876c608f5f725affa7e3909b4193b7b8cb1a9d1642c468aa806981c56",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-17"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-17"
       }
     },
     {
@@ -1878,7 +1878,7 @@
       "notes": [],
       "work_passage_id": "flacc:18",
       "html_path": "works/flacc/index.html#p-18",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-18",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-18",
       "alignment_revision": "sha256:2a40f5f62fb1efe6552418622598345c196a5cfd26c8068a3a65992e0f455995",
       "review_state": {
         "human_reviewed": false,
@@ -1914,9 +1914,9 @@
         "work": "플라쿠스 반박",
         "reference": "18",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:bfa083fda1e031e27da5eb5aac25e5bb375d4c34d11888f07c012f73553b3e29",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-18"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-18"
       }
     },
     {
@@ -1979,7 +1979,7 @@
       "notes": [],
       "work_passage_id": "flacc:19",
       "html_path": "works/flacc/index.html#p-19",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-19",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-19",
       "alignment_revision": "sha256:68b6a5483871b7c756fe8027761a20cdeb57bdcb14629c82753c22c78ec9cdbf",
       "review_state": {
         "human_reviewed": false,
@@ -2015,9 +2015,9 @@
         "work": "플라쿠스 반박",
         "reference": "19",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:2f2ca8a23a27d65fc1659bb9e33efe4f20c572edafc9aa00c078461daae91196",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-19"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-19"
       }
     },
     {
@@ -2080,7 +2080,7 @@
       ],
       "work_passage_id": "flacc:20",
       "html_path": "works/flacc/index.html#p-20",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-20",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-20",
       "alignment_revision": "sha256:4cba65c9980c4e052fd6988657726f6259d50aee7b2451ff4e44ba22532c01c7",
       "review_state": {
         "human_reviewed": false,
@@ -2116,9 +2116,9 @@
         "work": "플라쿠스 반박",
         "reference": "20",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:ba37caaa047f0279e950d95959c4b3593f86b6121e16a503a0ae1feb319be3dc",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-20"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-20"
       }
     },
     {
@@ -2165,7 +2165,7 @@
       "notes": [],
       "work_passage_id": "flacc:21",
       "html_path": "works/flacc/index.html#p-21",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-21",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-21",
       "alignment_revision": "sha256:f394ba8610ff465a2694d8832cd17267e2b4a86a7e4286f02e24355632382fd7",
       "review_state": {
         "human_reviewed": false,
@@ -2201,9 +2201,9 @@
         "work": "플라쿠스 반박",
         "reference": "21",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:22dfb95fc0ef5d3f884c9233bb66beeb1a93af282c663278d7daf733a16a0d4b",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-21"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-21"
       }
     },
     {
@@ -2265,7 +2265,7 @@
       ],
       "work_passage_id": "flacc:22",
       "html_path": "works/flacc/index.html#p-22",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-22",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-22",
       "alignment_revision": "sha256:c9a73ee333636b41f9eac0664cb034f38beaab3c2146f24cfd0aa5d8daf09092",
       "review_state": {
         "human_reviewed": false,
@@ -2301,9 +2301,9 @@
         "work": "플라쿠스 반박",
         "reference": "22",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:51a69725112479f486c1d99b1352cb7b107323e7660e64a319a79460f5d645a6",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-22"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-22"
       }
     },
     {
@@ -2365,7 +2365,7 @@
       ],
       "work_passage_id": "flacc:23",
       "html_path": "works/flacc/index.html#p-23",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-23",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-23",
       "alignment_revision": "sha256:79b9bb20f1c851a9b8b1a6b5e17d739991e4d3a169e2865a51b67200cee9332b",
       "review_state": {
         "human_reviewed": false,
@@ -2401,9 +2401,9 @@
         "work": "플라쿠스 반박",
         "reference": "23",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:c5f977e9d6c3787596bbf97d606e9034b977f1a005afa7b0f5a40ea9dab16fb4",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-23"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-23"
       }
     },
     {
@@ -2489,7 +2489,7 @@
       "notes": [],
       "work_passage_id": "flacc:24",
       "html_path": "works/flacc/index.html#p-24",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-24",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-24",
       "alignment_revision": "sha256:d21ecfac88130eccfd57b0a9cdd8d9eac49fb5effd9ac79e92c32737d627d751",
       "review_state": {
         "human_reviewed": false,
@@ -2525,9 +2525,9 @@
         "work": "플라쿠스 반박",
         "reference": "24",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:77798cdc7b667c722afbff75d92d9d37f9a3c84f9d8d033356623d51046ed50f",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-24"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-24"
       }
     },
     {
@@ -2589,7 +2589,7 @@
       ],
       "work_passage_id": "flacc:25",
       "html_path": "works/flacc/index.html#p-25",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-25",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-25",
       "alignment_revision": "sha256:71142e4abf6b3fc4ee49ae43634989f44cae958fa865eeca1d6dbbf35ed9414c",
       "review_state": {
         "human_reviewed": false,
@@ -2625,9 +2625,9 @@
         "work": "플라쿠스 반박",
         "reference": "25",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:cc11cd6986408b77ee97a22b3d3e99dd1541c22a2fb30054c391d2df5829fb06",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-25"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-25"
       }
     },
     {
@@ -2705,7 +2705,7 @@
       ],
       "work_passage_id": "flacc:26",
       "html_path": "works/flacc/index.html#p-26",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-26",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-26",
       "alignment_revision": "sha256:b0473768312b3b5f8a857cb1e273b0fc79c8a8416b5a98e612dc698d0a75dcde",
       "review_state": {
         "human_reviewed": false,
@@ -2741,9 +2741,9 @@
         "work": "플라쿠스 반박",
         "reference": "26",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:e6ca7773edace60a1dad4c8c8790904336c1e381bbfc8aa1f72f5c3052f027ff",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-26"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-26"
       }
     },
     {
@@ -2832,7 +2832,7 @@
       ],
       "work_passage_id": "flacc:27",
       "html_path": "works/flacc/index.html#p-27",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-27",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-27",
       "alignment_revision": "sha256:2266f68894771e13795e5c3535c7f24fb9fbb3af7b2c27108c8d196203a317b8",
       "review_state": {
         "human_reviewed": false,
@@ -2868,9 +2868,9 @@
         "work": "플라쿠스 반박",
         "reference": "27",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:3859b05e8758b83d0584b3960ebe52a80c3fb180d0634c218f31b0baa8cb313a",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-27"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-27"
       }
     },
     {
@@ -2930,7 +2930,7 @@
       "notes": [],
       "work_passage_id": "flacc:28",
       "html_path": "works/flacc/index.html#p-28",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-28",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-28",
       "alignment_revision": "sha256:ff9536a0ea19701fb087ba150c9b9bf176f3c75903883f4b7c6418ba8155c87c",
       "review_state": {
         "human_reviewed": false,
@@ -2966,9 +2966,9 @@
         "work": "플라쿠스 반박",
         "reference": "28",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:25db132af25f71224e5fabc0611f9114ceeca48305709d3696f3e2a4523d467b",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-28"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-28"
       }
     },
     {
@@ -3043,7 +3043,7 @@
       ],
       "work_passage_id": "flacc:29",
       "html_path": "works/flacc/index.html#p-29",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-29",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-29",
       "alignment_revision": "sha256:3797cc11873f235b828ee3aa42ffba69ea923f5abf7ed42bfd9be68421beff88",
       "review_state": {
         "human_reviewed": false,
@@ -3079,9 +3079,9 @@
         "work": "플라쿠스 반박",
         "reference": "29",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:3d3f185761acf45c89d0f4f7535ed9feb45804dba5346687b57fc572fc9fbef5",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-29"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-29"
       }
     },
     {
@@ -3157,7 +3157,7 @@
       "notes": [],
       "work_passage_id": "flacc:30",
       "html_path": "works/flacc/index.html#p-30",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-30",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-30",
       "alignment_revision": "sha256:c37638afb598c0c6bb9f976b97dd52ac3f959b888485e7c4b213db833bd81fb4",
       "review_state": {
         "human_reviewed": false,
@@ -3193,9 +3193,9 @@
         "work": "플라쿠스 반박",
         "reference": "30",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:b036a58ac75ad8ad0a8203f944e20bf681c14eb293e5b8a490dd26140436e8a3",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-30"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-30"
       }
     },
     {
@@ -3255,7 +3255,7 @@
       "notes": [],
       "work_passage_id": "flacc:31",
       "html_path": "works/flacc/index.html#p-31",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-31",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-31",
       "alignment_revision": "sha256:ebae4c5f3a119c87293e5b905660c9fbba0becf54fb18deaaa7be6067a697c53",
       "review_state": {
         "human_reviewed": false,
@@ -3291,9 +3291,9 @@
         "work": "플라쿠스 반박",
         "reference": "31",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:9e9788ed151ce578f3b7dbf92582176f4d31e706b729e7cc791ffc0e928ffa86",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-31"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-31"
       }
     },
     {
@@ -3353,7 +3353,7 @@
       "notes": [],
       "work_passage_id": "flacc:32",
       "html_path": "works/flacc/index.html#p-32",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-32",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-32",
       "alignment_revision": "sha256:a46768dbcb80466d6cbbd1fe3f03f14167aee739ff2b9c98b760b41613c831c7",
       "review_state": {
         "human_reviewed": false,
@@ -3389,9 +3389,9 @@
         "work": "플라쿠스 반박",
         "reference": "32",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:bff5ee8ba490fa991b324033017bf43913e3eb732234785d465050618a203974",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-32"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-32"
       }
     },
     {
@@ -3451,7 +3451,7 @@
       "notes": [],
       "work_passage_id": "flacc:33",
       "html_path": "works/flacc/index.html#p-33",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-33",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-33",
       "alignment_revision": "sha256:8f24dc68c02229cb7d95ffdc3569545c2eb7ea64b48a3eaba5319acfe71be143",
       "review_state": {
         "human_reviewed": false,
@@ -3487,9 +3487,9 @@
         "work": "플라쿠스 반박",
         "reference": "33",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:78f5af19a082ab5872534e083ef04790505adbde17c3167b4ee8805d7b875887",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-33"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-33"
       }
     },
     {
@@ -3551,7 +3551,7 @@
       ],
       "work_passage_id": "flacc:34",
       "html_path": "works/flacc/index.html#p-34",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-34",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-34",
       "alignment_revision": "sha256:a26da8d06310a46b72608d61032d95785fed047191db74202df2a34e7160a9bf",
       "review_state": {
         "human_reviewed": false,
@@ -3587,9 +3587,9 @@
         "work": "플라쿠스 반박",
         "reference": "34",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:e8f0b0b0ba3614cbbb92b2ad95c46106b5096412e8ce481a2c89c70f1ea00e64",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-34"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-34"
       }
     },
     {
@@ -3678,7 +3678,7 @@
       "notes": [],
       "work_passage_id": "flacc:35",
       "html_path": "works/flacc/index.html#p-35",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-35",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-35",
       "alignment_revision": "sha256:0a06d70e6d50b3cc571fdab017eda3e3c0a843820dbfe33dfdc69af2e9f181d5",
       "review_state": {
         "human_reviewed": false,
@@ -3714,9 +3714,9 @@
         "work": "플라쿠스 반박",
         "reference": "35",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:9316dbc1d41ec2998f342b7f43b90710414f06ffd5d5adc9c526a10849623c97",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-35"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-35"
       }
     },
     {
@@ -3778,7 +3778,7 @@
       ],
       "work_passage_id": "flacc:36",
       "html_path": "works/flacc/index.html#p-36",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-36",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-36",
       "alignment_revision": "sha256:e87187000e6bcc35ae73d319c17c462495df5d72863b31e878bea8a130381f43",
       "review_state": {
         "human_reviewed": false,
@@ -3814,9 +3814,9 @@
         "work": "플라쿠스 반박",
         "reference": "36",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:a596c12b4701316c6224e8fcf43ba2578b23c22dc9b9ce811372500ac8202757",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-36"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-36"
       }
     },
     {
@@ -3891,7 +3891,7 @@
       ],
       "work_passage_id": "flacc:37",
       "html_path": "works/flacc/index.html#p-37",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-37",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-37",
       "alignment_revision": "sha256:45bb33f82016eaba87a43d628a33a8552a1d3ac601053581ca34c16d341b0480",
       "review_state": {
         "human_reviewed": false,
@@ -3927,9 +3927,9 @@
         "work": "플라쿠스 반박",
         "reference": "37",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:4e5494b0861719eb608e019fef6a4122760a00ecd8bc44e690c78e9376a8e872",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-37"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-37"
       }
     },
     {
@@ -3989,7 +3989,7 @@
       "notes": [],
       "work_passage_id": "flacc:38",
       "html_path": "works/flacc/index.html#p-38",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-38",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-38",
       "alignment_revision": "sha256:eacdf9af698602018bd0caf436e0d425502e05b0ce850932001abef5dd5c448b",
       "review_state": {
         "human_reviewed": false,
@@ -4025,9 +4025,9 @@
         "work": "플라쿠스 반박",
         "reference": "38",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:9689f4267bea3c58f509dc7bc3c1e4cf58f812b234d035779d4adf2f1931c156",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-38"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-38"
       }
     },
     {
@@ -4102,7 +4102,7 @@
       ],
       "work_passage_id": "flacc:39",
       "html_path": "works/flacc/index.html#p-39",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-39",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-39",
       "alignment_revision": "sha256:c61affd76334a98f6fbd520dc0a583b23239ef3f1a7251acf88006406c9aba24",
       "review_state": {
         "human_reviewed": false,
@@ -4138,9 +4138,9 @@
         "work": "플라쿠스 반박",
         "reference": "39",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:659d36393dfe3a87eb76af31aff24ef9b048c4f606ffbcd9ac903c9d71dbf174",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-39"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-39"
       }
     },
     {
@@ -4215,7 +4215,7 @@
       ],
       "work_passage_id": "flacc:40",
       "html_path": "works/flacc/index.html#p-40",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-40",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-40",
       "alignment_revision": "sha256:0072e8f070b831816e43d7ef910adc0af45da9a7bb7e096582b4da170d8677ae",
       "review_state": {
         "human_reviewed": false,
@@ -4251,9 +4251,9 @@
         "work": "플라쿠스 반박",
         "reference": "40",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:fa25c1a63be10dfd7df2a7d57224c7dbcc32d4f85479d036e9f1dc6874044242",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-40"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-40"
       }
     },
     {
@@ -4345,7 +4345,7 @@
       ],
       "work_passage_id": "flacc:41",
       "html_path": "works/flacc/index.html#p-41",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-41",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-41",
       "alignment_revision": "sha256:46ae7f734b303a40d8b1cb12e567da9c663390e74c2411269da457289f51db1e",
       "review_state": {
         "human_reviewed": false,
@@ -4381,9 +4381,9 @@
         "work": "플라쿠스 반박",
         "reference": "41",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:4a6fb647251cded1de641d8fa7d4bece1a8d009158ef8cc0b1a5c31cb53b212f",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-41"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-41"
       }
     },
     {
@@ -4430,7 +4430,7 @@
       "notes": [],
       "work_passage_id": "flacc:42",
       "html_path": "works/flacc/index.html#p-42",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-42",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-42",
       "alignment_revision": "sha256:229c62906706cf828b580485c226aeb007920c29916af2141e96ec49c1c61278",
       "review_state": {
         "human_reviewed": false,
@@ -4466,9 +4466,9 @@
         "work": "플라쿠스 반박",
         "reference": "42",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:1c9c043224f2e7ded865d953567a34afa209f5643ef83609e0ce097416114ff4",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-42"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-42"
       }
     },
     {
@@ -4556,7 +4556,7 @@
       ],
       "work_passage_id": "flacc:43",
       "html_path": "works/flacc/index.html#p-43",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-43",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-43",
       "alignment_revision": "sha256:b4bd6584286eddb33318419f3d2fd20406d87f9158d28ce31b4bec3b9fa6fb38",
       "review_state": {
         "human_reviewed": false,
@@ -4592,9 +4592,9 @@
         "work": "플라쿠스 반박",
         "reference": "43",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:7c6c00563cbce6019723ce12c457541a4b761892522b09b70466c3381eaceeb3",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-43"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-43"
       }
     },
     {
@@ -4654,7 +4654,7 @@
       "notes": [],
       "work_passage_id": "flacc:44",
       "html_path": "works/flacc/index.html#p-44",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-44",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-44",
       "alignment_revision": "sha256:eda7a282409c64635447861913e7e1d34722867c7bb1f9f54c27702f1a3efc0f",
       "review_state": {
         "human_reviewed": false,
@@ -4690,9 +4690,9 @@
         "work": "플라쿠스 반박",
         "reference": "44",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:170aad7fd9759817f97036ffc85fcc07ffc365d41053984242270f05828ac218",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-44"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-44"
       }
     },
     {
@@ -4780,7 +4780,7 @@
       ],
       "work_passage_id": "flacc:45",
       "html_path": "works/flacc/index.html#p-45",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-45",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-45",
       "alignment_revision": "sha256:eeab8c766d5ca1e37557492a6edf7d9130fad057942a939927d0c8e90885d5b2",
       "review_state": {
         "human_reviewed": false,
@@ -4816,9 +4816,9 @@
         "work": "플라쿠스 반박",
         "reference": "45",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:d1fc4b29b177a6f59223c91d93d136c3b42a7afe2c733d2423c2d369fdc6d805",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-45"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-45"
       }
     },
     {
@@ -4896,7 +4896,7 @@
       ],
       "work_passage_id": "flacc:46",
       "html_path": "works/flacc/index.html#p-46",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-46",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-46",
       "alignment_revision": "sha256:953e0c21cfad76bcbaf6c3ff3310530d555e4586586affc8925d91c67a5089e4",
       "review_state": {
         "human_reviewed": false,
@@ -4932,9 +4932,9 @@
         "work": "플라쿠스 반박",
         "reference": "46",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:a9ab722f20fc7ba78fa8ecba212f2d6005d5fd105fcfa88f64d6fd178fe707da",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-46"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-46"
       }
     },
     {
@@ -4981,7 +4981,7 @@
       "notes": [],
       "work_passage_id": "flacc:47",
       "html_path": "works/flacc/index.html#p-47",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-47",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-47",
       "alignment_revision": "sha256:1ab13d5f34b4f246f74ec07650407d2e7ab1d2353818ce55781769152cdaac92",
       "review_state": {
         "human_reviewed": false,
@@ -5017,9 +5017,9 @@
         "work": "플라쿠스 반박",
         "reference": "47",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:7d13ddec230c0cb01f63d087855a0b18b4a7c60cd532ecae72675b2f4dd9e8c7",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-47"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-47"
       }
     },
     {
@@ -5092,7 +5092,7 @@
       "notes": [],
       "work_passage_id": "flacc:48",
       "html_path": "works/flacc/index.html#p-48",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-48",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-48",
       "alignment_revision": "sha256:160b3e66b9df2e0ca5f8fcb7acc4ac6716f97f9d5621c90c3c1ac41acd4c8e7f",
       "review_state": {
         "human_reviewed": false,
@@ -5128,9 +5128,9 @@
         "work": "플라쿠스 반박",
         "reference": "48",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:7e2786c9e2811ab5578b2b36605f95d27dbad4c249a9e843cf42ab86a27d9e9f",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-48"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-48"
       }
     },
     {
@@ -5190,7 +5190,7 @@
       "notes": [],
       "work_passage_id": "flacc:49",
       "html_path": "works/flacc/index.html#p-49",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-49",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-49",
       "alignment_revision": "sha256:1329d605eb5d8c3099172d143b486fb9aaa3c57bcf51ac91a9cb2ffe5db2daaf",
       "review_state": {
         "human_reviewed": false,
@@ -5226,9 +5226,9 @@
         "work": "플라쿠스 반박",
         "reference": "49",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:ef4bbf8f9ec61473b8a2d61bea430a6f39d95683f5183c71d12cafb862163d44",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-49"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-49"
       }
     },
     {
@@ -5303,7 +5303,7 @@
       ],
       "work_passage_id": "flacc:50",
       "html_path": "works/flacc/index.html#p-50",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-50",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-50",
       "alignment_revision": "sha256:839d5bddb25795e0aa81ed8833671fad70c669bb012b18a1d4767d2eea638e0c",
       "review_state": {
         "human_reviewed": false,
@@ -5339,9 +5339,9 @@
         "work": "플라쿠스 반박",
         "reference": "50",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:1fb299e95ce1dd9f9f3b69e7e57c4066161541b306ca1722da19ef0c95cbc766",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-50"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-50"
       }
     },
     {
@@ -5414,7 +5414,7 @@
       "notes": [],
       "work_passage_id": "flacc:51",
       "html_path": "works/flacc/index.html#p-51",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-51",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-51",
       "alignment_revision": "sha256:74caa74fdb0907cc9278764cdce61fb01bf79b961168082e52f555610b436c7e",
       "review_state": {
         "human_reviewed": false,
@@ -5450,9 +5450,9 @@
         "work": "플라쿠스 반박",
         "reference": "51",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:7b8813b7c27d9b163a1dbe6d80064c7ceb5f46e431546865bc7a1b70be21ca0e",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-51"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-51"
       }
     },
     {
@@ -5515,7 +5515,7 @@
       "notes": [],
       "work_passage_id": "flacc:52",
       "html_path": "works/flacc/index.html#p-52",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-52",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-52",
       "alignment_revision": "sha256:656f4f6b9b470f61e61c3bb816f50fa9e8c9e86c477f9c02172098ca479391e1",
       "review_state": {
         "human_reviewed": false,
@@ -5551,9 +5551,9 @@
         "work": "플라쿠스 반박",
         "reference": "52",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:5911bdd4f97e7797d10290259e5c262a2cd26571e05043fb2e2c5e44ced0ff7b",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-52"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-52"
       }
     },
     {
@@ -5626,7 +5626,7 @@
       "notes": [],
       "work_passage_id": "flacc:53",
       "html_path": "works/flacc/index.html#p-53",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-53",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-53",
       "alignment_revision": "sha256:82b852cb070d5be3b306dc6a3be8d4ac9e964f9cd7e4b22d1f7bb19cfda9fd01",
       "review_state": {
         "human_reviewed": false,
@@ -5662,9 +5662,9 @@
         "work": "플라쿠스 반박",
         "reference": "53",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:b2369b464541ddb0e5ba01bd3dd7a65eecf43840c0180ddf6d65f594cb5556c9",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-53"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-53"
       }
     },
     {
@@ -5752,7 +5752,7 @@
       ],
       "work_passage_id": "flacc:54",
       "html_path": "works/flacc/index.html#p-54",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-54",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-54",
       "alignment_revision": "sha256:db4e915e487867fa0d61a454992365c46e1523f6a623489e69db47f7b42c95f0",
       "review_state": {
         "human_reviewed": false,
@@ -5788,9 +5788,9 @@
         "work": "플라쿠스 반박",
         "reference": "54",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:63ba89fc3100fd63acf302cb0a1da4a2184d832afe2b0fa6b6007473cf786f83",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-54"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-54"
       }
     },
     {
@@ -5865,7 +5865,7 @@
       ],
       "work_passage_id": "flacc:55",
       "html_path": "works/flacc/index.html#p-55",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-55",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-55",
       "alignment_revision": "sha256:2f68bdd5dbeaa3ec2fd403d31d9cf192031900bf45d150700e3e6d8bb9a50002",
       "review_state": {
         "human_reviewed": false,
@@ -5901,9 +5901,9 @@
         "work": "플라쿠스 반박",
         "reference": "55",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:c465b4b7969ff9138d933c4c98c4ad75701386b4150f346a261a2c01311fd88a",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-55"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-55"
       }
     },
     {
@@ -5979,7 +5979,7 @@
       ],
       "work_passage_id": "flacc:56",
       "html_path": "works/flacc/index.html#p-56",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-56",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-56",
       "alignment_revision": "sha256:2c7101ca08ef5f08491d16f35ab322e2662d704aa53dfdafe304180c2a66ff58",
       "review_state": {
         "human_reviewed": false,
@@ -6015,9 +6015,9 @@
         "work": "플라쿠스 반박",
         "reference": "56",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:45b7a20e551712090cc04f2248c13d3cf7bb7457b36019dfb05c6791c7ffef9d",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-56"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-56"
       }
     },
     {
@@ -6082,7 +6082,7 @@
       ],
       "work_passage_id": "flacc:57",
       "html_path": "works/flacc/index.html#p-57",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-57",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-57",
       "alignment_revision": "sha256:3742acbd85f524e9d69a225cd6293d95dc20fc133e3218ead4256919aa146de5",
       "review_state": {
         "human_reviewed": false,
@@ -6118,9 +6118,9 @@
         "work": "플라쿠스 반박",
         "reference": "57",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:d3c91fec3ec8b8fd12cbf3aec71468fd993fd75a81acf5d8a4945a7c9e928387",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-57"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-57"
       }
     },
     {
@@ -6180,7 +6180,7 @@
       "notes": [],
       "work_passage_id": "flacc:58",
       "html_path": "works/flacc/index.html#p-58",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-58",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-58",
       "alignment_revision": "sha256:40c761b2fb62fe7541c9216febc25c343af8a8995473a46a2116cdc06a12c3d1",
       "review_state": {
         "human_reviewed": false,
@@ -6216,9 +6216,9 @@
         "work": "플라쿠스 반박",
         "reference": "58",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:3cf18efdaafc358e5773c88356d372336780b6104937eae004b7163de92b2f69",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-58"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-58"
       }
     },
     {
@@ -6291,7 +6291,7 @@
       "notes": [],
       "work_passage_id": "flacc:59",
       "html_path": "works/flacc/index.html#p-59",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-59",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-59",
       "alignment_revision": "sha256:88104e5df6cb69816562d596e8774fd0c6da11ae69e50f1f0db081ac7adfa813",
       "review_state": {
         "human_reviewed": false,
@@ -6327,9 +6327,9 @@
         "work": "플라쿠스 반박",
         "reference": "59",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:e7aaf03c5728c5f42f598d7f29e088cf0b8a694ce4faf75c3e5c9cb0581c1fae",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-59"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-59"
       }
     },
     {
@@ -6402,7 +6402,7 @@
       "notes": [],
       "work_passage_id": "flacc:60",
       "html_path": "works/flacc/index.html#p-60",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-60",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-60",
       "alignment_revision": "sha256:43c7af113b0951b932bf2d951b57d511a07a25c25670beadf60f33c201cdb531",
       "review_state": {
         "human_reviewed": false,
@@ -6438,9 +6438,9 @@
         "work": "플라쿠스 반박",
         "reference": "60",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:a9058b4f5210b4368e0eed29ce38d5c231669cc919839a5571f8a3c908bb5178",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-60"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-60"
       }
     },
     {
@@ -6500,7 +6500,7 @@
       "notes": [],
       "work_passage_id": "flacc:61",
       "html_path": "works/flacc/index.html#p-61",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-61",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-61",
       "alignment_revision": "sha256:ea4f759d4e44c9a913ec37978676e668a4f8036de65e1ff709eacafe73205ac8",
       "review_state": {
         "human_reviewed": false,
@@ -6536,9 +6536,9 @@
         "work": "플라쿠스 반박",
         "reference": "61",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:e0e2c76fcd93fa147b7e27c23a2ef6b1d2dd9589230233283e5ce30ee13d04d0",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-61"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-61"
       }
     },
     {
@@ -6611,7 +6611,7 @@
       "notes": [],
       "work_passage_id": "flacc:62",
       "html_path": "works/flacc/index.html#p-62",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-62",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-62",
       "alignment_revision": "sha256:c889e2341721d107a94713ddb7d6e2a6e48694224be9587d69768d19d99c41a3",
       "review_state": {
         "human_reviewed": false,
@@ -6647,9 +6647,9 @@
         "work": "플라쿠스 반박",
         "reference": "62",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:e16ebdd0231fee5ae7cfac16a95bf198b1e3653350132f484c078175f9f3e849",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-62"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-62"
       }
     },
     {
@@ -6712,7 +6712,7 @@
       "notes": [],
       "work_passage_id": "flacc:63",
       "html_path": "works/flacc/index.html#p-63",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-63",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-63",
       "alignment_revision": "sha256:f36007f8e8035ce146df19aab6c745d870e811701bca15cb5e135c75ce93fdb8",
       "review_state": {
         "human_reviewed": false,
@@ -6748,9 +6748,9 @@
         "work": "플라쿠스 반박",
         "reference": "63",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:59efd3f8b38ff47b503f0a645343bed4d9714df08c185ac789e413303e9522f3",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-63"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-63"
       }
     },
     {
@@ -6810,7 +6810,7 @@
       "notes": [],
       "work_passage_id": "flacc:64",
       "html_path": "works/flacc/index.html#p-64",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-64",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-64",
       "alignment_revision": "sha256:c79d4c1beba47b7a8c35ef101fed65e5d673c2e3041c4595a17f8009b6f4326d",
       "review_state": {
         "human_reviewed": false,
@@ -6846,9 +6846,9 @@
         "work": "플라쿠스 반박",
         "reference": "64",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:51f32dc871c766615c465b7e65637fb27087ba944b742713e60417e80ac168cc",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-64"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-64"
       }
     },
     {
@@ -6908,7 +6908,7 @@
       "notes": [],
       "work_passage_id": "flacc:65",
       "html_path": "works/flacc/index.html#p-65",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-65",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-65",
       "alignment_revision": "sha256:84b48d93c89dcb47a7cf1f97e98d86f8f438050dbfd922b7f88b1f9961a7b8d1",
       "review_state": {
         "human_reviewed": false,
@@ -6944,9 +6944,9 @@
         "work": "플라쿠스 반박",
         "reference": "65",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:7919c6cc9238373e0fcc43e5d56dbed9666a670562f16efb46c85995bd893ead",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-65"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-65"
       }
     },
     {
@@ -7019,7 +7019,7 @@
       "notes": [],
       "work_passage_id": "flacc:66",
       "html_path": "works/flacc/index.html#p-66",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-66",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-66",
       "alignment_revision": "sha256:e6dfa4a6ed84613ae6eb3f9c0fc07a0a4ce1236a86492351173498a3bc413a16",
       "review_state": {
         "human_reviewed": false,
@@ -7055,9 +7055,9 @@
         "work": "플라쿠스 반박",
         "reference": "66",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:a6c5094a25cc8171f7e901fffb4dd7e737b8ed41f4886b834a8601d4cc2f56b2",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-66"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-66"
       }
     },
     {
@@ -7117,7 +7117,7 @@
       "notes": [],
       "work_passage_id": "flacc:67",
       "html_path": "works/flacc/index.html#p-67",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-67",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-67",
       "alignment_revision": "sha256:ff65ce453ad9bffd71309167449b00379159efc963cdec7f65cf5fdb5c125136",
       "review_state": {
         "human_reviewed": false,
@@ -7153,9 +7153,9 @@
         "work": "플라쿠스 반박",
         "reference": "67",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:2bbaf3ab298a806e475adb876b9bb5df9b32f87bd1fc75f6be44dc1ac76e5570",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-67"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-67"
       }
     },
     {
@@ -7215,7 +7215,7 @@
       "notes": [],
       "work_passage_id": "flacc:68",
       "html_path": "works/flacc/index.html#p-68",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-68",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-68",
       "alignment_revision": "sha256:972b845a11b2016075a15d3555eabe7b4e0dfa2bfd8bb872532ae91fd7991e79",
       "review_state": {
         "human_reviewed": false,
@@ -7251,9 +7251,9 @@
         "work": "플라쿠스 반박",
         "reference": "68",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:403fac667e651e76f5040836576e3129626896d8a06e40a90b95ce95ff4a26cc",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-68"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-68"
       }
     },
     {
@@ -7313,7 +7313,7 @@
       "notes": [],
       "work_passage_id": "flacc:69",
       "html_path": "works/flacc/index.html#p-69",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-69",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-69",
       "alignment_revision": "sha256:fc32e302d6e19b10fc05460c0b249a78fb753b3aa832891bdf29733a3c94f96b",
       "review_state": {
         "human_reviewed": false,
@@ -7349,9 +7349,9 @@
         "work": "플라쿠스 반박",
         "reference": "69",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:d27076c5fa64be83659ca7417a7a5db4bf44b12b04e7c93b020a595218b5b18a",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-69"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-69"
       }
     },
     {
@@ -7401,7 +7401,7 @@
       "notes": [],
       "work_passage_id": "flacc:70",
       "html_path": "works/flacc/index.html#p-70",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-70",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-70",
       "alignment_revision": "sha256:d48445422dfe7859143b8664152fc2b1a2d3616f7847309391c439037106eb86",
       "review_state": {
         "human_reviewed": false,
@@ -7437,9 +7437,9 @@
         "work": "플라쿠스 반박",
         "reference": "70",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:37a34d41000773ba875e52f197d10914662939acc2c64f4e210d48613c2ca2f3",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-70"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-70"
       }
     },
     {
@@ -7499,7 +7499,7 @@
       "notes": [],
       "work_passage_id": "flacc:71",
       "html_path": "works/flacc/index.html#p-71",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-71",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-71",
       "alignment_revision": "sha256:3c6cc7296c69a21bee2dbe89d7e82f08391eb054a0bdd224088fa40b796283eb",
       "review_state": {
         "human_reviewed": false,
@@ -7535,9 +7535,9 @@
         "work": "플라쿠스 반박",
         "reference": "71",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:983693d61419a136dbde694293278a857590640c6cc558f7c549e67aced48477",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-71"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-71"
       }
     },
     {
@@ -7612,7 +7612,7 @@
       ],
       "work_passage_id": "flacc:72",
       "html_path": "works/flacc/index.html#p-72",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-72",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-72",
       "alignment_revision": "sha256:37e4fcab07e6bf9bb791a464028352b01c9164181c616635581e81b9cf5c3f93",
       "review_state": {
         "human_reviewed": false,
@@ -7648,9 +7648,9 @@
         "work": "플라쿠스 반박",
         "reference": "72",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:27c87aef9e59c58ed167191545bf44cfd248146994cba5647ed78217304831f6",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-72"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-72"
       }
     },
     {
@@ -7710,7 +7710,7 @@
       "notes": [],
       "work_passage_id": "flacc:73",
       "html_path": "works/flacc/index.html#p-73",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-73",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-73",
       "alignment_revision": "sha256:a1cb63f6ce746ef567a5b61e82cf96ef4286499bfceb12d4a4ff3cadc181e498",
       "review_state": {
         "human_reviewed": false,
@@ -7746,9 +7746,9 @@
         "work": "플라쿠스 반박",
         "reference": "73",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:46fa1a62ba4f9a007b308417fcc52903c58df972d974ff9e01ec255b8317c30d",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-73"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-73"
       }
     },
     {
@@ -7825,7 +7825,7 @@
       ],
       "work_passage_id": "flacc:74",
       "html_path": "works/flacc/index.html#p-74",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-74",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-74",
       "alignment_revision": "sha256:a8fbdef5fd25c43a8f3d31c0fd7bc04ab61d8c2c9019ec95107cc345b004ade4",
       "review_state": {
         "human_reviewed": false,
@@ -7861,9 +7861,9 @@
         "work": "플라쿠스 반박",
         "reference": "74",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:f8004a219133d8125ac5c5d47b16a3c1a25ff5446875499b14249c089a3ce4d6",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-74"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-74"
       }
     },
     {
@@ -7926,7 +7926,7 @@
       "notes": [],
       "work_passage_id": "flacc:75",
       "html_path": "works/flacc/index.html#p-75",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-75",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-75",
       "alignment_revision": "sha256:c7d16bc8725f18c538949d842e699892e20c3b17880b3b162f3e06b42d8dfb0c",
       "review_state": {
         "human_reviewed": false,
@@ -7962,9 +7962,9 @@
         "work": "플라쿠스 반박",
         "reference": "75",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:18ca84ac00e818ca4deee9a5dd29a85740c2d3b02c56d239c93060efd3cda6e0",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-75"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-75"
       }
     },
     {
@@ -8039,7 +8039,7 @@
       ],
       "work_passage_id": "flacc:76",
       "html_path": "works/flacc/index.html#p-76",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-76",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-76",
       "alignment_revision": "sha256:acbd5c54d1c002d58df2913113caa0985009c317b28c1b0a15513c9f789e3821",
       "review_state": {
         "human_reviewed": false,
@@ -8075,9 +8075,9 @@
         "work": "플라쿠스 반박",
         "reference": "76",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:5d4e22406e3e6f4a4443c960513b82ad410f986c8ebf518e0a0efed714ddd218",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-76"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-76"
       }
     },
     {
@@ -8139,7 +8139,7 @@
       ],
       "work_passage_id": "flacc:77",
       "html_path": "works/flacc/index.html#p-77",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-77",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-77",
       "alignment_revision": "sha256:5355c929818f1a8dbf44e0ba581e3c716a5d4c6b2b78364c0436427f1e67ae98",
       "review_state": {
         "human_reviewed": false,
@@ -8175,9 +8175,9 @@
         "work": "플라쿠스 반박",
         "reference": "77",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:6b99b857c13f6a4cf0d9989d589878db84a3b4fac04101b8b976163e3a4ed120",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-77"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-77"
       }
     },
     {
@@ -8239,7 +8239,7 @@
       ],
       "work_passage_id": "flacc:78",
       "html_path": "works/flacc/index.html#p-78",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-78",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-78",
       "alignment_revision": "sha256:f49dfb771e7d459e91e64d41caa32b69c9d523d629bf123b5e2d8d33e47c7cb9",
       "review_state": {
         "human_reviewed": false,
@@ -8275,9 +8275,9 @@
         "work": "플라쿠스 반박",
         "reference": "78",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:b42c2c7c6f4d41b9dada9324d831fe11c5f886c64158c18f0d7f2ace7b360af5",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-78"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-78"
       }
     },
     {
@@ -8350,7 +8350,7 @@
       "notes": [],
       "work_passage_id": "flacc:79",
       "html_path": "works/flacc/index.html#p-79",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-79",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-79",
       "alignment_revision": "sha256:47b42c0a8d8976eb78af6066fbf03477dd1cc959903baff514dd985cd888adda",
       "review_state": {
         "human_reviewed": false,
@@ -8386,9 +8386,9 @@
         "work": "플라쿠스 반박",
         "reference": "79",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:055e924c3ea640d7674cdcf3ed9d10835595a1ca2ebe0bd27d9460f9fc775f2d",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-79"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-79"
       }
     },
     {
@@ -8450,7 +8450,7 @@
       ],
       "work_passage_id": "flacc:80",
       "html_path": "works/flacc/index.html#p-80",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-80",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-80",
       "alignment_revision": "sha256:e880b05a7be2b9976b198150694344bf7a2932b9666b8c63858219b97386d128",
       "review_state": {
         "human_reviewed": false,
@@ -8486,9 +8486,9 @@
         "work": "플라쿠스 반박",
         "reference": "80",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:fa07e08a63ff49cb9b693ae5196933f7bec21e65ee9c088e2b7abc6efe81e5c9",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-80"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-80"
       }
     },
     {
@@ -8553,7 +8553,7 @@
       ],
       "work_passage_id": "flacc:81",
       "html_path": "works/flacc/index.html#p-81",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-81",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-81",
       "alignment_revision": "sha256:19535d850255fce32c25c474cc831b71bb9ed29b32e73a17a1acdedd10358be5",
       "review_state": {
         "human_reviewed": false,
@@ -8589,9 +8589,9 @@
         "work": "플라쿠스 반박",
         "reference": "81",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:cde5c0d69785b56583e7e0d67bd4bd003be343892df593c6a0c1327d13c5aaa5",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-81"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-81"
       }
     },
     {
@@ -8651,7 +8651,7 @@
       "notes": [],
       "work_passage_id": "flacc:82",
       "html_path": "works/flacc/index.html#p-82",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-82",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-82",
       "alignment_revision": "sha256:982f40fadab149f85f9061d5b2b1df701d7b526ec93300bf65207222c65e1eff",
       "review_state": {
         "human_reviewed": false,
@@ -8687,9 +8687,9 @@
         "work": "플라쿠스 반박",
         "reference": "82",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:af8ac4c9bbbb5221795910eae8990bfacea3a02f49d2d04b0bea21351e9fd4bb",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-82"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-82"
       }
     },
     {
@@ -8749,7 +8749,7 @@
       "notes": [],
       "work_passage_id": "flacc:83",
       "html_path": "works/flacc/index.html#p-83",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-83",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-83",
       "alignment_revision": "sha256:59951a2689a54128182f80d177e4868eeeb9ab75cff34dbf5a479bf794a30f3c",
       "review_state": {
         "human_reviewed": false,
@@ -8785,9 +8785,9 @@
         "work": "플라쿠스 반박",
         "reference": "83",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:2ba2fba5124bcacb6cf7ebc90f51bff89845c897db61e8b8cb2ffc49cca8fb19",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-83"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-83"
       }
     },
     {
@@ -8847,7 +8847,7 @@
       "notes": [],
       "work_passage_id": "flacc:84",
       "html_path": "works/flacc/index.html#p-84",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-84",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-84",
       "alignment_revision": "sha256:c86cf02f8d802a59100017ffb3f62ec45333363d4d86aa0e8c4b76959bc275a9",
       "review_state": {
         "human_reviewed": false,
@@ -8883,9 +8883,9 @@
         "work": "플라쿠스 반박",
         "reference": "84",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:9f5638d4b38d19b634e2bcef2337e5cbd221ae91f92aa4d375b15dd2d272bde1",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-84"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-84"
       }
     },
     {
@@ -8960,7 +8960,7 @@
       ],
       "work_passage_id": "flacc:85",
       "html_path": "works/flacc/index.html#p-85",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-85",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-85",
       "alignment_revision": "sha256:fd477988be4d8ec3abb646b5e9d02ecff991905b52348a324057d72abbae912c",
       "review_state": {
         "human_reviewed": false,
@@ -8996,9 +8996,9 @@
         "work": "플라쿠스 반박",
         "reference": "85",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:fe9b2aa25bfb6c7c18b223208a0f6d4da5e72c01807098c815ef1426805b2f53",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-85"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-85"
       }
     },
     {
@@ -9087,7 +9087,7 @@
       "notes": [],
       "work_passage_id": "flacc:86",
       "html_path": "works/flacc/index.html#p-86",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-86",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-86",
       "alignment_revision": "sha256:47f2481d77a0eca289b0f6ff8b069e68c34231ad0dee02bd825ab6830cd139c0",
       "review_state": {
         "human_reviewed": false,
@@ -9123,9 +9123,9 @@
         "work": "플라쿠스 반박",
         "reference": "86",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:1800c0d1bbc41f07f65856e0f3e43b2c98da4022d2a488204f13e5ab613697d5",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-86"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-86"
       }
     },
     {
@@ -9185,7 +9185,7 @@
       "notes": [],
       "work_passage_id": "flacc:87",
       "html_path": "works/flacc/index.html#p-87",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-87",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-87",
       "alignment_revision": "sha256:d40e281c406cbda365e78eb462ccbacbe31a038ab82db4c78c43735ea09c37e8",
       "review_state": {
         "human_reviewed": false,
@@ -9221,9 +9221,9 @@
         "work": "플라쿠스 반박",
         "reference": "87",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:b63e26a4418e3ea799ca375c5392feec8a069434c6d661f4c3282e237572e422",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-87"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-87"
       }
     },
     {
@@ -9283,7 +9283,7 @@
       "notes": [],
       "work_passage_id": "flacc:88",
       "html_path": "works/flacc/index.html#p-88",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-88",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-88",
       "alignment_revision": "sha256:bad4e35b33494ca75ff3be413a74aae7e01f2af7c03e2b417c2a165082727a36",
       "review_state": {
         "human_reviewed": false,
@@ -9319,9 +9319,9 @@
         "work": "플라쿠스 반박",
         "reference": "88",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:890ddebebee582211708f0fbb54842e084abe8c93f55dad8ab2bdd1f7b657de5",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-88"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-88"
       }
     },
     {
@@ -9394,7 +9394,7 @@
       "notes": [],
       "work_passage_id": "flacc:89",
       "html_path": "works/flacc/index.html#p-89",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-89",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-89",
       "alignment_revision": "sha256:ceb2754ea7e205eee89bd74134bb84b4f8570a0fda6d69305a87d7773114f5a7",
       "review_state": {
         "human_reviewed": false,
@@ -9430,9 +9430,9 @@
         "work": "플라쿠스 반박",
         "reference": "89",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:48ba45565cf42895d9aa5cc113b3925180cd033dfcd7359fbfdfe523fa7ebb6f",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-89"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-89"
       }
     },
     {
@@ -9505,7 +9505,7 @@
       "notes": [],
       "work_passage_id": "flacc:90",
       "html_path": "works/flacc/index.html#p-90",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-90",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-90",
       "alignment_revision": "sha256:2984bd2a16e12ae860f49e8ffc041fae286ed80a740ff2e9390d9663a42d8d95",
       "review_state": {
         "human_reviewed": false,
@@ -9541,9 +9541,9 @@
         "work": "플라쿠스 반박",
         "reference": "90",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:8ef1d532fd13054ee5d181cc6eaeb9e55f77b85a54d601ee2bfe6f5821c74220",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-90"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-90"
       }
     },
     {
@@ -9592,7 +9592,7 @@
       ],
       "work_passage_id": "flacc:91",
       "html_path": "works/flacc/index.html#p-91",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-91",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-91",
       "alignment_revision": "sha256:c96f945b5c5654abf66452e4bca8d684b2ff2b3d13332ac1a07fac5fe0a38faa",
       "review_state": {
         "human_reviewed": false,
@@ -9628,9 +9628,9 @@
         "work": "플라쿠스 반박",
         "reference": "91",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:12f15b0e981a940803ad2e3f0eb02437760158d7f51b2973147259d8ca509787",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-91"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-91"
       }
     },
     {
@@ -9735,7 +9735,7 @@
       ],
       "work_passage_id": "flacc:92",
       "html_path": "works/flacc/index.html#p-92",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-92",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-92",
       "alignment_revision": "sha256:35de9b3d62d01e135b86cd98c8f23e3e33480a058062e72f4845972de910049d",
       "review_state": {
         "human_reviewed": false,
@@ -9771,9 +9771,9 @@
         "work": "플라쿠스 반박",
         "reference": "92",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:afb976f48810bd368125d4661d9b34af3d674a90c96f9205f3fd01ea25824c77",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-92"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-92"
       }
     },
     {
@@ -9833,7 +9833,7 @@
       "notes": [],
       "work_passage_id": "flacc:93",
       "html_path": "works/flacc/index.html#p-93",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-93",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-93",
       "alignment_revision": "sha256:0cbe9302fc160a7c7e014f5dabe9226c12ff60e7d82b7490107173e58c2c12f4",
       "review_state": {
         "human_reviewed": false,
@@ -9869,9 +9869,9 @@
         "work": "플라쿠스 반박",
         "reference": "93",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:a035af4524d21f74e18316497ed41695e6c6a4bb40e4433937935f6594772542",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-93"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-93"
       }
     },
     {
@@ -9960,7 +9960,7 @@
       ],
       "work_passage_id": "flacc:94",
       "html_path": "works/flacc/index.html#p-94",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-94",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-94",
       "alignment_revision": "sha256:70006f2c164c3b8d15c7d68ad5b4fe0e662d5c63056b0eaf626c84027cb37215",
       "review_state": {
         "human_reviewed": false,
@@ -9996,9 +9996,9 @@
         "work": "플라쿠스 반박",
         "reference": "94",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:713b1606f732352be9f9facf27300456e10767674ee5bae1bd683be24faa6cf6",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-94"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-94"
       }
     },
     {
@@ -10058,7 +10058,7 @@
       "notes": [],
       "work_passage_id": "flacc:95",
       "html_path": "works/flacc/index.html#p-95",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-95",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-95",
       "alignment_revision": "sha256:1ffa1122005f923696b8754d06f28eaa613deb2b88b0b03f911a152bbbb39178",
       "review_state": {
         "human_reviewed": false,
@@ -10094,9 +10094,9 @@
         "work": "플라쿠스 반박",
         "reference": "95",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:29913f37caf34f41298cce4e47e949a456b691a5e5a1ec20375c655caf9e39f9",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-95"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-95"
       }
     },
     {
@@ -10187,7 +10187,7 @@
       ],
       "work_passage_id": "flacc:96",
       "html_path": "works/flacc/index.html#p-96",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-96",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-96",
       "alignment_revision": "sha256:80a8cdd73a475f391b0ea14cea905aa783690cbfa2b0dbe50c8b5cf47d0c1fd1",
       "review_state": {
         "human_reviewed": false,
@@ -10223,9 +10223,9 @@
         "work": "플라쿠스 반박",
         "reference": "96",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:4067b87e2a821d0cda8f839d9126582479e0642a34986dbb55e0aaa5311f429a",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-96"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-96"
       }
     },
     {
@@ -10285,7 +10285,7 @@
       "notes": [],
       "work_passage_id": "flacc:97",
       "html_path": "works/flacc/index.html#p-97",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-97",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-97",
       "alignment_revision": "sha256:622e8ab2aadb7152ca289654b71bc283d42b46e848a55511f7122bdd31f3166e",
       "review_state": {
         "human_reviewed": false,
@@ -10321,9 +10321,9 @@
         "work": "플라쿠스 반박",
         "reference": "97",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:5006b9cf38886ec1282f68da82eadd458f720e5ed26897340bbfa9f5f1c401ac",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-97"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-97"
       }
     },
     {
@@ -10383,7 +10383,7 @@
       "notes": [],
       "work_passage_id": "flacc:98",
       "html_path": "works/flacc/index.html#p-98",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-98",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-98",
       "alignment_revision": "sha256:32d15e902f810372444f2ec7cd7b13f2ff8a52ee6318bf8d4d1fe2994c7581d6",
       "review_state": {
         "human_reviewed": false,
@@ -10419,9 +10419,9 @@
         "work": "플라쿠스 반박",
         "reference": "98",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:0571e65498d7d8b2b4c668c3a0afd8c0d23729191ddf19f5cf7d3efd3c8561a8",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-98"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-98"
       }
     },
     {
@@ -10481,7 +10481,7 @@
       "notes": [],
       "work_passage_id": "flacc:99",
       "html_path": "works/flacc/index.html#p-99",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-99",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-99",
       "alignment_revision": "sha256:068c5c876da93db7e3dc8b33a478c4945301375e7bb4c234f8becc61c0bbf8ca",
       "review_state": {
         "human_reviewed": false,
@@ -10517,9 +10517,9 @@
         "work": "플라쿠스 반박",
         "reference": "99",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:d64761f21191b80a791bfc95b53a0bd3ac9f80ef2d65dd9f1d66f1a4bb49e339",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-99"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-99"
       }
     },
     {
@@ -10579,7 +10579,7 @@
       "notes": [],
       "work_passage_id": "flacc:100",
       "html_path": "works/flacc/index.html#p-100",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-100",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-100",
       "alignment_revision": "sha256:4934c956bbab3e9e425404968620ce8b2496c71985cf8c8d5f2d7ff2605957ce",
       "review_state": {
         "human_reviewed": false,
@@ -10615,9 +10615,9 @@
         "work": "플라쿠스 반박",
         "reference": "100",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:3fdb3cc110ec87397ac2967167b7e1eaf69fe3e3fbeb566cef3270f4fe3e640d",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-100"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-100"
       }
     },
     {
@@ -10669,7 +10669,7 @@
       ],
       "work_passage_id": "flacc:101",
       "html_path": "works/flacc/index.html#p-101",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-101",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-101",
       "alignment_revision": "sha256:5349dd3040d0596959f374d116ff3ad6f492fdc844dcc5db004c2d26acbd8bfe",
       "review_state": {
         "human_reviewed": false,
@@ -10705,9 +10705,9 @@
         "work": "플라쿠스 반박",
         "reference": "101",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:5b7823a313584bc29f340db6d53cccfd4299a56dcbd5934d68bb3b3f703af5db",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-101"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-101"
       }
     },
     {
@@ -10767,7 +10767,7 @@
       "notes": [],
       "work_passage_id": "flacc:102",
       "html_path": "works/flacc/index.html#p-102",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-102",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-102",
       "alignment_revision": "sha256:c8f868b843306ae2231b6e633d57fe4aaf5ef06784228136888d577d8f81eb5f",
       "review_state": {
         "human_reviewed": false,
@@ -10803,9 +10803,9 @@
         "work": "플라쿠스 반박",
         "reference": "102",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:c987b17bb849de0b6812b612820cb40b075f98a627a942a7c95ee056a3ec9dd1",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-102"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-102"
       }
     },
     {
@@ -10878,7 +10878,7 @@
       "notes": [],
       "work_passage_id": "flacc:103",
       "html_path": "works/flacc/index.html#p-103",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-103",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-103",
       "alignment_revision": "sha256:67ad2b1935ab795622992663596bcad4670a16220b5cc0621366d89ff654c1e6",
       "review_state": {
         "human_reviewed": false,
@@ -10914,9 +10914,9 @@
         "work": "플라쿠스 반박",
         "reference": "103",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:2988dc722de46ea10ec07ca66c9dbe97e0d35173fe00539900608c8827cd5bc7",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-103"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-103"
       }
     },
     {
@@ -10978,7 +10978,7 @@
       ],
       "work_passage_id": "flacc:104",
       "html_path": "works/flacc/index.html#p-104",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-104",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-104",
       "alignment_revision": "sha256:a853ba375f6cfab1908fceed52829ab04a3953f149fdb1d01f6b36ecd4d92d62",
       "review_state": {
         "human_reviewed": false,
@@ -11014,9 +11014,9 @@
         "work": "플라쿠스 반박",
         "reference": "104",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:df67c76fab85c9d7ba005d74026e9e148cd9f78328c668764f8a7cbd6a97ec9b",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-104"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-104"
       }
     },
     {
@@ -11091,7 +11091,7 @@
       ],
       "work_passage_id": "flacc:105",
       "html_path": "works/flacc/index.html#p-105",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-105",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-105",
       "alignment_revision": "sha256:2477d8c1684e12d8fa49ad740d56d12b312ddb85914df2fb184b85bad10fff54",
       "review_state": {
         "human_reviewed": false,
@@ -11127,9 +11127,9 @@
         "work": "플라쿠스 반박",
         "reference": "105",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:2d5155d13725e9e8cfbb8959cb31b800029cc7571ee663971962611f2231430c",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-105"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-105"
       }
     },
     {
@@ -11189,7 +11189,7 @@
       "notes": [],
       "work_passage_id": "flacc:106",
       "html_path": "works/flacc/index.html#p-106",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-106",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-106",
       "alignment_revision": "sha256:954ed04fd30f2674aba27b16cd80d2dbb8bd8654631d09fc1ac9d558198794f4",
       "review_state": {
         "human_reviewed": false,
@@ -11225,9 +11225,9 @@
         "work": "플라쿠스 반박",
         "reference": "106",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:63d7b24bb6b99ba704b813a00f29bf64efe43f2d1af82dd143be80b4dd5621be",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-106"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-106"
       }
     },
     {
@@ -11274,7 +11274,7 @@
       "notes": [],
       "work_passage_id": "flacc:107",
       "html_path": "works/flacc/index.html#p-107",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-107",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-107",
       "alignment_revision": "sha256:a07a282d1e4bdd3667336800ad485319736eeea0cb5cc1acf21f5597d69961ab",
       "review_state": {
         "human_reviewed": false,
@@ -11310,9 +11310,9 @@
         "work": "플라쿠스 반박",
         "reference": "107",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:3c1121b796badcdbc54cba02ce46f1eee7bd0dbfb46f391b70d058cf846a0758",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-107"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-107"
       }
     },
     {
@@ -11401,7 +11401,7 @@
       "notes": [],
       "work_passage_id": "flacc:108",
       "html_path": "works/flacc/index.html#p-108",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-108",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-108",
       "alignment_revision": "sha256:4cc769eef2f4cfe8787625be56e793fb71530587e639f607492c1be6448dd118",
       "review_state": {
         "human_reviewed": false,
@@ -11437,9 +11437,9 @@
         "work": "플라쿠스 반박",
         "reference": "108",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:f498fe4a26dbbd72b0a021fcbd585658a97530f31bfbe9567048607b7edf98bd",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-108"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-108"
       }
     },
     {
@@ -11501,7 +11501,7 @@
       ],
       "work_passage_id": "flacc:109",
       "html_path": "works/flacc/index.html#p-109",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-109",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-109",
       "alignment_revision": "sha256:4cd1d150e275378538146121df468dd53fcc23aeb2c74774eb01c06ae921c6bd",
       "review_state": {
         "human_reviewed": false,
@@ -11537,9 +11537,9 @@
         "work": "플라쿠스 반박",
         "reference": "109",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:9d09e1ef40fa4b298f33077d6d68195a97bf81235719ee6d3bef8c2161c0aa82",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-109"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-109"
       }
     },
     {
@@ -11612,7 +11612,7 @@
       "notes": [],
       "work_passage_id": "flacc:110",
       "html_path": "works/flacc/index.html#p-110",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-110",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-110",
       "alignment_revision": "sha256:d3e2ab49c80c1a13cd99befc56d082de5abbdd5370dd8c5972b706c3dc186948",
       "review_state": {
         "human_reviewed": false,
@@ -11648,9 +11648,9 @@
         "work": "플라쿠스 반박",
         "reference": "110",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:82e9201acfe1ca66b8036be69205a11388b8f84fd6faa9a426689a6ced2678a7",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-110"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-110"
       }
     },
     {
@@ -11725,7 +11725,7 @@
       ],
       "work_passage_id": "flacc:111",
       "html_path": "works/flacc/index.html#p-111",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-111",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-111",
       "alignment_revision": "sha256:54df967976463a2a1c904024c515ebbc8b2006f6abfe7a57018ae8d2ffde9610",
       "review_state": {
         "human_reviewed": false,
@@ -11761,9 +11761,9 @@
         "work": "플라쿠스 반박",
         "reference": "111",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:1e3619eda20216a372a94777b1d2f30f3bb257a5741721229034b832762b148a",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-111"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-111"
       }
     },
     {
@@ -11838,7 +11838,7 @@
       ],
       "work_passage_id": "flacc:112",
       "html_path": "works/flacc/index.html#p-112",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-112",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-112",
       "alignment_revision": "sha256:05aae435b11cc239a122bba57b06889516e35147838452b8ba7bde8df758c52c",
       "review_state": {
         "human_reviewed": false,
@@ -11874,9 +11874,9 @@
         "work": "플라쿠스 반박",
         "reference": "112",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:06947a457b3a97d485a5fa2a0d062608deaad0ebfc262bc28a6ff0419117a412",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-112"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-112"
       }
     },
     {
@@ -11965,7 +11965,7 @@
       "notes": [],
       "work_passage_id": "flacc:113",
       "html_path": "works/flacc/index.html#p-113",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-113",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-113",
       "alignment_revision": "sha256:a43086edfa5f5da094c0cce53245e2e91d94c674252666c1f0952384fecdecf5",
       "review_state": {
         "human_reviewed": false,
@@ -12001,9 +12001,9 @@
         "work": "플라쿠스 반박",
         "reference": "113",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:02d9cb9a548783ce048b441ab0b7919788ba69458e655118f5662dee02ead35e",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-113"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-113"
       }
     },
     {
@@ -12078,7 +12078,7 @@
       ],
       "work_passage_id": "flacc:114",
       "html_path": "works/flacc/index.html#p-114",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-114",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-114",
       "alignment_revision": "sha256:9fb4da08ba97f615744b106a3ba48b55e880bfcb89b5dd287b8b9d78d33215af",
       "review_state": {
         "human_reviewed": false,
@@ -12114,9 +12114,9 @@
         "work": "플라쿠스 반박",
         "reference": "114",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:76c93129eb7b8291f121c363943e9dff697aac035e66ae53e3d0a67412d12a21",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-114"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-114"
       }
     },
     {
@@ -12204,7 +12204,7 @@
       ],
       "work_passage_id": "flacc:115",
       "html_path": "works/flacc/index.html#p-115",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-115",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-115",
       "alignment_revision": "sha256:429f61366429f3cddde18ecbadd18f01bbb7d98cb10dbe8505c996c4b4afc70f",
       "review_state": {
         "human_reviewed": false,
@@ -12240,9 +12240,9 @@
         "work": "플라쿠스 반박",
         "reference": "115",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:ddab7d8b0e226e0eb645c7125928c0bc71ecd9e0b68cea20e61b50d10fbdfa0c",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-115"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-115"
       }
     },
     {
@@ -12330,7 +12330,7 @@
       ],
       "work_passage_id": "flacc:116",
       "html_path": "works/flacc/index.html#p-116",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-116",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-116",
       "alignment_revision": "sha256:63a32219778a66a06a310ed61f73e9ed022944856b9ca5645faf77b96b158846",
       "review_state": {
         "human_reviewed": false,
@@ -12366,9 +12366,9 @@
         "work": "플라쿠스 반박",
         "reference": "116",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:40cccd186b61262702a57a7556d85b59b3359f579d2942391ba66418aa3a8a9d",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-116"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-116"
       }
     },
     {
@@ -12443,7 +12443,7 @@
       ],
       "work_passage_id": "flacc:117",
       "html_path": "works/flacc/index.html#p-117",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-117",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-117",
       "alignment_revision": "sha256:da259895111b9065be9e3f950dbea6557e3a65e28a47da21882e16710d8f92c1",
       "review_state": {
         "human_reviewed": false,
@@ -12479,9 +12479,9 @@
         "work": "플라쿠스 반박",
         "reference": "117",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:b639a5e55fe6ee113ac888fb9514c5b9b59358bf719a6677647322c277be8691",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-117"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-117"
       }
     },
     {
@@ -12557,7 +12557,7 @@
       "notes": [],
       "work_passage_id": "flacc:118",
       "html_path": "works/flacc/index.html#p-118",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-118",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-118",
       "alignment_revision": "sha256:ee835b3631fbf09f2e9508a8440ca680119ba4f4e68a5249b5348a82ac6e123a",
       "review_state": {
         "human_reviewed": false,
@@ -12593,9 +12593,9 @@
         "work": "플라쿠스 반박",
         "reference": "118",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:fd69e4aff293326f8300b319ecff262b2ea61f75082d6e541c1c7900bf2d3bf0",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-118"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-118"
       }
     },
     {
@@ -12668,7 +12668,7 @@
       "notes": [],
       "work_passage_id": "flacc:119",
       "html_path": "works/flacc/index.html#p-119",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-119",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-119",
       "alignment_revision": "sha256:5c6e400042abcb300c25f7d9d058998c6cc4b3682186adf38f223b689d98ee4f",
       "review_state": {
         "human_reviewed": false,
@@ -12704,9 +12704,9 @@
         "work": "플라쿠스 반박",
         "reference": "119",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:6a9d019086ac0c31fc10140000eb50f77f110e58c00f1fc69e9dd70cf7f9087f",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-119"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-119"
       }
     },
     {
@@ -12779,7 +12779,7 @@
       "notes": [],
       "work_passage_id": "flacc:120",
       "html_path": "works/flacc/index.html#p-120",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-120",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-120",
       "alignment_revision": "sha256:1e6811fc35eaefc991f7f8943f63baac8d4a2e0f14e2e6fec56de3cd90715780",
       "review_state": {
         "human_reviewed": false,
@@ -12815,9 +12815,9 @@
         "work": "플라쿠스 반박",
         "reference": "120",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:1f81019445682c4fa5d007b7bfa040cb94e1881d0b228d9e91b481428837df35",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-120"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-120"
       }
     },
     {
@@ -12905,7 +12905,7 @@
       ],
       "work_passage_id": "flacc:121",
       "html_path": "works/flacc/index.html#p-121",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-121",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-121",
       "alignment_revision": "sha256:0f9d76e9fc25768c2d43d77de63703c81925f0f658421741db7d33dfea52d7fd",
       "review_state": {
         "human_reviewed": false,
@@ -12941,9 +12941,9 @@
         "work": "플라쿠스 반박",
         "reference": "121",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:a15f2bcc4cae8126c9fb09dc02e87a3e2509696fba748e6851a99835a7013849",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-121"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-121"
       }
     },
     {
@@ -13018,7 +13018,7 @@
       ],
       "work_passage_id": "flacc:122",
       "html_path": "works/flacc/index.html#p-122",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-122",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-122",
       "alignment_revision": "sha256:382645ac0ed6f761799886af6f961c1ab9854a396eb0f4b4e94ff62ec63ea047",
       "review_state": {
         "human_reviewed": false,
@@ -13054,9 +13054,9 @@
         "work": "플라쿠스 반박",
         "reference": "122",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:3f1a2eb81e7f4c620863ba3659927c4da745de153ff02f088b7336879ef636dd",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-122"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-122"
       }
     },
     {
@@ -13129,7 +13129,7 @@
       "notes": [],
       "work_passage_id": "flacc:123",
       "html_path": "works/flacc/index.html#p-123",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-123",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-123",
       "alignment_revision": "sha256:099da0fed668ce1e19958cd300d31a286719c5b55fa0e5e2125a55d5d8b59f05",
       "review_state": {
         "human_reviewed": false,
@@ -13165,9 +13165,9 @@
         "work": "플라쿠스 반박",
         "reference": "123",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:bcc92b59d1d959f67dcb1808b76ef91b86e18df5e446cac58c31d6c259895e76",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-123"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-123"
       }
     },
     {
@@ -13269,7 +13269,7 @@
       "notes": [],
       "work_passage_id": "flacc:124",
       "html_path": "works/flacc/index.html#p-124",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-124",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-124",
       "alignment_revision": "sha256:d33dd8705399576718c312a376dc79461dc6deb1272375430bf9e5f593533b65",
       "review_state": {
         "human_reviewed": false,
@@ -13305,9 +13305,9 @@
         "work": "플라쿠스 반박",
         "reference": "124",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:2b19f2023bc7f3166085c217707fd883238afcca3c63d43dac9de1a71b5921da",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-124"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-124"
       }
     },
     {
@@ -13408,7 +13408,7 @@
       ],
       "work_passage_id": "flacc:125",
       "html_path": "works/flacc/index.html#p-125",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-125",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-125",
       "alignment_revision": "sha256:5081ac595bb2feaa9acb545917cd8bd60ab913dedebb85fc80d5fc8231757234",
       "review_state": {
         "human_reviewed": false,
@@ -13444,9 +13444,9 @@
         "work": "플라쿠스 반박",
         "reference": "125",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:5d6922e8c458b695a34c27c82896b79fbbfbd2929e02c64fab5ed4d43a7f1296",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-125"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-125"
       }
     },
     {
@@ -13560,7 +13560,7 @@
       ],
       "work_passage_id": "flacc:126",
       "html_path": "works/flacc/index.html#p-126",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-126",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-126",
       "alignment_revision": "sha256:95ca543b4887a374719e7366488bdf01ba537b3036e4870277a1b64560ada3e0",
       "review_state": {
         "human_reviewed": false,
@@ -13596,9 +13596,9 @@
         "work": "플라쿠스 반박",
         "reference": "126",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:2a5b6fc63d728ba1e19c9f6191f00906ffd49516a96f18326a0be200e9b7a6eb",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-126"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-126"
       }
     },
     {
@@ -13658,7 +13658,7 @@
       "notes": [],
       "work_passage_id": "flacc:127",
       "html_path": "works/flacc/index.html#p-127",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-127",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-127",
       "alignment_revision": "sha256:e42c5a85bbcadaa6bf122a6914b45e22aa7db10d53dfb98d46b052151fc9e839",
       "review_state": {
         "human_reviewed": false,
@@ -13694,9 +13694,9 @@
         "work": "플라쿠스 반박",
         "reference": "127",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:f21de5302edac64df26ee8e882c1e9f3ea255e0ad1d0dfed903b681e97653ff1",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-127"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-127"
       }
     },
     {
@@ -13784,7 +13784,7 @@
       ],
       "work_passage_id": "flacc:128",
       "html_path": "works/flacc/index.html#p-128",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-128",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-128",
       "alignment_revision": "sha256:70a381e9ff1db173c5264af4abaa252e27f93f6c8ed0e1bbbd84d0edd90e8962",
       "review_state": {
         "human_reviewed": false,
@@ -13820,9 +13820,9 @@
         "work": "플라쿠스 반박",
         "reference": "128",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:7e4de54a9abeb8754c362e05c70972ef945f7489d41114ab6b948146562853f8",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-128"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-128"
       }
     },
     {
@@ -13882,7 +13882,7 @@
       "notes": [],
       "work_passage_id": "flacc:129",
       "html_path": "works/flacc/index.html#p-129",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-129",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-129",
       "alignment_revision": "sha256:9ee5e3c057d773f34fac2e19af4484e3d1ef289eeaedb2f86ec97580a78c09a6",
       "review_state": {
         "human_reviewed": false,
@@ -13918,9 +13918,9 @@
         "work": "플라쿠스 반박",
         "reference": "129",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:6db3045949a1b8f2a8441b9e1a0f91800f95f227b3786b9894cd1ce9031742ed",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-129"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-129"
       }
     },
     {
@@ -14011,7 +14011,7 @@
       ],
       "work_passage_id": "flacc:130",
       "html_path": "works/flacc/index.html#p-130",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-130",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-130",
       "alignment_revision": "sha256:85da0003f284a3f9d8fb7231107f240fceecda46111810cc05821b31a90bc281",
       "review_state": {
         "human_reviewed": false,
@@ -14047,9 +14047,9 @@
         "work": "플라쿠스 반박",
         "reference": "130",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:dc20eaf72b68be0cb8cac4f729a2655021e8a2dd97b2608d72a2162f828acd25",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-130"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-130"
       }
     },
     {
@@ -14124,7 +14124,7 @@
       ],
       "work_passage_id": "flacc:131",
       "html_path": "works/flacc/index.html#p-131",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-131",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-131",
       "alignment_revision": "sha256:4b125f7d935c14bfcca76a6b48d8591b3b9a0d03305b275e7678deeb7a36df3b",
       "review_state": {
         "human_reviewed": false,
@@ -14160,9 +14160,9 @@
         "work": "플라쿠스 반박",
         "reference": "131",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:a17a8ace85e4fdd8c71f349c071a274823e1c9acadb50f50d46dd4d6e6db1724",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-131"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-131"
       }
     },
     {
@@ -14250,7 +14250,7 @@
       ],
       "work_passage_id": "flacc:132",
       "html_path": "works/flacc/index.html#p-132",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-132",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-132",
       "alignment_revision": "sha256:0ca3db64874dc07f6745d0e5ad12dd35d3c8e47b89bc5b911349d5593a9f939f",
       "review_state": {
         "human_reviewed": false,
@@ -14286,9 +14286,9 @@
         "work": "플라쿠스 반박",
         "reference": "132",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:e818959fb29739a25cb8caef7f97aa6275e6a6926564498cd5674a8cbabd12a6",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-132"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-132"
       }
     },
     {
@@ -14348,7 +14348,7 @@
       "notes": [],
       "work_passage_id": "flacc:133",
       "html_path": "works/flacc/index.html#p-133",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-133",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-133",
       "alignment_revision": "sha256:559ad1f2d8ca5eb709147be6b903fb85d67759f28cef12fdfec342067ea354db",
       "review_state": {
         "human_reviewed": false,
@@ -14384,9 +14384,9 @@
         "work": "플라쿠스 반박",
         "reference": "133",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:97436185a79e9b6714b547d0fc5309954a6996e4badaa5aae98c750f4714663d",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-133"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-133"
       }
     },
     {
@@ -14451,7 +14451,7 @@
       ],
       "work_passage_id": "flacc:134",
       "html_path": "works/flacc/index.html#p-134",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-134",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-134",
       "alignment_revision": "sha256:e533ed9c8eca8dd804f3e939ece5e2151ee26f5a33cbf813c9f614a90df7e24d",
       "review_state": {
         "human_reviewed": false,
@@ -14487,9 +14487,9 @@
         "work": "플라쿠스 반박",
         "reference": "134",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:66ed9b918379a4d2fd832f07cc1d7e701799c98f577cce9c284018bed241ba97",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-134"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-134"
       }
     },
     {
@@ -14577,7 +14577,7 @@
       ],
       "work_passage_id": "flacc:135",
       "html_path": "works/flacc/index.html#p-135",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-135",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-135",
       "alignment_revision": "sha256:05b3c47f656649562d5f710b59d796aba3e477c88c969bc0782041d5035299df",
       "review_state": {
         "human_reviewed": false,
@@ -14613,9 +14613,9 @@
         "work": "플라쿠스 반박",
         "reference": "135",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:5950716a942b38dff919e90ca181bb6470358ca174456d3511a0b09630f07e2f",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-135"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-135"
       }
     },
     {
@@ -14690,7 +14690,7 @@
       ],
       "work_passage_id": "flacc:136",
       "html_path": "works/flacc/index.html#p-136",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-136",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-136",
       "alignment_revision": "sha256:cdeb10a751c4c8df019aeacd3960e423702cf45125e29e87be1cd1575c6a525d",
       "review_state": {
         "human_reviewed": false,
@@ -14726,9 +14726,9 @@
         "work": "플라쿠스 반박",
         "reference": "136",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:5c70dedd36bd168472aee5194ec2bc051810804a57552ae9d75148da4cf60aa0",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-136"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-136"
       }
     },
     {
@@ -14816,7 +14816,7 @@
       ],
       "work_passage_id": "flacc:137",
       "html_path": "works/flacc/index.html#p-137",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-137",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-137",
       "alignment_revision": "sha256:c867779534a37ca0648ef34ba2b9831137e3a641511d43224698a2a29962a96f",
       "review_state": {
         "human_reviewed": false,
@@ -14852,9 +14852,9 @@
         "work": "플라쿠스 반박",
         "reference": "137",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:3d82173a7ee82566bf461e77097422a677749796c315ab23a825bf48fb3b30b2",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-137"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-137"
       }
     },
     {
@@ -14929,7 +14929,7 @@
       ],
       "work_passage_id": "flacc:138",
       "html_path": "works/flacc/index.html#p-138",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-138",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-138",
       "alignment_revision": "sha256:674690450e275f6d3983073dde3fd1e738997c61748ccc1d076e5d26a2ba3f57",
       "review_state": {
         "human_reviewed": false,
@@ -14965,9 +14965,9 @@
         "work": "플라쿠스 반박",
         "reference": "138",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:f06500084f85190e2b63ead7d3e1cece14c06f203f724a2aa180e4c50b07fd10",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-138"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-138"
       }
     },
     {
@@ -15055,7 +15055,7 @@
       ],
       "work_passage_id": "flacc:139",
       "html_path": "works/flacc/index.html#p-139",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-139",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-139",
       "alignment_revision": "sha256:e47d8d723913bfe4d122d0116149020bd798bcb24f97c84be4df93abf53d8002",
       "review_state": {
         "human_reviewed": false,
@@ -15091,9 +15091,9 @@
         "work": "플라쿠스 반박",
         "reference": "139",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:7ceadaa323a6668cf4fb7126d36ff78fcdbef24057c15d583cb1bb495e4882cc",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-139"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-139"
       }
     },
     {
@@ -15169,7 +15169,7 @@
       "notes": [],
       "work_passage_id": "flacc:140",
       "html_path": "works/flacc/index.html#p-140",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-140",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-140",
       "alignment_revision": "sha256:59cc6e003dcca6a65e022aa0ffea90a0c564d9f883d0e6e48cfb3a9972cebc7c",
       "review_state": {
         "human_reviewed": false,
@@ -15205,9 +15205,9 @@
         "work": "플라쿠스 반박",
         "reference": "140",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:d8f923c61d8d8028bb07c62574acf6a56383946a658b4064dc783a102b3e4e33",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-140"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-140"
       }
     },
     {
@@ -15295,7 +15295,7 @@
       ],
       "work_passage_id": "flacc:141",
       "html_path": "works/flacc/index.html#p-141",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-141",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-141",
       "alignment_revision": "sha256:29ea2fe5f3f0f661716690afe144c7a9421baf9e15b429b29da8609f06e15e4a",
       "review_state": {
         "human_reviewed": false,
@@ -15331,9 +15331,9 @@
         "work": "플라쿠스 반박",
         "reference": "141",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:a68ff808d29f6f68a321e71346599a4b06869d2b08aae454868fed90d7b10103",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-141"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-141"
       }
     },
     {
@@ -15393,7 +15393,7 @@
       "notes": [],
       "work_passage_id": "flacc:142",
       "html_path": "works/flacc/index.html#p-142",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-142",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-142",
       "alignment_revision": "sha256:45c1b09613245c91100cf4968a3b7d47fee64bd8e0694fe36ab96322066ca5bd",
       "review_state": {
         "human_reviewed": false,
@@ -15429,9 +15429,9 @@
         "work": "플라쿠스 반박",
         "reference": "142",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:d59066b6cee3fc9a0898fc39243edff20883c5ae4a79172875a4018fad5b6029",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-142"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-142"
       }
     },
     {
@@ -15517,7 +15517,7 @@
       "notes": [],
       "work_passage_id": "flacc:143",
       "html_path": "works/flacc/index.html#p-143",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-143",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-143",
       "alignment_revision": "sha256:f67949cbbeb18f06f68bc72fbb9f2ef225cbf1c4c48f52e3e2a0b1880c661823",
       "review_state": {
         "human_reviewed": false,
@@ -15553,9 +15553,9 @@
         "work": "플라쿠스 반박",
         "reference": "143",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:dadc289d0e44500e8ec094103faa01073234367180b8551e4a22b10c7480692d",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-143"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-143"
       }
     },
     {
@@ -15644,7 +15644,7 @@
       "notes": [],
       "work_passage_id": "flacc:144",
       "html_path": "works/flacc/index.html#p-144",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-144",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-144",
       "alignment_revision": "sha256:db0bd0d1e105730784dc98ca3ea71f6e908d803c7932c955e774bb0ae3e091bf",
       "review_state": {
         "human_reviewed": false,
@@ -15680,9 +15680,9 @@
         "work": "플라쿠스 반박",
         "reference": "144",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:7e7e141e5ca2684ee8464be9712d05e4eb98482594059bbcbbef30eb59a69070",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-144"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-144"
       }
     },
     {
@@ -15742,7 +15742,7 @@
       "notes": [],
       "work_passage_id": "flacc:145",
       "html_path": "works/flacc/index.html#p-145",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-145",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-145",
       "alignment_revision": "sha256:8b4b0257f864c69ae89f1fab4c15d029a161828053e66ee614833d7653b450ef",
       "review_state": {
         "human_reviewed": false,
@@ -15778,9 +15778,9 @@
         "work": "플라쿠스 반박",
         "reference": "145",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:ccac5929c52689bc5d88427f0778c93241e730ca46579077aba5c5fbb68b8882",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-145"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-145"
       }
     },
     {
@@ -15866,7 +15866,7 @@
       "notes": [],
       "work_passage_id": "flacc:146",
       "html_path": "works/flacc/index.html#p-146",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-146",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-146",
       "alignment_revision": "sha256:51540517f2a6b51303108d7481913ec317056fdc3260a5ac8e68c74ebd31844c",
       "review_state": {
         "human_reviewed": false,
@@ -15902,9 +15902,9 @@
         "work": "플라쿠스 반박",
         "reference": "146",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:be202cf5f6515fee684e4a7c50143d17f167c0c0fbf437c6362f5022e67cbba7",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-146"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-146"
       }
     },
     {
@@ -15977,7 +15977,7 @@
       "notes": [],
       "work_passage_id": "flacc:147",
       "html_path": "works/flacc/index.html#p-147",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-147",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-147",
       "alignment_revision": "sha256:1e1a322413fce58f26673c09bdfef3dcd2984e646308b38e798ffe9f10d8a9c5",
       "review_state": {
         "human_reviewed": false,
@@ -16013,9 +16013,9 @@
         "work": "플라쿠스 반박",
         "reference": "147",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:b83e739da592bf5a81743007d285f076e079ba21db5ee59cbe37475b0f50dc65",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-147"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-147"
       }
     },
     {
@@ -16088,7 +16088,7 @@
       "notes": [],
       "work_passage_id": "flacc:148",
       "html_path": "works/flacc/index.html#p-148",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-148",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-148",
       "alignment_revision": "sha256:9c1c44b130482523fe6049ed1a38d2f76113ebd146c73014b1c6dcb85d13d60f",
       "review_state": {
         "human_reviewed": false,
@@ -16124,9 +16124,9 @@
         "work": "플라쿠스 반박",
         "reference": "148",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:9d870328e1de7975914eabebe32be6f73b7435910b763d81507358b670527654",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-148"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-148"
       }
     },
     {
@@ -16186,7 +16186,7 @@
       "notes": [],
       "work_passage_id": "flacc:149",
       "html_path": "works/flacc/index.html#p-149",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-149",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-149",
       "alignment_revision": "sha256:6072cc2ccfe3187a9a0b16a450a7731181e70c784eda14bad2dde85f26d8ac6c",
       "review_state": {
         "human_reviewed": false,
@@ -16222,9 +16222,9 @@
         "work": "플라쿠스 반박",
         "reference": "149",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:e4464debcff68ea035926b2577d4fcbe455ec1c42c9b74d4a070241c76b3a04d",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-149"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-149"
       }
     },
     {
@@ -16286,7 +16286,7 @@
       ],
       "work_passage_id": "flacc:150",
       "html_path": "works/flacc/index.html#p-150",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-150",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-150",
       "alignment_revision": "sha256:36f098eeea629d7bad1ed353bc0365f37f51bc4508d313d271aa72883bb4c19a",
       "review_state": {
         "human_reviewed": false,
@@ -16322,9 +16322,9 @@
         "work": "플라쿠스 반박",
         "reference": "150",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:4d3cdc84b1b5daab377db710301bdc9619d06750d36b8506ad299f48046051d2",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-150"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-150"
       }
     },
     {
@@ -16416,7 +16416,7 @@
       ],
       "work_passage_id": "flacc:151",
       "html_path": "works/flacc/index.html#p-151",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-151",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-151",
       "alignment_revision": "sha256:2a287504aa0766cd4df8cb88de84a9b171716f19f8d9f65ca1841bf248f1cc39",
       "review_state": {
         "human_reviewed": false,
@@ -16452,9 +16452,9 @@
         "work": "플라쿠스 반박",
         "reference": "151",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:2765da1d710f4f5fb22847a3989af9d3c4de62a756d0fe6ad921dddad98d6c15",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-151"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-151"
       }
     },
     {
@@ -16529,7 +16529,7 @@
       ],
       "work_passage_id": "flacc:152",
       "html_path": "works/flacc/index.html#p-152",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-152",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-152",
       "alignment_revision": "sha256:a705f2f36cf458f397a1d1bf65116ad9d50be5ee769a2e91c13276a147c01313",
       "review_state": {
         "human_reviewed": false,
@@ -16565,9 +16565,9 @@
         "work": "플라쿠스 반박",
         "reference": "152",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:f373a01e4d9d5f8cd4fe06fd9443455c408605086192dfd1cbaf5925c0b15495",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-152"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-152"
       }
     },
     {
@@ -16642,7 +16642,7 @@
       ],
       "work_passage_id": "flacc:153",
       "html_path": "works/flacc/index.html#p-153",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-153",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-153",
       "alignment_revision": "sha256:c00a1b0d4a79eec42ad192110643f11e023c3e2e777a18ef5b4693c5df909238",
       "review_state": {
         "human_reviewed": false,
@@ -16678,9 +16678,9 @@
         "work": "플라쿠스 반박",
         "reference": "153",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:0789aa2c433af057ef74d0e4e9ba40cac95e1433a7e51aea5e2bf1f72d2bc7d3",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-153"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-153"
       }
     },
     {
@@ -16753,7 +16753,7 @@
       "notes": [],
       "work_passage_id": "flacc:154",
       "html_path": "works/flacc/index.html#p-154",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-154",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-154",
       "alignment_revision": "sha256:5a35354b7761211a59d9ca6081d9f64e30fe006436cff7a32de38e808c00ba4b",
       "review_state": {
         "human_reviewed": false,
@@ -16789,9 +16789,9 @@
         "work": "플라쿠스 반박",
         "reference": "154",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:450bfa1e3166435cdb0b39a01cf06b9fe59b8c67f1b188931df615fd75d26fba",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-154"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-154"
       }
     },
     {
@@ -16866,7 +16866,7 @@
       ],
       "work_passage_id": "flacc:155",
       "html_path": "works/flacc/index.html#p-155",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-155",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-155",
       "alignment_revision": "sha256:1c6fd226d2183403f5d5a878e7e25ad65b4db42766a1c150076988d68eaddd17",
       "review_state": {
         "human_reviewed": false,
@@ -16902,9 +16902,9 @@
         "work": "플라쿠스 반박",
         "reference": "155",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:0f9a6182d5591c3ca4eea37187bd4b36b5c4e57912be9b3687e3d4e49a9e28b8",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-155"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-155"
       }
     },
     {
@@ -16982,7 +16982,7 @@
       ],
       "work_passage_id": "flacc:156",
       "html_path": "works/flacc/index.html#p-156",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-156",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-156",
       "alignment_revision": "sha256:680cab21a8e031b18528b45f3f7d68e44dd472441d924510c8a7e1da3e1eabaf",
       "review_state": {
         "human_reviewed": false,
@@ -17018,9 +17018,9 @@
         "work": "플라쿠스 반박",
         "reference": "156",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:93a62a8c36e217a86dca65f0e012c279b6abfbd9a1e1a0c6f4c7302a7b845362",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-156"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-156"
       }
     },
     {
@@ -17106,7 +17106,7 @@
       "notes": [],
       "work_passage_id": "flacc:157",
       "html_path": "works/flacc/index.html#p-157",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-157",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-157",
       "alignment_revision": "sha256:2ba3e087ae1e0a6661099ed7ed746ba1a474dcd1fcb7cecbb1396a376b43c407",
       "review_state": {
         "human_reviewed": false,
@@ -17142,9 +17142,9 @@
         "work": "플라쿠스 반박",
         "reference": "157",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:55388d5af49b5f954ccb555609107f72595e76482a51c00f46e7c6d22d689db4",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-157"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-157"
       }
     },
     {
@@ -17232,7 +17232,7 @@
       ],
       "work_passage_id": "flacc:158",
       "html_path": "works/flacc/index.html#p-158",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-158",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-158",
       "alignment_revision": "sha256:457c8a87e638f133e00cd96e3ebf469dda8d9b5d67f66b609da5859a0985bff4",
       "review_state": {
         "human_reviewed": false,
@@ -17268,9 +17268,9 @@
         "work": "플라쿠스 반박",
         "reference": "158",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:654521e70363849a0f87081859abdcfbf6191d96f53e8ceb30eef7060be11c8c",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-158"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-158"
       }
     },
     {
@@ -17371,7 +17371,7 @@
       ],
       "work_passage_id": "flacc:159",
       "html_path": "works/flacc/index.html#p-159",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-159",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-159",
       "alignment_revision": "sha256:8ae34e7627160a8538852e452b756ff434c25ae680c26b3f092db42deb3af017",
       "review_state": {
         "human_reviewed": false,
@@ -17407,9 +17407,9 @@
         "work": "플라쿠스 반박",
         "reference": "159",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:14404f37069c8aee267bd6b8750970b18d1e1ec1ab81e1d2fc4e0c6a9b04cb62",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-159"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-159"
       }
     },
     {
@@ -17482,7 +17482,7 @@
       "notes": [],
       "work_passage_id": "flacc:160",
       "html_path": "works/flacc/index.html#p-160",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-160",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-160",
       "alignment_revision": "sha256:f23e995c78b26e7ea3d721c3d3acf600fcc8170864b9093f072e142f6e9ce4ce",
       "review_state": {
         "human_reviewed": false,
@@ -17518,9 +17518,9 @@
         "work": "플라쿠스 반박",
         "reference": "160",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:28dbe0893d694ba180c2995139f213fbd1a8f6318e74f47b8fe2fdde1b288b68",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-160"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-160"
       }
     },
     {
@@ -17580,7 +17580,7 @@
       "notes": [],
       "work_passage_id": "flacc:161",
       "html_path": "works/flacc/index.html#p-161",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-161",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-161",
       "alignment_revision": "sha256:0fd083ccb5e652d9a7c4ca6092b814a33e32a45698f4e971a476c281c03856a4",
       "review_state": {
         "human_reviewed": false,
@@ -17616,9 +17616,9 @@
         "work": "플라쿠스 반박",
         "reference": "161",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:79fdf3b2f72ffdcc3fcda7ac47749cf0a3943d22d026237abfc598b45dbc0e6d",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-161"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-161"
       }
     },
     {
@@ -17717,7 +17717,7 @@
       "notes": [],
       "work_passage_id": "flacc:162",
       "html_path": "works/flacc/index.html#p-162",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-162",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-162",
       "alignment_revision": "sha256:ba34f93e55296fcae8ae5a0f79bcb292212ee210c3a0803a5403c15bad919f4e",
       "review_state": {
         "human_reviewed": false,
@@ -17753,9 +17753,9 @@
         "work": "플라쿠스 반박",
         "reference": "162",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:638dabb565f6c6f946d526b0ffe26f3a94bee97c5d57798bfe4c5785d6da73db",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-162"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-162"
       }
     },
     {
@@ -17859,7 +17859,7 @@
       ],
       "work_passage_id": "flacc:163",
       "html_path": "works/flacc/index.html#p-163",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-163",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-163",
       "alignment_revision": "sha256:089ebafbd24716057f9a827899b03e07477cce7aa3be264f18923ef58983ae2a",
       "review_state": {
         "human_reviewed": false,
@@ -17895,9 +17895,9 @@
         "work": "플라쿠스 반박",
         "reference": "163",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:f132baa51c46fcd0cc326f6a26799a4261fa50c9b03abdc1c8acbacb34ad73fa",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-163"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-163"
       }
     },
     {
@@ -17970,7 +17970,7 @@
       "notes": [],
       "work_passage_id": "flacc:164",
       "html_path": "works/flacc/index.html#p-164",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-164",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-164",
       "alignment_revision": "sha256:193b2e96b8763cb9f26e98c2eb33812a8900d1f914992bc2960443ca2aba4062",
       "review_state": {
         "human_reviewed": false,
@@ -18006,9 +18006,9 @@
         "work": "플라쿠스 반박",
         "reference": "164",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:a16522dc6dd54a6bcc51b3133e9646eb1517b52ed7dbbc630b45f65ad30562e1",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-164"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-164"
       }
     },
     {
@@ -18083,7 +18083,7 @@
       ],
       "work_passage_id": "flacc:165",
       "html_path": "works/flacc/index.html#p-165",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-165",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-165",
       "alignment_revision": "sha256:5c32c731aafce97c599d13687ceaf3cb0ed0169662e07b26e8511cde900ff652",
       "review_state": {
         "human_reviewed": false,
@@ -18119,9 +18119,9 @@
         "work": "플라쿠스 반박",
         "reference": "165",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:6ca443fcebc2199e4f48146578cf1507a96209762640dd8f9a7cc848f37816c4",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-165"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-165"
       }
     },
     {
@@ -18194,7 +18194,7 @@
       "notes": [],
       "work_passage_id": "flacc:166",
       "html_path": "works/flacc/index.html#p-166",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-166",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-166",
       "alignment_revision": "sha256:27eb1bf79b68938bf6044dd050d27ea1d26494d13805514e9462752f23ebdf5b",
       "review_state": {
         "human_reviewed": false,
@@ -18230,9 +18230,9 @@
         "work": "플라쿠스 반박",
         "reference": "166",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:4b6de787cb0527fedda3650007f33a5bbc6dfa02b0de30328bb24f242910b643",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-166"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-166"
       }
     },
     {
@@ -18344,7 +18344,7 @@
       "notes": [],
       "work_passage_id": "flacc:167",
       "html_path": "works/flacc/index.html#p-167",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-167",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-167",
       "alignment_revision": "sha256:7519462b97995139ba3b34b4f44420f2087fe3dda4e56959309d166118275cd1",
       "review_state": {
         "human_reviewed": false,
@@ -18380,9 +18380,9 @@
         "work": "플라쿠스 반박",
         "reference": "167",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:7fbd9298f064fa9a2882ae38b0bf1252cd800d813127fc8b039aa6d674c1e21f",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-167"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-167"
       }
     },
     {
@@ -18445,7 +18445,7 @@
       "notes": [],
       "work_passage_id": "flacc:168",
       "html_path": "works/flacc/index.html#p-168",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-168",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-168",
       "alignment_revision": "sha256:ff29188199b12f7e5a5c373066f9c1671c49cf10347a00cab2a23f172f6248a9",
       "review_state": {
         "human_reviewed": false,
@@ -18481,9 +18481,9 @@
         "work": "플라쿠스 반박",
         "reference": "168",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:4f41179a889533117b6943276e9f3684a4d55bc938af869b1f4c33493c574c92",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-168"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-168"
       }
     },
     {
@@ -18558,7 +18558,7 @@
       ],
       "work_passage_id": "flacc:169",
       "html_path": "works/flacc/index.html#p-169",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-169",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-169",
       "alignment_revision": "sha256:c1635c54d859a66bf40d2222fa8da4f29f591cdafc81f6088a386e9438738f93",
       "review_state": {
         "human_reviewed": false,
@@ -18594,9 +18594,9 @@
         "work": "플라쿠스 반박",
         "reference": "169",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:d5a43ce2ef679f66ee041cd7f212177f0a55fb171a1fca85f23c44d492bac7ad",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-169"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-169"
       }
     },
     {
@@ -18684,7 +18684,7 @@
       ],
       "work_passage_id": "flacc:170",
       "html_path": "works/flacc/index.html#p-170",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-170",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-170",
       "alignment_revision": "sha256:b77bd4a41a7ba3100013457e64b88e33ac5bdb501cd5a2b4b5dbc3ab692af488",
       "review_state": {
         "human_reviewed": false,
@@ -18720,9 +18720,9 @@
         "work": "플라쿠스 반박",
         "reference": "170",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:d75b457739620cd3def978cdb7a10cf82da8aed443396291427c325f170c19ea",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-170"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-170"
       }
     },
     {
@@ -18782,7 +18782,7 @@
       "notes": [],
       "work_passage_id": "flacc:171",
       "html_path": "works/flacc/index.html#p-171",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-171",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-171",
       "alignment_revision": "sha256:86fb087e2bfaaf7f9f0a8fcc25d5931675ed8aae75bd336ea43780023a7f9708",
       "review_state": {
         "human_reviewed": false,
@@ -18818,9 +18818,9 @@
         "work": "플라쿠스 반박",
         "reference": "171",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:2bd9b763f18d2e617396689e463a5111e7ee65ccca51287d181327249712cdd6",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-171"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-171"
       }
     },
     {
@@ -18895,7 +18895,7 @@
       ],
       "work_passage_id": "flacc:172",
       "html_path": "works/flacc/index.html#p-172",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-172",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-172",
       "alignment_revision": "sha256:5e28a9e366c4951633f48f5129568fa52ddd8a5cca2d4da1e065f31ba65f2eef",
       "review_state": {
         "human_reviewed": false,
@@ -18931,9 +18931,9 @@
         "work": "플라쿠스 반박",
         "reference": "172",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:f03e9da7f5b3a23d6578fb1ec0295183100dd43ea1bae5e27ca17df0e1eaa44d",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-172"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-172"
       }
     },
     {
@@ -19008,7 +19008,7 @@
       ],
       "work_passage_id": "flacc:173",
       "html_path": "works/flacc/index.html#p-173",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-173",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-173",
       "alignment_revision": "sha256:2557380b65db24743093a2b16497b324cb263ddb2dfe4177e80bfd5b38403960",
       "review_state": {
         "human_reviewed": false,
@@ -19044,9 +19044,9 @@
         "work": "플라쿠스 반박",
         "reference": "173",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:2fec72abfc873156e2b48c1f22a50107aea7691264101d93aa771c61fb4175b0",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-173"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-173"
       }
     },
     {
@@ -19134,7 +19134,7 @@
       ],
       "work_passage_id": "flacc:174",
       "html_path": "works/flacc/index.html#p-174",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-174",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-174",
       "alignment_revision": "sha256:3e6c34560d113d315be8b2102596f960e6a9a924bcd226483eeee279a27393c2",
       "review_state": {
         "human_reviewed": false,
@@ -19170,9 +19170,9 @@
         "work": "플라쿠스 반박",
         "reference": "174",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:d4effb3482b2daf8034eee5e4bfb6ee696249f2069a58349d4d201a017ece454",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-174"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-174"
       }
     },
     {
@@ -19247,7 +19247,7 @@
       ],
       "work_passage_id": "flacc:175",
       "html_path": "works/flacc/index.html#p-175",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-175",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-175",
       "alignment_revision": "sha256:536953fa1ae708d026b35ae17f70f1fc609711e58facfcfdb38b594f6688b46a",
       "review_state": {
         "human_reviewed": false,
@@ -19283,9 +19283,9 @@
         "work": "플라쿠스 반박",
         "reference": "175",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:4461bc3b2062231ced23c5ab1d3fa9344f66d10cf93c304d3f92f2cc78e78e4f",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-175"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-175"
       }
     },
     {
@@ -19361,7 +19361,7 @@
       "notes": [],
       "work_passage_id": "flacc:176",
       "html_path": "works/flacc/index.html#p-176",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-176",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-176",
       "alignment_revision": "sha256:42e2d4290f5bcf81cd0ac8d64ec416108f685478791dd2f9eaef7447db900aa9",
       "review_state": {
         "human_reviewed": false,
@@ -19397,9 +19397,9 @@
         "work": "플라쿠스 반박",
         "reference": "176",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:f9ab35c04d4c268ae31eb8c828f855366da0c3cb16eb946fb2336fc55fab326d",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-176"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-176"
       }
     },
     {
@@ -19487,7 +19487,7 @@
       ],
       "work_passage_id": "flacc:177",
       "html_path": "works/flacc/index.html#p-177",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-177",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-177",
       "alignment_revision": "sha256:4f258958366d759224fa3fb2b0a336bfa9a777be245402f2fd296e6fc05c3bf6",
       "review_state": {
         "human_reviewed": false,
@@ -19523,9 +19523,9 @@
         "work": "플라쿠스 반박",
         "reference": "177",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:7470781402b3ccd41c9a418ed0b88493873a18afe7c4596384fd28d1a73521e7",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-177"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-177"
       }
     },
     {
@@ -19611,7 +19611,7 @@
       "notes": [],
       "work_passage_id": "flacc:178",
       "html_path": "works/flacc/index.html#p-178",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-178",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-178",
       "alignment_revision": "sha256:c489211bea1d9c91bbbd3f87b0354a50465634541cc6ddf4cf8708841835a6d2",
       "review_state": {
         "human_reviewed": false,
@@ -19647,9 +19647,9 @@
         "work": "플라쿠스 반박",
         "reference": "178",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:d7f9dc81c642073d6be03637ef0563bdfa3f6b2ec209f6486c186334059abd78",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-178"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-178"
       }
     },
     {
@@ -19722,7 +19722,7 @@
       "notes": [],
       "work_passage_id": "flacc:179",
       "html_path": "works/flacc/index.html#p-179",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-179",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-179",
       "alignment_revision": "sha256:f694fc8815513e5c35b3bdf81e1893f638aa99a88738dfe743f7c9c5a64ab59f",
       "review_state": {
         "human_reviewed": false,
@@ -19758,9 +19758,9 @@
         "work": "플라쿠스 반박",
         "reference": "179",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:1835118206868db9718d0d473b69a519ec4e60527573e2c89d3657e0f3ca0301",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-179"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-179"
       }
     },
     {
@@ -19859,7 +19859,7 @@
       "notes": [],
       "work_passage_id": "flacc:180",
       "html_path": "works/flacc/index.html#p-180",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-180",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-180",
       "alignment_revision": "sha256:caef9451f4f6dfe6617c68801f103e54cf2fcf08ad085ea9dc215f7d0c161569",
       "review_state": {
         "human_reviewed": false,
@@ -19895,9 +19895,9 @@
         "work": "플라쿠스 반박",
         "reference": "180",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:b8d21f33763893530c7d9b93703633f7a701ee563f1e51022a18257851d095ae",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-180"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-180"
       }
     },
     {
@@ -19972,7 +19972,7 @@
       ],
       "work_passage_id": "flacc:181",
       "html_path": "works/flacc/index.html#p-181",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-181",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-181",
       "alignment_revision": "sha256:b74cd132990950e78b3202d68083bb45d262d50609d276c210fcadc6b3081c06",
       "review_state": {
         "human_reviewed": false,
@@ -20008,9 +20008,9 @@
         "work": "플라쿠스 반박",
         "reference": "181",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:16ff697a9c49b21ad017f19f59bb32dbb9680046c2715b762d4df1d0f8950afb",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-181"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-181"
       }
     },
     {
@@ -20083,7 +20083,7 @@
       "notes": [],
       "work_passage_id": "flacc:182",
       "html_path": "works/flacc/index.html#p-182",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-182",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-182",
       "alignment_revision": "sha256:d4b58450f220a33bf8b9746799fdb41f5b2dd4d94e4dfee097fa85d731064a88",
       "review_state": {
         "human_reviewed": false,
@@ -20119,9 +20119,9 @@
         "work": "플라쿠스 반박",
         "reference": "182",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:f943d7d281b1f7689b6c8e6a5b5b56a926f056680f689b99b771221ad811a783",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-182"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-182"
       }
     },
     {
@@ -20186,7 +20186,7 @@
       ],
       "work_passage_id": "flacc:183",
       "html_path": "works/flacc/index.html#p-183",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-183",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-183",
       "alignment_revision": "sha256:82820752d00c7388201c9f68cb8d51443fe64094c3bba16ca05414d068494e08",
       "review_state": {
         "human_reviewed": false,
@@ -20222,9 +20222,9 @@
         "work": "플라쿠스 반박",
         "reference": "183",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:92d253379a54cc96c0cba40c73f5ea24d7b3b360945e3db5c17ad2ada0bf69fe",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-183"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-183"
       }
     },
     {
@@ -20299,7 +20299,7 @@
       ],
       "work_passage_id": "flacc:184",
       "html_path": "works/flacc/index.html#p-184",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-184",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-184",
       "alignment_revision": "sha256:f9fd95436eebaa0a392c70127d7ddad77a4792ecd7eddeabb19ae9251fb737b8",
       "review_state": {
         "human_reviewed": false,
@@ -20335,9 +20335,9 @@
         "work": "플라쿠스 반박",
         "reference": "184",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:d2e8640f16f09ffd9ce97fa59500a341fbd3c14107531e69f4cf63c4a1f0c33f",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-184"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-184"
       }
     },
     {
@@ -20423,7 +20423,7 @@
       "notes": [],
       "work_passage_id": "flacc:185",
       "html_path": "works/flacc/index.html#p-185",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-185",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-185",
       "alignment_revision": "sha256:4ccb26720b9022c5161b6c867b2250e6ec81e51a6f6a2907b986a4eee234f50d",
       "review_state": {
         "human_reviewed": false,
@@ -20459,9 +20459,9 @@
         "work": "플라쿠스 반박",
         "reference": "185",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:c6fba1c3de53529b0dd0bbc96eeb32b5ba9829afe2851fa55cdfd15a88ffe26b",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-185"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-185"
       }
     },
     {
@@ -20547,7 +20547,7 @@
       "notes": [],
       "work_passage_id": "flacc:186",
       "html_path": "works/flacc/index.html#p-186",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-186",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-186",
       "alignment_revision": "sha256:c0dec606e57fe0df13779f4c79cebd575249ee13bb5a6ce4623b0af8bd3bdbd5",
       "review_state": {
         "human_reviewed": false,
@@ -20583,9 +20583,9 @@
         "work": "플라쿠스 반박",
         "reference": "186",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:fb4f43eff99f595f45c97ac0c4a006d5a1f187099b7dd6e74f42eeaaca7b823b",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-186"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-186"
       }
     },
     {
@@ -20658,7 +20658,7 @@
       "notes": [],
       "work_passage_id": "flacc:187",
       "html_path": "works/flacc/index.html#p-187",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-187",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-187",
       "alignment_revision": "sha256:075b94d0beb10885622266374551ace3cdc86d260c30c2ec829bffd5b2452744",
       "review_state": {
         "human_reviewed": false,
@@ -20694,9 +20694,9 @@
         "work": "플라쿠스 반박",
         "reference": "187",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:87717909c5a11cbc8a30f3910d400805ea64135d373db33d994568c54c912a37",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-187"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-187"
       }
     },
     {
@@ -20769,7 +20769,7 @@
       "notes": [],
       "work_passage_id": "flacc:188",
       "html_path": "works/flacc/index.html#p-188",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-188",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-188",
       "alignment_revision": "sha256:3942504ec3d291052ff7831a07fd0ff28cb58641de9de5d4f77801891a3f1b49",
       "review_state": {
         "human_reviewed": false,
@@ -20805,9 +20805,9 @@
         "work": "플라쿠스 반박",
         "reference": "188",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:f0f072ebe7d6b7ae83d34704bf78c790c58a20ee7a6893389cb58ce488b53512",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-188"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-188"
       }
     },
     {
@@ -20898,7 +20898,7 @@
       ],
       "work_passage_id": "flacc:189",
       "html_path": "works/flacc/index.html#p-189",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-189",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-189",
       "alignment_revision": "sha256:0c43ac4d06e6af0fcfa6e4545700013f139404a7761b5b38c9700e4fce05dd09",
       "review_state": {
         "human_reviewed": false,
@@ -20934,9 +20934,9 @@
         "work": "플라쿠스 반박",
         "reference": "189",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:53a410cc437a95cccaa903ef5876677e31f77653c96f28b6b8a628bb15078061",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-189"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-189"
       }
     },
     {
@@ -20998,7 +20998,7 @@
       ],
       "work_passage_id": "flacc:190",
       "html_path": "works/flacc/index.html#p-190",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-190",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-190",
       "alignment_revision": "sha256:7de6171fdfcf0ff79771bdd93ae2b3d3ce1b29e4566b6a15da26eb037b849a10",
       "review_state": {
         "human_reviewed": false,
@@ -21034,9 +21034,9 @@
         "work": "플라쿠스 반박",
         "reference": "190",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:d2271b4f6adb20f2b355e38868117629bc06e1d0bad7bfccabc46590edf8893c",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-190"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-190"
       }
     },
     {
@@ -21085,7 +21085,7 @@
       ],
       "work_passage_id": "flacc:191",
       "html_path": "works/flacc/index.html#p-191",
-      "fixed_html_path": "releases/public-0.39/works/flacc/index.html#p-191",
+      "fixed_html_path": "releases/public-0.40/works/flacc/index.html#p-191",
       "alignment_revision": "sha256:36ec8b77ad9c92c100523cac3ac444ed05cf11b070047a5d145b1c2842a10b19",
       "review_state": {
         "human_reviewed": false,
@@ -21121,9 +21121,9 @@
         "work": "플라쿠스 반박",
         "reference": "191",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:7a58030cc799c805281052c5cce1e1c1a77f866b4a1f148d969bf8b80d203f40",
-        "fixed_path": "releases/public-0.39/works/flacc/index.html#p-191"
+        "fixed_path": "releases/public-0.40/works/flacc/index.html#p-191"
       }
     }
   ],
@@ -21147,14 +21147,14 @@
   "display_author": "필론",
   "scope": "플라쿠스 반박 채택 본문 191대목 전체",
   "coverage": "complete",
-  "release_id": "public-0.39",
+  "release_id": "public-0.40",
   "source_language": "grc",
   "source_kind": "edited_ancient_original",
   "human_reviewed": false,
   "translation_method": "고정 원어 본문에서 직접 번역",
   "html_path": "works/flacc/index.html",
   "json_path": "data/works/flacc.json",
-  "fixed_html_path": "releases/public-0.39/works/flacc/index.html",
+  "fixed_html_path": "releases/public-0.40/works/flacc/index.html",
   "source_profile": "flacc-complete-pinned-source-20261019",
   "source_decisions": [
     {

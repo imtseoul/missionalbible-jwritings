@@ -146,7 +146,7 @@
       ],
       "work_passage_id": "peregr:1",
       "html_path": "works/peregr/index.html#p-1",
-      "fixed_html_path": "releases/public-0.39/works/peregr/index.html#p-1",
+      "fixed_html_path": "releases/public-0.40/works/peregr/index.html#p-1",
       "alignment_revision": "sha256:d20379cd271a058be78b97c9aaeca5d3a6ab088f626828e2c925c3639bf1727c",
       "review_state": {
         "human_reviewed": false,
@@ -182,9 +182,9 @@
         "work": "페레그리노스의 죽음",
         "reference": "1",
         "edition": "A. M. Harmon 편역, Lucian, vol. 5, Loeb Classical Library, London: Heinemann; Cambridge, MA: Harvard University Press, 1936.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:5a9f85c74f7aa44b4fdaec464a5cafeeb693e7545d09164aa75f01dba18a5720",
-        "fixed_path": "releases/public-0.39/works/peregr/index.html#p-1"
+        "fixed_path": "releases/public-0.40/works/peregr/index.html#p-1"
       }
     },
     {
@@ -259,7 +259,7 @@
       ],
       "work_passage_id": "peregr:2",
       "html_path": "works/peregr/index.html#p-2",
-      "fixed_html_path": "releases/public-0.39/works/peregr/index.html#p-2",
+      "fixed_html_path": "releases/public-0.40/works/peregr/index.html#p-2",
       "alignment_revision": "sha256:5933e7aad741bf0754500e502add23e4cacee291bd1bf85108665c901b34ba53",
       "review_state": {
         "human_reviewed": false,
@@ -295,9 +295,9 @@
         "work": "페레그리노스의 죽음",
         "reference": "2",
         "edition": "A. M. Harmon 편역, Lucian, vol. 5, Loeb Classical Library, London: Heinemann; Cambridge, MA: Harvard University Press, 1936.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:7cf5684ef50d996d89160ec46b61d88377b560df4e4b7bcfcbe4abf054f55ae0",
-        "fixed_path": "releases/public-0.39/works/peregr/index.html#p-2"
+        "fixed_path": "releases/public-0.40/works/peregr/index.html#p-2"
       }
     },
     {
@@ -402,7 +402,7 @@
       ],
       "work_passage_id": "peregr:3",
       "html_path": "works/peregr/index.html#p-3",
-      "fixed_html_path": "releases/public-0.39/works/peregr/index.html#p-3",
+      "fixed_html_path": "releases/public-0.40/works/peregr/index.html#p-3",
       "alignment_revision": "sha256:ef2ab87c847f7e2eaf33241aa363eb626f1096e2cb3217a9c4b773a03289cc80",
       "review_state": {
         "human_reviewed": false,
@@ -438,9 +438,9 @@
         "work": "페레그리노스의 죽음",
         "reference": "3",
         "edition": "A. M. Harmon 편역, Lucian, vol. 5, Loeb Classical Library, London: Heinemann; Cambridge, MA: Harvard University Press, 1936.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:4cfe8405609540db2775952a1bdcffa43c523006f5c21c07472bce26d48e85ba",
-        "fixed_path": "releases/public-0.39/works/peregr/index.html#p-3"
+        "fixed_path": "releases/public-0.40/works/peregr/index.html#p-3"
       }
     },
     {
@@ -529,7 +529,7 @@
       ],
       "work_passage_id": "peregr:4",
       "html_path": "works/peregr/index.html#p-4",
-      "fixed_html_path": "releases/public-0.39/works/peregr/index.html#p-4",
+      "fixed_html_path": "releases/public-0.40/works/peregr/index.html#p-4",
       "alignment_revision": "sha256:a3118f23959ac1ee7b7693b64ef940167d16a5958f3c2b13d1d4e7870c55787d",
       "review_state": {
         "human_reviewed": false,
@@ -565,9 +565,9 @@
         "work": "페레그리노스의 죽음",
         "reference": "4",
         "edition": "A. M. Harmon 편역, Lucian, vol. 5, Loeb Classical Library, London: Heinemann; Cambridge, MA: Harvard University Press, 1936.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:30f37679e7bd25690b6b72f8020c33192095fac2604954dde0d90cff32bca108",
-        "fixed_path": "releases/public-0.39/works/peregr/index.html#p-4"
+        "fixed_path": "releases/public-0.40/works/peregr/index.html#p-4"
       }
     },
     {
@@ -697,7 +697,7 @@
       ],
       "work_passage_id": "peregr:5",
       "html_path": "works/peregr/index.html#p-5",
-      "fixed_html_path": "releases/public-0.39/works/peregr/index.html#p-5",
+      "fixed_html_path": "releases/public-0.40/works/peregr/index.html#p-5",
       "alignment_revision": "sha256:a73875ae8910b8fd4458e659ed6f936072f01a5fa721a9be79b0b8002da16ff5",
       "review_state": {
         "human_reviewed": false,
@@ -733,9 +733,9 @@
         "work": "페레그리노스의 죽음",
         "reference": "5",
         "edition": "A. M. Harmon 편역, Lucian, vol. 5, Loeb Classical Library, London: Heinemann; Cambridge, MA: Harvard University Press, 1936.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:148d3bc0d4a06d68cabaf2686d03b596749cd99b916ced0f7c66c983b1c7c5d1",
-        "fixed_path": "releases/public-0.39/works/peregr/index.html#p-5"
+        "fixed_path": "releases/public-0.40/works/peregr/index.html#p-5"
       }
     },
     {
@@ -823,7 +823,7 @@
       ],
       "work_passage_id": "peregr:6",
       "html_path": "works/peregr/index.html#p-6",
-      "fixed_html_path": "releases/public-0.39/works/peregr/index.html#p-6",
+      "fixed_html_path": "releases/public-0.40/works/peregr/index.html#p-6",
       "alignment_revision": "sha256:6db078d3ab421f4f84e4537180b99b09bd3cbf0eb20bececc7da94520a89cb60",
       "review_state": {
         "human_reviewed": false,
@@ -859,9 +859,9 @@
         "work": "페레그리노스의 죽음",
         "reference": "6",
         "edition": "A. M. Harmon 편역, Lucian, vol. 5, Loeb Classical Library, London: Heinemann; Cambridge, MA: Harvard University Press, 1936.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:b6074d94ce82fe880e1ea272d4ea9bbf0412a879b63c319796acdb94b6db614e",
-        "fixed_path": "releases/public-0.39/works/peregr/index.html#p-6"
+        "fixed_path": "releases/public-0.40/works/peregr/index.html#p-6"
       }
     },
     {
@@ -950,7 +950,7 @@
       ],
       "work_passage_id": "peregr:7",
       "html_path": "works/peregr/index.html#p-7",
-      "fixed_html_path": "releases/public-0.39/works/peregr/index.html#p-7",
+      "fixed_html_path": "releases/public-0.40/works/peregr/index.html#p-7",
       "alignment_revision": "sha256:3a9aa2f195c74dd02f125f914cecc14cf8250988ceba1949affd0862972e8696",
       "review_state": {
         "human_reviewed": false,
@@ -986,9 +986,9 @@
         "work": "페레그리노스의 죽음",
         "reference": "7",
         "edition": "A. M. Harmon 편역, Lucian, vol. 5, Loeb Classical Library, London: Heinemann; Cambridge, MA: Harvard University Press, 1936.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:ed5f3589a4ef00c8ef02954435c408dae92f9e5b8d0998bfa16f01dc32078a8b",
-        "fixed_path": "releases/public-0.39/works/peregr/index.html#p-7"
+        "fixed_path": "releases/public-0.40/works/peregr/index.html#p-7"
       }
     },
     {
@@ -1061,7 +1061,7 @@
       "notes": [],
       "work_passage_id": "peregr:8",
       "html_path": "works/peregr/index.html#p-8",
-      "fixed_html_path": "releases/public-0.39/works/peregr/index.html#p-8",
+      "fixed_html_path": "releases/public-0.40/works/peregr/index.html#p-8",
       "alignment_revision": "sha256:fcdf89fcf642323d4cb007a5b02fd673b0d2f69787f4b10f0046abc3999089af",
       "review_state": {
         "human_reviewed": false,
@@ -1097,9 +1097,9 @@
         "work": "페레그리노스의 죽음",
         "reference": "8",
         "edition": "A. M. Harmon 편역, Lucian, vol. 5, Loeb Classical Library, London: Heinemann; Cambridge, MA: Harvard University Press, 1936.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:4ebc6ca8d9a11d8c88f295c7d3d8048867b95e71b2b4894b35a090ae728e0261",
-        "fixed_path": "releases/public-0.39/works/peregr/index.html#p-8"
+        "fixed_path": "releases/public-0.40/works/peregr/index.html#p-8"
       }
     },
     {
@@ -1163,7 +1163,7 @@
       ],
       "work_passage_id": "peregr:9",
       "html_path": "works/peregr/index.html#p-9",
-      "fixed_html_path": "releases/public-0.39/works/peregr/index.html#p-9",
+      "fixed_html_path": "releases/public-0.40/works/peregr/index.html#p-9",
       "alignment_revision": "sha256:7a85906ecfae692c1fdaf8342f4a7eac0c45084f76d06554ae32e85218902d37",
       "review_state": {
         "human_reviewed": false,
@@ -1199,9 +1199,9 @@
         "work": "페레그리노스의 죽음",
         "reference": "9",
         "edition": "A. M. Harmon 편역, Lucian, vol. 5, Loeb Classical Library, London: Heinemann; Cambridge, MA: Harvard University Press, 1936.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:a26650c36502fa1ac23811a4616868b4a52bbd71a179a2f02f0310138edf581a",
-        "fixed_path": "releases/public-0.39/works/peregr/index.html#p-9"
+        "fixed_path": "releases/public-0.40/works/peregr/index.html#p-9"
       }
     },
     {
@@ -1287,7 +1287,7 @@
       "notes": [],
       "work_passage_id": "peregr:10",
       "html_path": "works/peregr/index.html#p-10",
-      "fixed_html_path": "releases/public-0.39/works/peregr/index.html#p-10",
+      "fixed_html_path": "releases/public-0.40/works/peregr/index.html#p-10",
       "alignment_revision": "sha256:dadf4aae9c9342185ee235badafd83a2b40e8982c433792862031770650d49b4",
       "review_state": {
         "human_reviewed": false,
@@ -1323,9 +1323,9 @@
         "work": "페레그리노스의 죽음",
         "reference": "10",
         "edition": "A. M. Harmon 편역, Lucian, vol. 5, Loeb Classical Library, London: Heinemann; Cambridge, MA: Harvard University Press, 1936.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:9a7b57fa1227aa3a2e35309c34c41c79ea40a3514a9c74c2da7723dddc521302",
-        "fixed_path": "releases/public-0.39/works/peregr/index.html#p-10"
+        "fixed_path": "releases/public-0.40/works/peregr/index.html#p-10"
       }
     },
     {
@@ -1429,7 +1429,7 @@
       ],
       "work_passage_id": "peregr:11",
       "html_path": "works/peregr/index.html#p-11",
-      "fixed_html_path": "releases/public-0.39/works/peregr/index.html#p-11",
+      "fixed_html_path": "releases/public-0.40/works/peregr/index.html#p-11",
       "alignment_revision": "sha256:8883433e6dc11d8ab7ae3931f2fce28751d1e6a0a82818c078226a4cf9ac849a",
       "review_state": {
         "human_reviewed": false,
@@ -1465,9 +1465,9 @@
         "work": "페레그리노스의 죽음",
         "reference": "11",
         "edition": "A. M. Harmon 편역, Lucian, vol. 5, Loeb Classical Library, London: Heinemann; Cambridge, MA: Harvard University Press, 1936.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:144d535b267de30119380475e10b4c8e3ece5665e5f8c808ab95ecb6d9e3d8d0",
-        "fixed_path": "releases/public-0.39/works/peregr/index.html#p-11"
+        "fixed_path": "releases/public-0.40/works/peregr/index.html#p-11"
       }
     },
     {
@@ -1582,7 +1582,7 @@
       ],
       "work_passage_id": "peregr:12",
       "html_path": "works/peregr/index.html#p-12",
-      "fixed_html_path": "releases/public-0.39/works/peregr/index.html#p-12",
+      "fixed_html_path": "releases/public-0.40/works/peregr/index.html#p-12",
       "alignment_revision": "sha256:6c3a2d02baa88c6bab220dc98e368bcf3db7f811c7c66ffecabe23cda78fb1ce",
       "review_state": {
         "human_reviewed": false,
@@ -1618,9 +1618,9 @@
         "work": "페레그리노스의 죽음",
         "reference": "12",
         "edition": "A. M. Harmon 편역, Lucian, vol. 5, Loeb Classical Library, London: Heinemann; Cambridge, MA: Harvard University Press, 1936.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:6b6ce5fc0b84f3b5aa44bdc3d052463c916dda967dde606a3fb3ec7541b0286f",
-        "fixed_path": "releases/public-0.39/works/peregr/index.html#p-12"
+        "fixed_path": "releases/public-0.40/works/peregr/index.html#p-12"
       }
     },
     {
@@ -1749,7 +1749,7 @@
       ],
       "work_passage_id": "peregr:13",
       "html_path": "works/peregr/index.html#p-13",
-      "fixed_html_path": "releases/public-0.39/works/peregr/index.html#p-13",
+      "fixed_html_path": "releases/public-0.40/works/peregr/index.html#p-13",
       "alignment_revision": "sha256:02fc74405e283709c439ad92a884177a14cefe5e854f8cfa3dd33666ab51c26d",
       "review_state": {
         "human_reviewed": false,
@@ -1785,9 +1785,9 @@
         "work": "페레그리노스의 죽음",
         "reference": "13",
         "edition": "A. M. Harmon 편역, Lucian, vol. 5, Loeb Classical Library, London: Heinemann; Cambridge, MA: Harvard University Press, 1936.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:4f357c17d61de6e91d013f459fd8567758c302bb58c73b07c2488ebc6aef9109",
-        "fixed_path": "releases/public-0.39/works/peregr/index.html#p-13"
+        "fixed_path": "releases/public-0.40/works/peregr/index.html#p-13"
       }
     },
     {
@@ -1892,7 +1892,7 @@
       ],
       "work_passage_id": "peregr:14",
       "html_path": "works/peregr/index.html#p-14",
-      "fixed_html_path": "releases/public-0.39/works/peregr/index.html#p-14",
+      "fixed_html_path": "releases/public-0.40/works/peregr/index.html#p-14",
       "alignment_revision": "sha256:592bbf0a8163d497c5e31dc65f21193f696272c15dd4c662973eb44b3852a284",
       "review_state": {
         "human_reviewed": false,
@@ -1928,9 +1928,9 @@
         "work": "페레그리노스의 죽음",
         "reference": "14",
         "edition": "A. M. Harmon 편역, Lucian, vol. 5, Loeb Classical Library, London: Heinemann; Cambridge, MA: Harvard University Press, 1936.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:17e97d03ec037475f85de71f445b909776ff89e3eb75c09b8f0dc98e0555c627",
-        "fixed_path": "releases/public-0.39/works/peregr/index.html#p-14"
+        "fixed_path": "releases/public-0.40/works/peregr/index.html#p-14"
       }
     },
     {
@@ -2034,7 +2034,7 @@
       ],
       "work_passage_id": "peregr:15",
       "html_path": "works/peregr/index.html#p-15",
-      "fixed_html_path": "releases/public-0.39/works/peregr/index.html#p-15",
+      "fixed_html_path": "releases/public-0.40/works/peregr/index.html#p-15",
       "alignment_revision": "sha256:0ee507fb07b748ae643ab01c73d8481ed3cf63ff22f9901935ab8e8d68b393a7",
       "review_state": {
         "human_reviewed": false,
@@ -2070,9 +2070,9 @@
         "work": "페레그리노스의 죽음",
         "reference": "15",
         "edition": "A. M. Harmon 편역, Lucian, vol. 5, Loeb Classical Library, London: Heinemann; Cambridge, MA: Harvard University Press, 1936.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:622690f090adcaa7330e7ecbc62e5d547d600c29cfd783b07535842ee7ee66bf",
-        "fixed_path": "releases/public-0.39/works/peregr/index.html#p-15"
+        "fixed_path": "releases/public-0.40/works/peregr/index.html#p-15"
       }
     },
     {
@@ -2160,7 +2160,7 @@
       ],
       "work_passage_id": "peregr:16",
       "html_path": "works/peregr/index.html#p-16",
-      "fixed_html_path": "releases/public-0.39/works/peregr/index.html#p-16",
+      "fixed_html_path": "releases/public-0.40/works/peregr/index.html#p-16",
       "alignment_revision": "sha256:4cac759c357de147fb81c4f788febb9e43ca646ac4c3f4b40c82606cfd457eaa",
       "review_state": {
         "human_reviewed": false,
@@ -2196,9 +2196,9 @@
         "work": "페레그리노스의 죽음",
         "reference": "16",
         "edition": "A. M. Harmon 편역, Lucian, vol. 5, Loeb Classical Library, London: Heinemann; Cambridge, MA: Harvard University Press, 1936.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:61cc5f9df663b5d433e73daaaa4e6a87e7ec428c7eed8abc4690daaddc5a1cc0",
-        "fixed_path": "releases/public-0.39/works/peregr/index.html#p-16"
+        "fixed_path": "releases/public-0.40/works/peregr/index.html#p-16"
       }
     },
     {
@@ -2277,7 +2277,7 @@
       ],
       "work_passage_id": "peregr:17",
       "html_path": "works/peregr/index.html#p-17",
-      "fixed_html_path": "releases/public-0.39/works/peregr/index.html#p-17",
+      "fixed_html_path": "releases/public-0.40/works/peregr/index.html#p-17",
       "alignment_revision": "sha256:565640f28035a2207f31c845b598b400539c4568e506aadfaa33632d45988a8f",
       "review_state": {
         "human_reviewed": false,
@@ -2313,9 +2313,9 @@
         "work": "페레그리노스의 죽음",
         "reference": "17",
         "edition": "A. M. Harmon 편역, Lucian, vol. 5, Loeb Classical Library, London: Heinemann; Cambridge, MA: Harvard University Press, 1936.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:e920695ba59e452d0a627c8278c6a8497b7b8481b7e9565ecee5bf9330aacce8",
-        "fixed_path": "releases/public-0.39/works/peregr/index.html#p-17"
+        "fixed_path": "releases/public-0.40/works/peregr/index.html#p-17"
       }
     },
     {
@@ -2404,7 +2404,7 @@
       ],
       "work_passage_id": "peregr:18",
       "html_path": "works/peregr/index.html#p-18",
-      "fixed_html_path": "releases/public-0.39/works/peregr/index.html#p-18",
+      "fixed_html_path": "releases/public-0.40/works/peregr/index.html#p-18",
       "alignment_revision": "sha256:e606663b4fadbc98615bda05b17bb7312c8e6e8b395b5e573f95822d491a6f32",
       "review_state": {
         "human_reviewed": false,
@@ -2440,9 +2440,9 @@
         "work": "페레그리노스의 죽음",
         "reference": "18",
         "edition": "A. M. Harmon 편역, Lucian, vol. 5, Loeb Classical Library, London: Heinemann; Cambridge, MA: Harvard University Press, 1936.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:bb4560ab847bcaa6497fbeb3dcdeefb1b99981ad3d1b1da1c2143bd67ba50573",
-        "fixed_path": "releases/public-0.39/works/peregr/index.html#p-18"
+        "fixed_path": "releases/public-0.40/works/peregr/index.html#p-18"
       }
     },
     {
@@ -2547,7 +2547,7 @@
       ],
       "work_passage_id": "peregr:19",
       "html_path": "works/peregr/index.html#p-19",
-      "fixed_html_path": "releases/public-0.39/works/peregr/index.html#p-19",
+      "fixed_html_path": "releases/public-0.40/works/peregr/index.html#p-19",
       "alignment_revision": "sha256:ac7ea950d5175c8f727d4b3fa4d3e634c2ab9326e73055ea2a0e478b48f19039",
       "review_state": {
         "human_reviewed": false,
@@ -2583,9 +2583,9 @@
         "work": "페레그리노스의 죽음",
         "reference": "19",
         "edition": "A. M. Harmon 편역, Lucian, vol. 5, Loeb Classical Library, London: Heinemann; Cambridge, MA: Harvard University Press, 1936.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:d67990555349fa00b19fcf94ec9f7a73a783200e9a4e6e28547f2b6834015afe",
-        "fixed_path": "releases/public-0.39/works/peregr/index.html#p-19"
+        "fixed_path": "releases/public-0.40/works/peregr/index.html#p-19"
       }
     },
     {
@@ -2660,7 +2660,7 @@
       ],
       "work_passage_id": "peregr:20",
       "html_path": "works/peregr/index.html#p-20",
-      "fixed_html_path": "releases/public-0.39/works/peregr/index.html#p-20",
+      "fixed_html_path": "releases/public-0.40/works/peregr/index.html#p-20",
       "alignment_revision": "sha256:66ec690fded55c373272aa3433aa1d49e82c81f633cbd61648e098f5d6d3745c",
       "review_state": {
         "human_reviewed": false,
@@ -2696,9 +2696,9 @@
         "work": "페레그리노스의 죽음",
         "reference": "20",
         "edition": "A. M. Harmon 편역, Lucian, vol. 5, Loeb Classical Library, London: Heinemann; Cambridge, MA: Harvard University Press, 1936.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:d7fd959701d7c01920d7b504be97301b40c6da64849a1bef2f95379d79d9aff9",
-        "fixed_path": "releases/public-0.39/works/peregr/index.html#p-20"
+        "fixed_path": "releases/public-0.40/works/peregr/index.html#p-20"
       }
     },
     {
@@ -2829,7 +2829,7 @@
       ],
       "work_passage_id": "peregr:21",
       "html_path": "works/peregr/index.html#p-21",
-      "fixed_html_path": "releases/public-0.39/works/peregr/index.html#p-21",
+      "fixed_html_path": "releases/public-0.40/works/peregr/index.html#p-21",
       "alignment_revision": "sha256:0499538555e696ea53a347c9188b114cd16834efd9827fbd665ea9d3f7fe9755",
       "review_state": {
         "human_reviewed": false,
@@ -2865,9 +2865,9 @@
         "work": "페레그리노스의 죽음",
         "reference": "21",
         "edition": "A. M. Harmon 편역, Lucian, vol. 5, Loeb Classical Library, London: Heinemann; Cambridge, MA: Harvard University Press, 1936.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:6d4835d733b70430d548d519d629a84c51f397996e5d783660401563a0cdb0e7",
-        "fixed_path": "releases/public-0.39/works/peregr/index.html#p-21"
+        "fixed_path": "releases/public-0.40/works/peregr/index.html#p-21"
       }
     },
     {
@@ -2942,7 +2942,7 @@
       ],
       "work_passage_id": "peregr:22",
       "html_path": "works/peregr/index.html#p-22",
-      "fixed_html_path": "releases/public-0.39/works/peregr/index.html#p-22",
+      "fixed_html_path": "releases/public-0.40/works/peregr/index.html#p-22",
       "alignment_revision": "sha256:0aa2b666fc8a69b4300d581d37223d9959e76663f481445f4232680f94a18268",
       "review_state": {
         "human_reviewed": false,
@@ -2978,9 +2978,9 @@
         "work": "페레그리노스의 죽음",
         "reference": "22",
         "edition": "A. M. Harmon 편역, Lucian, vol. 5, Loeb Classical Library, London: Heinemann; Cambridge, MA: Harvard University Press, 1936.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:7baa9e0d162cd0a1bf4b52a07b04813ca48c53468d1fabf4135d00d1b2579b6f",
-        "fixed_path": "releases/public-0.39/works/peregr/index.html#p-22"
+        "fixed_path": "releases/public-0.40/works/peregr/index.html#p-22"
       }
     },
     {
@@ -3066,7 +3066,7 @@
       "notes": [],
       "work_passage_id": "peregr:23",
       "html_path": "works/peregr/index.html#p-23",
-      "fixed_html_path": "releases/public-0.39/works/peregr/index.html#p-23",
+      "fixed_html_path": "releases/public-0.40/works/peregr/index.html#p-23",
       "alignment_revision": "sha256:ac22a23ad1cc7d4093647dd42ec6300d5a9dec5c3806464aefb8a73f26e9a33d",
       "review_state": {
         "human_reviewed": false,
@@ -3102,9 +3102,9 @@
         "work": "페레그리노스의 죽음",
         "reference": "23",
         "edition": "A. M. Harmon 편역, Lucian, vol. 5, Loeb Classical Library, London: Heinemann; Cambridge, MA: Harvard University Press, 1936.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:47b2a2f7fde389759d31196056c72097c983e7810f7c6d41fd9c0c7926cb510c",
-        "fixed_path": "releases/public-0.39/works/peregr/index.html#p-23"
+        "fixed_path": "releases/public-0.40/works/peregr/index.html#p-23"
       }
     },
     {
@@ -3235,7 +3235,7 @@
       ],
       "work_passage_id": "peregr:24",
       "html_path": "works/peregr/index.html#p-24",
-      "fixed_html_path": "releases/public-0.39/works/peregr/index.html#p-24",
+      "fixed_html_path": "releases/public-0.40/works/peregr/index.html#p-24",
       "alignment_revision": "sha256:eec3d52587934cd190b362b72be0ef79ea5a4a736917ddc074abfa3638faf1b4",
       "review_state": {
         "human_reviewed": false,
@@ -3271,9 +3271,9 @@
         "work": "페레그리노스의 죽음",
         "reference": "24",
         "edition": "A. M. Harmon 편역, Lucian, vol. 5, Loeb Classical Library, London: Heinemann; Cambridge, MA: Harvard University Press, 1936.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:c262c0d1294cbf6e525ba1a50295643fb6e0c8e55ae9492f45ec25e5af022882",
-        "fixed_path": "releases/public-0.39/works/peregr/index.html#p-24"
+        "fixed_path": "releases/public-0.40/works/peregr/index.html#p-24"
       }
     },
     {
@@ -3404,7 +3404,7 @@
       ],
       "work_passage_id": "peregr:25",
       "html_path": "works/peregr/index.html#p-25",
-      "fixed_html_path": "releases/public-0.39/works/peregr/index.html#p-25",
+      "fixed_html_path": "releases/public-0.40/works/peregr/index.html#p-25",
       "alignment_revision": "sha256:c6b0298f2e0159350aca1223388a71785134134f5c8ec504740c38d5f86eb593",
       "review_state": {
         "human_reviewed": false,
@@ -3440,9 +3440,9 @@
         "work": "페레그리노스의 죽음",
         "reference": "25",
         "edition": "A. M. Harmon 편역, Lucian, vol. 5, Loeb Classical Library, London: Heinemann; Cambridge, MA: Harvard University Press, 1936.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:78b6e1fed2371d38464a9423d4a26ff5b4de4d7fe45f544ae017384e21395ea5",
-        "fixed_path": "releases/public-0.39/works/peregr/index.html#p-25"
+        "fixed_path": "releases/public-0.40/works/peregr/index.html#p-25"
       }
     },
     {
@@ -3530,7 +3530,7 @@
       ],
       "work_passage_id": "peregr:26",
       "html_path": "works/peregr/index.html#p-26",
-      "fixed_html_path": "releases/public-0.39/works/peregr/index.html#p-26",
+      "fixed_html_path": "releases/public-0.40/works/peregr/index.html#p-26",
       "alignment_revision": "sha256:0feea6c9f90bc37de9973df3ee2e75821610242b0164a992dc2ea11f117999c6",
       "review_state": {
         "human_reviewed": false,
@@ -3566,9 +3566,9 @@
         "work": "페레그리노스의 죽음",
         "reference": "26",
         "edition": "A. M. Harmon 편역, Lucian, vol. 5, Loeb Classical Library, London: Heinemann; Cambridge, MA: Harvard University Press, 1936.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:f0c73a6316914724f67368356fb684a549e8cf0bc00b11c531bb8cd897797907",
-        "fixed_path": "releases/public-0.39/works/peregr/index.html#p-26"
+        "fixed_path": "releases/public-0.40/works/peregr/index.html#p-26"
       }
     },
     {
@@ -3630,7 +3630,7 @@
       ],
       "work_passage_id": "peregr:27",
       "html_path": "works/peregr/index.html#p-27",
-      "fixed_html_path": "releases/public-0.39/works/peregr/index.html#p-27",
+      "fixed_html_path": "releases/public-0.40/works/peregr/index.html#p-27",
       "alignment_revision": "sha256:d2508f928118e25594cf5b5e05356ff0d08c05c553013a2a0f905f6acdbf2c3d",
       "review_state": {
         "human_reviewed": false,
@@ -3666,9 +3666,9 @@
         "work": "페레그리노스의 죽음",
         "reference": "27",
         "edition": "A. M. Harmon 편역, Lucian, vol. 5, Loeb Classical Library, London: Heinemann; Cambridge, MA: Harvard University Press, 1936.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:5041de95517f41955bf4838ffc9fd6d008e267a163bff3c96358f1ed03a16a42",
-        "fixed_path": "releases/public-0.39/works/peregr/index.html#p-27"
+        "fixed_path": "releases/public-0.40/works/peregr/index.html#p-27"
       }
     },
     {
@@ -3743,7 +3743,7 @@
       ],
       "work_passage_id": "peregr:28",
       "html_path": "works/peregr/index.html#p-28",
-      "fixed_html_path": "releases/public-0.39/works/peregr/index.html#p-28",
+      "fixed_html_path": "releases/public-0.40/works/peregr/index.html#p-28",
       "alignment_revision": "sha256:7d8669f628a85d4cc0162a4daa7fc4621c6bd931c298d3d3de645ca301ca13f8",
       "review_state": {
         "human_reviewed": false,
@@ -3779,9 +3779,9 @@
         "work": "페레그리노스의 죽음",
         "reference": "28",
         "edition": "A. M. Harmon 편역, Lucian, vol. 5, Loeb Classical Library, London: Heinemann; Cambridge, MA: Harvard University Press, 1936.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:062bc70d55de929a73fff7f3b006e9d39fe654cfd2c6779d60274496e6cd7b69",
-        "fixed_path": "releases/public-0.39/works/peregr/index.html#p-28"
+        "fixed_path": "releases/public-0.40/works/peregr/index.html#p-28"
       }
     },
     {
@@ -3856,7 +3856,7 @@
       ],
       "work_passage_id": "peregr:29",
       "html_path": "works/peregr/index.html#p-29",
-      "fixed_html_path": "releases/public-0.39/works/peregr/index.html#p-29",
+      "fixed_html_path": "releases/public-0.40/works/peregr/index.html#p-29",
       "alignment_revision": "sha256:b6c8b80c895431fbd71ea47b040b69a842088fc83c664d632492b8e4e22c9748",
       "review_state": {
         "human_reviewed": false,
@@ -3892,9 +3892,9 @@
         "work": "페레그리노스의 죽음",
         "reference": "29",
         "edition": "A. M. Harmon 편역, Lucian, vol. 5, Loeb Classical Library, London: Heinemann; Cambridge, MA: Harvard University Press, 1936.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:c69c25ef0bb27335918e20645c31ae4f55c334d7651ce4cca6e4f98773f23519",
-        "fixed_path": "releases/public-0.39/works/peregr/index.html#p-29"
+        "fixed_path": "releases/public-0.40/works/peregr/index.html#p-29"
       }
     },
     {
@@ -4012,7 +4012,7 @@
       ],
       "work_passage_id": "peregr:30",
       "html_path": "works/peregr/index.html#p-30",
-      "fixed_html_path": "releases/public-0.39/works/peregr/index.html#p-30",
+      "fixed_html_path": "releases/public-0.40/works/peregr/index.html#p-30",
       "alignment_revision": "sha256:b94538260948d1f4e025f06964cb0eca3ceacac36d9bb66b15e8c2dcbac36427",
       "review_state": {
         "human_reviewed": false,
@@ -4048,9 +4048,9 @@
         "work": "페레그리노스의 죽음",
         "reference": "30",
         "edition": "A. M. Harmon 편역, Lucian, vol. 5, Loeb Classical Library, London: Heinemann; Cambridge, MA: Harvard University Press, 1936.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:8ce709a73bb7bfa9533e4a6f8f6436b710e0f4367a5a3e2bd868706451745651",
-        "fixed_path": "releases/public-0.39/works/peregr/index.html#p-30"
+        "fixed_path": "releases/public-0.40/works/peregr/index.html#p-30"
       }
     },
     {
@@ -4155,7 +4155,7 @@
       ],
       "work_passage_id": "peregr:31",
       "html_path": "works/peregr/index.html#p-31",
-      "fixed_html_path": "releases/public-0.39/works/peregr/index.html#p-31",
+      "fixed_html_path": "releases/public-0.40/works/peregr/index.html#p-31",
       "alignment_revision": "sha256:74d7566bb74cf9a1798cee618633331a9f7771e86dc64f8fda78f2849a37c9cc",
       "review_state": {
         "human_reviewed": false,
@@ -4191,9 +4191,9 @@
         "work": "페레그리노스의 죽음",
         "reference": "31",
         "edition": "A. M. Harmon 편역, Lucian, vol. 5, Loeb Classical Library, London: Heinemann; Cambridge, MA: Harvard University Press, 1936.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:dc417e54b81005a5ea3c330245bbcfaae3dc3a4f387722670bd5c550c4dd15d1",
-        "fixed_path": "releases/public-0.39/works/peregr/index.html#p-31"
+        "fixed_path": "releases/public-0.40/works/peregr/index.html#p-31"
       }
     },
     {
@@ -4294,7 +4294,7 @@
       ],
       "work_passage_id": "peregr:32",
       "html_path": "works/peregr/index.html#p-32",
-      "fixed_html_path": "releases/public-0.39/works/peregr/index.html#p-32",
+      "fixed_html_path": "releases/public-0.40/works/peregr/index.html#p-32",
       "alignment_revision": "sha256:83d8a151c5a08d87cbbda5576716f7593f752bd6f0f7e0bd5543474a1771a37e",
       "review_state": {
         "human_reviewed": false,
@@ -4330,9 +4330,9 @@
         "work": "페레그리노스의 죽음",
         "reference": "32",
         "edition": "A. M. Harmon 편역, Lucian, vol. 5, Loeb Classical Library, London: Heinemann; Cambridge, MA: Harvard University Press, 1936.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:42dc607ca24a273e7d24d87cc725c21b351f50a8cd879f5a33701e2dab655a7f",
-        "fixed_path": "releases/public-0.39/works/peregr/index.html#p-32"
+        "fixed_path": "releases/public-0.40/works/peregr/index.html#p-32"
       }
     },
     {
@@ -4451,7 +4451,7 @@
       ],
       "work_passage_id": "peregr:33",
       "html_path": "works/peregr/index.html#p-33",
-      "fixed_html_path": "releases/public-0.39/works/peregr/index.html#p-33",
+      "fixed_html_path": "releases/public-0.40/works/peregr/index.html#p-33",
       "alignment_revision": "sha256:16442d0a791ddae82287a9dc9dbf17b89b6acb608fec94c64f1fd3def9c4dc7e",
       "review_state": {
         "human_reviewed": false,
@@ -4487,9 +4487,9 @@
         "work": "페레그리노스의 죽음",
         "reference": "33",
         "edition": "A. M. Harmon 편역, Lucian, vol. 5, Loeb Classical Library, London: Heinemann; Cambridge, MA: Harvard University Press, 1936.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:848a5e8c55724da8bbe44e8589aee56905a8a2c5aa243dfcae600a7b9d4e5701",
-        "fixed_path": "releases/public-0.39/works/peregr/index.html#p-33"
+        "fixed_path": "releases/public-0.40/works/peregr/index.html#p-33"
       }
     },
     {
@@ -4564,7 +4564,7 @@
       ],
       "work_passage_id": "peregr:34",
       "html_path": "works/peregr/index.html#p-34",
-      "fixed_html_path": "releases/public-0.39/works/peregr/index.html#p-34",
+      "fixed_html_path": "releases/public-0.40/works/peregr/index.html#p-34",
       "alignment_revision": "sha256:9a20d7ebc6001e7e908caf38071ec6e4620206ca6b7745b0705af249ca901cbe",
       "review_state": {
         "human_reviewed": false,
@@ -4600,9 +4600,9 @@
         "work": "페레그리노스의 죽음",
         "reference": "34",
         "edition": "A. M. Harmon 편역, Lucian, vol. 5, Loeb Classical Library, London: Heinemann; Cambridge, MA: Harvard University Press, 1936.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:993dbce6259b8a3f2013a5c09f50335fbcf6f6039ec0d11f46dd8a0fe8b00d35",
-        "fixed_path": "releases/public-0.39/works/peregr/index.html#p-34"
+        "fixed_path": "releases/public-0.40/works/peregr/index.html#p-34"
       }
     },
     {
@@ -4733,7 +4733,7 @@
       ],
       "work_passage_id": "peregr:35",
       "html_path": "works/peregr/index.html#p-35",
-      "fixed_html_path": "releases/public-0.39/works/peregr/index.html#p-35",
+      "fixed_html_path": "releases/public-0.40/works/peregr/index.html#p-35",
       "alignment_revision": "sha256:cd2e03a1abb285ebdf8939b7e4cc054a3e713a89e4e8d6a97d334e46b20cdc7e",
       "review_state": {
         "human_reviewed": false,
@@ -4769,9 +4769,9 @@
         "work": "페레그리노스의 죽음",
         "reference": "35",
         "edition": "A. M. Harmon 편역, Lucian, vol. 5, Loeb Classical Library, London: Heinemann; Cambridge, MA: Harvard University Press, 1936.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:6f8313b422a6e43de26a7f764ef3feb4b4c0ee83b59e83c1f0b7de0e6cf0ae5d",
-        "fixed_path": "releases/public-0.39/works/peregr/index.html#p-35"
+        "fixed_path": "releases/public-0.40/works/peregr/index.html#p-35"
       }
     },
     {
@@ -4899,7 +4899,7 @@
       ],
       "work_passage_id": "peregr:36",
       "html_path": "works/peregr/index.html#p-36",
-      "fixed_html_path": "releases/public-0.39/works/peregr/index.html#p-36",
+      "fixed_html_path": "releases/public-0.40/works/peregr/index.html#p-36",
       "alignment_revision": "sha256:d17614bb7ddf60c752289b5238df05c1c4f03eae78bd559ab5f82b1e8649f724",
       "review_state": {
         "human_reviewed": false,
@@ -4935,9 +4935,9 @@
         "work": "페레그리노스의 죽음",
         "reference": "36",
         "edition": "A. M. Harmon 편역, Lucian, vol. 5, Loeb Classical Library, London: Heinemann; Cambridge, MA: Harvard University Press, 1936.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:739a878570fd7ed9d12a98e253195076c9a5daf5ab5c2428cb42c51060ff3df8",
-        "fixed_path": "releases/public-0.39/works/peregr/index.html#p-36"
+        "fixed_path": "releases/public-0.40/works/peregr/index.html#p-36"
       }
     },
     {
@@ -5067,7 +5067,7 @@
       ],
       "work_passage_id": "peregr:37",
       "html_path": "works/peregr/index.html#p-37",
-      "fixed_html_path": "releases/public-0.39/works/peregr/index.html#p-37",
+      "fixed_html_path": "releases/public-0.40/works/peregr/index.html#p-37",
       "alignment_revision": "sha256:4b25e390e3b89baabc4964c88fed5c7c1f31cbe4dbe8e8434caee598f53d33ff",
       "review_state": {
         "human_reviewed": false,
@@ -5103,9 +5103,9 @@
         "work": "페레그리노스의 죽음",
         "reference": "37",
         "edition": "A. M. Harmon 편역, Lucian, vol. 5, Loeb Classical Library, London: Heinemann; Cambridge, MA: Harvard University Press, 1936.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:d11d9e1ed2e6e8a5889243eacdbfae226e92aa5a7a69880e51e477eac7a9ba23",
-        "fixed_path": "releases/public-0.39/works/peregr/index.html#p-37"
+        "fixed_path": "releases/public-0.40/works/peregr/index.html#p-37"
       }
     },
     {
@@ -5165,7 +5165,7 @@
       "notes": [],
       "work_passage_id": "peregr:38",
       "html_path": "works/peregr/index.html#p-38",
-      "fixed_html_path": "releases/public-0.39/works/peregr/index.html#p-38",
+      "fixed_html_path": "releases/public-0.40/works/peregr/index.html#p-38",
       "alignment_revision": "sha256:bb4bb0f0a6de264cf07af77acaf988ceed80d883c766859ec5b3a1703970b35f",
       "review_state": {
         "human_reviewed": false,
@@ -5201,9 +5201,9 @@
         "work": "페레그리노스의 죽음",
         "reference": "38",
         "edition": "A. M. Harmon 편역, Lucian, vol. 5, Loeb Classical Library, London: Heinemann; Cambridge, MA: Harvard University Press, 1936.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:9223c1c2024f47d27b1906c63e0c196b4886eec2eb3a3c2328635b383863992d",
-        "fixed_path": "releases/public-0.39/works/peregr/index.html#p-38"
+        "fixed_path": "releases/public-0.40/works/peregr/index.html#p-38"
       }
     },
     {
@@ -5360,7 +5360,7 @@
       ],
       "work_passage_id": "peregr:39",
       "html_path": "works/peregr/index.html#p-39",
-      "fixed_html_path": "releases/public-0.39/works/peregr/index.html#p-39",
+      "fixed_html_path": "releases/public-0.40/works/peregr/index.html#p-39",
       "alignment_revision": "sha256:5c3c70869b9f097be43bf364205367ad1fd87b7e2db30dc631f75af3345fe3b3",
       "review_state": {
         "human_reviewed": false,
@@ -5396,9 +5396,9 @@
         "work": "페레그리노스의 죽음",
         "reference": "39",
         "edition": "A. M. Harmon 편역, Lucian, vol. 5, Loeb Classical Library, London: Heinemann; Cambridge, MA: Harvard University Press, 1936.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:b6695e9f9b43d9a3cbac20a8557db4bece52641b06045f6588cc8d6e0a66cbc0",
-        "fixed_path": "releases/public-0.39/works/peregr/index.html#p-39"
+        "fixed_path": "releases/public-0.40/works/peregr/index.html#p-39"
       }
     },
     {
@@ -5476,7 +5476,7 @@
       ],
       "work_passage_id": "peregr:40",
       "html_path": "works/peregr/index.html#p-40",
-      "fixed_html_path": "releases/public-0.39/works/peregr/index.html#p-40",
+      "fixed_html_path": "releases/public-0.40/works/peregr/index.html#p-40",
       "alignment_revision": "sha256:e731d654bcb84bbfe826358edaed217b777338358feaf80e2c542094a3afbe03",
       "review_state": {
         "human_reviewed": false,
@@ -5512,9 +5512,9 @@
         "work": "페레그리노스의 죽음",
         "reference": "40",
         "edition": "A. M. Harmon 편역, Lucian, vol. 5, Loeb Classical Library, London: Heinemann; Cambridge, MA: Harvard University Press, 1936.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:d6a5f6f16a73790cb14d023121e5e2b28d2bfb81c06c8e1fb7065cb68ac3093f",
-        "fixed_path": "releases/public-0.39/works/peregr/index.html#p-40"
+        "fixed_path": "releases/public-0.40/works/peregr/index.html#p-40"
       }
     },
     {
@@ -5604,7 +5604,7 @@
       ],
       "work_passage_id": "peregr:41",
       "html_path": "works/peregr/index.html#p-41",
-      "fixed_html_path": "releases/public-0.39/works/peregr/index.html#p-41",
+      "fixed_html_path": "releases/public-0.40/works/peregr/index.html#p-41",
       "alignment_revision": "sha256:bf0339a2ec15de957f4a5122a0b8009805b1cac799de817754dfb275cf5fa6b5",
       "review_state": {
         "human_reviewed": false,
@@ -5640,9 +5640,9 @@
         "work": "페레그리노스의 죽음",
         "reference": "41",
         "edition": "A. M. Harmon 편역, Lucian, vol. 5, Loeb Classical Library, London: Heinemann; Cambridge, MA: Harvard University Press, 1936.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:a4087c50383b9afb5e6ad495a5c0fae63414919f0a9337adeb850d27a0f48fea",
-        "fixed_path": "releases/public-0.39/works/peregr/index.html#p-41"
+        "fixed_path": "releases/public-0.40/works/peregr/index.html#p-41"
       }
     },
     {
@@ -5705,7 +5705,7 @@
       "notes": [],
       "work_passage_id": "peregr:42",
       "html_path": "works/peregr/index.html#p-42",
-      "fixed_html_path": "releases/public-0.39/works/peregr/index.html#p-42",
+      "fixed_html_path": "releases/public-0.40/works/peregr/index.html#p-42",
       "alignment_revision": "sha256:a9438f2406d90366d27c9c08476e79ebb6475235aa8cd0fa9f31b3c14dab9b00",
       "review_state": {
         "human_reviewed": false,
@@ -5741,9 +5741,9 @@
         "work": "페레그리노스의 죽음",
         "reference": "42",
         "edition": "A. M. Harmon 편역, Lucian, vol. 5, Loeb Classical Library, London: Heinemann; Cambridge, MA: Harvard University Press, 1936.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:9127673108ef5774f9a53ef05230405a0566bb5426832ce253f65a055596b244",
-        "fixed_path": "releases/public-0.39/works/peregr/index.html#p-42"
+        "fixed_path": "releases/public-0.40/works/peregr/index.html#p-42"
       }
     },
     {
@@ -5832,7 +5832,7 @@
       ],
       "work_passage_id": "peregr:43",
       "html_path": "works/peregr/index.html#p-43",
-      "fixed_html_path": "releases/public-0.39/works/peregr/index.html#p-43",
+      "fixed_html_path": "releases/public-0.40/works/peregr/index.html#p-43",
       "alignment_revision": "sha256:4f78a375b7d87e49d587df8799496417b20f4fc72421f9bdeb566139244eebfd",
       "review_state": {
         "human_reviewed": false,
@@ -5868,9 +5868,9 @@
         "work": "페레그리노스의 죽음",
         "reference": "43",
         "edition": "A. M. Harmon 편역, Lucian, vol. 5, Loeb Classical Library, London: Heinemann; Cambridge, MA: Harvard University Press, 1936.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:9a6eabbd08c345961ce650bd3fca2078321c5d1cc4e4dee3ce1447a44cb8da93",
-        "fixed_path": "releases/public-0.39/works/peregr/index.html#p-43"
+        "fixed_path": "releases/public-0.40/works/peregr/index.html#p-43"
       }
     },
     {
@@ -5971,7 +5971,7 @@
       ],
       "work_passage_id": "peregr:44",
       "html_path": "works/peregr/index.html#p-44",
-      "fixed_html_path": "releases/public-0.39/works/peregr/index.html#p-44",
+      "fixed_html_path": "releases/public-0.40/works/peregr/index.html#p-44",
       "alignment_revision": "sha256:8dd3d3f34e3bd52960a652e622e97cfd785da7c392382eaa1ac1c3918031652c",
       "review_state": {
         "human_reviewed": false,
@@ -6007,9 +6007,9 @@
         "work": "페레그리노스의 죽음",
         "reference": "44",
         "edition": "A. M. Harmon 편역, Lucian, vol. 5, Loeb Classical Library, London: Heinemann; Cambridge, MA: Harvard University Press, 1936.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:942bae3c638cc9b8c2a065f5669af2a8a6c9a79f085e3abf46d3f21bedf74d63",
-        "fixed_path": "releases/public-0.39/works/peregr/index.html#p-44"
+        "fixed_path": "releases/public-0.40/works/peregr/index.html#p-44"
       }
     },
     {
@@ -6136,7 +6136,7 @@
       ],
       "work_passage_id": "peregr:45",
       "html_path": "works/peregr/index.html#p-45",
-      "fixed_html_path": "releases/public-0.39/works/peregr/index.html#p-45",
+      "fixed_html_path": "releases/public-0.40/works/peregr/index.html#p-45",
       "alignment_revision": "sha256:a3a5dd45ae3a8bd4eb76b32001e05727185da84dedb97dfe038d1e52e37455ad",
       "review_state": {
         "human_reviewed": false,
@@ -6172,9 +6172,9 @@
         "work": "페레그리노스의 죽음",
         "reference": "45",
         "edition": "A. M. Harmon 편역, Lucian, vol. 5, Loeb Classical Library, London: Heinemann; Cambridge, MA: Harvard University Press, 1936.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:b9648caeece6f962990b9e0f9de66e8596bac79298a400760121b3de70f05d32",
-        "fixed_path": "releases/public-0.39/works/peregr/index.html#p-45"
+        "fixed_path": "releases/public-0.40/works/peregr/index.html#p-45"
       }
     }
   ],
@@ -6198,14 +6198,14 @@
   "display_author": "루키아노스",
   "scope": "페레그리노스의 죽음 채택 본문 45대목 전체",
   "coverage": "complete",
-  "release_id": "public-0.39",
+  "release_id": "public-0.40",
   "source_language": "grc",
   "source_kind": "edited_ancient_original",
   "human_reviewed": false,
   "translation_method": "고정 원어 본문에서 직접 번역",
   "html_path": "works/peregr/index.html",
   "json_path": "data/works/peregr.json",
-  "fixed_html_path": "releases/public-0.39/works/peregr/index.html",
+  "fixed_html_path": "releases/public-0.40/works/peregr/index.html",
   "source_profile": "peregr-complete-pinned-source-20261021",
   "source_decisions": [
     {

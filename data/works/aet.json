@@ -114,7 +114,7 @@
       ],
       "work_passage_id": "aet:1",
       "html_path": "works/aet/index.html#p-1",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-1",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-1",
       "alignment_revision": "sha256:8dea2e4611092acad652bad9eaea4bc136039d3bb66768c4c078101ce380b806",
       "review_state": {
         "human_reviewed": false,
@@ -150,9 +150,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "1",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:41289a2aaf57137a325a37c5ddfe92f5b75c1f0efea43ca7d22f010354118459",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-1"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-1"
       }
     },
     {
@@ -244,7 +244,7 @@
       ],
       "work_passage_id": "aet:2",
       "html_path": "works/aet/index.html#p-2",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-2",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-2",
       "alignment_revision": "sha256:7a7e2a24f1f5c52627af16a15f90dc654cf210a6c36c1006dd06b82dcf5b03e9",
       "review_state": {
         "human_reviewed": false,
@@ -280,9 +280,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "2",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:f2280b60945ca5a4f2581d1144eeedb2f7bb83691a8c21523009ff761355169b",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-2"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-2"
       }
     },
     {
@@ -357,7 +357,7 @@
       ],
       "work_passage_id": "aet:3",
       "html_path": "works/aet/index.html#p-3",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-3",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-3",
       "alignment_revision": "sha256:0a6deab90e1efcb79f0a142903f092a5a4f43b4e648dff092613d4b09971c25c",
       "review_state": {
         "human_reviewed": false,
@@ -393,9 +393,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "3",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:034eebc82244ab3b2eeae573287dd4b932431437859417b0f08275628857f5c1",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-3"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-3"
       }
     },
     {
@@ -501,7 +501,7 @@
       ],
       "work_passage_id": "aet:4",
       "html_path": "works/aet/index.html#p-4",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-4",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-4",
       "alignment_revision": "sha256:5408ab658c45728f947a0d464f7e081b2df013d12fac4e0de9badfd040062198",
       "review_state": {
         "human_reviewed": false,
@@ -537,9 +537,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "4",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:ad32a049a9462f9f7037f39f3729ab7c11fa12795bedce5f926f119ff3be3fb0",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-4"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-4"
       }
     },
     {
@@ -654,7 +654,7 @@
       ],
       "work_passage_id": "aet:5",
       "html_path": "works/aet/index.html#p-5",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-5",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-5",
       "alignment_revision": "sha256:6c4225ff3712dca96e991a1f27085285768c5bdc46a30106a57f0733ff898840",
       "review_state": {
         "human_reviewed": false,
@@ -690,9 +690,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "5",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:cf4a14e3061935ba2dcfa6dd06b91ba2b27fb28eb332623e042093267eac5a52",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-5"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-5"
       }
     },
     {
@@ -757,7 +757,7 @@
       ],
       "work_passage_id": "aet:6",
       "html_path": "works/aet/index.html#p-6",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-6",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-6",
       "alignment_revision": "sha256:e28ac606fae055bbb1cd3f6e868149919fbb641f536749ce169a3762d2806107",
       "review_state": {
         "human_reviewed": false,
@@ -793,9 +793,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "6",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:61d29da7b1f69061263311493935476814b3b90ed9c7add99e15798987581551",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-6"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-6"
       }
     },
     {
@@ -870,7 +870,7 @@
       ],
       "work_passage_id": "aet:7",
       "html_path": "works/aet/index.html#p-7",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-7",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-7",
       "alignment_revision": "sha256:02248d371d1c993a30b0eabfd5ae74dfe595cc037711c5305f68598e14cb79d9",
       "review_state": {
         "human_reviewed": false,
@@ -906,9 +906,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "7",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:90c6f5cde43c82a58ae751d02f6b767483498d7dfb44907660616b07e43f37ee",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-7"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-7"
       }
     },
     {
@@ -997,7 +997,7 @@
       ],
       "work_passage_id": "aet:8",
       "html_path": "works/aet/index.html#p-8",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-8",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-8",
       "alignment_revision": "sha256:974348009ef3bd79bfe9da6ae8e051969f6b6dabd0e5341fe36abfff496fd654",
       "review_state": {
         "human_reviewed": false,
@@ -1033,9 +1033,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "8",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:a67b85098e7e12edc471dd0db70993ebaf54876643ccc027a41d0e3dbb1a16ef",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-8"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-8"
       }
     },
     {
@@ -1100,7 +1100,7 @@
       ],
       "work_passage_id": "aet:9",
       "html_path": "works/aet/index.html#p-9",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-9",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-9",
       "alignment_revision": "sha256:217a6cc4294e9c18c98143a0048a121492d8ca33585f0c59a352969609e524ae",
       "review_state": {
         "human_reviewed": false,
@@ -1136,9 +1136,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "9",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:5477dac92b053a0f7aa76b5770eabe38d2b4d0ae047efc4bb9fe13c7b72ee823",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-9"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-9"
       }
     },
     {
@@ -1214,7 +1214,7 @@
       ],
       "work_passage_id": "aet:10",
       "html_path": "works/aet/index.html#p-10",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-10",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-10",
       "alignment_revision": "sha256:8643c00aa5abefcce645391a666b7a53cc6bc9c02ef1122a8c20e8b9ec3f1988",
       "review_state": {
         "human_reviewed": false,
@@ -1250,9 +1250,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "10",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:ff49279374a575d9082032d5b97b4ba5966ba3c9358f17cfb17a70e10e5066bb",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-10"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-10"
       }
     },
     {
@@ -1327,7 +1327,7 @@
       ],
       "work_passage_id": "aet:11",
       "html_path": "works/aet/index.html#p-11",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-11",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-11",
       "alignment_revision": "sha256:0b001ef925b2ec5da968ac4f8bfb0a963f116a40e6f03d39554003413e345a02",
       "review_state": {
         "human_reviewed": false,
@@ -1363,9 +1363,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "11",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:4882f4862b2c4abe7037172901d705a439b56c0cb5f3d62360b3d344c9225da6",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-11"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-11"
       }
     },
     {
@@ -1427,7 +1427,7 @@
       ],
       "work_passage_id": "aet:12",
       "html_path": "works/aet/index.html#p-12",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-12",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-12",
       "alignment_revision": "sha256:207d632fa9348e1533e67b383cb646ac44777c470765abec6e2e1cdbdc273bca",
       "review_state": {
         "human_reviewed": false,
@@ -1463,9 +1463,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "12",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:fa5dfa2d0fd37e3d688d4d1aa584442c45070fbedad2c2969c1be8220978be52",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-12"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-12"
       }
     },
     {
@@ -1569,7 +1569,7 @@
       ],
       "work_passage_id": "aet:13",
       "html_path": "works/aet/index.html#p-13",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-13",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-13",
       "alignment_revision": "sha256:e7b0a8870febaee7fbf01bf47e5d743cc3cc8b1144e4d0ef31e835750ef5f455",
       "review_state": {
         "human_reviewed": false,
@@ -1605,9 +1605,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "13",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:a276935bc4f425b5b2538a94056da4570612bf97b3e5c4b0cb326d270e36cd12",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-13"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-13"
       }
     },
     {
@@ -1669,7 +1669,7 @@
       ],
       "work_passage_id": "aet:14",
       "html_path": "works/aet/index.html#p-14",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-14",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-14",
       "alignment_revision": "sha256:54140a1c45e46f673b15344b602187aec143f18d654dbac1a5f4ddbff1ef9c06",
       "review_state": {
         "human_reviewed": false,
@@ -1705,9 +1705,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "14",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:d0327f30887af87c9326aa4c1edd042f2b9d5570ab530d43218ae7a74a425916",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-14"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-14"
       }
     },
     {
@@ -1782,7 +1782,7 @@
       ],
       "work_passage_id": "aet:15",
       "html_path": "works/aet/index.html#p-15",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-15",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-15",
       "alignment_revision": "sha256:9addd661c34593e14ae10e41f10e592440edb8eae0b87402f2521bf89216e80b",
       "review_state": {
         "human_reviewed": false,
@@ -1818,9 +1818,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "15",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:2af499de0ec70fa0d7c564c9b451f7527080805258c996883deea346ac97e486",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-15"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-15"
       }
     },
     {
@@ -1895,7 +1895,7 @@
       ],
       "work_passage_id": "aet:16",
       "html_path": "works/aet/index.html#p-16",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-16",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-16",
       "alignment_revision": "sha256:b69aac2c66655cc6db033f37274e959420608b3f41f47cd6ea762b85f19e1462",
       "review_state": {
         "human_reviewed": false,
@@ -1931,9 +1931,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "16",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:d138cdb3b2ac5b8fd56336990a9b4ff9fb774d141c9caccae99fd5e9bb467caf",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-16"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-16"
       }
     },
     {
@@ -2012,7 +2012,7 @@
       ],
       "work_passage_id": "aet:17",
       "html_path": "works/aet/index.html#p-17",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-17",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-17",
       "alignment_revision": "sha256:1ce723d18970a397c9134c242ac29e7d59a934c685ce2af5d3712e36e60fcfbb",
       "review_state": {
         "human_reviewed": false,
@@ -2048,9 +2048,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "17",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:ca1c1198216ea2a42db9c8cef7eb245808f2cb8eea042ab08ecb35d9d8c0d826",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-17"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-17"
       }
     },
     {
@@ -2125,7 +2125,7 @@
       ],
       "work_passage_id": "aet:18",
       "html_path": "works/aet/index.html#p-18",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-18",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-18",
       "alignment_revision": "sha256:321a963a2ed83fc8d9dc3ef07dd5ca7e88f17766e85499cd07ed22ce99f61581",
       "review_state": {
         "human_reviewed": false,
@@ -2161,9 +2161,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "18",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:23c10d16b80a7a318ab6ad545a7734b727f103f9d0759374a8f4bb8981318ef0",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-18"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-18"
       }
     },
     {
@@ -2255,7 +2255,7 @@
       ],
       "work_passage_id": "aet:19",
       "html_path": "works/aet/index.html#p-19",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-19",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-19",
       "alignment_revision": "sha256:7aa3b7f06714a0739d91d9429bb4f641e5ac61b24ca941e383d46eeecd9f768d",
       "review_state": {
         "human_reviewed": false,
@@ -2291,9 +2291,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "19",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:f48a7cfae56057587885070c71bd1505be233c81db3ce99f142c33aeafebe16f",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-19"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-19"
       }
     },
     {
@@ -2395,7 +2395,7 @@
       ],
       "work_passage_id": "aet:20",
       "html_path": "works/aet/index.html#p-20",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-20",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-20",
       "alignment_revision": "sha256:95fad2b61772b16e30e6dcb25682e1ec3592496da7529e04985b013d517e5c1b",
       "review_state": {
         "human_reviewed": false,
@@ -2431,9 +2431,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "20",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:c24eb18847901590ac13f5d47a84d056e2a2e8b2ab981a6f6d94ff19b7cf493f",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-20"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-20"
       }
     },
     {
@@ -2589,7 +2589,7 @@
       ],
       "work_passage_id": "aet:21",
       "html_path": "works/aet/index.html#p-21",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-21",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-21",
       "alignment_revision": "sha256:bf286133733a3127e7be707414903aec2b59bb9e136b20147c125de6cf1393cc",
       "review_state": {
         "human_reviewed": false,
@@ -2625,9 +2625,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "21",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:5f850663d234dc78464d1148f43a2aa2b5a25da1640de860400e8b56116797e4",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-21"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-21"
       }
     },
     {
@@ -2728,7 +2728,7 @@
       ],
       "work_passage_id": "aet:22",
       "html_path": "works/aet/index.html#p-22",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-22",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-22",
       "alignment_revision": "sha256:e2dde264f397eb1e5c0bd388be2a6509512092010915c242e9654a529f1a09a2",
       "review_state": {
         "human_reviewed": false,
@@ -2764,9 +2764,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "22",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:010f67fa3e501c09cdc8ad921894596fb3adf7946d725c5e69d5221866283df5",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-22"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-22"
       }
     },
     {
@@ -2828,7 +2828,7 @@
       ],
       "work_passage_id": "aet:23",
       "html_path": "works/aet/index.html#p-23",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-23",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-23",
       "alignment_revision": "sha256:940b03bae5119e5dc27452e9a34489b3a8cfc7062d1c625570f7dadb1a16cd9c",
       "review_state": {
         "human_reviewed": false,
@@ -2864,9 +2864,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "23",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:6a37dd73509ee2e7b609690164a596c4357d2fdeae37dca83b4c6af2e8f2328b",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-23"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-23"
       }
     },
     {
@@ -2929,7 +2929,7 @@
       "notes": [],
       "work_passage_id": "aet:24",
       "html_path": "works/aet/index.html#p-24",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-24",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-24",
       "alignment_revision": "sha256:94a2851f0ff632ccd0857552e42b14f88e0790d4d809e552fe936fc5aca9eb3e",
       "review_state": {
         "human_reviewed": false,
@@ -2965,9 +2965,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "24",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:d6103136dc5fae6cdc031da4f01dd4e6dd2f9ee6e903ed23c2cd646311c48e4a",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-24"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-24"
       }
     },
     {
@@ -3042,7 +3042,7 @@
       ],
       "work_passage_id": "aet:25",
       "html_path": "works/aet/index.html#p-25",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-25",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-25",
       "alignment_revision": "sha256:7c56f8e4e50ee86751c64b82a94c66a2434fc1058dcd12c87451031608690989",
       "review_state": {
         "human_reviewed": false,
@@ -3078,9 +3078,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "25",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:ad8c6f998450cc6a1a2dd526b2fbb89ed87c12e0595faa7f84af2609dcc07d62",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-25"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-25"
       }
     },
     {
@@ -3166,7 +3166,7 @@
       "notes": [],
       "work_passage_id": "aet:26",
       "html_path": "works/aet/index.html#p-26",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-26",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-26",
       "alignment_revision": "sha256:2d893809b3bce6bb63b718523fb9b7e5149878914ec507c206a64b00e16adf0e",
       "review_state": {
         "human_reviewed": false,
@@ -3202,9 +3202,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "26",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:1219fbfd8414a0b96dd15882cb50c4bf0290ab87e1f46185bcfd4b88b2dbc241",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-26"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-26"
       }
     },
     {
@@ -3296,7 +3296,7 @@
       ],
       "work_passage_id": "aet:27",
       "html_path": "works/aet/index.html#p-27",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-27",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-27",
       "alignment_revision": "sha256:f3592fa1b9a2388a6fd14454d7c26a4584cf2880fcfed6d47b65e29019b51256",
       "review_state": {
         "human_reviewed": false,
@@ -3332,9 +3332,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "27",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:7d9729b252ee87e342fb7f37cd6a0f2ca662b52188b212a4a02df2563f701359",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-27"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-27"
       }
     },
     {
@@ -3422,7 +3422,7 @@
       ],
       "work_passage_id": "aet:28",
       "html_path": "works/aet/index.html#p-28",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-28",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-28",
       "alignment_revision": "sha256:c87ffe7f1586590d8c1f9fc418642faff0480f29bd07742c0607c694fb239477",
       "review_state": {
         "human_reviewed": false,
@@ -3458,9 +3458,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "28",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:ff3af37dde5f6283653266840e0e21bb9098036a68e5fcfad9776305d3f60fb2",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-28"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-28"
       }
     },
     {
@@ -3535,7 +3535,7 @@
       ],
       "work_passage_id": "aet:29",
       "html_path": "works/aet/index.html#p-29",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-29",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-29",
       "alignment_revision": "sha256:ca3f70705587226083796271bbbdf1800167e5b608dcfeda3a4fccce43d872a5",
       "review_state": {
         "human_reviewed": false,
@@ -3571,9 +3571,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "29",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:cba23832482901bd9e55e6def14436e7aa2daa87815216d1a3d88a31a20ea00f",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-29"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-29"
       }
     },
     {
@@ -3677,7 +3677,7 @@
       ],
       "work_passage_id": "aet:30",
       "html_path": "works/aet/index.html#p-30",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-30",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-30",
       "alignment_revision": "sha256:749bfb1edc1716f9c404b45069f06536042d87030ead6af371389dffc6b4fe81",
       "review_state": {
         "human_reviewed": false,
@@ -3713,9 +3713,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "30",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:1d9091a94bd5ec80ea2e0fea19aa3f95ad7dcb7b358d591b0904a40760127f6b",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-30"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-30"
       }
     },
     {
@@ -3775,7 +3775,7 @@
       "notes": [],
       "work_passage_id": "aet:31",
       "html_path": "works/aet/index.html#p-31",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-31",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-31",
       "alignment_revision": "sha256:afb1e427015678bb1fc3617f66ef67f57f848bf0784b348e0f13cab8dcd7be7c",
       "review_state": {
         "human_reviewed": false,
@@ -3811,9 +3811,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "31",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:3a41708f7c1ed0a5f8b83bfeadd26d0996e1e874bef551b878cd5dc2016d96a6",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-31"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-31"
       }
     },
     {
@@ -3899,7 +3899,7 @@
       "notes": [],
       "work_passage_id": "aet:32",
       "html_path": "works/aet/index.html#p-32",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-32",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-32",
       "alignment_revision": "sha256:fd1919af836d5674c3b06597abac31713407288e5d43847a034003d0fbf56b88",
       "review_state": {
         "human_reviewed": false,
@@ -3935,9 +3935,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "32",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:19a18e70d60473494995409ff2864a48d9b0544965f7ec5fe7c7d6a62df156f3",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-32"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-32"
       }
     },
     {
@@ -4041,7 +4041,7 @@
       ],
       "work_passage_id": "aet:33",
       "html_path": "works/aet/index.html#p-33",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-33",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-33",
       "alignment_revision": "sha256:dd517c86c12f372b9cbb006bd4a1f2858f94bd56ae07ea320680e8aeb09e04b6",
       "review_state": {
         "human_reviewed": false,
@@ -4077,9 +4077,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "33",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:1eea08fbc16e8e6018c7718626266082bbf01faa7e6363e0265e89c65757a647",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-33"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-33"
       }
     },
     {
@@ -4128,7 +4128,7 @@
       ],
       "work_passage_id": "aet:34",
       "html_path": "works/aet/index.html#p-34",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-34",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-34",
       "alignment_revision": "sha256:e16205372d91098d37b715972f47845c2542a15e4ea404d99def33aee2a79111",
       "review_state": {
         "human_reviewed": false,
@@ -4164,9 +4164,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "34",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:5bc210277439cd44ab37c4072be1f0f54091781ce9a039931b9558867a0553ca",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-34"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-34"
       }
     },
     {
@@ -4226,7 +4226,7 @@
       "notes": [],
       "work_passage_id": "aet:35",
       "html_path": "works/aet/index.html#p-35",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-35",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-35",
       "alignment_revision": "sha256:52e9216bd0106b1194bbd20e6c22a89d7fbec21ff45c1c5a8af917a57cb54fe8",
       "review_state": {
         "human_reviewed": false,
@@ -4262,9 +4262,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "35",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:1be3a6c58d5bbb02ce3f20c750e20cd667fe446747ccc4b3a19238d0f53575cc",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-35"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-35"
       }
     },
     {
@@ -4337,7 +4337,7 @@
       "notes": [],
       "work_passage_id": "aet:36",
       "html_path": "works/aet/index.html#p-36",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-36",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-36",
       "alignment_revision": "sha256:098cba7ac5c700998bb796be769e38f1fe4e433002d68cedf4b5b7bd62deeb15",
       "review_state": {
         "human_reviewed": false,
@@ -4373,9 +4373,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "36",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:959dc100d762d44e0953802bfd51846777c78d0d8d8282124fb3fa7da32d8132",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-36"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-36"
       }
     },
     {
@@ -4476,7 +4476,7 @@
       ],
       "work_passage_id": "aet:37",
       "html_path": "works/aet/index.html#p-37",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-37",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-37",
       "alignment_revision": "sha256:3061f96bb341c814aa81c79b2f5683e6c8f503c0dc92c9ac88848de15c0a4746",
       "review_state": {
         "human_reviewed": false,
@@ -4512,9 +4512,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "37",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:7c858d3ff14b7a73be0a294ebde1224e064fdf9fc3e03f1724331dc31a796d71",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-37"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-37"
       }
     },
     {
@@ -4579,7 +4579,7 @@
       ],
       "work_passage_id": "aet:38",
       "html_path": "works/aet/index.html#p-38",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-38",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-38",
       "alignment_revision": "sha256:7e5d339ef5b11614677c08c451175ad5e29adceb6dc7a68cf0f2a532b59c77e3",
       "review_state": {
         "human_reviewed": false,
@@ -4615,9 +4615,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "38",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:1462632c30efaefd617840bfffde76cd58462c1a945172cdfe4bb7c567527e7a",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-38"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-38"
       }
     },
     {
@@ -4692,7 +4692,7 @@
       ],
       "work_passage_id": "aet:39",
       "html_path": "works/aet/index.html#p-39",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-39",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-39",
       "alignment_revision": "sha256:40f73a2b70140811afa5d969c9aef8bf1cac95c0eab347a7f7ba1d9aba546617",
       "review_state": {
         "human_reviewed": false,
@@ -4728,9 +4728,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "39",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:f6f93d8a31ef697683c1847515e20ccd075b7002c13ee6fa5491409c9ec225de",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-39"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-39"
       }
     },
     {
@@ -4816,7 +4816,7 @@
       "notes": [],
       "work_passage_id": "aet:40",
       "html_path": "works/aet/index.html#p-40",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-40",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-40",
       "alignment_revision": "sha256:8bd2b1fa623ebec930c3cd8087486d0cb419ad1442e368d52f1b6988b6c92103",
       "review_state": {
         "human_reviewed": false,
@@ -4852,9 +4852,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "40",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:c9bc4b77ae0fb28bc4d249469f2acd1a3a72af4087382ef329c1aaf807380b08",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-40"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-40"
       }
     },
     {
@@ -4984,7 +4984,7 @@
       ],
       "work_passage_id": "aet:41",
       "html_path": "works/aet/index.html#p-41",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-41",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-41",
       "alignment_revision": "sha256:fffb08f4711f12c43d26581de1946403b3fce9eee306c98115cff77ddede4b75",
       "review_state": {
         "human_reviewed": false,
@@ -5020,9 +5020,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "41",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:86137b23329d2eb65a0d9971b9b8b25b62e50e417f301e2ded60cea385bdb1d8",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-41"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-41"
       }
     },
     {
@@ -5084,7 +5084,7 @@
       ],
       "work_passage_id": "aet:42",
       "html_path": "works/aet/index.html#p-42",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-42",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-42",
       "alignment_revision": "sha256:94400a296026efd4993dab3c04d7691e424fdb49cc2301df2b1a3eae1ff27a26",
       "review_state": {
         "human_reviewed": false,
@@ -5120,9 +5120,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "42",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:c5362b29c297a7106f15106c232328da2018ec188b550a30b353497563c7a2f3",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-42"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-42"
       }
     },
     {
@@ -5197,7 +5197,7 @@
       ],
       "work_passage_id": "aet:43",
       "html_path": "works/aet/index.html#p-43",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-43",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-43",
       "alignment_revision": "sha256:f68530a5e5d2294ccf8da50cfdddb8636f86bab96d41555f29523261205c3dd4",
       "review_state": {
         "human_reviewed": false,
@@ -5233,9 +5233,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "43",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:5079bc116318e2f4e1ae06e5997952310d59cc74c591748a64de038502de62a5",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-43"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-43"
       }
     },
     {
@@ -5295,7 +5295,7 @@
       "notes": [],
       "work_passage_id": "aet:44",
       "html_path": "works/aet/index.html#p-44",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-44",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-44",
       "alignment_revision": "sha256:11b79851f0e7cca9c37596b61c56cbd3e5f0e7ca46e74cf7c2215588b5d9b70c",
       "review_state": {
         "human_reviewed": false,
@@ -5331,9 +5331,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "44",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:e21d706440b16bdd4e8ee930f0ae03bd285758eeb426b60631240966290ab52f",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-44"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-44"
       }
     },
     {
@@ -5396,7 +5396,7 @@
       "notes": [],
       "work_passage_id": "aet:45",
       "html_path": "works/aet/index.html#p-45",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-45",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-45",
       "alignment_revision": "sha256:8bb7410480cff039d399309404a37b40a2ba47f8ae649bf7ce109c652164b423",
       "review_state": {
         "human_reviewed": false,
@@ -5432,9 +5432,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "45",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:63f56b7d109c772311e8cae51d07246a5d2c97a6d691bf29f9a3da0b4e69a745",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-45"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-45"
       }
     },
     {
@@ -5549,7 +5549,7 @@
       ],
       "work_passage_id": "aet:46",
       "html_path": "works/aet/index.html#p-46",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-46",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-46",
       "alignment_revision": "sha256:dd5586a6dddd2b0488b1f59c0245221612bf30b59beaf7872e5b01067918aceb",
       "review_state": {
         "human_reviewed": false,
@@ -5585,9 +5585,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "46",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:9935803524fd1b9d9b21c002a39bcf64cbcfc4f849c7d2536c29c83d7988a5bd",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-46"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-46"
       }
     },
     {
@@ -5676,7 +5676,7 @@
       ],
       "work_passage_id": "aet:47",
       "html_path": "works/aet/index.html#p-47",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-47",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-47",
       "alignment_revision": "sha256:3833e2b7c8ab06c16ebf18a76c99efbd9ab6197e9e4b8a9ae1ec3f7bfd5f122f",
       "review_state": {
         "human_reviewed": false,
@@ -5712,9 +5712,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "47",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:7425882cb2c146932d38d508e5917af41f2b1cc0c867b1b69393e8df83c8a7d3",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-47"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-47"
       }
     },
     {
@@ -5818,7 +5818,7 @@
       ],
       "work_passage_id": "aet:48",
       "html_path": "works/aet/index.html#p-48",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-48",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-48",
       "alignment_revision": "sha256:5286c64ec310a23f4c1c0aa6950a6b961c7f0ddf84b2fe819c86fd1a9bb20e76",
       "review_state": {
         "human_reviewed": false,
@@ -5854,9 +5854,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "48",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:de72570ba70cead7682e25de63c5ec4995fd0f10fc7959196ec6918c7db55183",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-48"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-48"
       }
     },
     {
@@ -5944,7 +5944,7 @@
       ],
       "work_passage_id": "aet:49",
       "html_path": "works/aet/index.html#p-49",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-49",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-49",
       "alignment_revision": "sha256:f87a9838675df012682b24de1217f9ce069c1fb8e272986efff9917f976a46a0",
       "review_state": {
         "human_reviewed": false,
@@ -5980,9 +5980,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "49",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:5a5c1f493262dd9dbcc77cda5245eb86e1116b6f4b7ef1fa1589f1c7acf5ecbd",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-49"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-49"
       }
     },
     {
@@ -6055,7 +6055,7 @@
       "notes": [],
       "work_passage_id": "aet:50",
       "html_path": "works/aet/index.html#p-50",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-50",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-50",
       "alignment_revision": "sha256:cd8bfc66a3527fab647509e0856b74b2363f2dcdb02c3a8a4e1dbaaa50d6ac28",
       "review_state": {
         "human_reviewed": false,
@@ -6091,9 +6091,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "50",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:b7a9ba8de695bb128972e039292718984bab641e8027ba1e21ee22851e3e10c0",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-50"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-50"
       }
     },
     {
@@ -6169,7 +6169,7 @@
       "notes": [],
       "work_passage_id": "aet:51",
       "html_path": "works/aet/index.html#p-51",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-51",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-51",
       "alignment_revision": "sha256:f8ccff7da827443798b047ef1d27afc971c8d87452c4e69b3843d1318cd5a1de",
       "review_state": {
         "human_reviewed": false,
@@ -6205,9 +6205,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "51",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:7acf6473bd8ba2474342598685151c1dfb1eaca8d3d1cfac4495c9d0fb84e8e8",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-51"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-51"
       }
     },
     {
@@ -6322,7 +6322,7 @@
       ],
       "work_passage_id": "aet:52",
       "html_path": "works/aet/index.html#p-52",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-52",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-52",
       "alignment_revision": "sha256:5f65bc97fd4bff83330f95bc78c367332dab7ee1aa7e83af565734683add47d3",
       "review_state": {
         "human_reviewed": false,
@@ -6358,9 +6358,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "52",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:68fd8f0f304698d961d0708b31ef1f8a819345c8f291d678bb95a328daa2ea44",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-52"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-52"
       }
     },
     {
@@ -6462,7 +6462,7 @@
       ],
       "work_passage_id": "aet:53",
       "html_path": "works/aet/index.html#p-53",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-53",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-53",
       "alignment_revision": "sha256:956a0846bbb1fa6f63948be1b14f08e597672ae894495b1a8bb779a922f3c41c",
       "review_state": {
         "human_reviewed": false,
@@ -6498,9 +6498,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "53",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:8d3d48f316ec21fc81ec25be9865ac8203fcb13f03121dfab1b5bc4f3edeb22f",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-53"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-53"
       }
     },
     {
@@ -6578,7 +6578,7 @@
       ],
       "work_passage_id": "aet:54",
       "html_path": "works/aet/index.html#p-54",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-54",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-54",
       "alignment_revision": "sha256:bd79e038160affef66d5ee91a39775f98f3c07ac15df8c51e4c9535d9f581b38",
       "review_state": {
         "human_reviewed": false,
@@ -6614,9 +6614,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "54",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:4d4575953cc38daecf253b66a603a079b4d16774e97f691dba471276cd42f66e",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-54"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-54"
       }
     },
     {
@@ -6691,7 +6691,7 @@
       ],
       "work_passage_id": "aet:55",
       "html_path": "works/aet/index.html#p-55",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-55",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-55",
       "alignment_revision": "sha256:6c81596f0264b31beee1e86970c271fb42d65a43f0e188089aca64822bc21638",
       "review_state": {
         "human_reviewed": false,
@@ -6727,9 +6727,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "55",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:57c3f799ce7f88789df4e32035e9fe5bc1c4ac04f69b24b91bfbce890cd67c79",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-55"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-55"
       }
     },
     {
@@ -6830,7 +6830,7 @@
       ],
       "work_passage_id": "aet:56",
       "html_path": "works/aet/index.html#p-56",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-56",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-56",
       "alignment_revision": "sha256:a9e9f6f30a653789f36021a1c3e6c865c1be08437f9ddeefaed734a7476a3f98",
       "review_state": {
         "human_reviewed": false,
@@ -6866,9 +6866,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "56",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:5ba89fc88e450cfcc6e95b8bd2ab9fbc2be08968d6cd0e0a279eb1a16240168d",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-56"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-56"
       }
     },
     {
@@ -6943,7 +6943,7 @@
       ],
       "work_passage_id": "aet:57",
       "html_path": "works/aet/index.html#p-57",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-57",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-57",
       "alignment_revision": "sha256:f4e5a66bb9d0d9a4cd5ad9269c391b824bedf4669a666232b8148dda285091c5",
       "review_state": {
         "human_reviewed": false,
@@ -6979,9 +6979,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "57",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:af0990ebaeac6e0b83768ccbf94382e689ad2c39ddfdd00e253008a5c5567d81",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-57"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-57"
       }
     },
     {
@@ -7085,7 +7085,7 @@
       ],
       "work_passage_id": "aet:58",
       "html_path": "works/aet/index.html#p-58",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-58",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-58",
       "alignment_revision": "sha256:b2b30916cee91b302484f526fdb21b3f46a4c218f019adb9cecd1130ed3fb676",
       "review_state": {
         "human_reviewed": false,
@@ -7121,9 +7121,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "58",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:e78de97b54026a05f3654a69074e282879fe1b8146ac688d9a71c27cddb0ec7f",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-58"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-58"
       }
     },
     {
@@ -7198,7 +7198,7 @@
       ],
       "work_passage_id": "aet:59",
       "html_path": "works/aet/index.html#p-59",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-59",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-59",
       "alignment_revision": "sha256:fac5327803a10d1f7f2915bdf19c8fe282ebab1e38f2b44f998a2dc5701eb051",
       "review_state": {
         "human_reviewed": false,
@@ -7234,9 +7234,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "59",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:80b50fb056eefb313658424d5eafc3ebafec7188bb564269d4eab49a569f1531",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-59"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-59"
       }
     },
     {
@@ -7324,7 +7324,7 @@
       ],
       "work_passage_id": "aet:60",
       "html_path": "works/aet/index.html#p-60",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-60",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-60",
       "alignment_revision": "sha256:4c55456f8c0fce59e2619a64b35d927696d72adf16df4537d0b5b9da5a1ad004",
       "review_state": {
         "human_reviewed": false,
@@ -7360,9 +7360,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "60",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:63a60ff59c6a13bcf97a76da7f16d12f11884e9095ae534d4a7ec732d9c1af05",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-60"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-60"
       }
     },
     {
@@ -7435,7 +7435,7 @@
       "notes": [],
       "work_passage_id": "aet:61",
       "html_path": "works/aet/index.html#p-61",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-61",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-61",
       "alignment_revision": "sha256:e37c17bbbe1a7859b7758f7af981cacd428e10401ae3e9cf0503cde534d42cff",
       "review_state": {
         "human_reviewed": false,
@@ -7471,9 +7471,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "61",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:cf24ef1144c1a96d534cac16e686c70f38ebb5274c86e2b23f7b894055cecbf5",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-61"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-61"
       }
     },
     {
@@ -7564,7 +7564,7 @@
       ],
       "work_passage_id": "aet:62",
       "html_path": "works/aet/index.html#p-62",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-62",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-62",
       "alignment_revision": "sha256:1d5f696ff89b4b2c9c4edeaf280f977ab9c96a5a491fdecd8df43a06b4657eb2",
       "review_state": {
         "human_reviewed": false,
@@ -7600,9 +7600,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "62",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:c95ae57e7d32a3fc752350d8672421a3ecb00570adf4f8b71950cbcc8e53e442",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-62"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-62"
       }
     },
     {
@@ -7717,7 +7717,7 @@
       ],
       "work_passage_id": "aet:63",
       "html_path": "works/aet/index.html#p-63",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-63",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-63",
       "alignment_revision": "sha256:9bbe4365960fac0bf4d286272ff3fb5e37f6ddab1736fdeb3af6969ae08506a1",
       "review_state": {
         "human_reviewed": false,
@@ -7753,9 +7753,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "63",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:dba3740f89ca76bcdcc701c967a8f3d208380a804e9e95aaad88b1988298395c",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-63"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-63"
       }
     },
     {
@@ -7846,7 +7846,7 @@
       ],
       "work_passage_id": "aet:64",
       "html_path": "works/aet/index.html#p-64",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-64",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-64",
       "alignment_revision": "sha256:abdae4f1fc2224dd9836bcfe59dc39266454e97c4d29270e25644cd1fb756667",
       "review_state": {
         "human_reviewed": false,
@@ -7882,9 +7882,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "64",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:9f823a89de2a7e9bdb3d02ac8b02625e8b3e906f5006d17992f43dec167ecb3d",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-64"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-64"
       }
     },
     {
@@ -7959,7 +7959,7 @@
       ],
       "work_passage_id": "aet:65",
       "html_path": "works/aet/index.html#p-65",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-65",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-65",
       "alignment_revision": "sha256:668d7a05c982450d21b47d266ec45c709cf632371eb98bd6610fbef12273faef",
       "review_state": {
         "human_reviewed": false,
@@ -7995,9 +7995,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "65",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:c22a99a308e595d5145d28d98a5a1f36f8b7f1894c80b2ec38889aa6cdf3befc",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-65"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-65"
       }
     },
     {
@@ -8098,7 +8098,7 @@
       ],
       "work_passage_id": "aet:66",
       "html_path": "works/aet/index.html#p-66",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-66",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-66",
       "alignment_revision": "sha256:6214466a20ef6d77d02ab2a8088fc5bc691d18861b09fd7f79ca8c156bbce9a0",
       "review_state": {
         "human_reviewed": false,
@@ -8134,9 +8134,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "66",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:baec3de90da5c90c1277ad99da200b5568355aab2026bbb12725fdd7dcfee042",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-66"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-66"
       }
     },
     {
@@ -8222,7 +8222,7 @@
       "notes": [],
       "work_passage_id": "aet:67",
       "html_path": "works/aet/index.html#p-67",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-67",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-67",
       "alignment_revision": "sha256:58df41d306920303a794dc9e52a6462ec95802ee2d2ca7442d222c5dea727023",
       "review_state": {
         "human_reviewed": false,
@@ -8258,9 +8258,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "67",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:37d747080026b5447625fc0d3c2dca476d14af263c23efb35c0f4af25965833f",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-67"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-67"
       }
     },
     {
@@ -8364,7 +8364,7 @@
       ],
       "work_passage_id": "aet:68",
       "html_path": "works/aet/index.html#p-68",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-68",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-68",
       "alignment_revision": "sha256:b2425744d345c2ca38d766a952e4474d20f94cdae3f982e2bf2a1b9152be3258",
       "review_state": {
         "human_reviewed": false,
@@ -8400,9 +8400,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "68",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:81b31ef048a336ca970cb92e901a1f305f04579cd8725e3c0ecdaf26ebdc0a75",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-68"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-68"
       }
     },
     {
@@ -8529,7 +8529,7 @@
       ],
       "work_passage_id": "aet:69",
       "html_path": "works/aet/index.html#p-69",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-69",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-69",
       "alignment_revision": "sha256:e97403b34f5750dd4ce4df3612838f0513dcf7b665c8026bd10f86415bb7568a",
       "review_state": {
         "human_reviewed": false,
@@ -8565,9 +8565,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "69",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:98c9b9f25c79b6685067ddcb6b16528becc84aa488649f0bb829082c8bc0e5bb",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-69"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-69"
       }
     },
     {
@@ -8645,7 +8645,7 @@
       ],
       "work_passage_id": "aet:70",
       "html_path": "works/aet/index.html#p-70",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-70",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-70",
       "alignment_revision": "sha256:a80144387ed5282788c890c50dd5594f624d57bbb67fa7092c8de6c60c81e388",
       "review_state": {
         "human_reviewed": false,
@@ -8681,9 +8681,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "70",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:823bd936e070b0f5946f31e5c0fc070ac59c32450994f4f1dc6ec8e09b1b4529",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-70"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-70"
       }
     },
     {
@@ -8756,7 +8756,7 @@
       "notes": [],
       "work_passage_id": "aet:71",
       "html_path": "works/aet/index.html#p-71",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-71",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-71",
       "alignment_revision": "sha256:24d2c86e9a9eca517e0c51e2bbfd3f592242c296fd148967061c2d8f4fd6e52b",
       "review_state": {
         "human_reviewed": false,
@@ -8792,9 +8792,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "71",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:e75e9e609416e4cfaccee8c9fdfb0037103da0d5b1da2490fe709822e350e90e",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-71"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-71"
       }
     },
     {
@@ -8854,7 +8854,7 @@
       "notes": [],
       "work_passage_id": "aet:72",
       "html_path": "works/aet/index.html#p-72",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-72",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-72",
       "alignment_revision": "sha256:a1eafa23c61648874d105832bfcb6f5d8f91c2041d16904cd61bebca61378e26",
       "review_state": {
         "human_reviewed": false,
@@ -8890,9 +8890,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "72",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:4dd86b2e49e32c9d851b7e7d8d4de4edf293c3da4988432d7744190d5a0faed9",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-72"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-72"
       }
     },
     {
@@ -8967,7 +8967,7 @@
       ],
       "work_passage_id": "aet:73",
       "html_path": "works/aet/index.html#p-73",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-73",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-73",
       "alignment_revision": "sha256:463ef701bfd99ea901f683c4d40c737c91045bf330e0c20ec567201e766e7981",
       "review_state": {
         "human_reviewed": false,
@@ -9003,9 +9003,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "73",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:7997471ab23fcdd05c044c51cd17417d3c9fe0ddb01333afd75deed0da7838e0",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-73"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-73"
       }
     },
     {
@@ -9109,7 +9109,7 @@
       ],
       "work_passage_id": "aet:74",
       "html_path": "works/aet/index.html#p-74",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-74",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-74",
       "alignment_revision": "sha256:fb7b518b0311d7a72ae52ee48bb6ea33f10907b739872490404e3f2f884de029",
       "review_state": {
         "human_reviewed": false,
@@ -9145,9 +9145,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "74",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:22407168ee17a51690371be988e884d30b3f5e5e95b8c3bbce6dca53f897bcde",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-74"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-74"
       }
     },
     {
@@ -9262,7 +9262,7 @@
       ],
       "work_passage_id": "aet:75",
       "html_path": "works/aet/index.html#p-75",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-75",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-75",
       "alignment_revision": "sha256:c1bbdc47e01e211230c356476d279a8dd32d801598857f868a69c96a2f98e718",
       "review_state": {
         "human_reviewed": false,
@@ -9298,9 +9298,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "75",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:5d11ba13b7f055dcc8e07651b491e45190e09cf7113592fe67a17ea455fd12d5",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-75"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-75"
       }
     },
     {
@@ -9379,7 +9379,7 @@
       ],
       "work_passage_id": "aet:76",
       "html_path": "works/aet/index.html#p-76",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-76",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-76",
       "alignment_revision": "sha256:e993327ae45d9e2588272e6562a00b1d3b79d86472bf45729799604c703693f9",
       "review_state": {
         "human_reviewed": false,
@@ -9415,9 +9415,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "76",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:4c75c19eb92c0918d8c50a743716803c1198371d0c7a5b456896a9425d74c709",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-76"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-76"
       }
     },
     {
@@ -9480,7 +9480,7 @@
       ],
       "work_passage_id": "aet:77",
       "html_path": "works/aet/index.html#p-77",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-77",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-77",
       "alignment_revision": "sha256:beb7f1a815ab116ff8e5bd03654c1e6b6df930d136e0e6dd152f7d7772919c94",
       "review_state": {
         "human_reviewed": false,
@@ -9516,9 +9516,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "77",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:4c6e1fde0c7ec74f3e0dd284f1fbbcd551b1393dd1592da09641d6a424b92324",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-77"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-77"
       }
     },
     {
@@ -9619,7 +9619,7 @@
       ],
       "work_passage_id": "aet:78",
       "html_path": "works/aet/index.html#p-78",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-78",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-78",
       "alignment_revision": "sha256:e48be3b62cf30bb8ccd75aa2b863ea3d2035f0596bd566e573d5ee25e1c12463",
       "review_state": {
         "human_reviewed": false,
@@ -9655,9 +9655,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "78",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:c6503807e2f631531448caca76a214a87ec76abd0ba0fd7441973a830288408b",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-78"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-78"
       }
     },
     {
@@ -9748,7 +9748,7 @@
       ],
       "work_passage_id": "aet:79",
       "html_path": "works/aet/index.html#p-79",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-79",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-79",
       "alignment_revision": "sha256:32fd646d7e3c7edbcf5df9a74fca8cc916b310053c7ea007a5e8abc716bd4134",
       "review_state": {
         "human_reviewed": false,
@@ -9784,9 +9784,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "79",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:095005ed6372c4194db6e2f148545dec6dffa8b06cf2ad6e86b0a93293d05c11",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-79"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-79"
       }
     },
     {
@@ -9859,7 +9859,7 @@
       "notes": [],
       "work_passage_id": "aet:80",
       "html_path": "works/aet/index.html#p-80",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-80",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-80",
       "alignment_revision": "sha256:85579f098c555b705d580d6914434afe74b19786187daf3ed4dcc80a5b29eaff",
       "review_state": {
         "human_reviewed": false,
@@ -9895,9 +9895,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "80",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:020b8a6fc729b1a54b3a94cdb0cbfbed4c9f9d532310fc175c86ad20b8c972de",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-80"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-80"
       }
     },
     {
@@ -9972,7 +9972,7 @@
       ],
       "work_passage_id": "aet:81",
       "html_path": "works/aet/index.html#p-81",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-81",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-81",
       "alignment_revision": "sha256:847430217f35551cc9002f0a195433bbfe2ea3b4c87e82427e43f44fd667be99",
       "review_state": {
         "human_reviewed": false,
@@ -10008,9 +10008,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "81",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:bc22116708be58b459ce6669af5e40d5399790e3d4a616bb0cb78b7bd1ff04d8",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-81"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-81"
       }
     },
     {
@@ -10085,7 +10085,7 @@
       ],
       "work_passage_id": "aet:82",
       "html_path": "works/aet/index.html#p-82",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-82",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-82",
       "alignment_revision": "sha256:c10fd16111c61a48857035cbcdf8a22c066f675697fcb81f2923f7806aa96c0d",
       "review_state": {
         "human_reviewed": false,
@@ -10121,9 +10121,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "82",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:d6f930de5f87edb0f86c6f0304cc4f86b162ead073c6a48def492539003ede21",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-82"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-82"
       }
     },
     {
@@ -10214,7 +10214,7 @@
       ],
       "work_passage_id": "aet:83",
       "html_path": "works/aet/index.html#p-83",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-83",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-83",
       "alignment_revision": "sha256:3c73bf02ef4d04fd15a9ebc7dd51a8ad1f490c550710058fe488a4e29170460d",
       "review_state": {
         "human_reviewed": false,
@@ -10250,9 +10250,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "83",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:24de04d1a8142ab4365152771963146f608dd66f80318f232592f32508a7c419",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-83"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-83"
       }
     },
     {
@@ -10341,7 +10341,7 @@
       ],
       "work_passage_id": "aet:84",
       "html_path": "works/aet/index.html#p-84",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-84",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-84",
       "alignment_revision": "sha256:08222d6a85d6470fcee541310d16fe5955873c9880d2b4fa405fdfec483d58dc",
       "review_state": {
         "human_reviewed": false,
@@ -10377,9 +10377,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "84",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:83d8f6941c57d297e2d4bb9d7f5d39e0ba5d7dee1e0598332c3f674eb32317fe",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-84"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-84"
       }
     },
     {
@@ -10467,7 +10467,7 @@
       ],
       "work_passage_id": "aet:85",
       "html_path": "works/aet/index.html#p-85",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-85",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-85",
       "alignment_revision": "sha256:21b5d702cd005c0119c90892dd536210db84558abd360e45e7a5d84d2b4221d8",
       "review_state": {
         "human_reviewed": false,
@@ -10503,9 +10503,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "85",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:563f14481943d5ccef950888f698b9eac2f69179553de91726a75ddca11986ac",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-85"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-85"
       }
     },
     {
@@ -10606,7 +10606,7 @@
       ],
       "work_passage_id": "aet:86",
       "html_path": "works/aet/index.html#p-86",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-86",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-86",
       "alignment_revision": "sha256:7a0bd57f7827037abae473e2f320587cab176c88a370f211e10046dd660c6212",
       "review_state": {
         "human_reviewed": false,
@@ -10642,9 +10642,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "86",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:045c10627645f8e29b76fa442fabcb6bc36461d471e09fede09d849642f4786c",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-86"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-86"
       }
     },
     {
@@ -10722,7 +10722,7 @@
       ],
       "work_passage_id": "aet:87",
       "html_path": "works/aet/index.html#p-87",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-87",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-87",
       "alignment_revision": "sha256:d3938f834462108fedd81c9655eb494df1d4d2f17d16d5a95c44a320424a83ed",
       "review_state": {
         "human_reviewed": false,
@@ -10758,9 +10758,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "87",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:2207c0ff63d22a9db4b165ec5e7c0e45ceef7c1e62212d2a26ab7e45e34f2720",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-87"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-87"
       }
     },
     {
@@ -10875,7 +10875,7 @@
       ],
       "work_passage_id": "aet:88",
       "html_path": "works/aet/index.html#p-88",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-88",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-88",
       "alignment_revision": "sha256:30f64f0177699801756e43962527f298fc4ba824efb27366cf4728ae6eaeb181",
       "review_state": {
         "human_reviewed": false,
@@ -10911,9 +10911,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "88",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:6ebab0089ccecd27580180ae975f58496a30483552e9bf4a7a14086a40056089",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-88"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-88"
       }
     },
     {
@@ -11015,7 +11015,7 @@
       ],
       "work_passage_id": "aet:89",
       "html_path": "works/aet/index.html#p-89",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-89",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-89",
       "alignment_revision": "sha256:e5da2589472a33a6e46728545fe7875e99f3f21289dd2f337efde806f8985900",
       "review_state": {
         "human_reviewed": false,
@@ -11051,9 +11051,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "89",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:0c188df2e8432988530c3b925a53162581048b9490900a86ae03763791769e7c",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-89"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-89"
       }
     },
     {
@@ -11158,7 +11158,7 @@
       ],
       "work_passage_id": "aet:90",
       "html_path": "works/aet/index.html#p-90",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-90",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-90",
       "alignment_revision": "sha256:7de694a3a19bf54a83d59d7be2139f8025b06c5661a998d17a824359e2e73745",
       "review_state": {
         "human_reviewed": false,
@@ -11194,9 +11194,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "90",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:d2afe83121536dddef53ee96875228d217d543ed65c6117d858772223d47b8db",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-90"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-90"
       }
     },
     {
@@ -11284,7 +11284,7 @@
       ],
       "work_passage_id": "aet:91",
       "html_path": "works/aet/index.html#p-91",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-91",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-91",
       "alignment_revision": "sha256:fe313b5634b8b2babd9f238c5cc1ceb8d5db3b506bcfaaa73770c0908ecd8787",
       "review_state": {
         "human_reviewed": false,
@@ -11320,9 +11320,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "91",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:b6fb904bc60c2f04a03de7fee9dea7444b704bb38ac5794615a43d704d82a56d",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-91"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-91"
       }
     },
     {
@@ -11408,7 +11408,7 @@
       "notes": [],
       "work_passage_id": "aet:92",
       "html_path": "works/aet/index.html#p-92",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-92",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-92",
       "alignment_revision": "sha256:1cbafc0fe7e290cc0ce8037dbd3ef5e40665f20cefb07b456142fe3ef460bb2a",
       "review_state": {
         "human_reviewed": false,
@@ -11444,9 +11444,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "92",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:1ce84db051ef6e7b9cada8f8953b9d25aff8ffcafdab0bf1449910bfc04b2205",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-92"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-92"
       }
     },
     {
@@ -11509,7 +11509,7 @@
       ],
       "work_passage_id": "aet:93",
       "html_path": "works/aet/index.html#p-93",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-93",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-93",
       "alignment_revision": "sha256:2f63d2cd61256534f360f7c006abcae73f7b902d7fe25fbdb4f6abbac0f0aee8",
       "review_state": {
         "human_reviewed": false,
@@ -11545,9 +11545,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "93",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:52aa505db7213cb8b0e9b849e2b57abff7aea6e515161707f89478717ed0197b",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-93"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-93"
       }
     },
     {
@@ -11639,7 +11639,7 @@
       ],
       "work_passage_id": "aet:94",
       "html_path": "works/aet/index.html#p-94",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-94",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-94",
       "alignment_revision": "sha256:9fa2df5f1170e3db2a8caac7e48c0aca1624eebcef0afcf22f1713eafee57085",
       "review_state": {
         "human_reviewed": false,
@@ -11675,9 +11675,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "94",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:dd8beecf680598517e7ef54b617e5b6bb3b72f26300f8a3bb53e5f9f6fc6631b",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-94"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-94"
       }
     },
     {
@@ -11766,7 +11766,7 @@
       ],
       "work_passage_id": "aet:95",
       "html_path": "works/aet/index.html#p-95",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-95",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-95",
       "alignment_revision": "sha256:3aa02bce787d7b08285df8ad235e6e8d28938f7f85b59962fdc4fca3307d894b",
       "review_state": {
         "human_reviewed": false,
@@ -11802,9 +11802,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "95",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:3cc9e0bef7c38e6f35b231733a5240c422d431750fb6058dbb7186aae31f4b41",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-95"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-95"
       }
     },
     {
@@ -11880,7 +11880,7 @@
       ],
       "work_passage_id": "aet:96",
       "html_path": "works/aet/index.html#p-96",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-96",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-96",
       "alignment_revision": "sha256:45f0bb2d04dc583e57aca4533e0e6143b03cd8724468553758def05411c3d897",
       "review_state": {
         "human_reviewed": false,
@@ -11916,9 +11916,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "96",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:d6880d3ee0b6a497ca2fcdf446089505ba72c1650a655a0f6da5ebf697404cc0",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-96"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-96"
       }
     },
     {
@@ -12006,7 +12006,7 @@
       ],
       "work_passage_id": "aet:97",
       "html_path": "works/aet/index.html#p-97",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-97",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-97",
       "alignment_revision": "sha256:299ed841a9b005ba425386de0a2f04c668e4b76c811f65ec01523243bb9f6268",
       "review_state": {
         "human_reviewed": false,
@@ -12042,9 +12042,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "97",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:e88c8e50be68c0a7cd5d4d6fa6e2db2456cb005cb6ea6c8c47f0d10ad9363714",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-97"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-97"
       }
     },
     {
@@ -12133,7 +12133,7 @@
       "notes": [],
       "work_passage_id": "aet:98",
       "html_path": "works/aet/index.html#p-98",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-98",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-98",
       "alignment_revision": "sha256:4da58b4a36db7a5f4f126827351a989144e5b3bf9b075ba87cb6597b8c1d42b0",
       "review_state": {
         "human_reviewed": false,
@@ -12169,9 +12169,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "98",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:397e3bffa74bfe0fad2eef4996d9e93a4f9c177a94a4c01daf0ccdeefcbe9b8e",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-98"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-98"
       }
     },
     {
@@ -12272,7 +12272,7 @@
       ],
       "work_passage_id": "aet:99",
       "html_path": "works/aet/index.html#p-99",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-99",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-99",
       "alignment_revision": "sha256:c84d7622e3e2d5e27c456ec8d41c4b533a221664977b40e13171f75bd58da00b",
       "review_state": {
         "human_reviewed": false,
@@ -12308,9 +12308,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "99",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:cc8cc95d382d739de9467561df4a2860a008435e9d417ddebd471fd24189b376",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-99"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-99"
       }
     },
     {
@@ -12383,7 +12383,7 @@
       "notes": [],
       "work_passage_id": "aet:100",
       "html_path": "works/aet/index.html#p-100",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-100",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-100",
       "alignment_revision": "sha256:013575c1cd3ed7d256039cb9c1299aa9220ccad7cb4d6d3ad6340a8aeea04453",
       "review_state": {
         "human_reviewed": false,
@@ -12419,9 +12419,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "100",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:c85e76b58833fbbc27ad873f371621e54878db132f86a43353fcbee0dbff92ee",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-100"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-100"
       }
     },
     {
@@ -12483,7 +12483,7 @@
       ],
       "work_passage_id": "aet:101",
       "html_path": "works/aet/index.html#p-101",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-101",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-101",
       "alignment_revision": "sha256:e8ae50c623d8b0c485f2426acceda1588f6644333fef551e6a8b5414f308d99b",
       "review_state": {
         "human_reviewed": false,
@@ -12519,9 +12519,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "101",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:2294fd80a0679d3758f7e1a7d612b64dc65275ace5e653dfad6ba662b6c8fc2e",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-101"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-101"
       }
     },
     {
@@ -12626,7 +12626,7 @@
       ],
       "work_passage_id": "aet:102",
       "html_path": "works/aet/index.html#p-102",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-102",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-102",
       "alignment_revision": "sha256:a1cca77d34872724c4140c9d9cb4ff930c59934a12503d7e81abb2318307447a",
       "review_state": {
         "human_reviewed": false,
@@ -12662,9 +12662,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "102",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:abc9f3f62d974d19c0f7d2c6737cbc1adfabd5cefad441b873dc27debb10000b",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-102"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-102"
       }
     },
     {
@@ -12753,7 +12753,7 @@
       ],
       "work_passage_id": "aet:103",
       "html_path": "works/aet/index.html#p-103",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-103",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-103",
       "alignment_revision": "sha256:0249ded41b0c87347f8d96b77426b12bd61fb919cd5faf0f103e66c49a0d315d",
       "review_state": {
         "human_reviewed": false,
@@ -12789,9 +12789,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "103",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:099839c322c3d912e400e24cefea05b453ea91a8f5174b2424fd9c8f3c507d52",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-103"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-103"
       }
     },
     {
@@ -12906,7 +12906,7 @@
       "notes": [],
       "work_passage_id": "aet:104",
       "html_path": "works/aet/index.html#p-104",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-104",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-104",
       "alignment_revision": "sha256:e67423dc6fb4b9d571b1b675690101d5a2cf68af72ac0ccb3726bde7fe0e3007",
       "review_state": {
         "human_reviewed": false,
@@ -12942,9 +12942,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "104",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:0b46a9a13d6854385677f99313a0cb80fe40c868603482797b2ecbfe48837072",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-104"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-104"
       }
     },
     {
@@ -13019,7 +13019,7 @@
       ],
       "work_passage_id": "aet:105",
       "html_path": "works/aet/index.html#p-105",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-105",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-105",
       "alignment_revision": "sha256:97f82c441f4d143f306d790e1ddf3a862d5483878e832463138b3768058729ca",
       "review_state": {
         "human_reviewed": false,
@@ -13055,9 +13055,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "105",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:51eecbbbf20fc543e45315c43f476dec9dc2503d49a5ed00f1d01a863e1a6810",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-105"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-105"
       }
     },
     {
@@ -13146,7 +13146,7 @@
       ],
       "work_passage_id": "aet:106",
       "html_path": "works/aet/index.html#p-106",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-106",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-106",
       "alignment_revision": "sha256:c0da29fd48706eff90aae5a5a7680a57c620885c070f8421b24e2e919e44398f",
       "review_state": {
         "human_reviewed": false,
@@ -13182,9 +13182,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "106",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:2b7fbce2c3647f840b2ad43c36b948dae49c4fdde32f614f24de3a621447a9ff",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-106"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-106"
       }
     },
     {
@@ -13288,7 +13288,7 @@
       ],
       "work_passage_id": "aet:107",
       "html_path": "works/aet/index.html#p-107",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-107",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-107",
       "alignment_revision": "sha256:84cb2ce05d44f8db45572a01c5d1d1518c2030b7b920978ca4150b5e8af8db26",
       "review_state": {
         "human_reviewed": false,
@@ -13324,9 +13324,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "107",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:dc6275307a3ae23d04e4fd23cba35bf8deb2fe8b7e3a8ecb8ad6f99186c4d5d5",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-107"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-107"
       }
     },
     {
@@ -13389,7 +13389,7 @@
       ],
       "work_passage_id": "aet:108",
       "html_path": "works/aet/index.html#p-108",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-108",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-108",
       "alignment_revision": "sha256:39f36d32a3bdb66ad407fbbd60b42b852b250812b4fa076fdfddf03855e74c49",
       "review_state": {
         "human_reviewed": false,
@@ -13425,9 +13425,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "108",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:5687ab728a22a11f4fabe58ff9941da7a185e8a6f137ae02707a8c178dd68131",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-108"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-108"
       }
     },
     {
@@ -13504,7 +13504,7 @@
       ],
       "work_passage_id": "aet:109",
       "html_path": "works/aet/index.html#p-109",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-109",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-109",
       "alignment_revision": "sha256:26b15a9acdca57444568479cc5442f51191bd4934a77cdac55c30bf2db8e4eb9",
       "review_state": {
         "human_reviewed": false,
@@ -13540,9 +13540,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "109",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:29ed249db75eefc19201150abfe9bd7e4ffbeb6dc00c4509585bcaf2555131bf",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-109"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-109"
       }
     },
     {
@@ -13618,7 +13618,7 @@
       ],
       "work_passage_id": "aet:110",
       "html_path": "works/aet/index.html#p-110",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-110",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-110",
       "alignment_revision": "sha256:1bec35937e2fd366a3a98f4ce47fa5bba15288de7bb796cad45fc896f02e410a",
       "review_state": {
         "human_reviewed": false,
@@ -13654,9 +13654,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "110",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:55c688aaee5bf358cedcc186d3ca2aa990e0475d95161f04b6bea3ae00a5be9c",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-110"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-110"
       }
     },
     {
@@ -13719,7 +13719,7 @@
       ],
       "work_passage_id": "aet:111",
       "html_path": "works/aet/index.html#p-111",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-111",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-111",
       "alignment_revision": "sha256:ab7fca551922bc1aeaccce2a8b7e067456eb8a3f722228e9c39fbc538627d9bd",
       "review_state": {
         "human_reviewed": false,
@@ -13755,9 +13755,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "111",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:a0d1269f067256fcd1b17ab9d2d7076ee44bd292a0474e3837d28efe085084f3",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-111"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-111"
       }
     },
     {
@@ -13849,7 +13849,7 @@
       ],
       "work_passage_id": "aet:112",
       "html_path": "works/aet/index.html#p-112",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-112",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-112",
       "alignment_revision": "sha256:00cc12d4234114135060160a7d556a548fae9f27c92690cf01235a0ed953e659",
       "review_state": {
         "human_reviewed": false,
@@ -13885,9 +13885,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "112",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:262a9c7074e88443dd9574118aa26bba680a0d39ef08d3372ffe8eb4e1d87cd1",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-112"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-112"
       }
     },
     {
@@ -14001,7 +14001,7 @@
       ],
       "work_passage_id": "aet:113",
       "html_path": "works/aet/index.html#p-113",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-113",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-113",
       "alignment_revision": "sha256:9b0c1cd6968c2cf2929fc0607f69d1bbe7a55623327858dd6ee94af7e4175d9e",
       "review_state": {
         "human_reviewed": false,
@@ -14037,9 +14037,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "113",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:de6e5e90a619fbe9f8ece04563d411b7f46ee757d9ae4b1d80db7bd6d71aa463",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-113"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-113"
       }
     },
     {
@@ -14140,7 +14140,7 @@
       ],
       "work_passage_id": "aet:114",
       "html_path": "works/aet/index.html#p-114",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-114",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-114",
       "alignment_revision": "sha256:76472a6e8656885a4634315f117368ee5f6c5b163fee9b3aaf848fcd7b599c31",
       "review_state": {
         "human_reviewed": false,
@@ -14176,9 +14176,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "114",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:6478d3774b58fac1007265a0c6adaa67b3c6cea07b2fe98a6cc820c5cd02f8cb",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-114"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-114"
       }
     },
     {
@@ -14283,7 +14283,7 @@
       ],
       "work_passage_id": "aet:115",
       "html_path": "works/aet/index.html#p-115",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-115",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-115",
       "alignment_revision": "sha256:f242a7584b6ff4bf006f82737787270bef3053bf6736e107189f6b0e6cfa9511",
       "review_state": {
         "human_reviewed": false,
@@ -14319,9 +14319,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "115",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:c228929a230709fa7843a00e02dd64a37f3dd9c6d2f8aed2f700998adc2dfcb7",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-115"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-115"
       }
     },
     {
@@ -14409,7 +14409,7 @@
       ],
       "work_passage_id": "aet:116",
       "html_path": "works/aet/index.html#p-116",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-116",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-116",
       "alignment_revision": "sha256:490d7e9c542b87a5a0cb4ff2c852042392d658117242cd57da3b9cb81e164261",
       "review_state": {
         "human_reviewed": false,
@@ -14445,9 +14445,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "116",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:ecd316c81f9046b8e47ed3192cf847a1c6de1bc3c5d16d843f5559ae790681da",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-116"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-116"
       }
     },
     {
@@ -14510,7 +14510,7 @@
       ],
       "work_passage_id": "aet:117",
       "html_path": "works/aet/index.html#p-117",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-117",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-117",
       "alignment_revision": "sha256:be34ce2eb16878d82f2f96e2d21f4e9288f0b5d637f8b3d7cf5bc69f29bceffd",
       "review_state": {
         "human_reviewed": false,
@@ -14546,9 +14546,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "117",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:d40e135f42b0fc9c126eec8516b583273f47a7ef70fa02e3189f669530d10a7c",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-117"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-117"
       }
     },
     {
@@ -14623,7 +14623,7 @@
       ],
       "work_passage_id": "aet:118",
       "html_path": "works/aet/index.html#p-118",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-118",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-118",
       "alignment_revision": "sha256:a1f423d3a05452d9d0e034b466545dcf8001b9425af8786e55d14eab37cb2fa6",
       "review_state": {
         "human_reviewed": false,
@@ -14659,9 +14659,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "118",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:bf4ca3dc5882d8f4da281632cfaa87395da4af5ec8c00561cab8e6f8732de394",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-118"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-118"
       }
     },
     {
@@ -14739,7 +14739,7 @@
       ],
       "work_passage_id": "aet:119",
       "html_path": "works/aet/index.html#p-119",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-119",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-119",
       "alignment_revision": "sha256:58728a3f18fc6604f3cc842bb915b66dac09103c406d45e554f0609ee3b90f10",
       "review_state": {
         "human_reviewed": false,
@@ -14775,9 +14775,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "119",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:cdaabdb4569395f62bee10bb2159254b7105ecb9dd1b320e5374f66fa3962177",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-119"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-119"
       }
     },
     {
@@ -14852,7 +14852,7 @@
       ],
       "work_passage_id": "aet:120",
       "html_path": "works/aet/index.html#p-120",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-120",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-120",
       "alignment_revision": "sha256:91db985fe44d697672e0be5e5f8bf563ddd6eaa4d53d65b321413b2259b754f1",
       "review_state": {
         "human_reviewed": false,
@@ -14888,9 +14888,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "120",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:be49883c11db1d342cdecbcf46a25a0eb1842f07a5aaa44a981d13aec444a369",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-120"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-120"
       }
     },
     {
@@ -14995,7 +14995,7 @@
       ],
       "work_passage_id": "aet:121",
       "html_path": "works/aet/index.html#p-121",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-121",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-121",
       "alignment_revision": "sha256:258c5b8c721f78820ca9def6720d26947c73e38786b00f2e88aed322b226418e",
       "review_state": {
         "human_reviewed": false,
@@ -15031,9 +15031,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "121",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:2c706083aba95678ab24aa739c536f4e849a91fbd305c17922d777b4966c63bb",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-121"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-121"
       }
     },
     {
@@ -15095,7 +15095,7 @@
       ],
       "work_passage_id": "aet:122",
       "html_path": "works/aet/index.html#p-122",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-122",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-122",
       "alignment_revision": "sha256:a5048e5f08e299e17fc9ac4c91cc26e67a991e0ba6a25606877a41e9c8b18deb",
       "review_state": {
         "human_reviewed": false,
@@ -15131,9 +15131,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "122",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:95e22515afe773058072ce5843280a1e233c627ec41a89df4e7d696d9a898f1a",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-122"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-122"
       }
     },
     {
@@ -15195,7 +15195,7 @@
       ],
       "work_passage_id": "aet:123",
       "html_path": "works/aet/index.html#p-123",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-123",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-123",
       "alignment_revision": "sha256:52aa61c060b1853dcc48ff9447c288c829ac1c9506ddc1a04f807c277243b442",
       "review_state": {
         "human_reviewed": false,
@@ -15231,9 +15231,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "123",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:40f0ee08e2426a914ef3a95318a8d32470c2b23e2dc71352539f348c16a83b72",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-123"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-123"
       }
     },
     {
@@ -15295,7 +15295,7 @@
       ],
       "work_passage_id": "aet:124",
       "html_path": "works/aet/index.html#p-124",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-124",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-124",
       "alignment_revision": "sha256:cde202ce53d5a6de544d3e7aec4a756d8795d61d484930bbdbe8e83411b961ed",
       "review_state": {
         "human_reviewed": false,
@@ -15331,9 +15331,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "124",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:497990afa83ee40e90b994fae0eb92c05bea586b13e17442d44fede250f06c0f",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-124"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-124"
       }
     },
     {
@@ -15452,7 +15452,7 @@
       ],
       "work_passage_id": "aet:125",
       "html_path": "works/aet/index.html#p-125",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-125",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-125",
       "alignment_revision": "sha256:b8c1d6b420103f001061fb8a9317f6fd8f3034ab52eb0c321682aaa94ecbfecd",
       "review_state": {
         "human_reviewed": false,
@@ -15488,9 +15488,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "125",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:9b204da774ae72a5687e45b8ad88ef0308752f412dbb7e728f92d08f954a25ee",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-125"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-125"
       }
     },
     {
@@ -15552,7 +15552,7 @@
       ],
       "work_passage_id": "aet:126",
       "html_path": "works/aet/index.html#p-126",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-126",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-126",
       "alignment_revision": "sha256:b62af039248e5fb33cd6b788581577d9c2ff82eec5c734e23539944cb79d1d04",
       "review_state": {
         "human_reviewed": false,
@@ -15588,9 +15588,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "126",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:8f43fad349b85e9e2b648fea54d5e9ff4cb16db36e04b6fddde7574faa347e21",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-126"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-126"
       }
     },
     {
@@ -15665,7 +15665,7 @@
       ],
       "work_passage_id": "aet:127",
       "html_path": "works/aet/index.html#p-127",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-127",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-127",
       "alignment_revision": "sha256:47d412ead0f846a9fdfb0c6799e0c7b971c41ad92b723f1736c1d866b1c802a5",
       "review_state": {
         "human_reviewed": false,
@@ -15701,9 +15701,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "127",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:be28cb25b3dbe9421e74d40bd4c3d30dd6ec3dbf6c724faeb22f00bfd461dbda",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-127"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-127"
       }
     },
     {
@@ -15833,7 +15833,7 @@
       ],
       "work_passage_id": "aet:128",
       "html_path": "works/aet/index.html#p-128",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-128",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-128",
       "alignment_revision": "sha256:06f69faa2990851bcd76efa2118eec2197b9f8b5208f3b923adb8a7da631b4b7",
       "review_state": {
         "human_reviewed": false,
@@ -15869,9 +15869,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "128",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:66e4e981bcb60574bc3f0a630b467defd25cac748562d74bf0cb9210e5039cee",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-128"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-128"
       }
     },
     {
@@ -15972,7 +15972,7 @@
       ],
       "work_passage_id": "aet:129",
       "html_path": "works/aet/index.html#p-129",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-129",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-129",
       "alignment_revision": "sha256:2d505584f5d4393afeeb3e8d8ddd7edee16b12b8b2e567c60424f5b86e586fd2",
       "review_state": {
         "human_reviewed": false,
@@ -16008,9 +16008,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "129",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:043a150c3da87c9a141e23bbac6107e2795f29060631ca77f211cfb31ba34bf3",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-129"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-129"
       }
     },
     {
@@ -16101,7 +16101,7 @@
       ],
       "work_passage_id": "aet:130",
       "html_path": "works/aet/index.html#p-130",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-130",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-130",
       "alignment_revision": "sha256:442f44c3e90d6618731b3251b3c5d6bc03b6a42ba9e345dbc13184e44175f959",
       "review_state": {
         "human_reviewed": false,
@@ -16137,9 +16137,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "130",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:7440f5d56516ded46d73293e5f612fe9456f0d5104a698c94010d11846941570",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-130"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-130"
       }
     },
     {
@@ -16215,7 +16215,7 @@
       ],
       "work_passage_id": "aet:131",
       "html_path": "works/aet/index.html#p-131",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-131",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-131",
       "alignment_revision": "sha256:c1384531ea140b833b31c165391a65f719329f8054655adce29ddc56475cb232",
       "review_state": {
         "human_reviewed": false,
@@ -16251,9 +16251,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "131",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:ae8838c32de25be183d8a667cfb817fa58edb2a00818da00961b4a29ad653ff3",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-131"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-131"
       }
     },
     {
@@ -16368,7 +16368,7 @@
       ],
       "work_passage_id": "aet:132",
       "html_path": "works/aet/index.html#p-132",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-132",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-132",
       "alignment_revision": "sha256:cd2ef3264ada9f0b0ef57e8f3eae9bb449308153e7bcbc1646d9fee31fe5420b",
       "review_state": {
         "human_reviewed": false,
@@ -16404,9 +16404,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "132",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:24cd099d97799d318a80581c34a2e1b81f1b6c18f76e1aab2c8a2f3a48a0fab1",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-132"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-132"
       }
     },
     {
@@ -16466,7 +16466,7 @@
       "notes": [],
       "work_passage_id": "aet:133",
       "html_path": "works/aet/index.html#p-133",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-133",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-133",
       "alignment_revision": "sha256:f70930f3d66eac5f32b97833a35443cd89a4d6013c7466f40a1fde320c698b8f",
       "review_state": {
         "human_reviewed": false,
@@ -16502,9 +16502,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "133",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:e26911f517d1f7f5c812e5ebd0ce431f337c21630d2ff9ee82999c473908cc86",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-133"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-133"
       }
     },
     {
@@ -16582,7 +16582,7 @@
       ],
       "work_passage_id": "aet:134",
       "html_path": "works/aet/index.html#p-134",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-134",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-134",
       "alignment_revision": "sha256:7614725930dcdad761e65e301f39f18344f312ca3042d48fdb32dc3ae4abcac2",
       "review_state": {
         "human_reviewed": false,
@@ -16618,9 +16618,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "134",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:077fc610e59bfac5ea33ea1797e9143b29381496e58f029216b7df02d78a3262",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-134"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-134"
       }
     },
     {
@@ -16709,7 +16709,7 @@
       ],
       "work_passage_id": "aet:135",
       "html_path": "works/aet/index.html#p-135",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-135",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-135",
       "alignment_revision": "sha256:b4b4485aafa62895fc7fb58dc1ac674daf2097b9bc68b77d670a4d2c55db12a8",
       "review_state": {
         "human_reviewed": false,
@@ -16745,9 +16745,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "135",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:77b34fa2c702b28bfab413cb0b1d7e1d04503567c7ee3434364c8a1e22110875",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-135"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-135"
       }
     },
     {
@@ -16835,7 +16835,7 @@
       ],
       "work_passage_id": "aet:136",
       "html_path": "works/aet/index.html#p-136",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-136",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-136",
       "alignment_revision": "sha256:8e3807d7b362cc879c9a4e01b123b024b7608465b233dfdc30d71e151e5142d7",
       "review_state": {
         "human_reviewed": false,
@@ -16871,9 +16871,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "136",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:5462cc562da94e8616641c2a493f6f2485cf78bcba7492a7bb1c22eba43aed6a",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-136"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-136"
       }
     },
     {
@@ -16949,7 +16949,7 @@
       "notes": [],
       "work_passage_id": "aet:137",
       "html_path": "works/aet/index.html#p-137",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-137",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-137",
       "alignment_revision": "sha256:31466e45e83d613049fd59bb247027e58b0951dcc8cfe01b2896a2a140b378c4",
       "review_state": {
         "human_reviewed": false,
@@ -16985,9 +16985,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "137",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:047ba7fbbf3e773e6fb9b54d00f0364da2f4b2a8e0b83e39e6c6a943cd69a135",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-137"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-137"
       }
     },
     {
@@ -17088,7 +17088,7 @@
       ],
       "work_passage_id": "aet:138",
       "html_path": "works/aet/index.html#p-138",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-138",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-138",
       "alignment_revision": "sha256:1c2b01a7eb0ea83325be4dbcc6691a0ab33e57589c52ec2f5bf48986d0c7d0fb",
       "review_state": {
         "human_reviewed": false,
@@ -17124,9 +17124,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "138",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:ec99105df18664003b5cff422fdbe2784c51f7cec953b345924740453a172341",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-138"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-138"
       }
     },
     {
@@ -17244,7 +17244,7 @@
       ],
       "work_passage_id": "aet:139",
       "html_path": "works/aet/index.html#p-139",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-139",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-139",
       "alignment_revision": "sha256:3ef491558152266fbd79222a86ba8e150240f0f684e3ceb54d6e1fa3e833de05",
       "review_state": {
         "human_reviewed": false,
@@ -17280,9 +17280,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "139",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:45eb8a0adbfed0e146b858823ee54ece176958cf85484a27132e8e19d39e6ec9",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-139"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-139"
       }
     },
     {
@@ -17357,7 +17357,7 @@
       ],
       "work_passage_id": "aet:140",
       "html_path": "works/aet/index.html#p-140",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-140",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-140",
       "alignment_revision": "sha256:158dcfcbdb608a99a21954dbb65e3587f60803f58ddb7e604d4d4d11d9edc251",
       "review_state": {
         "human_reviewed": false,
@@ -17393,9 +17393,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "140",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:0d953b7cc1de0e4c6de5f0e56852446efa3fff7a2b190fbb2b6d8351975d1f4e",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-140"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-140"
       }
     },
     {
@@ -17457,7 +17457,7 @@
       ],
       "work_passage_id": "aet:141",
       "html_path": "works/aet/index.html#p-141",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-141",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-141",
       "alignment_revision": "sha256:5791010d64bae502a8a0dcd8658ad29ce7ec2c6218ec3e06c4217aa854b1a840",
       "review_state": {
         "human_reviewed": false,
@@ -17493,9 +17493,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "141",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:d22c4812b1bffcef9f80f23efa27e33946b3e2dd6ba4cf8048995cd2dbb76ca8",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-141"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-141"
       }
     },
     {
@@ -17570,7 +17570,7 @@
       ],
       "work_passage_id": "aet:142",
       "html_path": "works/aet/index.html#p-142",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-142",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-142",
       "alignment_revision": "sha256:95e7b899e2184bbc36be1439c53fd097e66330915cc1194c06018018e28b00f8",
       "review_state": {
         "human_reviewed": false,
@@ -17606,9 +17606,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "142",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:12bacaaaf0943c10bfdb294a1cba21e21b673fc93bd2ceaf74590d5b66fc525f",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-142"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-142"
       }
     },
     {
@@ -17687,7 +17687,7 @@
       ],
       "work_passage_id": "aet:143",
       "html_path": "works/aet/index.html#p-143",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-143",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-143",
       "alignment_revision": "sha256:5f2c667f7a456a991cf955fc7044acd12db67b31a1074e84d532795ae0c99ba6",
       "review_state": {
         "human_reviewed": false,
@@ -17723,9 +17723,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "143",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:3e001d6f1b030172f6989eddfa85e0e48033d6131e460c71140c46c26d658f96",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-143"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-143"
       }
     },
     {
@@ -17800,7 +17800,7 @@
       ],
       "work_passage_id": "aet:144",
       "html_path": "works/aet/index.html#p-144",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-144",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-144",
       "alignment_revision": "sha256:9ac2aca2724a72b7a694ed198641f39bccbdab9d57595d6973a6862f592c65cc",
       "review_state": {
         "human_reviewed": false,
@@ -17836,9 +17836,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "144",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:3b967d72584fb3b07375130302f39866c28b8cbd2782c71f5bdab72146c6850d",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-144"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-144"
       }
     },
     {
@@ -17913,7 +17913,7 @@
       ],
       "work_passage_id": "aet:145",
       "html_path": "works/aet/index.html#p-145",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-145",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-145",
       "alignment_revision": "sha256:f52ac39b13d26c52155301b881999ff06b48fd0f8300c82238ad5d9bb47a3594",
       "review_state": {
         "human_reviewed": false,
@@ -17949,9 +17949,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "145",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:ed54ec203977a9dea56dac386a95d6b7ec533a5dea581973307797f8cbbf2344",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-145"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-145"
       }
     },
     {
@@ -18039,7 +18039,7 @@
       ],
       "work_passage_id": "aet:146",
       "html_path": "works/aet/index.html#p-146",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-146",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-146",
       "alignment_revision": "sha256:d5ce335975009b024b2c974a78bec7b2d87e5ccadc692283c03358eb19a980f2",
       "review_state": {
         "human_reviewed": false,
@@ -18075,9 +18075,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "146",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:5ad528e7edc9c8493099895e11e272aaa8dfd42643ed26f2fe02f302a230a50a",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-146"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-146"
       }
     },
     {
@@ -18194,7 +18194,7 @@
       ],
       "work_passage_id": "aet:147",
       "html_path": "works/aet/index.html#p-147",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-147",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-147",
       "alignment_revision": "sha256:80f35b28ae9efdea3a3fba07c7a68a8df23689725d579844e036eb892ea79714",
       "review_state": {
         "human_reviewed": false,
@@ -18230,9 +18230,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "147",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:181f3aaaec7dfa49fe730b3f02f8fdd2a262e50ae70b445dc2d104a27177beed",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-147"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-147"
       }
     },
     {
@@ -18321,7 +18321,7 @@
       ],
       "work_passage_id": "aet:148",
       "html_path": "works/aet/index.html#p-148",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-148",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-148",
       "alignment_revision": "sha256:936f39d3bdd2ea6d15b3abfe0ce9e82bbb27324c978eed2f34685eb2a9dbb6c4",
       "review_state": {
         "human_reviewed": false,
@@ -18357,9 +18357,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "148",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:8d7bdd32e3e8f0d1256803f8947b92d3f48c894be1c36dd26a924f4dce11abc7",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-148"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-148"
       }
     },
     {
@@ -18450,7 +18450,7 @@
       ],
       "work_passage_id": "aet:149",
       "html_path": "works/aet/index.html#p-149",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-149",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-149",
       "alignment_revision": "sha256:b950f40d120c4eb19b4d8f35483db7fe0fd7df6b98a9f390485c87fc49858656",
       "review_state": {
         "human_reviewed": false,
@@ -18486,9 +18486,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "149",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:936c07b905615d75d631479c4250820ffed4c13c8a1c179f8d55ef76c8a2b5d1",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-149"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-149"
       }
     },
     {
@@ -18551,7 +18551,7 @@
       ],
       "work_passage_id": "aet:150",
       "html_path": "works/aet/index.html#p-150",
-      "fixed_html_path": "releases/public-0.39/works/aet/index.html#p-150",
+      "fixed_html_path": "releases/public-0.40/works/aet/index.html#p-150",
       "alignment_revision": "sha256:75f59850de2c65043bf37d7308240ef17096b23a705560d67f1842a300ced918",
       "review_state": {
         "human_reviewed": false,
@@ -18587,9 +18587,9 @@
         "work": "세계의 불멸에 관하여",
         "reference": "150",
         "edition": "Leopold Cohn, Siegfried Reiter 편, Philonis Alexandrini Opera quae supersunt, vol. 6, Berlin: Reimer, 1915.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:aebda07c7eb254700266bd6cc00e4477647cb62a84c74e7c07ae97e6e3eb65b1",
-        "fixed_path": "releases/public-0.39/works/aet/index.html#p-150"
+        "fixed_path": "releases/public-0.40/works/aet/index.html#p-150"
       }
     }
   ],
@@ -18613,14 +18613,14 @@
   "display_author": "필론",
   "scope": "세계의 불멸에 관하여 채택 본문 150대목 전체",
   "coverage": "complete",
-  "release_id": "public-0.39",
+  "release_id": "public-0.40",
   "source_language": "grc",
   "source_kind": "edited_ancient_original",
   "human_reviewed": false,
   "translation_method": "고정 원어 본문에서 직접 번역",
   "html_path": "works/aet/index.html",
   "json_path": "data/works/aet.json",
-  "fixed_html_path": "releases/public-0.39/works/aet/index.html",
+  "fixed_html_path": "releases/public-0.40/works/aet/index.html",
   "source_profile": "aet-complete-pinned-source-20261021",
   "source_decisions": [
     {

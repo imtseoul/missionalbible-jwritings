@@ -100,7 +100,7 @@
       ],
       "work_passage_id": "claud:1.1",
       "html_path": "works/claud/index.html#p-1-1",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-1-1",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-1-1",
       "alignment_revision": "sha256:df6e9d54ae709ba5f5c3d84f110e68662a2716102340bea6748414be9ec1493f",
       "review_state": {
         "human_reviewed": false,
@@ -136,9 +136,9 @@
         "work": "클라우디우스",
         "reference": "1.1",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:57053ada1f7afe147930a949b6cc2fb1397c7209c6d60b42fe2d9cee19d06950",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-1-1"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-1-1"
       }
     },
     {
@@ -227,7 +227,7 @@
       ],
       "work_passage_id": "claud:1.2",
       "html_path": "works/claud/index.html#p-1-2",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-1-2",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-1-2",
       "alignment_revision": "sha256:d3ea6d254cdb4953e60531cfa79027581c7c13019eb86f2bb990b0483b6067ab",
       "review_state": {
         "human_reviewed": false,
@@ -263,9 +263,9 @@
         "work": "클라우디우스",
         "reference": "1.2",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:c9be72ea41f8dc0daf328b6218df020b0792441c9b8d393c715ceba895ae196f",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-1-2"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-1-2"
       }
     },
     {
@@ -366,7 +366,7 @@
       ],
       "work_passage_id": "claud:1.3",
       "html_path": "works/claud/index.html#p-1-3",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-1-3",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-1-3",
       "alignment_revision": "sha256:d953fe9b022fd1036e7393c53c70118fa4af345785d00e11adcbe2ce5276af6c",
       "review_state": {
         "human_reviewed": false,
@@ -402,9 +402,9 @@
         "work": "클라우디우스",
         "reference": "1.3",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:ba618ace4ddb12f8d288464b2c8e6cd970b47b293cc9e20a81d79dc1e6015991",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-1-3"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-1-3"
       }
     },
     {
@@ -492,7 +492,7 @@
       ],
       "work_passage_id": "claud:1.4",
       "html_path": "works/claud/index.html#p-1-4",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-1-4",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-1-4",
       "alignment_revision": "sha256:4cc9bb580b57844edafbb4d56c894408ae6a1b2cbc0ee93ab5cfe95d2b2c28b2",
       "review_state": {
         "human_reviewed": false,
@@ -528,9 +528,9 @@
         "work": "클라우디우스",
         "reference": "1.4",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:83c9f3f5b849c853a7b57079075e1b9293677203d53536656bfa5f35667347ad",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-1-4"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-1-4"
       }
     },
     {
@@ -618,7 +618,7 @@
       ],
       "work_passage_id": "claud:1.5",
       "html_path": "works/claud/index.html#p-1-5",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-1-5",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-1-5",
       "alignment_revision": "sha256:8ed1edda3af6df94f646510811ce4c2e4e2ca0e51297c5e7fcea5a614d0f02ae",
       "review_state": {
         "human_reviewed": false,
@@ -654,9 +654,9 @@
         "work": "클라우디우스",
         "reference": "1.5",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:4de92f9c42fca7034097e55dd56b5be3cccc68f7a037e9eeb5a29b976e5ad0b8",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-1-5"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-1-5"
       }
     },
     {
@@ -705,7 +705,7 @@
       ],
       "work_passage_id": "claud:1.6",
       "html_path": "works/claud/index.html#p-1-6",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-1-6",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-1-6",
       "alignment_revision": "sha256:618c97eaac8f21edb3a3a42dac93c2bcc53a82d0d53a5f262a6e0af9907f9322",
       "review_state": {
         "human_reviewed": false,
@@ -741,9 +741,9 @@
         "work": "클라우디우스",
         "reference": "1.6",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:ae40016f1e68364bfe04c610735f0ef6f654b752a7acac9099b71030bb4b5b4a",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-1-6"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-1-6"
       }
     },
     {
@@ -845,7 +845,7 @@
       ],
       "work_passage_id": "claud:2.1",
       "html_path": "works/claud/index.html#p-2-1",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-2-1",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-2-1",
       "alignment_revision": "sha256:914068eab92fb87721d68dc101c127a2ee3001a2667f199f5dd0186d032f6a0c",
       "review_state": {
         "human_reviewed": false,
@@ -881,9 +881,9 @@
         "work": "클라우디우스",
         "reference": "2.1",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:c62c0fe4d4f75238ce9717759e04155a4c497864bc2b5cb4c47786d7bb206937",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-2-1"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-2-1"
       }
     },
     {
@@ -971,7 +971,7 @@
       ],
       "work_passage_id": "claud:2.2",
       "html_path": "works/claud/index.html#p-2-2",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-2-2",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-2-2",
       "alignment_revision": "sha256:e3994e0ad8612a3eeb1b3096552d49446259e8497670e92e8530cc266916b540",
       "review_state": {
         "human_reviewed": false,
@@ -1007,9 +1007,9 @@
         "work": "클라우디우스",
         "reference": "2.2",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:c83af5f7229526bd5767697ac6ade8ed9f5c1dcdbbfee9427d459336e770f264",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-2-2"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-2-2"
       }
     },
     {
@@ -1069,7 +1069,7 @@
       "notes": [],
       "work_passage_id": "claud:3.1",
       "html_path": "works/claud/index.html#p-3-1",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-3-1",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-3-1",
       "alignment_revision": "sha256:16990d23b03684f97faeb0af79a0a9ebe502d10ac3bcf28e55a493ebe883a59d",
       "review_state": {
         "human_reviewed": false,
@@ -1105,9 +1105,9 @@
         "work": "클라우디우스",
         "reference": "3.1",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:8e34fceeeae33cb3987b4f8a7dd95a21e4784db410eb7e7653ca471e128aa6d0",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-3-1"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-3-1"
       }
     },
     {
@@ -1208,7 +1208,7 @@
       ],
       "work_passage_id": "claud:3.2",
       "html_path": "works/claud/index.html#p-3-2",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-3-2",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-3-2",
       "alignment_revision": "sha256:3f46767920de57ee453ed5bbb1945cbbe742029f2163da92c1fc7f3baf608b34",
       "review_state": {
         "human_reviewed": false,
@@ -1244,9 +1244,9 @@
         "work": "클라우디우스",
         "reference": "3.2",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:894cddb525137302514e0011edf148f858b5f9496cd303b97fa75485e6301c38",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-3-2"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-3-2"
       }
     },
     {
@@ -1322,7 +1322,7 @@
       ],
       "work_passage_id": "claud:4.1",
       "html_path": "works/claud/index.html#p-4-1",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-4-1",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-4-1",
       "alignment_revision": "sha256:70b53b5e72ef1c3a6565d2ec4a67ea55150f45d1de91a9e3b2d01b4ec3f47da3",
       "review_state": {
         "human_reviewed": false,
@@ -1358,9 +1358,9 @@
         "work": "클라우디우스",
         "reference": "4.1",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:17df9f84c9dd864a75fa54e884ecc81f0bdbf52d080c1b16de9270aa6134a3da",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-4-1"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-4-1"
       }
     },
     {
@@ -1435,7 +1435,7 @@
       ],
       "work_passage_id": "claud:4.2",
       "html_path": "works/claud/index.html#p-4-2",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-4-2",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-4-2",
       "alignment_revision": "sha256:10758c16a16db145aa70bb6a7f92d15648f6f8dba88f42038179b41ce1485ae9",
       "review_state": {
         "human_reviewed": false,
@@ -1471,9 +1471,9 @@
         "work": "클라우디우스",
         "reference": "4.2",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:a11a0ae280258b619c13026494a44b9e456fac9ca229f1ec936a4d66d75c6378",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-4-2"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-4-2"
       }
     },
     {
@@ -1574,7 +1574,7 @@
       ],
       "work_passage_id": "claud:4.3",
       "html_path": "works/claud/index.html#p-4-3",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-4-3",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-4-3",
       "alignment_revision": "sha256:01ac4227b7614700a9203187cfc45d220293f8e2f458fc0033a56e3efd24c8e6",
       "review_state": {
         "human_reviewed": false,
@@ -1610,9 +1610,9 @@
         "work": "클라우디우스",
         "reference": "4.3",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:e921ec812fd3a83a8401a529fb4b13fb9381014831b4db920ed847d2652dd7c4",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-4-3"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-4-3"
       }
     },
     {
@@ -1685,7 +1685,7 @@
       "notes": [],
       "work_passage_id": "claud:4.4",
       "html_path": "works/claud/index.html#p-4-4",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-4-4",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-4-4",
       "alignment_revision": "sha256:9a7329ca070a356885069aa7ea4fa8624b62a2159d2be02be42d05f6823b6325",
       "review_state": {
         "human_reviewed": false,
@@ -1721,9 +1721,9 @@
         "work": "클라우디우스",
         "reference": "4.4",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:025a81a0a910e72fbade480b18bf40bfddc7af751b0f331167fa1352e3f3719f",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-4-4"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-4-4"
       }
     },
     {
@@ -1824,7 +1824,7 @@
       ],
       "work_passage_id": "claud:4.5",
       "html_path": "works/claud/index.html#p-4-5",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-4-5",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-4-5",
       "alignment_revision": "sha256:06334e95da7568aa3f74bf7012be413f1ca38e2d353d6aa28a36bc4a8c80dcca",
       "review_state": {
         "human_reviewed": false,
@@ -1860,9 +1860,9 @@
         "work": "클라우디우스",
         "reference": "4.5",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:003299bf16bd8411761d9a490a8cf64d0eb60eba0e5c5c116a392b0be981e6eb",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-4-5"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-4-5"
       }
     },
     {
@@ -1924,7 +1924,7 @@
       ],
       "work_passage_id": "claud:4.6",
       "html_path": "works/claud/index.html#p-4-6",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-4-6",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-4-6",
       "alignment_revision": "sha256:62934b686f56a65bc9a4b42479c7312702e010de3e96548ab86de1e5d9e58872",
       "review_state": {
         "human_reviewed": false,
@@ -1960,9 +1960,9 @@
         "work": "클라우디우스",
         "reference": "4.6",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:b7dc4116d6b7814c33db0d8eec3d4e6e2bb617e4c7909247a7285f0203d895ac",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-4-6"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-4-6"
       }
     },
     {
@@ -2025,7 +2025,7 @@
       ],
       "work_passage_id": "claud:4.7",
       "html_path": "works/claud/index.html#p-4-7",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-4-7",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-4-7",
       "alignment_revision": "sha256:8714e848914b4bd5512a95bda3b71f27e45b82ef359adc43276b884b09c74645",
       "review_state": {
         "human_reviewed": false,
@@ -2061,9 +2061,9 @@
         "work": "클라우디우스",
         "reference": "4.7",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:93fde8a4c7bfa1470d64086f0d8caa0d92d4370e5bc790bcdc34a901714faf84",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-4-7"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-4-7"
       }
     },
     {
@@ -2164,7 +2164,7 @@
       ],
       "work_passage_id": "claud:5.1",
       "html_path": "works/claud/index.html#p-5-1",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-5-1",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-5-1",
       "alignment_revision": "sha256:31652340693fc937574760e196281e10b430afa41a6e54448c45c92f3728c835",
       "review_state": {
         "human_reviewed": false,
@@ -2200,9 +2200,9 @@
         "work": "클라우디우스",
         "reference": "5.1",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:fd53720f9a95316f8b309616e046761a0be9102071ddc0bdbb6f456802658dd8",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-5-1"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-5-1"
       }
     },
     {
@@ -2290,7 +2290,7 @@
       ],
       "work_passage_id": "claud:6.1",
       "html_path": "works/claud/index.html#p-6-1",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-6-1",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-6-1",
       "alignment_revision": "sha256:d0b2b1e4f3f64dab508e996b4a6b02aeba6cf012c35bfd33770825e6746ef9dc",
       "review_state": {
         "human_reviewed": false,
@@ -2326,9 +2326,9 @@
         "work": "클라우디우스",
         "reference": "6.1",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:73b0c00f79ac2d798e480f756f681e46ffae0a0037b120aa3f9418782b0cfd60",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-6-1"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-6-1"
       }
     },
     {
@@ -2416,7 +2416,7 @@
       ],
       "work_passage_id": "claud:6.2",
       "html_path": "works/claud/index.html#p-6-2",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-6-2",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-6-2",
       "alignment_revision": "sha256:31f53a6c685c4d3382f49e499dcb3abc7a4bf6e1b3e29640616fdc648a2d94e5",
       "review_state": {
         "human_reviewed": false,
@@ -2452,9 +2452,9 @@
         "work": "클라우디우스",
         "reference": "6.2",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:09f358dc190d251bca6c17d71fb172fd86eb38a893b3266665178ca894dc5b8e",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-6-2"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-6-2"
       }
     },
     {
@@ -2542,7 +2542,7 @@
       ],
       "work_passage_id": "claud:7.1",
       "html_path": "works/claud/index.html#p-7-1",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-7-1",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-7-1",
       "alignment_revision": "sha256:30f3a645dfde465bdcd6ef38da40362e2d64dc5d90c6ead0dd162c7ee7f42fb9",
       "review_state": {
         "human_reviewed": false,
@@ -2578,9 +2578,9 @@
         "work": "클라우디우스",
         "reference": "7.1",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:fdc9033f93a3d8c77c0db54257b1c34d083c9b9abaabd2c66260ec53760bb3c5",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-7-1"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-7-1"
       }
     },
     {
@@ -2668,7 +2668,7 @@
       ],
       "work_passage_id": "claud:8.1",
       "html_path": "works/claud/index.html#p-8-1",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-8-1",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-8-1",
       "alignment_revision": "sha256:9797bee722f8fb4faa586505b07c1dd4d1f378eba06db9fe5c597a236b85e997",
       "review_state": {
         "human_reviewed": false,
@@ -2704,9 +2704,9 @@
         "work": "클라우디우스",
         "reference": "8.1",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:45b1192891315dee98a5376524f55a87a4f25f962f47d7f38f8e610189215467",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-8-1"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-8-1"
       }
     },
     {
@@ -2807,7 +2807,7 @@
       ],
       "work_passage_id": "claud:9.1",
       "html_path": "works/claud/index.html#p-9-1",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-9-1",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-9-1",
       "alignment_revision": "sha256:8c46eac639ec533db33765668b4910900397e3451337d7f505dee1c253716d88",
       "review_state": {
         "human_reviewed": false,
@@ -2843,9 +2843,9 @@
         "work": "클라우디우스",
         "reference": "9.1",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:fc3cb6a3e0240bf0d1b49a570081be8a4a78c800c18c73592d9e605727db0688",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-9-1"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-9-1"
       }
     },
     {
@@ -2920,7 +2920,7 @@
       ],
       "work_passage_id": "claud:9.2",
       "html_path": "works/claud/index.html#p-9-2",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-9-2",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-9-2",
       "alignment_revision": "sha256:fca4e9d48fdb52b146c48a6ac45b99ab059c0f33937cb3f2599ebf3a0bdf4aea",
       "review_state": {
         "human_reviewed": false,
@@ -2956,9 +2956,9 @@
         "work": "클라우디우스",
         "reference": "9.2",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:8429f474823affc6416a2aaafa2e3ed6bb6f568837e5b0499db7f3d0efda89e2",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-9-2"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-9-2"
       }
     },
     {
@@ -3033,7 +3033,7 @@
       ],
       "work_passage_id": "claud:10.1",
       "html_path": "works/claud/index.html#p-10-1",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-10-1",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-10-1",
       "alignment_revision": "sha256:563b5e30209ba9074b40d4e7e67c35eb05eb82dc2adfbbffea94762e925fd4b8",
       "review_state": {
         "human_reviewed": false,
@@ -3069,9 +3069,9 @@
         "work": "클라우디우스",
         "reference": "10.1",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:87c59050c139cbd276a70a65a1c2588178ad55846d27044c2a266eba99e2c5a6",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-10-1"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-10-1"
       }
     },
     {
@@ -3146,7 +3146,7 @@
       ],
       "work_passage_id": "claud:10.2",
       "html_path": "works/claud/index.html#p-10-2",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-10-2",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-10-2",
       "alignment_revision": "sha256:3cd9db910eded140eb7b908df43e7a3bd10467295648427e4a82c799eca570c4",
       "review_state": {
         "human_reviewed": false,
@@ -3182,9 +3182,9 @@
         "work": "클라우디우스",
         "reference": "10.2",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:b21868aab1a818df03e533a3b945734392b38569d52af581b93c465817ddb5da",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-10-2"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-10-2"
       }
     },
     {
@@ -3259,7 +3259,7 @@
       ],
       "work_passage_id": "claud:10.3",
       "html_path": "works/claud/index.html#p-10-3",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-10-3",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-10-3",
       "alignment_revision": "sha256:9d89335473271ae4370062104c732b017cbbca9b8b2f84e12d075e2e3ff61ede",
       "review_state": {
         "human_reviewed": false,
@@ -3295,9 +3295,9 @@
         "work": "클라우디우스",
         "reference": "10.3",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:2d55864c421d6d12e97df4662b4ff0a14975fffd462540201d0272e44fdcd1ba",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-10-3"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-10-3"
       }
     },
     {
@@ -3372,7 +3372,7 @@
       ],
       "work_passage_id": "claud:10.4",
       "html_path": "works/claud/index.html#p-10-4",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-10-4",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-10-4",
       "alignment_revision": "sha256:2bf52f98d9c10d71100f84a23ac7becac59719778ab05a43babc6c5b6f6a5896",
       "review_state": {
         "human_reviewed": false,
@@ -3408,9 +3408,9 @@
         "work": "클라우디우스",
         "reference": "10.4",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:d0c2ff3732ef378c1a681bfddef6105767d98551fcdb744ca7ccd4b5bbb3a48d",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-10-4"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-10-4"
       }
     },
     {
@@ -3485,7 +3485,7 @@
       ],
       "work_passage_id": "claud:11.1",
       "html_path": "works/claud/index.html#p-11-1",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-11-1",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-11-1",
       "alignment_revision": "sha256:8febf7e58880de6fe48cb42891721e73c864a29b086db671c820cae2afdb2ef6",
       "review_state": {
         "human_reviewed": false,
@@ -3521,9 +3521,9 @@
         "work": "클라우디우스",
         "reference": "11.1",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:95c069df1b65e66f35248ec1198552946638becfd3d3f3a223f4b69c95998dfa",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-11-1"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-11-1"
       }
     },
     {
@@ -3612,7 +3612,7 @@
       ],
       "work_passage_id": "claud:11.2",
       "html_path": "works/claud/index.html#p-11-2",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-11-2",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-11-2",
       "alignment_revision": "sha256:3485eaf0b94969a5e09cedb79caa9dad6806897349efc22f9d03d3a592e517d6",
       "review_state": {
         "human_reviewed": false,
@@ -3648,9 +3648,9 @@
         "work": "클라우디우스",
         "reference": "11.2",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:18efb6a0fcc16fdfd19becc7ce9b90187dbf2a67b504237e0584353bf39d369f",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-11-2"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-11-2"
       }
     },
     {
@@ -3725,7 +3725,7 @@
       ],
       "work_passage_id": "claud:11.3",
       "html_path": "works/claud/index.html#p-11-3",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-11-3",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-11-3",
       "alignment_revision": "sha256:974873f420930e1bba25624535a53aa9d4b1ecade514281bd1b86f15fac3958d",
       "review_state": {
         "human_reviewed": false,
@@ -3761,9 +3761,9 @@
         "work": "클라우디우스",
         "reference": "11.3",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:fee895b88d1662de41c15b3aeb7ef0ddcab3fceb245edbb05ea73b61ffa00a55",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-11-3"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-11-3"
       }
     },
     {
@@ -3851,7 +3851,7 @@
       ],
       "work_passage_id": "claud:12.1",
       "html_path": "works/claud/index.html#p-12-1",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-12-1",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-12-1",
       "alignment_revision": "sha256:78cb4fd8ce0738d07c5220a6e3ec27c5af1a06a15b8ea8e9227e17beb9391daf",
       "review_state": {
         "human_reviewed": false,
@@ -3887,9 +3887,9 @@
         "work": "클라우디우스",
         "reference": "12.1",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:0e53daaeabd81b48ef6f65d005b0137e4dad2d0f0677481437a5e10cab50319f",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-12-1"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-12-1"
       }
     },
     {
@@ -3977,7 +3977,7 @@
       ],
       "work_passage_id": "claud:12.2",
       "html_path": "works/claud/index.html#p-12-2",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-12-2",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-12-2",
       "alignment_revision": "sha256:bfba7ba0d12db8db7677e2a469a456573bea941b223411584ea609d0d0514e42",
       "review_state": {
         "human_reviewed": false,
@@ -4013,9 +4013,9 @@
         "work": "클라우디우스",
         "reference": "12.2",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:b71f2eac96268cd1b0cd9229f2a3358414f8e29b6485c18716964df3f73df0ce",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-12-2"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-12-2"
       }
     },
     {
@@ -4075,7 +4075,7 @@
       "notes": [],
       "work_passage_id": "claud:12.3",
       "html_path": "works/claud/index.html#p-12-3",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-12-3",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-12-3",
       "alignment_revision": "sha256:5ac65f8e2a459101827d99d63d0653c412360955616a55928b3964ca8115a12a",
       "review_state": {
         "human_reviewed": false,
@@ -4111,9 +4111,9 @@
         "work": "클라우디우스",
         "reference": "12.3",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:489f4e3e13b311447033790413917e05d3888c2692c2ba535dd4c170e01e8436",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-12-3"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-12-3"
       }
     },
     {
@@ -4186,7 +4186,7 @@
       "notes": [],
       "work_passage_id": "claud:13.1",
       "html_path": "works/claud/index.html#p-13-1",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-13-1",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-13-1",
       "alignment_revision": "sha256:69120df00ebae31536fa58261c2762790b2adaccf4e402807c3a315ac08cace5",
       "review_state": {
         "human_reviewed": false,
@@ -4222,9 +4222,9 @@
         "work": "클라우디우스",
         "reference": "13.1",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:7b8859ef7f7793ac091daf905649626ecb6299e5578bebc57cbe376723bde448",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-13-1"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-13-1"
       }
     },
     {
@@ -4299,7 +4299,7 @@
       ],
       "work_passage_id": "claud:13.2",
       "html_path": "works/claud/index.html#p-13-2",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-13-2",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-13-2",
       "alignment_revision": "sha256:354a244dba57bde0bf2547957390c5ffc8293bbe991e494ff616405766c89cbb",
       "review_state": {
         "human_reviewed": false,
@@ -4335,9 +4335,9 @@
         "work": "클라우디우스",
         "reference": "13.2",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:c7982933c0b05fa5758b6c0e144fea3a0931cd4ce64b42bdb45322277f6de289",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-13-2"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-13-2"
       }
     },
     {
@@ -4438,7 +4438,7 @@
       ],
       "work_passage_id": "claud:14.1",
       "html_path": "works/claud/index.html#p-14-1",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-14-1",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-14-1",
       "alignment_revision": "sha256:46a20f8ea1ed4e45d5d2cbb37a45fc4fe5b493524172172e8a1bcd23990e38d7",
       "review_state": {
         "human_reviewed": false,
@@ -4474,9 +4474,9 @@
         "work": "클라우디우스",
         "reference": "14.1",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:a75d9517129d90e5c0fe12ce411a6a9437f9d55ee47d694b7d21fa7acd8ed01d",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-14-1"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-14-1"
       }
     },
     {
@@ -4551,7 +4551,7 @@
       ],
       "work_passage_id": "claud:15.1",
       "html_path": "works/claud/index.html#p-15-1",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-15-1",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-15-1",
       "alignment_revision": "sha256:f7c31041b989f93a307bd3941fd2e4191148173093131783696476b4e2c548f1",
       "review_state": {
         "human_reviewed": false,
@@ -4587,9 +4587,9 @@
         "work": "클라우디우스",
         "reference": "15.1",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:900d8f405cef19ce274c49d6e1a4ce2641565f35be418229baab312d54da37a7",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-15-1"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-15-1"
       }
     },
     {
@@ -4677,7 +4677,7 @@
       ],
       "work_passage_id": "claud:15.2",
       "html_path": "works/claud/index.html#p-15-2",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-15-2",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-15-2",
       "alignment_revision": "sha256:dc6a5254022ee72b220e3f3fba4b0a6ce2180cb28775aae2887ba68de567f7f1",
       "review_state": {
         "human_reviewed": false,
@@ -4713,9 +4713,9 @@
         "work": "클라우디우스",
         "reference": "15.2",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:4eff7e58aac3b7093dbe59c604b7ce763ffce47e4f1377c423178528dcd0f2d0",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-15-2"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-15-2"
       }
     },
     {
@@ -4814,7 +4814,7 @@
       "notes": [],
       "work_passage_id": "claud:15.3",
       "html_path": "works/claud/index.html#p-15-3",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-15-3",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-15-3",
       "alignment_revision": "sha256:d30be04d4307b39311db6a238db8afa01aa56d8d73e42ce168d6c0382f0bb078",
       "review_state": {
         "human_reviewed": false,
@@ -4850,9 +4850,9 @@
         "work": "클라우디우스",
         "reference": "15.3",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:5df447ebb66f988a0b7a035d09f99306b01ece34cfe2c34a7a5ba29fd4449b6d",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-15-3"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-15-3"
       }
     },
     {
@@ -4914,7 +4914,7 @@
       ],
       "work_passage_id": "claud:15.4",
       "html_path": "works/claud/index.html#p-15-4",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-15-4",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-15-4",
       "alignment_revision": "sha256:9bfecdb1fce75245a497d3aa7cff6333ab3febbe1a69d47b89cc48f52cd2ddda",
       "review_state": {
         "human_reviewed": false,
@@ -4950,9 +4950,9 @@
         "work": "클라우디우스",
         "reference": "15.4",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:8cf2d0a8e85839568ef8e8221edb9686e9056b86e7de5d7da99cb332351e1ce1",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-15-4"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-15-4"
       }
     },
     {
@@ -5053,7 +5053,7 @@
       ],
       "work_passage_id": "claud:16.1",
       "html_path": "works/claud/index.html#p-16-1",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-16-1",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-16-1",
       "alignment_revision": "sha256:984f3ef2fb652181dca9fb45c927922b15b607dfbe0ed433627fb5b403cfe0aa",
       "review_state": {
         "human_reviewed": false,
@@ -5089,9 +5089,9 @@
         "work": "클라우디우스",
         "reference": "16.1",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:9e07ce7231f5d44ccd3feb120d814b4a29f8cb76854c36f5e1d8f2330df8bcf4",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-16-1"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-16-1"
       }
     },
     {
@@ -5192,7 +5192,7 @@
       ],
       "work_passage_id": "claud:16.2",
       "html_path": "works/claud/index.html#p-16-2",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-16-2",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-16-2",
       "alignment_revision": "sha256:d8392588ae98a2d84b6fd6fe1c6ee01ae905b3143fb2f4a7ac106d35d525ea38",
       "review_state": {
         "human_reviewed": false,
@@ -5228,9 +5228,9 @@
         "work": "클라우디우스",
         "reference": "16.2",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:ca26e840b23d51ee63c5e702357237f11cdb7ca2210918ae1cd1eb389432c239",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-16-2"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-16-2"
       }
     },
     {
@@ -5303,7 +5303,7 @@
       "notes": [],
       "work_passage_id": "claud:16.3",
       "html_path": "works/claud/index.html#p-16-3",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-16-3",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-16-3",
       "alignment_revision": "sha256:92fbfbd3cf815692f0a497968335847f63d38ac6571cc3539fc76354681bdc70",
       "review_state": {
         "human_reviewed": false,
@@ -5339,9 +5339,9 @@
         "work": "클라우디우스",
         "reference": "16.3",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:fbadd0122734fcdc73bc647c401c8d99ffecf176fbada37311020fe97359c9bb",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-16-3"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-16-3"
       }
     },
     {
@@ -5416,7 +5416,7 @@
       ],
       "work_passage_id": "claud:16.4",
       "html_path": "works/claud/index.html#p-16-4",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-16-4",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-16-4",
       "alignment_revision": "sha256:f48c7bb926c39413dbc30cdf188a28397897156c5f13e32b9db8381723de5c9f",
       "review_state": {
         "human_reviewed": false,
@@ -5452,9 +5452,9 @@
         "work": "클라우디우스",
         "reference": "16.4",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:10a19f4f6c0d5c63cd61cb224c3c429f8c8d7c2c441ea0bbdcc57cbb1e42613b",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-16-4"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-16-4"
       }
     },
     {
@@ -5529,7 +5529,7 @@
       ],
       "work_passage_id": "claud:17.1",
       "html_path": "works/claud/index.html#p-17-1",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-17-1",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-17-1",
       "alignment_revision": "sha256:386c5775a18575a8e52212cdb3d6b8cab79237181a3d94d0221b7432be1068ce",
       "review_state": {
         "human_reviewed": false,
@@ -5565,9 +5565,9 @@
         "work": "클라우디우스",
         "reference": "17.1",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:c186fa3d571824d6d69a9c326c1e9abf5712bfc80e369f7ea90d9cc862f1687d",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-17-1"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-17-1"
       }
     },
     {
@@ -5642,7 +5642,7 @@
       ],
       "work_passage_id": "claud:17.2",
       "html_path": "works/claud/index.html#p-17-2",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-17-2",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-17-2",
       "alignment_revision": "sha256:b3cab735287059ed9d52fe31668a96c4ae77105cfef357676f429e9a9ce1e4d7",
       "review_state": {
         "human_reviewed": false,
@@ -5678,9 +5678,9 @@
         "work": "클라우디우스",
         "reference": "17.2",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:267b5f4bb4e73c9b0f49a3fe209d851c73955b40944c079a8e6b8b768a8c3305",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-17-2"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-17-2"
       }
     },
     {
@@ -5768,7 +5768,7 @@
       ],
       "work_passage_id": "claud:17.3",
       "html_path": "works/claud/index.html#p-17-3",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-17-3",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-17-3",
       "alignment_revision": "sha256:2906800042a95a9a5be42a2f8582e95c75ebcbf0c6b2a7b0b7950680839c1c39",
       "review_state": {
         "human_reviewed": false,
@@ -5804,9 +5804,9 @@
         "work": "클라우디우스",
         "reference": "17.3",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:89a45cf45d8783b4e9bc87622aef773107c23c83a7bf3ef21ad7393eee4c594d",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-17-3"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-17-3"
       }
     },
     {
@@ -5881,7 +5881,7 @@
       ],
       "work_passage_id": "claud:18.1",
       "html_path": "works/claud/index.html#p-18-1",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-18-1",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-18-1",
       "alignment_revision": "sha256:b684a225700d77ec7ad2aeb7d0348f06932c4ed1f3b75fb03b78e09e2c28ca98",
       "review_state": {
         "human_reviewed": false,
@@ -5917,9 +5917,9 @@
         "work": "클라우디우스",
         "reference": "18.1",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:f46593b6c6e1d30b7dfe45b5b751f2ec545bf81450b0ef1d33623ed61c07bbe3",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-18-1"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-18-1"
       }
     },
     {
@@ -6007,7 +6007,7 @@
       ],
       "work_passage_id": "claud:18.2",
       "html_path": "works/claud/index.html#p-18-2",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-18-2",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-18-2",
       "alignment_revision": "sha256:8b5565477c81997083996be23cef85d82aa6d44d01ea11da54b549c03f18bce9",
       "review_state": {
         "human_reviewed": false,
@@ -6043,9 +6043,9 @@
         "work": "클라우디우스",
         "reference": "18.2",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:2e49d6c1203743965e8872a1b02177b5b8985eb20af70f53622d70d5cd645f70",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-18-2"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-18-2"
       }
     },
     {
@@ -6107,7 +6107,7 @@
       ],
       "work_passage_id": "claud:19.1",
       "html_path": "works/claud/index.html#p-19-1",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-19-1",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-19-1",
       "alignment_revision": "sha256:eed64f05ea6c9afaad5d1f12fa3b2769d401ab6b64533599facf4d4ff80e9e27",
       "review_state": {
         "human_reviewed": false,
@@ -6143,9 +6143,9 @@
         "work": "클라우디우스",
         "reference": "19.1",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:56fd2ed279fb335224e66d27bfe136feac02ac51689456269f03ac7e1a08b803",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-19-1"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-19-1"
       }
     },
     {
@@ -6233,7 +6233,7 @@
       ],
       "work_passage_id": "claud:20.1",
       "html_path": "works/claud/index.html#p-20-1",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-20-1",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-20-1",
       "alignment_revision": "sha256:ae825d34ce3b22afec5d2d865bf5915bedd2fc739def9098300abe5e887766cc",
       "review_state": {
         "human_reviewed": false,
@@ -6269,9 +6269,9 @@
         "work": "클라우디우스",
         "reference": "20.1",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:fdbe9e3318d33c7e6c35e8a8740d7cd85229a431283edb1f0a3cafb3e9ea9597",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-20-1"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-20-1"
       }
     },
     {
@@ -6333,7 +6333,7 @@
       ],
       "work_passage_id": "claud:20.2",
       "html_path": "works/claud/index.html#p-20-2",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-20-2",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-20-2",
       "alignment_revision": "sha256:7cca1c62fd5051cad099b09559e51d5716c6ece4489254696c7b0d8605346a82",
       "review_state": {
         "human_reviewed": false,
@@ -6369,9 +6369,9 @@
         "work": "클라우디우스",
         "reference": "20.2",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:816884627bb52d6306b799f43bdde0c1a0ceb82dea38590c0005a3b4d291495f",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-20-2"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-20-2"
       }
     },
     {
@@ -6446,7 +6446,7 @@
       ],
       "work_passage_id": "claud:20.3",
       "html_path": "works/claud/index.html#p-20-3",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-20-3",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-20-3",
       "alignment_revision": "sha256:f3e18b87f094ba3d9d2bdf1bcee9a0e9decfa6843759d9d6d922d1a72623a28d",
       "review_state": {
         "human_reviewed": false,
@@ -6482,9 +6482,9 @@
         "work": "클라우디우스",
         "reference": "20.3",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:1104bf39ccb08812183811db804cae855c94cf7a7c1c451ae525b3ba77892364",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-20-3"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-20-3"
       }
     },
     {
@@ -6559,7 +6559,7 @@
       ],
       "work_passage_id": "claud:21.1",
       "html_path": "works/claud/index.html#p-21-1",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-21-1",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-21-1",
       "alignment_revision": "sha256:9a3dc948ae4ecdd7bcfd5cb3a3ce0edcb86b6a02f9f2e3665fee9a7de7eb11fd",
       "review_state": {
         "human_reviewed": false,
@@ -6595,9 +6595,9 @@
         "work": "클라우디우스",
         "reference": "21.1",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:17377207132f0ae05060c28f6cc74e546702dba68b9a82b4cb4233298634dc8f",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-21-1"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-21-1"
       }
     },
     {
@@ -6685,7 +6685,7 @@
       ],
       "work_passage_id": "claud:21.2",
       "html_path": "works/claud/index.html#p-21-2",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-21-2",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-21-2",
       "alignment_revision": "sha256:e53234cd1daa78cd1cfb636107cafc4f15e52691373aab8436af9af744e05725",
       "review_state": {
         "human_reviewed": false,
@@ -6721,9 +6721,9 @@
         "work": "클라우디우스",
         "reference": "21.2",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:f9a469557b2d9c99154a6de9957a7567655a98c583827efb901bd18b22679934",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-21-2"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-21-2"
       }
     },
     {
@@ -6798,7 +6798,7 @@
       ],
       "work_passage_id": "claud:21.3",
       "html_path": "works/claud/index.html#p-21-3",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-21-3",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-21-3",
       "alignment_revision": "sha256:aa6bd42e27cf3ecead71d2b80a88bcca69dcb1b89caaa6f414fd495a9bd87fd6",
       "review_state": {
         "human_reviewed": false,
@@ -6834,9 +6834,9 @@
         "work": "클라우디우스",
         "reference": "21.3",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:ddb5d5b5f1535029b95758c3165ce4c10bdbe92539ef8753986fd2b2b6f0f91b",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-21-3"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-21-3"
       }
     },
     {
@@ -6911,7 +6911,7 @@
       ],
       "work_passage_id": "claud:21.4",
       "html_path": "works/claud/index.html#p-21-4",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-21-4",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-21-4",
       "alignment_revision": "sha256:de34b727f56f8dd83139a8e2ec953d58281e70ba4155f78bd9ee16c3f5c96d48",
       "review_state": {
         "human_reviewed": false,
@@ -6947,9 +6947,9 @@
         "work": "클라우디우스",
         "reference": "21.4",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:399e86b77304f19f49eaa18419c9498003f097b20e4071744444ea0144aba216",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-21-4"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-21-4"
       }
     },
     {
@@ -7037,7 +7037,7 @@
       ],
       "work_passage_id": "claud:21.5",
       "html_path": "works/claud/index.html#p-21-5",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-21-5",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-21-5",
       "alignment_revision": "sha256:42f78c761ce9590cb9261dcd16d2a72c00b3a954ef6af979cfebadd2ba22d247",
       "review_state": {
         "human_reviewed": false,
@@ -7073,9 +7073,9 @@
         "work": "클라우디우스",
         "reference": "21.5",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:9bc0aaacb4946c4eb0aa10939b7e5e5cf50b573d7130d2eded4e7a66380ec6f1",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-21-5"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-21-5"
       }
     },
     {
@@ -7176,7 +7176,7 @@
       ],
       "work_passage_id": "claud:21.6",
       "html_path": "works/claud/index.html#p-21-6",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-21-6",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-21-6",
       "alignment_revision": "sha256:2f9249b506b2a65d250e0d508cdda767dbd544bdaae492f34c8ceca40c709ca5",
       "review_state": {
         "human_reviewed": false,
@@ -7212,9 +7212,9 @@
         "work": "클라우디우스",
         "reference": "21.6",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:3106931cbb8ce7e86a37da51941066948acc4b71dda5ee1c4804460497a9c71b",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-21-6"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-21-6"
       }
     },
     {
@@ -7302,7 +7302,7 @@
       ],
       "work_passage_id": "claud:22.1",
       "html_path": "works/claud/index.html#p-22-1",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-22-1",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-22-1",
       "alignment_revision": "sha256:10823cb634c151baa3494350d15253e2a0b1acb726436e06ccea2c3eef4d935a",
       "review_state": {
         "human_reviewed": false,
@@ -7338,9 +7338,9 @@
         "work": "클라우디우스",
         "reference": "22.1",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:fca7dfdd9847321cf99980f060c74a7356fc4c0c12aa214f2414c8bc825f4c64",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-22-1"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-22-1"
       }
     },
     {
@@ -7415,7 +7415,7 @@
       ],
       "work_passage_id": "claud:23.1",
       "html_path": "works/claud/index.html#p-23-1",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-23-1",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-23-1",
       "alignment_revision": "sha256:fa5e6b83e34cc9f28823dd3c717e00e2db9ad0c079c944a1b2ec2703e9d328e2",
       "review_state": {
         "human_reviewed": false,
@@ -7451,9 +7451,9 @@
         "work": "클라우디우스",
         "reference": "23.1",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:68fd580eae96dfd72a6b12ad5505b2d366a73232d86881b1c02830fb28e4c804",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-23-1"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-23-1"
       }
     },
     {
@@ -7552,7 +7552,7 @@
       "notes": [],
       "work_passage_id": "claud:23.2",
       "html_path": "works/claud/index.html#p-23-2",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-23-2",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-23-2",
       "alignment_revision": "sha256:403fa8b9bd8268abac2917c1240661fb1eeb042a28f4cb311765ce12fb790994",
       "review_state": {
         "human_reviewed": false,
@@ -7588,9 +7588,9 @@
         "work": "클라우디우스",
         "reference": "23.2",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:e8a3184618735961d50e46bed994e3b4e2113d5dd35422fdd38be98debd5b94b",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-23-2"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-23-2"
       }
     },
     {
@@ -7678,7 +7678,7 @@
       ],
       "work_passage_id": "claud:24.1",
       "html_path": "works/claud/index.html#p-24-1",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-24-1",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-24-1",
       "alignment_revision": "sha256:6c20dc7a511b6e87171b6632b2c417792e0b2b1c025bf0a5209dca87302e0438",
       "review_state": {
         "human_reviewed": false,
@@ -7714,9 +7714,9 @@
         "work": "클라우디우스",
         "reference": "24.1",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:cbddeee1cc1e742885697e0452cd49b973a3fca0aef3fe531b360e9fa1529a74",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-24-1"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-24-1"
       }
     },
     {
@@ -7778,7 +7778,7 @@
       ],
       "work_passage_id": "claud:24.2",
       "html_path": "works/claud/index.html#p-24-2",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-24-2",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-24-2",
       "alignment_revision": "sha256:8ac6a5832cb97d6428ccd80eeffc50aed62bf71e49c05e9efb86ce13a78ea9f6",
       "review_state": {
         "human_reviewed": false,
@@ -7814,9 +7814,9 @@
         "work": "클라우디우스",
         "reference": "24.2",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:f1c6e58778ceb25099234a4c8429a7abe30d36509e656cbe3e6a00681d32c1fa",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-24-2"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-24-2"
       }
     },
     {
@@ -7904,7 +7904,7 @@
       ],
       "work_passage_id": "claud:24.3",
       "html_path": "works/claud/index.html#p-24-3",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-24-3",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-24-3",
       "alignment_revision": "sha256:4fe57597b6a29fc5a4ceace2e9cbfb0e738f3ba20fc562afa810432d122fe8e7",
       "review_state": {
         "human_reviewed": false,
@@ -7940,9 +7940,9 @@
         "work": "클라우디우스",
         "reference": "24.3",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:b9423f89d12ba06aee7ee4864a2a2fb22473eacdba51b8e7848e9aead3eb2950",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-24-3"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-24-3"
       }
     },
     {
@@ -8043,7 +8043,7 @@
       ],
       "work_passage_id": "claud:25.1",
       "html_path": "works/claud/index.html#p-25-1",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-25-1",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-25-1",
       "alignment_revision": "sha256:cfc8b8e0ba557ceab6f2012e1eb1257c28ee34a9405cee8685d82cccd1f04124",
       "review_state": {
         "human_reviewed": false,
@@ -8079,9 +8079,9 @@
         "work": "클라우디우스",
         "reference": "25.1",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:88a6d8dbcb8c54435520827e8574759569f5f0472e6223ac82688ba075e5a69a",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-25-1"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-25-1"
       }
     },
     {
@@ -8182,7 +8182,7 @@
       ],
       "work_passage_id": "claud:25.2",
       "html_path": "works/claud/index.html#p-25-2",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-25-2",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-25-2",
       "alignment_revision": "sha256:96e864bf30d78c3c58ff6de5ae14435fa82702cd81839a9cef47554de474f440",
       "review_state": {
         "human_reviewed": false,
@@ -8218,9 +8218,9 @@
         "work": "클라우디우스",
         "reference": "25.2",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:6e53b65bb4eb2eca9cd6877cb812c4e9f5aaeedc719fb5f2688cc4b81ae5556e",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-25-2"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-25-2"
       }
     },
     {
@@ -8321,7 +8321,7 @@
       ],
       "work_passage_id": "claud:25.3",
       "html_path": "works/claud/index.html#p-25-3",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-25-3",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-25-3",
       "alignment_revision": "sha256:723ba92c24ff2a6705de7e1c919cfff433f84b5b0dc2d4efd5575ebb39a7b600",
       "review_state": {
         "human_reviewed": false,
@@ -8357,9 +8357,9 @@
         "work": "클라우디우스",
         "reference": "25.3",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:ec0a30a46843c09f86efe6a247926ca9657758727bd97a548bc329fdeb1bb10a",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-25-3"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-25-3"
       }
     },
     {
@@ -8436,7 +8436,7 @@
       ],
       "work_passage_id": "claud:25.4",
       "html_path": "works/claud/index.html#p-25-4",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-25-4",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-25-4",
       "alignment_revision": "sha256:00918aad95e3a98e66f4ed178f1faf7c32877057b4a3951946d0370db379a38a",
       "review_state": {
         "human_reviewed": false,
@@ -8472,9 +8472,9 @@
         "work": "클라우디우스",
         "reference": "25.4",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:6b8bf41c627d63275bc2724131edbdf3b88fd5e755a7dd80544ad2afc010469a",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-25-4"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-25-4"
       }
     },
     {
@@ -8588,7 +8588,7 @@
       ],
       "work_passage_id": "claud:25.5",
       "html_path": "works/claud/index.html#p-25-5",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-25-5",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-25-5",
       "alignment_revision": "sha256:c2aec846b12f4f5aa6d83c8716f3a476cf3d0d16089629888e3cc344bc4c37a2",
       "review_state": {
         "human_reviewed": false,
@@ -8624,9 +8624,9 @@
         "work": "클라우디우스",
         "reference": "25.5",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:7fa160d1a7c36e206965d25f32d35e3c393c47404abdf8c2270db3b3a8b33d11",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-25-5"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-25-5"
       }
     },
     {
@@ -8688,7 +8688,7 @@
       ],
       "work_passage_id": "claud:26.1",
       "html_path": "works/claud/index.html#p-26-1",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-26-1",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-26-1",
       "alignment_revision": "sha256:b12be15469857904ba4d50195a1ac5edc9158249095fcf010ed19998dd31283f",
       "review_state": {
         "human_reviewed": false,
@@ -8724,9 +8724,9 @@
         "work": "클라우디우스",
         "reference": "26.1",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:41f5fd19fb309232a73031e4377df6c3880fcb78d7636a58069f121e3009baab",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-26-1"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-26-1"
       }
     },
     {
@@ -8827,7 +8827,7 @@
       ],
       "work_passage_id": "claud:26.2",
       "html_path": "works/claud/index.html#p-26-2",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-26-2",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-26-2",
       "alignment_revision": "sha256:e7d7a021a40764bbd5668703e060c1501b9c41674a6ac73f5779b70a6ca8c662",
       "review_state": {
         "human_reviewed": false,
@@ -8863,9 +8863,9 @@
         "work": "클라우디우스",
         "reference": "26.2",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:ced259bab9d6466c605224a5d8d150814bb12940fa2976ee362020909bd5726f",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-26-2"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-26-2"
       }
     },
     {
@@ -8953,7 +8953,7 @@
       ],
       "work_passage_id": "claud:26.3",
       "html_path": "works/claud/index.html#p-26-3",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-26-3",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-26-3",
       "alignment_revision": "sha256:1bba91433da78ae9edacc48656d8f44f9d542d5ba193fda74a8f8fa315869b14",
       "review_state": {
         "human_reviewed": false,
@@ -8989,9 +8989,9 @@
         "work": "클라우디우스",
         "reference": "26.3",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:b322996cac9ce717e56f513453e0506df6a3a201eac7eef8bfefd64c5ae33fd7",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-26-3"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-26-3"
       }
     },
     {
@@ -9080,7 +9080,7 @@
       ],
       "work_passage_id": "claud:27.1",
       "html_path": "works/claud/index.html#p-27-1",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-27-1",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-27-1",
       "alignment_revision": "sha256:9b2ba85f0633e5a267dac206db534f6e9fd9001e080b18cbbd7c98b80f00d6c1",
       "review_state": {
         "human_reviewed": false,
@@ -9116,9 +9116,9 @@
         "work": "클라우디우스",
         "reference": "27.1",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:1b548e5a9c0218a6f120603c3a4bb29cd4abe3a213698ff2b5292021ac728e2b",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-27-1"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-27-1"
       }
     },
     {
@@ -9193,7 +9193,7 @@
       ],
       "work_passage_id": "claud:27.2",
       "html_path": "works/claud/index.html#p-27-2",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-27-2",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-27-2",
       "alignment_revision": "sha256:fdf2a809a8bb975a802d4eb953a72915438f82e64b64e6dadac1b76d759f33a9",
       "review_state": {
         "human_reviewed": false,
@@ -9229,9 +9229,9 @@
         "work": "클라우디우스",
         "reference": "27.2",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:cb62bbe803f4caaeb82722a4df1e6f363b37846781274c062a78bd4aa2ff5680",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-27-2"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-27-2"
       }
     },
     {
@@ -9346,7 +9346,7 @@
       ],
       "work_passage_id": "claud:28.1",
       "html_path": "works/claud/index.html#p-28-1",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-28-1",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-28-1",
       "alignment_revision": "sha256:59b2a349a00571524e4ba2c99690a7bad9667059c4a270a38a0ec53d721c5189",
       "review_state": {
         "human_reviewed": false,
@@ -9382,9 +9382,9 @@
         "work": "클라우디우스",
         "reference": "28.1",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:49389359f5131781ab84b8f6b57d230b0c02b8f2356d0c589033c32a79bc7b8a",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-28-1"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-28-1"
       }
     },
     {
@@ -9459,7 +9459,7 @@
       ],
       "work_passage_id": "claud:29.1",
       "html_path": "works/claud/index.html#p-29-1",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-29-1",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-29-1",
       "alignment_revision": "sha256:b1d27574ce1798a592caa29ff6cd7d6f39d012c8a8da331fd35c163d722c293d",
       "review_state": {
         "human_reviewed": false,
@@ -9495,9 +9495,9 @@
         "work": "클라우디우스",
         "reference": "29.1",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:3decd5d50c2a77e14a3caf744ae18208453cbef597db9a4b567fd0e8771e69bc",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-29-1"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-29-1"
       }
     },
     {
@@ -9585,7 +9585,7 @@
       ],
       "work_passage_id": "claud:29.2",
       "html_path": "works/claud/index.html#p-29-2",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-29-2",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-29-2",
       "alignment_revision": "sha256:5155bce5ead0ddb72b3b5366badf0e9900d65e88c2bd87cdd7aa43c92e1e67d0",
       "review_state": {
         "human_reviewed": false,
@@ -9621,9 +9621,9 @@
         "work": "클라우디우스",
         "reference": "29.2",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:7eb570795d82d339fbdfd78681c7fd98f7c5d23092ebbc8eab798ebd57ced550",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-29-2"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-29-2"
       }
     },
     {
@@ -9672,7 +9672,7 @@
       ],
       "work_passage_id": "claud:29.3",
       "html_path": "works/claud/index.html#p-29-3",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-29-3",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-29-3",
       "alignment_revision": "sha256:a6829b0f31ab8ece985ea39866b62d4f5370a23c3bee7837eb8cfa9e0ec642d0",
       "review_state": {
         "human_reviewed": false,
@@ -9708,9 +9708,9 @@
         "work": "클라우디우스",
         "reference": "29.3",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:3b0c0239630fafa15b421c5937c0b81dcb182604486948cf9703acee861ae1f1",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-29-3"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-29-3"
       }
     },
     {
@@ -9785,7 +9785,7 @@
       ],
       "work_passage_id": "claud:30.1",
       "html_path": "works/claud/index.html#p-30-1",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-30-1",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-30-1",
       "alignment_revision": "sha256:4b600b351fe770b84097e34a905cbd6e6f978a95280bcd6dfed7a1c585fe87ee",
       "review_state": {
         "human_reviewed": false,
@@ -9821,9 +9821,9 @@
         "work": "클라우디우스",
         "reference": "30.1",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:27788063d6b940627dd093e010aa279cec85580fc0c7f2e52450bbd1413d2031",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-30-1"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-30-1"
       }
     },
     {
@@ -9870,7 +9870,7 @@
       "notes": [],
       "work_passage_id": "claud:31.1",
       "html_path": "works/claud/index.html#p-31-1",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-31-1",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-31-1",
       "alignment_revision": "sha256:e4e6599a4b42deba7c520b9c999ff9d0703fced4f4e485cf560431f794a7fa5c",
       "review_state": {
         "human_reviewed": false,
@@ -9906,9 +9906,9 @@
         "work": "클라우디우스",
         "reference": "31.1",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:0b5ac8ee0fe40bc9deb7405d6a7b04e058ea2c1f9ea70718c72ac029100dcd86",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-31-1"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-31-1"
       }
     },
     {
@@ -10007,7 +10007,7 @@
       "notes": [],
       "work_passage_id": "claud:32.1",
       "html_path": "works/claud/index.html#p-32-1",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-32-1",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-32-1",
       "alignment_revision": "sha256:b0fc63d14146f85a197b7bb6ef34c4cfedccda8ade489e01d4c1782d96c1f940",
       "review_state": {
         "human_reviewed": false,
@@ -10043,9 +10043,9 @@
         "work": "클라우디우스",
         "reference": "32.1",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:dddc597d0a6ac8214e0f45c0f46e23add8f5c70533ef72ddd94e178c8ed44fc7",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-32-1"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-32-1"
       }
     },
     {
@@ -10107,7 +10107,7 @@
       ],
       "work_passage_id": "claud:33.1",
       "html_path": "works/claud/index.html#p-33-1",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-33-1",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-33-1",
       "alignment_revision": "sha256:6e3349072d7d5dafb3c6c9c817a26cca5019d0731741131b0f0f657f1eb4bd59",
       "review_state": {
         "human_reviewed": false,
@@ -10143,9 +10143,9 @@
         "work": "클라우디우스",
         "reference": "33.1",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:3510a15fe641686e3e0bef15f1e7303f973e75af1ed2c1471b4ba8133c0a43e8",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-33-1"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-33-1"
       }
     },
     {
@@ -10218,7 +10218,7 @@
       "notes": [],
       "work_passage_id": "claud:33.2",
       "html_path": "works/claud/index.html#p-33-2",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-33-2",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-33-2",
       "alignment_revision": "sha256:8010ade887d50f9b5c30bf8b0a91f552c637305d693ae8d221dba761efb81a92",
       "review_state": {
         "human_reviewed": false,
@@ -10254,9 +10254,9 @@
         "work": "클라우디우스",
         "reference": "33.2",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:9c5eda9dd92b7284c609c9fa98a25f90fe0d6088977f02de323f41c9e0474640",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-33-2"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-33-2"
       }
     },
     {
@@ -10344,7 +10344,7 @@
       ],
       "work_passage_id": "claud:34.1",
       "html_path": "works/claud/index.html#p-34-1",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-34-1",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-34-1",
       "alignment_revision": "sha256:325d690cb3cc40825027aeac11c632e13c624ea8a3d272ea2464b815698f4ad9",
       "review_state": {
         "human_reviewed": false,
@@ -10380,9 +10380,9 @@
         "work": "클라우디우스",
         "reference": "34.1",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:a6027d35e630d14341d34176e6e8c5d5445281e288d51b1b684a1349636fad3c",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-34-1"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-34-1"
       }
     },
     {
@@ -10470,7 +10470,7 @@
       ],
       "work_passage_id": "claud:34.2",
       "html_path": "works/claud/index.html#p-34-2",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-34-2",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-34-2",
       "alignment_revision": "sha256:8b58981ae547d5b78762ad31af553e6a13b932fd0930f37ebf25b270c11110e2",
       "review_state": {
         "human_reviewed": false,
@@ -10506,9 +10506,9 @@
         "work": "클라우디우스",
         "reference": "34.2",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:e257e093be59805b894ccf4aa1ab869eb084d6bb2793412c8a36f338f06cdfec",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-34-2"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-34-2"
       }
     },
     {
@@ -10596,7 +10596,7 @@
       ],
       "work_passage_id": "claud:35.1",
       "html_path": "works/claud/index.html#p-35-1",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-35-1",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-35-1",
       "alignment_revision": "sha256:4a6d92920c406603b98913f21fe5a56f207a95ad8a8fba434b9da4d90695b577",
       "review_state": {
         "human_reviewed": false,
@@ -10632,9 +10632,9 @@
         "work": "클라우디우스",
         "reference": "35.1",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:f7560dde582a205c7d093a86865d38f80940753f0a0ee75a9d1de1a5a16a9a02",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-35-1"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-35-1"
       }
     },
     {
@@ -10696,7 +10696,7 @@
       ],
       "work_passage_id": "claud:35.2",
       "html_path": "works/claud/index.html#p-35-2",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-35-2",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-35-2",
       "alignment_revision": "sha256:8a41c5f825043f781a42512e0638b31b385b7ca4ebc01ac4f3fdcf708a387ad6",
       "review_state": {
         "human_reviewed": false,
@@ -10732,9 +10732,9 @@
         "work": "클라우디우스",
         "reference": "35.2",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:a8acf0c878166640f19f6b9ab892bfe8b807c3ca409836cd4abcfd2393552459",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-35-2"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-35-2"
       }
     },
     {
@@ -10822,7 +10822,7 @@
       ],
       "work_passage_id": "claud:36.1",
       "html_path": "works/claud/index.html#p-36-1",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-36-1",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-36-1",
       "alignment_revision": "sha256:2d543f48365e17cdd99feae28268fa4ae582445cc57e37f161674cf71be659d0",
       "review_state": {
         "human_reviewed": false,
@@ -10858,9 +10858,9 @@
         "work": "클라우디우스",
         "reference": "36.1",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:74052dff17f324094764d11be0c7719e2fe2b1b90ffeb2d9e8c3beb596aeccca",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-36-1"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-36-1"
       }
     },
     {
@@ -10933,7 +10933,7 @@
       "notes": [],
       "work_passage_id": "claud:37.1",
       "html_path": "works/claud/index.html#p-37-1",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-37-1",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-37-1",
       "alignment_revision": "sha256:a79cf29f9da3aa7a55f244cb3c0cc1cf6565b6f5ae44b19c425f7a0eae0bc583",
       "review_state": {
         "human_reviewed": false,
@@ -10969,9 +10969,9 @@
         "work": "클라우디우스",
         "reference": "37.1",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:822aed8e6db8c7854136d0851130455d76886ec1722a659e63e263e80f193d5a",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-37-1"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-37-1"
       }
     },
     {
@@ -11125,7 +11125,7 @@
       ],
       "work_passage_id": "claud:37.2",
       "html_path": "works/claud/index.html#p-37-2",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-37-2",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-37-2",
       "alignment_revision": "sha256:ca232dbfe266a1ef3e8f8689b167a78e55649bd5bb5882518a563dc8e43246f7",
       "review_state": {
         "human_reviewed": false,
@@ -11161,9 +11161,9 @@
         "work": "클라우디우스",
         "reference": "37.2",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:55f6df33e5e6730c810733c60ab422efbf63193fbc05af793a6aa58c847ec4b0",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-37-2"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-37-2"
       }
     },
     {
@@ -11264,7 +11264,7 @@
       ],
       "work_passage_id": "claud:38.1",
       "html_path": "works/claud/index.html#p-38-1",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-38-1",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-38-1",
       "alignment_revision": "sha256:833d9224a038bd717cc8cf8504b48ceffccb743b00e3b56439970d6bd9a4b307",
       "review_state": {
         "human_reviewed": false,
@@ -11300,9 +11300,9 @@
         "work": "클라우디우스",
         "reference": "38.1",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:06f80c3afca0f2a6a7d793c4f81889116b0cc25dc090b61931ea12edcadb10d3",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-38-1"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-38-1"
       }
     },
     {
@@ -11403,7 +11403,7 @@
       ],
       "work_passage_id": "claud:38.2",
       "html_path": "works/claud/index.html#p-38-2",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-38-2",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-38-2",
       "alignment_revision": "sha256:1866ac983861d9f559e91f85a090d294ffbdd08bd82a8dacbb7c4f092e72b4d3",
       "review_state": {
         "human_reviewed": false,
@@ -11439,9 +11439,9 @@
         "work": "클라우디우스",
         "reference": "38.2",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:b351bc85605af809ea7d346715e86e245368ea30ca66a72c56ba9ecea94f79ff",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-38-2"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-38-2"
       }
     },
     {
@@ -11530,7 +11530,7 @@
       ],
       "work_passage_id": "claud:38.3",
       "html_path": "works/claud/index.html#p-38-3",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-38-3",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-38-3",
       "alignment_revision": "sha256:5315b473d88eb429025f830046cf5571a42eb68a5ceb5ffb0017f7dd13b936a5",
       "review_state": {
         "human_reviewed": false,
@@ -11566,9 +11566,9 @@
         "work": "클라우디우스",
         "reference": "38.3",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:d71dec794954a5ee9f41427f026ff52d2f638befbcace6be37642bccd8a67bbe",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-38-3"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-38-3"
       }
     },
     {
@@ -11670,7 +11670,7 @@
       ],
       "work_passage_id": "claud:39.1",
       "html_path": "works/claud/index.html#p-39-1",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-39-1",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-39-1",
       "alignment_revision": "sha256:ee47a379a0b789978f318319954875923516e8c06b2b7b17e1594b583fa1db69",
       "review_state": {
         "human_reviewed": false,
@@ -11706,9 +11706,9 @@
         "work": "클라우디우스",
         "reference": "39.1",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:52b57dcc2bb04382ee28632bbb5b78e75db9e0b6c0c0ab116e8e1ad52ef97b53",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-39-1"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-39-1"
       }
     },
     {
@@ -11784,7 +11784,7 @@
       ],
       "work_passage_id": "claud:39.2",
       "html_path": "works/claud/index.html#p-39-2",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-39-2",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-39-2",
       "alignment_revision": "sha256:34db1a57eaf00d5c650f651740c1244f2c2b28a38c646edaf917a3b8ba300ef3",
       "review_state": {
         "human_reviewed": false,
@@ -11820,9 +11820,9 @@
         "work": "클라우디우스",
         "reference": "39.2",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:9f34c8350fba270d0f8a5d59cfe5e5c2947c49bf761253891155dc6db8ed96dc",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-39-2"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-39-2"
       }
     },
     {
@@ -11910,7 +11910,7 @@
       ],
       "work_passage_id": "claud:40.1",
       "html_path": "works/claud/index.html#p-40-1",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-40-1",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-40-1",
       "alignment_revision": "sha256:942efe45150f3ba16ae9f2ac93847ffa9da1d4988174ef0a083a05d4c5e819a3",
       "review_state": {
         "human_reviewed": false,
@@ -11946,9 +11946,9 @@
         "work": "클라우디우스",
         "reference": "40.1",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:0ebdd8c1341180e67dcfaec95d49f2e85bfee13daed5a77e940db6cf86f42b46",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-40-1"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-40-1"
       }
     },
     {
@@ -12023,7 +12023,7 @@
       ],
       "work_passage_id": "claud:40.2",
       "html_path": "works/claud/index.html#p-40-2",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-40-2",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-40-2",
       "alignment_revision": "sha256:657205af3b58e8bf4349ca18cfafcee8450bfd1adee89c0fdad5f29a5c051433",
       "review_state": {
         "human_reviewed": false,
@@ -12059,9 +12059,9 @@
         "work": "클라우디우스",
         "reference": "40.2",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:589ee6559efe4dfee27b4b3760f181d2b67fce99fbe2bf8b9fbe51860200122e",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-40-2"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-40-2"
       }
     },
     {
@@ -12189,7 +12189,7 @@
       ],
       "work_passage_id": "claud:40.3",
       "html_path": "works/claud/index.html#p-40-3",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-40-3",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-40-3",
       "alignment_revision": "sha256:7dcdfea17d0feb8b98ea14a2b1d77e9ae484ebd9b5b1823ca3b992f49cd8b376",
       "review_state": {
         "human_reviewed": false,
@@ -12225,9 +12225,9 @@
         "work": "클라우디우스",
         "reference": "40.3",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:189ed039a154c1b8e96a4a2e6bb402eb7ff185dd412af06abcf095ef0ca6c98b",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-40-3"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-40-3"
       }
     },
     {
@@ -12302,7 +12302,7 @@
       ],
       "work_passage_id": "claud:41.1",
       "html_path": "works/claud/index.html#p-41-1",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-41-1",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-41-1",
       "alignment_revision": "sha256:817f1921c4a6de39dd6579186f6f28eeb77883443c568aeba6f7ade1c002d35a",
       "review_state": {
         "human_reviewed": false,
@@ -12338,9 +12338,9 @@
         "work": "클라우디우스",
         "reference": "41.1",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:cd951565ebaa8d80cf9a1cd9fca1415c9b48ee9eb32d493c5eaa8df59e4ba0b9",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-41-1"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-41-1"
       }
     },
     {
@@ -12441,7 +12441,7 @@
       ],
       "work_passage_id": "claud:41.2",
       "html_path": "works/claud/index.html#p-41-2",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-41-2",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-41-2",
       "alignment_revision": "sha256:8eeaf71713e583f29d65a3ec66c4d38297e82bf0a39cf5bb40a0c7a197bacd9f",
       "review_state": {
         "human_reviewed": false,
@@ -12477,9 +12477,9 @@
         "work": "클라우디우스",
         "reference": "41.2",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:3724dc2b07fe9cd20c5e8f5b59b03b9139414e6e88b2b0e99243ee7043e655df",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-41-2"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-41-2"
       }
     },
     {
@@ -12581,7 +12581,7 @@
       ],
       "work_passage_id": "claud:41.3",
       "html_path": "works/claud/index.html#p-41-3",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-41-3",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-41-3",
       "alignment_revision": "sha256:17ec9557a50baac59b1a76a14ddc23982d6c2fc80552e333725ac05bdbdb1821",
       "review_state": {
         "human_reviewed": false,
@@ -12617,9 +12617,9 @@
         "work": "클라우디우스",
         "reference": "41.3",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:0bdbed50022789c5c4ca26d56455c4af6cdb563ab368252252f9eed37e5d8f82",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-41-3"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-41-3"
       }
     },
     {
@@ -12761,7 +12761,7 @@
       ],
       "work_passage_id": "claud:42.1",
       "html_path": "works/claud/index.html#p-42-1",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-42-1",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-42-1",
       "alignment_revision": "sha256:044034cf21e093db846681cca31a64539413f88590be3806e89e632bc47ca4c1",
       "review_state": {
         "human_reviewed": false,
@@ -12797,9 +12797,9 @@
         "work": "클라우디우스",
         "reference": "42.1",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:949f416b540dc2d34fba57698c923fc5e513339a72bb2e1a3b986e5206c61cb5",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-42-1"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-42-1"
       }
     },
     {
@@ -12861,7 +12861,7 @@
       ],
       "work_passage_id": "claud:42.2",
       "html_path": "works/claud/index.html#p-42-2",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-42-2",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-42-2",
       "alignment_revision": "sha256:f7a0d1ea8cedbdd1dd47fdb81725bf067852baab5ac5595a477aa9cdc9c29ea1",
       "review_state": {
         "human_reviewed": false,
@@ -12897,9 +12897,9 @@
         "work": "클라우디우스",
         "reference": "42.2",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:e8de622efcba08c4c204de85792d73fe199b452c5e9743db987b4617189ef955",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-42-2"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-42-2"
       }
     },
     {
@@ -13027,7 +13027,7 @@
       ],
       "work_passage_id": "claud:43.1",
       "html_path": "works/claud/index.html#p-43-1",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-43-1",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-43-1",
       "alignment_revision": "sha256:0a5f359c092eb06a5ca55c394cd2a45b87717ce8aa6bf80acfc817fbb270eb9b",
       "review_state": {
         "human_reviewed": false,
@@ -13063,9 +13063,9 @@
         "work": "클라우디우스",
         "reference": "43.1",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:36605fd6c2d3da6036560f91a4ad1d08aa7e78fef1da9c758582e7fb4df87fb7",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-43-1"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-43-1"
       }
     },
     {
@@ -13140,7 +13140,7 @@
       ],
       "work_passage_id": "claud:44.1",
       "html_path": "works/claud/index.html#p-44-1",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-44-1",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-44-1",
       "alignment_revision": "sha256:7fc9b27a1a67a615b9ce32ed7955d851a01df2231a4074a849bf603f355b7e2f",
       "review_state": {
         "human_reviewed": false,
@@ -13176,9 +13176,9 @@
         "work": "클라우디우스",
         "reference": "44.1",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:7ec8e4d9a66ff6e238ce1cae973d0977ab2e146144388bf7ed1eb3e0649fb583",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-44-1"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-44-1"
       }
     },
     {
@@ -13267,7 +13267,7 @@
       ],
       "work_passage_id": "claud:44.2",
       "html_path": "works/claud/index.html#p-44-2",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-44-2",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-44-2",
       "alignment_revision": "sha256:0c21ba798842272d9eab50db7ad0133e0e39e960fb45f7d00194c4919bd92bcc",
       "review_state": {
         "human_reviewed": false,
@@ -13303,9 +13303,9 @@
         "work": "클라우디우스",
         "reference": "44.2",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:5b21e09ec6c7967e3a8b806506c22efa060db50b5f9c01cb21b16f3934ac447d",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-44-2"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-44-2"
       }
     },
     {
@@ -13406,7 +13406,7 @@
       ],
       "work_passage_id": "claud:44.3",
       "html_path": "works/claud/index.html#p-44-3",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-44-3",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-44-3",
       "alignment_revision": "sha256:9f830de071e4b9c5201be0439919cbaf51fb2cfc44c102a34cdba381ec4a7e3a",
       "review_state": {
         "human_reviewed": false,
@@ -13442,9 +13442,9 @@
         "work": "클라우디우스",
         "reference": "44.3",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:b6a7ca1b2809f30401ae0cad7ace48ab9f09a43101e3c4dc6b55243425b62c33",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-44-3"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-44-3"
       }
     },
     {
@@ -13546,7 +13546,7 @@
       ],
       "work_passage_id": "claud:45.1",
       "html_path": "works/claud/index.html#p-45-1",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-45-1",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-45-1",
       "alignment_revision": "sha256:f1509bf48b6d2a31585a9174b04dd9dc0ecb3d42ba47352e6573012ceead422f",
       "review_state": {
         "human_reviewed": false,
@@ -13582,9 +13582,9 @@
         "work": "클라우디우스",
         "reference": "45.1",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:2fa6d8ae90fcc39fb0dac880947610ae86ea8a1070e3e14ba1d74774d31cc0fc",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-45-1"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-45-1"
       }
     },
     {
@@ -13699,7 +13699,7 @@
       ],
       "work_passage_id": "claud:46.1",
       "html_path": "works/claud/index.html#p-46-1",
-      "fixed_html_path": "releases/public-0.39/works/claud/index.html#p-46-1",
+      "fixed_html_path": "releases/public-0.40/works/claud/index.html#p-46-1",
       "alignment_revision": "sha256:b866c5f27c215fbc448d61d8c4411dadb5f82d4dfc57ea75d32d0149947435f0",
       "review_state": {
         "human_reviewed": false,
@@ -13735,9 +13735,9 @@
         "work": "클라우디우스",
         "reference": "46.1",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:480afcd2f16f478dfcfea5dd467acd0cd99395f9701690505b064f163c53f4b2",
-        "fixed_path": "releases/public-0.39/works/claud/index.html#p-46-1"
+        "fixed_path": "releases/public-0.40/works/claud/index.html#p-46-1"
       }
     }
   ],
@@ -13763,14 +13763,14 @@
   "display_author": "수에토니우스",
   "scope": "클라우디우스 채택 본문 111대목 전체",
   "coverage": "complete",
-  "release_id": "public-0.39",
+  "release_id": "public-0.40",
   "source_language": "lat",
   "source_kind": "edited_ancient_original",
   "human_reviewed": false,
   "translation_method": "고정 원어 본문에서 직접 번역",
   "html_path": "works/claud/index.html",
   "json_path": "data/works/claud.json",
-  "fixed_html_path": "releases/public-0.39/works/claud/index.html",
+  "fixed_html_path": "releases/public-0.40/works/claud/index.html",
   "source_profile": "claud-complete-pinned-source-20261021",
   "source_decisions": [
     {

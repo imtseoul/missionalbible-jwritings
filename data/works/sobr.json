@@ -88,7 +88,7 @@
       ],
       "work_passage_id": "sobr:1",
       "html_path": "works/sobr/index.html#p-1",
-      "fixed_html_path": "releases/public-0.39/works/sobr/index.html#p-1",
+      "fixed_html_path": "releases/public-0.40/works/sobr/index.html#p-1",
       "alignment_revision": "sha256:cd4960e6e6d534aa4b977fd2ea61c16823dce24b8970c3c9e059b128f7bfe678",
       "review_state": {
         "human_reviewed": false,
@@ -124,9 +124,9 @@
         "work": "맑은 정신에 관하여",
         "reference": "1",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 2, Berlin: Reimer, 1897.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:1ceb28623538f2e47fa4fc17e0e4b333534c7c701f903ed4fc9cb5ee2f9948b8",
-        "fixed_path": "releases/public-0.39/works/sobr/index.html#p-1"
+        "fixed_path": "releases/public-0.40/works/sobr/index.html#p-1"
       }
     },
     {
@@ -212,7 +212,7 @@
       "notes": [],
       "work_passage_id": "sobr:2",
       "html_path": "works/sobr/index.html#p-2",
-      "fixed_html_path": "releases/public-0.39/works/sobr/index.html#p-2",
+      "fixed_html_path": "releases/public-0.40/works/sobr/index.html#p-2",
       "alignment_revision": "sha256:e7e515cc01d815117343c472cb3b5402a3d35180c4c3d04b36670900799d6614",
       "review_state": {
         "human_reviewed": false,
@@ -248,9 +248,9 @@
         "work": "맑은 정신에 관하여",
         "reference": "2",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 2, Berlin: Reimer, 1897.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:26dfd0a348b266c16ee7aaf4dd2042ba9c81426af7bad49d54c8bbd495bc8980",
-        "fixed_path": "releases/public-0.39/works/sobr/index.html#p-2"
+        "fixed_path": "releases/public-0.40/works/sobr/index.html#p-2"
       }
     },
     {
@@ -367,7 +367,7 @@
       ],
       "work_passage_id": "sobr:3",
       "html_path": "works/sobr/index.html#p-3",
-      "fixed_html_path": "releases/public-0.39/works/sobr/index.html#p-3",
+      "fixed_html_path": "releases/public-0.40/works/sobr/index.html#p-3",
       "alignment_revision": "sha256:eccdad55b497bb6afc6bdf21fdf9fafdfed43d50ec9da52cb6d05f3485db422a",
       "review_state": {
         "human_reviewed": false,
@@ -403,9 +403,9 @@
         "work": "맑은 정신에 관하여",
         "reference": "3",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 2, Berlin: Reimer, 1897.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:496c47f109465aba96628429c77a052c05f432e83e0416a80f7fa14cfa5686f9",
-        "fixed_path": "releases/public-0.39/works/sobr/index.html#p-3"
+        "fixed_path": "releases/public-0.40/works/sobr/index.html#p-3"
       }
     },
     {
@@ -478,7 +478,7 @@
       "notes": [],
       "work_passage_id": "sobr:4",
       "html_path": "works/sobr/index.html#p-4",
-      "fixed_html_path": "releases/public-0.39/works/sobr/index.html#p-4",
+      "fixed_html_path": "releases/public-0.40/works/sobr/index.html#p-4",
       "alignment_revision": "sha256:2622566940d73b881636fe234b1b70de33999a7047d788d97b9c99a967097b39",
       "review_state": {
         "human_reviewed": false,
@@ -514,9 +514,9 @@
         "work": "맑은 정신에 관하여",
         "reference": "4",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 2, Berlin: Reimer, 1897.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:fc844a9f724629810fdfff15597c587327a3cf0aaa22c5d00d9a2243bb966768",
-        "fixed_path": "releases/public-0.39/works/sobr/index.html#p-4"
+        "fixed_path": "releases/public-0.40/works/sobr/index.html#p-4"
       }
     },
     {
@@ -615,7 +615,7 @@
       "notes": [],
       "work_passage_id": "sobr:5",
       "html_path": "works/sobr/index.html#p-5",
-      "fixed_html_path": "releases/public-0.39/works/sobr/index.html#p-5",
+      "fixed_html_path": "releases/public-0.40/works/sobr/index.html#p-5",
       "alignment_revision": "sha256:69f88a5c193df21cca044b2e45e34e0b101542be6ed79387eead0f1feaa42cca",
       "review_state": {
         "human_reviewed": false,
@@ -651,9 +651,9 @@
         "work": "맑은 정신에 관하여",
         "reference": "5",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 2, Berlin: Reimer, 1897.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:7041948ec9a28a5d33b73127e7345bf7c291d0f943699212c6f30ebaea81a54a",
-        "fixed_path": "releases/public-0.39/works/sobr/index.html#p-5"
+        "fixed_path": "releases/public-0.40/works/sobr/index.html#p-5"
       }
     },
     {
@@ -768,7 +768,7 @@
       ],
       "work_passage_id": "sobr:6",
       "html_path": "works/sobr/index.html#p-6",
-      "fixed_html_path": "releases/public-0.39/works/sobr/index.html#p-6",
+      "fixed_html_path": "releases/public-0.40/works/sobr/index.html#p-6",
       "alignment_revision": "sha256:fbbf37226f0266dd65cfd36c2399f459829765d8be164993ad1a3ae9edbf4b43",
       "review_state": {
         "human_reviewed": false,
@@ -804,9 +804,9 @@
         "work": "맑은 정신에 관하여",
         "reference": "6",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 2, Berlin: Reimer, 1897.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:d709c5b25e74b891774aa273cec406aacfd14b02a81a17e843622822506092eb",
-        "fixed_path": "releases/public-0.39/works/sobr/index.html#p-6"
+        "fixed_path": "releases/public-0.40/works/sobr/index.html#p-6"
       }
     },
     {
@@ -866,7 +866,7 @@
       "notes": [],
       "work_passage_id": "sobr:7",
       "html_path": "works/sobr/index.html#p-7",
-      "fixed_html_path": "releases/public-0.39/works/sobr/index.html#p-7",
+      "fixed_html_path": "releases/public-0.40/works/sobr/index.html#p-7",
       "alignment_revision": "sha256:cf7b31ce5a7602ace3cfadedc226e9598ed4e7dca7e14286e88e530d1a2f7380",
       "review_state": {
         "human_reviewed": false,
@@ -902,9 +902,9 @@
         "work": "맑은 정신에 관하여",
         "reference": "7",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 2, Berlin: Reimer, 1897.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:60ca8a9b9c0377118881094daff266e3d222f418c555257939b42934d5c124f8",
-        "fixed_path": "releases/public-0.39/works/sobr/index.html#p-7"
+        "fixed_path": "releases/public-0.40/works/sobr/index.html#p-7"
       }
     },
     {
@@ -1009,7 +1009,7 @@
       ],
       "work_passage_id": "sobr:8",
       "html_path": "works/sobr/index.html#p-8",
-      "fixed_html_path": "releases/public-0.39/works/sobr/index.html#p-8",
+      "fixed_html_path": "releases/public-0.40/works/sobr/index.html#p-8",
       "alignment_revision": "sha256:92eb227462d7a399348b78c4eb075c3cbaa2da0bc85d1e6448da8ecd98e6aed8",
       "review_state": {
         "human_reviewed": false,
@@ -1045,9 +1045,9 @@
         "work": "맑은 정신에 관하여",
         "reference": "8",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 2, Berlin: Reimer, 1897.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:ff19404d79f55c970456350da6f52192f1364bad15004d9a97a380cc4ea2ca88",
-        "fixed_path": "releases/public-0.39/works/sobr/index.html#p-8"
+        "fixed_path": "releases/public-0.40/works/sobr/index.html#p-8"
       }
     },
     {
@@ -1122,7 +1122,7 @@
       ],
       "work_passage_id": "sobr:9",
       "html_path": "works/sobr/index.html#p-9",
-      "fixed_html_path": "releases/public-0.39/works/sobr/index.html#p-9",
+      "fixed_html_path": "releases/public-0.40/works/sobr/index.html#p-9",
       "alignment_revision": "sha256:79ce866db654f2151d8bce95d05a280f9a019866385a92df69ec0b7c112c7b48",
       "review_state": {
         "human_reviewed": false,
@@ -1158,9 +1158,9 @@
         "work": "맑은 정신에 관하여",
         "reference": "9",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 2, Berlin: Reimer, 1897.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:da1140f9190528460e1a175709fc2a197cfcde98443a7417f719f5f99361220e",
-        "fixed_path": "releases/public-0.39/works/sobr/index.html#p-9"
+        "fixed_path": "releases/public-0.40/works/sobr/index.html#p-9"
       }
     },
     {
@@ -1222,7 +1222,7 @@
       ],
       "work_passage_id": "sobr:10",
       "html_path": "works/sobr/index.html#p-10",
-      "fixed_html_path": "releases/public-0.39/works/sobr/index.html#p-10",
+      "fixed_html_path": "releases/public-0.40/works/sobr/index.html#p-10",
       "alignment_revision": "sha256:108c15b40d22c5f2f3b4c7fb602fd451149859f99831a78f9c72d5c070308c55",
       "review_state": {
         "human_reviewed": false,
@@ -1258,9 +1258,9 @@
         "work": "맑은 정신에 관하여",
         "reference": "10",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 2, Berlin: Reimer, 1897.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:84506de554f6f35dd9c7377da9ca135962881f38248dfa2007ed8c56e112e58d",
-        "fixed_path": "releases/public-0.39/works/sobr/index.html#p-10"
+        "fixed_path": "releases/public-0.40/works/sobr/index.html#p-10"
       }
     },
     {
@@ -1322,7 +1322,7 @@
       ],
       "work_passage_id": "sobr:11",
       "html_path": "works/sobr/index.html#p-11",
-      "fixed_html_path": "releases/public-0.39/works/sobr/index.html#p-11",
+      "fixed_html_path": "releases/public-0.40/works/sobr/index.html#p-11",
       "alignment_revision": "sha256:d3aa389ba7036ef31c728f2fa1499a8dfbb6341b9f0b2625d890ffef2f5fccd5",
       "review_state": {
         "human_reviewed": false,
@@ -1358,9 +1358,9 @@
         "work": "맑은 정신에 관하여",
         "reference": "11",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 2, Berlin: Reimer, 1897.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:b581e58ee8644fd779df22a0e3bbe666536a6f038382bb2060ab5c00e2b22d22",
-        "fixed_path": "releases/public-0.39/works/sobr/index.html#p-11"
+        "fixed_path": "releases/public-0.40/works/sobr/index.html#p-11"
       }
     },
     {
@@ -1463,7 +1463,7 @@
       ],
       "work_passage_id": "sobr:12",
       "html_path": "works/sobr/index.html#p-12",
-      "fixed_html_path": "releases/public-0.39/works/sobr/index.html#p-12",
+      "fixed_html_path": "releases/public-0.40/works/sobr/index.html#p-12",
       "alignment_revision": "sha256:ead68f476663f5fa55ac2e38fb715ba9b0e6caa0d7cec196d111239b37fee6fb",
       "review_state": {
         "human_reviewed": false,
@@ -1499,9 +1499,9 @@
         "work": "맑은 정신에 관하여",
         "reference": "12",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 2, Berlin: Reimer, 1897.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:b91cb9bf5849bbe2db5ef9f784080ef1a2a4820e9a918e7ec0f70e230b98b691",
-        "fixed_path": "releases/public-0.39/works/sobr/index.html#p-12"
+        "fixed_path": "releases/public-0.40/works/sobr/index.html#p-12"
       }
     },
     {
@@ -1605,7 +1605,7 @@
       ],
       "work_passage_id": "sobr:13",
       "html_path": "works/sobr/index.html#p-13",
-      "fixed_html_path": "releases/public-0.39/works/sobr/index.html#p-13",
+      "fixed_html_path": "releases/public-0.40/works/sobr/index.html#p-13",
       "alignment_revision": "sha256:37fd80fc76d28f3c6f887a3dac06e2e09393969322e95cbeb0412f090e585c50",
       "review_state": {
         "human_reviewed": false,
@@ -1641,9 +1641,9 @@
         "work": "맑은 정신에 관하여",
         "reference": "13",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 2, Berlin: Reimer, 1897.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:92ac182b522ba2b9ea5c6f27f76dce51600e78316da1354b09bcaa417a22d894",
-        "fixed_path": "releases/public-0.39/works/sobr/index.html#p-13"
+        "fixed_path": "releases/public-0.40/works/sobr/index.html#p-13"
       }
     },
     {
@@ -1718,7 +1718,7 @@
       ],
       "work_passage_id": "sobr:14",
       "html_path": "works/sobr/index.html#p-14",
-      "fixed_html_path": "releases/public-0.39/works/sobr/index.html#p-14",
+      "fixed_html_path": "releases/public-0.40/works/sobr/index.html#p-14",
       "alignment_revision": "sha256:7977452c011b59a3719cca61445eab55a3a344eb5a405da82e526fec2842db84",
       "review_state": {
         "human_reviewed": false,
@@ -1754,9 +1754,9 @@
         "work": "맑은 정신에 관하여",
         "reference": "14",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 2, Berlin: Reimer, 1897.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:f66b02c79935c393f9bd23a48ed01ccbee5dd1c1eeef0e2a645b7f79c413ee2d",
-        "fixed_path": "releases/public-0.39/works/sobr/index.html#p-14"
+        "fixed_path": "releases/public-0.40/works/sobr/index.html#p-14"
       }
     },
     {
@@ -1844,7 +1844,7 @@
       ],
       "work_passage_id": "sobr:15",
       "html_path": "works/sobr/index.html#p-15",
-      "fixed_html_path": "releases/public-0.39/works/sobr/index.html#p-15",
+      "fixed_html_path": "releases/public-0.40/works/sobr/index.html#p-15",
       "alignment_revision": "sha256:8efe8aa4509eb3524663883ddae412e1f6167c63c3ecfd8927c13d1ebecdd1b8",
       "review_state": {
         "human_reviewed": false,
@@ -1880,9 +1880,9 @@
         "work": "맑은 정신에 관하여",
         "reference": "15",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 2, Berlin: Reimer, 1897.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:1d1b346ffa1b44cb1f0e7fe8f899ca9eafb1fac60664859a00736309376ee265",
-        "fixed_path": "releases/public-0.39/works/sobr/index.html#p-15"
+        "fixed_path": "releases/public-0.40/works/sobr/index.html#p-15"
       }
     },
     {
@@ -1957,7 +1957,7 @@
       ],
       "work_passage_id": "sobr:16",
       "html_path": "works/sobr/index.html#p-16",
-      "fixed_html_path": "releases/public-0.39/works/sobr/index.html#p-16",
+      "fixed_html_path": "releases/public-0.40/works/sobr/index.html#p-16",
       "alignment_revision": "sha256:1e5550f8bc7cf55f39ca3b10712ea794c433401b672c659627e85f4a479a5db7",
       "review_state": {
         "human_reviewed": false,
@@ -1993,9 +1993,9 @@
         "work": "맑은 정신에 관하여",
         "reference": "16",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 2, Berlin: Reimer, 1897.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:1b02763c7e822d188d414c057dfa0a59714cb6d16f482667cc9252fb54dbc3fd",
-        "fixed_path": "releases/public-0.39/works/sobr/index.html#p-16"
+        "fixed_path": "releases/public-0.40/works/sobr/index.html#p-16"
       }
     },
     {
@@ -2074,7 +2074,7 @@
       ],
       "work_passage_id": "sobr:17",
       "html_path": "works/sobr/index.html#p-17",
-      "fixed_html_path": "releases/public-0.39/works/sobr/index.html#p-17",
+      "fixed_html_path": "releases/public-0.40/works/sobr/index.html#p-17",
       "alignment_revision": "sha256:324d85fd98c55c07db3443c25aebb78a8e385fb7df789a30eba21b65474b02a2",
       "review_state": {
         "human_reviewed": false,
@@ -2110,9 +2110,9 @@
         "work": "맑은 정신에 관하여",
         "reference": "17",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 2, Berlin: Reimer, 1897.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:02c01f68e47e668d3ab592bb5dda6cb82b1d51e2a631a22d5ef54d7c6cc8d507",
-        "fixed_path": "releases/public-0.39/works/sobr/index.html#p-17"
+        "fixed_path": "releases/public-0.40/works/sobr/index.html#p-17"
       }
     },
     {
@@ -2174,7 +2174,7 @@
       ],
       "work_passage_id": "sobr:18",
       "html_path": "works/sobr/index.html#p-18",
-      "fixed_html_path": "releases/public-0.39/works/sobr/index.html#p-18",
+      "fixed_html_path": "releases/public-0.40/works/sobr/index.html#p-18",
       "alignment_revision": "sha256:7b0cc0179c7ab0e79136ce17bce1c701a6035154ff74e75c243cc0ea831d8d85",
       "review_state": {
         "human_reviewed": false,
@@ -2210,9 +2210,9 @@
         "work": "맑은 정신에 관하여",
         "reference": "18",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 2, Berlin: Reimer, 1897.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:bf158099e816164ab49dfede7f9c64471049502a3fd6503db835bb8f34fbcb8f",
-        "fixed_path": "releases/public-0.39/works/sobr/index.html#p-18"
+        "fixed_path": "releases/public-0.40/works/sobr/index.html#p-18"
       }
     },
     {
@@ -2275,7 +2275,7 @@
       ],
       "work_passage_id": "sobr:19",
       "html_path": "works/sobr/index.html#p-19",
-      "fixed_html_path": "releases/public-0.39/works/sobr/index.html#p-19",
+      "fixed_html_path": "releases/public-0.40/works/sobr/index.html#p-19",
       "alignment_revision": "sha256:c4d4de63e47b73f16285638e8ff2777e81cfe91d9411f488c794ef45004efd95",
       "review_state": {
         "human_reviewed": false,
@@ -2311,9 +2311,9 @@
         "work": "맑은 정신에 관하여",
         "reference": "19",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 2, Berlin: Reimer, 1897.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:5554f9f8e62f162b0193206db66d15666ba6af3297a5551223359af8331481e1",
-        "fixed_path": "releases/public-0.39/works/sobr/index.html#p-19"
+        "fixed_path": "releases/public-0.40/works/sobr/index.html#p-19"
       }
     },
     {
@@ -2388,7 +2388,7 @@
       ],
       "work_passage_id": "sobr:20",
       "html_path": "works/sobr/index.html#p-20",
-      "fixed_html_path": "releases/public-0.39/works/sobr/index.html#p-20",
+      "fixed_html_path": "releases/public-0.40/works/sobr/index.html#p-20",
       "alignment_revision": "sha256:ec5e76971ef79f030357681b01b44b0a90a62c9b02cdf36ee15b4c5a1d79e1b1",
       "review_state": {
         "human_reviewed": false,
@@ -2424,9 +2424,9 @@
         "work": "맑은 정신에 관하여",
         "reference": "20",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 2, Berlin: Reimer, 1897.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:71be1cef71e6ee500701ab6926249f6ace5af32b33b24d866090b0670c8c9967",
-        "fixed_path": "releases/public-0.39/works/sobr/index.html#p-20"
+        "fixed_path": "releases/public-0.40/works/sobr/index.html#p-20"
       }
     },
     {
@@ -2517,7 +2517,7 @@
       ],
       "work_passage_id": "sobr:21",
       "html_path": "works/sobr/index.html#p-21",
-      "fixed_html_path": "releases/public-0.39/works/sobr/index.html#p-21",
+      "fixed_html_path": "releases/public-0.40/works/sobr/index.html#p-21",
       "alignment_revision": "sha256:7e1edad3f14e69b82c8b82f3d830ac300d8647855256e998a8bb39e2dff8c02b",
       "review_state": {
         "human_reviewed": false,
@@ -2553,9 +2553,9 @@
         "work": "맑은 정신에 관하여",
         "reference": "21",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 2, Berlin: Reimer, 1897.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:7677c33869c8d636c3691b440e502cd32513451c64a67d718765c2842e1b2aab",
-        "fixed_path": "releases/public-0.39/works/sobr/index.html#p-21"
+        "fixed_path": "releases/public-0.40/works/sobr/index.html#p-21"
       }
     },
     {
@@ -2656,7 +2656,7 @@
       ],
       "work_passage_id": "sobr:22",
       "html_path": "works/sobr/index.html#p-22",
-      "fixed_html_path": "releases/public-0.39/works/sobr/index.html#p-22",
+      "fixed_html_path": "releases/public-0.40/works/sobr/index.html#p-22",
       "alignment_revision": "sha256:03fe7c9f36153af76751cbe4bbf97bacab898a99d4bd80b601d2217584c8af4e",
       "review_state": {
         "human_reviewed": false,
@@ -2692,9 +2692,9 @@
         "work": "맑은 정신에 관하여",
         "reference": "22",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 2, Berlin: Reimer, 1897.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:f11d2dfe395995f859f9d080a69f08d404269a1f840d9d66939489f1b70071ef",
-        "fixed_path": "releases/public-0.39/works/sobr/index.html#p-22"
+        "fixed_path": "releases/public-0.40/works/sobr/index.html#p-22"
       }
     },
     {
@@ -2769,7 +2769,7 @@
       ],
       "work_passage_id": "sobr:23",
       "html_path": "works/sobr/index.html#p-23",
-      "fixed_html_path": "releases/public-0.39/works/sobr/index.html#p-23",
+      "fixed_html_path": "releases/public-0.40/works/sobr/index.html#p-23",
       "alignment_revision": "sha256:f0f4bb2f962bbd57f9bd948b204aa7bec2474370d4433396777c2835e1810cda",
       "review_state": {
         "human_reviewed": false,
@@ -2805,9 +2805,9 @@
         "work": "맑은 정신에 관하여",
         "reference": "23",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 2, Berlin: Reimer, 1897.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:9393d198109c51d9379f4810c90d166181bce509d18ae1c399758f1986110142",
-        "fixed_path": "releases/public-0.39/works/sobr/index.html#p-23"
+        "fixed_path": "releases/public-0.40/works/sobr/index.html#p-23"
       }
     },
     {
@@ -2882,7 +2882,7 @@
       ],
       "work_passage_id": "sobr:24",
       "html_path": "works/sobr/index.html#p-24",
-      "fixed_html_path": "releases/public-0.39/works/sobr/index.html#p-24",
+      "fixed_html_path": "releases/public-0.40/works/sobr/index.html#p-24",
       "alignment_revision": "sha256:a794883329670906811744dac2001fe5afb4d0812d9d5bf09c9847d9ca7b46e0",
       "review_state": {
         "human_reviewed": false,
@@ -2918,9 +2918,9 @@
         "work": "맑은 정신에 관하여",
         "reference": "24",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 2, Berlin: Reimer, 1897.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:7c07f5cf7e23ad0be87937829f932c536dc24cda126ce58ac46babfa47c308fd",
-        "fixed_path": "releases/public-0.39/works/sobr/index.html#p-24"
+        "fixed_path": "releases/public-0.40/works/sobr/index.html#p-24"
       }
     },
     {
@@ -2993,7 +2993,7 @@
       "notes": [],
       "work_passage_id": "sobr:25",
       "html_path": "works/sobr/index.html#p-25",
-      "fixed_html_path": "releases/public-0.39/works/sobr/index.html#p-25",
+      "fixed_html_path": "releases/public-0.40/works/sobr/index.html#p-25",
       "alignment_revision": "sha256:ee41ba070b15e11d4b7192f20919b52e2a69ee486e454ba21e6e62dd22b09203",
       "review_state": {
         "human_reviewed": false,
@@ -3029,9 +3029,9 @@
         "work": "맑은 정신에 관하여",
         "reference": "25",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 2, Berlin: Reimer, 1897.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:422e3e030d935b77f2a2657a9eec7018c1ad55ebdba83448ec8fd614bc41b1b3",
-        "fixed_path": "releases/public-0.39/works/sobr/index.html#p-25"
+        "fixed_path": "releases/public-0.40/works/sobr/index.html#p-25"
       }
     },
     {
@@ -3135,7 +3135,7 @@
       ],
       "work_passage_id": "sobr:26",
       "html_path": "works/sobr/index.html#p-26",
-      "fixed_html_path": "releases/public-0.39/works/sobr/index.html#p-26",
+      "fixed_html_path": "releases/public-0.40/works/sobr/index.html#p-26",
       "alignment_revision": "sha256:c545658ed0b96da1100653c0689a5232ad14050f1fc4eeb904d6dacd66290ef2",
       "review_state": {
         "human_reviewed": false,
@@ -3171,9 +3171,9 @@
         "work": "맑은 정신에 관하여",
         "reference": "26",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 2, Berlin: Reimer, 1897.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:1acbc03f7f9af0a13f1cdb78f0a0d4dabfcbff5172af8bb21655660a1ab02d24",
-        "fixed_path": "releases/public-0.39/works/sobr/index.html#p-26"
+        "fixed_path": "releases/public-0.40/works/sobr/index.html#p-26"
       }
     },
     {
@@ -3248,7 +3248,7 @@
       ],
       "work_passage_id": "sobr:27",
       "html_path": "works/sobr/index.html#p-27",
-      "fixed_html_path": "releases/public-0.39/works/sobr/index.html#p-27",
+      "fixed_html_path": "releases/public-0.40/works/sobr/index.html#p-27",
       "alignment_revision": "sha256:9d9635e7aa3f3ff8a726311d41e82a91b5ab2ffab0f481e0416c50551da35fa2",
       "review_state": {
         "human_reviewed": false,
@@ -3284,9 +3284,9 @@
         "work": "맑은 정신에 관하여",
         "reference": "27",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 2, Berlin: Reimer, 1897.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:59347826509b236f4c4b907556da43a846232ac030377de62241e120f2291b30",
-        "fixed_path": "releases/public-0.39/works/sobr/index.html#p-27"
+        "fixed_path": "releases/public-0.40/works/sobr/index.html#p-27"
       }
     },
     {
@@ -3388,7 +3388,7 @@
       ],
       "work_passage_id": "sobr:28",
       "html_path": "works/sobr/index.html#p-28",
-      "fixed_html_path": "releases/public-0.39/works/sobr/index.html#p-28",
+      "fixed_html_path": "releases/public-0.40/works/sobr/index.html#p-28",
       "alignment_revision": "sha256:c6bb3adfc75ab0bbb53c117adc51fe535741530b99a64c19bcad5111b9ab66ac",
       "review_state": {
         "human_reviewed": false,
@@ -3424,9 +3424,9 @@
         "work": "맑은 정신에 관하여",
         "reference": "28",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 2, Berlin: Reimer, 1897.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:48a11941cb95cd71a0e5575bd57b65ca5edd2fd1bb38138d99ae6feb1169cb37",
-        "fixed_path": "releases/public-0.39/works/sobr/index.html#p-28"
+        "fixed_path": "releases/public-0.40/works/sobr/index.html#p-28"
       }
     },
     {
@@ -3528,7 +3528,7 @@
       ],
       "work_passage_id": "sobr:29",
       "html_path": "works/sobr/index.html#p-29",
-      "fixed_html_path": "releases/public-0.39/works/sobr/index.html#p-29",
+      "fixed_html_path": "releases/public-0.40/works/sobr/index.html#p-29",
       "alignment_revision": "sha256:dd22efcf28305129ea6622732d7aa56cb665653e947f3c2243ca90e91344cd1d",
       "review_state": {
         "human_reviewed": false,
@@ -3564,9 +3564,9 @@
         "work": "맑은 정신에 관하여",
         "reference": "29",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 2, Berlin: Reimer, 1897.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:e0a07791b7cc5ae81444950c0e8f1ca8593d573f18d5d1f4415e135ec6ac7fa1",
-        "fixed_path": "releases/public-0.39/works/sobr/index.html#p-29"
+        "fixed_path": "releases/public-0.40/works/sobr/index.html#p-29"
       }
     },
     {
@@ -3641,7 +3641,7 @@
       ],
       "work_passage_id": "sobr:30",
       "html_path": "works/sobr/index.html#p-30",
-      "fixed_html_path": "releases/public-0.39/works/sobr/index.html#p-30",
+      "fixed_html_path": "releases/public-0.40/works/sobr/index.html#p-30",
       "alignment_revision": "sha256:79d45463e287bfdad69936fb30dd6f3125f52abcc39a13e3cab77715fdfc35f7",
       "review_state": {
         "human_reviewed": false,
@@ -3677,9 +3677,9 @@
         "work": "맑은 정신에 관하여",
         "reference": "30",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 2, Berlin: Reimer, 1897.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:ba68007223fa17d22d6c2c87f0706e518ee079909646c5b5bd72ca2298999325",
-        "fixed_path": "releases/public-0.39/works/sobr/index.html#p-30"
+        "fixed_path": "releases/public-0.40/works/sobr/index.html#p-30"
       }
     },
     {
@@ -3742,7 +3742,7 @@
       "notes": [],
       "work_passage_id": "sobr:31",
       "html_path": "works/sobr/index.html#p-31",
-      "fixed_html_path": "releases/public-0.39/works/sobr/index.html#p-31",
+      "fixed_html_path": "releases/public-0.40/works/sobr/index.html#p-31",
       "alignment_revision": "sha256:8b2cb69e77e9e266a41062ecf94f4a584b16e68abf043770a0dd6ab25bbebb4f",
       "review_state": {
         "human_reviewed": false,
@@ -3778,9 +3778,9 @@
         "work": "맑은 정신에 관하여",
         "reference": "31",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 2, Berlin: Reimer, 1897.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:48a4427a365417fa5a531280c58d54c4da6f29564c1a3f10de55c957896b05e4",
-        "fixed_path": "releases/public-0.39/works/sobr/index.html#p-31"
+        "fixed_path": "releases/public-0.40/works/sobr/index.html#p-31"
       }
     },
     {
@@ -3869,7 +3869,7 @@
       ],
       "work_passage_id": "sobr:32",
       "html_path": "works/sobr/index.html#p-32",
-      "fixed_html_path": "releases/public-0.39/works/sobr/index.html#p-32",
+      "fixed_html_path": "releases/public-0.40/works/sobr/index.html#p-32",
       "alignment_revision": "sha256:f02f54b9b941103c6a384eeba10dd6de994bb891021177ade60d463f0e1ceb0f",
       "review_state": {
         "human_reviewed": false,
@@ -3905,9 +3905,9 @@
         "work": "맑은 정신에 관하여",
         "reference": "32",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 2, Berlin: Reimer, 1897.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:67fb123f0f6d5139600d14317ac6e09f0652aecb173415ca3b62c408f5c53bd1",
-        "fixed_path": "releases/public-0.39/works/sobr/index.html#p-32"
+        "fixed_path": "releases/public-0.40/works/sobr/index.html#p-32"
       }
     },
     {
@@ -3967,7 +3967,7 @@
       "notes": [],
       "work_passage_id": "sobr:33",
       "html_path": "works/sobr/index.html#p-33",
-      "fixed_html_path": "releases/public-0.39/works/sobr/index.html#p-33",
+      "fixed_html_path": "releases/public-0.40/works/sobr/index.html#p-33",
       "alignment_revision": "sha256:efebde464681c2d06f3fc96897a0da80d7900560f5d8be981a820d5a41ea8133",
       "review_state": {
         "human_reviewed": false,
@@ -4003,9 +4003,9 @@
         "work": "맑은 정신에 관하여",
         "reference": "33",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 2, Berlin: Reimer, 1897.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:1ffade9ca008a9b61d8b392560214bb4c30af7710ee6fe73203e678f51e0f8e5",
-        "fixed_path": "releases/public-0.39/works/sobr/index.html#p-33"
+        "fixed_path": "releases/public-0.40/works/sobr/index.html#p-33"
       }
     },
     {
@@ -4093,7 +4093,7 @@
       ],
       "work_passage_id": "sobr:34",
       "html_path": "works/sobr/index.html#p-34",
-      "fixed_html_path": "releases/public-0.39/works/sobr/index.html#p-34",
+      "fixed_html_path": "releases/public-0.40/works/sobr/index.html#p-34",
       "alignment_revision": "sha256:f34246c47a0e3841895626399b7ae4919b7277b9aceb5999ab55c76ee1ef3c7f",
       "review_state": {
         "human_reviewed": false,
@@ -4129,9 +4129,9 @@
         "work": "맑은 정신에 관하여",
         "reference": "34",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 2, Berlin: Reimer, 1897.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:0cf4393837cbaf3c6c8f9b02958da97cd0ad8d434aacf582ee4f257d5dfb574f",
-        "fixed_path": "releases/public-0.39/works/sobr/index.html#p-34"
+        "fixed_path": "releases/public-0.40/works/sobr/index.html#p-34"
       }
     },
     {
@@ -4204,7 +4204,7 @@
       "notes": [],
       "work_passage_id": "sobr:35",
       "html_path": "works/sobr/index.html#p-35",
-      "fixed_html_path": "releases/public-0.39/works/sobr/index.html#p-35",
+      "fixed_html_path": "releases/public-0.40/works/sobr/index.html#p-35",
       "alignment_revision": "sha256:c813e6708e2d76615e0099975ceaab7c58509f9d04eb8784f2c931b7fa704fb8",
       "review_state": {
         "human_reviewed": false,
@@ -4240,9 +4240,9 @@
         "work": "맑은 정신에 관하여",
         "reference": "35",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 2, Berlin: Reimer, 1897.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:8175904948995e553bdb5d9e073fbf6fa103c82793c928deffe996a12d9d4566",
-        "fixed_path": "releases/public-0.39/works/sobr/index.html#p-35"
+        "fixed_path": "releases/public-0.40/works/sobr/index.html#p-35"
       }
     },
     {
@@ -4385,7 +4385,7 @@
       ],
       "work_passage_id": "sobr:36",
       "html_path": "works/sobr/index.html#p-36",
-      "fixed_html_path": "releases/public-0.39/works/sobr/index.html#p-36",
+      "fixed_html_path": "releases/public-0.40/works/sobr/index.html#p-36",
       "alignment_revision": "sha256:3032d1a3af6d52cb3e0c9c393f834ec92fecd14c171905db4e90496ee2e0a99f",
       "review_state": {
         "human_reviewed": false,
@@ -4421,9 +4421,9 @@
         "work": "맑은 정신에 관하여",
         "reference": "36",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 2, Berlin: Reimer, 1897.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:6933b4ed1837ce057b8277f151332abfb9915b6cd0e24490fd62e6cd4ca5ba86",
-        "fixed_path": "releases/public-0.39/works/sobr/index.html#p-36"
+        "fixed_path": "releases/public-0.40/works/sobr/index.html#p-36"
       }
     },
     {
@@ -4496,7 +4496,7 @@
       "notes": [],
       "work_passage_id": "sobr:37",
       "html_path": "works/sobr/index.html#p-37",
-      "fixed_html_path": "releases/public-0.39/works/sobr/index.html#p-37",
+      "fixed_html_path": "releases/public-0.40/works/sobr/index.html#p-37",
       "alignment_revision": "sha256:d5e0c59e3d92f429e8ca04bb960f8eb4bdd96ce4647f94958789e918ea65740d",
       "review_state": {
         "human_reviewed": false,
@@ -4532,9 +4532,9 @@
         "work": "맑은 정신에 관하여",
         "reference": "37",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 2, Berlin: Reimer, 1897.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:1b83065d77f5e018b2943aa902dc863c23493448c70c39c5b0f9ac955195cf90",
-        "fixed_path": "releases/public-0.39/works/sobr/index.html#p-37"
+        "fixed_path": "releases/public-0.40/works/sobr/index.html#p-37"
       }
     },
     {
@@ -4610,7 +4610,7 @@
       ],
       "work_passage_id": "sobr:38",
       "html_path": "works/sobr/index.html#p-38",
-      "fixed_html_path": "releases/public-0.39/works/sobr/index.html#p-38",
+      "fixed_html_path": "releases/public-0.40/works/sobr/index.html#p-38",
       "alignment_revision": "sha256:1bdd28ae53975a9fe12a918283604dd67ba2579d9fcc0188ea8c67e3b20bcd8e",
       "review_state": {
         "human_reviewed": false,
@@ -4646,9 +4646,9 @@
         "work": "맑은 정신에 관하여",
         "reference": "38",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 2, Berlin: Reimer, 1897.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:107e9df2cfe80a5231e7d54cf347d03b3cd00c183fb64cb9d20c1d2fb3203971",
-        "fixed_path": "releases/public-0.39/works/sobr/index.html#p-38"
+        "fixed_path": "releases/public-0.40/works/sobr/index.html#p-38"
       }
     },
     {
@@ -4708,7 +4708,7 @@
       "notes": [],
       "work_passage_id": "sobr:39",
       "html_path": "works/sobr/index.html#p-39",
-      "fixed_html_path": "releases/public-0.39/works/sobr/index.html#p-39",
+      "fixed_html_path": "releases/public-0.40/works/sobr/index.html#p-39",
       "alignment_revision": "sha256:29076a669494fa76b9a59c4006f571b39dc5729e61b90d02001013dac87acfe0",
       "review_state": {
         "human_reviewed": false,
@@ -4744,9 +4744,9 @@
         "work": "맑은 정신에 관하여",
         "reference": "39",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 2, Berlin: Reimer, 1897.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:9daa70be6866c6358767bc44e5dc30091f982a828166cd1f36c6ee8372aae60d",
-        "fixed_path": "releases/public-0.39/works/sobr/index.html#p-39"
+        "fixed_path": "releases/public-0.40/works/sobr/index.html#p-39"
       }
     },
     {
@@ -4835,7 +4835,7 @@
       ],
       "work_passage_id": "sobr:40",
       "html_path": "works/sobr/index.html#p-40",
-      "fixed_html_path": "releases/public-0.39/works/sobr/index.html#p-40",
+      "fixed_html_path": "releases/public-0.40/works/sobr/index.html#p-40",
       "alignment_revision": "sha256:ff66e6e15dc2c950fbb83e97c705399b97ab59a49ea2d60fcb3bb731e78fcef6",
       "review_state": {
         "human_reviewed": false,
@@ -4871,9 +4871,9 @@
         "work": "맑은 정신에 관하여",
         "reference": "40",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 2, Berlin: Reimer, 1897.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:64fa8f7ed4c5df19884a873e02e51fa00e5e6e1ab0872373e109ef2d2575a007",
-        "fixed_path": "releases/public-0.39/works/sobr/index.html#p-40"
+        "fixed_path": "releases/public-0.40/works/sobr/index.html#p-40"
       }
     },
     {
@@ -4933,7 +4933,7 @@
       "notes": [],
       "work_passage_id": "sobr:41",
       "html_path": "works/sobr/index.html#p-41",
-      "fixed_html_path": "releases/public-0.39/works/sobr/index.html#p-41",
+      "fixed_html_path": "releases/public-0.40/works/sobr/index.html#p-41",
       "alignment_revision": "sha256:62f6745f960b88573449e21892b01da5eb58eac8771afd515e903e7b7752a2d7",
       "review_state": {
         "human_reviewed": false,
@@ -4969,9 +4969,9 @@
         "work": "맑은 정신에 관하여",
         "reference": "41",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 2, Berlin: Reimer, 1897.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:79afaa932560dd75e54251c3bcb5a8f7fe4743d6422c29898a1770d9afbb85e5",
-        "fixed_path": "releases/public-0.39/works/sobr/index.html#p-41"
+        "fixed_path": "releases/public-0.40/works/sobr/index.html#p-41"
       }
     },
     {
@@ -5062,7 +5062,7 @@
       ],
       "work_passage_id": "sobr:42",
       "html_path": "works/sobr/index.html#p-42",
-      "fixed_html_path": "releases/public-0.39/works/sobr/index.html#p-42",
+      "fixed_html_path": "releases/public-0.40/works/sobr/index.html#p-42",
       "alignment_revision": "sha256:ad7e0070103fa9e239de4ac59f0da5498a50668303ce8af219c2b084bba29fc7",
       "review_state": {
         "human_reviewed": false,
@@ -5098,9 +5098,9 @@
         "work": "맑은 정신에 관하여",
         "reference": "42",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 2, Berlin: Reimer, 1897.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:8713c022e30c0eb4925f5e16adea5eebc8dd36d5fcb901e4dd23f8451ea4189b",
-        "fixed_path": "releases/public-0.39/works/sobr/index.html#p-42"
+        "fixed_path": "releases/public-0.40/works/sobr/index.html#p-42"
       }
     },
     {
@@ -5175,7 +5175,7 @@
       ],
       "work_passage_id": "sobr:43",
       "html_path": "works/sobr/index.html#p-43",
-      "fixed_html_path": "releases/public-0.39/works/sobr/index.html#p-43",
+      "fixed_html_path": "releases/public-0.40/works/sobr/index.html#p-43",
       "alignment_revision": "sha256:67a40a89a71296868e4b1ee7ba959f121e493e225d04c87efcea098f11d6b5a7",
       "review_state": {
         "human_reviewed": false,
@@ -5211,9 +5211,9 @@
         "work": "맑은 정신에 관하여",
         "reference": "43",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 2, Berlin: Reimer, 1897.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:66a99863dd6b60a48ce2de372ebd9883f7b2cc2ce1b5fc097c8e7fc3a477afb4",
-        "fixed_path": "releases/public-0.39/works/sobr/index.html#p-43"
+        "fixed_path": "releases/public-0.40/works/sobr/index.html#p-43"
       }
     },
     {
@@ -5288,7 +5288,7 @@
       ],
       "work_passage_id": "sobr:44",
       "html_path": "works/sobr/index.html#p-44",
-      "fixed_html_path": "releases/public-0.39/works/sobr/index.html#p-44",
+      "fixed_html_path": "releases/public-0.40/works/sobr/index.html#p-44",
       "alignment_revision": "sha256:669554a14845f39adffa4775f8dac515a30a3ebcf8e8ee8478c66d9b3eea0724",
       "review_state": {
         "human_reviewed": false,
@@ -5324,9 +5324,9 @@
         "work": "맑은 정신에 관하여",
         "reference": "44",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 2, Berlin: Reimer, 1897.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:572ad1c77d75134c31fa79ca2238b7b59c17fe516b3a338d973d16793a3f02d1",
-        "fixed_path": "releases/public-0.39/works/sobr/index.html#p-44"
+        "fixed_path": "releases/public-0.40/works/sobr/index.html#p-44"
       }
     },
     {
@@ -5412,7 +5412,7 @@
       "notes": [],
       "work_passage_id": "sobr:45",
       "html_path": "works/sobr/index.html#p-45",
-      "fixed_html_path": "releases/public-0.39/works/sobr/index.html#p-45",
+      "fixed_html_path": "releases/public-0.40/works/sobr/index.html#p-45",
       "alignment_revision": "sha256:48383bddb63c429245bfda887f2472eb812ec6ff2270bf751e7930b39f61d020",
       "review_state": {
         "human_reviewed": false,
@@ -5448,9 +5448,9 @@
         "work": "맑은 정신에 관하여",
         "reference": "45",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 2, Berlin: Reimer, 1897.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:2807313521e4c6b2167c2d73416fabccd71f962ef4b76876179e1f24e7eb8fe2",
-        "fixed_path": "releases/public-0.39/works/sobr/index.html#p-45"
+        "fixed_path": "releases/public-0.40/works/sobr/index.html#p-45"
       }
     },
     {
@@ -5538,7 +5538,7 @@
       ],
       "work_passage_id": "sobr:46",
       "html_path": "works/sobr/index.html#p-46",
-      "fixed_html_path": "releases/public-0.39/works/sobr/index.html#p-46",
+      "fixed_html_path": "releases/public-0.40/works/sobr/index.html#p-46",
       "alignment_revision": "sha256:81d2015b2d5d9a77be43721453396338d93bf6d00804b11fe482e26b09151b26",
       "review_state": {
         "human_reviewed": false,
@@ -5574,9 +5574,9 @@
         "work": "맑은 정신에 관하여",
         "reference": "46",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 2, Berlin: Reimer, 1897.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:48dd2316dcb8e9b228f793fa1b1f7ba8970dfe42cf2a87fcf5d23ddecfaf3d5a",
-        "fixed_path": "releases/public-0.39/works/sobr/index.html#p-46"
+        "fixed_path": "releases/public-0.40/works/sobr/index.html#p-46"
       }
     },
     {
@@ -5680,7 +5680,7 @@
       ],
       "work_passage_id": "sobr:47",
       "html_path": "works/sobr/index.html#p-47",
-      "fixed_html_path": "releases/public-0.39/works/sobr/index.html#p-47",
+      "fixed_html_path": "releases/public-0.40/works/sobr/index.html#p-47",
       "alignment_revision": "sha256:9b2f8351b41a52b57ac0da32c6a7aa41752af8353ab73a7090dc84c61fa1f2dc",
       "review_state": {
         "human_reviewed": false,
@@ -5716,9 +5716,9 @@
         "work": "맑은 정신에 관하여",
         "reference": "47",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 2, Berlin: Reimer, 1897.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:7e7e4f9faab1799f2db43d1627fe922b031b6097f36cf1e5214109e5e4f26e25",
-        "fixed_path": "releases/public-0.39/works/sobr/index.html#p-47"
+        "fixed_path": "releases/public-0.40/works/sobr/index.html#p-47"
       }
     },
     {
@@ -5806,7 +5806,7 @@
       ],
       "work_passage_id": "sobr:48",
       "html_path": "works/sobr/index.html#p-48",
-      "fixed_html_path": "releases/public-0.39/works/sobr/index.html#p-48",
+      "fixed_html_path": "releases/public-0.40/works/sobr/index.html#p-48",
       "alignment_revision": "sha256:671f6caeb36c2941f4c7f6bac30b3451083de7f8f5497a23cfdc220e9bd89af8",
       "review_state": {
         "human_reviewed": false,
@@ -5842,9 +5842,9 @@
         "work": "맑은 정신에 관하여",
         "reference": "48",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 2, Berlin: Reimer, 1897.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:9f8d352fb2d6b13a1564df2a19fb1f22e8655483fb221295ad460853e0aaba76",
-        "fixed_path": "releases/public-0.39/works/sobr/index.html#p-48"
+        "fixed_path": "releases/public-0.40/works/sobr/index.html#p-48"
       }
     },
     {
@@ -5933,7 +5933,7 @@
       ],
       "work_passage_id": "sobr:49",
       "html_path": "works/sobr/index.html#p-49",
-      "fixed_html_path": "releases/public-0.39/works/sobr/index.html#p-49",
+      "fixed_html_path": "releases/public-0.40/works/sobr/index.html#p-49",
       "alignment_revision": "sha256:f5de4674cefac1f8d6640d0907c1fe467b14384d58dc98121ecc174fdc2ad578",
       "review_state": {
         "human_reviewed": false,
@@ -5969,9 +5969,9 @@
         "work": "맑은 정신에 관하여",
         "reference": "49",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 2, Berlin: Reimer, 1897.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:d5f66277be70441b5cef7be4e2206d6481825120e0370b435c7a5f7c683a3da8",
-        "fixed_path": "releases/public-0.39/works/sobr/index.html#p-49"
+        "fixed_path": "releases/public-0.40/works/sobr/index.html#p-49"
       }
     },
     {
@@ -6046,7 +6046,7 @@
       ],
       "work_passage_id": "sobr:50",
       "html_path": "works/sobr/index.html#p-50",
-      "fixed_html_path": "releases/public-0.39/works/sobr/index.html#p-50",
+      "fixed_html_path": "releases/public-0.40/works/sobr/index.html#p-50",
       "alignment_revision": "sha256:6ae9eb3a122d7d7dc85bacb25d6fa7b809eead6f678f8d61d902494d3032afa0",
       "review_state": {
         "human_reviewed": false,
@@ -6082,9 +6082,9 @@
         "work": "맑은 정신에 관하여",
         "reference": "50",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 2, Berlin: Reimer, 1897.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:9096db152b0d6b02c86fa73d59c48f6a7f6b9c566b2aa017078f5d3c4e6a045c",
-        "fixed_path": "releases/public-0.39/works/sobr/index.html#p-50"
+        "fixed_path": "releases/public-0.40/works/sobr/index.html#p-50"
       }
     },
     {
@@ -6172,7 +6172,7 @@
       ],
       "work_passage_id": "sobr:51",
       "html_path": "works/sobr/index.html#p-51",
-      "fixed_html_path": "releases/public-0.39/works/sobr/index.html#p-51",
+      "fixed_html_path": "releases/public-0.40/works/sobr/index.html#p-51",
       "alignment_revision": "sha256:ac1aab4027f5ada7c1dff45dcca8cd300ba0e8c27336c13aca96cb13090580e2",
       "review_state": {
         "human_reviewed": false,
@@ -6208,9 +6208,9 @@
         "work": "맑은 정신에 관하여",
         "reference": "51",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 2, Berlin: Reimer, 1897.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:da7daa760066a99e2fe732a07bd1703a9d82f14af27feaa51e1dfed7ad896749",
-        "fixed_path": "releases/public-0.39/works/sobr/index.html#p-51"
+        "fixed_path": "releases/public-0.40/works/sobr/index.html#p-51"
       }
     },
     {
@@ -6301,7 +6301,7 @@
       ],
       "work_passage_id": "sobr:52",
       "html_path": "works/sobr/index.html#p-52",
-      "fixed_html_path": "releases/public-0.39/works/sobr/index.html#p-52",
+      "fixed_html_path": "releases/public-0.40/works/sobr/index.html#p-52",
       "alignment_revision": "sha256:57d55d4269282bc527f1228fb29ffcfba2d9724350d88f6c44ac19e676ffdbc2",
       "review_state": {
         "human_reviewed": false,
@@ -6337,9 +6337,9 @@
         "work": "맑은 정신에 관하여",
         "reference": "52",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 2, Berlin: Reimer, 1897.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:78f2aa9721307b8f93a4b8c22bdd4d655fe0f70cd1a96ea90be4e9d3cc42dd2d",
-        "fixed_path": "releases/public-0.39/works/sobr/index.html#p-52"
+        "fixed_path": "releases/public-0.40/works/sobr/index.html#p-52"
       }
     },
     {
@@ -6427,7 +6427,7 @@
       ],
       "work_passage_id": "sobr:53",
       "html_path": "works/sobr/index.html#p-53",
-      "fixed_html_path": "releases/public-0.39/works/sobr/index.html#p-53",
+      "fixed_html_path": "releases/public-0.40/works/sobr/index.html#p-53",
       "alignment_revision": "sha256:13d995be4602fe727aa6ea3ad2736f6f02d15a7a3640da29cef0d10386a80b94",
       "review_state": {
         "human_reviewed": false,
@@ -6463,9 +6463,9 @@
         "work": "맑은 정신에 관하여",
         "reference": "53",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 2, Berlin: Reimer, 1897.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:9a50529e564f7601b88a115472b59e1bf23c5c03bca8d4771947aa003e4f0341",
-        "fixed_path": "releases/public-0.39/works/sobr/index.html#p-53"
+        "fixed_path": "releases/public-0.40/works/sobr/index.html#p-53"
       }
     },
     {
@@ -6538,7 +6538,7 @@
       "notes": [],
       "work_passage_id": "sobr:54",
       "html_path": "works/sobr/index.html#p-54",
-      "fixed_html_path": "releases/public-0.39/works/sobr/index.html#p-54",
+      "fixed_html_path": "releases/public-0.40/works/sobr/index.html#p-54",
       "alignment_revision": "sha256:ec3a47f32c4bfa4716d9500ff9c212e610c1b67de9e2ba3f98ff55db9302f9ff",
       "review_state": {
         "human_reviewed": false,
@@ -6574,9 +6574,9 @@
         "work": "맑은 정신에 관하여",
         "reference": "54",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 2, Berlin: Reimer, 1897.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:8fad17515003c91b4e3285b9490b79182e3800823bb09b81507b3d2e665bb2ab",
-        "fixed_path": "releases/public-0.39/works/sobr/index.html#p-54"
+        "fixed_path": "releases/public-0.40/works/sobr/index.html#p-54"
       }
     },
     {
@@ -6664,7 +6664,7 @@
       ],
       "work_passage_id": "sobr:55",
       "html_path": "works/sobr/index.html#p-55",
-      "fixed_html_path": "releases/public-0.39/works/sobr/index.html#p-55",
+      "fixed_html_path": "releases/public-0.40/works/sobr/index.html#p-55",
       "alignment_revision": "sha256:8dac9c4f4dc16d548fd41a3803c77fa5471ddbd15479429c90aeea6716d37fcc",
       "review_state": {
         "human_reviewed": false,
@@ -6700,9 +6700,9 @@
         "work": "맑은 정신에 관하여",
         "reference": "55",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 2, Berlin: Reimer, 1897.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:8112f3c478767f4eb99b7a168420f0b96d1dd54c247ea6bad53a9a7bbefb8f38",
-        "fixed_path": "releases/public-0.39/works/sobr/index.html#p-55"
+        "fixed_path": "releases/public-0.40/works/sobr/index.html#p-55"
       }
     },
     {
@@ -6790,7 +6790,7 @@
       ],
       "work_passage_id": "sobr:56",
       "html_path": "works/sobr/index.html#p-56",
-      "fixed_html_path": "releases/public-0.39/works/sobr/index.html#p-56",
+      "fixed_html_path": "releases/public-0.40/works/sobr/index.html#p-56",
       "alignment_revision": "sha256:b846c532998f0fab5983872ec45fc7eb51999dc69e6ab61ee70d946d856d92fb",
       "review_state": {
         "human_reviewed": false,
@@ -6826,9 +6826,9 @@
         "work": "맑은 정신에 관하여",
         "reference": "56",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 2, Berlin: Reimer, 1897.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:fdcef496071397193e36a9388044b353688edd0e3371e27cd312f496eb0b2621",
-        "fixed_path": "releases/public-0.39/works/sobr/index.html#p-56"
+        "fixed_path": "releases/public-0.40/works/sobr/index.html#p-56"
       }
     },
     {
@@ -6903,7 +6903,7 @@
       ],
       "work_passage_id": "sobr:57",
       "html_path": "works/sobr/index.html#p-57",
-      "fixed_html_path": "releases/public-0.39/works/sobr/index.html#p-57",
+      "fixed_html_path": "releases/public-0.40/works/sobr/index.html#p-57",
       "alignment_revision": "sha256:968112ba26c9f7adb72caa4fb4b0a7b1af26e2e1b15043a4d92d72c2d8de5321",
       "review_state": {
         "human_reviewed": false,
@@ -6939,9 +6939,9 @@
         "work": "맑은 정신에 관하여",
         "reference": "57",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 2, Berlin: Reimer, 1897.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:d6169cdadf8797e6bc5487afa106783ad4ce7ddd5130bee23e487599cde4fd4b",
-        "fixed_path": "releases/public-0.39/works/sobr/index.html#p-57"
+        "fixed_path": "releases/public-0.40/works/sobr/index.html#p-57"
       }
     },
     {
@@ -7019,7 +7019,7 @@
       ],
       "work_passage_id": "sobr:58",
       "html_path": "works/sobr/index.html#p-58",
-      "fixed_html_path": "releases/public-0.39/works/sobr/index.html#p-58",
+      "fixed_html_path": "releases/public-0.40/works/sobr/index.html#p-58",
       "alignment_revision": "sha256:bbd0c3efa45753d62fb99925f57efb3694768285897bfd80d70424a96f1d7ba1",
       "review_state": {
         "human_reviewed": false,
@@ -7055,9 +7055,9 @@
         "work": "맑은 정신에 관하여",
         "reference": "58",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 2, Berlin: Reimer, 1897.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:496707a305876acd7a76cc374c79d4b8ebf22f994fd4d27ab999b7583e3d32db",
-        "fixed_path": "releases/public-0.39/works/sobr/index.html#p-58"
+        "fixed_path": "releases/public-0.40/works/sobr/index.html#p-58"
       }
     },
     {
@@ -7119,7 +7119,7 @@
       ],
       "work_passage_id": "sobr:59",
       "html_path": "works/sobr/index.html#p-59",
-      "fixed_html_path": "releases/public-0.39/works/sobr/index.html#p-59",
+      "fixed_html_path": "releases/public-0.40/works/sobr/index.html#p-59",
       "alignment_revision": "sha256:de31d4aecdb174974de688741767eb7f4f5a89e0519acbb0f30254bab7fccc75",
       "review_state": {
         "human_reviewed": false,
@@ -7155,9 +7155,9 @@
         "work": "맑은 정신에 관하여",
         "reference": "59",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 2, Berlin: Reimer, 1897.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:fc50f596a26ae64af7055b12cefa44056039325690bdbe3621cf994ba68b84ca",
-        "fixed_path": "releases/public-0.39/works/sobr/index.html#p-59"
+        "fixed_path": "releases/public-0.40/works/sobr/index.html#p-59"
       }
     },
     {
@@ -7232,7 +7232,7 @@
       ],
       "work_passage_id": "sobr:60",
       "html_path": "works/sobr/index.html#p-60",
-      "fixed_html_path": "releases/public-0.39/works/sobr/index.html#p-60",
+      "fixed_html_path": "releases/public-0.40/works/sobr/index.html#p-60",
       "alignment_revision": "sha256:401ba7c518f9edbfe6c551d28cb600ebbcf663f68a7eb6642f9641007072361e",
       "review_state": {
         "human_reviewed": false,
@@ -7268,9 +7268,9 @@
         "work": "맑은 정신에 관하여",
         "reference": "60",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 2, Berlin: Reimer, 1897.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:f924e8713b067ed63e047c16d23e8467153c93640cb66e7ac1f375976202b90b",
-        "fixed_path": "releases/public-0.39/works/sobr/index.html#p-60"
+        "fixed_path": "releases/public-0.40/works/sobr/index.html#p-60"
       }
     },
     {
@@ -7358,7 +7358,7 @@
       ],
       "work_passage_id": "sobr:61",
       "html_path": "works/sobr/index.html#p-61",
-      "fixed_html_path": "releases/public-0.39/works/sobr/index.html#p-61",
+      "fixed_html_path": "releases/public-0.40/works/sobr/index.html#p-61",
       "alignment_revision": "sha256:298b70729346aacc0954b64602771b4606a0de6077738c081d2c46400b20b100",
       "review_state": {
         "human_reviewed": false,
@@ -7394,9 +7394,9 @@
         "work": "맑은 정신에 관하여",
         "reference": "61",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 2, Berlin: Reimer, 1897.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:ef692094b9d03eb3bd720170c1579957602fae3d3abe1c0e72286be60a13eab6",
-        "fixed_path": "releases/public-0.39/works/sobr/index.html#p-61"
+        "fixed_path": "releases/public-0.40/works/sobr/index.html#p-61"
       }
     },
     {
@@ -7482,7 +7482,7 @@
       "notes": [],
       "work_passage_id": "sobr:62",
       "html_path": "works/sobr/index.html#p-62",
-      "fixed_html_path": "releases/public-0.39/works/sobr/index.html#p-62",
+      "fixed_html_path": "releases/public-0.40/works/sobr/index.html#p-62",
       "alignment_revision": "sha256:bfbdbf3607c1a4d4823e7baeec047524cade109db9e899d94b746b437206b61a",
       "review_state": {
         "human_reviewed": false,
@@ -7518,9 +7518,9 @@
         "work": "맑은 정신에 관하여",
         "reference": "62",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 2, Berlin: Reimer, 1897.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:928808cd5460ecaac8aaf5e1b550ba02db9ad63939d7f2e5f0d74733fc26b96e",
-        "fixed_path": "releases/public-0.39/works/sobr/index.html#p-62"
+        "fixed_path": "releases/public-0.40/works/sobr/index.html#p-62"
       }
     },
     {
@@ -7595,7 +7595,7 @@
       ],
       "work_passage_id": "sobr:63",
       "html_path": "works/sobr/index.html#p-63",
-      "fixed_html_path": "releases/public-0.39/works/sobr/index.html#p-63",
+      "fixed_html_path": "releases/public-0.40/works/sobr/index.html#p-63",
       "alignment_revision": "sha256:23db11112e12b6dbf0bc47b0d1023c3cca72f71465f170bfaa0bc0a20ee6adee",
       "review_state": {
         "human_reviewed": false,
@@ -7631,9 +7631,9 @@
         "work": "맑은 정신에 관하여",
         "reference": "63",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 2, Berlin: Reimer, 1897.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:eb81e2e13d0a30f324d52d8f72055b818856157f6603e5aaf210e24eee5b7e37",
-        "fixed_path": "releases/public-0.39/works/sobr/index.html#p-63"
+        "fixed_path": "releases/public-0.40/works/sobr/index.html#p-63"
       }
     },
     {
@@ -7693,7 +7693,7 @@
       "notes": [],
       "work_passage_id": "sobr:64",
       "html_path": "works/sobr/index.html#p-64",
-      "fixed_html_path": "releases/public-0.39/works/sobr/index.html#p-64",
+      "fixed_html_path": "releases/public-0.40/works/sobr/index.html#p-64",
       "alignment_revision": "sha256:5ad76e666fee8ec9d341569db6ab65eacde56efff7fa89f4905c9d24e2d68d8c",
       "review_state": {
         "human_reviewed": false,
@@ -7729,9 +7729,9 @@
         "work": "맑은 정신에 관하여",
         "reference": "64",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 2, Berlin: Reimer, 1897.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:89ac2d9cd52fb837f76518fd6419e662740546f81d83e598b12a69dd4329966a",
-        "fixed_path": "releases/public-0.39/works/sobr/index.html#p-64"
+        "fixed_path": "releases/public-0.40/works/sobr/index.html#p-64"
       }
     },
     {
@@ -7849,7 +7849,7 @@
       ],
       "work_passage_id": "sobr:65",
       "html_path": "works/sobr/index.html#p-65",
-      "fixed_html_path": "releases/public-0.39/works/sobr/index.html#p-65",
+      "fixed_html_path": "releases/public-0.40/works/sobr/index.html#p-65",
       "alignment_revision": "sha256:eeb953725e04b38f2d9d2dd5f804f52a1eba17e9957d0ca9700ed9672158bdb7",
       "review_state": {
         "human_reviewed": false,
@@ -7885,9 +7885,9 @@
         "work": "맑은 정신에 관하여",
         "reference": "65",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 2, Berlin: Reimer, 1897.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:45b07d950b5c0b570979cfb453745fc5515e01f7f589ef6846b1ad243b967b3c",
-        "fixed_path": "releases/public-0.39/works/sobr/index.html#p-65"
+        "fixed_path": "releases/public-0.40/works/sobr/index.html#p-65"
       }
     },
     {
@@ -7976,7 +7976,7 @@
       ],
       "work_passage_id": "sobr:66",
       "html_path": "works/sobr/index.html#p-66",
-      "fixed_html_path": "releases/public-0.39/works/sobr/index.html#p-66",
+      "fixed_html_path": "releases/public-0.40/works/sobr/index.html#p-66",
       "alignment_revision": "sha256:abd607c6e76ac43fb509221a5b0e000bd0e3ced80055529220315cb021746998",
       "review_state": {
         "human_reviewed": false,
@@ -8012,9 +8012,9 @@
         "work": "맑은 정신에 관하여",
         "reference": "66",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 2, Berlin: Reimer, 1897.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:ded98363202e471c9e0a3461b3b2cd5a8460dcc032200f32284a830e307c11a8",
-        "fixed_path": "releases/public-0.39/works/sobr/index.html#p-66"
+        "fixed_path": "releases/public-0.40/works/sobr/index.html#p-66"
       }
     },
     {
@@ -8128,7 +8128,7 @@
       ],
       "work_passage_id": "sobr:67",
       "html_path": "works/sobr/index.html#p-67",
-      "fixed_html_path": "releases/public-0.39/works/sobr/index.html#p-67",
+      "fixed_html_path": "releases/public-0.40/works/sobr/index.html#p-67",
       "alignment_revision": "sha256:7c61b754253abe0c3a7fcdcdae5f5a49348c620dac601d4fd24a7c6c72e43154",
       "review_state": {
         "human_reviewed": false,
@@ -8164,9 +8164,9 @@
         "work": "맑은 정신에 관하여",
         "reference": "67",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 2, Berlin: Reimer, 1897.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:612bfce36c2f89947da8eee3461eb0d2642a4f4191830d62838aa7f59f1469cd",
-        "fixed_path": "releases/public-0.39/works/sobr/index.html#p-67"
+        "fixed_path": "releases/public-0.40/works/sobr/index.html#p-67"
       }
     },
     {
@@ -8255,7 +8255,7 @@
       ],
       "work_passage_id": "sobr:68",
       "html_path": "works/sobr/index.html#p-68",
-      "fixed_html_path": "releases/public-0.39/works/sobr/index.html#p-68",
+      "fixed_html_path": "releases/public-0.40/works/sobr/index.html#p-68",
       "alignment_revision": "sha256:93445036d57b8edfa00de91a9b22bc17b80133576dbeab672d6bb376ffde11f7",
       "review_state": {
         "human_reviewed": false,
@@ -8291,9 +8291,9 @@
         "work": "맑은 정신에 관하여",
         "reference": "68",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 2, Berlin: Reimer, 1897.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:98ba2a3b15aaa23b91ce1d83c7e171b4e43cf5e831e245ab1e4b5a94ca9286ae",
-        "fixed_path": "releases/public-0.39/works/sobr/index.html#p-68"
+        "fixed_path": "releases/public-0.40/works/sobr/index.html#p-68"
       }
     },
     {
@@ -8368,7 +8368,7 @@
       ],
       "work_passage_id": "sobr:69",
       "html_path": "works/sobr/index.html#p-69",
-      "fixed_html_path": "releases/public-0.39/works/sobr/index.html#p-69",
+      "fixed_html_path": "releases/public-0.40/works/sobr/index.html#p-69",
       "alignment_revision": "sha256:6fb9f442442db0a06eca44d8a840507cf9fc799ad077bb9fa62804e62e082b73",
       "review_state": {
         "human_reviewed": false,
@@ -8404,9 +8404,9 @@
         "work": "맑은 정신에 관하여",
         "reference": "69",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 2, Berlin: Reimer, 1897.",
-        "release": "public-0.39",
+        "release": "public-0.40",
         "translation_revision": "sha256:a75809964414fcb3b996c1a84157aa2984b613319c73b15dd27245402a72e86f",
-        "fixed_path": "releases/public-0.39/works/sobr/index.html#p-69"
+        "fixed_path": "releases/public-0.40/works/sobr/index.html#p-69"
       }
     }
   ],
@@ -8430,14 +8430,14 @@
   "display_author": "필론",
   "scope": "맑은 정신에 관하여 채택 본문 69대목 전체",
   "coverage": "complete",
-  "release_id": "public-0.39",
+  "release_id": "public-0.40",
   "source_language": "grc",
   "source_kind": "edited_ancient_original",
   "human_reviewed": false,
   "translation_method": "고정 원어 본문에서 직접 번역",
   "html_path": "works/sobr/index.html",
   "json_path": "data/works/sobr.json",
-  "fixed_html_path": "releases/public-0.39/works/sobr/index.html",
+  "fixed_html_path": "releases/public-0.40/works/sobr/index.html",
   "source_profile": "sobr-complete-pinned-source-20261021",
   "source_decisions": [
     {
