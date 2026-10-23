@@ -86,7 +86,7 @@
       ],
       "work_passage_id": "opif:1",
       "html_path": "works/opif/index.html#p-1",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-1",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-1",
       "alignment_revision": "sha256:c6ad287814412af297c1bc3cf12441eb855a8855d8e90ca90d8d14857e1bfc23",
       "review_state": {
         "human_reviewed": false,
@@ -112,9 +112,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "1",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:9b0a30c8d08edce7c6a04ce0cf9506594517621c137001b36f9bf06a004debf1",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-1"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-1"
       }
     },
     {
@@ -200,7 +200,7 @@
       "notes": [],
       "work_passage_id": "opif:2",
       "html_path": "works/opif/index.html#p-2",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-2",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-2",
       "alignment_revision": "sha256:ee1c1ce90eae91bfb46a827c91163c3dc73278c1e5738d4c54aae26c1ae8c47f",
       "review_state": {
         "human_reviewed": false,
@@ -226,9 +226,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "2",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:042c1e9670f86e3cbe0218d02aa68ad0cbde659e045af7579a357f9cd060e75c",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-2"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-2"
       }
     },
     {
@@ -303,7 +303,7 @@
       ],
       "work_passage_id": "opif:3",
       "html_path": "works/opif/index.html#p-3",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-3",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-3",
       "alignment_revision": "sha256:76d36422f8bb74fa92644b62a4e62ddad0c639e4c2866103fd98388c5e2b6486",
       "review_state": {
         "human_reviewed": false,
@@ -329,9 +329,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "3",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:aeb9ecb948aee44fc426d4e25a212cab78ca87b9a939a9a5f3f255dd415a7912",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-3"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-3"
       }
     },
     {
@@ -391,7 +391,7 @@
       "notes": [],
       "work_passage_id": "opif:4",
       "html_path": "works/opif/index.html#p-4",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-4",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-4",
       "alignment_revision": "sha256:1cf8c5f50f4d1295d3501acea4d4d3e03251184478ed9df5b4b87ce748c9db51",
       "review_state": {
         "human_reviewed": false,
@@ -417,9 +417,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "4",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:82cb9a7af34ab079e2d92736f46268d40f036e00630de05f2bad5d087f0711cf",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-4"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-4"
       }
     },
     {
@@ -492,7 +492,7 @@
       "notes": [],
       "work_passage_id": "opif:5",
       "html_path": "works/opif/index.html#p-5",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-5",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-5",
       "alignment_revision": "sha256:5da4354b510982810e02abc3eb172066ba273bd6c57cc28ecc425e2554f0f7a9",
       "review_state": {
         "human_reviewed": false,
@@ -518,9 +518,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "5",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:b704ec297fff380d7fab6051253cb713a099e2fcf7bb4084ef324e1d2609a6bb",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-5"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-5"
       }
     },
     {
@@ -593,7 +593,7 @@
       "notes": [],
       "work_passage_id": "opif:6",
       "html_path": "works/opif/index.html#p-6",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-6",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-6",
       "alignment_revision": "sha256:ef422f28e0eb10d7da07f070b42c6102f093cf233f888ccaaafe22171930a7ee",
       "review_state": {
         "human_reviewed": false,
@@ -619,9 +619,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "6",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:87fb4da6a9558f2bc14aa020e736dfa7d36382daafe6b873821d64a75b39dc92",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-6"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-6"
       }
     },
     {
@@ -696,7 +696,7 @@
       ],
       "work_passage_id": "opif:7",
       "html_path": "works/opif/index.html#p-7",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-7",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-7",
       "alignment_revision": "sha256:3c61cb8eb140d2fc664d0b79046c3114f42b96bf29ec39620d8ce9aafaf1ac82",
       "review_state": {
         "human_reviewed": false,
@@ -722,9 +722,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "7",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:4a70724e58860b21f10e95e0964cc12a491ba890204d05f73820bb2927dbb184",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-7"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-7"
       }
     },
     {
@@ -812,7 +812,7 @@
       ],
       "work_passage_id": "opif:8",
       "html_path": "works/opif/index.html#p-8",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-8",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-8",
       "alignment_revision": "sha256:13771ba9c33be30939143d0c1c5f23be7a8e6cc1afb97dc598927c7a69acfbf3",
       "review_state": {
         "human_reviewed": false,
@@ -838,9 +838,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "8",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:a29d261f86f45d9f3160a165249b5140a8b846729b600b3708b3ffc79db35819",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-8"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-8"
       }
     },
     {
@@ -913,7 +913,7 @@
       "notes": [],
       "work_passage_id": "opif:9",
       "html_path": "works/opif/index.html#p-9",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-9",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-9",
       "alignment_revision": "sha256:705e58efc763a501147120cf756fec566a2171fba47bc5a5deab69c2a7e60b40",
       "review_state": {
         "human_reviewed": false,
@@ -939,9 +939,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "9",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:4b96e7e540012d5ff3b6cb55956dc7c85e2e1fde2557f59f07d30e43e6df3377",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-9"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-9"
       }
     },
     {
@@ -1027,7 +1027,7 @@
       "notes": [],
       "work_passage_id": "opif:10",
       "html_path": "works/opif/index.html#p-10",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-10",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-10",
       "alignment_revision": "sha256:b4f9148dd55a63fe7f0d98a0ff4d22d3c7f6bb88df717c1052ced911b16bcf66",
       "review_state": {
         "human_reviewed": false,
@@ -1053,9 +1053,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "10",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:6e94e2eedd55bf46c32fa7c41c1e4007f81518daecbc2e6ecccf9f73ec0fb127",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-10"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-10"
       }
     },
     {
@@ -1130,7 +1130,7 @@
       ],
       "work_passage_id": "opif:11",
       "html_path": "works/opif/index.html#p-11",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-11",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-11",
       "alignment_revision": "sha256:8624f85620f72f11f5911ce60c86719b38ce66e8238f95a4bd88f3f669843c44",
       "review_state": {
         "human_reviewed": false,
@@ -1156,9 +1156,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "11",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:9ab62d97ea9db64b24c9d9c37ec372dd5e9b98cc93862d276348bf9956f3c3a2",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-11"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-11"
       }
     },
     {
@@ -1257,7 +1257,7 @@
       "notes": [],
       "work_passage_id": "opif:12",
       "html_path": "works/opif/index.html#p-12",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-12",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-12",
       "alignment_revision": "sha256:a9aab9904ea48d2eb7739a5f1ed28dc19d6a6a6f10f8ce315ee44150ec8cd04d",
       "review_state": {
         "human_reviewed": false,
@@ -1283,9 +1283,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "12",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:ac80d7e910834d9d6f28a446a70c21f0dfa27b22cea278c0b580a88bd7c2374f",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-12"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-12"
       }
     },
     {
@@ -1425,7 +1425,7 @@
       ],
       "work_passage_id": "opif:13",
       "html_path": "works/opif/index.html#p-13",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-13",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-13",
       "alignment_revision": "sha256:f9726250684592fc451115bf28883b050a2b86ce909279a42b0953dd6ff90613",
       "review_state": {
         "human_reviewed": false,
@@ -1451,9 +1451,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "13",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:613c70fa99904f0ba0a6283f35e789fc538743406510977bd5f4d03bac17e8dd",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-13"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-13"
       }
     },
     {
@@ -1526,7 +1526,7 @@
       "notes": [],
       "work_passage_id": "opif:14",
       "html_path": "works/opif/index.html#p-14",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-14",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-14",
       "alignment_revision": "sha256:69ac98de1c796b153e13f59c498c9eb422709c5f0ef3b44f4ff78a1e5e7b24d5",
       "review_state": {
         "human_reviewed": false,
@@ -1552,9 +1552,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "14",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:2a88f3da8c63223099aa65e48ac68486dd6e50abc6e3148272e27537935294ea",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-14"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-14"
       }
     },
     {
@@ -1642,7 +1642,7 @@
       ],
       "work_passage_id": "opif:15",
       "html_path": "works/opif/index.html#p-15",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-15",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-15",
       "alignment_revision": "sha256:3a9793180bcc3935b5fa90e53871007d212436a1607ec713663701339afe7439",
       "review_state": {
         "human_reviewed": false,
@@ -1668,9 +1668,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "15",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:2b53b1f8eb76745f94de90616ef145e488256f66b58de1ae6020261d6618f415",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-15"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-15"
       }
     },
     {
@@ -1758,7 +1758,7 @@
       ],
       "work_passage_id": "opif:16",
       "html_path": "works/opif/index.html#p-16",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-16",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-16",
       "alignment_revision": "sha256:a836ddef12fc9871b10d61fb0ff19b5b74a83a86c73e5cb252ba67e11692102a",
       "review_state": {
         "human_reviewed": false,
@@ -1784,9 +1784,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "16",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:8690ff05b5f710b439f662ecaa9aad6e43f284224fa58ba8ce1b4df4a5996882",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-16"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-16"
       }
     },
     {
@@ -1874,7 +1874,7 @@
       ],
       "work_passage_id": "opif:17",
       "html_path": "works/opif/index.html#p-17",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-17",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-17",
       "alignment_revision": "sha256:351fc4f2b0f8f68f03c782feb073ad37e8b1a76772675cfd05288de0000f2067",
       "review_state": {
         "human_reviewed": false,
@@ -1900,9 +1900,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "17",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:95e39fa65404bac7ae6f422cab7e2fd03d3328015fad1288e31fa94b3841286c",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-17"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-17"
       }
     },
     {
@@ -1988,7 +1988,7 @@
       "notes": [],
       "work_passage_id": "opif:18",
       "html_path": "works/opif/index.html#p-18",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-18",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-18",
       "alignment_revision": "sha256:08e2fdc9d755527bb03e8eb9e565ba8dd3cd33a9733571d2862a7e5c1e7ac678",
       "review_state": {
         "human_reviewed": false,
@@ -2014,9 +2014,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "18",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:ad0c9cc75e0be26f4df6736483e5ed2c80f0ef129dfd89c1d66f6fb21b725a51",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-18"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-18"
       }
     },
     {
@@ -2076,7 +2076,7 @@
       "notes": [],
       "work_passage_id": "opif:19",
       "html_path": "works/opif/index.html#p-19",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-19",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-19",
       "alignment_revision": "sha256:1b6862f19e4e8b32f14d388eae3095f758ebaa0e3c02f9cb43f4f9c5d7439831",
       "review_state": {
         "human_reviewed": false,
@@ -2102,9 +2102,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "19",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:9d6693a4bd2b9a877064be510bb463fd58a29bea80c503ba2125d10b7f6e9f07",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-19"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-19"
       }
     },
     {
@@ -2179,7 +2179,7 @@
       ],
       "work_passage_id": "opif:20",
       "html_path": "works/opif/index.html#p-20",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-20",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-20",
       "alignment_revision": "sha256:817650ec9de4a3d02051569d01b188a3ec2902e5d37087b1d273fc208d37000a",
       "review_state": {
         "human_reviewed": false,
@@ -2205,9 +2205,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "20",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:6556c99dced1af1915b8f0e983b8c490a6c8ecafd3e53ac4f22d187ba2ab70cf",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-20"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-20"
       }
     },
     {
@@ -2282,7 +2282,7 @@
       ],
       "work_passage_id": "opif:21",
       "html_path": "works/opif/index.html#p-21",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-21",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-21",
       "alignment_revision": "sha256:c39984ef305ea71cee35ff3c0797e7d08820a415db0de8f5c3a385dee18e9f50",
       "review_state": {
         "human_reviewed": false,
@@ -2308,9 +2308,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "21",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:bda721766dce7c85e0239ecac2501f8a693c18bcf57d42804f0ee43fae415976",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-21"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-21"
       }
     },
     {
@@ -2381,7 +2381,7 @@
       ],
       "work_passage_id": "opif:22",
       "html_path": "works/opif/index.html#p-22",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-22",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-22",
       "alignment_revision": "sha256:0789bb48b7023b54c9e7f5dbfce4ff2cc69d71d746db44ab61006480ba8e31e3",
       "review_state": {
         "human_reviewed": false,
@@ -2407,9 +2407,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "22",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:78bf97e43a0d313211aed459acdd11b54edd0046fa1e5f13761f969fb1ae1e7c",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-22"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-22"
       }
     },
     {
@@ -2495,7 +2495,7 @@
       "notes": [],
       "work_passage_id": "opif:23",
       "html_path": "works/opif/index.html#p-23",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-23",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-23",
       "alignment_revision": "sha256:61c9be40461f828ce89c90f24e51ff67004e477779736dbace0f628b5e90689c",
       "review_state": {
         "human_reviewed": false,
@@ -2521,9 +2521,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "23",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:73ff3f7fa1dfaf15e32d0238b23429122a84f4ad30b8edba41bf51219da1aaa4",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-23"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-23"
       }
     },
     {
@@ -2595,7 +2595,7 @@
       ],
       "work_passage_id": "opif:24",
       "html_path": "works/opif/index.html#p-24",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-24",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-24",
       "alignment_revision": "sha256:37dd67487099f759f54c3c388a1f54149a4e0335dcfaeb42783290d8f38964f2",
       "review_state": {
         "human_reviewed": false,
@@ -2621,9 +2621,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "24",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:f9d4d2b07d0dd4a4af3bd048d70aa8c2208cedbd35f9d6964a7920edd6e9f2a3",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-24"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-24"
       }
     },
     {
@@ -2729,7 +2729,7 @@
       ],
       "work_passage_id": "opif:25",
       "html_path": "works/opif/index.html#p-25",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-25",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-25",
       "alignment_revision": "sha256:d76dd3e144891bc64cf7aafa91c1907cfee19614a7ea460ea54e2588f6f7a090",
       "review_state": {
         "human_reviewed": false,
@@ -2755,9 +2755,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "25",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:edc4b89874f7566f42b38a2a2b4c649147040aa34e660446965bd7b60f1fcd2e",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-25"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-25"
       }
     },
     {
@@ -2858,7 +2858,7 @@
       ],
       "work_passage_id": "opif:26",
       "html_path": "works/opif/index.html#p-26",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-26",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-26",
       "alignment_revision": "sha256:d82fd410ed5dac1319591508adc741556c8777ddd6d7c9021b5a6241264cf245",
       "review_state": {
         "human_reviewed": false,
@@ -2884,9 +2884,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "26",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:23c3e86255d1fd8b3a409499deafe83b5d9700b53c04bce48a397dc555382bce",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-26"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-26"
       }
     },
     {
@@ -2948,7 +2948,7 @@
       ],
       "work_passage_id": "opif:27",
       "html_path": "works/opif/index.html#p-27",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-27",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-27",
       "alignment_revision": "sha256:117cde1103f096ea871a810e685546554cfbe3f04b2892463ba8f436d26a2871",
       "review_state": {
         "human_reviewed": false,
@@ -2974,9 +2974,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "27",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:6473ecc8ad2cbf4dc11dceb0c739fb42907190c7e026d82e4b44131dec7794c1",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-27"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-27"
       }
     },
     {
@@ -3062,7 +3062,7 @@
       "notes": [],
       "work_passage_id": "opif:28",
       "html_path": "works/opif/index.html#p-28",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-28",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-28",
       "alignment_revision": "sha256:f0b298468fbc23976360c629a7b83da8566ef047f5d3e842f23ca6f9c223ca6d",
       "review_state": {
         "human_reviewed": false,
@@ -3088,9 +3088,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "28",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:c9957f758a000cd40d33760956a80dc8bbaccda807f661c659619e080a647779",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-28"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-28"
       }
     },
     {
@@ -3178,7 +3178,7 @@
       ],
       "work_passage_id": "opif:29",
       "html_path": "works/opif/index.html#p-29",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-29",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-29",
       "alignment_revision": "sha256:416161458ecb7b205743528a27ea1d2344d38c516edd30e55fd12fa9c25dc023",
       "review_state": {
         "human_reviewed": false,
@@ -3204,9 +3204,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "29",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:3eb6c1ccfa3f75c718e815c43f7d9613fad56aed0ab052e6bb9d545ed7c69572",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-29"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-29"
       }
     },
     {
@@ -3309,7 +3309,7 @@
       "notes": [],
       "work_passage_id": "opif:30",
       "html_path": "works/opif/index.html#p-30",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-30",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-30",
       "alignment_revision": "sha256:10948177cb1785d8e1b0a28120c2aa58513c62b99b973522f7a4ed705617be29",
       "review_state": {
         "human_reviewed": false,
@@ -3335,9 +3335,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "30",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:d03a5fbd4794446de1276dd135b831342c9b73c227c87dd1bc7e8b76edf2a153",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-30"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-30"
       }
     },
     {
@@ -3438,7 +3438,7 @@
       ],
       "work_passage_id": "opif:31",
       "html_path": "works/opif/index.html#p-31",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-31",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-31",
       "alignment_revision": "sha256:9fb2ce5c78f1d191ebcebca6e12a48d1d501b0a7ed856d1b870326923f81a0ec",
       "review_state": {
         "human_reviewed": false,
@@ -3464,9 +3464,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "31",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:be434a90e656d4b08dbecadd78a5a1cf562aa52a603ef1c3582301ebb837f79a",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-31"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-31"
       }
     },
     {
@@ -3539,7 +3539,7 @@
       "notes": [],
       "work_passage_id": "opif:32",
       "html_path": "works/opif/index.html#p-32",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-32",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-32",
       "alignment_revision": "sha256:37deface306178442428b654563e4189f3c9bca7df03bd683320bb13ff41c376",
       "review_state": {
         "human_reviewed": false,
@@ -3565,9 +3565,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "32",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:0fde24e9c23c054293d7b9c2a1d071b55da1f7cc1f70ae07def0b0068a04e317",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-32"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-32"
       }
     },
     {
@@ -3653,7 +3653,7 @@
       "notes": [],
       "work_passage_id": "opif:33",
       "html_path": "works/opif/index.html#p-33",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-33",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-33",
       "alignment_revision": "sha256:f0b64deb970f5cb370a4b870705fbaeb733beeb9c1a1ca0fc4dc132a5a883c9f",
       "review_state": {
         "human_reviewed": false,
@@ -3679,9 +3679,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "33",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:4a170da8e5a23a9189a4922a6f121d5dc4a6fb41906d0904117e37b42632d1b3",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-33"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-33"
       }
     },
     {
@@ -3780,7 +3780,7 @@
       "notes": [],
       "work_passage_id": "opif:34",
       "html_path": "works/opif/index.html#p-34",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-34",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-34",
       "alignment_revision": "sha256:ac71acfefcd26636d3b3c51b7d09658d2509bbaa32cd0512b900986de44bd2b1",
       "review_state": {
         "human_reviewed": false,
@@ -3806,9 +3806,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "34",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:83b0a2aa8eddd5a69d5dcaf7717fe2731b88634a33c38d3ecc67210316bcc44d",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-34"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-34"
       }
     },
     {
@@ -3881,7 +3881,7 @@
       "notes": [],
       "work_passage_id": "opif:35",
       "html_path": "works/opif/index.html#p-35",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-35",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-35",
       "alignment_revision": "sha256:2ae50b115d20844f77b3489b32619aebb6c197f6db3d0df45381fac5587a78d7",
       "review_state": {
         "human_reviewed": false,
@@ -3907,9 +3907,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "35",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:22b53d9df2168fe9902bb2860b33fb6e7ddfaaeeadfd45080b9f4d7068215fc7",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-35"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-35"
       }
     },
     {
@@ -4036,7 +4036,7 @@
       ],
       "work_passage_id": "opif:36",
       "html_path": "works/opif/index.html#p-36",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-36",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-36",
       "alignment_revision": "sha256:695755d7f2efef5c590deffc8ae5dd2b4939954889a03c47d5092612c634223b",
       "review_state": {
         "human_reviewed": false,
@@ -4062,9 +4062,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "36",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:2393668a18aac1e8aa5f5a8ee19ce8ececfdca38bb7912559f7b284dbf2080ee",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-36"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-36"
       }
     },
     {
@@ -4139,7 +4139,7 @@
       ],
       "work_passage_id": "opif:37",
       "html_path": "works/opif/index.html#p-37",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-37",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-37",
       "alignment_revision": "sha256:0cd9d3517f582fa13a64cb27d8b7e5cfbaaaa453829661d85f0cb7949d1f2f48",
       "review_state": {
         "human_reviewed": false,
@@ -4165,9 +4165,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "37",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:f3a2b67568291cef6a8a54ce12ff0d6df603724ea14f770c2166464aedacf845",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-37"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-37"
       }
     },
     {
@@ -4320,7 +4320,7 @@
       ],
       "work_passage_id": "opif:38",
       "html_path": "works/opif/index.html#p-38",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-38",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-38",
       "alignment_revision": "sha256:6f50646db628b2d76b9af8b4353629b4bacaeea4b7f9ebc977f812d118aeb21d",
       "review_state": {
         "human_reviewed": false,
@@ -4346,9 +4346,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "38",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:d22c5762e1c8cf2fb109c56d77b818c1baebc61d1415a117eea8e8eea5545f48",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-38"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-38"
       }
     },
     {
@@ -4408,7 +4408,7 @@
       "notes": [],
       "work_passage_id": "opif:39",
       "html_path": "works/opif/index.html#p-39",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-39",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-39",
       "alignment_revision": "sha256:de0e5b933c4cde4a98862cec328cbd99190efe030b15a71287dd4ebba4544b0c",
       "review_state": {
         "human_reviewed": false,
@@ -4434,9 +4434,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "39",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:a1a8f755baa34eedb94dcfe0b9acbdc0ca1d597a7005d948e7bf227adb17a17b",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-39"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-39"
       }
     },
     {
@@ -4522,7 +4522,7 @@
       "notes": [],
       "work_passage_id": "opif:40",
       "html_path": "works/opif/index.html#p-40",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-40",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-40",
       "alignment_revision": "sha256:8c184ec9300614b9a9b9186c3ccbb041c8d2439be99413f355ce64b8e028a0cc",
       "review_state": {
         "human_reviewed": false,
@@ -4548,9 +4548,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "40",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:792934b03e96feead1bebdaf362d76f8a3f56febf94d18ef308d49146bca06bf",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-40"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-40"
       }
     },
     {
@@ -4675,7 +4675,7 @@
       "notes": [],
       "work_passage_id": "opif:41",
       "html_path": "works/opif/index.html#p-41",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-41",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-41",
       "alignment_revision": "sha256:49bdb243e0b1615a76ac5804adda29ff701229708c63629e293b58d24d0531f7",
       "review_state": {
         "human_reviewed": false,
@@ -4701,9 +4701,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "41",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:1b44878db0b759778e7ea5827fab9b3477790f094c603e8df0e4423c8a25c53e",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-41"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-41"
       }
     },
     {
@@ -4763,7 +4763,7 @@
       "notes": [],
       "work_passage_id": "opif:42",
       "html_path": "works/opif/index.html#p-42",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-42",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-42",
       "alignment_revision": "sha256:32ec6b2d0f5c8d69057d16d40e40cdadeb97c0f32a5df306f1fc563ecbfc6d5b",
       "review_state": {
         "human_reviewed": false,
@@ -4789,9 +4789,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "42",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:603f05dd58f1a6928f797abd21a25d21de4526df2a5e7be2b059500e3b8128eb",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-42"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-42"
       }
     },
     {
@@ -4879,7 +4879,7 @@
       ],
       "work_passage_id": "opif:43",
       "html_path": "works/opif/index.html#p-43",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-43",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-43",
       "alignment_revision": "sha256:147d7ac2e01e760d46f35845b2d5a2737920123a454a9cf00aa2a48a87466049",
       "review_state": {
         "human_reviewed": false,
@@ -4905,9 +4905,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "43",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:ee15e329c40f2171ff19d3eb8ce9e798759444e34af817374b46b8ef9baf2d83",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-43"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-43"
       }
     },
     {
@@ -4980,7 +4980,7 @@
       "notes": [],
       "work_passage_id": "opif:44",
       "html_path": "works/opif/index.html#p-44",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-44",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-44",
       "alignment_revision": "sha256:2353cd0dc93bfc3edb7e1d1fc20b939ad8408f3cfde386d95dbef1289090d6a7",
       "review_state": {
         "human_reviewed": false,
@@ -5006,9 +5006,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "44",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:4ecf330aa5c7bdafb259bfcde7609986fa38ff0e291e7231c4cfba918284eea7",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-44"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-44"
       }
     },
     {
@@ -5122,7 +5122,7 @@
       ],
       "work_passage_id": "opif:45",
       "html_path": "works/opif/index.html#p-45",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-45",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-45",
       "alignment_revision": "sha256:f0c94028090768af4d2144d45a1ee3512df87ee5819080deff7fde211e78193f",
       "review_state": {
         "human_reviewed": false,
@@ -5148,9 +5148,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "45",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:4ca4e87674dd6862d303c54cb59f949bbd6e54b5147914c9f77a1cf1183709fb",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-45"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-45"
       }
     },
     {
@@ -5236,7 +5236,7 @@
       "notes": [],
       "work_passage_id": "opif:46",
       "html_path": "works/opif/index.html#p-46",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-46",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-46",
       "alignment_revision": "sha256:11ca58884e374bad74faedd862aca1eaf8847936fefe0958c50bed8194b44b38",
       "review_state": {
         "human_reviewed": false,
@@ -5262,9 +5262,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "46",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:a5792a656c47baf7cf7dea2e720937df010e36c7121c8d56ea46ee2f93fd32dd",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-46"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-46"
       }
     },
     {
@@ -5365,7 +5365,7 @@
       ],
       "work_passage_id": "opif:47",
       "html_path": "works/opif/index.html#p-47",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-47",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-47",
       "alignment_revision": "sha256:0d4a0c407b1e0081f8cf65cb88d5d75daa59398f084dc19870f1ba18411fbead",
       "review_state": {
         "human_reviewed": false,
@@ -5391,9 +5391,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "47",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:e3251a3e6682fbf19e0db389ece439a9dd82a622c4bf3e9cce3f65707ff382dd",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-47"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-47"
       }
     },
     {
@@ -5507,7 +5507,7 @@
       ],
       "work_passage_id": "opif:48",
       "html_path": "works/opif/index.html#p-48",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-48",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-48",
       "alignment_revision": "sha256:476a3a4c7f610042f7aefc294131f6f27d574cafa379caadca022421f2712c2b",
       "review_state": {
         "human_reviewed": false,
@@ -5533,9 +5533,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "48",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:6fd8c53bdddba0ff78dd68ecaf0d401f2ba199d7f36ec2e53d217553b930922e",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-48"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-48"
       }
     },
     {
@@ -5675,7 +5675,7 @@
       ],
       "work_passage_id": "opif:49",
       "html_path": "works/opif/index.html#p-49",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-49",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-49",
       "alignment_revision": "sha256:a1c871956f772f0e0a35a252b467230e08f1d682f0292aab936685e00c329fcb",
       "review_state": {
         "human_reviewed": false,
@@ -5701,9 +5701,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "49",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:d7952d15acca65c1e096234f5682c3f9d8c2675e27613a12f7fd627da8a76070",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-49"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-49"
       }
     },
     {
@@ -5776,7 +5776,7 @@
       "notes": [],
       "work_passage_id": "opif:50",
       "html_path": "works/opif/index.html#p-50",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-50",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-50",
       "alignment_revision": "sha256:dbf96cc09f42a59003421575faeaed7c049bda22bc209ce5197ed7ec4aba5c13",
       "review_state": {
         "human_reviewed": false,
@@ -5802,9 +5802,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "50",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:8c8518420a810a0cdc9ab9e2b884e8d3f02c9fb823371943d2a77ffc46efdd6c",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-50"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-50"
       }
     },
     {
@@ -5892,7 +5892,7 @@
       ],
       "work_passage_id": "opif:51",
       "html_path": "works/opif/index.html#p-51",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-51",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-51",
       "alignment_revision": "sha256:9615457759a80b8f231c732071d8ca801989a1da9de392450455ce7f3a97c900",
       "review_state": {
         "human_reviewed": false,
@@ -5918,9 +5918,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "51",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:599918b60a04edd5897a7699c2dcc244b5e0f68d15052ffe9bf15314d1752159",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-51"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-51"
       }
     },
     {
@@ -6006,7 +6006,7 @@
       "notes": [],
       "work_passage_id": "opif:52",
       "html_path": "works/opif/index.html#p-52",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-52",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-52",
       "alignment_revision": "sha256:9164c4ca55e093a700f0b18000675b532a705480d7662796d74f40ca0507e067",
       "review_state": {
         "human_reviewed": false,
@@ -6032,9 +6032,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "52",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:b70a070912021e505c7fa8c0dce2a2abb0faaef38239eb36bc1b6e6ad59c9f05",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-52"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-52"
       }
     },
     {
@@ -6133,7 +6133,7 @@
       "notes": [],
       "work_passage_id": "opif:53",
       "html_path": "works/opif/index.html#p-53",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-53",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-53",
       "alignment_revision": "sha256:7ec0a57a775e83bf96cbdb43f853388237816ebacdd4d677760f06e7075b9da9",
       "review_state": {
         "human_reviewed": false,
@@ -6159,9 +6159,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "53",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:4a35ac8360ef85a81a4f959705f9eaaf0e91acd76e7892ffa7f44af58a033eaf",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-53"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-53"
       }
     },
     {
@@ -6275,7 +6275,7 @@
       ],
       "work_passage_id": "opif:54",
       "html_path": "works/opif/index.html#p-54",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-54",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-54",
       "alignment_revision": "sha256:b04edf926545c7e24887d0eeaaa97b25cd7b0f026ecb7996f3a45c006552b338",
       "review_state": {
         "human_reviewed": false,
@@ -6301,9 +6301,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "54",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:a4aeced851e349c5d202ea924d320a3a95493d0ecb109c1f9e4f5b23abc0ec7c",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-54"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-54"
       }
     },
     {
@@ -6402,7 +6402,7 @@
       "notes": [],
       "work_passage_id": "opif:55",
       "html_path": "works/opif/index.html#p-55",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-55",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-55",
       "alignment_revision": "sha256:c68daac50b0aec9becaa19da8e758495dc7708e94f0f6e75610c7355e18bb19d",
       "review_state": {
         "human_reviewed": false,
@@ -6428,9 +6428,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "55",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:625d9fb00b7d549a8328676c5e54292517388226ade9d14eb5d921e206fc3983",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-55"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-55"
       }
     },
     {
@@ -6503,7 +6503,7 @@
       "notes": [],
       "work_passage_id": "opif:56",
       "html_path": "works/opif/index.html#p-56",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-56",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-56",
       "alignment_revision": "sha256:cd55e1fe2b79a9f5bf14f8510228e877b39c4a2f4b8f8dfb3d34eb7de8f2f559",
       "review_state": {
         "human_reviewed": false,
@@ -6529,9 +6529,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "56",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:1e6b97610aa8b8527420cdbbb1c488dca07c98884281ae5b0a837d34ec0a1e5b",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-56"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-56"
       }
     },
     {
@@ -6617,7 +6617,7 @@
       "notes": [],
       "work_passage_id": "opif:57",
       "html_path": "works/opif/index.html#p-57",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-57",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-57",
       "alignment_revision": "sha256:8413da0be6403b3454fa258a39de2a7caa2d7bf79e3b26fff893083115e002b2",
       "review_state": {
         "human_reviewed": false,
@@ -6643,9 +6643,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "57",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:2c23e6538dd3ab677cfe1070c2ef437e27a66baf932d858787e8f377408b81ce",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-57"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-57"
       }
     },
     {
@@ -6759,7 +6759,7 @@
       ],
       "work_passage_id": "opif:58",
       "html_path": "works/opif/index.html#p-58",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-58",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-58",
       "alignment_revision": "sha256:25f4ed75e997098512361b4002937513c7fc2089758660b2ef1edbd2cb5791e9",
       "review_state": {
         "human_reviewed": false,
@@ -6785,9 +6785,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "58",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:58416d31b1e0d313e4131779296fc641fa7c4ac0e76f6387beda1128d4f96767",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-58"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-58"
       }
     },
     {
@@ -6886,7 +6886,7 @@
       "notes": [],
       "work_passage_id": "opif:59",
       "html_path": "works/opif/index.html#p-59",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-59",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-59",
       "alignment_revision": "sha256:f20dbfe565cab9d1c399d7cc60480957dd1ab462dfc820ecc8a906a375f6e029",
       "review_state": {
         "human_reviewed": false,
@@ -6912,9 +6912,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "59",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:ad43c21a6408480cb6c7c5dd5ec57d529299432811b5f9379c3c534b80622488",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-59"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-59"
       }
     },
     {
@@ -7000,7 +7000,7 @@
       "notes": [],
       "work_passage_id": "opif:60",
       "html_path": "works/opif/index.html#p-60",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-60",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-60",
       "alignment_revision": "sha256:19996243d3727fb5ac3973cfacce137ff61a03dd145e7d58d6b4888eef4382df",
       "review_state": {
         "human_reviewed": false,
@@ -7026,9 +7026,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "60",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:378be80d0420f226547aef992db37a7065cd978954f0db976a47b517de72fc3e",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-60"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-60"
       }
     },
     {
@@ -7101,7 +7101,7 @@
       "notes": [],
       "work_passage_id": "opif:61",
       "html_path": "works/opif/index.html#p-61",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-61",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-61",
       "alignment_revision": "sha256:11cbb66511dcec359a830a5423a5e277d4d11ac9777d0599cf2934f002a63439",
       "review_state": {
         "human_reviewed": false,
@@ -7127,9 +7127,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "61",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:a73af0d5b23c7d87f01a7d9657e6b04870e9d4f49cdf98dbb276377621fe02e6",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-61"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-61"
       }
     },
     {
@@ -7265,7 +7265,7 @@
       ],
       "work_passage_id": "opif:62",
       "html_path": "works/opif/index.html#p-62",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-62",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-62",
       "alignment_revision": "sha256:e543b7c47d1052a55c733b832156562a45eabc78cafd0a20fcdc861d83282178",
       "review_state": {
         "human_reviewed": false,
@@ -7291,9 +7291,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "62",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:2ba150dbe39a70d0d959485197cf40a18a2c1ad4f9d0d4976d120b2ea0777182",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-62"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-62"
       }
     },
     {
@@ -7418,7 +7418,7 @@
       "notes": [],
       "work_passage_id": "opif:63",
       "html_path": "works/opif/index.html#p-63",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-63",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-63",
       "alignment_revision": "sha256:0e30c759b7aaea2d9d0ad4dc31cc232f10f2adc120bfc32dc5705c3a6539850a",
       "review_state": {
         "human_reviewed": false,
@@ -7444,9 +7444,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "63",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:2f21803d9d489c59fb722d0c8cfb91788a561738488cdfdc02130693d0c725d3",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-63"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-63"
       }
     },
     {
@@ -7532,7 +7532,7 @@
       "notes": [],
       "work_passage_id": "opif:64",
       "html_path": "works/opif/index.html#p-64",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-64",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-64",
       "alignment_revision": "sha256:7c5e6fd047605cea214bd14f529bdf1090e84f0cc6a670914be3561ec7b1971a",
       "review_state": {
         "human_reviewed": false,
@@ -7558,9 +7558,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "64",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:7a3afc64f63867ad4fa76ef06b462daf43d4bc07b6782d1f50d456f8b1c59fc9",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-64"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-64"
       }
     },
     {
@@ -7648,7 +7648,7 @@
       ],
       "work_passage_id": "opif:65",
       "html_path": "works/opif/index.html#p-65",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-65",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-65",
       "alignment_revision": "sha256:858a6e2af885e1ed14061d05a806c5bb7ebe15007b2e2ffc071b653eb140c8d3",
       "review_state": {
         "human_reviewed": false,
@@ -7674,9 +7674,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "65",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:e67c6f35ea1433a87d9be96fa4732227293bd2fc9268eef0462b8e1986bb6743",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-65"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-65"
       }
     },
     {
@@ -7775,7 +7775,7 @@
       "notes": [],
       "work_passage_id": "opif:66",
       "html_path": "works/opif/index.html#p-66",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-66",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-66",
       "alignment_revision": "sha256:4f040278304124974a4a87e875aebabb377b273363b60645ab2c743ae414be22",
       "review_state": {
         "human_reviewed": false,
@@ -7801,9 +7801,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "66",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:a7faddc4988f221cfd4c016002d1a423eabe32a018ebc884e084bf21611894e7",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-66"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-66"
       }
     },
     {
@@ -7956,7 +7956,7 @@
       ],
       "work_passage_id": "opif:67",
       "html_path": "works/opif/index.html#p-67",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-67",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-67",
       "alignment_revision": "sha256:64fb6ada497f28f04d45747b48ca63b8f0eee4bd7f1ae75b6ebef132f077d4d3",
       "review_state": {
         "human_reviewed": false,
@@ -7982,9 +7982,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "67",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:27312a4898c88b97855fbab35ea1faf77e349cac054fb4b58107cde0af46e120",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-67"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-67"
       }
     },
     {
@@ -8070,7 +8070,7 @@
       "notes": [],
       "work_passage_id": "opif:68",
       "html_path": "works/opif/index.html#p-68",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-68",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-68",
       "alignment_revision": "sha256:b503b164f94315010639a8f3d86d4e349bfc52cabdd9a22a9b3240127da5f985",
       "review_state": {
         "human_reviewed": false,
@@ -8096,9 +8096,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "68",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:43a9b77cc317998bb1cd6c20cc01ef3a44cd5f3db8874b630ef9566d20841698",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-68"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-68"
       }
     },
     {
@@ -8241,7 +8241,7 @@
       ],
       "work_passage_id": "opif:69",
       "html_path": "works/opif/index.html#p-69",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-69",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-69",
       "alignment_revision": "sha256:8f913aff982b11b13d4753d7f1afeeb87d8f97c4e9ec419c347e558cc6b21f41",
       "review_state": {
         "human_reviewed": false,
@@ -8277,9 +8277,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "69",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:4cc68343a19ef777ff0b2868154f26d12a0dbaeace463ee05cf18208af0f03e5",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-69"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-69"
       }
     },
     {
@@ -8355,7 +8355,7 @@
       ],
       "work_passage_id": "opif:70",
       "html_path": "works/opif/index.html#p-70",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-70",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-70",
       "alignment_revision": "sha256:8632103b70c2226a432663c6a2d4253420de019402665e2579330bf352bf1d01",
       "review_state": {
         "human_reviewed": false,
@@ -8391,9 +8391,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "70",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:c900101472efe2ae07dfd7b90b80c2c034780579fa612f1d40a821bf8c1a2cc4",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-70"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-70"
       }
     },
     {
@@ -8498,7 +8498,7 @@
       ],
       "work_passage_id": "opif:71",
       "html_path": "works/opif/index.html#p-71",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-71",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-71",
       "alignment_revision": "sha256:a3712e7b86fe7c9bd04cc0108e35ea74848f43563e2b8e6e8bde07005148ea26",
       "review_state": {
         "human_reviewed": false,
@@ -8534,9 +8534,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "71",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:07d06de71f2a1871fff794c51dddaad9ef226624f59a6a095f239f6efb7906a8",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-71"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-71"
       }
     },
     {
@@ -8663,7 +8663,7 @@
       ],
       "work_passage_id": "opif:72",
       "html_path": "works/opif/index.html#p-72",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-72",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-72",
       "alignment_revision": "sha256:ac8835f4907712138d7940089393ae9827904aa2f721117acfa9f312a0ca1a36",
       "review_state": {
         "human_reviewed": false,
@@ -8689,9 +8689,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "72",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:4f25dde378afdbbcea2cb153a6d8affe2bd40e34af83ab37e4128212b6749c09",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-72"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-72"
       }
     },
     {
@@ -8803,7 +8803,7 @@
       "notes": [],
       "work_passage_id": "opif:73",
       "html_path": "works/opif/index.html#p-73",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-73",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-73",
       "alignment_revision": "sha256:8476c31c763072cc91fdb9ea0d6f83070b801312a66f68fc14566bd10a38a4dc",
       "review_state": {
         "human_reviewed": false,
@@ -8829,9 +8829,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "73",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:e09e188c7bfeada4e555067411c96e2b336e7cbcce94c3f15ea7e5b7c26239ff",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-73"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-73"
       }
     },
     {
@@ -8917,7 +8917,7 @@
       "notes": [],
       "work_passage_id": "opif:74",
       "html_path": "works/opif/index.html#p-74",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-74",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-74",
       "alignment_revision": "sha256:a3e39619e8485042fffb5f2195bc0e5e21fe4adc3651e70d0d67bc2959332c86",
       "review_state": {
         "human_reviewed": false,
@@ -8943,9 +8943,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "74",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:57b9479e9c895f4c837dca9098e33c5bb411c97711df87ae5896d4fe799d297e",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-74"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-74"
       }
     },
     {
@@ -9033,7 +9033,7 @@
       ],
       "work_passage_id": "opif:75",
       "html_path": "works/opif/index.html#p-75",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-75",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-75",
       "alignment_revision": "sha256:c5e9b26cbb74001ad7b13a50f13ad2909fbe13ed1e09355ce9a8747fbd25bcdd",
       "review_state": {
         "human_reviewed": false,
@@ -9059,9 +9059,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "75",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:6852221e359dc60809f6137fe3686cb681136c0fe3d9e47eb04550c933a8ea67",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-75"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-75"
       }
     },
     {
@@ -9136,7 +9136,7 @@
       ],
       "work_passage_id": "opif:76",
       "html_path": "works/opif/index.html#p-76",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-76",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-76",
       "alignment_revision": "sha256:81fd944ac66f64b6d1958cfcf682a2b0eafce23e1fd2a976c48ef6b1e1882049",
       "review_state": {
         "human_reviewed": false,
@@ -9162,9 +9162,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "76",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:f5f8f2b75c41aa11dfaf19558202d38f1028f3fa3bdb4a63138491a03c8ebcb1",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-76"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-76"
       }
     },
     {
@@ -9276,7 +9276,7 @@
       "notes": [],
       "work_passage_id": "opif:77",
       "html_path": "works/opif/index.html#p-77",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-77",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-77",
       "alignment_revision": "sha256:5398481271606aea02d3dd26baa8c253e9e219494183b43a504e68036e1c90d3",
       "review_state": {
         "human_reviewed": false,
@@ -9302,9 +9302,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "77",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:50ff752e215c87c20ba505c770f7a438a7ac2c21deb884fedc3ce60581a9d52a",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-77"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-77"
       }
     },
     {
@@ -9440,7 +9440,7 @@
       ],
       "work_passage_id": "opif:78",
       "html_path": "works/opif/index.html#p-78",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-78",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-78",
       "alignment_revision": "sha256:ae96a3871108e468a8e070c330c6be3fee2bb2a7654b62a53b3a67ad1e203ae1",
       "review_state": {
         "human_reviewed": false,
@@ -9466,9 +9466,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "78",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:81549698fd97e7dde10431b0cf19b4db4ff218e91fded82aba8e6eeed66b532f",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-78"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-78"
       }
     },
     {
@@ -9619,7 +9619,7 @@
       "notes": [],
       "work_passage_id": "opif:79",
       "html_path": "works/opif/index.html#p-79",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-79",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-79",
       "alignment_revision": "sha256:bb4b7fb88261c1302ff08373a8833d936ac34241bbba053a532824752e1dfd2f",
       "review_state": {
         "human_reviewed": false,
@@ -9645,9 +9645,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "79",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:c9d524892894ca6a8104811ddeecf884ac77ea8cdf7bb13a9890614b2e098303",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-79"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-79"
       }
     },
     {
@@ -9746,7 +9746,7 @@
       "notes": [],
       "work_passage_id": "opif:80",
       "html_path": "works/opif/index.html#p-80",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-80",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-80",
       "alignment_revision": "sha256:73b3343975ece02436703549b50f9f60dd628915c2babbd67e715fda954a81f3",
       "review_state": {
         "human_reviewed": false,
@@ -9772,9 +9772,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "80",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:f03f498e493af0b5f1d97e967c163b04e81192440238747dbaf86b3bc74cadd6",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-80"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-80"
       }
     },
     {
@@ -9873,7 +9873,7 @@
       "notes": [],
       "work_passage_id": "opif:81",
       "html_path": "works/opif/index.html#p-81",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-81",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-81",
       "alignment_revision": "sha256:dc8aaf5399578f843ab14752859427906e0f4a690b2805160f1ac97f9d96a19c",
       "review_state": {
         "human_reviewed": false,
@@ -9899,9 +9899,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "81",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:7c454f391cc8287df64ebd47e32572dc77de0fc42cb74752e342bbb71dd09ce0",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-81"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-81"
       }
     },
     {
@@ -10000,7 +10000,7 @@
       "notes": [],
       "work_passage_id": "opif:82",
       "html_path": "works/opif/index.html#p-82",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-82",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-82",
       "alignment_revision": "sha256:e781864d6fd2050280b8b57d2c0f7c0ee5890241371dec74e2dfa0008b34c00d",
       "review_state": {
         "human_reviewed": false,
@@ -10026,9 +10026,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "82",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:0bb2b23b1a1ecbb41931a37eb95162abd107215c1c213c8c3a3e825861ed6114",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-82"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-82"
       }
     },
     {
@@ -10116,7 +10116,7 @@
       ],
       "work_passage_id": "opif:83",
       "html_path": "works/opif/index.html#p-83",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-83",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-83",
       "alignment_revision": "sha256:33e8874e54a0e6778a112e989a8e150a1d5d000cca7044d50ce5ca007f68d817",
       "review_state": {
         "human_reviewed": false,
@@ -10142,9 +10142,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "83",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:436b900e23414e65749a2de795f24c51a2da897693fbbf5cc2984f117d1364bf",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-83"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-83"
       }
     },
     {
@@ -10230,7 +10230,7 @@
       "notes": [],
       "work_passage_id": "opif:84",
       "html_path": "works/opif/index.html#p-84",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-84",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-84",
       "alignment_revision": "sha256:3c25e5f98bee5030074df5778cfb395a6919d20337d92331fbede9433b9e16b6",
       "review_state": {
         "human_reviewed": false,
@@ -10256,9 +10256,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "84",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:6e8fd1dbbf87e9a31facc93d6e2c358e27d243dffbd25d8083cd38b44e59caab",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-84"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-84"
       }
     },
     {
@@ -10353,7 +10353,7 @@
       "notes": [],
       "work_passage_id": "opif:85",
       "html_path": "works/opif/index.html#p-85",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-85",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-85",
       "alignment_revision": "sha256:d677d79f58c71b18388f79d9aee3d936ccc145dde79cbe521f8bc395f5b01231",
       "review_state": {
         "human_reviewed": false,
@@ -10379,9 +10379,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "85",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:dd21dc924d78bc091cfd4929adecbe0fb8f81f0511c87d61e4a86d849131e62a",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-85"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-85"
       }
     },
     {
@@ -10476,7 +10476,7 @@
       "notes": [],
       "work_passage_id": "opif:86",
       "html_path": "works/opif/index.html#p-86",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-86",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-86",
       "alignment_revision": "sha256:1cc88cd8e450f80c166686c4fc5f593200f39c32da3063e2ab7f303c08dd71dc",
       "review_state": {
         "human_reviewed": false,
@@ -10502,9 +10502,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "86",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:5b5ab2eaa1c91865b9084ed1a88d9ff5e06bac99b7b35b8c5865db4e81be2495",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-86"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-86"
       }
     },
     {
@@ -10590,7 +10590,7 @@
       "notes": [],
       "work_passage_id": "opif:87",
       "html_path": "works/opif/index.html#p-87",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-87",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-87",
       "alignment_revision": "sha256:65029bcdb236afcb7df8433c70bd26cb2f1d02d2257992ae186cf5f195e63902",
       "review_state": {
         "human_reviewed": false,
@@ -10616,9 +10616,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "87",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:4d7d6824195c7d2a95b8205372bb5c961c02b4b3d2a8784da3a96799fdc9b1a8",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-87"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-87"
       }
     },
     {
@@ -10704,7 +10704,7 @@
       "notes": [],
       "work_passage_id": "opif:88",
       "html_path": "works/opif/index.html#p-88",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-88",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-88",
       "alignment_revision": "sha256:bfa092fef6b23d977db1a144b05667beb98ce818ccc8a49646b02d0f7b053721",
       "review_state": {
         "human_reviewed": false,
@@ -10730,9 +10730,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "88",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:ad12dfc1026b281175a7fc4e7932f118920177a4fa011d9ae248ba161f01b258",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-88"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-88"
       }
     },
     {
@@ -10794,7 +10794,7 @@
       ],
       "work_passage_id": "opif:89",
       "html_path": "works/opif/index.html#p-89",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-89",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-89",
       "alignment_revision": "sha256:53abaa1707fec3a1963b3e57c9c2e92995de10635422da985a003de4cebc53fb",
       "review_state": {
         "human_reviewed": false,
@@ -10820,9 +10820,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "89",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:b7d4a8ca1036e73f428a9b4f3169b4f5afdf8d85e6ba43052c483a9b9db721aa",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-89"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-89"
       }
     },
     {
@@ -10895,7 +10895,7 @@
       "notes": [],
       "work_passage_id": "opif:90",
       "html_path": "works/opif/index.html#p-90",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-90",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-90",
       "alignment_revision": "sha256:f7c7d679bfaa3cbcd46dc5879220c6252689330a3ae746378ce5eea0a5f9a58a",
       "review_state": {
         "human_reviewed": false,
@@ -10921,9 +10921,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "90",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:7a030029a367277b7e64f1d3208c244cbf0224cda69107c4770c333cbeffd666",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-90"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-90"
       }
     },
     {
@@ -11011,7 +11011,7 @@
       ],
       "work_passage_id": "opif:91",
       "html_path": "works/opif/index.html#p-91",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-91",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-91",
       "alignment_revision": "sha256:bde4822d2f0d4c07a2cee433ea2f56c6074fbbd8e5257ffb1a176bd3c6c34b3a",
       "review_state": {
         "human_reviewed": false,
@@ -11037,9 +11037,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "91",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:ba52e3bdc159f0ea53534c042494c59a594e259598a6df117628bfbbec345cfa",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-91"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-91"
       }
     },
     {
@@ -11138,7 +11138,7 @@
       "notes": [],
       "work_passage_id": "opif:92",
       "html_path": "works/opif/index.html#p-92",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-92",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-92",
       "alignment_revision": "sha256:225fd8df6ef07ddf24efabb233d8b65a89c7bbca98c8b0a25323191e0c54b390",
       "review_state": {
         "human_reviewed": false,
@@ -11164,9 +11164,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "92",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:37275d8ba282ed33462642e4cbfa0d1372a6dea5caa7633a1a4484efdf0346e4",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-92"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-92"
       }
     },
     {
@@ -11228,7 +11228,7 @@
       ],
       "work_passage_id": "opif:93",
       "html_path": "works/opif/index.html#p-93",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-93",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-93",
       "alignment_revision": "sha256:c95100b7101d9ac5fa455faf3c9320a22886ebf54b627eb5e94fffe0a848dda5",
       "review_state": {
         "human_reviewed": false,
@@ -11254,9 +11254,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "93",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:bc6add31fbc319c39c9b7b720353216807e3b101b81afa271d0e1db192da0b1f",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-93"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-93"
       }
     },
     {
@@ -11329,7 +11329,7 @@
       "notes": [],
       "work_passage_id": "opif:94",
       "html_path": "works/opif/index.html#p-94",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-94",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-94",
       "alignment_revision": "sha256:83582ab5bb13b962606258a64c712a1c3f52afb6f394a53a2200ab2d8e8bb9a5",
       "review_state": {
         "human_reviewed": false,
@@ -11355,9 +11355,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "94",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:77d74ea5df286a65d116b565ea77c0bfb4c07e4dc62c7f81f341ba056a03b427",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-94"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-94"
       }
     },
     {
@@ -11443,7 +11443,7 @@
       "notes": [],
       "work_passage_id": "opif:95",
       "html_path": "works/opif/index.html#p-95",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-95",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-95",
       "alignment_revision": "sha256:c29b1e7bc81b6488b5d371a11a24c887fbfc8acc2bf467a54f6d7921bed9c058",
       "review_state": {
         "human_reviewed": false,
@@ -11469,9 +11469,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "95",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:246f4bc6bdeaaa1e4365a9176f5727c89378b88a34b7b9a50c6920bd72dc26ac",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-95"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-95"
       }
     },
     {
@@ -11570,7 +11570,7 @@
       "notes": [],
       "work_passage_id": "opif:96",
       "html_path": "works/opif/index.html#p-96",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-96",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-96",
       "alignment_revision": "sha256:6e11e7c33737f3748e1f75cc6461d7e0929d8889fdaa25064bcb3be6a0498943",
       "review_state": {
         "human_reviewed": false,
@@ -11596,9 +11596,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "96",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:0e5d4fd9272c38965c25b3d74c3ab1b9998da1823dd660659a4e7e6c691b0423",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-96"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-96"
       }
     },
     {
@@ -11751,7 +11751,7 @@
       ],
       "work_passage_id": "opif:97",
       "html_path": "works/opif/index.html#p-97",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-97",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-97",
       "alignment_revision": "sha256:14806b6f3365a05d9400c95b0c1e292909ece5a54da39289b15df1af746da811",
       "review_state": {
         "human_reviewed": false,
@@ -11777,9 +11777,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "97",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:6f9f770cc2ac19c00643e10e2da83784d6c110d104de5064558442f5154c10d8",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-97"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-97"
       }
     },
     {
@@ -11865,7 +11865,7 @@
       "notes": [],
       "work_passage_id": "opif:98",
       "html_path": "works/opif/index.html#p-98",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-98",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-98",
       "alignment_revision": "sha256:5477480f26788ae349ede7a1fddd2b4dfc5a0837cc3d6ec10641a8381290b2ae",
       "review_state": {
         "human_reviewed": false,
@@ -11891,9 +11891,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "98",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:0b47bd0fbb0e46fad95741a4332e0f1cf3ceb620063a1a2e9de8f82458d1131d",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-98"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-98"
       }
     },
     {
@@ -12031,7 +12031,7 @@
       "notes": [],
       "work_passage_id": "opif:99",
       "html_path": "works/opif/index.html#p-99",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-99",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-99",
       "alignment_revision": "sha256:889c3310b0b44032853f63ed88d8768756326096c57d6bc08308cbc8f46a00fa",
       "review_state": {
         "human_reviewed": false,
@@ -12057,9 +12057,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "99",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:eddd878524b4edad75ccc0c78e1ecd73f6a8ad2906f401c0e9daf51a9fee67eb",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-99"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-99"
       }
     },
     {
@@ -12209,7 +12209,7 @@
       ],
       "work_passage_id": "opif:100",
       "html_path": "works/opif/index.html#p-100",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-100",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-100",
       "alignment_revision": "sha256:df603c0215903c23b33fc4a98457af069d435451e871337f92ae345c05131187",
       "review_state": {
         "human_reviewed": false,
@@ -12235,9 +12235,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "100",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:95c3f5833bc49ceda9c286a83cb6825407625404b3bf6c74d2053347e67686ee",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-100"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-100"
       }
     },
     {
@@ -12377,7 +12377,7 @@
       ],
       "work_passage_id": "opif:101",
       "html_path": "works/opif/index.html#p-101",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-101",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-101",
       "alignment_revision": "sha256:246f788f258027d0badc6383552ec2fd5f30ea477ff1bfa01330e52f037c9af1",
       "review_state": {
         "human_reviewed": false,
@@ -12403,9 +12403,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "101",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:cb8ffa9d8fed377bc4ca29027da79c276e9a85ebfb3eb831daba3328af3aede9",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-101"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-101"
       }
     },
     {
@@ -12504,7 +12504,7 @@
       "notes": [],
       "work_passage_id": "opif:102",
       "html_path": "works/opif/index.html#p-102",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-102",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-102",
       "alignment_revision": "sha256:4e1efa94a3de6e3e0fc6630954e42f5a1921788885b99cbb8ecf20e15faac211",
       "review_state": {
         "human_reviewed": false,
@@ -12530,9 +12530,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "102",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:49b4c954c4f1c2a8419b20c5fa37e1bd7d4796668e0434cd89787c1eed2fc852",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-102"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-102"
       }
     },
     {
@@ -12683,7 +12683,7 @@
       "notes": [],
       "work_passage_id": "opif:103",
       "html_path": "works/opif/index.html#p-103",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-103",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-103",
       "alignment_revision": "sha256:de19154b6f5a1ab9e4000554321cc4355764a23f89db971a2288629f1c3a89bf",
       "review_state": {
         "human_reviewed": false,
@@ -12709,9 +12709,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "103",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:27af4af9307c20076a3f0d5fcda6633864b6c781335a43eab0ca3f5e50431122",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-103"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-103"
       }
     },
     {
@@ -12877,7 +12877,7 @@
       ],
       "work_passage_id": "opif:104",
       "html_path": "works/opif/index.html#p-104",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-104",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-104",
       "alignment_revision": "sha256:7d0742fff2e1230c2f7fc8f7a77b3876981a44e3c49133ab370cb7ab15114b04",
       "review_state": {
         "human_reviewed": false,
@@ -12903,9 +12903,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "104",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:abec9a2e5828cb922afe5435da65230490af45147757b0e8e61d39fdcc2b85e9",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-104"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-104"
       }
     },
     {
@@ -13110,7 +13110,7 @@
       ],
       "work_passage_id": "opif:105",
       "html_path": "works/opif/index.html#p-105",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-105",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-105",
       "alignment_revision": "sha256:416ba5e3decda2fbddec2b8c301e1b48c33e95a23a795073471cd43b0d2e2fba",
       "review_state": {
         "human_reviewed": false,
@@ -13136,9 +13136,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "105",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:603a498cdf4d0140491b7871c0b218117356c9c3f953e96f1dd87b914d118969",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-105"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-105"
       }
     },
     {
@@ -13220,7 +13220,7 @@
       "notes": [],
       "work_passage_id": "opif:106",
       "html_path": "works/opif/index.html#p-106",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-106",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-106",
       "alignment_revision": "sha256:e0de142b992e2d32148eb76b07f5d901f83b7dd5f6a51b7b5774372455ac9769",
       "review_state": {
         "human_reviewed": false,
@@ -13246,9 +13246,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "106",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:c60eb5b1f2173431c13b736135b4aead71ecf625d38644e66560c4855cdd3cca",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-106"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-106"
       }
     },
     {
@@ -13349,7 +13349,7 @@
       ],
       "work_passage_id": "opif:107",
       "html_path": "works/opif/index.html#p-107",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-107",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-107",
       "alignment_revision": "sha256:8d213cf1eba2bb5a1d39384b6be2ecbdfb9c0897da421a71d0556f3f225e0abd",
       "review_state": {
         "human_reviewed": false,
@@ -13375,9 +13375,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "107",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:d1c92f205315f342e2b0ba2ab3925a782c70c28598a7438da4ca224bf057501e",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-107"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-107"
       }
     },
     {
@@ -13463,7 +13463,7 @@
       "notes": [],
       "work_passage_id": "opif:108",
       "html_path": "works/opif/index.html#p-108",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-108",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-108",
       "alignment_revision": "sha256:de93408190b0c0db61ed114ca64ca2567b133f230094153275e6d8da63f3d2b6",
       "review_state": {
         "human_reviewed": false,
@@ -13489,9 +13489,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "108",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:a95521b9e0940a80b4c3d5b219bf96595afbdc5878f5b624b9aec5c626a4bb29",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-108"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-108"
       }
     },
     {
@@ -13605,7 +13605,7 @@
       ],
       "work_passage_id": "opif:109",
       "html_path": "works/opif/index.html#p-109",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-109",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-109",
       "alignment_revision": "sha256:959eb61c540c3ef1e71c94c43b74a413b95546cb8d65e99fd075aacf54fc6990",
       "review_state": {
         "human_reviewed": false,
@@ -13631,9 +13631,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "109",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:d2dde9b92cec340237b3092d42736e8c9d1a8512d76655cc510db4626a3271a3",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-109"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-109"
       }
     },
     {
@@ -13728,7 +13728,7 @@
       "notes": [],
       "work_passage_id": "opif:110",
       "html_path": "works/opif/index.html#p-110",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-110",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-110",
       "alignment_revision": "sha256:172dc1cdd691fbdc2a4aeb867fa53652b1256069467a042c2ad60c3fdd54848c",
       "review_state": {
         "human_reviewed": false,
@@ -13754,9 +13754,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "110",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:a30e2fa873bd44eb8105c0a8dd2d1fe20d32be36fe844782e10c792b84179f9b",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-110"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-110"
       }
     },
     {
@@ -13842,7 +13842,7 @@
       "notes": [],
       "work_passage_id": "opif:111",
       "html_path": "works/opif/index.html#p-111",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-111",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-111",
       "alignment_revision": "sha256:b72aee85e10a0f13909d1158ad146a6c3025509e79605434e4ae11a3d64a77d1",
       "review_state": {
         "human_reviewed": false,
@@ -13868,9 +13868,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "111",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:2cf0f01ff11dd513d71614ebc89a5736d5f3237104bc1c7758c35cfc041aa897",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-111"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-111"
       }
     },
     {
@@ -13932,7 +13932,7 @@
       ],
       "work_passage_id": "opif:112",
       "html_path": "works/opif/index.html#p-112",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-112",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-112",
       "alignment_revision": "sha256:4501c1f6460197ba575c0f1a65779f8fae5d2f8dcb56724e15e9d471a340abff",
       "review_state": {
         "human_reviewed": false,
@@ -13958,9 +13958,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "112",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:205395883811bb7f75770252dcfd06b5d2e22b62a614aa6e031c0495b6a1706e",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-112"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-112"
       }
     },
     {
@@ -14072,7 +14072,7 @@
       "notes": [],
       "work_passage_id": "opif:113",
       "html_path": "works/opif/index.html#p-113",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-113",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-113",
       "alignment_revision": "sha256:a67a8f0b23f15b0ec740829dc7a43cddfbedba24c90eb6b1ddae50c97e10cfe6",
       "review_state": {
         "human_reviewed": false,
@@ -14098,9 +14098,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "113",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:6cf738b06c21912b7147ae77fdbda947c8600e5404017f1dc09710f83560f051",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-113"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-113"
       }
     },
     {
@@ -14199,7 +14199,7 @@
       "notes": [],
       "work_passage_id": "opif:114",
       "html_path": "works/opif/index.html#p-114",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-114",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-114",
       "alignment_revision": "sha256:8e1aadee51c5fd738d40d56ac801b593fd484a2d417c950699fe0059716b2e82",
       "review_state": {
         "human_reviewed": false,
@@ -14225,9 +14225,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "114",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:34b4dc40e14038a1ddea467e52c9c2452d497e78b504fc984bdc23cd7fa5d349",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-114"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-114"
       }
     },
     {
@@ -14313,7 +14313,7 @@
       "notes": [],
       "work_passage_id": "opif:115",
       "html_path": "works/opif/index.html#p-115",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-115",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-115",
       "alignment_revision": "sha256:94cab8525cde79610c2acae04460f5102a1de09605f9111ff5d24fe7dd03cf51",
       "review_state": {
         "human_reviewed": false,
@@ -14339,9 +14339,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "115",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:2fbdd82bff53dee55e7d8376c3fa0449bfb92daec054d38c92c89a2f5cefbd6c",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-115"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-115"
       }
     },
     {
@@ -14416,7 +14416,7 @@
       ],
       "work_passage_id": "opif:116",
       "html_path": "works/opif/index.html#p-116",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-116",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-116",
       "alignment_revision": "sha256:104b2b1a9be8047cbde2790c0f2104f6c22a86429d12bb53cc54d0c279864333",
       "review_state": {
         "human_reviewed": false,
@@ -14442,9 +14442,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "116",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:3908e0318300455adec4a049c4f586596790740e470d8f4eea25b2d46ab112e7",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-116"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-116"
       }
     },
     {
@@ -14519,7 +14519,7 @@
       ],
       "work_passage_id": "opif:117",
       "html_path": "works/opif/index.html#p-117",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-117",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-117",
       "alignment_revision": "sha256:65d9c392d69c24e05f16d1063cc7fcee643faf81ed69d00d2e9e9cc0f23ee552",
       "review_state": {
         "human_reviewed": false,
@@ -14545,9 +14545,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "117",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:8814f0e04a9a4fbfb337458ca0d40ee8d832126f0e1e86df10681cf5b864b32c",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-117"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-117"
       }
     },
     {
@@ -14620,7 +14620,7 @@
       "notes": [],
       "work_passage_id": "opif:118",
       "html_path": "works/opif/index.html#p-118",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-118",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-118",
       "alignment_revision": "sha256:719885e44fa7d4b3d72c649f260eecad4ce32d9c2cc0d14cbf5d3b668c2a8f99",
       "review_state": {
         "human_reviewed": false,
@@ -14646,9 +14646,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "118",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:9a206f73d232ba403c857fde75a6fe6febaf636c4cfd32c6a73f1cff3e00670b",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-118"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-118"
       }
     },
     {
@@ -14734,7 +14734,7 @@
       "notes": [],
       "work_passage_id": "opif:119",
       "html_path": "works/opif/index.html#p-119",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-119",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-119",
       "alignment_revision": "sha256:3a505a1768d95c04042b3aafe5784bc72ffddce0f106ef4c6c211bd624fa6d4d",
       "review_state": {
         "human_reviewed": false,
@@ -14760,9 +14760,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "119",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:b921c00d1f8eeae4bd3f463c707ad3a708bf493cab990b93979390eee8cf0a46",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-119"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-119"
       }
     },
     {
@@ -14835,7 +14835,7 @@
       "notes": [],
       "work_passage_id": "opif:120",
       "html_path": "works/opif/index.html#p-120",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-120",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-120",
       "alignment_revision": "sha256:8fd982a29577d90096756822f48b8cad98f6a88bb5023a74f28cd1d5e5e219f1",
       "review_state": {
         "human_reviewed": false,
@@ -14861,9 +14861,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "120",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:0b061ec89b5b023993284d75ddd44cf4d2897721931323c2423eb91323a46359",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-120"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-120"
       }
     },
     {
@@ -14925,7 +14925,7 @@
       ],
       "work_passage_id": "opif:121",
       "html_path": "works/opif/index.html#p-121",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-121",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-121",
       "alignment_revision": "sha256:13765575734a99fb36204db80f4385c891b8a2aa4b0763e9318617084f8deffa",
       "review_state": {
         "human_reviewed": false,
@@ -14951,9 +14951,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "121",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:788d781c7c2d18dbd7d9cae17374f19d3de0cc9190d60c873f95ae2c522da5c3",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-121"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-121"
       }
     },
     {
@@ -15026,7 +15026,7 @@
       "notes": [],
       "work_passage_id": "opif:122",
       "html_path": "works/opif/index.html#p-122",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-122",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-122",
       "alignment_revision": "sha256:3449ad8ed7449f76c79428e177814c812b8cc2a337625773bdc45879aa17d611",
       "review_state": {
         "human_reviewed": false,
@@ -15052,9 +15052,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "122",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:26b18c88b9106252504c5e62208f7646b74702f7859d0eea2775a0f732e17db4",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-122"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-122"
       }
     },
     {
@@ -15149,7 +15149,7 @@
       "notes": [],
       "work_passage_id": "opif:123",
       "html_path": "works/opif/index.html#p-123",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-123",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-123",
       "alignment_revision": "sha256:1db47090f4809b42f76362d26705400c8e5115c4e958421cac04aa11604013c8",
       "review_state": {
         "human_reviewed": false,
@@ -15175,9 +15175,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "123",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:30f135389048441219290d548fe93263f550b7e21b02799cf8f559453617664a",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-123"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-123"
       }
     },
     {
@@ -15265,7 +15265,7 @@
       ],
       "work_passage_id": "opif:124",
       "html_path": "works/opif/index.html#p-124",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-124",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-124",
       "alignment_revision": "sha256:f901beaec56844d2e5c1f018c589ef2fca0e772108ae86dd6157ddf42d78009e",
       "review_state": {
         "human_reviewed": false,
@@ -15291,9 +15291,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "124",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:d9f83677e57f2e16ebffb36a1727896be91cec862eac43c7a97a430b1a43d1c5",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-124"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-124"
       }
     },
     {
@@ -15355,7 +15355,7 @@
       ],
       "work_passage_id": "opif:125",
       "html_path": "works/opif/index.html#p-125",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-125",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-125",
       "alignment_revision": "sha256:e3c553691155ef66e25c480ae825c553f054878101623d163a03057463424365",
       "review_state": {
         "human_reviewed": false,
@@ -15381,9 +15381,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "125",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:fc1cc1e8e48cc951aeb6012f31645643d8ebc6329fcf412fa2d2990e335213f7",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-125"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-125"
       }
     },
     {
@@ -15484,7 +15484,7 @@
       ],
       "work_passage_id": "opif:126",
       "html_path": "works/opif/index.html#p-126",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-126",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-126",
       "alignment_revision": "sha256:f0af47f3e8dc4ec35ed37b26acfddf28c630993bbb80e451a5b171be5eb997c4",
       "review_state": {
         "human_reviewed": false,
@@ -15510,9 +15510,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "126",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:83ed69ce9f2e67360c921cfe260705f01474d4086f43a187dd447a976b7b8c53",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-126"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-126"
       }
     },
     {
@@ -15574,7 +15574,7 @@
       ],
       "work_passage_id": "opif:127",
       "html_path": "works/opif/index.html#p-127",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-127",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-127",
       "alignment_revision": "sha256:2d0271b863fe0eaa0b68560c395bff82943e9ef0b2625835aee58f560704119a",
       "review_state": {
         "human_reviewed": false,
@@ -15600,9 +15600,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "127",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:2d36d28315b98b1c0064a5725a476861d3d8d1726ae9c370363db8d2da920e27",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-127"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-127"
       }
     },
     {
@@ -15729,7 +15729,7 @@
       ],
       "work_passage_id": "opif:128",
       "html_path": "works/opif/index.html#p-128",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-128",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-128",
       "alignment_revision": "sha256:3df62744680659f7595038b9b78aa17e22cf358d4b4ee473862b816c3d510708",
       "review_state": {
         "human_reviewed": false,
@@ -15755,9 +15755,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "128",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:c9d559685c2ab7f9aeac3b99f4294e2d8c244e4fc3241f6600c3f5adc1c894fe",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-128"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-128"
       }
     },
     {
@@ -15858,7 +15858,7 @@
       ],
       "work_passage_id": "opif:129",
       "html_path": "works/opif/index.html#p-129",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-129",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-129",
       "alignment_revision": "sha256:211dc240b2801d429bff37846d317a6ce8c56f20a9dfdc31062db394b432cc8f",
       "review_state": {
         "human_reviewed": false,
@@ -15884,9 +15884,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "129",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:e7a2e2253de30733c4eabbfdb8e3d3028f405a6c54a94a077c1e9066a7cbc065",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-129"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-129"
       }
     },
     {
@@ -15981,7 +15981,7 @@
       "notes": [],
       "work_passage_id": "opif:130",
       "html_path": "works/opif/index.html#p-130",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-130",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-130",
       "alignment_revision": "sha256:70489f006499f564cf0e665edd8847932ef77d174764120cff243787d0ac235b",
       "review_state": {
         "human_reviewed": false,
@@ -16007,9 +16007,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "130",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:19dd652976e9635149b2af21ee31c6b9d03a27ce80eca1bfd721331844f8a948",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-130"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-130"
       }
     },
     {
@@ -16136,7 +16136,7 @@
       ],
       "work_passage_id": "opif:131",
       "html_path": "works/opif/index.html#p-131",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-131",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-131",
       "alignment_revision": "sha256:ee7f89342dc6322947e28f3a55a0ad67ec9f092c70e59700148bee929ea349e0",
       "review_state": {
         "human_reviewed": false,
@@ -16162,9 +16162,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "131",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:5d04224bb548bd1d7dcde7b0971452eaed3cf8a2e27072e802457de05da5edcb",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-131"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-131"
       }
     },
     {
@@ -16263,7 +16263,7 @@
       "notes": [],
       "work_passage_id": "opif:132",
       "html_path": "works/opif/index.html#p-132",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-132",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-132",
       "alignment_revision": "sha256:05d3108241fae9352b05cd90e442cd025cfb14f900ad9b8fd034f32297722933",
       "review_state": {
         "human_reviewed": false,
@@ -16289,9 +16289,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "132",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:65c6d4ed546f972769e42420b1bf8c784db6dd48fbf846048abc3ccffdd7e3d6",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-132"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-132"
       }
     },
     {
@@ -16405,7 +16405,7 @@
       ],
       "work_passage_id": "opif:133",
       "html_path": "works/opif/index.html#p-133",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-133",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-133",
       "alignment_revision": "sha256:b79766c6a734d79f31a3eddf2c5e41784f68e7475e165bb2c4099e74d242dca0",
       "review_state": {
         "human_reviewed": false,
@@ -16431,9 +16431,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "133",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:a0ca052530e024f289c7961c11206fbb6c68dc40a060185552dd1cfd4e2bb86b",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-133"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-133"
       }
     },
     {
@@ -16521,7 +16521,7 @@
       ],
       "work_passage_id": "opif:134",
       "html_path": "works/opif/index.html#p-134",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-134",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-134",
       "alignment_revision": "sha256:467eb12b046a2a1ca42bb2b20a1b883684ba4194b69052fe4ddb25accfeff3fd",
       "review_state": {
         "human_reviewed": false,
@@ -16547,9 +16547,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "134",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:70408d6c9878b67e0ad7de717975a071fcc47b4339d1c0ee776859ad9052caa8",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-134"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-134"
       }
     },
     {
@@ -16650,7 +16650,7 @@
       ],
       "work_passage_id": "opif:135",
       "html_path": "works/opif/index.html#p-135",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-135",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-135",
       "alignment_revision": "sha256:abc1732c6ac3d2d32904d9ca130292e422e29e08f2e2bfbf908596c461cd5cdd",
       "review_state": {
         "human_reviewed": false,
@@ -16676,9 +16676,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "135",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:605638066a9c75e1fdc9b5a85d17e636a29904fcbf3179139e289e6c4633dd79",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-135"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-135"
       }
     },
     {
@@ -16751,7 +16751,7 @@
       "notes": [],
       "work_passage_id": "opif:136",
       "html_path": "works/opif/index.html#p-136",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-136",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-136",
       "alignment_revision": "sha256:c1c4cf3d55a729d5ec926efb71bc1206d887e6fbbcd32af594406d6aa2cc2902",
       "review_state": {
         "human_reviewed": false,
@@ -16777,9 +16777,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "136",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:7a5d1f93e1865d5381cf22fe2cbf8c9d9986e7283ee33db376e65f3365034d16",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-136"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-136"
       }
     },
     {
@@ -16852,7 +16852,7 @@
       "notes": [],
       "work_passage_id": "opif:137",
       "html_path": "works/opif/index.html#p-137",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-137",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-137",
       "alignment_revision": "sha256:736cb436308489d28e4aeee6432dde38d4b46a941daf413900e31d363f221392",
       "review_state": {
         "human_reviewed": false,
@@ -16878,9 +16878,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "137",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:5a7bb64650ad159b062524d7d9401f55dc997622fc55f35f948aea5a066ced8f",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-137"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-137"
       }
     },
     {
@@ -16953,7 +16953,7 @@
       "notes": [],
       "work_passage_id": "opif:138",
       "html_path": "works/opif/index.html#p-138",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-138",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-138",
       "alignment_revision": "sha256:187b1f811fe85dd4ae3861ba3182142be7b252ed504bc14744e59a773e333c06",
       "review_state": {
         "human_reviewed": false,
@@ -16979,9 +16979,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "138",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:4429c35a645936868efe1c41a367cfaa0e726214e0ac308ed705ba759cb8f888",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-138"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-138"
       }
     },
     {
@@ -17095,7 +17095,7 @@
       ],
       "work_passage_id": "opif:139",
       "html_path": "works/opif/index.html#p-139",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-139",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-139",
       "alignment_revision": "sha256:48392e7cd15ba87f3abeffd7f5b4e2421e28b0114fee60cad02176eb412e1a20",
       "review_state": {
         "human_reviewed": false,
@@ -17121,9 +17121,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "139",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:862b73c8e7468443501bd13b41c60ef1a872f4637044906a11f60c24dd260d95",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-139"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-139"
       }
     },
     {
@@ -17209,7 +17209,7 @@
       "notes": [],
       "work_passage_id": "opif:140",
       "html_path": "works/opif/index.html#p-140",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-140",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-140",
       "alignment_revision": "sha256:402c1f87bd78d1c5b8a0071823108dbe6faeec6de6171aa51e196bcbdcbf621f",
       "review_state": {
         "human_reviewed": false,
@@ -17235,9 +17235,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "140",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:72b633e70ea82ee3016af3bbfe7caf42c051f7a81e8d2e5296da3243288abf41",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-140"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-140"
       }
     },
     {
@@ -17364,7 +17364,7 @@
       ],
       "work_passage_id": "opif:141",
       "html_path": "works/opif/index.html#p-141",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-141",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-141",
       "alignment_revision": "sha256:2e5959d68d05847a2dc3a4c455f79d60f104e03223e71f16a6d20ed2de3d141b",
       "review_state": {
         "human_reviewed": false,
@@ -17390,9 +17390,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "141",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:9b6d8a35ac114aad38e8a69a512d3725cf9063b87631351dcc5cdc93f066f257",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-141"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-141"
       }
     },
     {
@@ -17478,7 +17478,7 @@
       "notes": [],
       "work_passage_id": "opif:142",
       "html_path": "works/opif/index.html#p-142",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-142",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-142",
       "alignment_revision": "sha256:423c49632ac3d93363d1d95057d0a321460224eab5f1c20e80cac6b30a4b236e",
       "review_state": {
         "human_reviewed": false,
@@ -17504,9 +17504,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "142",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:c51a9d14e767ea48e4af1caf439f05dc7ca0786a72f89ed2e98aa514f953187c",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-142"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-142"
       }
     },
     {
@@ -17594,7 +17594,7 @@
       ],
       "work_passage_id": "opif:143",
       "html_path": "works/opif/index.html#p-143",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-143",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-143",
       "alignment_revision": "sha256:766d76d73580151b874c9b37a291f60f6d149fa98db392cee0b4442ce03c2b41",
       "review_state": {
         "human_reviewed": false,
@@ -17620,9 +17620,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "143",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:568547013d03d01b0e8aceaf18161fe77c8cb9dae2e90b15edca1b38629b560b",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-143"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-143"
       }
     },
     {
@@ -17708,7 +17708,7 @@
       "notes": [],
       "work_passage_id": "opif:144",
       "html_path": "works/opif/index.html#p-144",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-144",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-144",
       "alignment_revision": "sha256:871464e1fa5fdb201068b21bd8662703ee67ad414c6dfbb44d7fe0223eb36ace",
       "review_state": {
         "human_reviewed": false,
@@ -17734,9 +17734,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "144",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:72dcfd7e7ffd29cc3d475aa4e9e8f0aa656e925cb8d5d6fce1af47a5268f766f",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-144"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-144"
       }
     },
     {
@@ -17796,7 +17796,7 @@
       "notes": [],
       "work_passage_id": "opif:145",
       "html_path": "works/opif/index.html#p-145",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-145",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-145",
       "alignment_revision": "sha256:21859e7fedbdd51713ccbb7e93d8541363a227992f4fc6ba89707a209beb1b3c",
       "review_state": {
         "human_reviewed": false,
@@ -17822,9 +17822,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "145",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:bf5fdc3d90cd25311ef1113fc456fa8bc374829737e91a1647a3de028daa8fd3",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-145"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-145"
       }
     },
     {
@@ -17910,7 +17910,7 @@
       "notes": [],
       "work_passage_id": "opif:146",
       "html_path": "works/opif/index.html#p-146",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-146",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-146",
       "alignment_revision": "sha256:5cab7d255730e81866145c4fc7f8ba35e46666a692afdc0e716ebebfaf8c64dc",
       "review_state": {
         "human_reviewed": false,
@@ -17936,9 +17936,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "146",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:be6c8dcec1b17ccd16376e46e4f81d981f95581ff730327814bb6b5b5a1ef147",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-146"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-146"
       }
     },
     {
@@ -18037,7 +18037,7 @@
       "notes": [],
       "work_passage_id": "opif:147",
       "html_path": "works/opif/index.html#p-147",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-147",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-147",
       "alignment_revision": "sha256:e0139779466a8c208c1e3f64c109f83e3aa27cca9dddb9c9e711d1cbc0ab17f2",
       "review_state": {
         "human_reviewed": false,
@@ -18063,9 +18063,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "147",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:77a335305613a4dd340b948f575b1efa8779f590e257244da7e920cb592d829c",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-147"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-147"
       }
     },
     {
@@ -18153,7 +18153,7 @@
       ],
       "work_passage_id": "opif:148",
       "html_path": "works/opif/index.html#p-148",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-148",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-148",
       "alignment_revision": "sha256:a307d8c81819ae2ed1a87964c12916a4caa76aaba61dbba0ddfe82820f67b4f6",
       "review_state": {
         "human_reviewed": false,
@@ -18179,9 +18179,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "148",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:24e7b518fa50db72f5000494b8ff27acbf357e861219d86edc1d249ec76bf7dd",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-148"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-148"
       }
     },
     {
@@ -18254,7 +18254,7 @@
       "notes": [],
       "work_passage_id": "opif:149",
       "html_path": "works/opif/index.html#p-149",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-149",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-149",
       "alignment_revision": "sha256:b52e918ae3456a8b3d3a810f385f3d68671fbb4c307004a23463ee9395c8fe39",
       "review_state": {
         "human_reviewed": false,
@@ -18280,9 +18280,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "149",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:13e59ac43f1705e6a6d5a1e410e2977ac26a88827beae7977b0db0ec676b3ffa",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-149"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-149"
       }
     },
     {
@@ -18368,7 +18368,7 @@
       "notes": [],
       "work_passage_id": "opif:150",
       "html_path": "works/opif/index.html#p-150",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-150",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-150",
       "alignment_revision": "sha256:8cc8bd0e021beaa06646c31986d2c9c0ae790069cfe665e93cfacb9f3591cab8",
       "review_state": {
         "human_reviewed": false,
@@ -18394,9 +18394,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "150",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:bbac27d99f8813e5d3b83c965da3fe2302cb749d23e97834fabd0c70c5f2b738",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-150"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-150"
       }
     },
     {
@@ -18484,7 +18484,7 @@
       ],
       "work_passage_id": "opif:151",
       "html_path": "works/opif/index.html#p-151",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-151",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-151",
       "alignment_revision": "sha256:4eaef15ecd5351480f1da6b139038d1b5e491d6557725ce6813761995f058759",
       "review_state": {
         "human_reviewed": false,
@@ -18510,9 +18510,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "151",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:9de902be189d9b8568e84428426b17dd910f9ee19fb3b92d8b3fa84596ff222b",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-151"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-151"
       }
     },
     {
@@ -18598,7 +18598,7 @@
       "notes": [],
       "work_passage_id": "opif:152",
       "html_path": "works/opif/index.html#p-152",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-152",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-152",
       "alignment_revision": "sha256:89966c911ed270db1ba73d3a808dbb46eeae17be117fc054118da3206242f666",
       "review_state": {
         "human_reviewed": false,
@@ -18624,9 +18624,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "152",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:fcd2f68cf7cb7450cc0ba598eda3fbd9b68c1bb069f2212234fc720aa3c2197f",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-152"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-152"
       }
     },
     {
@@ -18712,7 +18712,7 @@
       "notes": [],
       "work_passage_id": "opif:153",
       "html_path": "works/opif/index.html#p-153",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-153",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-153",
       "alignment_revision": "sha256:b74745aafd13b0014e14e831811ab5ad351d207e8667386bc3edb7f9baeadbee",
       "review_state": {
         "human_reviewed": false,
@@ -18738,9 +18738,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "153",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:a25a279a1fae5165d6e14a2ffb6912adbdb6437e01e7ba29c5731d8681df7082",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-153"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-153"
       }
     },
     {
@@ -18841,7 +18841,7 @@
       ],
       "work_passage_id": "opif:154",
       "html_path": "works/opif/index.html#p-154",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-154",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-154",
       "alignment_revision": "sha256:d9dbcda7551e5ac098e6621c835492078f9470f77abe491b3f6777e7d6b728d1",
       "review_state": {
         "human_reviewed": false,
@@ -18867,9 +18867,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "154",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:6346eef38be6e58dcf050a96af020f07bc7d6a8378bf0f12e66e1625eee64d1f",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-154"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-154"
       }
     },
     {
@@ -18955,7 +18955,7 @@
       "notes": [],
       "work_passage_id": "opif:155",
       "html_path": "works/opif/index.html#p-155",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-155",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-155",
       "alignment_revision": "sha256:db9dacdb2994b280af0e3e3979d43794b1f5606dfc55979d4d5a59c11e6f60b7",
       "review_state": {
         "human_reviewed": false,
@@ -18981,9 +18981,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "155",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:3b0114210fcb93fbc01c600a0232186e9cbd06c6f2f3dc552b27ecf89b782447",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-155"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-155"
       }
     },
     {
@@ -19093,7 +19093,7 @@
       ],
       "work_passage_id": "opif:156",
       "html_path": "works/opif/index.html#p-156",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-156",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-156",
       "alignment_revision": "sha256:42e8afc23b65a19e67c044bb2320fde367a16cc26c350271d3cf48e892279ac8",
       "review_state": {
         "human_reviewed": false,
@@ -19119,9 +19119,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "156",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:88fb337bacd8f60f69324fba197449fb7e37af4a25bece56b95023faa6a58ece",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-156"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-156"
       }
     },
     {
@@ -19220,7 +19220,7 @@
       "notes": [],
       "work_passage_id": "opif:157",
       "html_path": "works/opif/index.html#p-157",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-157",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-157",
       "alignment_revision": "sha256:babe2b9e82937fa0df5c77be83ba049986524aeed3fb18b0b25a2cc28a68e1d7",
       "review_state": {
         "human_reviewed": false,
@@ -19246,9 +19246,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "157",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:4313df12abc0c96530c7759596a48fb95ce50f15f7d56125357763b1b736ec2d",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-157"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-157"
       }
     },
     {
@@ -19400,7 +19400,7 @@
       ],
       "work_passage_id": "opif:158",
       "html_path": "works/opif/index.html#p-158",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-158",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-158",
       "alignment_revision": "sha256:0b15476ec98d04ca57159d34994e2acd0efbc2a08bf617f245ecf07dd87f44e0",
       "review_state": {
         "human_reviewed": false,
@@ -19426,9 +19426,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "158",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:cf4199b1daf7f9f3aac156610b5bc8a5b133f4954c08d2d5dcb0d770568a4307",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-158"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-158"
       }
     },
     {
@@ -19501,7 +19501,7 @@
       "notes": [],
       "work_passage_id": "opif:159",
       "html_path": "works/opif/index.html#p-159",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-159",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-159",
       "alignment_revision": "sha256:802f37938293364bb898056bc4aebe0bd9d3048680c384213795918030b92151",
       "review_state": {
         "human_reviewed": false,
@@ -19527,9 +19527,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "159",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:30ddcb3ad42450560d8855549cda8d66d558a96bc0e778acd84f2191c4773d43",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-159"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-159"
       }
     },
     {
@@ -19589,7 +19589,7 @@
       "notes": [],
       "work_passage_id": "opif:160",
       "html_path": "works/opif/index.html#p-160",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-160",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-160",
       "alignment_revision": "sha256:f013d7b84094c7429ec0096cf9c0135e771c9340973e1b0cd9fe95ec84a93a6d",
       "review_state": {
         "human_reviewed": false,
@@ -19615,9 +19615,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "160",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:6e7edce2b96d07c04490b73455a8c0aac660f2235c9fd2c7e332bdb829f46997",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-160"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-160"
       }
     },
     {
@@ -19716,7 +19716,7 @@
       "notes": [],
       "work_passage_id": "opif:161",
       "html_path": "works/opif/index.html#p-161",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-161",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-161",
       "alignment_revision": "sha256:226c77e3db274e55cd397e49a74d3d1fe01c95594bb72c3ff28ce7032527696d",
       "review_state": {
         "human_reviewed": false,
@@ -19742,9 +19742,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "161",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:ec1d92ff97d9312a9fe8a7946f7e199627cfc991939a8bbf9c9adc0b6f15b8a8",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-161"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-161"
       }
     },
     {
@@ -19817,7 +19817,7 @@
       "notes": [],
       "work_passage_id": "opif:162",
       "html_path": "works/opif/index.html#p-162",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-162",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-162",
       "alignment_revision": "sha256:013cbb5eba6e7f27ba08012d97d996cdd248e1a6d914aea3d93e4bd81ca8af23",
       "review_state": {
         "human_reviewed": false,
@@ -19843,9 +19843,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "162",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:c80be2f3a9ffea2bc55e7ee115ea84bfef9f4f2b452823c5ac3b441c258c0f68",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-162"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-162"
       }
     },
     {
@@ -19920,7 +19920,7 @@
       ],
       "work_passage_id": "opif:163",
       "html_path": "works/opif/index.html#p-163",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-163",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-163",
       "alignment_revision": "sha256:08bf48ca2ffaab97160599893d329952cf7ccafe97993f30a26794bd067c133b",
       "review_state": {
         "human_reviewed": false,
@@ -19946,9 +19946,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "163",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:b64fe8d1eff0cee4a9d50c896173061a9354d86cf01d1ce1a60df38217b800bb",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-163"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-163"
       }
     },
     {
@@ -20034,7 +20034,7 @@
       "notes": [],
       "work_passage_id": "opif:164",
       "html_path": "works/opif/index.html#p-164",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-164",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-164",
       "alignment_revision": "sha256:1fabbb943ee82a3bb7f6ad65ede407a67beca3f569affd409b9fa1be6f98f47f",
       "review_state": {
         "human_reviewed": false,
@@ -20060,9 +20060,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "164",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:a18ea49ab39879885696cff3dd806fb01b76ea26c2ce0316a1229fb7d311a259",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-164"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-164"
       }
     },
     {
@@ -20176,7 +20176,7 @@
       ],
       "work_passage_id": "opif:165",
       "html_path": "works/opif/index.html#p-165",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-165",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-165",
       "alignment_revision": "sha256:861b2fd02d378ea2fe1cbbcd42769b4cea563987314c23e7cb980e270c7202d3",
       "review_state": {
         "human_reviewed": false,
@@ -20202,9 +20202,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "165",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:b5395d4a19996c21abb0d075d9da795cf3e27cfdf6dbf908759dc161cbf5c259",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-165"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-165"
       }
     },
     {
@@ -20290,7 +20290,7 @@
       "notes": [],
       "work_passage_id": "opif:166",
       "html_path": "works/opif/index.html#p-166",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-166",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-166",
       "alignment_revision": "sha256:2651d2ca778a61d7d2cf44d134207abe603bc3009f4376e95da6b1acbad3b612",
       "review_state": {
         "human_reviewed": false,
@@ -20316,9 +20316,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "166",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:1fab0b87fd31c7fdae44d91e53934819654296edf37785b2d07ce3c58434c372",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-166"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-166"
       }
     },
     {
@@ -20419,7 +20419,7 @@
       ],
       "work_passage_id": "opif:167",
       "html_path": "works/opif/index.html#p-167",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-167",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-167",
       "alignment_revision": "sha256:3ad541cb726ab0e360c338b85aaba821a7ec2a0f728f65d088238806db75e4f2",
       "review_state": {
         "human_reviewed": false,
@@ -20445,9 +20445,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "167",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:82f6e35a7fddf8801e6ad8e405414ecabd7aa6e72c616d88fbc498f18e2a452d",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-167"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-167"
       }
     },
     {
@@ -20520,7 +20520,7 @@
       "notes": [],
       "work_passage_id": "opif:168",
       "html_path": "works/opif/index.html#p-168",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-168",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-168",
       "alignment_revision": "sha256:e84e10cd2e821c74a8e01b44e5cf4495710aa117a4252cb6e24384aba6989355",
       "review_state": {
         "human_reviewed": false,
@@ -20546,9 +20546,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "168",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:74f3973b3af419eb1fe8aa7711bd3334fa3369dc8d2c101611a3e7b752454d94",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-168"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-168"
       }
     },
     {
@@ -20621,7 +20621,7 @@
       "notes": [],
       "work_passage_id": "opif:169",
       "html_path": "works/opif/index.html#p-169",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-169",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-169",
       "alignment_revision": "sha256:2bb9fa1ff8f417495ca4e82d803d7766d13eca1429ebf90a56f151fd178167f4",
       "review_state": {
         "human_reviewed": false,
@@ -20647,9 +20647,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "169",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:0e1565e88ae9bd35882d9d2c3c97b9faee7beaca6d23d6b608bcba61dc00bee7",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-169"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-169"
       }
     },
     {
@@ -20746,7 +20746,7 @@
       ],
       "work_passage_id": "opif:170",
       "html_path": "works/opif/index.html#p-170",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-170",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-170",
       "alignment_revision": "sha256:6cb8f741beaade5b340c928dcf00cbbce7711361a6a7af15f863291e831e3049",
       "review_state": {
         "human_reviewed": false,
@@ -20772,9 +20772,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "170",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:df739397615cd3f5899dfeebf02dc05dd0d12f11e77ef9dbfb83a3a14fbd146f",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-170"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-170"
       }
     },
     {
@@ -20908,7 +20908,7 @@
       "notes": [],
       "work_passage_id": "opif:171",
       "html_path": "works/opif/index.html#p-171",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-171",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-171",
       "alignment_revision": "sha256:13d73bbd3f8962b197b6d41f4342f3f14f00646d23b0562831a5cc790436ab62",
       "review_state": {
         "human_reviewed": false,
@@ -20934,9 +20934,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "171",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:c4d46c899f861ddcc55b44ff1820ed83a08c5ce8304a3af4ba025b0d70b6fea4",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-171"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-171"
       }
     },
     {
@@ -21024,7 +21024,7 @@
       ],
       "work_passage_id": "opif:172",
       "html_path": "works/opif/index.html#p-172",
-      "fixed_html_path": "releases/public-0.41/works/opif/index.html#p-172",
+      "fixed_html_path": "releases/public-0.42/works/opif/index.html#p-172",
       "alignment_revision": "sha256:d23912582de77aefabf7de5364512a1304f987b22b9105cdaa32594d5c780b0a",
       "review_state": {
         "human_reviewed": false,
@@ -21050,9 +21050,9 @@
         "work": "세계의 창조에 관하여",
         "reference": "172",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 1, Berlin: Georg Reimer, 1896.",
-        "release": "public-0.41",
+        "release": "public-0.42",
         "translation_revision": "sha256:72ff8456c609f148fd4c4b1b90b8082dd1f9083dfbf6c02300af9acc12790fe9",
-        "fixed_path": "releases/public-0.41/works/opif/index.html#p-172"
+        "fixed_path": "releases/public-0.42/works/opif/index.html#p-172"
       }
     }
   ],
@@ -21068,14 +21068,14 @@
   "display_author": "필론",
   "scope": "세계의 창조에 관하여 1-172절 전체",
   "coverage": "complete",
-  "release_id": "public-0.41",
+  "release_id": "public-0.42",
   "source_language": "grc",
   "source_kind": "edited_ancient_original",
   "human_reviewed": false,
   "translation_method": "고정 원어 본문에서 직접 번역",
   "html_path": "works/opif/index.html",
   "json_path": "data/works/opif.json",
-  "fixed_html_path": "releases/public-0.41/works/opif/index.html",
+  "fixed_html_path": "releases/public-0.42/works/opif/index.html",
   "source_profile": "opif-pinned-tei-1",
   "source_decisions": [
     {
