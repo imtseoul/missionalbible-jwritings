@@ -154,7 +154,7 @@
       ],
       "work_passage_id": "praem:1",
       "html_path": "works/praem/index.html#p-1",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-1",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-1",
       "alignment_revision": "sha256:a5d2d9baffdbf317ee8fedebf1d25f322c5f41d0a698a9b130e083e59aa42dd8",
       "review_state": {
         "human_reviewed": false,
@@ -190,9 +190,9 @@
         "work": "상과 벌에 관하여",
         "reference": "1",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:f95e26c331ed52e962cfe8b02db955914c084ae38ce0cf13492aa8aaae96f0ee",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-1"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-1"
       }
     },
     {
@@ -294,7 +294,7 @@
       ],
       "work_passage_id": "praem:2",
       "html_path": "works/praem/index.html#p-2",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-2",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-2",
       "alignment_revision": "sha256:56741ef9e660f237361ba142ea69f6595b39fa3f63ac733fce32bd66b3216f48",
       "review_state": {
         "human_reviewed": false,
@@ -330,9 +330,9 @@
         "work": "상과 벌에 관하여",
         "reference": "2",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:4e5132ac791fe88c5b8d726c7a6277885c2aa178f3d285a0e9b8d233eea52e73",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-2"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-2"
       }
     },
     {
@@ -410,7 +410,7 @@
       ],
       "work_passage_id": "praem:3",
       "html_path": "works/praem/index.html#p-3",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-3",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-3",
       "alignment_revision": "sha256:832e8829b50ef6a103cf7b44b786180e773359a512a930e0b42db5749b854e36",
       "review_state": {
         "human_reviewed": false,
@@ -446,9 +446,9 @@
         "work": "상과 벌에 관하여",
         "reference": "3",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:e7137dddf60bbe2b1ada29625ce9227b6a227eca3740d815647ffaa0ab0d5f96",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-3"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-3"
       }
     },
     {
@@ -534,7 +534,7 @@
       "notes": [],
       "work_passage_id": "praem:4",
       "html_path": "works/praem/index.html#p-4",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-4",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-4",
       "alignment_revision": "sha256:6c3ef64927f6f01b7ea443e017e4fb9df4fff5c2545b703bd1724d30590d3931",
       "review_state": {
         "human_reviewed": false,
@@ -570,9 +570,9 @@
         "work": "상과 벌에 관하여",
         "reference": "4",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:2698aeb4965331909fa38500c92970c4426214f3739fff93d38fafda131ab638",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-4"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-4"
       }
     },
     {
@@ -673,7 +673,7 @@
       ],
       "work_passage_id": "praem:5",
       "html_path": "works/praem/index.html#p-5",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-5",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-5",
       "alignment_revision": "sha256:a1818d989eb28c4141018e452f673443cc90296c1280969942e8872aa00b569e",
       "review_state": {
         "human_reviewed": false,
@@ -709,9 +709,9 @@
         "work": "상과 벌에 관하여",
         "reference": "5",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:94961346dc6bb71fa104acc706e859a192d04d8072ee94e3e32adff548711eca",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-5"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-5"
       }
     },
     {
@@ -810,7 +810,7 @@
       "notes": [],
       "work_passage_id": "praem:6",
       "html_path": "works/praem/index.html#p-6",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-6",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-6",
       "alignment_revision": "sha256:b57bef4c54b745336bca4d2057b212a02d5d14d3bf288ef4c3000b43b83f2fa1",
       "review_state": {
         "human_reviewed": false,
@@ -846,9 +846,9 @@
         "work": "상과 벌에 관하여",
         "reference": "6",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:f4be865a9328d78900638781b237d62749e2af625d1b5f9088a574f41412e933",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-6"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-6"
       }
     },
     {
@@ -950,7 +950,7 @@
       ],
       "work_passage_id": "praem:7",
       "html_path": "works/praem/index.html#p-7",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-7",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-7",
       "alignment_revision": "sha256:27b8374dc6a117692dcb4fb96a1ae108abe905c5ea1e1c729c6709ba54cfa3b1",
       "review_state": {
         "human_reviewed": false,
@@ -986,9 +986,9 @@
         "work": "상과 벌에 관하여",
         "reference": "7",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:fddd298a147b4c1a4e5a33f45de07cc82efc241ade59f7b0baf91cb29fbf0fd5",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-7"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-7"
       }
     },
     {
@@ -1105,7 +1105,7 @@
       ],
       "work_passage_id": "praem:8",
       "html_path": "works/praem/index.html#p-8",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-8",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-8",
       "alignment_revision": "sha256:ed3f78a5fc740744bb452e2aba7d4245ce47d09a9e40b5ab58c945d4e1373ffc",
       "review_state": {
         "human_reviewed": false,
@@ -1141,9 +1141,9 @@
         "work": "상과 벌에 관하여",
         "reference": "8",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:c8eee1e6648657d2bd2a3dcf6b75835fab71e69a13194a1e3346ef107351d377",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-8"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-8"
       }
     },
     {
@@ -1244,7 +1244,7 @@
       ],
       "work_passage_id": "praem:9",
       "html_path": "works/praem/index.html#p-9",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-9",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-9",
       "alignment_revision": "sha256:d5be9850e740eac6c0b513fbec79ebb21555faac2206b6f490cd309920802936",
       "review_state": {
         "human_reviewed": false,
@@ -1280,9 +1280,9 @@
         "work": "상과 벌에 관하여",
         "reference": "9",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:0c51d38e3881d9e9a153ea08fe9ef24e832417cd2a3c125e48bd2b76603dee28",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-9"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-9"
       }
     },
     {
@@ -1357,7 +1357,7 @@
       ],
       "work_passage_id": "praem:10",
       "html_path": "works/praem/index.html#p-10",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-10",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-10",
       "alignment_revision": "sha256:0f153177d6d350c951a425d10e6d9e6d8152ae9b6478fc0929ef1bb22ad43c23",
       "review_state": {
         "human_reviewed": false,
@@ -1393,9 +1393,9 @@
         "work": "상과 벌에 관하여",
         "reference": "10",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:f57cc6c25fcbd9614ef8979c380cddf2469249329be6c4a12436f4cbc5801e4c",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-10"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-10"
       }
     },
     {
@@ -1535,7 +1535,7 @@
       ],
       "work_passage_id": "praem:11",
       "html_path": "works/praem/index.html#p-11",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-11",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-11",
       "alignment_revision": "sha256:b91b6c9801c9d64e645d12ffd33bb21867d86c49e3e2f5d62abd9c8a5238a9bc",
       "review_state": {
         "human_reviewed": false,
@@ -1571,9 +1571,9 @@
         "work": "상과 벌에 관하여",
         "reference": "11",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:f120741346c0afb32824b8a2c5ccccd3eb16d7d329d8711c047f8f45aae0fb5b",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-11"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-11"
       }
     },
     {
@@ -1659,7 +1659,7 @@
       "notes": [],
       "work_passage_id": "praem:12",
       "html_path": "works/praem/index.html#p-12",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-12",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-12",
       "alignment_revision": "sha256:21bdc6a6c05f222b0f72fc3cc81b2478e3135f89681c59e4b10b559c68e39b21",
       "review_state": {
         "human_reviewed": false,
@@ -1695,9 +1695,9 @@
         "work": "상과 벌에 관하여",
         "reference": "12",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:69d1753ef9f0ed22e2a18f468f42eb10b668c8e85d47de9c56984f7c4879073f",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-12"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-12"
       }
     },
     {
@@ -1789,7 +1789,7 @@
       ],
       "work_passage_id": "praem:13",
       "html_path": "works/praem/index.html#p-13",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-13",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-13",
       "alignment_revision": "sha256:fd92c913a0246916de795d3325a3ba32488d37ec4867cbdfd3dc41c064de70ef",
       "review_state": {
         "human_reviewed": false,
@@ -1825,9 +1825,9 @@
         "work": "상과 벌에 관하여",
         "reference": "13",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:8047d1441942821704751c745f5aa3d5d5082faeb166353db8b3aae8273840a5",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-13"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-13"
       }
     },
     {
@@ -1916,7 +1916,7 @@
       ],
       "work_passage_id": "praem:14",
       "html_path": "works/praem/index.html#p-14",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-14",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-14",
       "alignment_revision": "sha256:5d7b72f4c516f7d13a2c6c3e56750da30cbe9f116180aa35b96b326e5a68b8b8",
       "review_state": {
         "human_reviewed": false,
@@ -1952,9 +1952,9 @@
         "work": "상과 벌에 관하여",
         "reference": "14",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:c9ecdab6f68cb41398ac1081dec35a9abbe976e9cf5b2e0d1e054206e1072c87",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-14"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-14"
       }
     },
     {
@@ -2068,7 +2068,7 @@
       ],
       "work_passage_id": "praem:15",
       "html_path": "works/praem/index.html#p-15",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-15",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-15",
       "alignment_revision": "sha256:8f50524c3a786d9cddead7ef3a0ef49a4efd8d73be7c1449e60d87ea321e5989",
       "review_state": {
         "human_reviewed": false,
@@ -2104,9 +2104,9 @@
         "work": "상과 벌에 관하여",
         "reference": "15",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:99a66d834c5da392f22dbf66a4cdc5d42a51310e3be735127aa5f4ce0a978d37",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-15"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-15"
       }
     },
     {
@@ -2194,7 +2194,7 @@
       ],
       "work_passage_id": "praem:16",
       "html_path": "works/praem/index.html#p-16",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-16",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-16",
       "alignment_revision": "sha256:daa8afec17d2b560bd6b76f0853a5329edeafd06496311cc87eec7a962926d52",
       "review_state": {
         "human_reviewed": false,
@@ -2230,9 +2230,9 @@
         "work": "상과 벌에 관하여",
         "reference": "16",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:064f98be809cdeaa395cb4599114902b049a802e92cc89440e98df2773ff984d",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-16"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-16"
       }
     },
     {
@@ -2334,7 +2334,7 @@
       ],
       "work_passage_id": "praem:17",
       "html_path": "works/praem/index.html#p-17",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-17",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-17",
       "alignment_revision": "sha256:3fc13cbd4ff6bb30e6c85fee51e214383b37e604905aeabd5b369e5e0a31670f",
       "review_state": {
         "human_reviewed": false,
@@ -2370,9 +2370,9 @@
         "work": "상과 벌에 관하여",
         "reference": "17",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:ca0d3c377a50d9350e0e7dc7f27b42a99c99362ec751387434208aabf0353312",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-17"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-17"
       }
     },
     {
@@ -2461,7 +2461,7 @@
       "notes": [],
       "work_passage_id": "praem:18",
       "html_path": "works/praem/index.html#p-18",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-18",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-18",
       "alignment_revision": "sha256:acdc386878c72072025af85de2a4077cb26efa7aa2caed8c9c04b8b0599a2896",
       "review_state": {
         "human_reviewed": false,
@@ -2497,9 +2497,9 @@
         "work": "상과 벌에 관하여",
         "reference": "18",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:6f771ec00b9d0569e6c3340a220a84d356c86317dae315153a58740150b230c7",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-18"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-18"
       }
     },
     {
@@ -2585,7 +2585,7 @@
       "notes": [],
       "work_passage_id": "praem:19",
       "html_path": "works/praem/index.html#p-19",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-19",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-19",
       "alignment_revision": "sha256:47f8b5cdb9983691a417b859928d4821bfceffbcee1de74d8c9dbe9569e18697",
       "review_state": {
         "human_reviewed": false,
@@ -2621,9 +2621,9 @@
         "work": "상과 벌에 관하여",
         "reference": "19",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:3f21b2dda19366f1153865736439a506a63896556eddf7c795417fd142b811e4",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-19"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-19"
       }
     },
     {
@@ -2722,7 +2722,7 @@
       "notes": [],
       "work_passage_id": "praem:20",
       "html_path": "works/praem/index.html#p-20",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-20",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-20",
       "alignment_revision": "sha256:397b98045944213156c9177a224f0c9d64894d6b9c1c46663b5d2275f24e6cd8",
       "review_state": {
         "human_reviewed": false,
@@ -2758,9 +2758,9 @@
         "work": "상과 벌에 관하여",
         "reference": "20",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:f4619d0224252a72373908dcd42d057c23addc759b0037a0d7209b5bc2d074be",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-20"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-20"
       }
     },
     {
@@ -2835,7 +2835,7 @@
       ],
       "work_passage_id": "praem:21",
       "html_path": "works/praem/index.html#p-21",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-21",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-21",
       "alignment_revision": "sha256:1f3d37de2fadb4e1c29f8ac669b7f22980f470511ad37d45675db5e2ababf886",
       "review_state": {
         "human_reviewed": false,
@@ -2871,9 +2871,9 @@
         "work": "상과 벌에 관하여",
         "reference": "21",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:4b6e6d1d87d64cee720e9cb16d303736dd97673408ed49046376f172221d0b32",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-21"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-21"
       }
     },
     {
@@ -2961,7 +2961,7 @@
       ],
       "work_passage_id": "praem:22",
       "html_path": "works/praem/index.html#p-22",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-22",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-22",
       "alignment_revision": "sha256:95bf1f1776e5ef5b830e272027a03f63e025cf55461d3764e424f56ba58e5b13",
       "review_state": {
         "human_reviewed": false,
@@ -2997,9 +2997,9 @@
         "work": "상과 벌에 관하여",
         "reference": "22",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:b35a94b040998ddf7d19bb208bfb3497adb6ae548a8e73966e8fc2a80f60b99f",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-22"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-22"
       }
     },
     {
@@ -3103,7 +3103,7 @@
       ],
       "work_passage_id": "praem:23",
       "html_path": "works/praem/index.html#p-23",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-23",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-23",
       "alignment_revision": "sha256:01141338757ba60aaedeb4d976f1c64f9915d263523a46c7abe1d0c6c8c6ab1b",
       "review_state": {
         "human_reviewed": false,
@@ -3139,9 +3139,9 @@
         "work": "상과 벌에 관하여",
         "reference": "23",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:db7446380182b2ca25950f324b0773142916ed3bf3d345b8dc965bc0a92f50ef",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-23"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-23"
       }
     },
     {
@@ -3229,7 +3229,7 @@
       ],
       "work_passage_id": "praem:24",
       "html_path": "works/praem/index.html#p-24",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-24",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-24",
       "alignment_revision": "sha256:3963a1bee1b00a0a58471506b77f1ad4dbfb95c7b98e73aaadd33bda71e88cf9",
       "review_state": {
         "human_reviewed": false,
@@ -3265,9 +3265,9 @@
         "work": "상과 벌에 관하여",
         "reference": "24",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:7d2e6aa4782384b3300be413c66c6c5dcef5f1fc3c44681f98adc07a60e95ce2",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-24"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-24"
       }
     },
     {
@@ -3381,7 +3381,7 @@
       ],
       "work_passage_id": "praem:25",
       "html_path": "works/praem/index.html#p-25",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-25",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-25",
       "alignment_revision": "sha256:ca7dd0e52a4020b448cd64a53227dde01a5553bf1f6bee43c5eb7038923fd91e",
       "review_state": {
         "human_reviewed": false,
@@ -3417,9 +3417,9 @@
         "work": "상과 벌에 관하여",
         "reference": "25",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:972c32c9cfff01602aca3ee0d6db1048ed138ac19cf5c35a407c6dbd95a89088",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-25"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-25"
       }
     },
     {
@@ -3520,7 +3520,7 @@
       ],
       "work_passage_id": "praem:26",
       "html_path": "works/praem/index.html#p-26",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-26",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-26",
       "alignment_revision": "sha256:9aa944d69111596f0df0b38e8a2fba81650d287fd568eb1c9de896c8f52cbba1",
       "review_state": {
         "human_reviewed": false,
@@ -3556,9 +3556,9 @@
         "work": "상과 벌에 관하여",
         "reference": "26",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:1b047280f27e8d0438f7da3b24a10adbbdf61500ad3a392ee18a71b9d7dc9dad",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-26"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-26"
       }
     },
     {
@@ -3663,7 +3663,7 @@
       ],
       "work_passage_id": "praem:27",
       "html_path": "works/praem/index.html#p-27",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-27",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-27",
       "alignment_revision": "sha256:a3d39128642482e5ebb30394a59f1656e2d51f03efb9583e390f62e835f69114",
       "review_state": {
         "human_reviewed": false,
@@ -3699,9 +3699,9 @@
         "work": "상과 벌에 관하여",
         "reference": "27",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:191431ae6c276e57e2f2067a7139c752d580f7096bb438a69287b3be234dda35",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-27"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-27"
       }
     },
     {
@@ -3815,7 +3815,7 @@
       ],
       "work_passage_id": "praem:28",
       "html_path": "works/praem/index.html#p-28",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-28",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-28",
       "alignment_revision": "sha256:377f635093dec52539756b3489bb7477cc67c0b6232900783dca543ad12733e0",
       "review_state": {
         "human_reviewed": false,
@@ -3851,9 +3851,9 @@
         "work": "상과 벌에 관하여",
         "reference": "28",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:61ffda92c7e79d6a470c12785dbbe0bad3679a350fd7e3f18bf597a5e19b418c",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-28"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-28"
       }
     },
     {
@@ -3965,7 +3965,7 @@
       "notes": [],
       "work_passage_id": "praem:29",
       "html_path": "works/praem/index.html#p-29",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-29",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-29",
       "alignment_revision": "sha256:8e23bdf82bd8e559990a078e65d5d63eda9f7c99ab14c6bacfb25fe332f723ee",
       "review_state": {
         "human_reviewed": false,
@@ -4001,9 +4001,9 @@
         "work": "상과 벌에 관하여",
         "reference": "29",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:0974300eb17a22627761974682d1d01188c33f65a40ee5cefc45b864cfe206e7",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-29"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-29"
       }
     },
     {
@@ -4078,7 +4078,7 @@
       ],
       "work_passage_id": "praem:30",
       "html_path": "works/praem/index.html#p-30",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-30",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-30",
       "alignment_revision": "sha256:a411dc6fd84799d0e2c4ee159b1d88bdc201d49c7f47ad8e593b4eccaeb312e4",
       "review_state": {
         "human_reviewed": false,
@@ -4114,9 +4114,9 @@
         "work": "상과 벌에 관하여",
         "reference": "30",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:98879182b748e0397699c8a75ecce2da08855e6cfc27b741cd5dcdb89922b184",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-30"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-30"
       }
     },
     {
@@ -4194,7 +4194,7 @@
       ],
       "work_passage_id": "praem:31",
       "html_path": "works/praem/index.html#p-31",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-31",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-31",
       "alignment_revision": "sha256:1906a57cb29adb925cf64f3cfc1ed179fd07e45d85c380f16b376987d1326eb3",
       "review_state": {
         "human_reviewed": false,
@@ -4230,9 +4230,9 @@
         "work": "상과 벌에 관하여",
         "reference": "31",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:cde8ddd232dccd3599abf00145b8f373004f87d521685040887d124ca53a1f18",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-31"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-31"
       }
     },
     {
@@ -4307,7 +4307,7 @@
       ],
       "work_passage_id": "praem:32",
       "html_path": "works/praem/index.html#p-32",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-32",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-32",
       "alignment_revision": "sha256:cfb0c5ed3dc8e0987d79194f3acab039347e348efdfe072dac628397b35cd016",
       "review_state": {
         "human_reviewed": false,
@@ -4343,9 +4343,9 @@
         "work": "상과 벌에 관하여",
         "reference": "32",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:c6e367d7868bf5aef433a1f997fb43df87e8a5f98e030de96295a03731dcdd56",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-32"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-32"
       }
     },
     {
@@ -4431,7 +4431,7 @@
       "notes": [],
       "work_passage_id": "praem:33",
       "html_path": "works/praem/index.html#p-33",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-33",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-33",
       "alignment_revision": "sha256:26041cfab2ff10ae43c06b0c99e8257df1be04c990f0f4abb832e84c62a15b3e",
       "review_state": {
         "human_reviewed": false,
@@ -4467,9 +4467,9 @@
         "work": "상과 벌에 관하여",
         "reference": "33",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:7dd33e1c193c5ff6705d657ebe4cb4117a960c87a10854e053b0e253a26e480c",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-33"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-33"
       }
     },
     {
@@ -4529,7 +4529,7 @@
       "notes": [],
       "work_passage_id": "praem:34",
       "html_path": "works/praem/index.html#p-34",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-34",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-34",
       "alignment_revision": "sha256:a1cdd2319771f869c53f7dc6f3c1f9132997e5655eb5662edc2740d809bab643",
       "review_state": {
         "human_reviewed": false,
@@ -4565,9 +4565,9 @@
         "work": "상과 벌에 관하여",
         "reference": "34",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:dcca61099187f65b7a13caf624b7c8bbb1a034e72d5fa731b8ed3324a0508298",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-34"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-34"
       }
     },
     {
@@ -4640,7 +4640,7 @@
       "notes": [],
       "work_passage_id": "praem:35",
       "html_path": "works/praem/index.html#p-35",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-35",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-35",
       "alignment_revision": "sha256:7095dafacdcae34847603439220bf23f71345db7217a260a1aa0863738a70aad",
       "review_state": {
         "human_reviewed": false,
@@ -4676,9 +4676,9 @@
         "work": "상과 벌에 관하여",
         "reference": "35",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:e5ed1298782275b77eee59104b66500aa5e3d9fea4d438357347f1e9f2813b6c",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-35"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-35"
       }
     },
     {
@@ -4793,7 +4793,7 @@
       "notes": [],
       "work_passage_id": "praem:36",
       "html_path": "works/praem/index.html#p-36",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-36",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-36",
       "alignment_revision": "sha256:211c9fc960e012f2e817512e6bf8d8827ea5dc83d3bf5984322cfba2f4ef95b7",
       "review_state": {
         "human_reviewed": false,
@@ -4829,9 +4829,9 @@
         "work": "상과 벌에 관하여",
         "reference": "36",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:7ed488e55ea629ef22c9ddb9c13f9b308b30e9b6e8270576652d9e26a250ea1e",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-36"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-36"
       }
     },
     {
@@ -4907,7 +4907,7 @@
       ],
       "work_passage_id": "praem:37",
       "html_path": "works/praem/index.html#p-37",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-37",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-37",
       "alignment_revision": "sha256:a124213df7b48a6827c2a8cdf6291a3bf023e380a03a65669f5066575d2e4521",
       "review_state": {
         "human_reviewed": false,
@@ -4943,9 +4943,9 @@
         "work": "상과 벌에 관하여",
         "reference": "37",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:a198aa0f349b1793a4beb380542adeabf553b926dd36d86e77b70ddbc3a3a538",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-37"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-37"
       }
     },
     {
@@ -5005,7 +5005,7 @@
       "notes": [],
       "work_passage_id": "praem:38",
       "html_path": "works/praem/index.html#p-38",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-38",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-38",
       "alignment_revision": "sha256:8aa68a9f1b5bffa961135a77e79f538b7fbb9828ffddb33508f247114f371c51",
       "review_state": {
         "human_reviewed": false,
@@ -5041,9 +5041,9 @@
         "work": "상과 벌에 관하여",
         "reference": "38",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:547f998f3a4b516c2e059edb3d3e354b66b448018a44495031865c54ce42fbdc",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-38"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-38"
       }
     },
     {
@@ -5131,7 +5131,7 @@
       ],
       "work_passage_id": "praem:39",
       "html_path": "works/praem/index.html#p-39",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-39",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-39",
       "alignment_revision": "sha256:5f23812580b290df87cc2df753ea2090b6c84081e8750aa9fa59fe6d8e8fa46f",
       "review_state": {
         "human_reviewed": false,
@@ -5167,9 +5167,9 @@
         "work": "상과 벌에 관하여",
         "reference": "39",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:eb035bc503f8b5f07bef046220a25a267e9939ce7a20a7a9b7847de82a45ab43",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-39"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-39"
       }
     },
     {
@@ -5299,7 +5299,7 @@
       ],
       "work_passage_id": "praem:40",
       "html_path": "works/praem/index.html#p-40",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-40",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-40",
       "alignment_revision": "sha256:0e1e04a5db22fcac5a0d9204d593c384098bb725e0794f7edd36c548a253e85b",
       "review_state": {
         "human_reviewed": false,
@@ -5335,9 +5335,9 @@
         "work": "상과 벌에 관하여",
         "reference": "40",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:c30a7b700a8b26e5e23b5333f58b10ed131b2ac92e569ae64e72ff259e1f68d9",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-40"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-40"
       }
     },
     {
@@ -5490,7 +5490,7 @@
       ],
       "work_passage_id": "praem:41",
       "html_path": "works/praem/index.html#p-41",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-41",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-41",
       "alignment_revision": "sha256:3262f1d0a060a38fb83698128ae6da28d51cb31052bd0565876118846cc901ea",
       "review_state": {
         "human_reviewed": false,
@@ -5526,9 +5526,9 @@
         "work": "상과 벌에 관하여",
         "reference": "41",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:c97772f1414a99046c3eac409b21632ac3bddefbb76f82dfd8947a5b5b74e3b1",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-41"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-41"
       }
     },
     {
@@ -5627,7 +5627,7 @@
       "notes": [],
       "work_passage_id": "praem:42",
       "html_path": "works/praem/index.html#p-42",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-42",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-42",
       "alignment_revision": "sha256:1172027511e06a401f95c70dbac9e25d9d8c7fb4db1e341db52f81a529cd0bfd",
       "review_state": {
         "human_reviewed": false,
@@ -5663,9 +5663,9 @@
         "work": "상과 벌에 관하여",
         "reference": "42",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:537d3a19761f55faa4ef87e4ee0aebcc4b819f4455969bb18004db7af95afb50",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-42"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-42"
       }
     },
     {
@@ -5766,7 +5766,7 @@
       ],
       "work_passage_id": "praem:43",
       "html_path": "works/praem/index.html#p-43",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-43",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-43",
       "alignment_revision": "sha256:fb0e24e5934b30b323752c7fb7cab8dfd7a0f11f20a62907f46e16f321d17ae1",
       "review_state": {
         "human_reviewed": false,
@@ -5802,9 +5802,9 @@
         "work": "상과 벌에 관하여",
         "reference": "43",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:57722346a6a6ad48bab9ff5684b05f702a621c04b25496a85f42461aa939a881",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-43"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-43"
       }
     },
     {
@@ -5908,7 +5908,7 @@
       ],
       "work_passage_id": "praem:44",
       "html_path": "works/praem/index.html#p-44",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-44",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-44",
       "alignment_revision": "sha256:c72498240b4c90402d78a13ad021fe420d3cf96a277f9a0535f93646ab3a05dc",
       "review_state": {
         "human_reviewed": false,
@@ -5944,9 +5944,9 @@
         "work": "상과 벌에 관하여",
         "reference": "44",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:0050a4ba87a45dec9130f81f1c0de81bc372ade4f96df458ce767f7ba7beaafb",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-44"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-44"
       }
     },
     {
@@ -6060,7 +6060,7 @@
       ],
       "work_passage_id": "praem:45",
       "html_path": "works/praem/index.html#p-45",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-45",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-45",
       "alignment_revision": "sha256:defe344982ba73f43a095e4d7ffe9b82bdc746769e870c022bbbbe0bd84f8d60",
       "review_state": {
         "human_reviewed": false,
@@ -6096,9 +6096,9 @@
         "work": "상과 벌에 관하여",
         "reference": "45",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:f5773f0024a44ab96a1c77b912c0f4c8d70e0ee4899d28ce4afd4766f08a4e05",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-45"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-45"
       }
     },
     {
@@ -6186,7 +6186,7 @@
       ],
       "work_passage_id": "praem:46",
       "html_path": "works/praem/index.html#p-46",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-46",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-46",
       "alignment_revision": "sha256:ecf7ab24c59c983ae5292f9b1670417d1085e5d55ab8faec2ea4ec271e5ec5bf",
       "review_state": {
         "human_reviewed": false,
@@ -6222,9 +6222,9 @@
         "work": "상과 벌에 관하여",
         "reference": "46",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:081c3a0b41ca822e66d1c0ebeade72188c147e5a55cc0cbb86e3ffb7fef59066",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-46"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-46"
       }
     },
     {
@@ -6351,7 +6351,7 @@
       ],
       "work_passage_id": "praem:47",
       "html_path": "works/praem/index.html#p-47",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-47",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-47",
       "alignment_revision": "sha256:e5a2efa17574d8d2f41fd4686c5bf792cf20f44389c98686ce9c52f13a1ebbb4",
       "review_state": {
         "human_reviewed": false,
@@ -6387,9 +6387,9 @@
         "work": "상과 벌에 관하여",
         "reference": "47",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:8bc697ea61daf803ddd637ce1af4e533315dd82ccf1a020ae6a4459e4a90c661",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-47"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-47"
       }
     },
     {
@@ -6451,7 +6451,7 @@
       ],
       "work_passage_id": "praem:48",
       "html_path": "works/praem/index.html#p-48",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-48",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-48",
       "alignment_revision": "sha256:157bad5298bb9b14814db6b39750f33a288b4e2c01a8de308dd4f26add99afa8",
       "review_state": {
         "human_reviewed": false,
@@ -6487,9 +6487,9 @@
         "work": "상과 벌에 관하여",
         "reference": "48",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:8cae9015029276b1fd92d068daf90c840d7087dbc2e2c93989f1e7439272fa47",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-48"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-48"
       }
     },
     {
@@ -6565,7 +6565,7 @@
       "notes": [],
       "work_passage_id": "praem:49",
       "html_path": "works/praem/index.html#p-49",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-49",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-49",
       "alignment_revision": "sha256:6a29e0e745e7825ef8a2ce57164e80b574a4ae907bd7835acae756aec646da48",
       "review_state": {
         "human_reviewed": false,
@@ -6601,9 +6601,9 @@
         "work": "상과 벌에 관하여",
         "reference": "49",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:4068c5dedb5c4e3fd786971a05d44d093cc085177df8a112f2d4b4a529403043",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-49"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-49"
       }
     },
     {
@@ -6704,7 +6704,7 @@
       ],
       "work_passage_id": "praem:50",
       "html_path": "works/praem/index.html#p-50",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-50",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-50",
       "alignment_revision": "sha256:5f760aaae54040fab4be6a9a0c40e3fb086dd517a1c29bcb153152b9e9bfb419",
       "review_state": {
         "human_reviewed": false,
@@ -6740,9 +6740,9 @@
         "work": "상과 벌에 관하여",
         "reference": "50",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:b2de7d64aefcf0da1069a21802649870c775bbcec6e817f68c0daee1ae24f9c2",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-50"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-50"
       }
     },
     {
@@ -6830,7 +6830,7 @@
       ],
       "work_passage_id": "praem:51",
       "html_path": "works/praem/index.html#p-51",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-51",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-51",
       "alignment_revision": "sha256:226e35b67914271005d02eb6fe3627e311fabab6ba20b1fcaa684249574786f0",
       "review_state": {
         "human_reviewed": false,
@@ -6866,9 +6866,9 @@
         "work": "상과 벌에 관하여",
         "reference": "51",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:a9bbdbe2b052a97f9697638854dad13eea0b23d8ea90c678542b1f3a7b48fc3b",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-51"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-51"
       }
     },
     {
@@ -7008,7 +7008,7 @@
       ],
       "work_passage_id": "praem:52",
       "html_path": "works/praem/index.html#p-52",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-52",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-52",
       "alignment_revision": "sha256:44aff587bf4245aec5f3b54df90bdf46ffc4ff601753da8f1690a8fb686f62ca",
       "review_state": {
         "human_reviewed": false,
@@ -7044,9 +7044,9 @@
         "work": "상과 벌에 관하여",
         "reference": "52",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:2ed0125dc521ceddc486137b14d85782f9901644d43472c02fb9804ac5e1f8a6",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-52"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-52"
       }
     },
     {
@@ -7151,7 +7151,7 @@
       ],
       "work_passage_id": "praem:53",
       "html_path": "works/praem/index.html#p-53",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-53",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-53",
       "alignment_revision": "sha256:82c5fa7268b027d5461907c081d13fb60f14f273a8a2f71d68e29c76a95c5ab3",
       "review_state": {
         "human_reviewed": false,
@@ -7187,9 +7187,9 @@
         "work": "상과 벌에 관하여",
         "reference": "53",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:8af97adbae312dc1f704653398760f00d3f103753b5fb36055d7153a4bdd7e5d",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-53"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-53"
       }
     },
     {
@@ -7317,7 +7317,7 @@
       ],
       "work_passage_id": "praem:54",
       "html_path": "works/praem/index.html#p-54",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-54",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-54",
       "alignment_revision": "sha256:2888cdfb19785da246d47036df74ac3947818a5963a2b8e0d05769e17e32399f",
       "review_state": {
         "human_reviewed": false,
@@ -7353,9 +7353,9 @@
         "work": "상과 벌에 관하여",
         "reference": "54",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:cc0ea9e62f68d104dbda97a2d1a468e8556f794b3f195243ad0f36a5bbde1d6b",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-54"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-54"
       }
     },
     {
@@ -7482,7 +7482,7 @@
       ],
       "work_passage_id": "praem:55",
       "html_path": "works/praem/index.html#p-55",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-55",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-55",
       "alignment_revision": "sha256:0378bf4abe90ef10fc60cf3ce2910c3a6a0190bc3bc3d97c59ac5604b95a5706",
       "review_state": {
         "human_reviewed": false,
@@ -7518,9 +7518,9 @@
         "work": "상과 벌에 관하여",
         "reference": "55",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:da40fea07ef3478aff157f3afe74542f2ab7c82557aad8c4dd37b3e5db17a26a",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-55"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-55"
       }
     },
     {
@@ -7608,7 +7608,7 @@
       ],
       "work_passage_id": "praem:56",
       "html_path": "works/praem/index.html#p-56",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-56",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-56",
       "alignment_revision": "sha256:51afd0268705736c94d95b616789d3025d7f3b9849d88397af7816c4b6392fba",
       "review_state": {
         "human_reviewed": false,
@@ -7644,9 +7644,9 @@
         "work": "상과 벌에 관하여",
         "reference": "56",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:16a063de682e3071ebb111b62cd76d02563add4a2d3900f8d035ffdd635ea7a5",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-56"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-56"
       }
     },
     {
@@ -7763,7 +7763,7 @@
       ],
       "work_passage_id": "praem:57",
       "html_path": "works/praem/index.html#p-57",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-57",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-57",
       "alignment_revision": "sha256:4fc291bda9ae07530ce19cd0f871d9cc5fb0cc1a143fb5d307399946a669e823",
       "review_state": {
         "human_reviewed": false,
@@ -7799,9 +7799,9 @@
         "work": "상과 벌에 관하여",
         "reference": "57",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:5fe8f408fd6147f69c13e5958a03fb4157240def8cc4d4b8fee32501c59c4f7e",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-57"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-57"
       }
     },
     {
@@ -7929,7 +7929,7 @@
       ],
       "work_passage_id": "praem:58",
       "html_path": "works/praem/index.html#p-58",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-58",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-58",
       "alignment_revision": "sha256:f85c65f93327768d4ed9888279a2dfcbab41d9eca90bb1c0db5e6944f5919452",
       "review_state": {
         "human_reviewed": false,
@@ -7965,9 +7965,9 @@
         "work": "상과 벌에 관하여",
         "reference": "58",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:f07cbe8914d71894b07c804c7de4741eb59007eb23f6cfe46115ca0faeb09db5",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-58"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-58"
       }
     },
     {
@@ -8081,7 +8081,7 @@
       ],
       "work_passage_id": "praem:59",
       "html_path": "works/praem/index.html#p-59",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-59",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-59",
       "alignment_revision": "sha256:c117233bdd21d1c635456e5123d0c16b5b5e816def12f9942867a3ac319ab987",
       "review_state": {
         "human_reviewed": false,
@@ -8117,9 +8117,9 @@
         "work": "상과 벌에 관하여",
         "reference": "59",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:c06644507e518e65d483f7e40a27fcb178483c6099173560d4b607c66278a565",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-59"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-59"
       }
     },
     {
@@ -8207,7 +8207,7 @@
       ],
       "work_passage_id": "praem:60",
       "html_path": "works/praem/index.html#p-60",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-60",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-60",
       "alignment_revision": "sha256:d92b949e999e8115e46aa5b8c9ab3be0a7f47fda8ea4a8aca61c8ed3a9213ad8",
       "review_state": {
         "human_reviewed": false,
@@ -8243,9 +8243,9 @@
         "work": "상과 벌에 관하여",
         "reference": "60",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:107bfc5733226f80e90b778df3d06cba1a6c320f7281d9d093425146abc33277",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-60"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-60"
       }
     },
     {
@@ -8346,7 +8346,7 @@
       ],
       "work_passage_id": "praem:61",
       "html_path": "works/praem/index.html#p-61",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-61",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-61",
       "alignment_revision": "sha256:7c5f8156a109e33b37f6be28adad93d95a740321b841bf47494a15fc5d0f98e6",
       "review_state": {
         "human_reviewed": false,
@@ -8382,9 +8382,9 @@
         "work": "상과 벌에 관하여",
         "reference": "61",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:b607a04780184818e220c87603d7d93bfa72baf355fc455938fe9201f4fbd09e",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-61"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-61"
       }
     },
     {
@@ -8473,7 +8473,7 @@
       "notes": [],
       "work_passage_id": "praem:62",
       "html_path": "works/praem/index.html#p-62",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-62",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-62",
       "alignment_revision": "sha256:994d81e8c8a9ce2b1ff1e52b472324e5dbfa6412a3ad10f8aecc3f2f122de13d",
       "review_state": {
         "human_reviewed": false,
@@ -8509,9 +8509,9 @@
         "work": "상과 벌에 관하여",
         "reference": "62",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:50ea55e579d0c8bf9a8d582ed4b18b842b43e98177e6c8c3c5dc9456338b45c7",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-62"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-62"
       }
     },
     {
@@ -8599,7 +8599,7 @@
       ],
       "work_passage_id": "praem:63",
       "html_path": "works/praem/index.html#p-63",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-63",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-63",
       "alignment_revision": "sha256:092619718e4db0b22481985d81e83166b32742d17230930ff4ed657446627d08",
       "review_state": {
         "human_reviewed": false,
@@ -8635,9 +8635,9 @@
         "work": "상과 벌에 관하여",
         "reference": "63",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:bb63f432299571313954a720c31aa98262b4a528c2b92e1a692016fcc5668023",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-63"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-63"
       }
     },
     {
@@ -8738,7 +8738,7 @@
       ],
       "work_passage_id": "praem:64",
       "html_path": "works/praem/index.html#p-64",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-64",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-64",
       "alignment_revision": "sha256:c2a593a54b55258ad5077a34e42d372b1dd26fdead956f440b9a77abf6f74827",
       "review_state": {
         "human_reviewed": false,
@@ -8774,9 +8774,9 @@
         "work": "상과 벌에 관하여",
         "reference": "64",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:e35b89358e387ee1d2a958a6777c5917732e04be12a66dd5e7fc6ec4ba56b87a",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-64"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-64"
       }
     },
     {
@@ -8903,7 +8903,7 @@
       ],
       "work_passage_id": "praem:65",
       "html_path": "works/praem/index.html#p-65",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-65",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-65",
       "alignment_revision": "sha256:77f00291fe337958d7b63eb263ac87231925c0f5431581e8e43e41cc8d3db368",
       "review_state": {
         "human_reviewed": false,
@@ -8939,9 +8939,9 @@
         "work": "상과 벌에 관하여",
         "reference": "65",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:1256371d9b2b9f91dbdb6896f389d9be7657f0692cffb165b923e85d0e258fc7",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-65"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-65"
       }
     },
     {
@@ -9019,7 +9019,7 @@
       ],
       "work_passage_id": "praem:66",
       "html_path": "works/praem/index.html#p-66",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-66",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-66",
       "alignment_revision": "sha256:ae48697474a8482245671d537aeb5922f7ab9c8752904303231b54c5b3394c16",
       "review_state": {
         "human_reviewed": false,
@@ -9055,9 +9055,9 @@
         "work": "상과 벌에 관하여",
         "reference": "66",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:eff8984d2a2cbe9284efcccd5f0828badd2c21e4cd243ef4a5c24726609ac802",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-66"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-66"
       }
     },
     {
@@ -9145,7 +9145,7 @@
       ],
       "work_passage_id": "praem:67",
       "html_path": "works/praem/index.html#p-67",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-67",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-67",
       "alignment_revision": "sha256:f1fca674875a99d0306413a15b8cc926e2318cdffa504f729e6dbfa77dadd982",
       "review_state": {
         "human_reviewed": false,
@@ -9181,9 +9181,9 @@
         "work": "상과 벌에 관하여",
         "reference": "67",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:81bab303674a0989d1968a215043da859bbabefe666594472bfa2d7dce1c8b0c",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-67"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-67"
       }
     },
     {
@@ -9284,7 +9284,7 @@
       ],
       "work_passage_id": "praem:68",
       "html_path": "works/praem/index.html#p-68",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-68",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-68",
       "alignment_revision": "sha256:ddb5140a3c618ae4c084ed77cb78ade06b837be701245f69eb65e8715d76dde0",
       "review_state": {
         "human_reviewed": false,
@@ -9320,9 +9320,9 @@
         "work": "상과 벌에 관하여",
         "reference": "68",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:5b1c512717e650136b633ad043cb50ecfc394b70ac628c9a9eca9df496c6e305",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-68"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-68"
       }
     },
     {
@@ -9410,7 +9410,7 @@
       ],
       "work_passage_id": "praem:69",
       "html_path": "works/praem/index.html#p-69",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-69",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-69",
       "alignment_revision": "sha256:c4444715fe03c5b990da9eec26b449972c76e6e9c3ce27f2c57adfc6aa441dd8",
       "review_state": {
         "human_reviewed": false,
@@ -9446,9 +9446,9 @@
         "work": "상과 벌에 관하여",
         "reference": "69",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:655cf9e2c94c2e08b1a32521b21afea490acdc9bd933182a9f9fab8c47fd8c1f",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-69"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-69"
       }
     },
     {
@@ -9565,7 +9565,7 @@
       ],
       "work_passage_id": "praem:70",
       "html_path": "works/praem/index.html#p-70",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-70",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-70",
       "alignment_revision": "sha256:081820f946288118b8a9f582982d2f83e4d32a0495db136700139420667bace5",
       "review_state": {
         "human_reviewed": false,
@@ -9601,9 +9601,9 @@
         "work": "상과 벌에 관하여",
         "reference": "70",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:722cc7a473c01b44d3e1b7dc75b1c31deaa20dd4a8b23b7694f2ccb85d7ddfd5",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-70"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-70"
       }
     },
     {
@@ -9704,7 +9704,7 @@
       ],
       "work_passage_id": "praem:71",
       "html_path": "works/praem/index.html#p-71",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-71",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-71",
       "alignment_revision": "sha256:b79bdd94b3b66bed1fc101d1c1e9e078b7eac1efd923c1f991c70c72733a25a9",
       "review_state": {
         "human_reviewed": false,
@@ -9740,9 +9740,9 @@
         "work": "상과 벌에 관하여",
         "reference": "71",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:953add84a2f045e12423b91b08e573f7b343da98f5cc7ecebc01f6ca68b33883",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-71"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-71"
       }
     },
     {
@@ -9883,7 +9883,7 @@
       ],
       "work_passage_id": "praem:72",
       "html_path": "works/praem/index.html#p-72",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-72",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-72",
       "alignment_revision": "sha256:14a38908e7f8bc8ec10953d0715b70a161bc127a7ec72c16f54a81bb59389a1e",
       "review_state": {
         "human_reviewed": false,
@@ -9919,9 +9919,9 @@
         "work": "상과 벌에 관하여",
         "reference": "72",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:af8ef14cd4b51a4d4ead0fb44de56952197f43113c048e3e91be69c47e672541",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-72"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-72"
       }
     },
     {
@@ -10007,7 +10007,7 @@
       "notes": [],
       "work_passage_id": "praem:73",
       "html_path": "works/praem/index.html#p-73",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-73",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-73",
       "alignment_revision": "sha256:374a93b37b75030abe378f9a92ca43ca10768483732659d3909449c352befd9d",
       "review_state": {
         "human_reviewed": false,
@@ -10043,9 +10043,9 @@
         "work": "상과 벌에 관하여",
         "reference": "73",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:d67de910e0ef62f38bf88237b77c49894f33da42190803a4f3ad16407a00db12",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-73"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-73"
       }
     },
     {
@@ -10149,7 +10149,7 @@
       ],
       "work_passage_id": "praem:74",
       "html_path": "works/praem/index.html#p-74",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-74",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-74",
       "alignment_revision": "sha256:e9dc027e96b8148372ff5573e7b11b5cdf1d148ef0b37a2881f73f270a12b839",
       "review_state": {
         "human_reviewed": false,
@@ -10185,9 +10185,9 @@
         "work": "상과 벌에 관하여",
         "reference": "74",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:150a94c8ab6bed53c0976d5e3c369366ff899289b6c2def8bdb26736e3a48cd9",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-74"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-74"
       }
     },
     {
@@ -10262,7 +10262,7 @@
       ],
       "work_passage_id": "praem:75",
       "html_path": "works/praem/index.html#p-75",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-75",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-75",
       "alignment_revision": "sha256:1c845473630387126a284db4b9769b50f3620598d7399c259f94e0791203d98a",
       "review_state": {
         "human_reviewed": false,
@@ -10298,9 +10298,9 @@
         "work": "상과 벌에 관하여",
         "reference": "75",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:a622773168c4faf7360f44d3c73a547c8877b76fb6e4625d793a9f26b34859a4",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-75"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-75"
       }
     },
     {
@@ -10360,7 +10360,7 @@
       "notes": [],
       "work_passage_id": "praem:76",
       "html_path": "works/praem/index.html#p-76",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-76",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-76",
       "alignment_revision": "sha256:fda1ed274b75689c17efba9631933cdd43f85d7605a9bbd807be754913f71b26",
       "review_state": {
         "human_reviewed": false,
@@ -10396,9 +10396,9 @@
         "work": "상과 벌에 관하여",
         "reference": "76",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:5aa53d6f42355bbba35f376859f5596c28e56a5de357fa41d257f7a8572626bb",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-76"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-76"
       }
     },
     {
@@ -10486,7 +10486,7 @@
       ],
       "work_passage_id": "praem:77",
       "html_path": "works/praem/index.html#p-77",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-77",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-77",
       "alignment_revision": "sha256:d9aae9df10672e9c0679602dc9b2ff9fecef8cc6b56f76b39c2587b2a8ba0425",
       "review_state": {
         "human_reviewed": false,
@@ -10522,9 +10522,9 @@
         "work": "상과 벌에 관하여",
         "reference": "77",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:942fec9f87a5f401bccb06ef835ecf9f3ca9624036a164c758e4321c87bc8e33",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-77"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-77"
       }
     },
     {
@@ -10626,7 +10626,7 @@
       ],
       "work_passage_id": "praem:78",
       "html_path": "works/praem/index.html#p-78",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-78",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-78",
       "alignment_revision": "sha256:87a50e0707be6a0c4545c0fcb77c4cdb4ddd24a75b183a8a15533fdd7beedd20",
       "review_state": {
         "human_reviewed": false,
@@ -10662,9 +10662,9 @@
         "work": "상과 벌에 관하여",
         "reference": "78",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:2357ffd1e111debab2e102cdc52c33b1cd5b7abc0373bcd24de4d59263073864",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-78"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-78"
       }
     },
     {
@@ -10769,7 +10769,7 @@
       ],
       "work_passage_id": "praem:79",
       "html_path": "works/praem/index.html#p-79",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-79",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-79",
       "alignment_revision": "sha256:a7d9cf0a4403a69dd07a2cead6ea526070fbb7e0b0a112267d89b8ce84614c3c",
       "review_state": {
         "human_reviewed": false,
@@ -10805,9 +10805,9 @@
         "work": "상과 벌에 관하여",
         "reference": "79",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:418cbaa2df086fefb2f1f8c92cae7974ab3ec6e0c44b4318c4d67ecb1e4e48b5",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-79"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-79"
       }
     },
     {
@@ -10909,7 +10909,7 @@
       ],
       "work_passage_id": "praem:80",
       "html_path": "works/praem/index.html#p-80",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-80",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-80",
       "alignment_revision": "sha256:f8b3a63ed9240bf9ba0175d646c0531165b0d3e1c49908172189c69507e523a9",
       "review_state": {
         "human_reviewed": false,
@@ -10945,9 +10945,9 @@
         "work": "상과 벌에 관하여",
         "reference": "80",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:2bb2ae9f1ae7e23265fc24e23e2c632b89eb9c7b823b4987045864c79282bba7",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-80"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-80"
       }
     },
     {
@@ -11035,7 +11035,7 @@
       ],
       "work_passage_id": "praem:81",
       "html_path": "works/praem/index.html#p-81",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-81",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-81",
       "alignment_revision": "sha256:f585e81774394fe703cd9e076344f665485b869663d29c3d45d6ed308c59cc7f",
       "review_state": {
         "human_reviewed": false,
@@ -11071,9 +11071,9 @@
         "work": "상과 벌에 관하여",
         "reference": "81",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:69a742960176f06d6d09dfcbf6bf0fe7388b75296753ca03cd6af24331d11e44",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-81"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-81"
       }
     },
     {
@@ -11146,7 +11146,7 @@
       "notes": [],
       "work_passage_id": "praem:82",
       "html_path": "works/praem/index.html#p-82",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-82",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-82",
       "alignment_revision": "sha256:8a52851ed2f1aa4a7ebd0821701528b20a04189f553c44983d4f77eeb0fdaf14",
       "review_state": {
         "human_reviewed": false,
@@ -11182,9 +11182,9 @@
         "work": "상과 벌에 관하여",
         "reference": "82",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:c1e6fc6a57abbcdb154aa4c4d0ed80009ebfe97d27b9603d950ca855ec0db61e",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-82"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-82"
       }
     },
     {
@@ -11272,7 +11272,7 @@
       ],
       "work_passage_id": "praem:83",
       "html_path": "works/praem/index.html#p-83",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-83",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-83",
       "alignment_revision": "sha256:41472405013f5037cb57b2726988a0a63a258bf76a5554c74caf153ddba343c4",
       "review_state": {
         "human_reviewed": false,
@@ -11308,9 +11308,9 @@
         "work": "상과 벌에 관하여",
         "reference": "83",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:6f6f9b5a80add272939c715b6ddbf8661b090e32818d8971492c5f246523985d",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-83"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-83"
       }
     },
     {
@@ -11402,7 +11402,7 @@
       ],
       "work_passage_id": "praem:84",
       "html_path": "works/praem/index.html#p-84",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-84",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-84",
       "alignment_revision": "sha256:9fc1379b2655207cf3f774982906cb9e43d97570301e35c54e9a1a789e90b7b1",
       "review_state": {
         "human_reviewed": false,
@@ -11438,9 +11438,9 @@
         "work": "상과 벌에 관하여",
         "reference": "84",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:6bfb48575b4f221ccab489e24f7b5458d3de4e458b65fef99e94b0b6d319e57d",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-84"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-84"
       }
     },
     {
@@ -11554,7 +11554,7 @@
       ],
       "work_passage_id": "praem:85",
       "html_path": "works/praem/index.html#p-85",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-85",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-85",
       "alignment_revision": "sha256:8c9c54c7023eeb0a8334b3664dd3af89db84fd137538e775ff38f47394d97369",
       "review_state": {
         "human_reviewed": false,
@@ -11590,9 +11590,9 @@
         "work": "상과 벌에 관하여",
         "reference": "85",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:327d566041e18baf2bf1928679bc4a836a652c37e9fb8e63b3f8a35222bea0a2",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-85"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-85"
       }
     },
     {
@@ -11665,7 +11665,7 @@
       "notes": [],
       "work_passage_id": "praem:86",
       "html_path": "works/praem/index.html#p-86",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-86",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-86",
       "alignment_revision": "sha256:3595515ebfc541ac119c77a516f66c95008be39c9e7d5aa5faee699625929cb8",
       "review_state": {
         "human_reviewed": false,
@@ -11701,9 +11701,9 @@
         "work": "상과 벌에 관하여",
         "reference": "86",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:d4ea9f706ba298331d352c252063888de164d2ce72d41a01250122fea560f15f",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-86"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-86"
       }
     },
     {
@@ -11817,7 +11817,7 @@
       ],
       "work_passage_id": "praem:87",
       "html_path": "works/praem/index.html#p-87",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-87",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-87",
       "alignment_revision": "sha256:053dba2dead031bad635bf9b0e7e816d745ecf196cc53a1be4044a4c9ec074ac",
       "review_state": {
         "human_reviewed": false,
@@ -11853,9 +11853,9 @@
         "work": "상과 벌에 관하여",
         "reference": "87",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:d8a6d6cc4a931172519f7381bafb6302c4cbab59490c3181d96929a0c3fb4837",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-87"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-87"
       }
     },
     {
@@ -11959,7 +11959,7 @@
       ],
       "work_passage_id": "praem:88",
       "html_path": "works/praem/index.html#p-88",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-88",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-88",
       "alignment_revision": "sha256:2cf858306b99d35b731113bf0e175d2f6ec3fe26facf80403c2399dffc0b122f",
       "review_state": {
         "human_reviewed": false,
@@ -11995,9 +11995,9 @@
         "work": "상과 벌에 관하여",
         "reference": "88",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:b1252bf3e15141ea0717d9fad6bd468a1e6befd9423b45f0f970693b2fe7eb66",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-88"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-88"
       }
     },
     {
@@ -12125,7 +12125,7 @@
       ],
       "work_passage_id": "praem:89",
       "html_path": "works/praem/index.html#p-89",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-89",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-89",
       "alignment_revision": "sha256:17b2ec3887f2ee308245759f2162c6f7c63bf67d0c7f0a4bb556fd75f832f6a4",
       "review_state": {
         "human_reviewed": false,
@@ -12161,9 +12161,9 @@
         "work": "상과 벌에 관하여",
         "reference": "89",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:1cbe12003d5ff979d4e58a077f2f1196a832f8934f0be933b9836628c2e435e0",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-89"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-89"
       }
     },
     {
@@ -12264,7 +12264,7 @@
       ],
       "work_passage_id": "praem:90",
       "html_path": "works/praem/index.html#p-90",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-90",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-90",
       "alignment_revision": "sha256:b1e55a05312594d29fc139f653c381fa7b8be1f93e4c908e90fea2f943eb3e88",
       "review_state": {
         "human_reviewed": false,
@@ -12300,9 +12300,9 @@
         "work": "상과 벌에 관하여",
         "reference": "90",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:6bff329c56dcdd274e7b8ec80eab939ddb4a1b1b8c60c743f9c68fd2223c51dd",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-90"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-90"
       }
     },
     {
@@ -12416,7 +12416,7 @@
       ],
       "work_passage_id": "praem:91",
       "html_path": "works/praem/index.html#p-91",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-91",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-91",
       "alignment_revision": "sha256:8f811f4db07ef389f1da6863cb4d04e9e495ca51184d56ebc0127bf329536b89",
       "review_state": {
         "human_reviewed": false,
@@ -12452,9 +12452,9 @@
         "work": "상과 벌에 관하여",
         "reference": "91",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:b3e172223d38704efae97a5d24d272d3dfa97f618b0e8bf64a04af4386f9e979",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-91"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-91"
       }
     },
     {
@@ -12530,7 +12530,7 @@
       "notes": [],
       "work_passage_id": "praem:92",
       "html_path": "works/praem/index.html#p-92",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-92",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-92",
       "alignment_revision": "sha256:cf3751bce3c5a2362bf93e807f1f937781db9a0f779517c960c3d249410d91df",
       "review_state": {
         "human_reviewed": false,
@@ -12566,9 +12566,9 @@
         "work": "상과 벌에 관하여",
         "reference": "92",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:01d88cadbca48ef928f98d43b592274d29ba6d657784445526f51d6c541ce431",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-92"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-92"
       }
     },
     {
@@ -12669,7 +12669,7 @@
       ],
       "work_passage_id": "praem:93",
       "html_path": "works/praem/index.html#p-93",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-93",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-93",
       "alignment_revision": "sha256:c21d9c113415e79c45c176ea83eab86f975a3a3883d4cd187444497129060bc2",
       "review_state": {
         "human_reviewed": false,
@@ -12705,9 +12705,9 @@
         "work": "상과 벌에 관하여",
         "reference": "93",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:764a08b2b1de65702c19c36dce4a2e5ef6c4e87fa7130c0c5a1e5bb638b489e7",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-93"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-93"
       }
     },
     {
@@ -12808,7 +12808,7 @@
       ],
       "work_passage_id": "praem:94",
       "html_path": "works/praem/index.html#p-94",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-94",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-94",
       "alignment_revision": "sha256:957ac90cc4eb8ffb44c3ac2da1028e81ec5e0a9975866a5a91bf39a8022973d3",
       "review_state": {
         "human_reviewed": false,
@@ -12844,9 +12844,9 @@
         "work": "상과 벌에 관하여",
         "reference": "94",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:fcdf6ec2b20fd26f600abaec7b3d1cd4a0c855467fb0ee092f10bd011fd61268",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-94"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-94"
       }
     },
     {
@@ -12974,7 +12974,7 @@
       ],
       "work_passage_id": "praem:95",
       "html_path": "works/praem/index.html#p-95",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-95",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-95",
       "alignment_revision": "sha256:50cf0c20bc6b9a09088260484418f46d021c0db434e12fba299e37f16515bd71",
       "review_state": {
         "human_reviewed": false,
@@ -13010,9 +13010,9 @@
         "work": "상과 벌에 관하여",
         "reference": "95",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:231e1aa22a6ab5a19f73a6f4a6a40280fa6f058b4db09d6619e18c938d6ac77d",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-95"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-95"
       }
     },
     {
@@ -13077,7 +13077,7 @@
       ],
       "work_passage_id": "praem:96",
       "html_path": "works/praem/index.html#p-96",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-96",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-96",
       "alignment_revision": "sha256:e0f4ef9e7333982053e88a99e22d6acfc5e56733f62fe8ebfd3a76c77f93829c",
       "review_state": {
         "human_reviewed": false,
@@ -13113,9 +13113,9 @@
         "work": "상과 벌에 관하여",
         "reference": "96",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:56de92ce033948480cd57465c1f635c68cc67f7aa0a9efdb6707fc5e5c7f3d9c",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-96"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-96"
       }
     },
     {
@@ -13242,7 +13242,7 @@
       ],
       "work_passage_id": "praem:97",
       "html_path": "works/praem/index.html#p-97",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-97",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-97",
       "alignment_revision": "sha256:03d56a10b427a713fff27e1e02aed75975b3771527953436796ff78738655e02",
       "review_state": {
         "human_reviewed": false,
@@ -13278,9 +13278,9 @@
         "work": "상과 벌에 관하여",
         "reference": "97",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:1fa4c587279e8e79faa8335c4fa1cd6a69194c58c7b31f7e1d071ec54d7d4e16",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-97"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-97"
       }
     },
     {
@@ -13355,7 +13355,7 @@
       ],
       "work_passage_id": "praem:98",
       "html_path": "works/praem/index.html#p-98",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-98",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-98",
       "alignment_revision": "sha256:e97389c54053c05e9d7e8dd478f1b6acd2c7c6463f064a44a71a80283fc95c09",
       "review_state": {
         "human_reviewed": false,
@@ -13391,9 +13391,9 @@
         "work": "상과 벌에 관하여",
         "reference": "98",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:9ae5a2f412c7bf4f913c7a8867b088d60386a7f9cdc7eff587ecbf20c349c57b",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-98"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-98"
       }
     },
     {
@@ -13481,7 +13481,7 @@
       ],
       "work_passage_id": "praem:99",
       "html_path": "works/praem/index.html#p-99",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-99",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-99",
       "alignment_revision": "sha256:16d0f3a3b944759ddcbafda892982c51cec938d3a36e743c7b0bdc9af6a2feec",
       "review_state": {
         "human_reviewed": false,
@@ -13517,9 +13517,9 @@
         "work": "상과 벌에 관하여",
         "reference": "99",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:8028019dc6c90fe2a008daf853b6f63100eb928c5c8f61f92957055d8f4997cc",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-99"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-99"
       }
     },
     {
@@ -13623,7 +13623,7 @@
       ],
       "work_passage_id": "praem:100",
       "html_path": "works/praem/index.html#p-100",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-100",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-100",
       "alignment_revision": "sha256:c8043fe875e50f7abc752534f6bfab72a019df28887cbe426abefeed57b02f24",
       "review_state": {
         "human_reviewed": false,
@@ -13659,9 +13659,9 @@
         "work": "상과 벌에 관하여",
         "reference": "100",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:fca9bd62d0563623fc020c8d06b8c40281754507cb6735ca7db35a65435d253d",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-100"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-100"
       }
     },
     {
@@ -13750,7 +13750,7 @@
       ],
       "work_passage_id": "praem:101",
       "html_path": "works/praem/index.html#p-101",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-101",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-101",
       "alignment_revision": "sha256:7433ee63902e261d5e34b28d7ff821e5625c1e58076e25dcfd6bcfce4a67e188",
       "review_state": {
         "human_reviewed": false,
@@ -13786,9 +13786,9 @@
         "work": "상과 벌에 관하여",
         "reference": "101",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:68f6488706bbd7c0b1daf493e64239a2e3db52b462d79b5c187b28a915fb2417",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-101"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-101"
       }
     },
     {
@@ -13861,7 +13861,7 @@
       "notes": [],
       "work_passage_id": "praem:102",
       "html_path": "works/praem/index.html#p-102",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-102",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-102",
       "alignment_revision": "sha256:463df2bfaf268ab7e308b9c066abec29e8173a3baf52c2ea6a22e13a25c2aec2",
       "review_state": {
         "human_reviewed": false,
@@ -13897,9 +13897,9 @@
         "work": "상과 벌에 관하여",
         "reference": "102",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:933b5a7cc8b7eb0eee2163a00bc9dde1f115e66a4151a056ba3de3bae5651419",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-102"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-102"
       }
     },
     {
@@ -13987,7 +13987,7 @@
       ],
       "work_passage_id": "praem:103",
       "html_path": "works/praem/index.html#p-103",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-103",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-103",
       "alignment_revision": "sha256:3c873c9665b0f3bbe00b8d678be97759745cf63c2dba07acca38ac12e3d7e85f",
       "review_state": {
         "human_reviewed": false,
@@ -14023,9 +14023,9 @@
         "work": "상과 벌에 관하여",
         "reference": "103",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:c012dcb30741b5cd2546a3f35fcbc21528fb4a899db12c56264b62ba5883759f",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-103"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-103"
       }
     },
     {
@@ -14116,7 +14116,7 @@
       ],
       "work_passage_id": "praem:104",
       "html_path": "works/praem/index.html#p-104",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-104",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-104",
       "alignment_revision": "sha256:66789a6adc62cdffc687b9f66a231d6d2e0bfe87650261503d9625e95aa13782",
       "review_state": {
         "human_reviewed": false,
@@ -14152,9 +14152,9 @@
         "work": "상과 벌에 관하여",
         "reference": "104",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:f37f332443d8e7937589f0a7c2bcfbdc373503b0b60e4115220b3a3f4688245b",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-104"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-104"
       }
     },
     {
@@ -14240,7 +14240,7 @@
       "notes": [],
       "work_passage_id": "praem:105",
       "html_path": "works/praem/index.html#p-105",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-105",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-105",
       "alignment_revision": "sha256:cdfe4d0c82e73a8f7cb5bbe57df7bd911f53da1e9f10be45d95f1b9aac2453f2",
       "review_state": {
         "human_reviewed": false,
@@ -14276,9 +14276,9 @@
         "work": "상과 벌에 관하여",
         "reference": "105",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:d03d148a555f70a54ea0b76d8ae889a983882da05ce888ab563ce4ab256616a8",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-105"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-105"
       }
     },
     {
@@ -14366,7 +14366,7 @@
       ],
       "work_passage_id": "praem:106",
       "html_path": "works/praem/index.html#p-106",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-106",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-106",
       "alignment_revision": "sha256:7aff89c20e21c1f68c46d1a74cbca0535bf0ef65e05dd9d26adf1925606865c5",
       "review_state": {
         "human_reviewed": false,
@@ -14402,9 +14402,9 @@
         "work": "상과 벌에 관하여",
         "reference": "106",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:54706938b00ac29463cd7246cea520535ff9cddb5d9c68c25c7235e41877ca64",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-106"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-106"
       }
     },
     {
@@ -14519,7 +14519,7 @@
       ],
       "work_passage_id": "praem:107",
       "html_path": "works/praem/index.html#p-107",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-107",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-107",
       "alignment_revision": "sha256:eb9d5d2d7900d9fadc090b03e816aae537a67a928f4cfe4800312720386bd340",
       "review_state": {
         "human_reviewed": false,
@@ -14555,9 +14555,9 @@
         "work": "상과 벌에 관하여",
         "reference": "107",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:bdb5252d064f13c6d166da91e4cd99c238dfda8ee0f38b7874b315bffa9031a2",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-107"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-107"
       }
     },
     {
@@ -14648,7 +14648,7 @@
       ],
       "work_passage_id": "praem:108",
       "html_path": "works/praem/index.html#p-108",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-108",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-108",
       "alignment_revision": "sha256:ef511eaced5af673374c023f9fa97e20eff8d6a8b9c16a5ae7cb5652f193001a",
       "review_state": {
         "human_reviewed": false,
@@ -14684,9 +14684,9 @@
         "work": "상과 벌에 관하여",
         "reference": "108",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:915bb6056341b1da3415a2ec1a43c6b7ba99c800817b0de0eb15339ef9eaf8b3",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-108"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-108"
       }
     },
     {
@@ -14787,7 +14787,7 @@
       ],
       "work_passage_id": "praem:109",
       "html_path": "works/praem/index.html#p-109",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-109",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-109",
       "alignment_revision": "sha256:6a304bf59b4b82f83d2a1020c6fb2a9b46affd5a97859c695b3448e5514c091d",
       "review_state": {
         "human_reviewed": false,
@@ -14823,9 +14823,9 @@
         "work": "상과 벌에 관하여",
         "reference": "109",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:3dd13fc06f601b9394f31b2fc59fb601a6c5ea920edb0dca01bd7ffaeb79c9ce",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-109"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-109"
       }
     },
     {
@@ -14940,7 +14940,7 @@
       ],
       "work_passage_id": "praem:110",
       "html_path": "works/praem/index.html#p-110",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-110",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-110",
       "alignment_revision": "sha256:ea759d30043964cca7b80664c61e0aed9c9b7846da48574ff0f0fc19f2eee44c",
       "review_state": {
         "human_reviewed": false,
@@ -14976,9 +14976,9 @@
         "work": "상과 벌에 관하여",
         "reference": "110",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:2328d5570fda64eb75000c0fb354813e7078cb5ee54b2c0b98fda20bcf2bcd97",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-110"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-110"
       }
     },
     {
@@ -15071,7 +15071,7 @@
       ],
       "work_passage_id": "praem:111",
       "html_path": "works/praem/index.html#p-111",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-111",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-111",
       "alignment_revision": "sha256:b3ea3810b3bbaa03b36241c468c2c757c5bf504869ab029e068c696bb203ac58",
       "review_state": {
         "human_reviewed": false,
@@ -15107,9 +15107,9 @@
         "work": "상과 벌에 관하여",
         "reference": "111",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:4671db86d6dd9ed270c6c0911232974cba305c72c5522238c33e266e29cc97ff",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-111"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-111"
       }
     },
     {
@@ -15210,7 +15210,7 @@
       ],
       "work_passage_id": "praem:112",
       "html_path": "works/praem/index.html#p-112",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-112",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-112",
       "alignment_revision": "sha256:21fc105f77cbd1ae544725185cbe07a7ed2899d1d4939d49abb63684632726a0",
       "review_state": {
         "human_reviewed": false,
@@ -15246,9 +15246,9 @@
         "work": "상과 벌에 관하여",
         "reference": "112",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:bdb91dfee27cbed603b893f6300e71aba91f494d9cbc6da38bdb51ee27fe8cba",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-112"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-112"
       }
     },
     {
@@ -15336,7 +15336,7 @@
       ],
       "work_passage_id": "praem:113",
       "html_path": "works/praem/index.html#p-113",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-113",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-113",
       "alignment_revision": "sha256:f70b7cd676de1184257e2265f3e0080eaecfd1cc22c7e3f476f2e1c98a8d947b",
       "review_state": {
         "human_reviewed": false,
@@ -15372,9 +15372,9 @@
         "work": "상과 벌에 관하여",
         "reference": "113",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:622017e4ea393eff212918c40a0614377df723caefd3a6594f6a99d903257a95",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-113"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-113"
       }
     },
     {
@@ -15475,7 +15475,7 @@
       ],
       "work_passage_id": "praem:114",
       "html_path": "works/praem/index.html#p-114",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-114",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-114",
       "alignment_revision": "sha256:df2ca23912ed4838330719ee6332261b9b471f311b2d8a6feeaf430fb8c9f719",
       "review_state": {
         "human_reviewed": false,
@@ -15511,9 +15511,9 @@
         "work": "상과 벌에 관하여",
         "reference": "114",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:68ed8107607c6add61a92ecfba51e6d98e585dafeff667d1e2b93e2f95ef658b",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-114"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-114"
       }
     },
     {
@@ -15602,7 +15602,7 @@
       ],
       "work_passage_id": "praem:115",
       "html_path": "works/praem/index.html#p-115",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-115",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-115",
       "alignment_revision": "sha256:8e96cd78172be1483afe22787b5f01df90c028568b2f9d2ab840e715f8448ebf",
       "review_state": {
         "human_reviewed": false,
@@ -15638,9 +15638,9 @@
         "work": "상과 벌에 관하여",
         "reference": "115",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:39d092262c5713217852fa1beffdeaafecdb8b04d9fa72d56022c2cf0b050405",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-115"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-115"
       }
     },
     {
@@ -15729,7 +15729,7 @@
       "notes": [],
       "work_passage_id": "praem:116",
       "html_path": "works/praem/index.html#p-116",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-116",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-116",
       "alignment_revision": "sha256:4cf4adc3e8c74eb7b8886b1efa7fdb87abb6fce619e6fcde326b46d30fa52c4d",
       "review_state": {
         "human_reviewed": false,
@@ -15765,9 +15765,9 @@
         "work": "상과 벌에 관하여",
         "reference": "116",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:dc18cb26168aa97e8f6899136224cd386e8a297967a3cd46b0394b4954e55ef3",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-116"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-116"
       }
     },
     {
@@ -15895,7 +15895,7 @@
       ],
       "work_passage_id": "praem:117",
       "html_path": "works/praem/index.html#p-117",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-117",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-117",
       "alignment_revision": "sha256:304a05e40a0c7fea0e4e0023713f2a17a7d9f64e639b2d2739eff169f123aec5",
       "review_state": {
         "human_reviewed": false,
@@ -15931,9 +15931,9 @@
         "work": "상과 벌에 관하여",
         "reference": "117",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:bc3c7349d4045ce5cae7a5aca3e18143a4fe6bfbacdf2d1edb598960d2b18e3c",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-117"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-117"
       }
     },
     {
@@ -16047,7 +16047,7 @@
       ],
       "work_passage_id": "praem:118",
       "html_path": "works/praem/index.html#p-118",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-118",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-118",
       "alignment_revision": "sha256:7d0ebcb2a8d7512f6644ef90d66b559a77bd88a31652bfa650104dac5607b8fa",
       "review_state": {
         "human_reviewed": false,
@@ -16083,9 +16083,9 @@
         "work": "상과 벌에 관하여",
         "reference": "118",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:ca320bfbd62939b5b3fe9df4892bd907a78f9575887cccb746ed9e9b22f8d1ce",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-118"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-118"
       }
     },
     {
@@ -16202,7 +16202,7 @@
       ],
       "work_passage_id": "praem:119",
       "html_path": "works/praem/index.html#p-119",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-119",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-119",
       "alignment_revision": "sha256:088706c0c03fa31dba5fc811e95e9fd9fc8b7668514e36f9f0a5cd3c9984fdd6",
       "review_state": {
         "human_reviewed": false,
@@ -16238,9 +16238,9 @@
         "work": "상과 벌에 관하여",
         "reference": "119",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:b3910386fc950d12df73aedb17072c100783c788d8c7645ae44ccf71bb08337b",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-119"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-119"
       }
     },
     {
@@ -16328,7 +16328,7 @@
       ],
       "work_passage_id": "praem:120",
       "html_path": "works/praem/index.html#p-120",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-120",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-120",
       "alignment_revision": "sha256:daff0ea9d5bbe50834b8b1ee8e85e48894d6d925e2ee36b377cdf424d76f3e6d",
       "review_state": {
         "human_reviewed": false,
@@ -16364,9 +16364,9 @@
         "work": "상과 벌에 관하여",
         "reference": "120",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:58dd517d7a412f7e4a0a3ae76f4ae6e08eb55659455d0e5c55cc19beb58df3b8",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-120"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-120"
       }
     },
     {
@@ -16483,7 +16483,7 @@
       ],
       "work_passage_id": "praem:121",
       "html_path": "works/praem/index.html#p-121",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-121",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-121",
       "alignment_revision": "sha256:129f6c2adf86b2a81a3897ae5363585d9e1b765cea30a13a5a80eef59def7abf",
       "review_state": {
         "human_reviewed": false,
@@ -16519,9 +16519,9 @@
         "work": "상과 벌에 관하여",
         "reference": "121",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:f39ff06a0a4d3df9c65406d52129f0cfa2a315f2b2c3c4c163cbc816b1247be4",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-121"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-121"
       }
     },
     {
@@ -16609,7 +16609,7 @@
       ],
       "work_passage_id": "praem:122",
       "html_path": "works/praem/index.html#p-122",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-122",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-122",
       "alignment_revision": "sha256:b61e6a1f12636ab8c1cdf3b1dcfdb6a116f1ff141b60a38f1f1438dc5111e37a",
       "review_state": {
         "human_reviewed": false,
@@ -16645,9 +16645,9 @@
         "work": "상과 벌에 관하여",
         "reference": "122",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:40268ad39ead43a7042b08aff61f8075e5c8ec4a7473243cb07b7065ea6a1816",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-122"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-122"
       }
     },
     {
@@ -16749,7 +16749,7 @@
       ],
       "work_passage_id": "praem:123",
       "html_path": "works/praem/index.html#p-123",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-123",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-123",
       "alignment_revision": "sha256:ca0bd698cc1dc4154f43899623645a10edd948ab1540fb615075bcd50a0b08ca",
       "review_state": {
         "human_reviewed": false,
@@ -16785,9 +16785,9 @@
         "work": "상과 벌에 관하여",
         "reference": "123",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:3de702da969b9517de5f1bbc96caebdf55ca994185ee93047aaa8a55eac56a62",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-123"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-123"
       }
     },
     {
@@ -16878,7 +16878,7 @@
       ],
       "work_passage_id": "praem:124",
       "html_path": "works/praem/index.html#p-124",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-124",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-124",
       "alignment_revision": "sha256:d134d370643607e083e87ecd9a3df3153675560133b56fc9cabf56023c3c78f1",
       "review_state": {
         "human_reviewed": false,
@@ -16914,9 +16914,9 @@
         "work": "상과 벌에 관하여",
         "reference": "124",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:177df875e4fca224d7cb3746508ca97f0dbcc9b2e66482e8821729d22ef465ed",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-124"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-124"
       }
     },
     {
@@ -17030,7 +17030,7 @@
       ],
       "work_passage_id": "praem:125",
       "html_path": "works/praem/index.html#p-125",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-125",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-125",
       "alignment_revision": "sha256:dfb38af67ddbb1b5c6d58cc7acb4639bcffab10dff75cda915fc47f06d9967ab",
       "review_state": {
         "human_reviewed": false,
@@ -17066,9 +17066,9 @@
         "work": "상과 벌에 관하여",
         "reference": "125",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:9972f7f94c837eb79028f9a924ad097cdd34629acf0bbbb80c9c9984c359f053",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-125"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-125"
       }
     },
     {
@@ -17154,7 +17154,7 @@
       "notes": [],
       "work_passage_id": "praem:126",
       "html_path": "works/praem/index.html#p-126",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-126",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-126",
       "alignment_revision": "sha256:014b0fd2a727ea65e22cfdad433a84964c7665af0a0a324052f3b37575e27728",
       "review_state": {
         "human_reviewed": false,
@@ -17190,9 +17190,9 @@
         "work": "상과 벌에 관하여",
         "reference": "126",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:fcd1730e90801d03aab9d5217c241178adf9f26951334212d508b215ad706e53",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-126"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-126"
       }
     },
     {
@@ -17281,7 +17281,7 @@
       ],
       "work_passage_id": "praem:127",
       "html_path": "works/praem/index.html#p-127",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-127",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-127",
       "alignment_revision": "sha256:081d7f9420555b6ed833fe7ba478ce141587647796cc952f7bf3138bc7947779",
       "review_state": {
         "human_reviewed": false,
@@ -17317,9 +17317,9 @@
         "work": "상과 벌에 관하여",
         "reference": "127",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:340b304c1ad7d06dcb3ed97ce25fa9ebb6e49c3c13187ef769d2dbebc7bc9c41",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-127"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-127"
       }
     },
     {
@@ -17449,7 +17449,7 @@
       ],
       "work_passage_id": "praem:128",
       "html_path": "works/praem/index.html#p-128",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-128",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-128",
       "alignment_revision": "sha256:7cf9c51c20bbbcd57593576cf32a52a353b7bee7eb66f8c56e8c2c197372edd4",
       "review_state": {
         "human_reviewed": false,
@@ -17485,9 +17485,9 @@
         "work": "상과 벌에 관하여",
         "reference": "128",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:83a3e0cedd59b6ec65501f886bf8ae77d6d2cf70096ebe9c2ccd433d0de3215d",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-128"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-128"
       }
     },
     {
@@ -17602,7 +17602,7 @@
       ],
       "work_passage_id": "praem:129",
       "html_path": "works/praem/index.html#p-129",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-129",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-129",
       "alignment_revision": "sha256:5a8a40cba310f6d37cd1f9337cbebdc33ed14d889e0f01b8d3920cea96b15a74",
       "review_state": {
         "human_reviewed": false,
@@ -17638,9 +17638,9 @@
         "work": "상과 벌에 관하여",
         "reference": "129",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:db877bc9f7b63c03dfca009a723386e7757ff3642984fd22679ff58c6bfa31fa",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-129"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-129"
       }
     },
     {
@@ -17781,7 +17781,7 @@
       ],
       "work_passage_id": "praem:130",
       "html_path": "works/praem/index.html#p-130",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-130",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-130",
       "alignment_revision": "sha256:92082247e915fb1ffe7c7786909597b9961538a3bf4260fdc9017180fdbb8969",
       "review_state": {
         "human_reviewed": false,
@@ -17817,9 +17817,9 @@
         "work": "상과 벌에 관하여",
         "reference": "130",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:8733d407d1a5436ab51be5d78af93210caffe4c0be117776f6dd568dc5ac209b",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-130"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-130"
       }
     },
     {
@@ -17910,7 +17910,7 @@
       ],
       "work_passage_id": "praem:131",
       "html_path": "works/praem/index.html#p-131",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-131",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-131",
       "alignment_revision": "sha256:8c80fe073db5867ebc45ce3754c94ffd1bf6e6038ab1194311679360b20b299a",
       "review_state": {
         "human_reviewed": false,
@@ -17946,9 +17946,9 @@
         "work": "상과 벌에 관하여",
         "reference": "131",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:22aff736c649b1920f037b5403a720e9444d2e56e25a8ad0d4c90fcd3c8f78e6",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-131"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-131"
       }
     },
     {
@@ -18036,7 +18036,7 @@
       ],
       "work_passage_id": "praem:132",
       "html_path": "works/praem/index.html#p-132",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-132",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-132",
       "alignment_revision": "sha256:c6ab89d1b0355aea508416219e1731739c2f09b35c1a520fdbf977e11ea08f52",
       "review_state": {
         "human_reviewed": false,
@@ -18072,9 +18072,9 @@
         "work": "상과 벌에 관하여",
         "reference": "132",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:8d355835792f919880a4f02cf3a48f100b4485b6e5ffe042ce0e37b7eea21fb6",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-132"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-132"
       }
     },
     {
@@ -18188,7 +18188,7 @@
       ],
       "work_passage_id": "praem:133",
       "html_path": "works/praem/index.html#p-133",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-133",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-133",
       "alignment_revision": "sha256:d3abce841dba90b7fec9d851570f37309f34b884a4d742d8171a1b6e722d1e57",
       "review_state": {
         "human_reviewed": false,
@@ -18224,9 +18224,9 @@
         "work": "상과 벌에 관하여",
         "reference": "133",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:bc77dabb80e7b6329063a94d4b9954ce1f6e4abb9d7217fdfe3262799881627a",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-133"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-133"
       }
     },
     {
@@ -18341,7 +18341,7 @@
       ],
       "work_passage_id": "praem:134",
       "html_path": "works/praem/index.html#p-134",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-134",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-134",
       "alignment_revision": "sha256:4cd6073e52e9cc0c3293643d3a9335f71a2a85c7800bc3bc70fa6776976719a1",
       "review_state": {
         "human_reviewed": false,
@@ -18377,9 +18377,9 @@
         "work": "상과 벌에 관하여",
         "reference": "134",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:e4bfe65ca4bfe59279592ff9295246b9c5084d072ca76ea11f03a240dea90f12",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-134"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-134"
       }
     },
     {
@@ -18506,7 +18506,7 @@
       ],
       "work_passage_id": "praem:135",
       "html_path": "works/praem/index.html#p-135",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-135",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-135",
       "alignment_revision": "sha256:a2ce84545b5376678b0d210f872042a9dd5975701e09c61eda6b45f1568735d3",
       "review_state": {
         "human_reviewed": false,
@@ -18542,9 +18542,9 @@
         "work": "상과 벌에 관하여",
         "reference": "135",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:b92448aeae5ab458305cd3b376c880ac5ab695d90bafbca413d9fde7e1c08b95",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-135"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-135"
       }
     },
     {
@@ -18648,7 +18648,7 @@
       ],
       "work_passage_id": "praem:136",
       "html_path": "works/praem/index.html#p-136",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-136",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-136",
       "alignment_revision": "sha256:0d97533884815c4fddaae920f00baeb247dd51a89197305b0e511283fcfb0d57",
       "review_state": {
         "human_reviewed": false,
@@ -18684,9 +18684,9 @@
         "work": "상과 벌에 관하여",
         "reference": "136",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:51f6639722271708ca7133d96a19ced3f100a5192a80ab486e679ffa1c0fbb4b",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-136"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-136"
       }
     },
     {
@@ -18774,7 +18774,7 @@
       ],
       "work_passage_id": "praem:137",
       "html_path": "works/praem/index.html#p-137",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-137",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-137",
       "alignment_revision": "sha256:89d24b0191b8264bc7ca0b6fc580ace9ce6da20c02b53de5a40dc573ead707b4",
       "review_state": {
         "human_reviewed": false,
@@ -18810,9 +18810,9 @@
         "work": "상과 벌에 관하여",
         "reference": "137",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:5f6adde4eddec56af79c4a3976b3c5290dbd95862414b3d67d02f32d68d48dbb",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-137"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-137"
       }
     },
     {
@@ -18900,7 +18900,7 @@
       ],
       "work_passage_id": "praem:138",
       "html_path": "works/praem/index.html#p-138",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-138",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-138",
       "alignment_revision": "sha256:be98ab646f8352cae534c64cf12b9aa5dddbeaa5095abf4d9b2ea2c2ed650e42",
       "review_state": {
         "human_reviewed": false,
@@ -18936,9 +18936,9 @@
         "work": "상과 벌에 관하여",
         "reference": "138",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:688965a48aff761e35eb74f01ae043d821ae784f0eb69ba954ed62901796e85c",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-138"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-138"
       }
     },
     {
@@ -19082,7 +19082,7 @@
       ],
       "work_passage_id": "praem:139",
       "html_path": "works/praem/index.html#p-139",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-139",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-139",
       "alignment_revision": "sha256:8df8f5492abba7ca958476b8ae257b9551f5391c3a799d9ff2c9347ea64c402f",
       "review_state": {
         "human_reviewed": false,
@@ -19118,9 +19118,9 @@
         "work": "상과 벌에 관하여",
         "reference": "139",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:46b615723c6f8ab15953b0dd1b123d4d61b8d4feceaf4d2c7c8aa755556b7f8a",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-139"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-139"
       }
     },
     {
@@ -19208,7 +19208,7 @@
       ],
       "work_passage_id": "praem:140",
       "html_path": "works/praem/index.html#p-140",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-140",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-140",
       "alignment_revision": "sha256:c7a612e93c5246bf96408cc790815736a65a332ab9e44f4a52e23839912a2f63",
       "review_state": {
         "human_reviewed": false,
@@ -19244,9 +19244,9 @@
         "work": "상과 벌에 관하여",
         "reference": "140",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:cae02e83ed477670fd27605fde3de9addfd002b829b5ec6ea91c4c3b5e084a9f",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-140"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-140"
       }
     },
     {
@@ -19347,7 +19347,7 @@
       ],
       "work_passage_id": "praem:141",
       "html_path": "works/praem/index.html#p-141",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-141",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-141",
       "alignment_revision": "sha256:0298c7cce6b218d184351dd381804845e079c1c63bbed2e090d0dfb9473d1953",
       "review_state": {
         "human_reviewed": false,
@@ -19383,9 +19383,9 @@
         "work": "상과 벌에 관하여",
         "reference": "141",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:960f690918bcf9bc9321e41475dd9fd5029ac581428927a4ffd03037453abd31",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-141"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-141"
       }
     },
     {
@@ -19512,7 +19512,7 @@
       ],
       "work_passage_id": "praem:142",
       "html_path": "works/praem/index.html#p-142",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-142",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-142",
       "alignment_revision": "sha256:7dc96646932d01adeece52430d9ce67ccff88145053ba2b1ba4e3eb70308d4c3",
       "review_state": {
         "human_reviewed": false,
@@ -19548,9 +19548,9 @@
         "work": "상과 벌에 관하여",
         "reference": "142",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:4920daec4265b9c53a10c672a43b364408ba28401642b52bec0b9d8efc0c76bd",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-142"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-142"
       }
     },
     {
@@ -19693,7 +19693,7 @@
       ],
       "work_passage_id": "praem:143",
       "html_path": "works/praem/index.html#p-143",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-143",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-143",
       "alignment_revision": "sha256:c906b559c0204d78510822bbabc7d425c2c3e767a3acbbfd79857db4ef0a8c51",
       "review_state": {
         "human_reviewed": false,
@@ -19729,9 +19729,9 @@
         "work": "상과 벌에 관하여",
         "reference": "143",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:129767b204badba1a1f688b7a6868c3deb322fa3254e89c65e81ffaea859cb70",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-143"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-143"
       }
     },
     {
@@ -19806,7 +19806,7 @@
       ],
       "work_passage_id": "praem:144",
       "html_path": "works/praem/index.html#p-144",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-144",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-144",
       "alignment_revision": "sha256:8af8fbf524590b68f76f64a68f7789ecf611f9c68d1ef7e26a1a664309400c83",
       "review_state": {
         "human_reviewed": false,
@@ -19842,9 +19842,9 @@
         "work": "상과 벌에 관하여",
         "reference": "144",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:c74fee9aafea2c8475b34c7ddf2e35bd2926e66c2cc2a6456ec95f6dc7d1c150",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-144"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-144"
       }
     },
     {
@@ -19958,7 +19958,7 @@
       ],
       "work_passage_id": "praem:145",
       "html_path": "works/praem/index.html#p-145",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-145",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-145",
       "alignment_revision": "sha256:2c9ff32e2280cee4de102ddb24c569e0d0d979a330d62dffbc043fb4e4c06ef7",
       "review_state": {
         "human_reviewed": false,
@@ -19994,9 +19994,9 @@
         "work": "상과 벌에 관하여",
         "reference": "145",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:e18c341e2acebc2cd5cb9c4db69cda6c1c7980e40f9ca4a91b33cfd48a513d00",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-145"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-145"
       }
     },
     {
@@ -20084,7 +20084,7 @@
       ],
       "work_passage_id": "praem:146",
       "html_path": "works/praem/index.html#p-146",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-146",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-146",
       "alignment_revision": "sha256:a0045ce498b0ff2f5b2a91c03e9b9870eeebad7b0f4e45b9f92d1255628ca711",
       "review_state": {
         "human_reviewed": false,
@@ -20120,9 +20120,9 @@
         "work": "상과 벌에 관하여",
         "reference": "146",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:5a4e17dbce394087540a1b48fd0abfbb2f2511c541346ae76e462f573e0e191a",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-146"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-146"
       }
     },
     {
@@ -20197,7 +20197,7 @@
       ],
       "work_passage_id": "praem:147",
       "html_path": "works/praem/index.html#p-147",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-147",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-147",
       "alignment_revision": "sha256:54bfe41d417bc3e1870f93a73d6c17070321d74321c8d9e27c9faafbb26249bb",
       "review_state": {
         "human_reviewed": false,
@@ -20233,9 +20233,9 @@
         "work": "상과 벌에 관하여",
         "reference": "147",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:b7b1a38623f7099dce1cb9b4cb78d57becae441f8c841ddf1059746e34b2f418",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-147"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-147"
       }
     },
     {
@@ -20391,7 +20391,7 @@
       ],
       "work_passage_id": "praem:148",
       "html_path": "works/praem/index.html#p-148",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-148",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-148",
       "alignment_revision": "sha256:a8856910ae526d3e8bfee144a61ec6316aaa1cd41638eaedd239ba251970a435",
       "review_state": {
         "human_reviewed": false,
@@ -20427,9 +20427,9 @@
         "work": "상과 벌에 관하여",
         "reference": "148",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:a1c5afd969cc796ea1c6a8e323cf3067c2cb9185114cbb9423b5dc341f2eb950",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-148"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-148"
       }
     },
     {
@@ -20543,7 +20543,7 @@
       ],
       "work_passage_id": "praem:149",
       "html_path": "works/praem/index.html#p-149",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-149",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-149",
       "alignment_revision": "sha256:e4234c954c3d008a52992d160c587ac76ff5811a37e9281ef0cb002e10d7b7cd",
       "review_state": {
         "human_reviewed": false,
@@ -20579,9 +20579,9 @@
         "work": "상과 벌에 관하여",
         "reference": "149",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:0c819253ef72c96b1b89d3a6cdcc5095941ed9dd028431291220f4a7d70031dd",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-149"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-149"
       }
     },
     {
@@ -20643,7 +20643,7 @@
       ],
       "work_passage_id": "praem:150",
       "html_path": "works/praem/index.html#p-150",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-150",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-150",
       "alignment_revision": "sha256:97d737f19f005b76ea9dc083aebdc745bc6143c3d73c49d94bf050ebe2b1d62c",
       "review_state": {
         "human_reviewed": false,
@@ -20679,9 +20679,9 @@
         "work": "상과 벌에 관하여",
         "reference": "150",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:608542f4a43989c8a26490e2fcdb2730ddcf5882eaac76e191292d38a33a620f",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-150"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-150"
       }
     },
     {
@@ -20782,7 +20782,7 @@
       ],
       "work_passage_id": "praem:151",
       "html_path": "works/praem/index.html#p-151",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-151",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-151",
       "alignment_revision": "sha256:70e0d22f7b04fc30e01fed265a92c2bb6d982ac469dd1f40786c0195b2a38c84",
       "review_state": {
         "human_reviewed": false,
@@ -20818,9 +20818,9 @@
         "work": "상과 벌에 관하여",
         "reference": "151",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:b5fce8fe849890f0cb7b8150965f3bfc2d364673b25e0088db41d9fa1d6e353c",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-151"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-151"
       }
     },
     {
@@ -20977,7 +20977,7 @@
       ],
       "work_passage_id": "praem:152",
       "html_path": "works/praem/index.html#p-152",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-152",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-152",
       "alignment_revision": "sha256:3a8e0133637d834105915531b63808539593f27c5370bd92c1bb1f6e85b8ceb2",
       "review_state": {
         "human_reviewed": false,
@@ -21013,9 +21013,9 @@
         "work": "상과 벌에 관하여",
         "reference": "152",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:848b679765eb645136271d287512ba14c075b2ea6a51a7f83f66d95f20cf0fab",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-152"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-152"
       }
     },
     {
@@ -21117,7 +21117,7 @@
       ],
       "work_passage_id": "praem:153",
       "html_path": "works/praem/index.html#p-153",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-153",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-153",
       "alignment_revision": "sha256:cc1ded9bda70467726648fc75e487cc2c9dfbe606c2852cfaa4c7018e94daa23",
       "review_state": {
         "human_reviewed": false,
@@ -21153,9 +21153,9 @@
         "work": "상과 벌에 관하여",
         "reference": "153",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:b7d214d90e951e05d3ba63574fc15ca696d458c456b011ba78cc7f587dbdb3e0",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-153"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-153"
       }
     },
     {
@@ -21282,7 +21282,7 @@
       ],
       "work_passage_id": "praem:154",
       "html_path": "works/praem/index.html#p-154",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-154",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-154",
       "alignment_revision": "sha256:8694b8403f5a1b90070aa85cbcd2c5ef3cbcad1f139e89eefc13582c547f29cb",
       "review_state": {
         "human_reviewed": false,
@@ -21318,9 +21318,9 @@
         "work": "상과 벌에 관하여",
         "reference": "154",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:3a7d51795f898f41541bd9a31bd3740778da27d60d77a6563338eb9773bda562",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-154"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-154"
       }
     },
     {
@@ -21408,7 +21408,7 @@
       ],
       "work_passage_id": "praem:155",
       "html_path": "works/praem/index.html#p-155",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-155",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-155",
       "alignment_revision": "sha256:48c19afef381293002856d5d365b924ead5f6bab0a4a75210eb5f839df044386",
       "review_state": {
         "human_reviewed": false,
@@ -21444,9 +21444,9 @@
         "work": "상과 벌에 관하여",
         "reference": "155",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:75a22665188324e66047d65dc53a4dea6ffcf8540f538ce49a71fc891c290af4",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-155"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-155"
       }
     },
     {
@@ -21535,7 +21535,7 @@
       "notes": [],
       "work_passage_id": "praem:156",
       "html_path": "works/praem/index.html#p-156",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-156",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-156",
       "alignment_revision": "sha256:8cd65ce51e5caa7305ea70305fdce5eb83b5cc0d30a34cafadd2f4d13bdbce2d",
       "review_state": {
         "human_reviewed": false,
@@ -21571,9 +21571,9 @@
         "work": "상과 벌에 관하여",
         "reference": "156",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:fbbc3f858ce02f85ba4edd5f8d220cb43f3a66809426c5ad3b827f20e397fd46",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-156"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-156"
       }
     },
     {
@@ -21713,7 +21713,7 @@
       ],
       "work_passage_id": "praem:157",
       "html_path": "works/praem/index.html#p-157",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-157",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-157",
       "alignment_revision": "sha256:ef2443b5322a5fa055c14ae02b4616fcf85c97b3706500b2a8ee55c467d66b96",
       "review_state": {
         "human_reviewed": false,
@@ -21749,9 +21749,9 @@
         "work": "상과 벌에 관하여",
         "reference": "157",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:7551a7e6964d7e36434ed73faec0e488e336ecb2bb95963b50e10830a37bb683",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-157"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-157"
       }
     },
     {
@@ -21852,7 +21852,7 @@
       ],
       "work_passage_id": "praem:158",
       "html_path": "works/praem/index.html#p-158",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-158",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-158",
       "alignment_revision": "sha256:7bc933c7a022a24ef8ed76acfaec6b6cd93f8954b5a8779943ac28234a01088f",
       "review_state": {
         "human_reviewed": false,
@@ -21888,9 +21888,9 @@
         "work": "상과 벌에 관하여",
         "reference": "158",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:414759e9be3659859d340f04ccc01579d13b41228c12cfe37fbb9a78d239082b",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-158"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-158"
       }
     },
     {
@@ -21991,7 +21991,7 @@
       ],
       "work_passage_id": "praem:159",
       "html_path": "works/praem/index.html#p-159",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-159",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-159",
       "alignment_revision": "sha256:daf828c12ab90b45c8981a2c193473b0605234bdc1ffbb78c993839de25fc395",
       "review_state": {
         "human_reviewed": false,
@@ -22027,9 +22027,9 @@
         "work": "상과 벌에 관하여",
         "reference": "159",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:fa57d88694a949e57c1000eafe0350deb144710ddd504e4de349b73a3c497ae8",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-159"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-159"
       }
     },
     {
@@ -22117,7 +22117,7 @@
       ],
       "work_passage_id": "praem:160",
       "html_path": "works/praem/index.html#p-160",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-160",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-160",
       "alignment_revision": "sha256:2e827f1e28bc1928c64fd3030652710f646668e5c703828e2b4888bcafcd4414",
       "review_state": {
         "human_reviewed": false,
@@ -22153,9 +22153,9 @@
         "work": "상과 벌에 관하여",
         "reference": "160",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:679c496d1d2155b779c51e694678df6cfc0d481d73f2a79c4270f7118a49160b",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-160"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-160"
       }
     },
     {
@@ -22246,7 +22246,7 @@
       ],
       "work_passage_id": "praem:161",
       "html_path": "works/praem/index.html#p-161",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-161",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-161",
       "alignment_revision": "sha256:8043434b3c7c7c70f2cb85e09925e9eb0b3473e191450be68685cfd069fea3df",
       "review_state": {
         "human_reviewed": false,
@@ -22282,9 +22282,9 @@
         "work": "상과 벌에 관하여",
         "reference": "161",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:c876b71676a1f7770f53b933e352f1bc5abcd32b0e2f97f13d01f8f878c57960",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-161"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-161"
       }
     },
     {
@@ -22398,7 +22398,7 @@
       ],
       "work_passage_id": "praem:162",
       "html_path": "works/praem/index.html#p-162",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-162",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-162",
       "alignment_revision": "sha256:960be588e99ef1a28a687e5c69fe4929f4e549451b560663edc6eb7dc5dc0de7",
       "review_state": {
         "human_reviewed": false,
@@ -22434,9 +22434,9 @@
         "work": "상과 벌에 관하여",
         "reference": "162",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:7fdfd65a40ddd8ee13f0244d9e1c55970088aab97cc7148cc97e6d5ff552fcf8",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-162"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-162"
       }
     },
     {
@@ -22591,7 +22591,7 @@
       ],
       "work_passage_id": "praem:163",
       "html_path": "works/praem/index.html#p-163",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-163",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-163",
       "alignment_revision": "sha256:0bd703a73d5ba78beb24140197668e83db61ba59ace25417e5af62a2ccca0c16",
       "review_state": {
         "human_reviewed": false,
@@ -22627,9 +22627,9 @@
         "work": "상과 벌에 관하여",
         "reference": "163",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:37277d4db27831e36ccea25d2c7c5568d184408c56cca74ff08eab0c09a5855f",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-163"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-163"
       }
     },
     {
@@ -22717,7 +22717,7 @@
       ],
       "work_passage_id": "praem:164",
       "html_path": "works/praem/index.html#p-164",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-164",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-164",
       "alignment_revision": "sha256:c0a076e2161a504bb072e8a5b0225de5c457cca54d06f202f8911cd49a1f4138",
       "review_state": {
         "human_reviewed": false,
@@ -22753,9 +22753,9 @@
         "work": "상과 벌에 관하여",
         "reference": "164",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:6f01177e55826a96cf694fcf46499f66fc49a54b50fda105aa9e3ff13149335d",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-164"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-164"
       }
     },
     {
@@ -22872,7 +22872,7 @@
       ],
       "work_passage_id": "praem:165",
       "html_path": "works/praem/index.html#p-165",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-165",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-165",
       "alignment_revision": "sha256:3551d6ec09b32515d936751e522143a958d6e4dc474d88423342d26ad0d95f60",
       "review_state": {
         "human_reviewed": false,
@@ -22908,9 +22908,9 @@
         "work": "상과 벌에 관하여",
         "reference": "165",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:bfad904097b1a3774c15c0f1a719902f4cb2624881f3cc6c2197456ac56cbbb8",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-165"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-165"
       }
     },
     {
@@ -23025,7 +23025,7 @@
       ],
       "work_passage_id": "praem:166",
       "html_path": "works/praem/index.html#p-166",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-166",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-166",
       "alignment_revision": "sha256:9fbec69333cf01d7070691e6f3142f57cda9e61c36c05dd367a604faa0e3013a",
       "review_state": {
         "human_reviewed": false,
@@ -23061,9 +23061,9 @@
         "work": "상과 벌에 관하여",
         "reference": "166",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:18cf79aed09dbe7b3a40364ef5f030bca874b56699d8c78f1c04e22efe94942b",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-166"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-166"
       }
     },
     {
@@ -23149,7 +23149,7 @@
       "notes": [],
       "work_passage_id": "praem:167",
       "html_path": "works/praem/index.html#p-167",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-167",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-167",
       "alignment_revision": "sha256:afb565aeba066c61c9d54e0b9890c89b1993b94b64fbaaae30fb1292e577e6d2",
       "review_state": {
         "human_reviewed": false,
@@ -23185,9 +23185,9 @@
         "work": "상과 벌에 관하여",
         "reference": "167",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:9c6aa95975ec20fdc145b66f900ed7452ce4803ff85f9c0caf3d7bed1374a3b5",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-167"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-167"
       }
     },
     {
@@ -23314,7 +23314,7 @@
       ],
       "work_passage_id": "praem:168",
       "html_path": "works/praem/index.html#p-168",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-168",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-168",
       "alignment_revision": "sha256:6e6a76c21b48f8c0623cd5cdb7175117734e30e8fba6fbe421f8f0c72a91e1d2",
       "review_state": {
         "human_reviewed": false,
@@ -23350,9 +23350,9 @@
         "work": "상과 벌에 관하여",
         "reference": "168",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:911eedd2c68f901dc42df107ae0f26af3d38a679c57517815f8d70226fc26def",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-168"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-168"
       }
     },
     {
@@ -23467,7 +23467,7 @@
       ],
       "work_passage_id": "praem:169",
       "html_path": "works/praem/index.html#p-169",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-169",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-169",
       "alignment_revision": "sha256:5d86edbfff4f1818aa2ef65b8102058a225c255e804ae48c35ced609d3b572e6",
       "review_state": {
         "human_reviewed": false,
@@ -23503,9 +23503,9 @@
         "work": "상과 벌에 관하여",
         "reference": "169",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:4c8fecd6fe5991c52c0fb565f121fb6c6e2ac8f7093b9be1907dd9b9931a60be",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-169"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-169"
       }
     },
     {
@@ -23623,7 +23623,7 @@
       ],
       "work_passage_id": "praem:170",
       "html_path": "works/praem/index.html#p-170",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-170",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-170",
       "alignment_revision": "sha256:ca05eb1c70d12a30b63e12937a063223d1df6a6a14b70674dbe4d871a27bedc1",
       "review_state": {
         "human_reviewed": false,
@@ -23659,9 +23659,9 @@
         "work": "상과 벌에 관하여",
         "reference": "170",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:08951bd84f447386b03903457e8a66e8fe276e018c510e651e49f9d703fb34b6",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-170"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-170"
       }
     },
     {
@@ -23801,7 +23801,7 @@
       ],
       "work_passage_id": "praem:171",
       "html_path": "works/praem/index.html#p-171",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-171",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-171",
       "alignment_revision": "sha256:aa6260ef29ac4374c4a45e171a6e05e2f87ff3ec419457e9a8e479fff152bc35",
       "review_state": {
         "human_reviewed": false,
@@ -23837,9 +23837,9 @@
         "work": "상과 벌에 관하여",
         "reference": "171",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:b44acdefaa3c0d21cc48037b3b7c38873f57c63374be091cc9162e21cecca907",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-171"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-171"
       }
     },
     {
@@ -23953,7 +23953,7 @@
       ],
       "work_passage_id": "praem:172",
       "html_path": "works/praem/index.html#p-172",
-      "fixed_html_path": "releases/public-0.40/works/praem/index.html#p-172",
+      "fixed_html_path": "releases/public-0.41/works/praem/index.html#p-172",
       "alignment_revision": "sha256:e47db3bdcbc0a4b9050e433a10f7d370f93a088bf7a7ba95e53450a642f1bc8d",
       "review_state": {
         "human_reviewed": false,
@@ -23989,9 +23989,9 @@
         "work": "상과 벌에 관하여",
         "reference": "172",
         "edition": "Leopold Cohn 편, Philonis Alexandrini Opera quae supersunt, vol. 5, Berlin: Reimer, 1906.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:5f61bb83c272f7532ddd68f84be933ef20aa390a1535d2c0df194fa8df524291",
-        "fixed_path": "releases/public-0.40/works/praem/index.html#p-172"
+        "fixed_path": "releases/public-0.41/works/praem/index.html#p-172"
       }
     }
   ],
@@ -24015,14 +24015,14 @@
   "display_author": "필론",
   "scope": "상과 벌에 관하여 채택 본문 172대목 전체",
   "coverage": "complete",
-  "release_id": "public-0.40",
+  "release_id": "public-0.41",
   "source_language": "grc",
   "source_kind": "edited_ancient_original",
   "human_reviewed": false,
   "translation_method": "고정 원어 본문에서 직접 번역",
   "html_path": "works/praem/index.html",
   "json_path": "data/works/praem.json",
-  "fixed_html_path": "releases/public-0.40/works/praem/index.html",
+  "fixed_html_path": "releases/public-0.41/works/praem/index.html",
   "source_profile": "praem-complete-pinned-source-20261021",
   "source_decisions": [
     {

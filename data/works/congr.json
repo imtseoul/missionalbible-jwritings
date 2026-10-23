@@ -101,7 +101,7 @@
       ],
       "work_passage_id": "congr:1",
       "html_path": "works/congr/index.html#p-1",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-1",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-1",
       "alignment_revision": "sha256:3b1728deccb6117f973ba1d9b488ae3dd78bfe30823a37b895bcf361937db09d",
       "review_state": {
         "human_reviewed": false,
@@ -137,9 +137,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "1",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:7e12cb2d936fa8256d35744b5c698628b15e0fac2826ac3215e03afd27f2ae09",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-1"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-1"
       }
     },
     {
@@ -215,7 +215,7 @@
       ],
       "work_passage_id": "congr:2",
       "html_path": "works/congr/index.html#p-2",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-2",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-2",
       "alignment_revision": "sha256:a062ced491f01c8a584387319ab467db6286065a5151e25941d4232efa010c54",
       "review_state": {
         "human_reviewed": false,
@@ -251,9 +251,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "2",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:7f3ce393d894a684a36c57d1fd3bef86aa07f6d9648bd31ebb38ff6d6e83f813",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-2"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-2"
       }
     },
     {
@@ -341,7 +341,7 @@
       ],
       "work_passage_id": "congr:3",
       "html_path": "works/congr/index.html#p-3",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-3",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-3",
       "alignment_revision": "sha256:b57910a08bca8faacd3b4b5d02777b288b91747d169986aae0020cc1fbae1a7b",
       "review_state": {
         "human_reviewed": false,
@@ -377,9 +377,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "3",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:5529a4f6f421d7ab7932422181d599d27be089022a4c18331cc58ea1864aa0f1",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-3"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-3"
       }
     },
     {
@@ -468,7 +468,7 @@
       "notes": [],
       "work_passage_id": "congr:4",
       "html_path": "works/congr/index.html#p-4",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-4",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-4",
       "alignment_revision": "sha256:64e360de2e5e801bc1148df08ba1323e2a68a55580aef2d7ab99a343b6f08253",
       "review_state": {
         "human_reviewed": false,
@@ -504,9 +504,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "4",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:15a5b8ba86d3ebae9403e4619db2023be832a6ad04693f72bc3108ba1f947922",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-4"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-4"
       }
     },
     {
@@ -594,7 +594,7 @@
       ],
       "work_passage_id": "congr:5",
       "html_path": "works/congr/index.html#p-5",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-5",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-5",
       "alignment_revision": "sha256:56fca85ec3ad184d043d98b0a861eb48d0b009fe42caf0cbec8c164d54a826b4",
       "review_state": {
         "human_reviewed": false,
@@ -630,9 +630,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "5",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:afb062220991fa6358273fce1c0f039e14e052b935862bde3ab2354ca70387ca",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-5"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-5"
       }
     },
     {
@@ -718,7 +718,7 @@
       "notes": [],
       "work_passage_id": "congr:6",
       "html_path": "works/congr/index.html#p-6",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-6",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-6",
       "alignment_revision": "sha256:d87f9625aa73ea9009f791d838f13cb4c655c45a0c1ace4ea70dc8b3b41d990e",
       "review_state": {
         "human_reviewed": false,
@@ -754,9 +754,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "6",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:46fbc47d0829843d4f1f482d3cca04f76c90023f5a45e196659be0f1cc576d6c",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-6"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-6"
       }
     },
     {
@@ -831,7 +831,7 @@
       ],
       "work_passage_id": "congr:7",
       "html_path": "works/congr/index.html#p-7",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-7",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-7",
       "alignment_revision": "sha256:66499476fa0351fd2f0d63b4d65c6b37f53287ed8736761aa8ca1e2f00a5baff",
       "review_state": {
         "human_reviewed": false,
@@ -867,9 +867,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "7",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:dea04e40f5bab53d030a3bc6a293cf9b874930e8e3c96ca2cffdcb810e08ed35",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-7"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-7"
       }
     },
     {
@@ -960,7 +960,7 @@
       ],
       "work_passage_id": "congr:8",
       "html_path": "works/congr/index.html#p-8",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-8",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-8",
       "alignment_revision": "sha256:f350cda5625aedd1367a6bdb717fbcdc40cd1d25568ce56e1944d3653c57d77e",
       "review_state": {
         "human_reviewed": false,
@@ -996,9 +996,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "8",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:06c21d2119bea4d1d6448fa27b2b5de50ca213344b96982d9dad45e7317d0bdc",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-8"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-8"
       }
     },
     {
@@ -1086,7 +1086,7 @@
       ],
       "work_passage_id": "congr:9",
       "html_path": "works/congr/index.html#p-9",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-9",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-9",
       "alignment_revision": "sha256:616eb5f1b59745b2da9834fa4e93a7faf8e3b7a94f1751dedb01e18f4c913ea3",
       "review_state": {
         "human_reviewed": false,
@@ -1122,9 +1122,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "9",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:ce6fd21fdf7fbe93322e7104b75e46adf5bc5aa88a949e9989fd6ea272b86649",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-9"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-9"
       }
     },
     {
@@ -1197,7 +1197,7 @@
       "notes": [],
       "work_passage_id": "congr:10",
       "html_path": "works/congr/index.html#p-10",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-10",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-10",
       "alignment_revision": "sha256:1b8e64743120fcd8c8a3c8153afed7ece0a07e776a4cf95e6f97f719863d1f98",
       "review_state": {
         "human_reviewed": false,
@@ -1233,9 +1233,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "10",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:dd2f777fb61df24e145a65c49c8a367f8b069b721ebb490695faa301ecbdfa2d",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-10"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-10"
       }
     },
     {
@@ -1321,7 +1321,7 @@
       "notes": [],
       "work_passage_id": "congr:11",
       "html_path": "works/congr/index.html#p-11",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-11",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-11",
       "alignment_revision": "sha256:aa09140184d571a87cfa065d56878dce89183824377cef50551b4ee5b60c89e5",
       "review_state": {
         "human_reviewed": false,
@@ -1357,9 +1357,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "11",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:26635ee5cb7005a58aa4226f7e7435db058a52f7b3cfd77d761c88d8f1370489",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-11"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-11"
       }
     },
     {
@@ -1447,7 +1447,7 @@
       ],
       "work_passage_id": "congr:12",
       "html_path": "works/congr/index.html#p-12",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-12",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-12",
       "alignment_revision": "sha256:6d5a37e0d405c9e9f13a9857935bb7b249fed6f028eb9446253d5579776cae5d",
       "review_state": {
         "human_reviewed": false,
@@ -1483,9 +1483,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "12",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:05fcdac3e2330f931cc998cfc93f1b10ba61c78cb37aa0373abe2b30c59ea19b",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-12"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-12"
       }
     },
     {
@@ -1573,7 +1573,7 @@
       ],
       "work_passage_id": "congr:13",
       "html_path": "works/congr/index.html#p-13",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-13",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-13",
       "alignment_revision": "sha256:84b548cae936ae1d2dfb528648e2dd6913591c87dc614d5ed48317996a03b8c9",
       "review_state": {
         "human_reviewed": false,
@@ -1609,9 +1609,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "13",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:eca365698aa23140321cbad57b13a38702f7d52f702c348d2c42f2d4cf582aec",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-13"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-13"
       }
     },
     {
@@ -1699,7 +1699,7 @@
       ],
       "work_passage_id": "congr:14",
       "html_path": "works/congr/index.html#p-14",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-14",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-14",
       "alignment_revision": "sha256:304d6390bdace4a0e37de718d111da4da29649babd49aefa82f157a548a114a0",
       "review_state": {
         "human_reviewed": false,
@@ -1735,9 +1735,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "14",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:3ce843c8f824c59c01ce9cb9240f089eb451e929c1e845986346b1a8cf7cdbc5",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-14"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-14"
       }
     },
     {
@@ -1810,7 +1810,7 @@
       "notes": [],
       "work_passage_id": "congr:15",
       "html_path": "works/congr/index.html#p-15",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-15",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-15",
       "alignment_revision": "sha256:17537f927745e0caa73aed01f2898db9dc69ba0944dabd0019dc0003bc2c75cb",
       "review_state": {
         "human_reviewed": false,
@@ -1846,9 +1846,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "15",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:6aa999cb07837468f517955a0956ba959e6aec68aa1c602906e0411268239e53",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-15"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-15"
       }
     },
     {
@@ -1910,7 +1910,7 @@
       ],
       "work_passage_id": "congr:16",
       "html_path": "works/congr/index.html#p-16",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-16",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-16",
       "alignment_revision": "sha256:847294f33f082d2dd48e030e8be0b934e19ea783bb0221c16d2d6afd0af7ef03",
       "review_state": {
         "human_reviewed": false,
@@ -1946,9 +1946,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "16",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:89430739ba3d29687831a006265149f891ea728d0675be6817b9a2abf6e29a62",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-16"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-16"
       }
     },
     {
@@ -2021,7 +2021,7 @@
       "notes": [],
       "work_passage_id": "congr:17",
       "html_path": "works/congr/index.html#p-17",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-17",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-17",
       "alignment_revision": "sha256:b573fcd87b22410af3f05e081f47fe4dee460c69d53034723ae9aa1efd371cf1",
       "review_state": {
         "human_reviewed": false,
@@ -2057,9 +2057,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "17",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:ff0b26f20d2c091beb02ad6d384c1852fec9fb7f681441711dc71ff522ef6de7",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-17"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-17"
       }
     },
     {
@@ -2147,7 +2147,7 @@
       ],
       "work_passage_id": "congr:18",
       "html_path": "works/congr/index.html#p-18",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-18",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-18",
       "alignment_revision": "sha256:a9207d4d34c94672addbd15e13ceb40584fe083bf637e3f7d3d8288f82a8604b",
       "review_state": {
         "human_reviewed": false,
@@ -2183,9 +2183,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "18",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:7c10bb57a5d38748ad1f5ddbc9c30abbe8d8eccc315d98409994504feeba3fec",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-18"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-18"
       }
     },
     {
@@ -2263,7 +2263,7 @@
       ],
       "work_passage_id": "congr:19",
       "html_path": "works/congr/index.html#p-19",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-19",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-19",
       "alignment_revision": "sha256:8ec360783c3364bb6f443aade3112bd56250259948b6b83ceb54290b0beeaecb",
       "review_state": {
         "human_reviewed": false,
@@ -2299,9 +2299,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "19",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:090729a7423cb0d7c02f1f81098dcf6c529d666b036efa6f184f88a38e70c74e",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-19"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-19"
       }
     },
     {
@@ -2389,7 +2389,7 @@
       ],
       "work_passage_id": "congr:20",
       "html_path": "works/congr/index.html#p-20",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-20",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-20",
       "alignment_revision": "sha256:8742ec55ad69a035c3f0cf68c18f88d8c0e32f64299d8c3d1568ac23fdf97cc8",
       "review_state": {
         "human_reviewed": false,
@@ -2425,9 +2425,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "20",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:c955bac6f3a21e513277f8fd5ffab2ef2be7d74b05bcc41e7527fe606af54806",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-20"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-20"
       }
     },
     {
@@ -2515,7 +2515,7 @@
       ],
       "work_passage_id": "congr:21",
       "html_path": "works/congr/index.html#p-21",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-21",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-21",
       "alignment_revision": "sha256:4d8a778f199aeb2977d361f4974ff94c09069971b5b18fd8351de5d79e5fc0ac",
       "review_state": {
         "human_reviewed": false,
@@ -2551,9 +2551,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "21",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:574b79d6e234556af171d6f46b1cea44a98eeca6be7c8236fbc6481c97c1ba94",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-21"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-21"
       }
     },
     {
@@ -2665,7 +2665,7 @@
       "notes": [],
       "work_passage_id": "congr:22",
       "html_path": "works/congr/index.html#p-22",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-22",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-22",
       "alignment_revision": "sha256:985e23341045e7ee7ceaf1b364809411f65804e54261810b940610fe33959054",
       "review_state": {
         "human_reviewed": false,
@@ -2701,9 +2701,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "22",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:6c28358e2a27c51ba5f295c98f545e44ab5d73ef3ae98b4cb9ccb9409fa1ee3d",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-22"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-22"
       }
     },
     {
@@ -2794,7 +2794,7 @@
       ],
       "work_passage_id": "congr:23",
       "html_path": "works/congr/index.html#p-23",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-23",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-23",
       "alignment_revision": "sha256:c0e399d34556231a9c93423276762fadb41a8f2dd81d65e07376df546bbe4e25",
       "review_state": {
         "human_reviewed": false,
@@ -2830,9 +2830,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "23",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:c4a3f4dfeeaac17b917bb612289773ef1df9825e97bfaeaf79e0fb07958acb08",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-23"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-23"
       }
     },
     {
@@ -2918,7 +2918,7 @@
       "notes": [],
       "work_passage_id": "congr:24",
       "html_path": "works/congr/index.html#p-24",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-24",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-24",
       "alignment_revision": "sha256:8bb4221e8ca49b4048b74044676de1ba0b7f77ce45607b384296059d335353fa",
       "review_state": {
         "human_reviewed": false,
@@ -2954,9 +2954,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "24",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:555bdde82b795d0c9e4389da9d9b4534715bbf357ef474c852066104244b75a6",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-24"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-24"
       }
     },
     {
@@ -3044,7 +3044,7 @@
       ],
       "work_passage_id": "congr:25",
       "html_path": "works/congr/index.html#p-25",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-25",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-25",
       "alignment_revision": "sha256:aed3d81b1de9bb14155b26f3751ef53ed2ea53724f6c1eaf68f756cdf531c896",
       "review_state": {
         "human_reviewed": false,
@@ -3080,9 +3080,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "25",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:adfe91e3f8d6af9aad60a38a62c1f4836b2acbdafd3bffb44bfb48227646239b",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-25"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-25"
       }
     },
     {
@@ -3142,7 +3142,7 @@
       "notes": [],
       "work_passage_id": "congr:26",
       "html_path": "works/congr/index.html#p-26",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-26",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-26",
       "alignment_revision": "sha256:78bab4acb45e2a4957b4bca60ea9b280d11c17df5d7aa542f56d4d6ebcd2b9b3",
       "review_state": {
         "human_reviewed": false,
@@ -3178,9 +3178,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "26",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:0397dd6501b89641cdcb05fdb1849c5ba4bb598467ac329ddb73a8aaaec39688",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-26"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-26"
       }
     },
     {
@@ -3245,7 +3245,7 @@
       ],
       "work_passage_id": "congr:27",
       "html_path": "works/congr/index.html#p-27",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-27",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-27",
       "alignment_revision": "sha256:dbaa284ec1f2c99306ccb2fc8249e6dac8d72551e6ff4fcc132f0806f3edc689",
       "review_state": {
         "human_reviewed": false,
@@ -3281,9 +3281,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "27",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:aced66d67b1d63c1128761cb9a0e22521c571b4d45f72f9d3a101c3e3092853f",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-27"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-27"
       }
     },
     {
@@ -3343,7 +3343,7 @@
       "notes": [],
       "work_passage_id": "congr:28",
       "html_path": "works/congr/index.html#p-28",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-28",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-28",
       "alignment_revision": "sha256:2f6734934f78821ec83e28b11c156720c219a03aa4ba1f111f39399709f1de19",
       "review_state": {
         "human_reviewed": false,
@@ -3379,9 +3379,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "28",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:043e465ba3ca712ed5eb3d81de47441c8954d44cc3ad99beb371d529ae08b6c1",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-28"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-28"
       }
     },
     {
@@ -3443,7 +3443,7 @@
       ],
       "work_passage_id": "congr:29",
       "html_path": "works/congr/index.html#p-29",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-29",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-29",
       "alignment_revision": "sha256:4a2e18ad0883a91747f3ac53552b5fc05c2dae9dd5e5fec8e4aecfde66079ebe",
       "review_state": {
         "human_reviewed": false,
@@ -3479,9 +3479,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "29",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:0b6bd9c21271f896e2a7e9c4de2578bc15a44688ff0109f73a65f86fe547c256",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-29"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-29"
       }
     },
     {
@@ -3569,7 +3569,7 @@
       ],
       "work_passage_id": "congr:30",
       "html_path": "works/congr/index.html#p-30",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-30",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-30",
       "alignment_revision": "sha256:13617d76f6e0e2a21da24f0f09d199dda0a53ddde47aebb983347cef44e71a66",
       "review_state": {
         "human_reviewed": false,
@@ -3605,9 +3605,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "30",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:5385cdf93e448caab80c8ed58b4c3eb453767932efb3eca525dda8bef51954bf",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-30"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-30"
       }
     },
     {
@@ -3682,7 +3682,7 @@
       ],
       "work_passage_id": "congr:31",
       "html_path": "works/congr/index.html#p-31",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-31",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-31",
       "alignment_revision": "sha256:6e099ced8f67989a25cdee76038e2c104c352de9922891faaca99b0909ee7b43",
       "review_state": {
         "human_reviewed": false,
@@ -3718,9 +3718,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "31",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:7c4d9a09f9c23005790fe5bd20806c281963ae87f512083e0e0c45e6f6216831",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-31"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-31"
       }
     },
     {
@@ -3793,7 +3793,7 @@
       "notes": [],
       "work_passage_id": "congr:32",
       "html_path": "works/congr/index.html#p-32",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-32",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-32",
       "alignment_revision": "sha256:c899a231fbb3be70f5e1da7d314d04b620099ac502e48cee3a5770fd8e7db14a",
       "review_state": {
         "human_reviewed": false,
@@ -3829,9 +3829,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "32",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:5f04e8aa4c96dd0e8a56d0377de47d3ffe8170992440e65ab143ce15d83786ce",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-32"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-32"
       }
     },
     {
@@ -3907,7 +3907,7 @@
       "notes": [],
       "work_passage_id": "congr:33",
       "html_path": "works/congr/index.html#p-33",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-33",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-33",
       "alignment_revision": "sha256:260e3df0e2e70ceb53232282235c490ade2cd94eae99e4d50b5a3ce9a2722db7",
       "review_state": {
         "human_reviewed": false,
@@ -3943,9 +3943,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "33",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:0e5fd68364f0156af37bd3596c3100339ea02837b0a23ecfc29979c4b33ea96f",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-33"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-33"
       }
     },
     {
@@ -4020,7 +4020,7 @@
       ],
       "work_passage_id": "congr:34",
       "html_path": "works/congr/index.html#p-34",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-34",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-34",
       "alignment_revision": "sha256:9a84057ec4fde72d28eaed06d5b3bf7c715426c58880da3c78eaf39289bdbc47",
       "review_state": {
         "human_reviewed": false,
@@ -4056,9 +4056,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "34",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:4cbdf42b898a8b8e7c985a7386aa6379aea98d1fb2a9175950ef94a27bb46db6",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-34"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-34"
       }
     },
     {
@@ -4131,7 +4131,7 @@
       "notes": [],
       "work_passage_id": "congr:35",
       "html_path": "works/congr/index.html#p-35",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-35",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-35",
       "alignment_revision": "sha256:8c5eed7867ac1dc827ac8067daafb0259b006532d5d6a445c1ea83f0fccf4993",
       "review_state": {
         "human_reviewed": false,
@@ -4167,9 +4167,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "35",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:c621fefba516e0772027bacf68474875820f8e114062458fb6a9fb8ae4870af2",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-35"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-35"
       }
     },
     {
@@ -4245,7 +4245,7 @@
       ],
       "work_passage_id": "congr:36",
       "html_path": "works/congr/index.html#p-36",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-36",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-36",
       "alignment_revision": "sha256:c1c3d4a08d8838afb77cb3404e6b9c7636128a8be87fedbb31ab9622ca5a746d",
       "review_state": {
         "human_reviewed": false,
@@ -4281,9 +4281,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "36",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:53104fbd16c2af13fa80acf3cc43fe3b919fad98dff1424a52dea0fd1c0bbff4",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-36"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-36"
       }
     },
     {
@@ -4361,7 +4361,7 @@
       ],
       "work_passage_id": "congr:37",
       "html_path": "works/congr/index.html#p-37",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-37",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-37",
       "alignment_revision": "sha256:36e7477c2651a4c94bffa1595622fcd64faa6437e80ba357d8d330e27adb3807",
       "review_state": {
         "human_reviewed": false,
@@ -4397,9 +4397,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "37",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:f0eb3880aec6fc110224632056ad16602831ca4dcaa43b303b0cd47d55247ce9",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-37"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-37"
       }
     },
     {
@@ -4474,7 +4474,7 @@
       ],
       "work_passage_id": "congr:38",
       "html_path": "works/congr/index.html#p-38",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-38",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-38",
       "alignment_revision": "sha256:4c80d90915fad9572b26f17d5930d9f3183dafce9bacad5e1775a2bc2937acb9",
       "review_state": {
         "human_reviewed": false,
@@ -4510,9 +4510,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "38",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:692d68c013302b27709201ee3904b1e65d789bd9f109b3e377ed626f1e0f9079",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-38"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-38"
       }
     },
     {
@@ -4585,7 +4585,7 @@
       "notes": [],
       "work_passage_id": "congr:39",
       "html_path": "works/congr/index.html#p-39",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-39",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-39",
       "alignment_revision": "sha256:305425a71598c3a7634e0ac9398abeedd603588da31e14d4604cc70a106af47b",
       "review_state": {
         "human_reviewed": false,
@@ -4621,9 +4621,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "39",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:ea5b8d3d2fd7264e9ba38bd40cadddab1520ad8b9437eac38eb50ce230e16ed5",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-39"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-39"
       }
     },
     {
@@ -4698,7 +4698,7 @@
       ],
       "work_passage_id": "congr:40",
       "html_path": "works/congr/index.html#p-40",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-40",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-40",
       "alignment_revision": "sha256:74ff5fb6277fc2311f88642d43bc4773b14149b1e3d6e984730f05a468f713c2",
       "review_state": {
         "human_reviewed": false,
@@ -4734,9 +4734,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "40",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:c4facb4389edafd726661347ec4b14ee3517a45170850585ad4f1f543182cae8",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-40"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-40"
       }
     },
     {
@@ -4824,7 +4824,7 @@
       ],
       "work_passage_id": "congr:41",
       "html_path": "works/congr/index.html#p-41",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-41",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-41",
       "alignment_revision": "sha256:68dc292bb9a43c592e638282d642fd278a6798fde274560dfe85c4e6d28cfd2a",
       "review_state": {
         "human_reviewed": false,
@@ -4860,9 +4860,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "41",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:f6f3a072cb57aee15a991cbcbc16ee778ba744898fc04420cdfcd3f44cdcdacb",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-41"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-41"
       }
     },
     {
@@ -4937,7 +4937,7 @@
       ],
       "work_passage_id": "congr:42",
       "html_path": "works/congr/index.html#p-42",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-42",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-42",
       "alignment_revision": "sha256:266ac150be5b97a759af4c46536b48920501a3b46359eff022c257978d3f04ee",
       "review_state": {
         "human_reviewed": false,
@@ -4973,9 +4973,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "42",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:745a91de92ceca0c723a3729e98dd9f82526e85e876f57bf7544bfdc4fe9cebc",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-42"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-42"
       }
     },
     {
@@ -5024,7 +5024,7 @@
       ],
       "work_passage_id": "congr:43",
       "html_path": "works/congr/index.html#p-43",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-43",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-43",
       "alignment_revision": "sha256:2b48c7779fb65b308d49f716defd8935838745e63b702690bfaee53054e574c5",
       "review_state": {
         "human_reviewed": false,
@@ -5060,9 +5060,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "43",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:4ee6268e0fb9dc0e25830856819431a8f328f120e70c068ae97eadad6308bdd9",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-43"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-43"
       }
     },
     {
@@ -5179,7 +5179,7 @@
       ],
       "work_passage_id": "congr:44",
       "html_path": "works/congr/index.html#p-44",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-44",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-44",
       "alignment_revision": "sha256:16d67b96a93a19983271f0c4ba8c4c7ff04015c55ad1d08d86a275b5660fe21a",
       "review_state": {
         "human_reviewed": false,
@@ -5215,9 +5215,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "44",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:11f6f8baa733e5c33824156d93d75e675a26d0c42ca1b123a9583723dfe4eac9",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-44"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-44"
       }
     },
     {
@@ -5290,7 +5290,7 @@
       "notes": [],
       "work_passage_id": "congr:45",
       "html_path": "works/congr/index.html#p-45",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-45",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-45",
       "alignment_revision": "sha256:bfa294d40f24e5f9314f5b0ca5646edac317c08fe44d25c281597d2834f32b4c",
       "review_state": {
         "human_reviewed": false,
@@ -5326,9 +5326,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "45",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:0c0fc9a469977ca8b5f454a2435a9657b5190eff32e4cdf5de99970208594a0c",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-45"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-45"
       }
     },
     {
@@ -5403,7 +5403,7 @@
       ],
       "work_passage_id": "congr:46",
       "html_path": "works/congr/index.html#p-46",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-46",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-46",
       "alignment_revision": "sha256:ccf88f21e789df1d586ccf9cfb7f45cf4419f063ea73bc35b1e3a524686b26b8",
       "review_state": {
         "human_reviewed": false,
@@ -5439,9 +5439,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "46",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:030fb3742760dea55fb85260875b99bc2bbe07db2e2d2b93704e06fe22fec285",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-46"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-46"
       }
     },
     {
@@ -5501,7 +5501,7 @@
       "notes": [],
       "work_passage_id": "congr:47",
       "html_path": "works/congr/index.html#p-47",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-47",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-47",
       "alignment_revision": "sha256:48c9bca43845d11f9b4510ddbf66dcb06351652c10d46774f57bd57c544549f8",
       "review_state": {
         "human_reviewed": false,
@@ -5537,9 +5537,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "47",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:5e1c879961d0aa9296b22a48480f321dd6b772a0746c2c3b7ca978b68d654532",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-47"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-47"
       }
     },
     {
@@ -5614,7 +5614,7 @@
       ],
       "work_passage_id": "congr:48",
       "html_path": "works/congr/index.html#p-48",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-48",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-48",
       "alignment_revision": "sha256:e46ccc11daf6ca5b1330368a7d8ea15c623c21b5fdd3182cbaf44ea37aeaa94d",
       "review_state": {
         "human_reviewed": false,
@@ -5650,9 +5650,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "48",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:6bd40dce20598a673b8e80ec9af1b68713d11d069103f0a83b6e326fac9109bf",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-48"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-48"
       }
     },
     {
@@ -5714,7 +5714,7 @@
       ],
       "work_passage_id": "congr:49",
       "html_path": "works/congr/index.html#p-49",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-49",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-49",
       "alignment_revision": "sha256:e1bebc496ec2c4ca72d73b9957d1f760eea253dfe068ffa8d84ffdf02fee4618",
       "review_state": {
         "human_reviewed": false,
@@ -5750,9 +5750,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "49",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:fb89289e32ef78e4ca1d17a4cb4e055a6bcad6a145d33cb15819f13550c0f107",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-49"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-49"
       }
     },
     {
@@ -5830,7 +5830,7 @@
       ],
       "work_passage_id": "congr:50",
       "html_path": "works/congr/index.html#p-50",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-50",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-50",
       "alignment_revision": "sha256:708eec315e010f7ebb58b3bf653c364c56e337b979292371814d2314724f8741",
       "review_state": {
         "human_reviewed": false,
@@ -5866,9 +5866,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "50",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:cd1509c03d8e5bd2f0608d4aa3ec1a6aa29f7a3d674816ee9f8d9eddec4d8589",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-50"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-50"
       }
     },
     {
@@ -5943,7 +5943,7 @@
       ],
       "work_passage_id": "congr:51",
       "html_path": "works/congr/index.html#p-51",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-51",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-51",
       "alignment_revision": "sha256:bbfe388a40a7e53ff8a6d6f4748fd029c923f6225122202b08cf7666ec75f2d7",
       "review_state": {
         "human_reviewed": false,
@@ -5979,9 +5979,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "51",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:82cceba8a7fd64d75b32411e138f358adbc523b4c34d098cd0d499d0a10e9afc",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-51"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-51"
       }
     },
     {
@@ -6041,7 +6041,7 @@
       "notes": [],
       "work_passage_id": "congr:52",
       "html_path": "works/congr/index.html#p-52",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-52",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-52",
       "alignment_revision": "sha256:26ca93e5aa210186ba4e5ea905b619af8ec88552bff842e8c663e39cf16fc6fa",
       "review_state": {
         "human_reviewed": false,
@@ -6077,9 +6077,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "52",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:6606a30f4c9989c9dab19a4fc2ae2f84fcc94152386b42f0b19ffc0ec4e17ac7",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-52"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-52"
       }
     },
     {
@@ -6183,7 +6183,7 @@
       ],
       "work_passage_id": "congr:53",
       "html_path": "works/congr/index.html#p-53",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-53",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-53",
       "alignment_revision": "sha256:9b5c159987bc837e78e61a805b5b2afdfe1e946505d1ed24731a4d8c4287b41f",
       "review_state": {
         "human_reviewed": false,
@@ -6219,9 +6219,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "53",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:7535cda557fdd74b6516ed443796a9f275668c640ab4b714cdd8e8b64025edad",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-53"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-53"
       }
     },
     {
@@ -6309,7 +6309,7 @@
       ],
       "work_passage_id": "congr:54",
       "html_path": "works/congr/index.html#p-54",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-54",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-54",
       "alignment_revision": "sha256:2b6328294a5efa64b9886db6cd3e71442ebf6723717ba2efd9f7a2cbaaeaed69",
       "review_state": {
         "human_reviewed": false,
@@ -6345,9 +6345,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "54",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:004342504028b9e6ad1b32adc49bd27607d238f336357819cea4fff92d51f2cc",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-54"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-54"
       }
     },
     {
@@ -6422,7 +6422,7 @@
       ],
       "work_passage_id": "congr:55",
       "html_path": "works/congr/index.html#p-55",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-55",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-55",
       "alignment_revision": "sha256:103def504d12f3ca68ec0682c6fa666beb4a3b3d79795bf99e41f15a277a2088",
       "review_state": {
         "human_reviewed": false,
@@ -6458,9 +6458,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "55",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:e14b0e2f35471f8e5bdf35d8908c2e2dc9f205031be40dd7d43904a3cbc7a2c8",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-55"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-55"
       }
     },
     {
@@ -6546,7 +6546,7 @@
       "notes": [],
       "work_passage_id": "congr:56",
       "html_path": "works/congr/index.html#p-56",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-56",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-56",
       "alignment_revision": "sha256:79b35bd374f2a33214b2bb555aa9421f38631eae42ab756e6814b4609bda30b2",
       "review_state": {
         "human_reviewed": false,
@@ -6582,9 +6582,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "56",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:7994775e8292913c652d41f2363df82ef2d76a9f1907fe100fb2d4a9d7077bb7",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-56"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-56"
       }
     },
     {
@@ -6685,7 +6685,7 @@
       ],
       "work_passage_id": "congr:57",
       "html_path": "works/congr/index.html#p-57",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-57",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-57",
       "alignment_revision": "sha256:6d13f9dcc8b04de6433582fdff4c9c0b1957205d24f28b3a60c41995e447d4ae",
       "review_state": {
         "human_reviewed": false,
@@ -6721,9 +6721,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "57",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:73136f8413647eac54731d960f10f579173f461e1b4265db63bd070b3cd0b888",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-57"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-57"
       }
     },
     {
@@ -6827,7 +6827,7 @@
       ],
       "work_passage_id": "congr:58",
       "html_path": "works/congr/index.html#p-58",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-58",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-58",
       "alignment_revision": "sha256:a8ec67136849f06b4415ae919a87d005ca34b4ac258168fe264023574226f026",
       "review_state": {
         "human_reviewed": false,
@@ -6863,9 +6863,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "58",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:c6a95573fcfd05a24f364a80e8d471d73bbc361f5f4567de17c6ac00391ca063",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-58"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-58"
       }
     },
     {
@@ -6951,7 +6951,7 @@
       "notes": [],
       "work_passage_id": "congr:59",
       "html_path": "works/congr/index.html#p-59",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-59",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-59",
       "alignment_revision": "sha256:a5fb27f07e666ce83a74c97c0c04b5c3ecf225437e1c63461e065f3fa898fec6",
       "review_state": {
         "human_reviewed": false,
@@ -6987,9 +6987,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "59",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:05bdb7baaaeb4e1ca14e5aaf8209c39fcd47a764413061f60189ef7f3c708236",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-59"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-59"
       }
     },
     {
@@ -7049,7 +7049,7 @@
       "notes": [],
       "work_passage_id": "congr:60",
       "html_path": "works/congr/index.html#p-60",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-60",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-60",
       "alignment_revision": "sha256:8ad873d9f12c92066445cc2bc2e1f6cbb32a1eef4f220c85415015ef1b4a1ef6",
       "review_state": {
         "human_reviewed": false,
@@ -7085,9 +7085,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "60",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:bc623b4d2d70e2f8ffc17cd86552d7a14144e00a98835117e6c7fbe95b0bec2b",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-60"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-60"
       }
     },
     {
@@ -7186,7 +7186,7 @@
       "notes": [],
       "work_passage_id": "congr:61",
       "html_path": "works/congr/index.html#p-61",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-61",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-61",
       "alignment_revision": "sha256:c5282341c17cca485d887c21bc1049c2e1dbc1b38737508cd90c4e6638e58aa6",
       "review_state": {
         "human_reviewed": false,
@@ -7222,9 +7222,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "61",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:7d375aae8b634c1f3725c6a16523306da41e7683b43be67450eb891cff864d68",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-61"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-61"
       }
     },
     {
@@ -7286,7 +7286,7 @@
       ],
       "work_passage_id": "congr:62",
       "html_path": "works/congr/index.html#p-62",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-62",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-62",
       "alignment_revision": "sha256:993607f6a93be9c81ace4213f34a6a32941fb63123df2311396f56057be299da",
       "review_state": {
         "human_reviewed": false,
@@ -7322,9 +7322,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "62",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:b50d974e62eb6e3d2bd8b2e8d846f2bbb43d7ffa79c94af2d5885802b3e0f9ed",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-62"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-62"
       }
     },
     {
@@ -7415,7 +7415,7 @@
       ],
       "work_passage_id": "congr:63",
       "html_path": "works/congr/index.html#p-63",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-63",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-63",
       "alignment_revision": "sha256:e04197874febb38ecd2ac21a5c085acc35b0544a06eb595e39eae21504d5afcf",
       "review_state": {
         "human_reviewed": false,
@@ -7451,9 +7451,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "63",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:8ad24cd49a79d12f2be65c28791c207ec26d9eb13ad0985ce3cfdc4c8e135578",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-63"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-63"
       }
     },
     {
@@ -7513,7 +7513,7 @@
       "notes": [],
       "work_passage_id": "congr:64",
       "html_path": "works/congr/index.html#p-64",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-64",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-64",
       "alignment_revision": "sha256:ea2706695c71dcf21fffbb42a5ddb3b2a6f0bd2e59568c37f53181d4367135b5",
       "review_state": {
         "human_reviewed": false,
@@ -7549,9 +7549,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "64",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:4877a57c975061a2df936ae01eef586b2c3e9cea22c0d39b266574914bee92bb",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-64"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-64"
       }
     },
     {
@@ -7624,7 +7624,7 @@
       "notes": [],
       "work_passage_id": "congr:65",
       "html_path": "works/congr/index.html#p-65",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-65",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-65",
       "alignment_revision": "sha256:cd4d9f8c6897a0a168aa227d2847db64ce2af36f7edf29ea0735ca5f345cdd46",
       "review_state": {
         "human_reviewed": false,
@@ -7660,9 +7660,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "65",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:d4dd8de707190de57effa36839b82b41b959c000b367f40f54ce2422f66e46ed",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-65"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-65"
       }
     },
     {
@@ -7735,7 +7735,7 @@
       "notes": [],
       "work_passage_id": "congr:66",
       "html_path": "works/congr/index.html#p-66",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-66",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-66",
       "alignment_revision": "sha256:62dc9a073d3d5f005b91fa24dceed4a1f7def2146105adf82b91c0a67bbf264c",
       "review_state": {
         "human_reviewed": false,
@@ -7771,9 +7771,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "66",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:91b7226dad0641d64b670c9a3a1ff6c940841a705c1c9cfdd0e8f70264f463ae",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-66"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-66"
       }
     },
     {
@@ -7846,7 +7846,7 @@
       "notes": [],
       "work_passage_id": "congr:67",
       "html_path": "works/congr/index.html#p-67",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-67",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-67",
       "alignment_revision": "sha256:73802460770d51770f4134759f2fecd7009ba8d500fdf5953be9f22185004cd4",
       "review_state": {
         "human_reviewed": false,
@@ -7882,9 +7882,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "67",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:b432fc9cb9f8db3ec59bd3466b13cd363d48ec94d6b9fe768b34e767ab86f72f",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-67"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-67"
       }
     },
     {
@@ -7972,7 +7972,7 @@
       ],
       "work_passage_id": "congr:68",
       "html_path": "works/congr/index.html#p-68",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-68",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-68",
       "alignment_revision": "sha256:c2dc13c7ca783b4f693cfdf1d7e601991ef446dd4935b01dbbac2d85f34c4c34",
       "review_state": {
         "human_reviewed": false,
@@ -8008,9 +8008,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "68",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:6226e98cb21802c4623684fe5d9be567f15964bbbef85934eef3601fdd825346",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-68"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-68"
       }
     },
     {
@@ -8086,7 +8086,7 @@
       "notes": [],
       "work_passage_id": "congr:69",
       "html_path": "works/congr/index.html#p-69",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-69",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-69",
       "alignment_revision": "sha256:8f60c4a62873c93ba4ca57c30f414d1993e6633b60abb198a7af06ce642a20f7",
       "review_state": {
         "human_reviewed": false,
@@ -8122,9 +8122,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "69",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:83ad31c990f73f16e933137e43c26b516c2e7f3d1f6be96bccf7c8c3a916a985",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-69"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-69"
       }
     },
     {
@@ -8225,7 +8225,7 @@
       ],
       "work_passage_id": "congr:70",
       "html_path": "works/congr/index.html#p-70",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-70",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-70",
       "alignment_revision": "sha256:c6dbc376a8e627b55a7383d4683e18454d731fd07c069cbf7efaf8d91e457534",
       "review_state": {
         "human_reviewed": false,
@@ -8261,9 +8261,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "70",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:3be4409bf8c06492fb0024f610c1c332440df0dbee10d92a49269a767eab6583",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-70"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-70"
       }
     },
     {
@@ -8338,7 +8338,7 @@
       ],
       "work_passage_id": "congr:71",
       "html_path": "works/congr/index.html#p-71",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-71",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-71",
       "alignment_revision": "sha256:41e7fc52d78532f0280c911d1ba12fa578b1403b7ccb68b15f5096953d692f6e",
       "review_state": {
         "human_reviewed": false,
@@ -8374,9 +8374,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "71",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:bffa41d067b86980456c3ebc866b1347ece39d37a6b2f5b3ca25bee8410cf5e1",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-71"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-71"
       }
     },
     {
@@ -8449,7 +8449,7 @@
       "notes": [],
       "work_passage_id": "congr:72",
       "html_path": "works/congr/index.html#p-72",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-72",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-72",
       "alignment_revision": "sha256:721e97bdf646b827121f69265519ebae4edca4359789178ae6e2c404215ec008",
       "review_state": {
         "human_reviewed": false,
@@ -8485,9 +8485,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "72",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:1e9008afc5b7cf5724c09993b2b289a84290b2beef639e508b6fd92558da37ec",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-72"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-72"
       }
     },
     {
@@ -8599,7 +8599,7 @@
       "notes": [],
       "work_passage_id": "congr:73",
       "html_path": "works/congr/index.html#p-73",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-73",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-73",
       "alignment_revision": "sha256:6de87cb5f86600a38587e55ca3aeb4640299e4df0c445a08aae01a38c1a8d27f",
       "review_state": {
         "human_reviewed": false,
@@ -8635,9 +8635,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "73",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:a68bcf7eb7549f72cf4ac794c7138b54874bf65aedb3c1d976fffd4497136030",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-73"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-73"
       }
     },
     {
@@ -8713,7 +8713,7 @@
       "notes": [],
       "work_passage_id": "congr:74",
       "html_path": "works/congr/index.html#p-74",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-74",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-74",
       "alignment_revision": "sha256:81b6a8f5eba3c57dd965fb7cb578e97396140957f5ec1eb20655a804297c40dd",
       "review_state": {
         "human_reviewed": false,
@@ -8749,9 +8749,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "74",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:2eb4de7d121ce5b52b65089bb84fbd0320ded376f17f03e246990ec17d7fc3bc",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-74"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-74"
       }
     },
     {
@@ -8811,7 +8811,7 @@
       "notes": [],
       "work_passage_id": "congr:75",
       "html_path": "works/congr/index.html#p-75",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-75",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-75",
       "alignment_revision": "sha256:9172ad2501ed3b3f4080677df3287fcd3e5fdada9a81a791960b60897d1a56eb",
       "review_state": {
         "human_reviewed": false,
@@ -8847,9 +8847,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "75",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:cb21169598a61b2a4591939eef1ad0eaa2b0e2f1f69f845d18928cc160f3bd41",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-75"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-75"
       }
     },
     {
@@ -8937,7 +8937,7 @@
       ],
       "work_passage_id": "congr:76",
       "html_path": "works/congr/index.html#p-76",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-76",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-76",
       "alignment_revision": "sha256:89aee0c4aec93113b2ee54e03a980c155711abe726e929a5c3007e7cc3bdd37c",
       "review_state": {
         "human_reviewed": false,
@@ -8973,9 +8973,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "76",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:02540a76cc1c5e57693155213ac3aa6448c8074cc4b5708acd51905063fa232e",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-76"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-76"
       }
     },
     {
@@ -9037,7 +9037,7 @@
       ],
       "work_passage_id": "congr:77",
       "html_path": "works/congr/index.html#p-77",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-77",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-77",
       "alignment_revision": "sha256:09f53140a5c46c7d972099bdf5e73067ed288738de40cd3cf3f7c1d88307b951",
       "review_state": {
         "human_reviewed": false,
@@ -9073,9 +9073,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "77",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:98e29bddc551826727c5e101ae90b99d3059acbb1f2bca3a30c090cbce781fe4",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-77"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-77"
       }
     },
     {
@@ -9148,7 +9148,7 @@
       "notes": [],
       "work_passage_id": "congr:78",
       "html_path": "works/congr/index.html#p-78",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-78",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-78",
       "alignment_revision": "sha256:29a77c279bccde0c9ddbe9f86596a44c8150f94d2fe886ca2a0d1eaf41722f6a",
       "review_state": {
         "human_reviewed": false,
@@ -9184,9 +9184,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "78",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:049373ff3abf3c7b97b11cd9c93440c261600bc17fec8b3268593d06b1e2d9f8",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-78"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-78"
       }
     },
     {
@@ -9264,7 +9264,7 @@
       ],
       "work_passage_id": "congr:79",
       "html_path": "works/congr/index.html#p-79",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-79",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-79",
       "alignment_revision": "sha256:a9c612e03c3a2f611f9be228a0e2e8b5300e743d87a596be936be1c8c2a01a2c",
       "review_state": {
         "human_reviewed": false,
@@ -9300,9 +9300,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "79",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:9e2334a3f061a89050c0eef3d9b07ff8853a6e256ebe96d311d62ebeae9577b7",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-79"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-79"
       }
     },
     {
@@ -9390,7 +9390,7 @@
       ],
       "work_passage_id": "congr:80",
       "html_path": "works/congr/index.html#p-80",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-80",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-80",
       "alignment_revision": "sha256:18cfbf00cf8c2dfa1de2e5bafb4e203e897fda812c6ec7615d3e226bcc0449eb",
       "review_state": {
         "human_reviewed": false,
@@ -9426,9 +9426,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "80",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:7cfe9b4bbb62d7e425ea5cf58ddac2bcf0858951b0f29ab269a4afb451d863cd",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-80"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-80"
       }
     },
     {
@@ -9516,7 +9516,7 @@
       ],
       "work_passage_id": "congr:81",
       "html_path": "works/congr/index.html#p-81",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-81",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-81",
       "alignment_revision": "sha256:28ee4268af0ac72cc5ef86bab17b01b38b1199b0e69a2e0a1d451474d3988d2a",
       "review_state": {
         "human_reviewed": false,
@@ -9552,9 +9552,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "81",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:a78d483cd421857c746a3f0b33ce421121237f1dcd096519947c603dde291024",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-81"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-81"
       }
     },
     {
@@ -9614,7 +9614,7 @@
       "notes": [],
       "work_passage_id": "congr:82",
       "html_path": "works/congr/index.html#p-82",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-82",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-82",
       "alignment_revision": "sha256:7b3782c7d625c8ac7c7ac898f911d6bd9d0fd79acbabac77e04c805dfd292460",
       "review_state": {
         "human_reviewed": false,
@@ -9650,9 +9650,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "82",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:d39555e269b2737720f5a4dd04282ea428f658a677b4b7899a99ace5a8024883",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-82"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-82"
       }
     },
     {
@@ -9717,7 +9717,7 @@
       ],
       "work_passage_id": "congr:83",
       "html_path": "works/congr/index.html#p-83",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-83",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-83",
       "alignment_revision": "sha256:fba67983c70cfbe9f4ebedc9d3d9de379893a27b63bd53b29690554f6684ab88",
       "review_state": {
         "human_reviewed": false,
@@ -9753,9 +9753,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "83",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:bb0e927869618a5d2dd2fad407bc44e7298694696bd5cb8274aec2591b278aea",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-83"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-83"
       }
     },
     {
@@ -9828,7 +9828,7 @@
       "notes": [],
       "work_passage_id": "congr:84",
       "html_path": "works/congr/index.html#p-84",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-84",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-84",
       "alignment_revision": "sha256:420565b1b108a04981ac7fa33e637a921dde119663687d99a452d601139125dc",
       "review_state": {
         "human_reviewed": false,
@@ -9864,9 +9864,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "84",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:2fa34ffd4333e843110578f31c39dc8621425592f464c1f530c63c85c0b8ad12",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-84"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-84"
       }
     },
     {
@@ -9939,7 +9939,7 @@
       "notes": [],
       "work_passage_id": "congr:85",
       "html_path": "works/congr/index.html#p-85",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-85",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-85",
       "alignment_revision": "sha256:1df10fb496d6dcb5a6581879b1e18ea7d8c4e1b3e3aa272b8a19d4580b6477f6",
       "review_state": {
         "human_reviewed": false,
@@ -9975,9 +9975,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "85",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:6dc48c45de1d08bf2f9296f80f932d499d4dd66d3c23f4b13602838cf1f0e29c",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-85"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-85"
       }
     },
     {
@@ -10104,7 +10104,7 @@
       ],
       "work_passage_id": "congr:86",
       "html_path": "works/congr/index.html#p-86",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-86",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-86",
       "alignment_revision": "sha256:b4498336a2696c4e80a60eff6a31b2dcfed26021a41b34bf541abfb6a2f5b767",
       "review_state": {
         "human_reviewed": false,
@@ -10140,9 +10140,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "86",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:6186e8538f7b53059a408b5470d0bea0fae7ba589a4810af78e3b49d460e9aee",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-86"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-86"
       }
     },
     {
@@ -10220,7 +10220,7 @@
       ],
       "work_passage_id": "congr:87",
       "html_path": "works/congr/index.html#p-87",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-87",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-87",
       "alignment_revision": "sha256:5197ae5acc4e4d3704d02bc7e6246f0423099e748f712383e9ed3121e2663dd5",
       "review_state": {
         "human_reviewed": false,
@@ -10256,9 +10256,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "87",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:dbd95fda62a50d0be0425c8c14fa119b99e18188dbc83bd47fbd548cb96c5180",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-87"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-87"
       }
     },
     {
@@ -10331,7 +10331,7 @@
       "notes": [],
       "work_passage_id": "congr:88",
       "html_path": "works/congr/index.html#p-88",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-88",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-88",
       "alignment_revision": "sha256:df097fe0baebda33fe90eaea74590903fad661698bce56661e7ce6354dee6f4f",
       "review_state": {
         "human_reviewed": false,
@@ -10367,9 +10367,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "88",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:39d99492e91336837999cc755ff6b34cc2c720b3c6da445502f4b8806028037e",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-88"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-88"
       }
     },
     {
@@ -10444,7 +10444,7 @@
       ],
       "work_passage_id": "congr:89",
       "html_path": "works/congr/index.html#p-89",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-89",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-89",
       "alignment_revision": "sha256:ef3671eb81925e796be38ebd13d9854c69fdad3cd4267275e499c30bbf242360",
       "review_state": {
         "human_reviewed": false,
@@ -10480,9 +10480,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "89",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:553c83cec2026f7dbfbb0e1e05e75a76e432d9dde4cc55630b1e8f32fbb63de1",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-89"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-89"
       }
     },
     {
@@ -10570,7 +10570,7 @@
       ],
       "work_passage_id": "congr:90",
       "html_path": "works/congr/index.html#p-90",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-90",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-90",
       "alignment_revision": "sha256:fa0f886abf0b575e23e2abb42f96a1963dd5c1c7676ac30023ba1e59cdb37809",
       "review_state": {
         "human_reviewed": false,
@@ -10606,9 +10606,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "90",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:bb2db426fa3d48aca10153a7ee53c7e5d399f65f3506fcfaca7d1b9fa6ebd570",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-90"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-90"
       }
     },
     {
@@ -10668,7 +10668,7 @@
       "notes": [],
       "work_passage_id": "congr:91",
       "html_path": "works/congr/index.html#p-91",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-91",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-91",
       "alignment_revision": "sha256:168eb9ce75756c1728c9e42a8ba34a6d7f74ed4955c0535714c811bc2f183147",
       "review_state": {
         "human_reviewed": false,
@@ -10704,9 +10704,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "91",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:da4701283df7479719f1300cdc311ab112d0370f1bbedc613bc50d9b8163154a",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-91"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-91"
       }
     },
     {
@@ -10794,7 +10794,7 @@
       ],
       "work_passage_id": "congr:92",
       "html_path": "works/congr/index.html#p-92",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-92",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-92",
       "alignment_revision": "sha256:103c8949e22a997f13278f2ca3d9c8cc7dfe10678a4c40b05a4971874c8a8e23",
       "review_state": {
         "human_reviewed": false,
@@ -10830,9 +10830,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "92",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:c9557abb35e84aa6f95900fc9427e9821705259b714883e673101182a6494b2e",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-92"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-92"
       }
     },
     {
@@ -10897,7 +10897,7 @@
       ],
       "work_passage_id": "congr:93",
       "html_path": "works/congr/index.html#p-93",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-93",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-93",
       "alignment_revision": "sha256:0628c0e5a0330133f1f7550149d9776b731b0415bd1119215fbbe35dc088f398",
       "review_state": {
         "human_reviewed": false,
@@ -10933,9 +10933,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "93",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:6cb3e92ec997e89036fab3865fdf5a066f4de9595459eabd3c54f03c65253ba4",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-93"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-93"
       }
     },
     {
@@ -11010,7 +11010,7 @@
       ],
       "work_passage_id": "congr:94",
       "html_path": "works/congr/index.html#p-94",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-94",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-94",
       "alignment_revision": "sha256:5a2c453c351fa1e7fa5e077e9f45f426019b9e9d649ca50721795a8b22a85ef2",
       "review_state": {
         "human_reviewed": false,
@@ -11046,9 +11046,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "94",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:d5f8a281e13cfa1232df3f088327647e4b5196b08afdb56309e2f9985aa60758",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-94"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-94"
       }
     },
     {
@@ -11123,7 +11123,7 @@
       ],
       "work_passage_id": "congr:95",
       "html_path": "works/congr/index.html#p-95",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-95",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-95",
       "alignment_revision": "sha256:1c598cd705b093460a8c29f1d51fb28a697cc1c99d9b3252979ba5be7eccad06",
       "review_state": {
         "human_reviewed": false,
@@ -11159,9 +11159,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "95",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:9ae4e5d7f5d3989e79804c973af4e9d535d3c9d1c3dcf97015378bac78061993",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-95"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-95"
       }
     },
     {
@@ -11247,7 +11247,7 @@
       "notes": [],
       "work_passage_id": "congr:96",
       "html_path": "works/congr/index.html#p-96",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-96",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-96",
       "alignment_revision": "sha256:52204fdc1b1d54549d07eb5ce9bd1df9ccb9eccd121cd621e6767b861dc16278",
       "review_state": {
         "human_reviewed": false,
@@ -11283,9 +11283,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "96",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:8aabe43230c9a5e08b850d5b36d7b50a629dc28bef0d3e666d0132b9f5fa1024",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-96"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-96"
       }
     },
     {
@@ -11345,7 +11345,7 @@
       "notes": [],
       "work_passage_id": "congr:97",
       "html_path": "works/congr/index.html#p-97",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-97",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-97",
       "alignment_revision": "sha256:131ca8cc78a2d7bca1253d563b06476e14b1ae218fe6b9937494ef4f82f2002b",
       "review_state": {
         "human_reviewed": false,
@@ -11381,9 +11381,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "97",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:0933cfee68453cf1baa30686c28a1df4f4b0461be2e9ec1d592f852efc90f931",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-97"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-97"
       }
     },
     {
@@ -11474,7 +11474,7 @@
       ],
       "work_passage_id": "congr:98",
       "html_path": "works/congr/index.html#p-98",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-98",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-98",
       "alignment_revision": "sha256:019b646904507aae2198e1c09f48725093654d0e130f2436d5410daa06e4a340",
       "review_state": {
         "human_reviewed": false,
@@ -11510,9 +11510,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "98",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:f2c3a764838b96f8cb48ce822bf9117afd2f87be7404969d9f9ff237b2260730",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-98"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-98"
       }
     },
     {
@@ -11601,7 +11601,7 @@
       ],
       "work_passage_id": "congr:99",
       "html_path": "works/congr/index.html#p-99",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-99",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-99",
       "alignment_revision": "sha256:0967f461e8c477d9cce289473d2d66df5772ad14989f83786f9b4fa47a6918ab",
       "review_state": {
         "human_reviewed": false,
@@ -11637,9 +11637,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "99",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:f50a52224129f467af374588efb7b1665b45c2f7f74f14f02f7315df200e408b",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-99"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-99"
       }
     },
     {
@@ -11727,7 +11727,7 @@
       ],
       "work_passage_id": "congr:100",
       "html_path": "works/congr/index.html#p-100",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-100",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-100",
       "alignment_revision": "sha256:9a233528dd5668cfa86099a5eba3c4c5e495608d1408beb5a1f6f5837c9cafea",
       "review_state": {
         "human_reviewed": false,
@@ -11763,9 +11763,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "100",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:0ebe723a819761c36d06a7eb4cc0d8e150e69ed5b948e3edd8f491dea6146c4f",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-100"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-100"
       }
     },
     {
@@ -11838,7 +11838,7 @@
       "notes": [],
       "work_passage_id": "congr:101",
       "html_path": "works/congr/index.html#p-101",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-101",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-101",
       "alignment_revision": "sha256:1a32bb2a28b43be198a01dffef440f96cef5d086360153786138551d1f683584",
       "review_state": {
         "human_reviewed": false,
@@ -11874,9 +11874,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "101",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:87def71922985ba67967e47139afb9cedc0c4751daa722c0a2b96c3efe8fa4dc",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-101"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-101"
       }
     },
     {
@@ -11954,7 +11954,7 @@
       ],
       "work_passage_id": "congr:102",
       "html_path": "works/congr/index.html#p-102",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-102",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-102",
       "alignment_revision": "sha256:f8305cb0f9bae3381c1f56778320a70ca128a81e36653158d55bfd11abc7b01f",
       "review_state": {
         "human_reviewed": false,
@@ -11990,9 +11990,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "102",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:8bc5513bc4e94d2648e01a090ba345c50b75834de62d9b9cba7148a60b3b6836",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-102"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-102"
       }
     },
     {
@@ -12081,7 +12081,7 @@
       ],
       "work_passage_id": "congr:103",
       "html_path": "works/congr/index.html#p-103",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-103",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-103",
       "alignment_revision": "sha256:4df918cd92ad926e00393112c072ebb005011de600df6dd2dc4bc3fdf5fece02",
       "review_state": {
         "human_reviewed": false,
@@ -12117,9 +12117,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "103",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:99e5d045e468179b71288abdbe00d2cc0771ef88958d18da9cdf965f4eb2745d",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-103"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-103"
       }
     },
     {
@@ -12179,7 +12179,7 @@
       "notes": [],
       "work_passage_id": "congr:104",
       "html_path": "works/congr/index.html#p-104",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-104",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-104",
       "alignment_revision": "sha256:481bbbf62a1f633020ffe126cc1e618d3763ba212ea742c63deea1f28b8707ee",
       "review_state": {
         "human_reviewed": false,
@@ -12215,9 +12215,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "104",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:f995a72724a1c02cb53affd5dba7ed8059cb2668327d17db3ca1561984bbdb1f",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-104"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-104"
       }
     },
     {
@@ -12303,7 +12303,7 @@
       "notes": [],
       "work_passage_id": "congr:105",
       "html_path": "works/congr/index.html#p-105",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-105",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-105",
       "alignment_revision": "sha256:3a0a05f995586f24b470f9cfa5fc12ea38d7cb904ea2bc362d27ad51e2670d3a",
       "review_state": {
         "human_reviewed": false,
@@ -12339,9 +12339,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "105",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:b6584bf866fc8ade971155251f372a1c4ab55ac84209b2188ecc9bebd17e0506",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-105"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-105"
       }
     },
     {
@@ -12429,7 +12429,7 @@
       ],
       "work_passage_id": "congr:106",
       "html_path": "works/congr/index.html#p-106",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-106",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-106",
       "alignment_revision": "sha256:02f097c2f5cdd0fc4c698031e2cfe1e7d36f8c126c07244acd0e18d1d57b7366",
       "review_state": {
         "human_reviewed": false,
@@ -12465,9 +12465,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "106",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:d9fd0b2156bb823b4361953f3a0aa0f61b3b5e2ac08ea4dfb82d243838e3c0a7",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-106"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-106"
       }
     },
     {
@@ -12558,7 +12558,7 @@
       ],
       "work_passage_id": "congr:107",
       "html_path": "works/congr/index.html#p-107",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-107",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-107",
       "alignment_revision": "sha256:f40be44d0358c6d29aea4601736f31a2ee9a788abb59fc81fafcccfcb5590588",
       "review_state": {
         "human_reviewed": false,
@@ -12594,9 +12594,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "107",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:6f62bee639607e4e87e9f20de84e55c1e95d11cc68c2c5523d0dc5f663c367a2",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-107"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-107"
       }
     },
     {
@@ -12671,7 +12671,7 @@
       ],
       "work_passage_id": "congr:108",
       "html_path": "works/congr/index.html#p-108",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-108",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-108",
       "alignment_revision": "sha256:78ebe50b130f01b629e0a4342d24d481c657cb00202239bad29d8d9ff6290a3b",
       "review_state": {
         "human_reviewed": false,
@@ -12707,9 +12707,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "108",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:5aabd8a1d482c0aeccf3e656f1cc8494cca24afbc1efaa7418a9f33540a7ff89",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-108"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-108"
       }
     },
     {
@@ -12784,7 +12784,7 @@
       ],
       "work_passage_id": "congr:109",
       "html_path": "works/congr/index.html#p-109",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-109",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-109",
       "alignment_revision": "sha256:2c5a8ccc0d64431ed6855b99d8b3229b901646266d6b3e22f952818a3b12f12d",
       "review_state": {
         "human_reviewed": false,
@@ -12820,9 +12820,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "109",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:3a35a5147a038509bbeffa31b04e925faf422a857e6aabca33f7003fac415971",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-109"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-109"
       }
     },
     {
@@ -12897,7 +12897,7 @@
       ],
       "work_passage_id": "congr:110",
       "html_path": "works/congr/index.html#p-110",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-110",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-110",
       "alignment_revision": "sha256:2904b80782b9ef47ec77d416b2d6969f3225e9dad3ba6e5066e139f53967066a",
       "review_state": {
         "human_reviewed": false,
@@ -12933,9 +12933,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "110",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:0ef728bdbbeede5e3c8bb19772a71fb81235802ccc403b11c5ac76ee17b2ba62",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-110"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-110"
       }
     },
     {
@@ -13026,7 +13026,7 @@
       ],
       "work_passage_id": "congr:111",
       "html_path": "works/congr/index.html#p-111",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-111",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-111",
       "alignment_revision": "sha256:dc43feeaa3256c2833fa74ab5dddd6e3c89dc73f5825ed97e9ac89624b4ddb8e",
       "review_state": {
         "human_reviewed": false,
@@ -13062,9 +13062,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "111",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:cc9a94bbefec4cc5ed62325c1b1199a6f54afe17a234192ae78710f125201d0c",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-111"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-111"
       }
     },
     {
@@ -13139,7 +13139,7 @@
       ],
       "work_passage_id": "congr:112",
       "html_path": "works/congr/index.html#p-112",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-112",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-112",
       "alignment_revision": "sha256:3263f2b248921c126b9a2291c7b5d194b158aa2cd66d06be9bce03646381b9cd",
       "review_state": {
         "human_reviewed": false,
@@ -13175,9 +13175,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "112",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:ba539c50a4c3dd14e93c2d7d6349e95fd7ff23f4b0c5d960ada3b52d343ff033",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-112"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-112"
       }
     },
     {
@@ -13318,7 +13318,7 @@
       ],
       "work_passage_id": "congr:113",
       "html_path": "works/congr/index.html#p-113",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-113",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-113",
       "alignment_revision": "sha256:4bdf7575aac76fdc64fb2832a48935fa3eb8dc7946bd3cd7509ae7c335386a42",
       "review_state": {
         "human_reviewed": false,
@@ -13354,9 +13354,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "113",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:44e56aceb939c7819dc7e839d0300333bf9403d539cb66fec51b37e69f73d210",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-113"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-113"
       }
     },
     {
@@ -13444,7 +13444,7 @@
       ],
       "work_passage_id": "congr:114",
       "html_path": "works/congr/index.html#p-114",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-114",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-114",
       "alignment_revision": "sha256:6592106be158c87646d0fb34f616f4319bb0fcb3ba713c0366f343eddafc8f35",
       "review_state": {
         "human_reviewed": false,
@@ -13480,9 +13480,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "114",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:76b9b7f06a4d1464b88665643c17abee7de7dc7fa51ae1318804286cbd697ef3",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-114"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-114"
       }
     },
     {
@@ -13570,7 +13570,7 @@
       ],
       "work_passage_id": "congr:115",
       "html_path": "works/congr/index.html#p-115",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-115",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-115",
       "alignment_revision": "sha256:ee1f7422af42a88daab2cd3c4f8ec5a31ddc1f0eba4d6e547fa3cde557642ef5",
       "review_state": {
         "human_reviewed": false,
@@ -13606,9 +13606,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "115",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:532bf03421ea6c0aa731f3da2c317618f0404da5fc7d5799c26262ab1f55c415",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-115"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-115"
       }
     },
     {
@@ -13683,7 +13683,7 @@
       ],
       "work_passage_id": "congr:116",
       "html_path": "works/congr/index.html#p-116",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-116",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-116",
       "alignment_revision": "sha256:59e781c6c35a5e121f5bc33dc6a683e412daca11d23df6c1413edc2547f35594",
       "review_state": {
         "human_reviewed": false,
@@ -13719,9 +13719,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "116",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:3ab095686b3abe989bf3747a5834255a0f7be2f5dceccd697977c4173e371acf",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-116"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-116"
       }
     },
     {
@@ -13851,7 +13851,7 @@
       ],
       "work_passage_id": "congr:117",
       "html_path": "works/congr/index.html#p-117",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-117",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-117",
       "alignment_revision": "sha256:0422fe3837f1d50ace2bca10e7a06ce503033f03199b5f889bdab0b42d54cc77",
       "review_state": {
         "human_reviewed": false,
@@ -13887,9 +13887,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "117",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:9846fda38168031ff2db1af81c7c5b821d4fb4b82307cd79f5b3a623b7b5197a",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-117"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-117"
       }
     },
     {
@@ -13964,7 +13964,7 @@
       ],
       "work_passage_id": "congr:118",
       "html_path": "works/congr/index.html#p-118",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-118",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-118",
       "alignment_revision": "sha256:5df7e994754d8292cb88c540f8269837c485839bfcc8dadaa07d90b18e1857a2",
       "review_state": {
         "human_reviewed": false,
@@ -14000,9 +14000,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "118",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:48fdc2358bf4af3cc6824c23d193db7fe6e1c5bf833d420f75a76587921e48b9",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-118"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-118"
       }
     },
     {
@@ -14077,7 +14077,7 @@
       ],
       "work_passage_id": "congr:119",
       "html_path": "works/congr/index.html#p-119",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-119",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-119",
       "alignment_revision": "sha256:36d067eca547e9aba7806b175a9225789f549e2dfaa9fded802d38ca1e1c2b6d",
       "review_state": {
         "human_reviewed": false,
@@ -14113,9 +14113,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "119",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:c0f53585fb58c2c141aab9b308743565f70c33ab6e3a0cfb52a6ceb4200682e3",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-119"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-119"
       }
     },
     {
@@ -14203,7 +14203,7 @@
       ],
       "work_passage_id": "congr:120",
       "html_path": "works/congr/index.html#p-120",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-120",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-120",
       "alignment_revision": "sha256:ba1fb6eb12a9f3f474de821ed2950354956008f0205b58d239025fb89a883ed8",
       "review_state": {
         "human_reviewed": false,
@@ -14239,9 +14239,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "120",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:338509703a588246189911edf2f400bd52f97c903975e31d21dd9d0a1830a34d",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-120"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-120"
       }
     },
     {
@@ -14319,7 +14319,7 @@
       ],
       "work_passage_id": "congr:121",
       "html_path": "works/congr/index.html#p-121",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-121",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-121",
       "alignment_revision": "sha256:efaef0a97dc866d56c6797f6cdbd7b258f37edb2ed4cb09224cfc46b00e8f201",
       "review_state": {
         "human_reviewed": false,
@@ -14355,9 +14355,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "121",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:4b0812fc133c7168ce943719d5015b5242febabfa74400b3634cc4123ca34036",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-121"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-121"
       }
     },
     {
@@ -14445,7 +14445,7 @@
       ],
       "work_passage_id": "congr:122",
       "html_path": "works/congr/index.html#p-122",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-122",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-122",
       "alignment_revision": "sha256:c0975e42d5dafe1ccd2010bb845e230ab60ec6e2722e4b2aa985facbebd2421d",
       "review_state": {
         "human_reviewed": false,
@@ -14481,9 +14481,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "122",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:1e5f661b0fcac59206d7140daaa06aca19e690a1f0027fc21c30c14b885f9272",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-122"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-122"
       }
     },
     {
@@ -14558,7 +14558,7 @@
       ],
       "work_passage_id": "congr:123",
       "html_path": "works/congr/index.html#p-123",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-123",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-123",
       "alignment_revision": "sha256:ab715da37337dec491ae8ca24d0690e32ee97bbb7ccc91c4c0df1d2398c55198",
       "review_state": {
         "human_reviewed": false,
@@ -14594,9 +14594,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "123",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:bf4f68003ce1f5850ce6df7e51cbcd06191462ad9c944b2c0a5b15dde606405b",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-123"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-123"
       }
     },
     {
@@ -14684,7 +14684,7 @@
       ],
       "work_passage_id": "congr:124",
       "html_path": "works/congr/index.html#p-124",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-124",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-124",
       "alignment_revision": "sha256:1fe1b4b3900183d054e83be636cf9b987e315c07c7da212231d5a86797261c00",
       "review_state": {
         "human_reviewed": false,
@@ -14720,9 +14720,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "124",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:d45ef60f03cf782f586b3e667f184efdff8ee6f937d1bf04f1d26f43cf61ceac",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-124"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-124"
       }
     },
     {
@@ -14826,7 +14826,7 @@
       ],
       "work_passage_id": "congr:125",
       "html_path": "works/congr/index.html#p-125",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-125",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-125",
       "alignment_revision": "sha256:95fd4b1dffb162434d58151063509d44c3b2965a8662964860d619fcf7834e8d",
       "review_state": {
         "human_reviewed": false,
@@ -14862,9 +14862,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "125",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:758c6c2c4b83ea4920ddfa2ab60516a293c14850d8781cf29e830af085662123",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-125"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-125"
       }
     },
     {
@@ -14952,7 +14952,7 @@
       ],
       "work_passage_id": "congr:126",
       "html_path": "works/congr/index.html#p-126",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-126",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-126",
       "alignment_revision": "sha256:a0e21bf37a23785ead6f5b3138bf823594dd6b462ce58183debc600b029bce6e",
       "review_state": {
         "human_reviewed": false,
@@ -14988,9 +14988,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "126",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:788737d287f976db0913fd51a4b543eb4d59a702d2d788d130b39ac2788bfa5e",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-126"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-126"
       }
     },
     {
@@ -15091,7 +15091,7 @@
       ],
       "work_passage_id": "congr:127",
       "html_path": "works/congr/index.html#p-127",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-127",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-127",
       "alignment_revision": "sha256:35aa580bf15b8b6b9291ab77fcd4f0648f3e4aee6b813d085183239282ba7933",
       "review_state": {
         "human_reviewed": false,
@@ -15127,9 +15127,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "127",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:c7ee1b90c24d07e3ce891afe93937779c37e94181e189f03d87c027de07dc67e",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-127"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-127"
       }
     },
     {
@@ -15191,7 +15191,7 @@
       ],
       "work_passage_id": "congr:128",
       "html_path": "works/congr/index.html#p-128",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-128",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-128",
       "alignment_revision": "sha256:3541e8788ecfd85fd9d15f5c620e7aac6d9b74131c09862dd0f3eb3dfca5e7d6",
       "review_state": {
         "human_reviewed": false,
@@ -15227,9 +15227,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "128",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:aba471158048ba3bc1f719cc60675762520e32b794bbd82f3e9c6ffa79f71bae",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-128"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-128"
       }
     },
     {
@@ -15318,7 +15318,7 @@
       ],
       "work_passage_id": "congr:129",
       "html_path": "works/congr/index.html#p-129",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-129",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-129",
       "alignment_revision": "sha256:9e890f14a307255c08b9e36868a00aa606ee6e276515b313db8cc136a012f217",
       "review_state": {
         "human_reviewed": false,
@@ -15354,9 +15354,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "129",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:c5c7a2b0e2683055fd216d4974d08851c12b33818040c661c9f7a589c7ea3915",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-129"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-129"
       }
     },
     {
@@ -15461,7 +15461,7 @@
       ],
       "work_passage_id": "congr:130",
       "html_path": "works/congr/index.html#p-130",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-130",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-130",
       "alignment_revision": "sha256:5dc9693e54a019e896ebc530e56ad9a90ead29d26df53ec8ccf9b570b898c0f5",
       "review_state": {
         "human_reviewed": false,
@@ -15497,9 +15497,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "130",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:7ec1690e0ed0a01ed0f8b2cbbc47efd44c6f9f47130c5cb0a102a5365ff6fd8b",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-130"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-130"
       }
     },
     {
@@ -15587,7 +15587,7 @@
       ],
       "work_passage_id": "congr:131",
       "html_path": "works/congr/index.html#p-131",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-131",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-131",
       "alignment_revision": "sha256:5bd29621b6bf7aa720eaa1d16a9c2435c7c307b6ead9d0054dcb5edae85bfd8c",
       "review_state": {
         "human_reviewed": false,
@@ -15623,9 +15623,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "131",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:800fd730a472b1347027e82e706eadf37ac3b0e2716b5ca23bf1caf3777d71ed",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-131"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-131"
       }
     },
     {
@@ -15700,7 +15700,7 @@
       ],
       "work_passage_id": "congr:132",
       "html_path": "works/congr/index.html#p-132",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-132",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-132",
       "alignment_revision": "sha256:d1338ae18b1d15554315b9ce595811374b5ba28b3293842db19aaee8adf095a9",
       "review_state": {
         "human_reviewed": false,
@@ -15736,9 +15736,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "132",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:c3ba18d338e7818fdb1ee0cbd2e9e087e2b022dab9b4b06be64b52b6b856f574",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-132"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-132"
       }
     },
     {
@@ -15826,7 +15826,7 @@
       ],
       "work_passage_id": "congr:133",
       "html_path": "works/congr/index.html#p-133",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-133",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-133",
       "alignment_revision": "sha256:13c6733dcb257dadb2fe0959b823adb7d62215220514455b2585a9a7bf2fa380",
       "review_state": {
         "human_reviewed": false,
@@ -15862,9 +15862,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "133",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:251af42df71c986ebf4ed29c38917787eae6ed5972c0fa85314313fd7880f552",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-133"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-133"
       }
     },
     {
@@ -15943,7 +15943,7 @@
       ],
       "work_passage_id": "congr:134",
       "html_path": "works/congr/index.html#p-134",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-134",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-134",
       "alignment_revision": "sha256:3ca0e16c42d164922e3cd45132044a3f59b94dd8c89c28179e146a884a36fc74",
       "review_state": {
         "human_reviewed": false,
@@ -15979,9 +15979,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "134",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:e21c91053e9e70ea562a97fb22971db1d53a716352431ad6bb5741fb0446eef5",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-134"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-134"
       }
     },
     {
@@ -16056,7 +16056,7 @@
       ],
       "work_passage_id": "congr:135",
       "html_path": "works/congr/index.html#p-135",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-135",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-135",
       "alignment_revision": "sha256:ffc6fb9a51c20dde115086dde443fe4a0a829aad7a0520709fe367efcd6be5ef",
       "review_state": {
         "human_reviewed": false,
@@ -16092,9 +16092,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "135",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:52abba92cab8c7ee15a2395cdf837cfda05ccded695f31d87cc02e4e6606af8e",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-135"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-135"
       }
     },
     {
@@ -16154,7 +16154,7 @@
       "notes": [],
       "work_passage_id": "congr:136",
       "html_path": "works/congr/index.html#p-136",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-136",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-136",
       "alignment_revision": "sha256:1c0636d0b2a6b6e306ff1dc845e85c9e955f7466641d76f881ccc944bd428a44",
       "review_state": {
         "human_reviewed": false,
@@ -16190,9 +16190,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "136",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:494221267e44d1c67f31948f9fa45380961f34f5cb4fb3b255192ebd516a237d",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-136"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-136"
       }
     },
     {
@@ -16293,7 +16293,7 @@
       ],
       "work_passage_id": "congr:137",
       "html_path": "works/congr/index.html#p-137",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-137",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-137",
       "alignment_revision": "sha256:72ef6312c60900e3dbd8905783af3437d2684c5b0156865023f328cdf5681ba7",
       "review_state": {
         "human_reviewed": false,
@@ -16329,9 +16329,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "137",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:571a8f748c4c034ba28877d37c8803bc533ba20c04f71342bbd8adb5fde5691b",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-137"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-137"
       }
     },
     {
@@ -16432,7 +16432,7 @@
       ],
       "work_passage_id": "congr:138",
       "html_path": "works/congr/index.html#p-138",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-138",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-138",
       "alignment_revision": "sha256:ebdeda80af15798e54d40bdae670ded4dad4149b833facf27fb42ecdd478b1de",
       "review_state": {
         "human_reviewed": false,
@@ -16468,9 +16468,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "138",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:25dbfa3061418c66b6a236d44bc44336cd1354cf3686f94227f50fe97a4fe090",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-138"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-138"
       }
     },
     {
@@ -16548,7 +16548,7 @@
       ],
       "work_passage_id": "congr:139",
       "html_path": "works/congr/index.html#p-139",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-139",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-139",
       "alignment_revision": "sha256:2bf06e1e9439b6707b7978aa532ffa81c36c072b11fa0202beeebd22ac6f2141",
       "review_state": {
         "human_reviewed": false,
@@ -16584,9 +16584,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "139",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:44f87cb450605a518d44a8bb26c67070db21e810d48b10b132f2bf632db82553",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-139"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-139"
       }
     },
     {
@@ -16672,7 +16672,7 @@
       "notes": [],
       "work_passage_id": "congr:140",
       "html_path": "works/congr/index.html#p-140",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-140",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-140",
       "alignment_revision": "sha256:d41010e0cc468e51a83f8bc48053da4ddf45919268a64cb86ae6a3682fec5111",
       "review_state": {
         "human_reviewed": false,
@@ -16708,9 +16708,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "140",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:df9ef8e35aa50e46fd57f1aa1469db0d9a1d25b8002cf1e9a6c174d978e3f9ef",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-140"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-140"
       }
     },
     {
@@ -16785,7 +16785,7 @@
       ],
       "work_passage_id": "congr:141",
       "html_path": "works/congr/index.html#p-141",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-141",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-141",
       "alignment_revision": "sha256:931f2b557de6263b76b55b5f0f7a848dc230284b5d8d47fed4ca6030362e5363",
       "review_state": {
         "human_reviewed": false,
@@ -16821,9 +16821,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "141",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:f904f8cd6acf26cc293b4f42d012140ff8a8740f7b525128593a98ddb54cbe79",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-141"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-141"
       }
     },
     {
@@ -16896,7 +16896,7 @@
       "notes": [],
       "work_passage_id": "congr:142",
       "html_path": "works/congr/index.html#p-142",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-142",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-142",
       "alignment_revision": "sha256:0616870b19c1b716eb60816ef9e5ad78e928db0ca93f836b0ea03954572a86a6",
       "review_state": {
         "human_reviewed": false,
@@ -16932,9 +16932,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "142",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:5300ae4346fef2ac193052360eb5a55471217ef8a40ec563b60f6196838262f0",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-142"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-142"
       }
     },
     {
@@ -17064,7 +17064,7 @@
       ],
       "work_passage_id": "congr:143",
       "html_path": "works/congr/index.html#p-143",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-143",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-143",
       "alignment_revision": "sha256:01ac0c9fc7de4c2064dcbe6d12b6c26a71d37fba403cd7bb384ea2979a6191be",
       "review_state": {
         "human_reviewed": false,
@@ -17100,9 +17100,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "143",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:bb45e745da04337c6a13c71e19fb03976ff37ef30e5ebe199b621540b0f2a73b",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-143"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-143"
       }
     },
     {
@@ -17203,7 +17203,7 @@
       ],
       "work_passage_id": "congr:144",
       "html_path": "works/congr/index.html#p-144",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-144",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-144",
       "alignment_revision": "sha256:4d276730d3cc17a79e9cbd0fe752f535bdad5c61bd77aec7cabdd757055c4050",
       "review_state": {
         "human_reviewed": false,
@@ -17239,9 +17239,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "144",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:dea04a64f82f69533c643d43209fe01651c3b4e26eaefb4516d835b17482a750",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-144"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-144"
       }
     },
     {
@@ -17301,7 +17301,7 @@
       "notes": [],
       "work_passage_id": "congr:145",
       "html_path": "works/congr/index.html#p-145",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-145",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-145",
       "alignment_revision": "sha256:8b094630476301207e9b4bd4f377d5e6b3c8db6f4fcc797b867115e78a8a774b",
       "review_state": {
         "human_reviewed": false,
@@ -17337,9 +17337,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "145",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:af46112da0aaa50e2e82b9690783e0763eec5a32ebe0e870a86af58d5f2bef2b",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-145"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-145"
       }
     },
     {
@@ -17414,7 +17414,7 @@
       ],
       "work_passage_id": "congr:146",
       "html_path": "works/congr/index.html#p-146",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-146",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-146",
       "alignment_revision": "sha256:4634dd58c011d57e2183cc62fe04a96f11caa89853053c45e7d6c8b1a972871e",
       "review_state": {
         "human_reviewed": false,
@@ -17450,9 +17450,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "146",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:a0f292ac9266a4b919a0677de457236033ec5f22c4b9b7258c47a3b65c2ac8a3",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-146"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-146"
       }
     },
     {
@@ -17527,7 +17527,7 @@
       ],
       "work_passage_id": "congr:147",
       "html_path": "works/congr/index.html#p-147",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-147",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-147",
       "alignment_revision": "sha256:3682720a21be176b250de7988ac13a31bc708d98159516f8f6b61ce789672af4",
       "review_state": {
         "human_reviewed": false,
@@ -17563,9 +17563,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "147",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:afbafd906dcd4b027ba7d817e767809fc1eba6c14bd6057c985cfcf28792a6a9",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-147"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-147"
       }
     },
     {
@@ -17643,7 +17643,7 @@
       ],
       "work_passage_id": "congr:148",
       "html_path": "works/congr/index.html#p-148",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-148",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-148",
       "alignment_revision": "sha256:5a207df4d56bbc18b5685342ba073f0361aba0af267e3051303c4001c1989ab7",
       "review_state": {
         "human_reviewed": false,
@@ -17679,9 +17679,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "148",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:186b5d132a908595d99a2217c6854633d6441cf965623d5315e53741cf9a604d",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-148"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-148"
       }
     },
     {
@@ -17783,7 +17783,7 @@
       ],
       "work_passage_id": "congr:149",
       "html_path": "works/congr/index.html#p-149",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-149",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-149",
       "alignment_revision": "sha256:1d09b7de2c9e9cd4c0796e316727a2932c3513110086a5f86401b81f9825de04",
       "review_state": {
         "human_reviewed": false,
@@ -17819,9 +17819,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "149",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:c5e51d0fdaf044c66dc941b757d7b924607ae68804d1230ef7f5c76547d94f41",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-149"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-149"
       }
     },
     {
@@ -17896,7 +17896,7 @@
       ],
       "work_passage_id": "congr:150",
       "html_path": "works/congr/index.html#p-150",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-150",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-150",
       "alignment_revision": "sha256:a2a7cde642780bc6bcdea585c780f2df18077b812678a3b96238d36b4e3f6ab9",
       "review_state": {
         "human_reviewed": false,
@@ -17932,9 +17932,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "150",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:592bbafcf3e92bcf45a69d8e78cada79ff69405e8bdf7675afe6111cc9c78f29",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-150"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-150"
       }
     },
     {
@@ -18009,7 +18009,7 @@
       ],
       "work_passage_id": "congr:151",
       "html_path": "works/congr/index.html#p-151",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-151",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-151",
       "alignment_revision": "sha256:339e38eeafc0d0018a08379fd643e73a95d0d28ba52fc909a490ed3f6b818fc0",
       "review_state": {
         "human_reviewed": false,
@@ -18045,9 +18045,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "151",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:87c1fd6c2a0d4e1b3b22f036c17ebfea34f07a4da6c2c8b72794857ac8f140f3",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-151"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-151"
       }
     },
     {
@@ -18138,7 +18138,7 @@
       ],
       "work_passage_id": "congr:152",
       "html_path": "works/congr/index.html#p-152",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-152",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-152",
       "alignment_revision": "sha256:9e81c99c35fc826c361eb71f5268b235594142793b666a3d53a3324b80895313",
       "review_state": {
         "human_reviewed": false,
@@ -18174,9 +18174,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "152",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:26ece5d4b3019733d0708824618b58c661f598479f9b49000af3625af844f94a",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-152"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-152"
       }
     },
     {
@@ -18251,7 +18251,7 @@
       ],
       "work_passage_id": "congr:153",
       "html_path": "works/congr/index.html#p-153",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-153",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-153",
       "alignment_revision": "sha256:f272bf251444209c5c91ac63434bf32299d0e873e831f73d7b22c5be044e98cf",
       "review_state": {
         "human_reviewed": false,
@@ -18287,9 +18287,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "153",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:aebb9993b31af8284b2080891cb14e180ceaf9bf35d6b5f04aa03b373b70ee61",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-153"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-153"
       }
     },
     {
@@ -18377,7 +18377,7 @@
       ],
       "work_passage_id": "congr:154",
       "html_path": "works/congr/index.html#p-154",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-154",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-154",
       "alignment_revision": "sha256:9376a2609fec5dd7847fd155d43f108090a7c929f1ade14039dbff9eed0e563f",
       "review_state": {
         "human_reviewed": false,
@@ -18413,9 +18413,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "154",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:6a5d721accb7462664d7e03bc3396531826ef11352391d69187567329876960a",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-154"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-154"
       }
     },
     {
@@ -18527,7 +18527,7 @@
       "notes": [],
       "work_passage_id": "congr:155",
       "html_path": "works/congr/index.html#p-155",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-155",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-155",
       "alignment_revision": "sha256:9ce059223b7e8f2cac361629491a054a95957c0cb884448df124627fdbcf3418",
       "review_state": {
         "human_reviewed": false,
@@ -18563,9 +18563,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "155",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:45032a146062d9ca8f6a95a7ee8693a191d1411c8b655d7fb57a62ae457ce287",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-155"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-155"
       }
     },
     {
@@ -18643,7 +18643,7 @@
       ],
       "work_passage_id": "congr:156",
       "html_path": "works/congr/index.html#p-156",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-156",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-156",
       "alignment_revision": "sha256:50920f7ccee2d4d86763ecfb0d9c697635506176ad5067f9f9aa9d68a5e55fbc",
       "review_state": {
         "human_reviewed": false,
@@ -18679,9 +18679,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "156",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:2c757eb6c564566feebff7e542e4c9a6684295a99e477ae322831b1f517ab0eb",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-156"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-156"
       }
     },
     {
@@ -18754,7 +18754,7 @@
       "notes": [],
       "work_passage_id": "congr:157",
       "html_path": "works/congr/index.html#p-157",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-157",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-157",
       "alignment_revision": "sha256:fcd35c71fab59db8073526e4e11c5217aeaeba75aa8f6b078f0640592af2af77",
       "review_state": {
         "human_reviewed": false,
@@ -18790,9 +18790,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "157",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:d4c248f95c3e3cd9ca6c18b3203f6897707be008fb6a2acc609016ec413f4f5e",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-157"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-157"
       }
     },
     {
@@ -18854,7 +18854,7 @@
       ],
       "work_passage_id": "congr:158",
       "html_path": "works/congr/index.html#p-158",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-158",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-158",
       "alignment_revision": "sha256:e9ee4120b1a7115682605f9fcd543909fb738e39515a5d3d0aaef32b7181c8e9",
       "review_state": {
         "human_reviewed": false,
@@ -18890,9 +18890,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "158",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:18d9950633c0e621e2239c5e578827ab58459ec45196d9671cc3b6db5552db25",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-158"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-158"
       }
     },
     {
@@ -18993,7 +18993,7 @@
       ],
       "work_passage_id": "congr:159",
       "html_path": "works/congr/index.html#p-159",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-159",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-159",
       "alignment_revision": "sha256:541f3d3549aef4c98a971d057b5db8bb98f61eb949460a8dcd8298f5b0cd561a",
       "review_state": {
         "human_reviewed": false,
@@ -19029,9 +19029,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "159",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:6edca68682c9fc5da11b65701e9e9337ec1438cbe2a2021c905462bc43bd7f53",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-159"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-159"
       }
     },
     {
@@ -19119,7 +19119,7 @@
       ],
       "work_passage_id": "congr:160",
       "html_path": "works/congr/index.html#p-160",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-160",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-160",
       "alignment_revision": "sha256:e0b85feb702dbee47e10cde6c44912929ec6334e7af1a5029d899d4dc66fa2dc",
       "review_state": {
         "human_reviewed": false,
@@ -19155,9 +19155,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "160",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:7d901f523818a33159e7036e024637d09ee04e85cd2861bb4ab844e4d3dd248c",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-160"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-160"
       }
     },
     {
@@ -19222,7 +19222,7 @@
       ],
       "work_passage_id": "congr:161",
       "html_path": "works/congr/index.html#p-161",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-161",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-161",
       "alignment_revision": "sha256:f947e91d1c791e4894102a65dcfd2ecafda76f43a29f8fd80c5a67f3022715f5",
       "review_state": {
         "human_reviewed": false,
@@ -19258,9 +19258,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "161",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:189f378ad7ec9c901880917f64881d43fefc411009c1870ecc4121d292ca0667",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-161"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-161"
       }
     },
     {
@@ -19361,7 +19361,7 @@
       ],
       "work_passage_id": "congr:162",
       "html_path": "works/congr/index.html#p-162",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-162",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-162",
       "alignment_revision": "sha256:e8207e732793dd4fd4b80e2db0a72b3e046f89a96c3cfa880bec8bd495093e3f",
       "review_state": {
         "human_reviewed": false,
@@ -19397,9 +19397,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "162",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:2a64c4a9553669c65148daa207aa7eb20c8baf317634804c6a7fd8d1bda25e6d",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-162"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-162"
       }
     },
     {
@@ -19552,7 +19552,7 @@
       ],
       "work_passage_id": "congr:163",
       "html_path": "works/congr/index.html#p-163",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-163",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-163",
       "alignment_revision": "sha256:49cc76eab217aae50cfb37294fe73da4dc2cba71a3070ea95da932e7b92cf640",
       "review_state": {
         "human_reviewed": false,
@@ -19588,9 +19588,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "163",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:6daad9a73aecebe9a7bff1f7a95767dc5f5268eaa511ce81f45b6e89d0147cc8",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-163"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-163"
       }
     },
     {
@@ -19676,7 +19676,7 @@
       "notes": [],
       "work_passage_id": "congr:164",
       "html_path": "works/congr/index.html#p-164",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-164",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-164",
       "alignment_revision": "sha256:dce27eb971831b9518659b7e40b829c4b6f4665b3324fb17ff6f7fc99f209fa1",
       "review_state": {
         "human_reviewed": false,
@@ -19712,9 +19712,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "164",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:bbbcbc945dd47ff7eeaf4c40d37aea7820b74b0361bd4e5607a368643c7a86f5",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-164"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-164"
       }
     },
     {
@@ -19792,7 +19792,7 @@
       ],
       "work_passage_id": "congr:165",
       "html_path": "works/congr/index.html#p-165",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-165",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-165",
       "alignment_revision": "sha256:343b1bb582a1adfc925d87e686c3cfae1862f95a7be6dbe5658fa385876d0b6b",
       "review_state": {
         "human_reviewed": false,
@@ -19828,9 +19828,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "165",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:010271a6ab23cf943bf5aa2b9ca67348bc89e1d211d029bd1315015ce79a71e4",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-165"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-165"
       }
     },
     {
@@ -19903,7 +19903,7 @@
       "notes": [],
       "work_passage_id": "congr:166",
       "html_path": "works/congr/index.html#p-166",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-166",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-166",
       "alignment_revision": "sha256:0b927e0f828b675a253accec6764cf5d0925b5d1d2ce8af528faf5165e4ef3b1",
       "review_state": {
         "human_reviewed": false,
@@ -19939,9 +19939,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "166",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:43aef53082a39b57ca5050aaaec209506e5244a7aaf845a78b76aaf48393dbc7",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-166"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-166"
       }
     },
     {
@@ -20014,7 +20014,7 @@
       "notes": [],
       "work_passage_id": "congr:167",
       "html_path": "works/congr/index.html#p-167",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-167",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-167",
       "alignment_revision": "sha256:73318b33315d0bbcd8d37fdb15930c978c866449d53062f1d29c09e027e551fe",
       "review_state": {
         "human_reviewed": false,
@@ -20050,9 +20050,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "167",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:26eaac5eb64a04d003d656ff8dfb358af15e64438a923f3ddbfc41c206ecd4c9",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-167"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-167"
       }
     },
     {
@@ -20114,7 +20114,7 @@
       ],
       "work_passage_id": "congr:168",
       "html_path": "works/congr/index.html#p-168",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-168",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-168",
       "alignment_revision": "sha256:1ffcd7fc174def213fdc0f9ec1719d45784cc67d367cd7178af7f6b027109962",
       "review_state": {
         "human_reviewed": false,
@@ -20150,9 +20150,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "168",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:c2239225a278246f1554eb2cd9339ed77e06828d402d7386b11a4bd0f5b9c3ce",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-168"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-168"
       }
     },
     {
@@ -20214,7 +20214,7 @@
       ],
       "work_passage_id": "congr:169",
       "html_path": "works/congr/index.html#p-169",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-169",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-169",
       "alignment_revision": "sha256:119cf310d81e5f9ac31fcaef2e46c9853891ee453009fc5a35c54e64568328ad",
       "review_state": {
         "human_reviewed": false,
@@ -20250,9 +20250,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "169",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:f32317747edc6196cbb438930971eb8205482cce6d07f673fe29bf0cc474f10d",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-169"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-169"
       }
     },
     {
@@ -20356,7 +20356,7 @@
       ],
       "work_passage_id": "congr:170",
       "html_path": "works/congr/index.html#p-170",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-170",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-170",
       "alignment_revision": "sha256:4d69e42935d19db6ba50e47b7ba32e666396687189d8779c26720748e3aa14c9",
       "review_state": {
         "human_reviewed": false,
@@ -20392,9 +20392,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "170",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:135f4e4b728653ff9d87c891e2385e337dd88eb93b96ac53f178bd3f5949fd24",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-170"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-170"
       }
     },
     {
@@ -20482,7 +20482,7 @@
       ],
       "work_passage_id": "congr:171",
       "html_path": "works/congr/index.html#p-171",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-171",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-171",
       "alignment_revision": "sha256:9fe89a79153fcac85b4713b146b8ef389113ad63059f8c7b3ca864d6d3f63b14",
       "review_state": {
         "human_reviewed": false,
@@ -20518,9 +20518,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "171",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:a27a7c4989d68111ad464f55f4b912b8e0c5b1c754b742a5f3a9b00d5ed135e4",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-171"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-171"
       }
     },
     {
@@ -20595,7 +20595,7 @@
       ],
       "work_passage_id": "congr:172",
       "html_path": "works/congr/index.html#p-172",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-172",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-172",
       "alignment_revision": "sha256:95fb0f399d6fa94c4f63d71bcb0cda03b1fee77049b98b5759c4d1972a2d7e8e",
       "review_state": {
         "human_reviewed": false,
@@ -20631,9 +20631,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "172",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:6bde16adae0eaeb1094fee372ec1b56f119f2f61980e167238d258cb9383cae7",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-172"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-172"
       }
     },
     {
@@ -20706,7 +20706,7 @@
       "notes": [],
       "work_passage_id": "congr:173",
       "html_path": "works/congr/index.html#p-173",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-173",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-173",
       "alignment_revision": "sha256:3572f495c212b39dc142a25d34dffe7803e8e5919f015916e33cb540e8400d67",
       "review_state": {
         "human_reviewed": false,
@@ -20742,9 +20742,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "173",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:732eee4b6a988b9e53aa14849ada7274e560c9bedcef01900ccfb8b0e1df4745",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-173"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-173"
       }
     },
     {
@@ -20819,7 +20819,7 @@
       ],
       "work_passage_id": "congr:174",
       "html_path": "works/congr/index.html#p-174",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-174",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-174",
       "alignment_revision": "sha256:6e4f33bed469d97b56f46e043eb2b4660f5c64f5ae8f211d37f6c88619df05e2",
       "review_state": {
         "human_reviewed": false,
@@ -20855,9 +20855,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "174",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:a7ab844b1ab3208ccedece5633719a2e2d75e5859d0289ea896c154c59d680c4",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-174"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-174"
       }
     },
     {
@@ -20919,7 +20919,7 @@
       ],
       "work_passage_id": "congr:175",
       "html_path": "works/congr/index.html#p-175",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-175",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-175",
       "alignment_revision": "sha256:9203803891093efb4fd146e07cdc8c2176990aded63aeccaf03f489b1280e869",
       "review_state": {
         "human_reviewed": false,
@@ -20955,9 +20955,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "175",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:3b765c36c4ebc6c2d8589efadef3887c776db0f8e37066493a0a47d1837e468d",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-175"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-175"
       }
     },
     {
@@ -21022,7 +21022,7 @@
       ],
       "work_passage_id": "congr:176",
       "html_path": "works/congr/index.html#p-176",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-176",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-176",
       "alignment_revision": "sha256:251505360e47396c4e384006782937a3d720acc2f023176b7a540fc78379b865",
       "review_state": {
         "human_reviewed": false,
@@ -21058,9 +21058,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "176",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:92fecfb0faa9cb1b88e42a149cf73e9e554efe8e25a71c75b9953f363d9adb07",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-176"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-176"
       }
     },
     {
@@ -21149,7 +21149,7 @@
       ],
       "work_passage_id": "congr:177",
       "html_path": "works/congr/index.html#p-177",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-177",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-177",
       "alignment_revision": "sha256:ad50a45657995bd814f10fc1d81619ccfaefece09589a542aa7309e1c95e699e",
       "review_state": {
         "human_reviewed": false,
@@ -21185,9 +21185,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "177",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:d942296905f65661def1cc378365cd00ecc3621702e06598146f627f7c452345",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-177"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-177"
       }
     },
     {
@@ -21275,7 +21275,7 @@
       ],
       "work_passage_id": "congr:178",
       "html_path": "works/congr/index.html#p-178",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-178",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-178",
       "alignment_revision": "sha256:3c9563f813ac09af4a6cfc01248a52abfe5574d2244ec4128d2b9b4cc2bc0048",
       "review_state": {
         "human_reviewed": false,
@@ -21311,9 +21311,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "178",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:b695a701d695b66c10df0b532ee0f5e43dff91973dacd210708e2e8322bd9ad2",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-178"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-178"
       }
     },
     {
@@ -21386,7 +21386,7 @@
       "notes": [],
       "work_passage_id": "congr:179",
       "html_path": "works/congr/index.html#p-179",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-179",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-179",
       "alignment_revision": "sha256:7354d96191820e2c7d51bc9bfc0218e6dfe6c789e4a81b9b556e3341fae3e670",
       "review_state": {
         "human_reviewed": false,
@@ -21422,9 +21422,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "179",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:e5b1b3b4545c6f20e383dfaf4a389a66193128241ad078218a5fce442344c3c2",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-179"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-179"
       }
     },
     {
@@ -21486,7 +21486,7 @@
       ],
       "work_passage_id": "congr:180",
       "html_path": "works/congr/index.html#p-180",
-      "fixed_html_path": "releases/public-0.40/works/congr/index.html#p-180",
+      "fixed_html_path": "releases/public-0.41/works/congr/index.html#p-180",
       "alignment_revision": "sha256:0e5a3f9770074cadd8b481627aa7d367133763f2b126ee6ea92460438737a397",
       "review_state": {
         "human_reviewed": false,
@@ -21522,9 +21522,9 @@
         "work": "예비 교육과의 결합에 관하여",
         "reference": "180",
         "edition": "Paul Wendland 편, Philonis Alexandrini Opera quae supersunt, vol. 3, Berlin: Reimer, 1898.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:ea86b9db7008141e6fa80f7150a2758474901fe223b5fad5655876db52384f1d",
-        "fixed_path": "releases/public-0.40/works/congr/index.html#p-180"
+        "fixed_path": "releases/public-0.41/works/congr/index.html#p-180"
       }
     }
   ],
@@ -21548,14 +21548,14 @@
   "display_author": "필론",
   "scope": "예비 교육과의 결합에 관하여 채택 본문 180대목 전체",
   "coverage": "complete",
-  "release_id": "public-0.40",
+  "release_id": "public-0.41",
   "source_language": "grc",
   "source_kind": "edited_ancient_original",
   "human_reviewed": false,
   "translation_method": "고정 원어 본문에서 직접 번역",
   "html_path": "works/congr/index.html",
   "json_path": "data/works/congr.json",
-  "fixed_html_path": "releases/public-0.40/works/congr/index.html",
+  "fixed_html_path": "releases/public-0.41/works/congr/index.html",
   "source_profile": "congr-complete-pinned-source-20261021",
   "source_decisions": [
     {

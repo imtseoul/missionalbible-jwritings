@@ -126,7 +126,7 @@
       ],
       "work_passage_id": "nero:1.1",
       "html_path": "works/nero/index.html#p-1-1",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-1-1",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-1-1",
       "alignment_revision": "sha256:29c82a237ea563cdbdb0e6cc7556ddebb50b4609039e83ced2ac2cfbcef4dc8c",
       "review_state": {
         "human_reviewed": false,
@@ -162,9 +162,9 @@
         "work": "네로",
         "reference": "1.1",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:61894d1a9c0a9eccbf47da5cbd2d0323aa7adc15d4d0f35dd6c97aa9d2e57d56",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-1-1"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-1-1"
       }
     },
     {
@@ -265,7 +265,7 @@
       ],
       "work_passage_id": "nero:1.2",
       "html_path": "works/nero/index.html#p-1-2",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-1-2",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-1-2",
       "alignment_revision": "sha256:db91ffe54bcbced0b5a4cfb9350b9f39d1925153ac82c4214a21de9dafc4bad3",
       "review_state": {
         "human_reviewed": false,
@@ -301,9 +301,9 @@
         "work": "네로",
         "reference": "1.2",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:374d49b925a26786dc50ff9e56bf7e5dc31398ee9d03b1dc21e4883e5d9f7737",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-1-2"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-1-2"
       }
     },
     {
@@ -391,7 +391,7 @@
       ],
       "work_passage_id": "nero:2.1",
       "html_path": "works/nero/index.html#p-2-1",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-2-1",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-2-1",
       "alignment_revision": "sha256:8977fbd27125e793e1be5fe892abfdfe2fe4fe1fffaf92244cfe7af5573f6534",
       "review_state": {
         "human_reviewed": false,
@@ -427,9 +427,9 @@
         "work": "네로",
         "reference": "2.1",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:54e985ba3c20f918cda923e78998b728d13166db0c51a31d6423eb2f2465b7a7",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-2-1"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-2-1"
       }
     },
     {
@@ -505,7 +505,7 @@
       ],
       "work_passage_id": "nero:2.2",
       "html_path": "works/nero/index.html#p-2-2",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-2-2",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-2-2",
       "alignment_revision": "sha256:0eaef387136170c92aa0001c76edbb87b26f9b7597f0630d4c499d8ba3840a08",
       "review_state": {
         "human_reviewed": false,
@@ -541,9 +541,9 @@
         "work": "네로",
         "reference": "2.2",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:c68e48b897cb4821bafab0d3eb8951294f142c8f9b8d7419dfe2f77b3ea4ed42",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-2-2"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-2-2"
       }
     },
     {
@@ -644,7 +644,7 @@
       ],
       "work_passage_id": "nero:2.3",
       "html_path": "works/nero/index.html#p-2-3",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-2-3",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-2-3",
       "alignment_revision": "sha256:bc74e2ec502793ec76cae26a2ef6f8ea003024a13bd93ae0f3c89486a167ddc2",
       "review_state": {
         "human_reviewed": false,
@@ -680,9 +680,9 @@
         "work": "네로",
         "reference": "2.3",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:708830a1c69bff8a21cdb9210e1b7ad008340e093b7f403676a1b8b5533cfb7d",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-2-3"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-2-3"
       }
     },
     {
@@ -770,7 +770,7 @@
       ],
       "work_passage_id": "nero:3.1",
       "html_path": "works/nero/index.html#p-3-1",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-3-1",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-3-1",
       "alignment_revision": "sha256:20e515962b2d4415ca8c2a696b345f237b767b0759fe3f7bec80d66c00573933",
       "review_state": {
         "human_reviewed": false,
@@ -806,9 +806,9 @@
         "work": "네로",
         "reference": "3.1",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:7f05ba3c84b955959cce232198444ce433b041819c2f6ffe16e4d30826b6f6ad",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-3-1"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-3-1"
       }
     },
     {
@@ -896,7 +896,7 @@
       ],
       "work_passage_id": "nero:3.2",
       "html_path": "works/nero/index.html#p-3-2",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-3-2",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-3-2",
       "alignment_revision": "sha256:96be704a9704dcac6f253256626557d847d279896a434eca07cbf8184abe5368",
       "review_state": {
         "human_reviewed": false,
@@ -932,9 +932,9 @@
         "work": "네로",
         "reference": "3.2",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:482327605e563291bda499aba6c34fefd4be9660be01bcd050f73f1021da24c2",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-3-2"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-3-2"
       }
     },
     {
@@ -1036,7 +1036,7 @@
       ],
       "work_passage_id": "nero:4.1",
       "html_path": "works/nero/index.html#p-4-1",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-4-1",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-4-1",
       "alignment_revision": "sha256:6a754a4c7189df36634c884bf86848d1a7b21ac1e3f406f972e3fc7dcf68a33f",
       "review_state": {
         "human_reviewed": false,
@@ -1072,9 +1072,9 @@
         "work": "네로",
         "reference": "4.1",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:31d960350c4d08addaeb0d6e22aa1991ffa4cf3d663cc5dbd7966a5a8846e9e9",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-4-1"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-4-1"
       }
     },
     {
@@ -1149,7 +1149,7 @@
       ],
       "work_passage_id": "nero:5.1",
       "html_path": "works/nero/index.html#p-5-1",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-5-1",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-5-1",
       "alignment_revision": "sha256:bbde451266af0030ed3a7aec34bbfbffe1d8b8b2f0197b131666b77ac32024cb",
       "review_state": {
         "human_reviewed": false,
@@ -1185,9 +1185,9 @@
         "work": "네로",
         "reference": "5.1",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:d7d94b23b7c3e1251867acbf4fc0a1711cc9416a977fab37c7c47c4bf6a7861a",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-5-1"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-5-1"
       }
     },
     {
@@ -1289,7 +1289,7 @@
       ],
       "work_passage_id": "nero:5.2",
       "html_path": "works/nero/index.html#p-5-2",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-5-2",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-5-2",
       "alignment_revision": "sha256:9bd9a6bbef3c4489ff1c034105fa36ded671a6687bbe6e88e47b6c4108322506",
       "review_state": {
         "human_reviewed": false,
@@ -1325,9 +1325,9 @@
         "work": "네로",
         "reference": "5.2",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:2c96e5ad747daffb4e6d97977aa7cf0c814e6f495cf71c18b594f2b53e676509",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-5-2"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-5-2"
       }
     },
     {
@@ -1429,7 +1429,7 @@
       ],
       "work_passage_id": "nero:6.1",
       "html_path": "works/nero/index.html#p-6-1",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-6-1",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-6-1",
       "alignment_revision": "sha256:077b7f94fd1f6a760cd66beec99a0df47b0fd3d92476d9124bf4677a866e22c1",
       "review_state": {
         "human_reviewed": false,
@@ -1465,9 +1465,9 @@
         "work": "네로",
         "reference": "6.1",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:a6a064d02f13a4868a8df8722e232c53d5bef77b9041484263adc2d8c89a6f5f",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-6-1"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-6-1"
       }
     },
     {
@@ -1542,7 +1542,7 @@
       ],
       "work_passage_id": "nero:6.2",
       "html_path": "works/nero/index.html#p-6-2",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-6-2",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-6-2",
       "alignment_revision": "sha256:5361dd34eef4b9aaa11c84ccf528d7ed8eeec84fe4b68eb49cfc52675c8c0d58",
       "review_state": {
         "human_reviewed": false,
@@ -1578,9 +1578,9 @@
         "work": "네로",
         "reference": "6.2",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:15943545e9f4f7749fb931355c9e4be192c483301baed8534a33b39559c1c4c4",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-6-2"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-6-2"
       }
     },
     {
@@ -1655,7 +1655,7 @@
       ],
       "work_passage_id": "nero:6.3",
       "html_path": "works/nero/index.html#p-6-3",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-6-3",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-6-3",
       "alignment_revision": "sha256:a598ec5a95bdfcf66a574d20ac9f041bae7afe5268efdd0873ddc17c6b35abc1",
       "review_state": {
         "human_reviewed": false,
@@ -1691,9 +1691,9 @@
         "work": "네로",
         "reference": "6.3",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:d22965317d2d70ab4852ba3e79a01f7e153f127fc5d10574a00de0a8194c5dcd",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-6-3"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-6-3"
       }
     },
     {
@@ -1782,7 +1782,7 @@
       ],
       "work_passage_id": "nero:6.4",
       "html_path": "works/nero/index.html#p-6-4",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-6-4",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-6-4",
       "alignment_revision": "sha256:300c9ccce56dbbc1600e9ebc2ee222b27326176228925019ee3d4cb49350c990",
       "review_state": {
         "human_reviewed": false,
@@ -1818,9 +1818,9 @@
         "work": "네로",
         "reference": "6.4",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:b63cd0186f64348a2aeafd162f1cf7b69a7483e7697c09a68764d2aea66cd66f",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-6-4"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-6-4"
       }
     },
     {
@@ -1923,7 +1923,7 @@
       ],
       "work_passage_id": "nero:7.1",
       "html_path": "works/nero/index.html#p-7-1",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-7-1",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-7-1",
       "alignment_revision": "sha256:bf26b59377c5082f1df3aa612ed66bedee3ded6696042914b01a0363cfbc4957",
       "review_state": {
         "human_reviewed": false,
@@ -1959,9 +1959,9 @@
         "work": "네로",
         "reference": "7.1",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:2c443fddf40f5953b1370739cfbae06e33ebf863b3e591b2d8ca9434641488cd",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-7-1"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-7-1"
       }
     },
     {
@@ -2050,7 +2050,7 @@
       ],
       "work_passage_id": "nero:7.2",
       "html_path": "works/nero/index.html#p-7-2",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-7-2",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-7-2",
       "alignment_revision": "sha256:7d83a68fe097bc2321c87c3d317968298e355e4ea9d94d05a11dd1024d11f671",
       "review_state": {
         "human_reviewed": false,
@@ -2086,9 +2086,9 @@
         "work": "네로",
         "reference": "7.2",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:11c6f51fdbce0d326bead8c5834759698dfe70f963f90f2a4d4138e3a53c9489",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-7-2"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-7-2"
       }
     },
     {
@@ -2177,7 +2177,7 @@
       ],
       "work_passage_id": "nero:8.1",
       "html_path": "works/nero/index.html#p-8-1",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-8-1",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-8-1",
       "alignment_revision": "sha256:e733e8e7767dba2494e8a0a267d59da32add4f679a1cda6e4d1c9592f68afaaf",
       "review_state": {
         "human_reviewed": false,
@@ -2213,9 +2213,9 @@
         "work": "네로",
         "reference": "8.1",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:1854bfeb9357fcb422f0fbfb7872f306a92dc2379f4653625a15329b687c55ae",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-8-1"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-8-1"
       }
     },
     {
@@ -2342,7 +2342,7 @@
       ],
       "work_passage_id": "nero:9.1",
       "html_path": "works/nero/index.html#p-9-1",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-9-1",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-9-1",
       "alignment_revision": "sha256:4257ba90392d615c11e7d35ad8977031d441d6707d2fecae92fbea34358b3e18",
       "review_state": {
         "human_reviewed": false,
@@ -2378,9 +2378,9 @@
         "work": "네로",
         "reference": "9.1",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:03edc5a2f1232a6d2b13259f5060bd1a49fcc50c6add9752e8c6580baa744949",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-9-1"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-9-1"
       }
     },
     {
@@ -2494,7 +2494,7 @@
       ],
       "work_passage_id": "nero:10.1",
       "html_path": "works/nero/index.html#p-10-1",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-10-1",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-10-1",
       "alignment_revision": "sha256:55a995c51992ed699935a8367c94c1802cda9793e8f2f3f42c0a16dcb7a26d86",
       "review_state": {
         "human_reviewed": false,
@@ -2530,9 +2530,9 @@
         "work": "네로",
         "reference": "10.1",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:1c7bd021e45b2f93831de00a13d4e481cafa53f72528c68f12ef23f99ae51f92",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-10-1"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-10-1"
       }
     },
     {
@@ -2633,7 +2633,7 @@
       ],
       "work_passage_id": "nero:10.2",
       "html_path": "works/nero/index.html#p-10-2",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-10-2",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-10-2",
       "alignment_revision": "sha256:46f37066bfc4b6dea7310e2b43a9b2bbb112da6ce03e2d3fd7f0bff11bf3c629",
       "review_state": {
         "human_reviewed": false,
@@ -2669,9 +2669,9 @@
         "work": "네로",
         "reference": "10.2",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:7017768ff960c1462ba7671a9f00cfbbd2263310ceb36ac82444d1f1d41702a7",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-10-2"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-10-2"
       }
     },
     {
@@ -2746,7 +2746,7 @@
       ],
       "work_passage_id": "nero:11.1",
       "html_path": "works/nero/index.html#p-11-1",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-11-1",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-11-1",
       "alignment_revision": "sha256:9c2739b709c8a87fdf67e95e81f2b670572c010f755b1f06724a29bd1837f19f",
       "review_state": {
         "human_reviewed": false,
@@ -2782,9 +2782,9 @@
         "work": "네로",
         "reference": "11.1",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:9d9f110fa5fd66f23e00ccaa649560b72b2aebfda8cd85493e016723223cf6d7",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-11-1"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-11-1"
       }
     },
     {
@@ -2885,7 +2885,7 @@
       ],
       "work_passage_id": "nero:11.2",
       "html_path": "works/nero/index.html#p-11-2",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-11-2",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-11-2",
       "alignment_revision": "sha256:8e4323b88e2690f68f3438a86e86f1702c0de9fccaef3d289d93a88de5b83046",
       "review_state": {
         "human_reviewed": false,
@@ -2921,9 +2921,9 @@
         "work": "네로",
         "reference": "11.2",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:5beaeeb83ce0b4832786a998bcc534bf100ad910c48b29332e4afac96bf17445",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-11-2"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-11-2"
       }
     },
     {
@@ -3024,7 +3024,7 @@
       ],
       "work_passage_id": "nero:12.1",
       "html_path": "works/nero/index.html#p-12-1",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-12-1",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-12-1",
       "alignment_revision": "sha256:7f86cfd2be3f0ce450bb9de34d95cfbf96661cee68517fcd16661d6e71e378d1",
       "review_state": {
         "human_reviewed": false,
@@ -3060,9 +3060,9 @@
         "work": "네로",
         "reference": "12.1",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:548c79095e0bc083f87c75d6505bb271706fee952f1e7e97c82301a472d81b8a",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-12-1"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-12-1"
       }
     },
     {
@@ -3137,7 +3137,7 @@
       ],
       "work_passage_id": "nero:12.2",
       "html_path": "works/nero/index.html#p-12-2",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-12-2",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-12-2",
       "alignment_revision": "sha256:e650d0f24a3c2bba1973c75cac428876a73da6856c236fc8b2cef8fb3c3f6797",
       "review_state": {
         "human_reviewed": false,
@@ -3173,9 +3173,9 @@
         "work": "네로",
         "reference": "12.2",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:fce5c76a529ff362dee26997c3b07eed72dfa4206e91d686bd9edb5d5cce28a9",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-12-2"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-12-2"
       }
     },
     {
@@ -3276,7 +3276,7 @@
       ],
       "work_passage_id": "nero:12.3",
       "html_path": "works/nero/index.html#p-12-3",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-12-3",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-12-3",
       "alignment_revision": "sha256:9b8d7b2132e353a41dc52fd94f1fbfe49e8cd6f79b540453b723b4b784f6510b",
       "review_state": {
         "human_reviewed": false,
@@ -3312,9 +3312,9 @@
         "work": "네로",
         "reference": "12.3",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:bdfe32c9442f0c77732e4052ce7af55c309e86efdd4b81ac6086bda785a7129f",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-12-3"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-12-3"
       }
     },
     {
@@ -3389,7 +3389,7 @@
       ],
       "work_passage_id": "nero:12.4",
       "html_path": "works/nero/index.html#p-12-4",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-12-4",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-12-4",
       "alignment_revision": "sha256:ffda016ef3c5af7b345753d0a49fdb414d55431d21836d923c93d537ff6b694c",
       "review_state": {
         "human_reviewed": false,
@@ -3425,9 +3425,9 @@
         "work": "네로",
         "reference": "12.4",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:2dda8d50396cb7468f94ab6ec63be38470fd42a4125bdc987e9c6ec0650b944a",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-12-4"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-12-4"
       }
     },
     {
@@ -3502,7 +3502,7 @@
       ],
       "work_passage_id": "nero:13.1",
       "html_path": "works/nero/index.html#p-13-1",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-13-1",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-13-1",
       "alignment_revision": "sha256:ff8e60e571260f7e8e93c66b7663d0f1c8b03fc07f61dc6e5e4ff606e185fffc",
       "review_state": {
         "human_reviewed": false,
@@ -3538,9 +3538,9 @@
         "work": "네로",
         "reference": "13.1",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:2b7399a105e1f63f0d0299918926e7a27b0c14a022bfffb447ea3a40af5f8849",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-13-1"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-13-1"
       }
     },
     {
@@ -3641,7 +3641,7 @@
       ],
       "work_passage_id": "nero:13.2",
       "html_path": "works/nero/index.html#p-13-2",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-13-2",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-13-2",
       "alignment_revision": "sha256:2bff44cbb750b55329ef7c98eba55550fb8f19528d256afd580c6065fa7a2e13",
       "review_state": {
         "human_reviewed": false,
@@ -3677,9 +3677,9 @@
         "work": "네로",
         "reference": "13.2",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:9302572d122db6279c7a3f161ee643e4d0f2e5d36f2b364e57628b488b23c6a8",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-13-2"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-13-2"
       }
     },
     {
@@ -3741,7 +3741,7 @@
       ],
       "work_passage_id": "nero:14.1",
       "html_path": "works/nero/index.html#p-14-1",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-14-1",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-14-1",
       "alignment_revision": "sha256:853f1ec0daa0396dd5366e008bc7b883c3ee77ae7f11129f4a2f715dae7f4369",
       "review_state": {
         "human_reviewed": false,
@@ -3777,9 +3777,9 @@
         "work": "네로",
         "reference": "14.1",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:7e57c9402d6c6daec57ddad5e4a57b4f612114f9eb001981acbab531001f5b13",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-14-1"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-14-1"
       }
     },
     {
@@ -3865,7 +3865,7 @@
       "notes": [],
       "work_passage_id": "nero:15.1",
       "html_path": "works/nero/index.html#p-15-1",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-15-1",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-15-1",
       "alignment_revision": "sha256:ab8cafd219c1b38ed4de44e90fd2754c455b9391e528522f5e38bd4ad924bb26",
       "review_state": {
         "human_reviewed": false,
@@ -3901,9 +3901,9 @@
         "work": "네로",
         "reference": "15.1",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:b81492a40239e88b7638b38f31411484e96bdc9e700eb4318e1bcb14e84ba497",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-15-1"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-15-1"
       }
     },
     {
@@ -4030,7 +4030,7 @@
       ],
       "work_passage_id": "nero:15.2",
       "html_path": "works/nero/index.html#p-15-2",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-15-2",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-15-2",
       "alignment_revision": "sha256:0f4e67a258a37cb1be5cb632dd271d0442a23496070a5ca896a78ec5fc5523fc",
       "review_state": {
         "human_reviewed": false,
@@ -4066,9 +4066,9 @@
         "work": "네로",
         "reference": "15.2",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:cefebaa1403033b7ce2e9ec3fc55c4c74c63b3eec50aa1fddd087f1dade6a560",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-15-2"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-15-2"
       }
     },
     {
@@ -4143,7 +4143,7 @@
       ],
       "work_passage_id": "nero:16.1",
       "html_path": "works/nero/index.html#p-16-1",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-16-1",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-16-1",
       "alignment_revision": "sha256:86a7d400c3f2af9a9e81238da1b6587facff64b9ebf89dc5f1654357f04b6939",
       "review_state": {
         "human_reviewed": false,
@@ -4179,9 +4179,9 @@
         "work": "네로",
         "reference": "16.1",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:8c268727faf0339363dbf1e495062ae078587ac8755f38ee093cbe3409be34a3",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-16-1"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-16-1"
       }
     },
     {
@@ -4310,7 +4310,7 @@
       ],
       "work_passage_id": "nero:16.2",
       "html_path": "works/nero/index.html#p-16-2",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-16-2",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-16-2",
       "alignment_revision": "sha256:eb9af9c521d475d4721072bd677aa92875d53cea971cfd8a40ee5c0f7e1c9418",
       "review_state": {
         "human_reviewed": false,
@@ -4346,9 +4346,9 @@
         "work": "네로",
         "reference": "16.2",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:ad5c72eaca4f6fe064d61fc81dad7a66f8feb0b2fd899c20c4d3d47bd9be7f39",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-16-2"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-16-2"
       }
     },
     {
@@ -4436,7 +4436,7 @@
       ],
       "work_passage_id": "nero:17.1",
       "html_path": "works/nero/index.html#p-17-1",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-17-1",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-17-1",
       "alignment_revision": "sha256:f808c382fc3192a80f393cc56764f736139e146ae8eb031f9bb1d9113b865dd8",
       "review_state": {
         "human_reviewed": false,
@@ -4472,9 +4472,9 @@
         "work": "네로",
         "reference": "17.1",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:4ad62a27e0dd0f9e13a99aeb3faeaa50f0589965795ed242e6e07d413baacf21",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-17-1"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-17-1"
       }
     },
     {
@@ -4549,7 +4549,7 @@
       ],
       "work_passage_id": "nero:18.1",
       "html_path": "works/nero/index.html#p-18-1",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-18-1",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-18-1",
       "alignment_revision": "sha256:7c1d441dda0c4f243eab4a9bfdf2dbe7df366400824395d941eaff0df3d127e5",
       "review_state": {
         "human_reviewed": false,
@@ -4585,9 +4585,9 @@
         "work": "네로",
         "reference": "18.1",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:0c3c69f65d2835c5d124d41eec523ca36b194bc9762eab636788d71b3362d096",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-18-1"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-18-1"
       }
     },
     {
@@ -4675,7 +4675,7 @@
       ],
       "work_passage_id": "nero:19.1",
       "html_path": "works/nero/index.html#p-19-1",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-19-1",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-19-1",
       "alignment_revision": "sha256:8876f651e9ef02e0b9b11f9e0a6b010d2618eb8c9c95b7975f1d3508f9875fdc",
       "review_state": {
         "human_reviewed": false,
@@ -4711,9 +4711,9 @@
         "work": "네로",
         "reference": "19.1",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:e99e342bcf5440d335c38b6436b5ab18fc9aab37379829776654a6145bbb54e9",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-19-1"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-19-1"
       }
     },
     {
@@ -4788,7 +4788,7 @@
       ],
       "work_passage_id": "nero:19.2",
       "html_path": "works/nero/index.html#p-19-2",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-19-2",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-19-2",
       "alignment_revision": "sha256:e4304420962fbe7944cc102396e0efe8254b7df9f71bb4ac041623e98a1f86cb",
       "review_state": {
         "human_reviewed": false,
@@ -4824,9 +4824,9 @@
         "work": "네로",
         "reference": "19.2",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:84f9bad7533b06133691e68c9d7f55711661d43e31c7f95d4b521bf5e5414987",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-19-2"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-19-2"
       }
     },
     {
@@ -4873,7 +4873,7 @@
       "notes": [],
       "work_passage_id": "nero:19.3",
       "html_path": "works/nero/index.html#p-19-3",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-19-3",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-19-3",
       "alignment_revision": "sha256:d21f3e15de53781384a95b84667e0d97fe813949d7ca0b918890c3918a3238e0",
       "review_state": {
         "human_reviewed": false,
@@ -4909,9 +4909,9 @@
         "work": "네로",
         "reference": "19.3",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:00d58f229c6b60ae9e7a934331248d74d793f1ef7591f31b2952843efa49a1d3",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-19-3"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-19-3"
       }
     },
     {
@@ -5025,7 +5025,7 @@
       ],
       "work_passage_id": "nero:20.1",
       "html_path": "works/nero/index.html#p-20-1",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-20-1",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-20-1",
       "alignment_revision": "sha256:368747303b8db119a2ca15431e8292e3e0b6958b60f84b85490d28b7abff6e42",
       "review_state": {
         "human_reviewed": false,
@@ -5061,9 +5061,9 @@
         "work": "네로",
         "reference": "20.1",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:fe9d14ab9952a47b8c3ff6d0b5f97320edb3a737894679b1436b55b56f449980",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-20-1"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-20-1"
       }
     },
     {
@@ -5151,7 +5151,7 @@
       ],
       "work_passage_id": "nero:20.2",
       "html_path": "works/nero/index.html#p-20-2",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-20-2",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-20-2",
       "alignment_revision": "sha256:ea1cc3ac1b45a9893c2fa8ca0d56fa58627b377612abf1cae4121ad324ae867c",
       "review_state": {
         "human_reviewed": false,
@@ -5187,9 +5187,9 @@
         "work": "네로",
         "reference": "20.2",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:02d98bd9b3c9ec0e1f15299a03be0ba16a520dd7685612e1ec6856f6842e5ddf",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-20-2"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-20-2"
       }
     },
     {
@@ -5291,7 +5291,7 @@
       ],
       "work_passage_id": "nero:20.3",
       "html_path": "works/nero/index.html#p-20-3",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-20-3",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-20-3",
       "alignment_revision": "sha256:15a88ae4674b62d16b01feae92f3e51104cc944be8ea848e40e62f082979c51f",
       "review_state": {
         "human_reviewed": false,
@@ -5327,9 +5327,9 @@
         "work": "네로",
         "reference": "20.3",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:0d47352f67e6758cf7885db3d53e68bd5beddd735ca3d4d0be6fe8a17131c9db",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-20-3"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-20-3"
       }
     },
     {
@@ -5430,7 +5430,7 @@
       ],
       "work_passage_id": "nero:21.1",
       "html_path": "works/nero/index.html#p-21-1",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-21-1",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-21-1",
       "alignment_revision": "sha256:8d4c51f2fcb0f45b496a6fbe4b5a0736a0a1c42809bad6d24e2359253d390436",
       "review_state": {
         "human_reviewed": false,
@@ -5466,9 +5466,9 @@
         "work": "네로",
         "reference": "21.1",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:721c27a06d7f0bdd6a4bd76b2e537e6a433b1005b3306428b86d9cc46e69ef2e",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-21-1"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-21-1"
       }
     },
     {
@@ -5556,7 +5556,7 @@
       ],
       "work_passage_id": "nero:21.2",
       "html_path": "works/nero/index.html#p-21-2",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-21-2",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-21-2",
       "alignment_revision": "sha256:b662899ea15c3703967ca6e3074b643ffc58a2935570f873f92044795b6b77b0",
       "review_state": {
         "human_reviewed": false,
@@ -5592,9 +5592,9 @@
         "work": "네로",
         "reference": "21.2",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:07f11e106a309d7b424c832ef5df4e1404f906988294754cf305a3a9b7d2804e",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-21-2"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-21-2"
       }
     },
     {
@@ -5669,7 +5669,7 @@
       ],
       "work_passage_id": "nero:21.3",
       "html_path": "works/nero/index.html#p-21-3",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-21-3",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-21-3",
       "alignment_revision": "sha256:62dace4810ae41dbf693de1c36c64c64dc74e185c054b0b7433ee5fc17899daa",
       "review_state": {
         "human_reviewed": false,
@@ -5705,9 +5705,9 @@
         "work": "네로",
         "reference": "21.3",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:930b61d955419178f37ee68b49b345e1c13e4a1ed91fa20e832db26ab537631f",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-21-3"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-21-3"
       }
     },
     {
@@ -5795,7 +5795,7 @@
       ],
       "work_passage_id": "nero:22.1",
       "html_path": "works/nero/index.html#p-22-1",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-22-1",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-22-1",
       "alignment_revision": "sha256:f12270f9a858dd3e40c40a596c5d29494f5d5e372c0563780e4105e3d0db5912",
       "review_state": {
         "human_reviewed": false,
@@ -5831,9 +5831,9 @@
         "work": "네로",
         "reference": "22.1",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:14c715a844e0e3aebf63e71673b9155d709d886e9be3897ce38851471e1fbbe4",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-22-1"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-22-1"
       }
     },
     {
@@ -5921,7 +5921,7 @@
       ],
       "work_passage_id": "nero:22.2",
       "html_path": "works/nero/index.html#p-22-2",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-22-2",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-22-2",
       "alignment_revision": "sha256:a9f7ee92dcc34e7c5d8209f6d98151400f0e4d25347954a4ec9e8ec743745777",
       "review_state": {
         "human_reviewed": false,
@@ -5957,9 +5957,9 @@
         "work": "네로",
         "reference": "22.2",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:67e16b6b50efffd298ef0162f2b040ca88e4a0f436da5cf9b271ed36a76ab364",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-22-2"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-22-2"
       }
     },
     {
@@ -6060,7 +6060,7 @@
       ],
       "work_passage_id": "nero:22.3",
       "html_path": "works/nero/index.html#p-22-3",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-22-3",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-22-3",
       "alignment_revision": "sha256:7af6dcca7c6b26dcf66616332c2956107144c238fb8cc2f71bc4aeb6f1e9027a",
       "review_state": {
         "human_reviewed": false,
@@ -6096,9 +6096,9 @@
         "work": "네로",
         "reference": "22.3",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:508e22258896df3cc97daa8402f6d1435cc1bb97ec45722aa801d2b9b71844a7",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-22-3"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-22-3"
       }
     },
     {
@@ -6186,7 +6186,7 @@
       ],
       "work_passage_id": "nero:23.1",
       "html_path": "works/nero/index.html#p-23-1",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-23-1",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-23-1",
       "alignment_revision": "sha256:71bfe324504b71b851effbde9702fdc281be4ac95e44f371f4fbbbe0e243cc78",
       "review_state": {
         "human_reviewed": false,
@@ -6222,9 +6222,9 @@
         "work": "네로",
         "reference": "23.1",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:9398539a380e350c4d06425c363a9dee56a8dd5d0f07e0a616da1a84f6c888be",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-23-1"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-23-1"
       }
     },
     {
@@ -6310,7 +6310,7 @@
       "notes": [],
       "work_passage_id": "nero:23.2",
       "html_path": "works/nero/index.html#p-23-2",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-23-2",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-23-2",
       "alignment_revision": "sha256:8aa4f50a01dd1831eaca943d757aa5d6eba95c7efd1485db0fe8103cfaf201a2",
       "review_state": {
         "human_reviewed": false,
@@ -6346,9 +6346,9 @@
         "work": "네로",
         "reference": "23.2",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:a2b6cc057695b32669f52fde944013fd9bb028909efb77470cb198f044fdeb6b",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-23-2"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-23-2"
       }
     },
     {
@@ -6447,7 +6447,7 @@
       "notes": [],
       "work_passage_id": "nero:23.3",
       "html_path": "works/nero/index.html#p-23-3",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-23-3",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-23-3",
       "alignment_revision": "sha256:26e1e256183518909683a959e5377450c2e7860303c8bec4ee8096d1d1d027a9",
       "review_state": {
         "human_reviewed": false,
@@ -6483,9 +6483,9 @@
         "work": "네로",
         "reference": "23.3",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:5e1a3bc6b646ae596b07bc6815aa43ce274d2a8ec072aea0228bd720c34f1013",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-23-3"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-23-3"
       }
     },
     {
@@ -6573,7 +6573,7 @@
       ],
       "work_passage_id": "nero:24.1",
       "html_path": "works/nero/index.html#p-24-1",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-24-1",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-24-1",
       "alignment_revision": "sha256:30041ada75a494650a9907f5e5a48023eefb94fdcfef251067d98ea2e32dbea3",
       "review_state": {
         "human_reviewed": false,
@@ -6609,9 +6609,9 @@
         "work": "네로",
         "reference": "24.1",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:30e47dd00f278e9db76cbd210528fb763e9e752e1eee0a19b0b6df006641bec6",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-24-1"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-24-1"
       }
     },
     {
@@ -6712,7 +6712,7 @@
       ],
       "work_passage_id": "nero:24.2",
       "html_path": "works/nero/index.html#p-24-2",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-24-2",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-24-2",
       "alignment_revision": "sha256:76f70e0b9f78e706586dc8a598b45796cffc546ef836ec78e2da1c00c61dd33d",
       "review_state": {
         "human_reviewed": false,
@@ -6748,9 +6748,9 @@
         "work": "네로",
         "reference": "24.2",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:b97464608c522cc1568a714bff23417c7008d5eed74a354bbdcd25c3dd90acf5",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-24-2"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-24-2"
       }
     },
     {
@@ -6851,7 +6851,7 @@
       ],
       "work_passage_id": "nero:25.1",
       "html_path": "works/nero/index.html#p-25-1",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-25-1",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-25-1",
       "alignment_revision": "sha256:9eabd09f10f7ec4db3eb96941c9cc30d1155cc0a4e1ad69c9c2b4aa5f3c5dec8",
       "review_state": {
         "human_reviewed": false,
@@ -6887,9 +6887,9 @@
         "work": "네로",
         "reference": "25.1",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:2eb53b4b725035d82da78d788525c804dd0dad5139b0b84148a1986c67288030",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-25-1"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-25-1"
       }
     },
     {
@@ -6977,7 +6977,7 @@
       ],
       "work_passage_id": "nero:25.2",
       "html_path": "works/nero/index.html#p-25-2",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-25-2",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-25-2",
       "alignment_revision": "sha256:9d802a3802448f1670a1852bd5a1f10236cb4d66fc1a66550d74aab38a3f950b",
       "review_state": {
         "human_reviewed": false,
@@ -7013,9 +7013,9 @@
         "work": "네로",
         "reference": "25.2",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:8502c920e4ff049d8b715526ea4a955e4d3bdd42e47787a8aa70ae3b121e1a33",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-25-2"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-25-2"
       }
     },
     {
@@ -7088,7 +7088,7 @@
       "notes": [],
       "work_passage_id": "nero:25.3",
       "html_path": "works/nero/index.html#p-25-3",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-25-3",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-25-3",
       "alignment_revision": "sha256:a8986c70bc75adbe42bcf6a72833701c26be2da4c18a2c65259db8f015396314",
       "review_state": {
         "human_reviewed": false,
@@ -7124,9 +7124,9 @@
         "work": "네로",
         "reference": "25.3",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:e60d49b34f6f8cfc0d42041ebcd22a1e5dd45cf4a1eefa9ebf518bfb1cbafd32",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-25-3"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-25-3"
       }
     },
     {
@@ -7214,7 +7214,7 @@
       ],
       "work_passage_id": "nero:26.1",
       "html_path": "works/nero/index.html#p-26-1",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-26-1",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-26-1",
       "alignment_revision": "sha256:59a46dd336087072cea5dbaee544152c576b877c81bbae23995cfebd9cbad096",
       "review_state": {
         "human_reviewed": false,
@@ -7250,9 +7250,9 @@
         "work": "네로",
         "reference": "26.1",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:399d425715e42f5a02b0e8cbcad6f6cf9e020f372ba3d248f1799e96414fd822",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-26-1"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-26-1"
       }
     },
     {
@@ -7340,7 +7340,7 @@
       ],
       "work_passage_id": "nero:26.2",
       "html_path": "works/nero/index.html#p-26-2",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-26-2",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-26-2",
       "alignment_revision": "sha256:3c4c1739cc3e14f72253bcbc3201219bc2b313737f20f92b1d42f4697be73d4a",
       "review_state": {
         "human_reviewed": false,
@@ -7376,9 +7376,9 @@
         "work": "네로",
         "reference": "26.2",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:6e4c66f39b777fea94869f780ad49c12d8b0f2c6ea75beb9712dc7819c9769c4",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-26-2"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-26-2"
       }
     },
     {
@@ -7425,7 +7425,7 @@
       "notes": [],
       "work_passage_id": "nero:27.1",
       "html_path": "works/nero/index.html#p-27-1",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-27-1",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-27-1",
       "alignment_revision": "sha256:0bedce1db9c4099af36937a914ff92dd557758e53970864ca4b34eac96c91827",
       "review_state": {
         "human_reviewed": false,
@@ -7461,9 +7461,9 @@
         "work": "네로",
         "reference": "27.1",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:d31d54847db191b8d5cfd29ca837b108e63410f11b9144d0fc311b2915a1be4d",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-27-1"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-27-1"
       }
     },
     {
@@ -7525,7 +7525,7 @@
       ],
       "work_passage_id": "nero:27.2",
       "html_path": "works/nero/index.html#p-27-2",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-27-2",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-27-2",
       "alignment_revision": "sha256:d4c35b4a7ec8b9d60ee21f5a8ff307a618127ad87c02fbd4f5836b7f883601e8",
       "review_state": {
         "human_reviewed": false,
@@ -7561,9 +7561,9 @@
         "work": "네로",
         "reference": "27.2",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:f936af37ebcefcfffed0a6f564d778700b4d6190f0f8f3474dd650bb03f0eb29",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-27-2"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-27-2"
       }
     },
     {
@@ -7625,7 +7625,7 @@
       ],
       "work_passage_id": "nero:27.3",
       "html_path": "works/nero/index.html#p-27-3",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-27-3",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-27-3",
       "alignment_revision": "sha256:aa02be9507cb7ec66965779b42c4244f69f637c12b51cc9e404f13add344c2da",
       "review_state": {
         "human_reviewed": false,
@@ -7661,9 +7661,9 @@
         "work": "네로",
         "reference": "27.3",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:0e71ceee4723c86724bea7a0ded19cd4bd44bb6d003b451312f619274448c249",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-27-3"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-27-3"
       }
     },
     {
@@ -7751,7 +7751,7 @@
       ],
       "work_passage_id": "nero:28.1",
       "html_path": "works/nero/index.html#p-28-1",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-28-1",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-28-1",
       "alignment_revision": "sha256:6c3bfd3c5e772dc2d368cf377da8c87379863cc30d3e8fce7ec2ffea2645dad8",
       "review_state": {
         "human_reviewed": false,
@@ -7787,9 +7787,9 @@
         "work": "네로",
         "reference": "28.1",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:0ba33f2e957d963109a443ee7cca0b181d295d2b8d3e5e92effde8dc44105459",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-28-1"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-28-1"
       }
     },
     {
@@ -7877,7 +7877,7 @@
       ],
       "work_passage_id": "nero:28.2",
       "html_path": "works/nero/index.html#p-28-2",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-28-2",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-28-2",
       "alignment_revision": "sha256:de839082454a2274fabccc4418beaea4b8f2939dc26b4daf09d2a4bc40867334",
       "review_state": {
         "human_reviewed": false,
@@ -7913,9 +7913,9 @@
         "work": "네로",
         "reference": "28.2",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:574cfe659db4e7cda1d7f52bd24fbaae95420abd7c9a28c8b9869b3ea8f7df8d",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-28-2"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-28-2"
       }
     },
     {
@@ -8016,7 +8016,7 @@
       ],
       "work_passage_id": "nero:29.1",
       "html_path": "works/nero/index.html#p-29-1",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-29-1",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-29-1",
       "alignment_revision": "sha256:d5647e819b606dcf5471aca5180465a81ae2049f63d481b0eac15783e7e9a791",
       "review_state": {
         "human_reviewed": false,
@@ -8052,9 +8052,9 @@
         "work": "네로",
         "reference": "29.1",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:acbf7e3a639059d0c82cd36863e1ef587d11a59bf2073f5fd10ae4f323a3dbfe",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-29-1"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-29-1"
       }
     },
     {
@@ -8116,7 +8116,7 @@
       ],
       "work_passage_id": "nero:30.1",
       "html_path": "works/nero/index.html#p-30-1",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-30-1",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-30-1",
       "alignment_revision": "sha256:e594550e1bae50dc703ce4b8d585e1b4d3b71e7126d2359b711dbd6305ffba80",
       "review_state": {
         "human_reviewed": false,
@@ -8152,9 +8152,9 @@
         "work": "네로",
         "reference": "30.1",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:d9a53f382618e90f927a2b05f302d89221de4ee865be21f0a8946ee050cd7413",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-30-1"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-30-1"
       }
     },
     {
@@ -8242,7 +8242,7 @@
       ],
       "work_passage_id": "nero:30.2",
       "html_path": "works/nero/index.html#p-30-2",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-30-2",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-30-2",
       "alignment_revision": "sha256:d297456f4be2abbfc8de212c4d66750ab50d6e26171e69b89839ecbcbb7a1eea",
       "review_state": {
         "human_reviewed": false,
@@ -8278,9 +8278,9 @@
         "work": "네로",
         "reference": "30.2",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:ac9e39dd2eed6a7647f46251451172781fb0ecd9af3ccc669cad1059a2cd5403",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-30-2"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-30-2"
       }
     },
     {
@@ -8368,7 +8368,7 @@
       ],
       "work_passage_id": "nero:30.3",
       "html_path": "works/nero/index.html#p-30-3",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-30-3",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-30-3",
       "alignment_revision": "sha256:1eaf380296c4ba8b5762f14c5dde9cfd979b699a0637e9c75ce665c449757610",
       "review_state": {
         "human_reviewed": false,
@@ -8404,9 +8404,9 @@
         "work": "네로",
         "reference": "30.3",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:40928440f90a0f248b8538f098f25bf6049382fa9b9a5900db553b59913f6bb1",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-30-3"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-30-3"
       }
     },
     {
@@ -8520,7 +8520,7 @@
       ],
       "work_passage_id": "nero:31.1",
       "html_path": "works/nero/index.html#p-31-1",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-31-1",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-31-1",
       "alignment_revision": "sha256:8fd255ecfc8bf0e4cb1cd7f528b4a252e263d99dbd0ace382ad03717c235607c",
       "review_state": {
         "human_reviewed": false,
@@ -8556,9 +8556,9 @@
         "work": "네로",
         "reference": "31.1",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:c134bca0273118ad2ce554529e2527e2a61095c2e6eaae5267187499578ab7dd",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-31-1"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-31-1"
       }
     },
     {
@@ -8659,7 +8659,7 @@
       ],
       "work_passage_id": "nero:31.2",
       "html_path": "works/nero/index.html#p-31-2",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-31-2",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-31-2",
       "alignment_revision": "sha256:dd9cd04d239af7309913744929e7a225cbdd52c22a335db3f490a65e40819545",
       "review_state": {
         "human_reviewed": false,
@@ -8695,9 +8695,9 @@
         "work": "네로",
         "reference": "31.2",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:16bb8c20d2aa6590bb3b96461e95cf8bd68784dfc7d6c0fdb1fa1ead3910a77d",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-31-2"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-31-2"
       }
     },
     {
@@ -8785,7 +8785,7 @@
       ],
       "work_passage_id": "nero:31.3",
       "html_path": "works/nero/index.html#p-31-3",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-31-3",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-31-3",
       "alignment_revision": "sha256:ef7e5e675d9d942193d19666207a17e91efbdfcb804af72a39b8a90c24e728d7",
       "review_state": {
         "human_reviewed": false,
@@ -8821,9 +8821,9 @@
         "work": "네로",
         "reference": "31.3",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:7b4bdbe21fdc02613eadf0827c40d04528b3fc84ead209cf50106a1ca14ca070",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-31-3"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-31-3"
       }
     },
     {
@@ -8885,7 +8885,7 @@
       ],
       "work_passage_id": "nero:31.4",
       "html_path": "works/nero/index.html#p-31-4",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-31-4",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-31-4",
       "alignment_revision": "sha256:b73b4774ac3379250034f83d176f97a7de3dc6fffd65b907c858a2cc6bb4dc63",
       "review_state": {
         "human_reviewed": false,
@@ -8921,9 +8921,9 @@
         "work": "네로",
         "reference": "31.4",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:21fdf6ec9f16da6a725bbf8a6484be6b0fd003873bb17d634869de21a946ce6d",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-31-4"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-31-4"
       }
     },
     {
@@ -8983,7 +8983,7 @@
       "notes": [],
       "work_passage_id": "nero:32.1",
       "html_path": "works/nero/index.html#p-32-1",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-32-1",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-32-1",
       "alignment_revision": "sha256:0d7e0999013a5384814ace1b10e48c79498d7832d50f2b56ea968792a0b011e6",
       "review_state": {
         "human_reviewed": false,
@@ -9019,9 +9019,9 @@
         "work": "네로",
         "reference": "32.1",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:3e93bb00f80646e6cf93c3a37f45c8ca7fface2b13c14c5dd8c880a0d0c2b78f",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-32-1"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-32-1"
       }
     },
     {
@@ -9122,7 +9122,7 @@
       ],
       "work_passage_id": "nero:32.2",
       "html_path": "works/nero/index.html#p-32-2",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-32-2",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-32-2",
       "alignment_revision": "sha256:7dfa4d323efc3b9c7a40b85a15b2dc6f824c87e7e50e610d154b6341c521ca0b",
       "review_state": {
         "human_reviewed": false,
@@ -9158,9 +9158,9 @@
         "work": "네로",
         "reference": "32.2",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:34a9d8fc3b0cf4c1deb6ede31ddb9347f064ae486facb0b7031ed95e4d5d97a2",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-32-2"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-32-2"
       }
     },
     {
@@ -9235,7 +9235,7 @@
       ],
       "work_passage_id": "nero:32.3",
       "html_path": "works/nero/index.html#p-32-3",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-32-3",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-32-3",
       "alignment_revision": "sha256:ef376b63ef04ebbf285a67c7b8327c583e75fec9a0cdd31494ef9286ca91b70e",
       "review_state": {
         "human_reviewed": false,
@@ -9271,9 +9271,9 @@
         "work": "네로",
         "reference": "32.3",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:57dff8f35e03425036b10a0f57918af1997ecc3a1a38f44309f492b39370dea3",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-32-3"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-32-3"
       }
     },
     {
@@ -9335,7 +9335,7 @@
       ],
       "work_passage_id": "nero:32.4",
       "html_path": "works/nero/index.html#p-32-4",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-32-4",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-32-4",
       "alignment_revision": "sha256:ad1070c5b58925b7cc22f25552fda6af56f275eb62025cae68d7de231ac32274",
       "review_state": {
         "human_reviewed": false,
@@ -9371,9 +9371,9 @@
         "work": "네로",
         "reference": "32.4",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:3c22ca5bf24bc48f53ded81ce515324128e90ad879c4c994995d03a38cb38705",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-32-4"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-32-4"
       }
     },
     {
@@ -9487,7 +9487,7 @@
       ],
       "work_passage_id": "nero:33.1",
       "html_path": "works/nero/index.html#p-33-1",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-33-1",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-33-1",
       "alignment_revision": "sha256:3711015ba20d0a2cefb2d2f1be2538213c16b171cb90bbfdc868973943650807",
       "review_state": {
         "human_reviewed": false,
@@ -9523,9 +9523,9 @@
         "work": "네로",
         "reference": "33.1",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:a2c0497ba9519891b583d6323279f56c64d3a1285d3db755acad251ea3d8a08c",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-33-1"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-33-1"
       }
     },
     {
@@ -9614,7 +9614,7 @@
       ],
       "work_passage_id": "nero:33.2",
       "html_path": "works/nero/index.html#p-33-2",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-33-2",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-33-2",
       "alignment_revision": "sha256:84626ec36a4e5394a2737398611a08d4a609037abc52b50f6f537eed0d0489fe",
       "review_state": {
         "human_reviewed": false,
@@ -9650,9 +9650,9 @@
         "work": "네로",
         "reference": "33.2",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:ecccf4519c1e1469a714f483c01cdd988a46982022331d7a9cc2bc32631e55a2",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-33-2"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-33-2"
       }
     },
     {
@@ -9740,7 +9740,7 @@
       ],
       "work_passage_id": "nero:33.3",
       "html_path": "works/nero/index.html#p-33-3",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-33-3",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-33-3",
       "alignment_revision": "sha256:5312c46d643fd44dbeae8490678b1ceb9628971b28fe7439b1b5becf36ee5387",
       "review_state": {
         "human_reviewed": false,
@@ -9776,9 +9776,9 @@
         "work": "네로",
         "reference": "33.3",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:5b1e28bc2d2a5075cacf7137c4ddea2946700bca66328e760110577d7523a116",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-33-3"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-33-3"
       }
     },
     {
@@ -9853,7 +9853,7 @@
       ],
       "work_passage_id": "nero:34.1",
       "html_path": "works/nero/index.html#p-34-1",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-34-1",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-34-1",
       "alignment_revision": "sha256:4984176146136371592ab733b64537ea5d9433b2c25542311849b9c138c23eb8",
       "review_state": {
         "human_reviewed": false,
@@ -9889,9 +9889,9 @@
         "work": "네로",
         "reference": "34.1",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:9e7a984cb8e404eff30746a4780428a94b975b5840a763df83fb3dbbeaaf8146",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-34-1"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-34-1"
       }
     },
     {
@@ -10005,7 +10005,7 @@
       ],
       "work_passage_id": "nero:34.2",
       "html_path": "works/nero/index.html#p-34-2",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-34-2",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-34-2",
       "alignment_revision": "sha256:078fe07c1d55452309f2ea54eadddcf97b552a5dda10860db4ef71b5373b3ca6",
       "review_state": {
         "human_reviewed": false,
@@ -10041,9 +10041,9 @@
         "work": "네로",
         "reference": "34.2",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:c10769bf07caa3800d5a7ef87c830a415c6a707f02a9beeed84f881ff14099fa",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-34-2"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-34-2"
       }
     },
     {
@@ -10118,7 +10118,7 @@
       ],
       "work_passage_id": "nero:34.3",
       "html_path": "works/nero/index.html#p-34-3",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-34-3",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-34-3",
       "alignment_revision": "sha256:f90ca08f81ed3291dcdb04479cafe28f06d1ab9770821c0a6ce80c3338fab840",
       "review_state": {
         "human_reviewed": false,
@@ -10154,9 +10154,9 @@
         "work": "네로",
         "reference": "34.3",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:4404a55b49a6439288c974e756be862fd57dd1dd556d342d3003818237c7002c",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-34-3"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-34-3"
       }
     },
     {
@@ -10257,7 +10257,7 @@
       ],
       "work_passage_id": "nero:34.4",
       "html_path": "works/nero/index.html#p-34-4",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-34-4",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-34-4",
       "alignment_revision": "sha256:5b2359252e9ddfad532809fead3027891e74d219a0b957954720b472940d864d",
       "review_state": {
         "human_reviewed": false,
@@ -10293,9 +10293,9 @@
         "work": "네로",
         "reference": "34.4",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:10eeb310d69fdacaf0d642ee63e386ab8a3443b2b562299bc30e417b69d051b1",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-34-4"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-34-4"
       }
     },
     {
@@ -10396,7 +10396,7 @@
       ],
       "work_passage_id": "nero:34.5",
       "html_path": "works/nero/index.html#p-34-5",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-34-5",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-34-5",
       "alignment_revision": "sha256:c8e300a368b1c15e2e30a515d41713baeb925ff33503ade229fc75dc46757010",
       "review_state": {
         "human_reviewed": false,
@@ -10432,9 +10432,9 @@
         "work": "네로",
         "reference": "34.5",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:74365034173325cffbd2c627588812dc83b8e4fc742a18306860d6cf0c430f0c",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-34-5"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-34-5"
       }
     },
     {
@@ -10523,7 +10523,7 @@
       ],
       "work_passage_id": "nero:35.1",
       "html_path": "works/nero/index.html#p-35-1",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-35-1",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-35-1",
       "alignment_revision": "sha256:0e1422af588cf4c4f2097411edb385aee161b87c95dab458db3f2c2a9be3b6d9",
       "review_state": {
         "human_reviewed": false,
@@ -10559,9 +10559,9 @@
         "work": "네로",
         "reference": "35.1",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:52c92c7a75593c7127f881b93e45edc62f982c7763165a78026411ef68632e38",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-35-1"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-35-1"
       }
     },
     {
@@ -10650,7 +10650,7 @@
       ],
       "work_passage_id": "nero:35.2",
       "html_path": "works/nero/index.html#p-35-2",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-35-2",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-35-2",
       "alignment_revision": "sha256:8455596ff47033d6871b3ccde720a62e21034b9c78470fa1a7a56ab0abb770e9",
       "review_state": {
         "human_reviewed": false,
@@ -10686,9 +10686,9 @@
         "work": "네로",
         "reference": "35.2",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:d4bdfc0945e3cdd2a2ad58008d65178d46d7713056d1e9cc931de31097827b3a",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-35-2"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-35-2"
       }
     },
     {
@@ -10763,7 +10763,7 @@
       ],
       "work_passage_id": "nero:35.3",
       "html_path": "works/nero/index.html#p-35-3",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-35-3",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-35-3",
       "alignment_revision": "sha256:cb810fd0de50edc1ac3b0b6ffdb39895caf9130cc5311b1e9736cc070cc9bba1",
       "review_state": {
         "human_reviewed": false,
@@ -10799,9 +10799,9 @@
         "work": "네로",
         "reference": "35.3",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:483836acfb93d7b9cd1e57b6e505e3d00311308cff5f9924385d537ac6e16269",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-35-3"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-35-3"
       }
     },
     {
@@ -10915,7 +10915,7 @@
       ],
       "work_passage_id": "nero:35.4",
       "html_path": "works/nero/index.html#p-35-4",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-35-4",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-35-4",
       "alignment_revision": "sha256:865d23615fab6f0d034e94235f82f128fdb9651e9ae0f8c800e422aaa3b876a4",
       "review_state": {
         "human_reviewed": false,
@@ -10951,9 +10951,9 @@
         "work": "네로",
         "reference": "35.4",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:96d056c2f49e3d80361340de44abc2b586b6f17503f5b67b22874fdce5691bb4",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-35-4"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-35-4"
       }
     },
     {
@@ -11067,7 +11067,7 @@
       ],
       "work_passage_id": "nero:35.5",
       "html_path": "works/nero/index.html#p-35-5",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-35-5",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-35-5",
       "alignment_revision": "sha256:efead889c14c35abe10e9190aa2120151ef2c59bae7ad780d55464cbaaa6a23d",
       "review_state": {
         "human_reviewed": false,
@@ -11103,9 +11103,9 @@
         "work": "네로",
         "reference": "35.5",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:5f9edb7782e9c4bc30cc706deb20d9179af2bc8143a7a02a7962e53548ccc59e",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-35-5"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-35-5"
       }
     },
     {
@@ -11194,7 +11194,7 @@
       ],
       "work_passage_id": "nero:36.1",
       "html_path": "works/nero/index.html#p-36-1",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-36-1",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-36-1",
       "alignment_revision": "sha256:73d522cf89a9e9f240cf17fe61b30ac545247b135d7d4c227f2ea3caeaed46a4",
       "review_state": {
         "human_reviewed": false,
@@ -11230,9 +11230,9 @@
         "work": "네로",
         "reference": "36.1",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:60ede14d3556c0e13017a26b2d06aa5724ef2672a149b79f9e0a6526d8689c5f",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-36-1"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-36-1"
       }
     },
     {
@@ -11318,7 +11318,7 @@
       "notes": [],
       "work_passage_id": "nero:36.2",
       "html_path": "works/nero/index.html#p-36-2",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-36-2",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-36-2",
       "alignment_revision": "sha256:d67e22a86f5dd9ceeb90957b81b2d5455d0ecac7093f5a2c3f267d006d69e264",
       "review_state": {
         "human_reviewed": false,
@@ -11354,9 +11354,9 @@
         "work": "네로",
         "reference": "36.2",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:20ad90e4bad2c8b4c37209d0c7b4f8f5ff547bfd6cbb1f4ff80816cfc3295ab0",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-36-2"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-36-2"
       }
     },
     {
@@ -11444,7 +11444,7 @@
       ],
       "work_passage_id": "nero:37.1",
       "html_path": "works/nero/index.html#p-37-1",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-37-1",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-37-1",
       "alignment_revision": "sha256:aed4c00eb3815ca735ec3a869bc4afa6c7ac1cd5adfb439266c37d3a328c10a1",
       "review_state": {
         "human_reviewed": false,
@@ -11480,9 +11480,9 @@
         "work": "네로",
         "reference": "37.1",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:adb43c35e1ea7cd58a8ac7f3dd24c93bfbd3780bff7aa0723c0a2fbe22cd5476",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-37-1"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-37-1"
       }
     },
     {
@@ -11555,7 +11555,7 @@
       "notes": [],
       "work_passage_id": "nero:37.2",
       "html_path": "works/nero/index.html#p-37-2",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-37-2",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-37-2",
       "alignment_revision": "sha256:3d8ec08ecd28f694176676b44d5a2843c5ad97f7cd7e8726d2d339003303a917",
       "review_state": {
         "human_reviewed": false,
@@ -11591,9 +11591,9 @@
         "work": "네로",
         "reference": "37.2",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:253b978390cfb1734bafec10ef50f326be40fe594afb79503b8fbc10ae339d4d",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-37-2"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-37-2"
       }
     },
     {
@@ -11679,7 +11679,7 @@
       "notes": [],
       "work_passage_id": "nero:37.3",
       "html_path": "works/nero/index.html#p-37-3",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-37-3",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-37-3",
       "alignment_revision": "sha256:a5abcc3c1a0e55c9ba70524fb71d990d4370182b1cd8d37e208af215d32e4d29",
       "review_state": {
         "human_reviewed": false,
@@ -11715,9 +11715,9 @@
         "work": "네로",
         "reference": "37.3",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:274305ef41cca901118481f38232ce1c2dd59203ae72739ed53107d90027d03c",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-37-3"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-37-3"
       }
     },
     {
@@ -11832,7 +11832,7 @@
       ],
       "work_passage_id": "nero:38.1",
       "html_path": "works/nero/index.html#p-38-1",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-38-1",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-38-1",
       "alignment_revision": "sha256:b2a13649be7e2697449546124c06db18141d3db3b082bf600ecabb230c539409",
       "review_state": {
         "human_reviewed": false,
@@ -11868,9 +11868,9 @@
         "work": "네로",
         "reference": "38.1",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:cd33c95a6059165d747dbc101b542a38b18a23a9421514e5c5eac2f338e92351",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-38-1"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-38-1"
       }
     },
     {
@@ -11972,7 +11972,7 @@
       ],
       "work_passage_id": "nero:38.2",
       "html_path": "works/nero/index.html#p-38-2",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-38-2",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-38-2",
       "alignment_revision": "sha256:c1017e76820b92e9fc4560de6baeef7478b7d7ff1c217af416974ff58da495f6",
       "review_state": {
         "human_reviewed": false,
@@ -12008,9 +12008,9 @@
         "work": "네로",
         "reference": "38.2",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:bf30cfa67930a6397b9506fc4cad74c15d1512c7974b60dd8a0151c54994a8c6",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-38-2"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-38-2"
       }
     },
     {
@@ -12085,7 +12085,7 @@
       ],
       "work_passage_id": "nero:38.3",
       "html_path": "works/nero/index.html#p-38-3",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-38-3",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-38-3",
       "alignment_revision": "sha256:dca20cb92115c4c705c1cef30ff1b8c0c61ea155885a553c54137a81b1cdd78f",
       "review_state": {
         "human_reviewed": false,
@@ -12121,9 +12121,9 @@
         "work": "네로",
         "reference": "38.3",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:294920564f0a93088ac7ab37900da30b75c66f57297a4504c57047f21747e4ca",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-38-3"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-38-3"
       }
     },
     {
@@ -12238,7 +12238,7 @@
       ],
       "work_passage_id": "nero:39.1",
       "html_path": "works/nero/index.html#p-39-1",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-39-1",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-39-1",
       "alignment_revision": "sha256:5b13f7aeb05d6bdbcb7bcef71530fef9fe2f28f1e1cf5c86cf973bd24bfab658",
       "review_state": {
         "human_reviewed": false,
@@ -12274,9 +12274,9 @@
         "work": "네로",
         "reference": "39.1",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:265d8c877d60485be51ec15bf5e7bafa3057c403e651946aa26cdd222057a542",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-39-1"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-39-1"
       }
     },
     {
@@ -12407,7 +12407,7 @@
       ],
       "work_passage_id": "nero:39.2",
       "html_path": "works/nero/index.html#p-39-2",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-39-2",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-39-2",
       "alignment_revision": "sha256:00b3f1e484df7576997be424c5b69ac5373128cca9599b32e25b8ece3968ae0c",
       "review_state": {
         "human_reviewed": false,
@@ -12443,9 +12443,9 @@
         "work": "네로",
         "reference": "39.2",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:ffb97305d768eb316c1f94de9f4836bfe35b5c73d043dc7f19da9cbf2fea3100",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-39-2"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-39-2"
       }
     },
     {
@@ -12560,7 +12560,7 @@
       ],
       "work_passage_id": "nero:39.3",
       "html_path": "works/nero/index.html#p-39-3",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-39-3",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-39-3",
       "alignment_revision": "sha256:12a1c98baf6b9cf5bcee915b631ebd3281023734094569b65c95e7c2c65fe085",
       "review_state": {
         "human_reviewed": false,
@@ -12596,9 +12596,9 @@
         "work": "네로",
         "reference": "39.3",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:19c72ed1e0d0ad1575e4bf27ea72866a31839d8e21336c1ee9f3333248090ed2",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-39-3"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-39-3"
       }
     },
     {
@@ -12660,7 +12660,7 @@
       ],
       "work_passage_id": "nero:40.1",
       "html_path": "works/nero/index.html#p-40-1",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-40-1",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-40-1",
       "alignment_revision": "sha256:aa463df568feb108aa4eefdb88ff3dde3eb71969e173030e438e1327e1beff83",
       "review_state": {
         "human_reviewed": false,
@@ -12696,9 +12696,9 @@
         "work": "네로",
         "reference": "40.1",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:e7a24d18315b1ed54c1c2ebfe8bf26a0ba2615a4920ee9840e9468fa0e7bd4de",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-40-1"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-40-1"
       }
     },
     {
@@ -12827,7 +12827,7 @@
       ],
       "work_passage_id": "nero:40.2",
       "html_path": "works/nero/index.html#p-40-2",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-40-2",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-40-2",
       "alignment_revision": "sha256:a770aaa5831642acaf5cb8c38bfcaa5c588a62c9d96f4c1fd7b967216255c65d",
       "review_state": {
         "human_reviewed": false,
@@ -12863,9 +12863,9 @@
         "work": "네로",
         "reference": "40.2",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:a24570cc5d1eff06b9a7bd60db4801c2a183331c54fc499a77d5dd36adb5c889",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-40-2"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-40-2"
       }
     },
     {
@@ -12953,7 +12953,7 @@
       ],
       "work_passage_id": "nero:40.3",
       "html_path": "works/nero/index.html#p-40-3",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-40-3",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-40-3",
       "alignment_revision": "sha256:84082d3f9adb12acdb3771e35298c9561ffefb48c45917c531799c0cd0d5dd25",
       "review_state": {
         "human_reviewed": false,
@@ -12989,9 +12989,9 @@
         "work": "네로",
         "reference": "40.3",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:ef402aba1a9d55b557f759b9cc1691b189c81d162e0a1131509570bfa3ceffcc",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-40-3"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-40-3"
       }
     },
     {
@@ -13092,7 +13092,7 @@
       ],
       "work_passage_id": "nero:40.4",
       "html_path": "works/nero/index.html#p-40-4",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-40-4",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-40-4",
       "alignment_revision": "sha256:191ab4dd68ebd9bc317f581e07d697cb41cf01cbc02b03daea327beb1e11fe51",
       "review_state": {
         "human_reviewed": false,
@@ -13128,9 +13128,9 @@
         "work": "네로",
         "reference": "40.4",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:9a74e07de2bc505a7ce85970dd7a7b1b7199d6d62ab52fe374300f915d4feb6b",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-40-4"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-40-4"
       }
     },
     {
@@ -13257,7 +13257,7 @@
       ],
       "work_passage_id": "nero:41.1",
       "html_path": "works/nero/index.html#p-41-1",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-41-1",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-41-1",
       "alignment_revision": "sha256:ce90959af49a578e78bc052e48dbef483ad79da44487730acb55ab570a18db1b",
       "review_state": {
         "human_reviewed": false,
@@ -13293,9 +13293,9 @@
         "work": "네로",
         "reference": "41.1",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:9a6bedbb6a2810ad044ac77fbf03d2a1be48bb0dc647ff83c143f85c5bfeb2db",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-41-1"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-41-1"
       }
     },
     {
@@ -13435,7 +13435,7 @@
       ],
       "work_passage_id": "nero:41.2",
       "html_path": "works/nero/index.html#p-41-2",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-41-2",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-41-2",
       "alignment_revision": "sha256:e6e39c5aba7a55769c148f195f207102ad98a17a2d726c4f5cc51f89879a8e87",
       "review_state": {
         "human_reviewed": false,
@@ -13471,9 +13471,9 @@
         "work": "네로",
         "reference": "41.2",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:d6192ce7ab77294d41c6770f204fa4991b11ff3dd9aa745be8ee29f377aaf3bb",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-41-2"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-41-2"
       }
     },
     {
@@ -13561,7 +13561,7 @@
       ],
       "work_passage_id": "nero:42.1",
       "html_path": "works/nero/index.html#p-42-1",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-42-1",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-42-1",
       "alignment_revision": "sha256:d9f6d75db5e2f5112bc166804d74528b999d4f861ba2d2511c899107868f6e4e",
       "review_state": {
         "human_reviewed": false,
@@ -13597,9 +13597,9 @@
         "work": "네로",
         "reference": "42.1",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:bcb3e7d020bd69690b9bd32b2b02bf5fe490a4aae432fc00b7273953903d7d9b",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-42-1"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-42-1"
       }
     },
     {
@@ -13672,7 +13672,7 @@
       "notes": [],
       "work_passage_id": "nero:42.2",
       "html_path": "works/nero/index.html#p-42-2",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-42-2",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-42-2",
       "alignment_revision": "sha256:c02ac8855b9a1eab873b20001ac02938cd9c180ac39cfdcd132abf5bc554b54e",
       "review_state": {
         "human_reviewed": false,
@@ -13708,9 +13708,9 @@
         "work": "네로",
         "reference": "42.2",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:c62b0855e0d26cb89371782f4a7dcaad37423d23b5b061eef1041b99d685ff73",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-42-2"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-42-2"
       }
     },
     {
@@ -13835,7 +13835,7 @@
       "notes": [],
       "work_passage_id": "nero:43.1",
       "html_path": "works/nero/index.html#p-43-1",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-43-1",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-43-1",
       "alignment_revision": "sha256:c6caa6ed0848086d64914c599438cefd8e02600b0e7ce82b574b66b39c9b3b96",
       "review_state": {
         "human_reviewed": false,
@@ -13871,9 +13871,9 @@
         "work": "네로",
         "reference": "43.1",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:3013e0263a46826e297a26125c0ae3215345c6b3cb2046126eecde08d179b9ae",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-43-1"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-43-1"
       }
     },
     {
@@ -14000,7 +14000,7 @@
       ],
       "work_passage_id": "nero:43.2",
       "html_path": "works/nero/index.html#p-43-2",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-43-2",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-43-2",
       "alignment_revision": "sha256:8227ee18bf2affc6f7845bb0f5a9691d5c9ca7c3a3de405e677ce2a5904221e5",
       "review_state": {
         "human_reviewed": false,
@@ -14036,9 +14036,9 @@
         "work": "네로",
         "reference": "43.2",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:0db7e8549d8f5420bcd53591ce8ed913cadfc8da6b4dd203736b04be2707cd05",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-43-2"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-43-2"
       }
     },
     {
@@ -14140,7 +14140,7 @@
       ],
       "work_passage_id": "nero:44.1",
       "html_path": "works/nero/index.html#p-44-1",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-44-1",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-44-1",
       "alignment_revision": "sha256:798a886f0f149667f372f3355367edb52e8c9f096afd4a69479c630e21b9a397",
       "review_state": {
         "human_reviewed": false,
@@ -14176,9 +14176,9 @@
         "work": "네로",
         "reference": "44.1",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:6ea59a7e6795e3dbc30f1212be2671f72f6771176cf32b9f75b34e7a0dfbd229",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-44-1"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-44-1"
       }
     },
     {
@@ -14279,7 +14279,7 @@
       ],
       "work_passage_id": "nero:44.2",
       "html_path": "works/nero/index.html#p-44-2",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-44-2",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-44-2",
       "alignment_revision": "sha256:8d6c43b3a8cff6c04241abc5a2fb6215d04b85b1c8574c57fa5ea9e30ab78cf3",
       "review_state": {
         "human_reviewed": false,
@@ -14315,9 +14315,9 @@
         "work": "네로",
         "reference": "44.2",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:fcfcff5c2ebcf207633bb8c27c2c19de513b901487f913a1cd4e844c5ffe44e4",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-44-2"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-44-2"
       }
     },
     {
@@ -14380,7 +14380,7 @@
       ],
       "work_passage_id": "nero:45.1",
       "html_path": "works/nero/index.html#p-45-1",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-45-1",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-45-1",
       "alignment_revision": "sha256:d49d8b5ad9e7b32d0eed15c438137177af006bb30fd6a31f5a2508a13db43395",
       "review_state": {
         "human_reviewed": false,
@@ -14416,9 +14416,9 @@
         "work": "네로",
         "reference": "45.1",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:56b50b3aec7ca3bb4aa98eaeeb5b3f331b0c0e9db30fae9971628eff20f1655f",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-45-1"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-45-1"
       }
     },
     {
@@ -14521,7 +14521,7 @@
       ],
       "work_passage_id": "nero:45.2",
       "html_path": "works/nero/index.html#p-45-2",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-45-2",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-45-2",
       "alignment_revision": "sha256:65bead059702cc62bcf16a6751ab403e23434d7aa369b6bcce5f21feabefc858",
       "review_state": {
         "human_reviewed": false,
@@ -14557,9 +14557,9 @@
         "work": "네로",
         "reference": "45.2",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:506c19cc2dae77c1748c13dd7a58e22fd3bcaa61cd0bc5bb404f6e96a922d748",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-45-2"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-45-2"
       }
     },
     {
@@ -14674,7 +14674,7 @@
       ],
       "work_passage_id": "nero:46.1",
       "html_path": "works/nero/index.html#p-46-1",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-46-1",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-46-1",
       "alignment_revision": "sha256:df5b13dc30c49802cb20f278af45efda252d0c2b6903be091f8b078408072b6d",
       "review_state": {
         "human_reviewed": false,
@@ -14710,9 +14710,9 @@
         "work": "네로",
         "reference": "46.1",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:5780cec347512d556b91f939adbe4fc4f484db70d211f74491cad108a20c12e8",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-46-1"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-46-1"
       }
     },
     {
@@ -14801,7 +14801,7 @@
       ],
       "work_passage_id": "nero:46.2",
       "html_path": "works/nero/index.html#p-46-2",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-46-2",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-46-2",
       "alignment_revision": "sha256:77fe1c0dbe9acf33c797bc70c452e2189725034b4dffdc2ced52b9a48476feb9",
       "review_state": {
         "human_reviewed": false,
@@ -14837,9 +14837,9 @@
         "work": "네로",
         "reference": "46.2",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:875413cad28e2f63a7914855c5c83b8d97a165be00df33951c84efc678a48d35",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-46-2"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-46-2"
       }
     },
     {
@@ -14928,7 +14928,7 @@
       ],
       "work_passage_id": "nero:46.3",
       "html_path": "works/nero/index.html#p-46-3",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-46-3",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-46-3",
       "alignment_revision": "sha256:8f181b1c6c381349241dd10b7cdd7a987377cb3091e6c53056760b793fad6b07",
       "review_state": {
         "human_reviewed": false,
@@ -14964,9 +14964,9 @@
         "work": "네로",
         "reference": "46.3",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:4894e6b54e6376a66e71c2c3a4a78df087f48a8234a92a16cf7224586038f6a1",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-46-3"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-46-3"
       }
     },
     {
@@ -15055,7 +15055,7 @@
       ],
       "work_passage_id": "nero:47.1",
       "html_path": "works/nero/index.html#p-47-1",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-47-1",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-47-1",
       "alignment_revision": "sha256:25fb19a1b38f1bbe1ef425e67654381820a973c475eb0d5fc0914efe5093c9e7",
       "review_state": {
         "human_reviewed": false,
@@ -15091,9 +15091,9 @@
         "work": "네로",
         "reference": "47.1",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:d3fe5c135498321538b2f433bd3db9542919db0607be7f6c19888bb319584bdd",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-47-1"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-47-1"
       }
     },
     {
@@ -15207,7 +15207,7 @@
       ],
       "work_passage_id": "nero:47.2",
       "html_path": "works/nero/index.html#p-47-2",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-47-2",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-47-2",
       "alignment_revision": "sha256:33c8f2910946aaf90fb45fa2f475ccfad925073967a63dc5c8a53dbc2c4466d2",
       "review_state": {
         "human_reviewed": false,
@@ -15243,9 +15243,9 @@
         "work": "네로",
         "reference": "47.2",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:485ec35ef1a2eeb9f099ca1bf352f2b5a39fd1fb59edf227024abfa84bde723e",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-47-2"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-47-2"
       }
     },
     {
@@ -15385,7 +15385,7 @@
       ],
       "work_passage_id": "nero:47.3",
       "html_path": "works/nero/index.html#p-47-3",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-47-3",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-47-3",
       "alignment_revision": "sha256:ddfc639a6017753370d5da86f691c3226021890c9c01f08af89152bce11392ee",
       "review_state": {
         "human_reviewed": false,
@@ -15421,9 +15421,9 @@
         "work": "네로",
         "reference": "47.3",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:280cf0e7af93625fdee640e1d1726d3e29a58a41bc3f069d6144c1fd45d8edaa",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-47-3"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-47-3"
       }
     },
     {
@@ -15525,7 +15525,7 @@
       ],
       "work_passage_id": "nero:48.1",
       "html_path": "works/nero/index.html#p-48-1",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-48-1",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-48-1",
       "alignment_revision": "sha256:e7968de48f326506aea690567634c21869250bd02ef0f76157f5aad49e817824",
       "review_state": {
         "human_reviewed": false,
@@ -15561,9 +15561,9 @@
         "work": "네로",
         "reference": "48.1",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:a6807a7224ac7f95cecb30ba1aeef3bb613b532738b614e7cb24c5a59568e5fc",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-48-1"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-48-1"
       }
     },
     {
@@ -15664,7 +15664,7 @@
       ],
       "work_passage_id": "nero:48.2",
       "html_path": "works/nero/index.html#p-48-2",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-48-2",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-48-2",
       "alignment_revision": "sha256:efd4f91965fb2548b9d8c6a82fb637e525f96759cd54494e37f794e878d0264e",
       "review_state": {
         "human_reviewed": false,
@@ -15700,9 +15700,9 @@
         "work": "네로",
         "reference": "48.2",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:80b4812b5058d2eaca9fb6df5a77a8aac4e0c2e570450486079203581e8ac830",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-48-2"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-48-2"
       }
     },
     {
@@ -15829,7 +15829,7 @@
       ],
       "work_passage_id": "nero:48.3",
       "html_path": "works/nero/index.html#p-48-3",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-48-3",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-48-3",
       "alignment_revision": "sha256:48cd16652deaf0e902c3b3d0ad6454c28515a871aac7f2a26c22098b09c62966",
       "review_state": {
         "human_reviewed": false,
@@ -15865,9 +15865,9 @@
         "work": "네로",
         "reference": "48.3",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:255ebf50cfc0233b759db787894e1e73e86803a84f14f6fe4efa4ef516e61bfd",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-48-3"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-48-3"
       }
     },
     {
@@ -15966,7 +15966,7 @@
       "notes": [],
       "work_passage_id": "nero:48.4",
       "html_path": "works/nero/index.html#p-48-4",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-48-4",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-48-4",
       "alignment_revision": "sha256:b6af77ab1668db5f7e6f16522aab47826cb745e5d74b6f13d489b3ba912f1af9",
       "review_state": {
         "human_reviewed": false,
@@ -16002,9 +16002,9 @@
         "work": "네로",
         "reference": "48.4",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:22b91782e5bf1d1cd98f5ab9f40c8e56ef493f6e61acbb0d40e7b0f01376b8e9",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-48-4"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-48-4"
       }
     },
     {
@@ -16103,7 +16103,7 @@
       "notes": [],
       "work_passage_id": "nero:49.1",
       "html_path": "works/nero/index.html#p-49-1",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-49-1",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-49-1",
       "alignment_revision": "sha256:18303b5c21f7d4c09c679fd0f484bd3bccb2fb9e9f56b10fa69c4bcf2cdc74a3",
       "review_state": {
         "human_reviewed": false,
@@ -16139,9 +16139,9 @@
         "work": "네로",
         "reference": "49.1",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:1081a646ac2ff8ab7fcb3a7ec33fe7217d04c4a2a58c83a06eab87a25150dc21",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-49-1"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-49-1"
       }
     },
     {
@@ -16255,7 +16255,7 @@
       ],
       "work_passage_id": "nero:49.2",
       "html_path": "works/nero/index.html#p-49-2",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-49-2",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-49-2",
       "alignment_revision": "sha256:d08be31acac61390f754687cad3f01dd608706592d14b1114811cb954ebb26aa",
       "review_state": {
         "human_reviewed": false,
@@ -16291,9 +16291,9 @@
         "work": "네로",
         "reference": "49.2",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:5b592a79da989704a00055223020385dafb232826aa717ca2c88d043076fcb9b",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-49-2"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-49-2"
       }
     },
     {
@@ -16421,7 +16421,7 @@
       ],
       "work_passage_id": "nero:49.3",
       "html_path": "works/nero/index.html#p-49-3",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-49-3",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-49-3",
       "alignment_revision": "sha256:d98c0f255e4323067affab6cb24d53adaef1c687180ecf8624f3d3d1263a118d",
       "review_state": {
         "human_reviewed": false,
@@ -16457,9 +16457,9 @@
         "work": "네로",
         "reference": "49.3",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:0377c5f9dd1f9bb5d624e9cf5e599a807931005a0884522668c3499e5b6cfa32",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-49-3"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-49-3"
       }
     },
     {
@@ -16573,7 +16573,7 @@
       ],
       "work_passage_id": "nero:49.4",
       "html_path": "works/nero/index.html#p-49-4",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-49-4",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-49-4",
       "alignment_revision": "sha256:295b847daa37276aa2de8e6db424ef6f4b1b4492a3a76a26712dfb6bfca59f6b",
       "review_state": {
         "human_reviewed": false,
@@ -16609,9 +16609,9 @@
         "work": "네로",
         "reference": "49.4",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:dacca1d5696970bbeb8946a4382757e5002811e5d62aa5713eb2cfc94389f4fb",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-49-4"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-49-4"
       }
     },
     {
@@ -16713,7 +16713,7 @@
       ],
       "work_passage_id": "nero:50.1",
       "html_path": "works/nero/index.html#p-50-1",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-50-1",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-50-1",
       "alignment_revision": "sha256:7c969d13ab53f8a18316e78e65014eb817c369616c7cfe8ef7c34479bd8419c6",
       "review_state": {
         "human_reviewed": false,
@@ -16749,9 +16749,9 @@
         "work": "네로",
         "reference": "50.1",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:7494adbbfcbac51056ebd817505266e4ff9f26d41ac08745f1108678e3795528",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-50-1"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-50-1"
       }
     },
     {
@@ -16891,7 +16891,7 @@
       ],
       "work_passage_id": "nero:51.1",
       "html_path": "works/nero/index.html#p-51-1",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-51-1",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-51-1",
       "alignment_revision": "sha256:5adbf91d34c2016f9d6052aa041c428d6117e902588411cf42281a361e255185",
       "review_state": {
         "human_reviewed": false,
@@ -16927,9 +16927,9 @@
         "work": "네로",
         "reference": "51.1",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:5189f1a8e90bce69a3d5e27dde5fcf54ae494fddc5e5cb759f79237e2b2f50f4",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-51-1"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-51-1"
       }
     },
     {
@@ -17082,7 +17082,7 @@
       ],
       "work_passage_id": "nero:52.1",
       "html_path": "works/nero/index.html#p-52-1",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-52-1",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-52-1",
       "alignment_revision": "sha256:ace246669112f620cbe197b554db12947df82a2ce1a8ac2617ac1f2a81c211b6",
       "review_state": {
         "human_reviewed": false,
@@ -17118,9 +17118,9 @@
         "work": "네로",
         "reference": "52.1",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:a872c08daffcbe8be0703013a367e5974792453935ae8e3e82a902d7f9d7edf4",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-52-1"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-52-1"
       }
     },
     {
@@ -17261,7 +17261,7 @@
       ],
       "work_passage_id": "nero:53.1",
       "html_path": "works/nero/index.html#p-53-1",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-53-1",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-53-1",
       "alignment_revision": "sha256:f65687e203bbb7e8221ff85aba144fa790792411357fbe0ce18434c7f712b24a",
       "review_state": {
         "human_reviewed": false,
@@ -17297,9 +17297,9 @@
         "work": "네로",
         "reference": "53.1",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:12a9e6cbcab6d32679e2cc14572db0e39d1ae1a957fa45bf4f9ad965fb01cc8f",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-53-1"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-53-1"
       }
     },
     {
@@ -17387,7 +17387,7 @@
       ],
       "work_passage_id": "nero:54.1",
       "html_path": "works/nero/index.html#p-54-1",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-54-1",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-54-1",
       "alignment_revision": "sha256:33edc2882f898e400539cb9c18856f99b5a840ef41f89275e9e77695da6ee9b5",
       "review_state": {
         "human_reviewed": false,
@@ -17423,9 +17423,9 @@
         "work": "네로",
         "reference": "54.1",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:6a501e6db4e51fa09fdd80d00cbc5bc56bd71de2501ebae2e56f83a30733795a",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-54-1"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-54-1"
       }
     },
     {
@@ -17513,7 +17513,7 @@
       ],
       "work_passage_id": "nero:55.1",
       "html_path": "works/nero/index.html#p-55-1",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-55-1",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-55-1",
       "alignment_revision": "sha256:c4efb2aeb97adfc41a2560d056ee7007cd37151408b04c2975bb31254cb76fce",
       "review_state": {
         "human_reviewed": false,
@@ -17549,9 +17549,9 @@
         "work": "네로",
         "reference": "55.1",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:3e439d5e875b64e4909bab9789d9554104cc67a5506d5a4c204569a6f298b6db",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-55-1"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-55-1"
       }
     },
     {
@@ -17678,7 +17678,7 @@
       ],
       "work_passage_id": "nero:56.1",
       "html_path": "works/nero/index.html#p-56-1",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-56-1",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-56-1",
       "alignment_revision": "sha256:7f8706e415967577842e62a25c4cb94be7b20816c68d079ed890664b11e6d1c2",
       "review_state": {
         "human_reviewed": false,
@@ -17714,9 +17714,9 @@
         "work": "네로",
         "reference": "56.1",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:f4b3f8fca424e30ea51b7a3f9e11aaa39c127cec48fed40f5bff231fc1cfc650",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-56-1"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-56-1"
       }
     },
     {
@@ -17818,7 +17818,7 @@
       ],
       "work_passage_id": "nero:57.1",
       "html_path": "works/nero/index.html#p-57-1",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-57-1",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-57-1",
       "alignment_revision": "sha256:196759fe9ef011302badd61919aeab61540818a69f3be9b94f8965429d7b4e17",
       "review_state": {
         "human_reviewed": false,
@@ -17854,9 +17854,9 @@
         "work": "네로",
         "reference": "57.1",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:63d02bd53ae8679b34d6d6a770bb4ab13876d93093ded8511f1e4471870cc6af",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-57-1"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-57-1"
       }
     },
     {
@@ -17931,7 +17931,7 @@
       ],
       "work_passage_id": "nero:57.2",
       "html_path": "works/nero/index.html#p-57-2",
-      "fixed_html_path": "releases/public-0.40/works/nero/index.html#p-57-2",
+      "fixed_html_path": "releases/public-0.41/works/nero/index.html#p-57-2",
       "alignment_revision": "sha256:74eb3b431642c036b7c9391c88c015ccf509e428ca7d7e5278d44c9e5c770f8d",
       "review_state": {
         "human_reviewed": false,
@@ -17967,9 +17967,9 @@
         "work": "네로",
         "reference": "57.2",
         "edition": "Maximilian Ihm 편, C. Suetoni Tranquilli De vita Caesarum libri VIII, editio minor, Leipzig: Teubner, 1908.",
-        "release": "public-0.40",
+        "release": "public-0.41",
         "translation_revision": "sha256:cd6ad727033e08341603d92630fff0c314252ee4b81e8f4d6a8f20c846558c14",
-        "fixed_path": "releases/public-0.40/works/nero/index.html#p-57-2"
+        "fixed_path": "releases/public-0.41/works/nero/index.html#p-57-2"
       }
     }
   ],
@@ -17994,14 +17994,14 @@
   "display_author": "수에토니우스",
   "scope": "네로 채택 본문 135대목 전체",
   "coverage": "complete",
-  "release_id": "public-0.40",
+  "release_id": "public-0.41",
   "source_language": "lat",
   "source_kind": "edited_ancient_original",
   "human_reviewed": false,
   "translation_method": "고정 원어 본문에서 직접 번역",
   "html_path": "works/nero/index.html",
   "json_path": "data/works/nero.json",
-  "fixed_html_path": "releases/public-0.40/works/nero/index.html",
+  "fixed_html_path": "releases/public-0.41/works/nero/index.html",
   "source_profile": "nero-complete-pinned-source-20261021",
   "source_decisions": [
     {
