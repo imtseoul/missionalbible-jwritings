@@ -297,3 +297,26 @@ a.text-link,.information section p a,.translation-notes p a{text-decoration:unde
 .work-sources a:hover{text-decoration-color:currentColor}
 @media(max-width:700px){.work-info{margin-top:14px}.work-summary{font-size:15px}.work-facts>div,.work-details>div{grid-template-columns:70px minmax(0,1fr);gap:0 12px}.work-facts dt,.work-details dt{font-size:12px;line-height:1.75}.work-facts dd,.work-details dd,.work-facts dd.reading-scope{font-size:13.5px}}
 @media print{.work-sources{display:none}}
+/* 2026-11-02: one end line for the reading column, 8px spacing, grouped size control, phone passages with the number row above the text. */
+.reading-layout{padding-top:32px}.catalog-layout{margin-top:32px}.corpus-group{margin-top:32px}
+.work-info,.work-info+.reading-note{max-width:none}
+.passage{grid-template-columns:48px minmax(0,1fr);gap:16px;margin-bottom:32px}
+.font-controls{gap:0;border:1px solid var(--line);border-radius:3px;background:var(--paper)}
+.font-controls>*+*{border-left:1px solid var(--line)}.font-controls>:first-child{border-left:0}
+.font-controls button,.font-controls button:disabled{border-top:0;border-right:0;border-bottom:0;border-radius:0;min-height:42px;min-width:44px;background:transparent}
+.font-controls output{align-self:stretch;display:grid;place-items:center;min-width:48px}
+.translation-notes li{padding:16px 0 24px}.translation-notes .note-return{min-height:44px}
+@media(max-width:700px){
+ .passage{display:block;margin-bottom:24px}
+ .passage-ref{flex-direction:row;align-items:center;gap:0 16px}
+ .passage-number{padding-top:0;font-size:13px;line-height:1.5}
+ .note-link,.cite-button{min-height:44px;margin-top:0}
+ .reading-tools{gap:12px}
+ .reading-tools .chapter-menu{order:-1;flex:none}
+ .tools-position{display:flex;flex:1 1 auto;min-width:0;font-size:13px}.tools-title{display:none}.tools-range{overflow:hidden;text-overflow:ellipsis}
+ .reading-tools .source-toggle{margin-left:0}
+ .font-controls{justify-content:flex-start}.font-controls button{min-height:44px}
+}
+@media(max-width:359px){.tools-position{display:none}.reading-tools .source-toggle{margin-left:auto}}
+@media(pointer:coarse) and (min-width:701px){.note-link,.cite-button{min-height:44px}}
+@media(min-width:701px) and (max-height:600px){.reader-sidebar{overflow-y:auto;scrollbar-width:thin}.reader-sidebar .chapter-index{flex:none;overflow:visible}}
