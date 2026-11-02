@@ -250,7 +250,7 @@
       ],
       "work_passage_id": "1qm:1.1-3",
       "html_path": "works/1qm/index.html#p-1-1-3",
-      "fixed_html_path": "releases/public-0.46/works/1qm/index.html#p-1-1-3",
+      "fixed_html_path": "releases/public-0.47/works/1qm/index.html#p-1-1-3",
       "alignment_revision": "sha256:c922f28bb4f9fb8bd378cf7db736c62168b0628aed026d44d4edae2b74280fb3",
       "review_state": {
         "human_reviewed": false,
@@ -286,9 +286,9 @@
         "work": "전쟁 두루마리",
         "reference": "1.1-3",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QM.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:aed44ad0db208633871a584ed40f33a60b76024967b6d6aad651a60760ffad9e",
-        "fixed_path": "releases/public-0.46/works/1qm/index.html#p-1-1-3"
+        "fixed_path": "releases/public-0.47/works/1qm/index.html#p-1-1-3"
       }
     },
     {
@@ -514,7 +514,7 @@
       ],
       "work_passage_id": "1qm:1.3-6",
       "html_path": "works/1qm/index.html#p-1-3-6",
-      "fixed_html_path": "releases/public-0.46/works/1qm/index.html#p-1-3-6",
+      "fixed_html_path": "releases/public-0.47/works/1qm/index.html#p-1-3-6",
       "alignment_revision": "sha256:8c500dc0025db87eeb2972a4fedb857c37ce3a4d9d104d8f62a1eb24ab56ae26",
       "review_state": {
         "human_reviewed": false,
@@ -550,9 +550,9 @@
         "work": "전쟁 두루마리",
         "reference": "1.3-6",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QM.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:2b6468f1d09626e74f4ea163fc78ffcd8ccfddd690fb0741099236599cdb52f1",
-        "fixed_path": "releases/public-0.46/works/1qm/index.html#p-1-3-6"
+        "fixed_path": "releases/public-0.47/works/1qm/index.html#p-1-3-6"
       }
     },
     {
@@ -797,7 +797,7 @@
       "notes": [],
       "work_passage_id": "1qm:1.6-10",
       "html_path": "works/1qm/index.html#p-1-6-10",
-      "fixed_html_path": "releases/public-0.46/works/1qm/index.html#p-1-6-10",
+      "fixed_html_path": "releases/public-0.47/works/1qm/index.html#p-1-6-10",
       "alignment_revision": "sha256:3bf657252e892ab3f41c005c31df55486ba801f32f6456b01b7c31eecea94b7f",
       "review_state": {
         "human_reviewed": false,
@@ -833,9 +833,9 @@
         "work": "전쟁 두루마리",
         "reference": "1.6-10",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QM.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:6471294b9f4f4dbdd53ffe7cd5ca5c9ee92851034d6222082dadfa87804e1d45",
-        "fixed_path": "releases/public-0.46/works/1qm/index.html#p-1-6-10"
+        "fixed_path": "releases/public-0.47/works/1qm/index.html#p-1-6-10"
       }
     },
     {
@@ -1048,7 +1048,7 @@
       ],
       "work_passage_id": "1qm:1.10-13",
       "html_path": "works/1qm/index.html#p-1-10-13",
-      "fixed_html_path": "releases/public-0.46/works/1qm/index.html#p-1-10-13",
+      "fixed_html_path": "releases/public-0.47/works/1qm/index.html#p-1-10-13",
       "alignment_revision": "sha256:7d5a9f440b48a2e4b45e866c8be0fa52712d1662b76eb1677696874e66f7c013",
       "review_state": {
         "human_reviewed": false,
@@ -1084,9 +1084,9 @@
         "work": "전쟁 두루마리",
         "reference": "1.10-13",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QM.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:49f9fde227ce165c3dc72d15f85d761b5cf6ad50bad67af0fd66944af1515c09",
-        "fixed_path": "releases/public-0.46/works/1qm/index.html#p-1-10-13"
+        "fixed_path": "releases/public-0.47/works/1qm/index.html#p-1-10-13"
       }
     },
     {
@@ -1588,7 +1588,7 @@
       ],
       "work_passage_id": "1qm:1.13-18",
       "html_path": "works/1qm/index.html#p-1-13-18",
-      "fixed_html_path": "releases/public-0.46/works/1qm/index.html#p-1-13-18",
+      "fixed_html_path": "releases/public-0.47/works/1qm/index.html#p-1-13-18",
       "alignment_revision": "sha256:9577d175a9a506ade218e8d52529ed21afdb8318f218a2bc066b18a6c2a3e25c",
       "review_state": {
         "human_reviewed": false,
@@ -1624,9 +1624,9 @@
         "work": "전쟁 두루마리",
         "reference": "1.13-18",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QM.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:061d4d303eef9ee60efb7dc01d372fd99c455320f901b9c9ee6abc87ca969118",
-        "fixed_path": "releases/public-0.46/works/1qm/index.html#p-1-13-18"
+        "fixed_path": "releases/public-0.47/works/1qm/index.html#p-1-13-18"
       }
     },
     {
@@ -1808,7 +1808,7 @@
       ],
       "work_passage_id": "1qm:1.19-2.3",
       "html_path": "works/1qm/index.html#p-1-19-2-3",
-      "fixed_html_path": "releases/public-0.46/works/1qm/index.html#p-1-19-2-3",
+      "fixed_html_path": "releases/public-0.47/works/1qm/index.html#p-1-19-2-3",
       "alignment_revision": "sha256:d12947ce0acd5be55e351c2d14c4ac4ca38a6fce985813bd884bcc953db1c2bd",
       "review_state": {
         "human_reviewed": false,
@@ -1844,9 +1844,9 @@
         "work": "전쟁 두루마리",
         "reference": "1.19-2.3",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QM.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:32564673d1bb47c55c1bfabb7da0497bca92c0bbe643c9553e206a4690554aae",
-        "fixed_path": "releases/public-0.46/works/1qm/index.html#p-1-19-2-3"
+        "fixed_path": "releases/public-0.47/works/1qm/index.html#p-1-19-2-3"
       }
     },
     {
@@ -2019,7 +2019,7 @@
       ],
       "work_passage_id": "1qm:2.3-6",
       "html_path": "works/1qm/index.html#p-2-3-6",
-      "fixed_html_path": "releases/public-0.46/works/1qm/index.html#p-2-3-6",
+      "fixed_html_path": "releases/public-0.47/works/1qm/index.html#p-2-3-6",
       "alignment_revision": "sha256:5e7827e0d947c9541efbdb1ceba0863ffc55e3414e8d73b7f7399ffec0d6da63",
       "review_state": {
         "human_reviewed": false,
@@ -2055,9 +2055,9 @@
         "work": "전쟁 두루마리",
         "reference": "2.3-6",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QM.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:567187f9f9f12f46687b30f561fed4c1018518c1a15dd63ae3947558b2f2a79a",
-        "fixed_path": "releases/public-0.46/works/1qm/index.html#p-2-3-6"
+        "fixed_path": "releases/public-0.47/works/1qm/index.html#p-2-3-6"
       }
     },
     {
@@ -2210,7 +2210,7 @@
       ],
       "work_passage_id": "1qm:2.6-9",
       "html_path": "works/1qm/index.html#p-2-6-9",
-      "fixed_html_path": "releases/public-0.46/works/1qm/index.html#p-2-6-9",
+      "fixed_html_path": "releases/public-0.47/works/1qm/index.html#p-2-6-9",
       "alignment_revision": "sha256:7ab68d0407ea5f80e73dc5b4fc0fbaa42982453b0c90f14c8b08a5912245ad3d",
       "review_state": {
         "human_reviewed": false,
@@ -2246,9 +2246,9 @@
         "work": "전쟁 두루마리",
         "reference": "2.6-9",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QM.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:6f10eaf8ea6a21a9e0d8dc5738da39e9dc80fed44f35ee0d73d3926254002bb3",
-        "fixed_path": "releases/public-0.46/works/1qm/index.html#p-2-6-9"
+        "fixed_path": "releases/public-0.47/works/1qm/index.html#p-2-6-9"
       }
     },
     {
@@ -2440,7 +2440,7 @@
       ],
       "work_passage_id": "1qm:2.10-13",
       "html_path": "works/1qm/index.html#p-2-10-13",
-      "fixed_html_path": "releases/public-0.46/works/1qm/index.html#p-2-10-13",
+      "fixed_html_path": "releases/public-0.47/works/1qm/index.html#p-2-10-13",
       "alignment_revision": "sha256:83e4a8f6d4dfb7ebc12afcbcdef97981de51fd84449e502619d5aec93ba3e79c",
       "review_state": {
         "human_reviewed": false,
@@ -2476,9 +2476,9 @@
         "work": "전쟁 두루마리",
         "reference": "2.10-13",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QM.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:e5816df02076368873ff035fdde8bf61093a3fd2a60f234ec3537be12e0e4bbf",
-        "fixed_path": "releases/public-0.46/works/1qm/index.html#p-2-10-13"
+        "fixed_path": "releases/public-0.47/works/1qm/index.html#p-2-10-13"
       }
     },
     {
@@ -2792,7 +2792,7 @@
       ],
       "work_passage_id": "1qm:2.13-17",
       "html_path": "works/1qm/index.html#p-2-13-17",
-      "fixed_html_path": "releases/public-0.46/works/1qm/index.html#p-2-13-17",
+      "fixed_html_path": "releases/public-0.47/works/1qm/index.html#p-2-13-17",
       "alignment_revision": "sha256:cbafb00460eee918724c588d4f69600f8bd235c4341b50a541cdb6461b96fc20",
       "review_state": {
         "human_reviewed": false,
@@ -2828,9 +2828,9 @@
         "work": "전쟁 두루마리",
         "reference": "2.13-17",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QM.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:38609660c951cb3840ab86ceecfa135670faa1bfea8a6ce280f89fce2e924d0d",
-        "fixed_path": "releases/public-0.46/works/1qm/index.html#p-2-13-17"
+        "fixed_path": "releases/public-0.47/works/1qm/index.html#p-2-13-17"
       }
     },
     {
@@ -3074,7 +3074,7 @@
       ],
       "work_passage_id": "1qm:2.18-3.3",
       "html_path": "works/1qm/index.html#p-2-18-3-3",
-      "fixed_html_path": "releases/public-0.46/works/1qm/index.html#p-2-18-3-3",
+      "fixed_html_path": "releases/public-0.47/works/1qm/index.html#p-2-18-3-3",
       "alignment_revision": "sha256:7f09bdaaec3ba9cf54819a2202a94cf0a0924adabf257337b07097577cb261b2",
       "review_state": {
         "human_reviewed": false,
@@ -3110,9 +3110,9 @@
         "work": "전쟁 두루마리",
         "reference": "2.18-3.3",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QM.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:ec1db773190e13d1c85e355af9e00647ea66c36f2f8bea9f94448b0c596575d3",
-        "fixed_path": "releases/public-0.46/works/1qm/index.html#p-2-18-3-3"
+        "fixed_path": "releases/public-0.47/works/1qm/index.html#p-2-18-3-3"
       }
     },
     {
@@ -3276,7 +3276,7 @@
       ],
       "work_passage_id": "1qm:3.3-6",
       "html_path": "works/1qm/index.html#p-3-3-6",
-      "fixed_html_path": "releases/public-0.46/works/1qm/index.html#p-3-3-6",
+      "fixed_html_path": "releases/public-0.47/works/1qm/index.html#p-3-3-6",
       "alignment_revision": "sha256:aff1798f9d5792ee6c38c3b2d844c62bda7695c334ebc93f99440f5d575c83e9",
       "review_state": {
         "human_reviewed": false,
@@ -3312,9 +3312,9 @@
         "work": "전쟁 두루마리",
         "reference": "3.3-6",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QM.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:ab3b5e33f8e377645d1de87c2ff887b5e9e50b04d3ec153a8b33d69a57e26f9f",
-        "fixed_path": "releases/public-0.46/works/1qm/index.html#p-3-3-6"
+        "fixed_path": "releases/public-0.47/works/1qm/index.html#p-3-3-6"
       }
     },
     {
@@ -3467,7 +3467,7 @@
       "notes": [],
       "work_passage_id": "1qm:3.7-10",
       "html_path": "works/1qm/index.html#p-3-7-10",
-      "fixed_html_path": "releases/public-0.46/works/1qm/index.html#p-3-7-10",
+      "fixed_html_path": "releases/public-0.47/works/1qm/index.html#p-3-7-10",
       "alignment_revision": "sha256:ce3993f9e94a5f6153b305e3d86922983e96b7a9cb76a7ab1768cdb7c68e2310",
       "review_state": {
         "human_reviewed": false,
@@ -3503,9 +3503,9 @@
         "work": "전쟁 두루마리",
         "reference": "3.7-10",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QM.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:19dcaace4fabb103c63f63413f8d7a9cd7516ce9058c6ed4cf7bac3058630271",
-        "fixed_path": "releases/public-0.46/works/1qm/index.html#p-3-7-10"
+        "fixed_path": "releases/public-0.47/works/1qm/index.html#p-3-7-10"
       }
     },
     {
@@ -3578,7 +3578,7 @@
       "notes": [],
       "work_passage_id": "1qm:3.10-11",
       "html_path": "works/1qm/index.html#p-3-10-11",
-      "fixed_html_path": "releases/public-0.46/works/1qm/index.html#p-3-10-11",
+      "fixed_html_path": "releases/public-0.47/works/1qm/index.html#p-3-10-11",
       "alignment_revision": "sha256:ced38505786e967d03d3305fca7f9c0849486cfbe72113f04bb683844415988b",
       "review_state": {
         "human_reviewed": false,
@@ -3614,9 +3614,9 @@
         "work": "전쟁 두루마리",
         "reference": "3.10-11",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QM.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:a4f628daae4b6a6ce78e1804503a220b9e975f6572336a508f18b21605bad044",
-        "fixed_path": "releases/public-0.46/works/1qm/index.html#p-3-10-11"
+        "fixed_path": "releases/public-0.47/works/1qm/index.html#p-3-10-11"
       }
     },
     {
@@ -3849,7 +3849,7 @@
       ],
       "work_passage_id": "1qm:3.13-16",
       "html_path": "works/1qm/index.html#p-3-13-16",
-      "fixed_html_path": "releases/public-0.46/works/1qm/index.html#p-3-13-16",
+      "fixed_html_path": "releases/public-0.47/works/1qm/index.html#p-3-13-16",
       "alignment_revision": "sha256:1f10036e51132716bbda7cd1323a722743ada741f4b2712ffbe2961a7c798e51",
       "review_state": {
         "human_reviewed": false,
@@ -3885,9 +3885,9 @@
         "work": "전쟁 두루마리",
         "reference": "3.13-16",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QM.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:c33a6ba4c0f88240b182def7d8ab1841a9015c023322a2819c7dcfce66772437",
-        "fixed_path": "releases/public-0.46/works/1qm/index.html#p-3-13-16"
+        "fixed_path": "releases/public-0.47/works/1qm/index.html#p-3-13-16"
       }
     },
     {
@@ -4224,7 +4224,7 @@
       ],
       "work_passage_id": "1qm:3.16-4.2",
       "html_path": "works/1qm/index.html#p-3-16-4-2",
-      "fixed_html_path": "releases/public-0.46/works/1qm/index.html#p-3-16-4-2",
+      "fixed_html_path": "releases/public-0.47/works/1qm/index.html#p-3-16-4-2",
       "alignment_revision": "sha256:3744b1d59859281ade900848ff3a92ca31d67faf165523a5a439cb1e4522acb6",
       "review_state": {
         "human_reviewed": false,
@@ -4260,9 +4260,9 @@
         "work": "전쟁 두루마리",
         "reference": "3.16-4.2",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QM.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:9934cc90444845cbb84a6a1a7aa36d6e3f5e59c7c69bfded02e40a4d1c25082f",
-        "fixed_path": "releases/public-0.46/works/1qm/index.html#p-3-16-4-2"
+        "fixed_path": "releases/public-0.47/works/1qm/index.html#p-3-16-4-2"
       }
     },
     {
@@ -4408,7 +4408,7 @@
       ],
       "work_passage_id": "1qm:4.2-5",
       "html_path": "works/1qm/index.html#p-4-2-5",
-      "fixed_html_path": "releases/public-0.46/works/1qm/index.html#p-4-2-5",
+      "fixed_html_path": "releases/public-0.47/works/1qm/index.html#p-4-2-5",
       "alignment_revision": "sha256:ecb49617f19ffa08fb7af8d03e788dd9b4783de29e82779c5252a339fef2c5c6",
       "review_state": {
         "human_reviewed": false,
@@ -4444,9 +4444,9 @@
         "work": "전쟁 두루마리",
         "reference": "4.2-5",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QM.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:0f009bca3cd03b52c34b5af1c8e15eab2fd30ca58fc9f1d02e40b5c01e221ec9",
-        "fixed_path": "releases/public-0.46/works/1qm/index.html#p-4-2-5"
+        "fixed_path": "releases/public-0.47/works/1qm/index.html#p-4-2-5"
       }
     },
     {
@@ -4576,7 +4576,7 @@
       "notes": [],
       "work_passage_id": "1qm:4.6-8",
       "html_path": "works/1qm/index.html#p-4-6-8",
-      "fixed_html_path": "releases/public-0.46/works/1qm/index.html#p-4-6-8",
+      "fixed_html_path": "releases/public-0.47/works/1qm/index.html#p-4-6-8",
       "alignment_revision": "sha256:66bc8e20f3ea4f65e7feaa257aaef752e7adfa134c5187140cb9608f5d1e89c8",
       "review_state": {
         "human_reviewed": false,
@@ -4612,9 +4612,9 @@
         "work": "전쟁 두루마리",
         "reference": "4.6-8",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QM.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:4571b5351c4c6043f8591f16b302cc94759327bf04202e37248281ec25742299",
-        "fixed_path": "releases/public-0.46/works/1qm/index.html#p-4-6-8"
+        "fixed_path": "releases/public-0.47/works/1qm/index.html#p-4-6-8"
       }
     },
     {
@@ -4753,7 +4753,7 @@
       "notes": [],
       "work_passage_id": "1qm:4.9-11",
       "html_path": "works/1qm/index.html#p-4-9-11",
-      "fixed_html_path": "releases/public-0.46/works/1qm/index.html#p-4-9-11",
+      "fixed_html_path": "releases/public-0.47/works/1qm/index.html#p-4-9-11",
       "alignment_revision": "sha256:bf22c03cc27375f282df6a367931fac7fe75a2946bc1956a3f29618d87cca7ae",
       "review_state": {
         "human_reviewed": false,
@@ -4789,9 +4789,9 @@
         "work": "전쟁 두루마리",
         "reference": "4.9-11",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QM.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:65d8b20ca5254b7609a664bc52c41d5da184948660cd6b17044be03e8b1057d9",
-        "fixed_path": "releases/public-0.46/works/1qm/index.html#p-4-9-11"
+        "fixed_path": "releases/public-0.47/works/1qm/index.html#p-4-9-11"
       }
     },
     {
@@ -4943,7 +4943,7 @@
       "notes": [],
       "work_passage_id": "1qm:4.11-14",
       "html_path": "works/1qm/index.html#p-4-11-14",
-      "fixed_html_path": "releases/public-0.46/works/1qm/index.html#p-4-11-14",
+      "fixed_html_path": "releases/public-0.47/works/1qm/index.html#p-4-11-14",
       "alignment_revision": "sha256:098765cc34d67bd5fbd1b558d4b7e42fa9428c1dcf422f45113eaf74cfbdd64f",
       "review_state": {
         "human_reviewed": false,
@@ -4979,9 +4979,9 @@
         "work": "전쟁 두루마리",
         "reference": "4.11-14",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QM.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:4ca1c125719594a35052225e9f248081f0c0ca7c899e1002aef3b0c271517a64",
-        "fixed_path": "releases/public-0.46/works/1qm/index.html#p-4-11-14"
+        "fixed_path": "releases/public-0.47/works/1qm/index.html#p-4-11-14"
       }
     },
     {
@@ -5312,7 +5312,7 @@
       ],
       "work_passage_id": "1qm:4.15-17",
       "html_path": "works/1qm/index.html#p-4-15-17",
-      "fixed_html_path": "releases/public-0.46/works/1qm/index.html#p-4-15-17",
+      "fixed_html_path": "releases/public-0.47/works/1qm/index.html#p-4-15-17",
       "alignment_revision": "sha256:c734525263772d26657baed09028a90ef4c325dfa588ab11839c00991028caff",
       "review_state": {
         "human_reviewed": false,
@@ -5348,9 +5348,9 @@
         "work": "전쟁 두루마리",
         "reference": "4.15-17",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QM.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:e70111c700df7d7c9d1631c1fa3b77dd1dc7e5d446a5bbcebccc92011097536d",
-        "fixed_path": "releases/public-0.46/works/1qm/index.html#p-4-15-17"
+        "fixed_path": "releases/public-0.47/works/1qm/index.html#p-4-15-17"
       }
     },
     {
@@ -5656,7 +5656,7 @@
       ],
       "work_passage_id": "1qm:4.17-5.3",
       "html_path": "works/1qm/index.html#p-4-17-5-3",
-      "fixed_html_path": "releases/public-0.46/works/1qm/index.html#p-4-17-5-3",
+      "fixed_html_path": "releases/public-0.47/works/1qm/index.html#p-4-17-5-3",
       "alignment_revision": "sha256:63794f85660014e913e47b1602643dde51b8e3f0b90790c6c0955a961e52871b",
       "review_state": {
         "human_reviewed": false,
@@ -5692,9 +5692,9 @@
         "work": "전쟁 두루마리",
         "reference": "4.17-5.3",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QM.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:fe1301ec7776652c10e001a2091c0212f99d4e35fbc704791383d90f662c1721",
-        "fixed_path": "releases/public-0.46/works/1qm/index.html#p-4-17-5-3"
+        "fixed_path": "releases/public-0.47/works/1qm/index.html#p-4-17-5-3"
       }
     },
     {
@@ -5897,7 +5897,7 @@
       ],
       "work_passage_id": "1qm:5.3-7",
       "html_path": "works/1qm/index.html#p-5-3-7",
-      "fixed_html_path": "releases/public-0.46/works/1qm/index.html#p-5-3-7",
+      "fixed_html_path": "releases/public-0.47/works/1qm/index.html#p-5-3-7",
       "alignment_revision": "sha256:3e4caf659cd4d614d52e4e7c0fb590612f18e208454951242f6372a2a0b2f6ad",
       "review_state": {
         "human_reviewed": false,
@@ -5933,9 +5933,9 @@
         "work": "전쟁 두루마리",
         "reference": "5.3-7",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QM.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:87a669e8a0f2a40bdcbbcf42c4ca850be29eb54d6c222457ced643b11a403611",
-        "fixed_path": "releases/public-0.46/works/1qm/index.html#p-5-3-7"
+        "fixed_path": "releases/public-0.47/works/1qm/index.html#p-5-3-7"
       }
     },
     {
@@ -6113,7 +6113,7 @@
       "notes": [],
       "work_passage_id": "1qm:5.7-10",
       "html_path": "works/1qm/index.html#p-5-7-10",
-      "fixed_html_path": "releases/public-0.46/works/1qm/index.html#p-5-7-10",
+      "fixed_html_path": "releases/public-0.47/works/1qm/index.html#p-5-7-10",
       "alignment_revision": "sha256:05dd4cc69ff276d633cf78c08810c82de3f2fe26c2c92b28b607b630656767d7",
       "review_state": {
         "human_reviewed": false,
@@ -6149,9 +6149,9 @@
         "work": "전쟁 두루마리",
         "reference": "5.7-10",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QM.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:9e8e681f901acb0d5f8f731df862a741d3700fe7d75710f45e4834f46693de88",
-        "fixed_path": "releases/public-0.46/works/1qm/index.html#p-5-7-10"
+        "fixed_path": "releases/public-0.47/works/1qm/index.html#p-5-7-10"
       }
     },
     {
@@ -6358,7 +6358,7 @@
       "notes": [],
       "work_passage_id": "1qm:5.10-13",
       "html_path": "works/1qm/index.html#p-5-10-13",
-      "fixed_html_path": "releases/public-0.46/works/1qm/index.html#p-5-10-13",
+      "fixed_html_path": "releases/public-0.47/works/1qm/index.html#p-5-10-13",
       "alignment_revision": "sha256:b9d3bb665cd75ae55803bd089f2fc751739af9adab5fe4f6bfb82c146a03d998",
       "review_state": {
         "human_reviewed": false,
@@ -6394,9 +6394,9 @@
         "work": "전쟁 두루마리",
         "reference": "5.10-13",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QM.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:1094069d9a3827dceb29ce5334f1bb30548e685ca44f8cc3f4fcd7ae7b3e61d1",
-        "fixed_path": "releases/public-0.46/works/1qm/index.html#p-5-10-13"
+        "fixed_path": "releases/public-0.47/works/1qm/index.html#p-5-10-13"
       }
     },
     {
@@ -6482,7 +6482,7 @@
       "notes": [],
       "work_passage_id": "1qm:5.13-14",
       "html_path": "works/1qm/index.html#p-5-13-14",
-      "fixed_html_path": "releases/public-0.46/works/1qm/index.html#p-5-13-14",
+      "fixed_html_path": "releases/public-0.47/works/1qm/index.html#p-5-13-14",
       "alignment_revision": "sha256:c91b1caeb7c34a0920a6efdc6b83a83aa68ed7488fc6abf62ff6622fb780628a",
       "review_state": {
         "human_reviewed": false,
@@ -6518,9 +6518,9 @@
         "work": "전쟁 두루마리",
         "reference": "5.13-14",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QM.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:8bc32615861742ab60e67ca5375133ead5274f49184c5f865088469f27edfb3b",
-        "fixed_path": "releases/public-0.46/works/1qm/index.html#p-5-13-14"
+        "fixed_path": "releases/public-0.47/works/1qm/index.html#p-5-13-14"
       }
     },
     {
@@ -6916,7 +6916,7 @@
       "notes": [],
       "work_passage_id": "1qm:5.16-6.1",
       "html_path": "works/1qm/index.html#p-5-16-6-1",
-      "fixed_html_path": "releases/public-0.46/works/1qm/index.html#p-5-16-6-1",
+      "fixed_html_path": "releases/public-0.47/works/1qm/index.html#p-5-16-6-1",
       "alignment_revision": "sha256:6912fb6b414767aa80605d9a1b42dc69e015b10159a90fdc79a660bc82288a1e",
       "review_state": {
         "human_reviewed": false,
@@ -6952,9 +6952,9 @@
         "work": "전쟁 두루마리",
         "reference": "5.16-6.1",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QM.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:d91bcd7d2efe31ddec1e80fc76321b5b05836cd77c4081e72ed3204cc753fc0f",
-        "fixed_path": "releases/public-0.46/works/1qm/index.html#p-5-16-6-1"
+        "fixed_path": "releases/public-0.47/works/1qm/index.html#p-5-16-6-1"
       }
     },
     {
@@ -7139,7 +7139,7 @@
       ],
       "work_passage_id": "1qm:6.1-4",
       "html_path": "works/1qm/index.html#p-6-1-4",
-      "fixed_html_path": "releases/public-0.46/works/1qm/index.html#p-6-1-4",
+      "fixed_html_path": "releases/public-0.47/works/1qm/index.html#p-6-1-4",
       "alignment_revision": "sha256:5a8b3c4a5f059e36b1420eed42acb57aed2791c7d1140fd752127b9e84221a68",
       "review_state": {
         "human_reviewed": false,
@@ -7175,9 +7175,9 @@
         "work": "전쟁 두루마리",
         "reference": "6.1-4",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QM.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:c6ca78ba97e9dbb4d29b9043e3602a20e9eabba1222281504e0d3b060bc6b5ef",
-        "fixed_path": "releases/public-0.46/works/1qm/index.html#p-6-1-4"
+        "fixed_path": "releases/public-0.47/works/1qm/index.html#p-6-1-4"
       }
     },
     {
@@ -7301,7 +7301,7 @@
       ],
       "work_passage_id": "1qm:6.4-6",
       "html_path": "works/1qm/index.html#p-6-4-6",
-      "fixed_html_path": "releases/public-0.46/works/1qm/index.html#p-6-4-6",
+      "fixed_html_path": "releases/public-0.47/works/1qm/index.html#p-6-4-6",
       "alignment_revision": "sha256:1480ce65bce554be04587dbf8b7254c38a5814df7d63b0635466ea04cf6afb69",
       "review_state": {
         "human_reviewed": false,
@@ -7337,9 +7337,9 @@
         "work": "전쟁 두루마리",
         "reference": "6.4-6",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QM.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:ecbc3f20b0970290732778e7a9da23ce57b77b90bf9726b5cd5a0c6bb0d3eac2",
-        "fixed_path": "releases/public-0.46/works/1qm/index.html#p-6-4-6"
+        "fixed_path": "releases/public-0.47/works/1qm/index.html#p-6-4-6"
       }
     },
     {
@@ -7557,7 +7557,7 @@
       "notes": [],
       "work_passage_id": "1qm:6.8-11",
       "html_path": "works/1qm/index.html#p-6-8-11",
-      "fixed_html_path": "releases/public-0.46/works/1qm/index.html#p-6-8-11",
+      "fixed_html_path": "releases/public-0.47/works/1qm/index.html#p-6-8-11",
       "alignment_revision": "sha256:5190b2291fa51aec591e0c1a4472936db6a5902c9e07444cde7cddf4a24cff6e",
       "review_state": {
         "human_reviewed": false,
@@ -7593,9 +7593,9 @@
         "work": "전쟁 두루마리",
         "reference": "6.8-11",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QM.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:21256f2a2ff78be19d588ee64c6d17b98b6803d1b27bb131129b65478f8f9219",
-        "fixed_path": "releases/public-0.46/works/1qm/index.html#p-6-8-11"
+        "fixed_path": "releases/public-0.47/works/1qm/index.html#p-6-8-11"
       }
     },
     {
@@ -7873,7 +7873,7 @@
       "notes": [],
       "work_passage_id": "1qm:6.11-15",
       "html_path": "works/1qm/index.html#p-6-11-15",
-      "fixed_html_path": "releases/public-0.46/works/1qm/index.html#p-6-11-15",
+      "fixed_html_path": "releases/public-0.47/works/1qm/index.html#p-6-11-15",
       "alignment_revision": "sha256:dfa2d502df21229c0705de0f0356985aa1c6608719c32eeb7cb2c50bbb117c9c",
       "review_state": {
         "human_reviewed": false,
@@ -7909,9 +7909,9 @@
         "work": "전쟁 두루마리",
         "reference": "6.11-15",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QM.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:1db11fb939c84d5b2b69eefff5fd9da99df9d8717b3d17fb03038c8ce74520f9",
-        "fixed_path": "releases/public-0.46/works/1qm/index.html#p-6-11-15"
+        "fixed_path": "releases/public-0.47/works/1qm/index.html#p-6-11-15"
       }
     },
     {
@@ -8312,7 +8312,7 @@
       ],
       "work_passage_id": "1qm:6.15-7.1",
       "html_path": "works/1qm/index.html#p-6-15-7-1",
-      "fixed_html_path": "releases/public-0.46/works/1qm/index.html#p-6-15-7-1",
+      "fixed_html_path": "releases/public-0.47/works/1qm/index.html#p-6-15-7-1",
       "alignment_revision": "sha256:c84dc2e81e2a389d5611d09b8f7c0805bd077c306c92a597ae2fca998088a7c1",
       "review_state": {
         "human_reviewed": false,
@@ -8348,9 +8348,9 @@
         "work": "전쟁 두루마리",
         "reference": "6.15-7.1",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QM.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:339c12c028ed1abca94f33d6c6b173feaab44fd87ad3d220d9e26f52ae4dd622",
-        "fixed_path": "releases/public-0.46/works/1qm/index.html#p-6-15-7-1"
+        "fixed_path": "releases/public-0.47/works/1qm/index.html#p-6-15-7-1"
       }
     },
     {
@@ -8506,7 +8506,7 @@
       ],
       "work_passage_id": "1qm:7.1-5",
       "html_path": "works/1qm/index.html#p-7-1-5",
-      "fixed_html_path": "releases/public-0.46/works/1qm/index.html#p-7-1-5",
+      "fixed_html_path": "releases/public-0.47/works/1qm/index.html#p-7-1-5",
       "alignment_revision": "sha256:7503fd5c9148c517a8b569dfbcfb628a1a213feb994f6d226199492fc3c43b85",
       "review_state": {
         "human_reviewed": false,
@@ -8542,9 +8542,9 @@
         "work": "전쟁 두루마리",
         "reference": "7.1-5",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QM.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:5bae3b9efe4219e9aec2c5571b2dd86a09e855c3bbab333406cfb38d1866cfab",
-        "fixed_path": "releases/public-0.46/works/1qm/index.html#p-7-1-5"
+        "fixed_path": "releases/public-0.47/works/1qm/index.html#p-7-1-5"
       }
     },
     {
@@ -8673,7 +8673,7 @@
       ],
       "work_passage_id": "1qm:7.5-7",
       "html_path": "works/1qm/index.html#p-7-5-7",
-      "fixed_html_path": "releases/public-0.46/works/1qm/index.html#p-7-5-7",
+      "fixed_html_path": "releases/public-0.47/works/1qm/index.html#p-7-5-7",
       "alignment_revision": "sha256:c032f658173eddd5efeb585657ddbccd7b38b74c2be06fa3ad9727dd86a6e7a8",
       "review_state": {
         "human_reviewed": false,
@@ -8709,9 +8709,9 @@
         "work": "전쟁 두루마리",
         "reference": "7.5-7",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QM.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:fe5847eed878daef6969e58fc6b4e712d53d04bbc30f8755f05701f61bb9e563",
-        "fixed_path": "releases/public-0.46/works/1qm/index.html#p-7-5-7"
+        "fixed_path": "releases/public-0.47/works/1qm/index.html#p-7-5-7"
       }
     },
     {
@@ -8867,7 +8867,7 @@
       ],
       "work_passage_id": "1qm:7.9-12",
       "html_path": "works/1qm/index.html#p-7-9-12",
-      "fixed_html_path": "releases/public-0.46/works/1qm/index.html#p-7-9-12",
+      "fixed_html_path": "releases/public-0.47/works/1qm/index.html#p-7-9-12",
       "alignment_revision": "sha256:87a012367ddedbb3d8913729fff9121b288cfc9150ade5ba588f0111888551fa",
       "review_state": {
         "human_reviewed": false,
@@ -8903,9 +8903,9 @@
         "work": "전쟁 두루마리",
         "reference": "7.9-12",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QM.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:3c1df8a48844bc0e38678f89fedf56499b67f9110e83469e00c9046d2f1f85fe",
-        "fixed_path": "releases/public-0.46/works/1qm/index.html#p-7-9-12"
+        "fixed_path": "releases/public-0.47/works/1qm/index.html#p-7-9-12"
       }
     },
     {
@@ -9131,7 +9131,7 @@
       ],
       "work_passage_id": "1qm:7.12-16",
       "html_path": "works/1qm/index.html#p-7-12-16",
-      "fixed_html_path": "releases/public-0.46/works/1qm/index.html#p-7-12-16",
+      "fixed_html_path": "releases/public-0.47/works/1qm/index.html#p-7-12-16",
       "alignment_revision": "sha256:d76c27f2bddf127998a421c35d8096a511f7187570985ee6fc0c8d2afd12572e",
       "review_state": {
         "human_reviewed": false,
@@ -9167,9 +9167,9 @@
         "work": "전쟁 두루마리",
         "reference": "7.12-16",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QM.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:f28d2dfd62749ece276ac908a9d670c000555b26879836cce2e1814b0f05f8b7",
-        "fixed_path": "releases/public-0.46/works/1qm/index.html#p-7-12-16"
+        "fixed_path": "releases/public-0.47/works/1qm/index.html#p-7-12-16"
       }
     },
     {
@@ -9531,7 +9531,7 @@
       ],
       "work_passage_id": "1qm:7.16-8.3",
       "html_path": "works/1qm/index.html#p-7-16-8-3",
-      "fixed_html_path": "releases/public-0.46/works/1qm/index.html#p-7-16-8-3",
+      "fixed_html_path": "releases/public-0.47/works/1qm/index.html#p-7-16-8-3",
       "alignment_revision": "sha256:2758a5d1a4716411ad4e659f30155afe9562e46173b84adbf78b439f616e109a",
       "review_state": {
         "human_reviewed": false,
@@ -9567,9 +9567,9 @@
         "work": "전쟁 두루마리",
         "reference": "7.16-8.3",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QM.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:b787a973d2b0f5b19b6dc2e5b09c7f5b7e01037f4449ba7433ba80278d4b703d",
-        "fixed_path": "releases/public-0.46/works/1qm/index.html#p-7-16-8-3"
+        "fixed_path": "releases/public-0.47/works/1qm/index.html#p-7-16-8-3"
       }
     },
     {
@@ -9737,7 +9737,7 @@
       "notes": [],
       "work_passage_id": "1qm:8.3-8",
       "html_path": "works/1qm/index.html#p-8-3-8",
-      "fixed_html_path": "releases/public-0.46/works/1qm/index.html#p-8-3-8",
+      "fixed_html_path": "releases/public-0.47/works/1qm/index.html#p-8-3-8",
       "alignment_revision": "sha256:70deced1d59c7ae2367777fd7a43f65b49939675aea7a42eed5a5cd6d759cf62",
       "review_state": {
         "human_reviewed": false,
@@ -9773,9 +9773,9 @@
         "work": "전쟁 두루마리",
         "reference": "8.3-8",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QM.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:e0c64780a08aec025da16177e5f3a73ff9535bb5615875d2474cb6b8125b7c9c",
-        "fixed_path": "releases/public-0.46/works/1qm/index.html#p-8-3-8"
+        "fixed_path": "releases/public-0.47/works/1qm/index.html#p-8-3-8"
       }
     },
     {
@@ -9979,7 +9979,7 @@
       ],
       "work_passage_id": "1qm:8.8-13",
       "html_path": "works/1qm/index.html#p-8-8-13",
-      "fixed_html_path": "releases/public-0.46/works/1qm/index.html#p-8-8-13",
+      "fixed_html_path": "releases/public-0.47/works/1qm/index.html#p-8-8-13",
       "alignment_revision": "sha256:c80f517396b0d1893cbde6e13ab98f3292f58f0cd6cd6147a38f34aa7af9033b",
       "review_state": {
         "human_reviewed": false,
@@ -10015,9 +10015,9 @@
         "work": "전쟁 두루마리",
         "reference": "8.8-13",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QM.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:0eb85e142db197a7304709654a781db9a18a68e624daf3c6ac748b9f082f4f97",
-        "fixed_path": "releases/public-0.46/works/1qm/index.html#p-8-8-13"
+        "fixed_path": "releases/public-0.47/works/1qm/index.html#p-8-8-13"
       }
     },
     {
@@ -10304,7 +10304,7 @@
       "notes": [],
       "work_passage_id": "1qm:8.13-19",
       "html_path": "works/1qm/index.html#p-8-13-19",
-      "fixed_html_path": "releases/public-0.46/works/1qm/index.html#p-8-13-19",
+      "fixed_html_path": "releases/public-0.47/works/1qm/index.html#p-8-13-19",
       "alignment_revision": "sha256:b6ef745cd9aae4cbacf395497a17f90fb30eac4ae2a5ee9dc935e8b69f28dfa7",
       "review_state": {
         "human_reviewed": false,
@@ -10340,9 +10340,9 @@
         "work": "전쟁 두루마리",
         "reference": "8.13-19",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QM.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:dfce5f50059715846e431b10100fd3ee6a2e8eea79d3a03b5fcebc7d0cd5e03e",
-        "fixed_path": "releases/public-0.46/works/1qm/index.html#p-8-13-19"
+        "fixed_path": "releases/public-0.47/works/1qm/index.html#p-8-13-19"
       }
     },
     {
@@ -10535,7 +10535,7 @@
       "notes": [],
       "work_passage_id": "1qm:8.20-9.5",
       "html_path": "works/1qm/index.html#p-8-20-9-5",
-      "fixed_html_path": "releases/public-0.46/works/1qm/index.html#p-8-20-9-5",
+      "fixed_html_path": "releases/public-0.47/works/1qm/index.html#p-8-20-9-5",
       "alignment_revision": "sha256:f2aaae80c41a9cefb6ec4093c82965f9ef0810a7babe60808c63e8d4edf11e28",
       "review_state": {
         "human_reviewed": false,
@@ -10571,9 +10571,9 @@
         "work": "전쟁 두루마리",
         "reference": "8.20-9.5",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QM.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:7a146188e6c0b94b52c63c4f707ea459c12718e77b7d20518c0bd9fd5350acd2",
-        "fixed_path": "releases/public-0.46/works/1qm/index.html#p-8-20-9-5"
+        "fixed_path": "releases/public-0.47/works/1qm/index.html#p-8-20-9-5"
       }
     },
     {
@@ -10783,7 +10783,7 @@
       ],
       "work_passage_id": "1qm:9.5-9",
       "html_path": "works/1qm/index.html#p-9-5-9",
-      "fixed_html_path": "releases/public-0.46/works/1qm/index.html#p-9-5-9",
+      "fixed_html_path": "releases/public-0.47/works/1qm/index.html#p-9-5-9",
       "alignment_revision": "sha256:388664cae54406f5166d056fd8b143bc11fc589effe4f1f774ef020bd35bbdc3",
       "review_state": {
         "human_reviewed": false,
@@ -10819,9 +10819,9 @@
         "work": "전쟁 두루마리",
         "reference": "9.5-9",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QM.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:e11a6c5922191d4918ec7bc94531dd03643b42ea3b947c420480cca7cad4a7b6",
-        "fixed_path": "releases/public-0.46/works/1qm/index.html#p-9-5-9"
+        "fixed_path": "releases/public-0.47/works/1qm/index.html#p-9-5-9"
       }
     },
     {
@@ -11108,7 +11108,7 @@
       ],
       "work_passage_id": "1qm:9.10-13",
       "html_path": "works/1qm/index.html#p-9-10-13",
-      "fixed_html_path": "releases/public-0.46/works/1qm/index.html#p-9-10-13",
+      "fixed_html_path": "releases/public-0.47/works/1qm/index.html#p-9-10-13",
       "alignment_revision": "sha256:107111d7f02b245bb5b38cab187d0911025404c83d6d1e645691f049cb6c3e44",
       "review_state": {
         "human_reviewed": false,
@@ -11144,9 +11144,9 @@
         "work": "전쟁 두루마리",
         "reference": "9.10-13",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QM.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:4ce1d877953bc0283484074c8e984c74082ed134254c7ea37c904f44d6cd9187",
-        "fixed_path": "releases/public-0.46/works/1qm/index.html#p-9-10-13"
+        "fixed_path": "releases/public-0.47/works/1qm/index.html#p-9-10-13"
       }
     },
     {
@@ -11579,7 +11579,7 @@
       ],
       "work_passage_id": "1qm:9.13-18",
       "html_path": "works/1qm/index.html#p-9-13-18",
-      "fixed_html_path": "releases/public-0.46/works/1qm/index.html#p-9-13-18",
+      "fixed_html_path": "releases/public-0.47/works/1qm/index.html#p-9-13-18",
       "alignment_revision": "sha256:89884011f2c92b52a730b651f2b917d11e8299a86badc9b4a40f4687395e360a",
       "review_state": {
         "human_reviewed": false,
@@ -11615,9 +11615,9 @@
         "work": "전쟁 두루마리",
         "reference": "9.13-18",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QM.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:d26e7dcc9b648e15df7f4aa4c0ff402c200c14ec71ba49004e815c1002ce0fc6",
-        "fixed_path": "releases/public-0.46/works/1qm/index.html#p-9-13-18"
+        "fixed_path": "releases/public-0.47/works/1qm/index.html#p-9-13-18"
       }
     },
     {
@@ -11947,7 +11947,7 @@
       ],
       "work_passage_id": "1qm:9.18-10.5",
       "html_path": "works/1qm/index.html#p-9-18-10-5",
-      "fixed_html_path": "releases/public-0.46/works/1qm/index.html#p-9-18-10-5",
+      "fixed_html_path": "releases/public-0.47/works/1qm/index.html#p-9-18-10-5",
       "alignment_revision": "sha256:9bf178416b55ac4e940a2bbdf216063297360dbbd95e790236d31eedf0800942",
       "review_state": {
         "human_reviewed": false,
@@ -11983,9 +11983,9 @@
         "work": "전쟁 두루마리",
         "reference": "9.18-10.5",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QM.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:e8523cb294f6c131bf902dfb19de3981f112dccc23d2d046cfdb3230572e59f7",
-        "fixed_path": "releases/public-0.46/works/1qm/index.html#p-9-18-10-5"
+        "fixed_path": "releases/public-0.47/works/1qm/index.html#p-9-18-10-5"
       }
     },
     {
@@ -12215,7 +12215,7 @@
       ],
       "work_passage_id": "1qm:10.5-9",
       "html_path": "works/1qm/index.html#p-10-5-9",
-      "fixed_html_path": "releases/public-0.46/works/1qm/index.html#p-10-5-9",
+      "fixed_html_path": "releases/public-0.47/works/1qm/index.html#p-10-5-9",
       "alignment_revision": "sha256:60eb81d1f666f64aa7d06c0365d00f13d524b036ec28a601a43693e5eccf2c5f",
       "review_state": {
         "human_reviewed": false,
@@ -12251,9 +12251,9 @@
         "work": "전쟁 두루마리",
         "reference": "10.5-9",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QM.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:63276bb0cd83f0fd7191853eccb1f5392a69c780c43e543365f92d1091d65840",
-        "fixed_path": "releases/public-0.46/works/1qm/index.html#p-10-5-9"
+        "fixed_path": "releases/public-0.47/works/1qm/index.html#p-10-5-9"
       }
     },
     {
@@ -12503,7 +12503,7 @@
       ],
       "work_passage_id": "1qm:10.9-12",
       "html_path": "works/1qm/index.html#p-10-9-12",
-      "fixed_html_path": "releases/public-0.46/works/1qm/index.html#p-10-9-12",
+      "fixed_html_path": "releases/public-0.47/works/1qm/index.html#p-10-9-12",
       "alignment_revision": "sha256:589c67244282bd83872d6aa47d1e0e1ad26a154333867d954960b7b43ade460c",
       "review_state": {
         "human_reviewed": false,
@@ -12539,9 +12539,9 @@
         "work": "전쟁 두루마리",
         "reference": "10.9-12",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QM.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:a8013567c97aa9f997e249f6a293c29f15add33e94a4eb0f11585064c8afd0ec",
-        "fixed_path": "releases/public-0.46/works/1qm/index.html#p-10-9-12"
+        "fixed_path": "releases/public-0.47/works/1qm/index.html#p-10-9-12"
       }
     },
     {
@@ -12931,7 +12931,7 @@
       ],
       "work_passage_id": "1qm:10.12-18",
       "html_path": "works/1qm/index.html#p-10-12-18",
-      "fixed_html_path": "releases/public-0.46/works/1qm/index.html#p-10-12-18",
+      "fixed_html_path": "releases/public-0.47/works/1qm/index.html#p-10-12-18",
       "alignment_revision": "sha256:47fb844cc8b4c3dd32bb89d760487ba680134f052e341c6e66bd2f78b356170b",
       "review_state": {
         "human_reviewed": false,
@@ -12967,9 +12967,9 @@
         "work": "전쟁 두루마리",
         "reference": "10.12-18",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QM.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:e08e92d4fa1bc015512a19b0fdfacb69a0b1ac5e53b458bff579654f44b9b0bc",
-        "fixed_path": "releases/public-0.46/works/1qm/index.html#p-10-12-18"
+        "fixed_path": "releases/public-0.47/works/1qm/index.html#p-10-12-18"
       }
     },
     {
@@ -13214,7 +13214,7 @@
       ],
       "work_passage_id": "1qm:10.19-11.4",
       "html_path": "works/1qm/index.html#p-10-19-11-4",
-      "fixed_html_path": "releases/public-0.46/works/1qm/index.html#p-10-19-11-4",
+      "fixed_html_path": "releases/public-0.47/works/1qm/index.html#p-10-19-11-4",
       "alignment_revision": "sha256:37170bb1d7b459d34da36933a5a8744ed183249a029e2f7b5d218a0db7217a95",
       "review_state": {
         "human_reviewed": false,
@@ -13250,9 +13250,9 @@
         "work": "전쟁 두루마리",
         "reference": "10.19-11.4",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QM.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:b044695730b5df42c382f28c49de47d00b12c08d9f00a0fd6eb47f482c66b019",
-        "fixed_path": "releases/public-0.46/works/1qm/index.html#p-10-19-11-4"
+        "fixed_path": "releases/public-0.47/works/1qm/index.html#p-10-19-11-4"
       }
     },
     {
@@ -13577,7 +13577,7 @@
       ],
       "work_passage_id": "1qm:11.4-9",
       "html_path": "works/1qm/index.html#p-11-4-9",
-      "fixed_html_path": "releases/public-0.46/works/1qm/index.html#p-11-4-9",
+      "fixed_html_path": "releases/public-0.47/works/1qm/index.html#p-11-4-9",
       "alignment_revision": "sha256:97b5bfe8d0439d7680b6dada1d574d7c050220a79f659a57380b914e2413a4b0",
       "review_state": {
         "human_reviewed": false,
@@ -13613,9 +13613,9 @@
         "work": "전쟁 두루마리",
         "reference": "11.4-9",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QM.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:684a1531c25571694c4362805d5a3c2a7cf59e2fa835e9658282be137cc0635c",
-        "fixed_path": "releases/public-0.46/works/1qm/index.html#p-11-4-9"
+        "fixed_path": "releases/public-0.47/works/1qm/index.html#p-11-4-9"
       }
     },
     {
@@ -14008,7 +14008,7 @@
       ],
       "work_passage_id": "1qm:11.9-15",
       "html_path": "works/1qm/index.html#p-11-9-15",
-      "fixed_html_path": "releases/public-0.46/works/1qm/index.html#p-11-9-15",
+      "fixed_html_path": "releases/public-0.47/works/1qm/index.html#p-11-9-15",
       "alignment_revision": "sha256:53bf59339306bc42f62b604a2b28dae904f784fe1e89dfd220938e78cd8ae40f",
       "review_state": {
         "human_reviewed": false,
@@ -14044,9 +14044,9 @@
         "work": "전쟁 두루마리",
         "reference": "11.9-15",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QM.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:efa56a8f925480de03ef7ceaf11c2ed6ff9412f883521b9dcc684c17409283ea",
-        "fixed_path": "releases/public-0.46/works/1qm/index.html#p-11-9-15"
+        "fixed_path": "releases/public-0.47/works/1qm/index.html#p-11-9-15"
       }
     },
     {
@@ -14446,7 +14446,7 @@
       "notes": [],
       "work_passage_id": "1qm:11.15-12.2",
       "html_path": "works/1qm/index.html#p-11-15-12-2",
-      "fixed_html_path": "releases/public-0.46/works/1qm/index.html#p-11-15-12-2",
+      "fixed_html_path": "releases/public-0.47/works/1qm/index.html#p-11-15-12-2",
       "alignment_revision": "sha256:7d5d67a6e77829a43742ab70dd99fd84fd0a2065bea156841699f8d79d424039",
       "review_state": {
         "human_reviewed": false,
@@ -14482,9 +14482,9 @@
         "work": "전쟁 두루마리",
         "reference": "11.15-12.2",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QM.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:b938086af10d335fc4439366ab3c4ffcce878b7f754682867bebe86486211665",
-        "fixed_path": "releases/public-0.46/works/1qm/index.html#p-11-15-12-2"
+        "fixed_path": "releases/public-0.47/works/1qm/index.html#p-11-15-12-2"
       }
     },
     {
@@ -14760,7 +14760,7 @@
       ],
       "work_passage_id": "1qm:12.2-5",
       "html_path": "works/1qm/index.html#p-12-2-5",
-      "fixed_html_path": "releases/public-0.46/works/1qm/index.html#p-12-2-5",
+      "fixed_html_path": "releases/public-0.47/works/1qm/index.html#p-12-2-5",
       "alignment_revision": "sha256:6c3115fe0e8de1f29b485d63f4c658c9d27154ef4661cd387f2d8ef88873f979",
       "review_state": {
         "human_reviewed": false,
@@ -14796,9 +14796,9 @@
         "work": "전쟁 두루마리",
         "reference": "12.2-5",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QM.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:08231ee8e02272aca3a635fe009d2be7acbbbca98e0e5fb9ba414e13eee67cc4",
-        "fixed_path": "releases/public-0.46/works/1qm/index.html#p-12-2-5"
+        "fixed_path": "releases/public-0.47/works/1qm/index.html#p-12-2-5"
       }
     },
     {
@@ -15072,7 +15072,7 @@
       ],
       "work_passage_id": "1qm:12.7-10",
       "html_path": "works/1qm/index.html#p-12-7-10",
-      "fixed_html_path": "releases/public-0.46/works/1qm/index.html#p-12-7-10",
+      "fixed_html_path": "releases/public-0.47/works/1qm/index.html#p-12-7-10",
       "alignment_revision": "sha256:0efacc1a3c9ae784f082667ae781cbd7fa4097f52dce5fe2eef0ea5a597f1ce2",
       "review_state": {
         "human_reviewed": false,
@@ -15108,9 +15108,9 @@
         "work": "전쟁 두루마리",
         "reference": "12.7-10",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QM.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:efd7265c51933704f814bbe9fbbe28e9a164a044c110447631f0e0532d9f2395",
-        "fixed_path": "releases/public-0.46/works/1qm/index.html#p-12-7-10"
+        "fixed_path": "releases/public-0.47/works/1qm/index.html#p-12-7-10"
       }
     },
     {
@@ -15296,7 +15296,7 @@
       ],
       "work_passage_id": "1qm:12.10-13",
       "html_path": "works/1qm/index.html#p-12-10-13",
-      "fixed_html_path": "releases/public-0.46/works/1qm/index.html#p-12-10-13",
+      "fixed_html_path": "releases/public-0.47/works/1qm/index.html#p-12-10-13",
       "alignment_revision": "sha256:46a17b28246cae0d44a01da0b563c341ab0fd14cd2377cbf641d5588c368a6cc",
       "review_state": {
         "human_reviewed": false,
@@ -15332,9 +15332,9 @@
         "work": "전쟁 두루마리",
         "reference": "12.10-13",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QM.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:66b4a4deedfd7f4130ac5eccbe254347457a0e1a60186afa5bf5d1dd90fbcfcd",
-        "fixed_path": "releases/public-0.46/works/1qm/index.html#p-12-10-13"
+        "fixed_path": "releases/public-0.47/works/1qm/index.html#p-12-10-13"
       }
     },
     {
@@ -15650,7 +15650,7 @@
       ],
       "work_passage_id": "1qm:12.13-18",
       "html_path": "works/1qm/index.html#p-12-13-18",
-      "fixed_html_path": "releases/public-0.46/works/1qm/index.html#p-12-13-18",
+      "fixed_html_path": "releases/public-0.47/works/1qm/index.html#p-12-13-18",
       "alignment_revision": "sha256:e6350814ebd123581069b027d729196707ef3c159c06529b6e34b1bafcdf618f",
       "review_state": {
         "human_reviewed": false,
@@ -15686,9 +15686,9 @@
         "work": "전쟁 두루마리",
         "reference": "12.13-18",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QM.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:458e8fa1f7baace6fefee75c7b852ca070d6a0424d1486abfa4b135ddc72a6ec",
-        "fixed_path": "releases/public-0.46/works/1qm/index.html#p-12-13-18"
+        "fixed_path": "releases/public-0.47/works/1qm/index.html#p-12-13-18"
       }
     },
     {
@@ -16059,7 +16059,7 @@
       ],
       "work_passage_id": "1qm:12.19-13.4",
       "html_path": "works/1qm/index.html#p-12-19-13-4",
-      "fixed_html_path": "releases/public-0.46/works/1qm/index.html#p-12-19-13-4",
+      "fixed_html_path": "releases/public-0.47/works/1qm/index.html#p-12-19-13-4",
       "alignment_revision": "sha256:97b4b090b53fbcd3c2f0bfd7b2b7c152129e1090d8cac501d53c1e442cbf1477",
       "review_state": {
         "human_reviewed": false,
@@ -16095,9 +16095,9 @@
         "work": "전쟁 두루마리",
         "reference": "12.19-13.4",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QM.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:ab95989af9fb32b630e04315b9624a08ea03d601a80a728faac61ab306c182b3",
-        "fixed_path": "releases/public-0.46/works/1qm/index.html#p-12-19-13-4"
+        "fixed_path": "releases/public-0.47/works/1qm/index.html#p-12-19-13-4"
       }
     },
     {
@@ -16370,7 +16370,7 @@
       "notes": [],
       "work_passage_id": "1qm:13.4-9",
       "html_path": "works/1qm/index.html#p-13-4-9",
-      "fixed_html_path": "releases/public-0.46/works/1qm/index.html#p-13-4-9",
+      "fixed_html_path": "releases/public-0.47/works/1qm/index.html#p-13-4-9",
       "alignment_revision": "sha256:be0b2e76b933fe43c20c8646abac3dc6ce98a0135649e3fa98857ecce07a9b21",
       "review_state": {
         "human_reviewed": false,
@@ -16406,9 +16406,9 @@
         "work": "전쟁 두루마리",
         "reference": "13.4-9",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QM.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:46579ae6466a1863e532ab387eecc66a454541315e4382942e823eac62f91d49",
-        "fixed_path": "releases/public-0.46/works/1qm/index.html#p-13-4-9"
+        "fixed_path": "releases/public-0.47/works/1qm/index.html#p-13-4-9"
       }
     },
     {
@@ -16637,7 +16637,7 @@
       ],
       "work_passage_id": "1qm:13.9-12",
       "html_path": "works/1qm/index.html#p-13-9-12",
-      "fixed_html_path": "releases/public-0.46/works/1qm/index.html#p-13-9-12",
+      "fixed_html_path": "releases/public-0.47/works/1qm/index.html#p-13-9-12",
       "alignment_revision": "sha256:976b73e6205e5ec15b53e6b74b7cdc33b3fa2d53efd039062508d70fddd7105d",
       "review_state": {
         "human_reviewed": false,
@@ -16673,9 +16673,9 @@
         "work": "전쟁 두루마리",
         "reference": "13.9-12",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QM.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:4acf1d57933d0564aa19244f6ac011b84af7fa7f76f36846ccf4d6579c860b2c",
-        "fixed_path": "releases/public-0.46/works/1qm/index.html#p-13-9-12"
+        "fixed_path": "releases/public-0.47/works/1qm/index.html#p-13-9-12"
       }
     },
     {
@@ -16982,7 +16982,7 @@
       "notes": [],
       "work_passage_id": "1qm:13.12-16",
       "html_path": "works/1qm/index.html#p-13-12-16",
-      "fixed_html_path": "releases/public-0.46/works/1qm/index.html#p-13-12-16",
+      "fixed_html_path": "releases/public-0.47/works/1qm/index.html#p-13-12-16",
       "alignment_revision": "sha256:b8ef55f4f9f9986cadf354b2e7049ee1978148f0355245f496612c31d5b5c9f2",
       "review_state": {
         "human_reviewed": false,
@@ -17018,9 +17018,9 @@
         "work": "전쟁 두루마리",
         "reference": "13.12-16",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QM.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:79b9294cf8e412840e635175fcc3b313a25e68b6c82c07428e5ae5d84e35e4e3",
-        "fixed_path": "releases/public-0.46/works/1qm/index.html#p-13-12-16"
+        "fixed_path": "releases/public-0.47/works/1qm/index.html#p-13-12-16"
       }
     },
     {
@@ -17318,7 +17318,7 @@
       ],
       "work_passage_id": "1qm:13.16-14.4",
       "html_path": "works/1qm/index.html#p-13-16-14-4",
-      "fixed_html_path": "releases/public-0.46/works/1qm/index.html#p-13-16-14-4",
+      "fixed_html_path": "releases/public-0.47/works/1qm/index.html#p-13-16-14-4",
       "alignment_revision": "sha256:7e60c29c926464388273fdd5b1068fe73e3a79d9b20e4adb65cbd566fac3f593",
       "review_state": {
         "human_reviewed": false,
@@ -17354,9 +17354,9 @@
         "work": "전쟁 두루마리",
         "reference": "13.16-14.4",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QM.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:37c0f038b10c4b820fe3f6da4f154caeb98a46546a7f57e196386b9c6d1b3106",
-        "fixed_path": "releases/public-0.46/works/1qm/index.html#p-13-16-14-4"
+        "fixed_path": "releases/public-0.47/works/1qm/index.html#p-13-16-14-4"
       }
     },
     {
@@ -17578,7 +17578,7 @@
       ],
       "work_passage_id": "1qm:14.4-7",
       "html_path": "works/1qm/index.html#p-14-4-7",
-      "fixed_html_path": "releases/public-0.46/works/1qm/index.html#p-14-4-7",
+      "fixed_html_path": "releases/public-0.47/works/1qm/index.html#p-14-4-7",
       "alignment_revision": "sha256:a03bd317a5fba93812722ab079e83af3a91172d0eee6a32ee135c35726203596",
       "review_state": {
         "human_reviewed": false,
@@ -17614,9 +17614,9 @@
         "work": "전쟁 두루마리",
         "reference": "14.4-7",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QM.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:808e8330d5e499913c2ad6ac89cb0f7961d73d6c19be7c3bf662af7b9428ff48",
-        "fixed_path": "releases/public-0.46/works/1qm/index.html#p-14-4-7"
+        "fixed_path": "releases/public-0.47/works/1qm/index.html#p-14-4-7"
       }
     },
     {
@@ -17871,7 +17871,7 @@
       "notes": [],
       "work_passage_id": "1qm:14.7-10",
       "html_path": "works/1qm/index.html#p-14-7-10",
-      "fixed_html_path": "releases/public-0.46/works/1qm/index.html#p-14-7-10",
+      "fixed_html_path": "releases/public-0.47/works/1qm/index.html#p-14-7-10",
       "alignment_revision": "sha256:37a090ac71b21b106799f43093e2bf307cb343793113fc4800cd07bde0c7fd01",
       "review_state": {
         "human_reviewed": false,
@@ -17907,9 +17907,9 @@
         "work": "전쟁 두루마리",
         "reference": "14.7-10",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QM.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:3a813800c1a0ea39bb3db32bbc21a38831d88bd18790ae378f6303948a4ecdf9",
-        "fixed_path": "releases/public-0.46/works/1qm/index.html#p-14-7-10"
+        "fixed_path": "releases/public-0.47/works/1qm/index.html#p-14-7-10"
       }
     },
     {
@@ -18135,7 +18135,7 @@
       ],
       "work_passage_id": "1qm:14.10-14",
       "html_path": "works/1qm/index.html#p-14-10-14",
-      "fixed_html_path": "releases/public-0.46/works/1qm/index.html#p-14-10-14",
+      "fixed_html_path": "releases/public-0.47/works/1qm/index.html#p-14-10-14",
       "alignment_revision": "sha256:866f72e00d0fdc40199a25c3a11a631a3ce3da265010bbbd4e0473f8be4ae242",
       "review_state": {
         "human_reviewed": false,
@@ -18171,9 +18171,9 @@
         "work": "전쟁 두루마리",
         "reference": "14.10-14",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QM.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:e3bef54090fbada6907951e61e10829244e51e06103677007d78ed2dfb2e56ad",
-        "fixed_path": "releases/public-0.46/works/1qm/index.html#p-14-10-14"
+        "fixed_path": "releases/public-0.47/works/1qm/index.html#p-14-10-14"
       }
     },
     {
@@ -18530,7 +18530,7 @@
       ],
       "work_passage_id": "1qm:14.14-18",
       "html_path": "works/1qm/index.html#p-14-14-18",
-      "fixed_html_path": "releases/public-0.46/works/1qm/index.html#p-14-14-18",
+      "fixed_html_path": "releases/public-0.47/works/1qm/index.html#p-14-14-18",
       "alignment_revision": "sha256:92f7caa53d93f9e2def653d9b1af28de8ffa3d629145e3100b31b00e869a61bd",
       "review_state": {
         "human_reviewed": false,
@@ -18566,9 +18566,9 @@
         "work": "전쟁 두루마리",
         "reference": "14.14-18",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QM.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:5abc2a339585c87816aadc14d0a2c5ea37ca308a34215efac7b36aff17e8647d",
-        "fixed_path": "releases/public-0.46/works/1qm/index.html#p-14-14-18"
+        "fixed_path": "releases/public-0.47/works/1qm/index.html#p-14-14-18"
       }
     },
     {
@@ -18792,7 +18792,7 @@
       ],
       "work_passage_id": "1qm:14.19-15.3",
       "html_path": "works/1qm/index.html#p-14-19-15-3",
-      "fixed_html_path": "releases/public-0.46/works/1qm/index.html#p-14-19-15-3",
+      "fixed_html_path": "releases/public-0.47/works/1qm/index.html#p-14-19-15-3",
       "alignment_revision": "sha256:2c4fc88f2b72512fcab0f06a06912ac7457a45aa5e530193f8838d9170a06f4f",
       "review_state": {
         "human_reviewed": false,
@@ -18828,9 +18828,9 @@
         "work": "전쟁 두루마리",
         "reference": "14.19-15.3",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QM.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:7d1c50a1b30ca6102be510e6b3d6b42826857c13d80a7289c92ac71569025fb6",
-        "fixed_path": "releases/public-0.46/works/1qm/index.html#p-14-19-15-3"
+        "fixed_path": "releases/public-0.47/works/1qm/index.html#p-14-19-15-3"
       }
     },
     {
@@ -19054,7 +19054,7 @@
       ],
       "work_passage_id": "1qm:15.4-7",
       "html_path": "works/1qm/index.html#p-15-4-7",
-      "fixed_html_path": "releases/public-0.46/works/1qm/index.html#p-15-4-7",
+      "fixed_html_path": "releases/public-0.47/works/1qm/index.html#p-15-4-7",
       "alignment_revision": "sha256:0dbe365511868506d2e22eb43e2f415adf0b800e7b54e8d695eb153378b537b4",
       "review_state": {
         "human_reviewed": false,
@@ -19090,9 +19090,9 @@
         "work": "전쟁 두루마리",
         "reference": "15.4-7",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QM.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:cd3a924ff950203b1e14cba56bfe21d24b07bbb1185363fa08a463daaa80200f",
-        "fixed_path": "releases/public-0.46/works/1qm/index.html#p-15-4-7"
+        "fixed_path": "releases/public-0.47/works/1qm/index.html#p-15-4-7"
       }
     },
     {
@@ -19581,7 +19581,7 @@
       ],
       "work_passage_id": "1qm:15.7-13",
       "html_path": "works/1qm/index.html#p-15-7-13",
-      "fixed_html_path": "releases/public-0.46/works/1qm/index.html#p-15-7-13",
+      "fixed_html_path": "releases/public-0.47/works/1qm/index.html#p-15-7-13",
       "alignment_revision": "sha256:9c2608aeb3fbe14a69208ed5ff30274522034b61853681733572ed68e6e10d29",
       "review_state": {
         "human_reviewed": false,
@@ -19617,9 +19617,9 @@
         "work": "전쟁 두루마리",
         "reference": "15.7-13",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QM.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:0e2d873291f11eb3f64c13e473f9a6b15e6e2b5f96fd72bb0036f7a3753a34ff",
-        "fixed_path": "releases/public-0.46/works/1qm/index.html#p-15-7-13"
+        "fixed_path": "releases/public-0.47/works/1qm/index.html#p-15-7-13"
       }
     },
     {
@@ -20107,7 +20107,7 @@
       "notes": [],
       "work_passage_id": "1qm:15.13-20",
       "html_path": "works/1qm/index.html#p-15-13-20",
-      "fixed_html_path": "releases/public-0.46/works/1qm/index.html#p-15-13-20",
+      "fixed_html_path": "releases/public-0.47/works/1qm/index.html#p-15-13-20",
       "alignment_revision": "sha256:bd50fcfbc4956f0c73df211dc02e21eb4900ecc7b3c4a554c843344619739556",
       "review_state": {
         "human_reviewed": false,
@@ -20143,9 +20143,9 @@
         "work": "전쟁 두루마리",
         "reference": "15.13-20",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QM.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:6d79cc90ffe4c628b10c32e7d0c51e832ee908c4bbddd917cd653cac9d3bc0a1",
-        "fixed_path": "releases/public-0.46/works/1qm/index.html#p-15-13-20"
+        "fixed_path": "releases/public-0.47/works/1qm/index.html#p-15-13-20"
       }
     },
     {
@@ -20337,7 +20337,7 @@
       ],
       "work_passage_id": "1qm:16.1-4",
       "html_path": "works/1qm/index.html#p-16-1-4",
-      "fixed_html_path": "releases/public-0.46/works/1qm/index.html#p-16-1-4",
+      "fixed_html_path": "releases/public-0.47/works/1qm/index.html#p-16-1-4",
       "alignment_revision": "sha256:ee301e897a73e5b2e0367d24f774d044616472b227933418cfbebd5a793ae0d0",
       "review_state": {
         "human_reviewed": false,
@@ -20373,9 +20373,9 @@
         "work": "전쟁 두루마리",
         "reference": "16.1-4",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QM.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:a30c608fc065472d707c32d23534e1dd766289a87717e848b9dcb7ac6502cc20",
-        "fixed_path": "releases/public-0.46/works/1qm/index.html#p-16-1-4"
+        "fixed_path": "releases/public-0.47/works/1qm/index.html#p-16-1-4"
       }
     },
     {
@@ -20652,7 +20652,7 @@
       "notes": [],
       "work_passage_id": "1qm:16.4-8",
       "html_path": "works/1qm/index.html#p-16-4-8",
-      "fixed_html_path": "releases/public-0.46/works/1qm/index.html#p-16-4-8",
+      "fixed_html_path": "releases/public-0.47/works/1qm/index.html#p-16-4-8",
       "alignment_revision": "sha256:9f59b7b32153137b7cbcf0cc535a55f310980f47e6b363141a2c3e1339b2df17",
       "review_state": {
         "human_reviewed": false,
@@ -20688,9 +20688,9 @@
         "work": "전쟁 두루마리",
         "reference": "16.4-8",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QM.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:ed390d3790fb81138c29f98c168be152e8912c1c6f8c580ba07b2ae3afa6151f",
-        "fixed_path": "releases/public-0.46/works/1qm/index.html#p-16-4-8"
+        "fixed_path": "releases/public-0.47/works/1qm/index.html#p-16-4-8"
       }
     },
     {
@@ -21042,7 +21042,7 @@
       ],
       "work_passage_id": "1qm:16.8-12",
       "html_path": "works/1qm/index.html#p-16-8-12",
-      "fixed_html_path": "releases/public-0.46/works/1qm/index.html#p-16-8-12",
+      "fixed_html_path": "releases/public-0.47/works/1qm/index.html#p-16-8-12",
       "alignment_revision": "sha256:c7a1d7a0cdc50a480060b3a8ee2eb0f1e9bb66bdd2007e3fea31cf57211be4f6",
       "review_state": {
         "human_reviewed": false,
@@ -21078,9 +21078,9 @@
         "work": "전쟁 두루마리",
         "reference": "16.8-12",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QM.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:277c613cba4ee443b74bc267a1790e9676a3c6fe0616607fcd3692f76081a7e5",
-        "fixed_path": "releases/public-0.46/works/1qm/index.html#p-16-8-12"
+        "fixed_path": "releases/public-0.47/works/1qm/index.html#p-16-8-12"
       }
     },
     {
@@ -21541,7 +21541,7 @@
       ],
       "work_passage_id": "1qm:16.13-17",
       "html_path": "works/1qm/index.html#p-16-13-17",
-      "fixed_html_path": "releases/public-0.46/works/1qm/index.html#p-16-13-17",
+      "fixed_html_path": "releases/public-0.47/works/1qm/index.html#p-16-13-17",
       "alignment_revision": "sha256:00db5b2d2a5e86d582a0b255d9bccf4edfeb59ee1217fd600ccad55468883162",
       "review_state": {
         "human_reviewed": false,
@@ -21577,9 +21577,9 @@
         "work": "전쟁 두루마리",
         "reference": "16.13-17",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QM.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:042a690fae54ab29cfae05f6ca34247b3a8b905665d708186b7f277859d66a14",
-        "fixed_path": "releases/public-0.46/works/1qm/index.html#p-16-13-17"
+        "fixed_path": "releases/public-0.47/works/1qm/index.html#p-16-13-17"
       }
     },
     {
@@ -21894,7 +21894,7 @@
       ],
       "work_passage_id": "1qm:16.18-17.3",
       "html_path": "works/1qm/index.html#p-16-18-17-3",
-      "fixed_html_path": "releases/public-0.46/works/1qm/index.html#p-16-18-17-3",
+      "fixed_html_path": "releases/public-0.47/works/1qm/index.html#p-16-18-17-3",
       "alignment_revision": "sha256:3c5d534f47b2123315cdc7657487663de37b467e1221e9a7bad6d92804a1ffde",
       "review_state": {
         "human_reviewed": false,
@@ -21930,9 +21930,9 @@
         "work": "전쟁 두루마리",
         "reference": "16.18-17.3",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QM.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:5a4845fb2b456b137b9b696693854a9330864aeba35796645c76eaac5cd4bac9",
-        "fixed_path": "releases/public-0.46/works/1qm/index.html#p-16-18-17-3"
+        "fixed_path": "releases/public-0.47/works/1qm/index.html#p-16-18-17-3"
       }
     },
     {
@@ -22195,7 +22195,7 @@
       ],
       "work_passage_id": "1qm:17.4-6",
       "html_path": "works/1qm/index.html#p-17-4-6",
-      "fixed_html_path": "releases/public-0.46/works/1qm/index.html#p-17-4-6",
+      "fixed_html_path": "releases/public-0.47/works/1qm/index.html#p-17-4-6",
       "alignment_revision": "sha256:618aec3c2ca6a30104202810e4243e2b92fca3f3278c78607b410123cf766ed0",
       "review_state": {
         "human_reviewed": false,
@@ -22231,9 +22231,9 @@
         "work": "전쟁 두루마리",
         "reference": "17.4-6",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QM.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:90b90f8edfb7ab972a667e190aa3020b61730ac2258689d38c3338ceb95b3196",
-        "fixed_path": "releases/public-0.46/works/1qm/index.html#p-17-4-6"
+        "fixed_path": "releases/public-0.47/works/1qm/index.html#p-17-4-6"
       }
     },
     {
@@ -22478,7 +22478,7 @@
       "notes": [],
       "work_passage_id": "1qm:17.7-11",
       "html_path": "works/1qm/index.html#p-17-7-11",
-      "fixed_html_path": "releases/public-0.46/works/1qm/index.html#p-17-7-11",
+      "fixed_html_path": "releases/public-0.47/works/1qm/index.html#p-17-7-11",
       "alignment_revision": "sha256:8bc1449ffbc6a4612c7f3bdc7865d31dfd6f1ce508368342882ac29a01590424",
       "review_state": {
         "human_reviewed": false,
@@ -22514,9 +22514,9 @@
         "work": "전쟁 두루마리",
         "reference": "17.7-11",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QM.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:46a7a4db36f3704265f28763246feb8e575bb69ddc3d5d31d2622e37a26b2121",
-        "fixed_path": "releases/public-0.46/works/1qm/index.html#p-17-7-11"
+        "fixed_path": "releases/public-0.47/works/1qm/index.html#p-17-7-11"
       }
     },
     {
@@ -22814,7 +22814,7 @@
       "notes": [],
       "work_passage_id": "1qm:17.11-14",
       "html_path": "works/1qm/index.html#p-17-11-14",
-      "fixed_html_path": "releases/public-0.46/works/1qm/index.html#p-17-11-14",
+      "fixed_html_path": "releases/public-0.47/works/1qm/index.html#p-17-11-14",
       "alignment_revision": "sha256:70534c49d640fdf5724b0f428e7052503858fa6dce15a3d6c86a2c570f39d5bb",
       "review_state": {
         "human_reviewed": false,
@@ -22850,9 +22850,9 @@
         "work": "전쟁 두루마리",
         "reference": "17.11-14",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QM.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:1f8d54d171dd7cfddf80b7119ebd991ea4a6154223a0ac95a17aa9d7154337bb",
-        "fixed_path": "releases/public-0.46/works/1qm/index.html#p-17-11-14"
+        "fixed_path": "releases/public-0.47/works/1qm/index.html#p-17-11-14"
       }
     },
     {
@@ -23324,7 +23324,7 @@
       ],
       "work_passage_id": "1qm:17.14-18.2",
       "html_path": "works/1qm/index.html#p-17-14-18-2",
-      "fixed_html_path": "releases/public-0.46/works/1qm/index.html#p-17-14-18-2",
+      "fixed_html_path": "releases/public-0.47/works/1qm/index.html#p-17-14-18-2",
       "alignment_revision": "sha256:ad0cce72f802fa6b073bd0fd7dd649fe25df40eb684c437a10d729bbc752ae52",
       "review_state": {
         "human_reviewed": false,
@@ -23360,9 +23360,9 @@
         "work": "전쟁 두루마리",
         "reference": "17.14-18.2",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QM.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:610ec1242fac5fba359b8dfe6dc3d54f6eebc632bc494849bdb8b021fa665b23",
-        "fixed_path": "releases/public-0.46/works/1qm/index.html#p-17-14-18-2"
+        "fixed_path": "releases/public-0.47/works/1qm/index.html#p-17-14-18-2"
       }
     },
     {
@@ -23663,7 +23663,7 @@
       ],
       "work_passage_id": "1qm:18.2-6",
       "html_path": "works/1qm/index.html#p-18-2-6",
-      "fixed_html_path": "releases/public-0.46/works/1qm/index.html#p-18-2-6",
+      "fixed_html_path": "releases/public-0.47/works/1qm/index.html#p-18-2-6",
       "alignment_revision": "sha256:d3e43bac20fac83194607c305c11949f0170bb16aadaa737a780045bb7d94005",
       "review_state": {
         "human_reviewed": false,
@@ -23699,9 +23699,9 @@
         "work": "전쟁 두루마리",
         "reference": "18.2-6",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QM.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:f6ae05f7ad3f56d4c02cd1e389969afc7b4c91bc6356c5cc428c5778d6fb8e72",
-        "fixed_path": "releases/public-0.46/works/1qm/index.html#p-18-2-6"
+        "fixed_path": "releases/public-0.47/works/1qm/index.html#p-18-2-6"
       }
     },
     {
@@ -24058,7 +24058,7 @@
       ],
       "work_passage_id": "1qm:18.6-10",
       "html_path": "works/1qm/index.html#p-18-6-10",
-      "fixed_html_path": "releases/public-0.46/works/1qm/index.html#p-18-6-10",
+      "fixed_html_path": "releases/public-0.47/works/1qm/index.html#p-18-6-10",
       "alignment_revision": "sha256:f06c47e4d0a2e698713f0115862d16278b139f80719a5b4bb91230fa670155b2",
       "review_state": {
         "human_reviewed": false,
@@ -24094,9 +24094,9 @@
         "work": "전쟁 두루마리",
         "reference": "18.6-10",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QM.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:2e58af4b23feba42f59d96afffa4f1f4e5d2da0828835da7fee03fa4d047a7a2",
-        "fixed_path": "releases/public-0.46/works/1qm/index.html#p-18-6-10"
+        "fixed_path": "releases/public-0.47/works/1qm/index.html#p-18-6-10"
       }
     },
     {
@@ -24397,7 +24397,7 @@
       "notes": [],
       "work_passage_id": "1qm:18.10-13",
       "html_path": "works/1qm/index.html#p-18-10-13",
-      "fixed_html_path": "releases/public-0.46/works/1qm/index.html#p-18-10-13",
+      "fixed_html_path": "releases/public-0.47/works/1qm/index.html#p-18-10-13",
       "alignment_revision": "sha256:afd232d2cbb75426a16542062a28886bd0d58d416a5b6a8fc6bc862d2ba04b30",
       "review_state": {
         "human_reviewed": false,
@@ -24433,9 +24433,9 @@
         "work": "전쟁 두루마리",
         "reference": "18.10-13",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QM.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:abd63c4bb1922649addc2dc97d497c923cf0719fe671fd524a46ec09bf8744fb",
-        "fixed_path": "releases/public-0.46/works/1qm/index.html#p-18-10-13"
+        "fixed_path": "releases/public-0.47/works/1qm/index.html#p-18-10-13"
       }
     },
     {
@@ -24921,7 +24921,7 @@
       ],
       "work_passage_id": "1qm:18.13-19.2",
       "html_path": "works/1qm/index.html#p-18-13-19-2",
-      "fixed_html_path": "releases/public-0.46/works/1qm/index.html#p-18-13-19-2",
+      "fixed_html_path": "releases/public-0.47/works/1qm/index.html#p-18-13-19-2",
       "alignment_revision": "sha256:fd1715dc9ca3a8b190f8f9db245848de504ca7aba19fa2b64e6e7e406374289e",
       "review_state": {
         "human_reviewed": false,
@@ -24957,9 +24957,9 @@
         "work": "전쟁 두루마리",
         "reference": "18.13-19.2",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QM.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:c5b2b311fb63f3ec7189556aa19bccce6f86b061c8e93fa087bfee6757d1e535",
-        "fixed_path": "releases/public-0.46/works/1qm/index.html#p-18-13-19-2"
+        "fixed_path": "releases/public-0.47/works/1qm/index.html#p-18-13-19-2"
       }
     },
     {
@@ -25230,7 +25230,7 @@
       "notes": [],
       "work_passage_id": "1qm:19.2-5",
       "html_path": "works/1qm/index.html#p-19-2-5",
-      "fixed_html_path": "releases/public-0.46/works/1qm/index.html#p-19-2-5",
+      "fixed_html_path": "releases/public-0.47/works/1qm/index.html#p-19-2-5",
       "alignment_revision": "sha256:6adda39736458db2753a41e6db1ecf30ebaab7e110be24a39ca5976aae834f9f",
       "review_state": {
         "human_reviewed": false,
@@ -25266,9 +25266,9 @@
         "work": "전쟁 두루마리",
         "reference": "19.2-5",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QM.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:1d1727cb52ce75e513547dfffd11f1df6e3dff65557e8eb6d5f9e631c85ea60f",
-        "fixed_path": "releases/public-0.46/works/1qm/index.html#p-19-2-5"
+        "fixed_path": "releases/public-0.47/works/1qm/index.html#p-19-2-5"
       }
     },
     {
@@ -25622,7 +25622,7 @@
       ],
       "work_passage_id": "1qm:19.5-9",
       "html_path": "works/1qm/index.html#p-19-5-9",
-      "fixed_html_path": "releases/public-0.46/works/1qm/index.html#p-19-5-9",
+      "fixed_html_path": "releases/public-0.47/works/1qm/index.html#p-19-5-9",
       "alignment_revision": "sha256:4418ced4dc4ba6f444bb0ac9d0c5f6d002856503611e8f1161f914c2e824f38a",
       "review_state": {
         "human_reviewed": false,
@@ -25658,9 +25658,9 @@
         "work": "전쟁 두루마리",
         "reference": "19.5-9",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QM.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:6c39242dd1b43f38e0de79b3ec43ca1e9c0b797888ace452762a3b0a2da85878",
-        "fixed_path": "releases/public-0.46/works/1qm/index.html#p-19-5-9"
+        "fixed_path": "releases/public-0.47/works/1qm/index.html#p-19-5-9"
       }
     },
     {
@@ -26143,7 +26143,7 @@
       ],
       "work_passage_id": "1qm:19.9-14",
       "html_path": "works/1qm/index.html#p-19-9-14",
-      "fixed_html_path": "releases/public-0.46/works/1qm/index.html#p-19-9-14",
+      "fixed_html_path": "releases/public-0.47/works/1qm/index.html#p-19-9-14",
       "alignment_revision": "sha256:411d960a94876d8860bd99444750c45464745d897effc322efb3db156617447b",
       "review_state": {
         "human_reviewed": false,
@@ -26179,9 +26179,9 @@
         "work": "전쟁 두루마리",
         "reference": "19.9-14",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QM.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:cd885257800da7d06bcb11b95f5b18bd201d50766525bd141905a7372b3d7892",
-        "fixed_path": "releases/public-0.46/works/1qm/index.html#p-19-9-14"
+        "fixed_path": "releases/public-0.47/works/1qm/index.html#p-19-9-14"
       }
     },
     {
@@ -26259,7 +26259,7 @@
       ],
       "work_passage_id": "1qm:20.8",
       "html_path": "works/1qm/index.html#p-20-8",
-      "fixed_html_path": "releases/public-0.46/works/1qm/index.html#p-20-8",
+      "fixed_html_path": "releases/public-0.47/works/1qm/index.html#p-20-8",
       "alignment_revision": "sha256:caa7f8dadcde777dc8c8755281ca5163310ae047cec181564bf74236188c815e",
       "review_state": {
         "human_reviewed": false,
@@ -26295,9 +26295,9 @@
         "work": "전쟁 두루마리",
         "reference": "20.8",
         "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QM.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:7e1947ebf7544290bcc13f2f042de62a0ffefaf4fb985c1ef397068bbcf71890",
-        "fixed_path": "releases/public-0.46/works/1qm/index.html#p-20-8"
+        "fixed_path": "releases/public-0.47/works/1qm/index.html#p-20-8"
       }
     }
   ],
@@ -26321,14 +26321,14 @@
   "display_author": "익명",
   "scope": "전쟁 두루마리 채택 본문 86대목 전체",
   "coverage": "complete",
-  "release_id": "public-0.46",
+  "release_id": "public-0.47",
   "source_language": "he",
   "source_kind": "edited_ancient_original",
   "human_reviewed": false,
   "translation_method": "고정 히브리어 전사에서 직접 번역",
   "html_path": "works/1qm/index.html",
   "json_path": "data/works/1qm.json",
-  "fixed_html_path": "releases/public-0.46/works/1qm/index.html",
+  "fixed_html_path": "releases/public-0.47/works/1qm/index.html",
   "source_profile": "1qm-etcbc-2.0.1-47ecc17",
   "source_decisions": [
     {

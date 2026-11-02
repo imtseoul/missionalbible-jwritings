@@ -312,7 +312,7 @@
       ],
       "work_passage_id": "sib:3.1",
       "html_path": "works/sib/index.html#p-3-1",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-3-1",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-3-1",
       "alignment_revision": "sha256:abb20829aba20e7a00d64914612ed3fd3722acb5a37467bdb24e818924a254fe",
       "review_state": {
         "human_reviewed": false,
@@ -348,9 +348,9 @@
         "work": "시빌라의 신탁",
         "reference": "3.1",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:122231c7ebc6955a7149d3094a1be376aea32b03c18228465b3b81494f295439",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-3-1"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-3-1"
       }
     },
     {
@@ -571,7 +571,7 @@
       ],
       "work_passage_id": "sib:3.18",
       "html_path": "works/sib/index.html#p-3-18",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-3-18",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-3-18",
       "alignment_revision": "sha256:b6e2f403dd2a61484f677bcfa7192539d6c0f650c31638de0f4f5165980cb3d3",
       "review_state": {
         "human_reviewed": false,
@@ -607,9 +607,9 @@
         "work": "시빌라의 신탁",
         "reference": "3.18",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:70c882cc342139542ed4049314737f8995870d243b0b155ef83b63a79900bcce",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-3-18"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-3-18"
       }
     },
     {
@@ -829,7 +829,7 @@
       ],
       "work_passage_id": "sib:3.32",
       "html_path": "works/sib/index.html#p-3-32",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-3-32",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-3-32",
       "alignment_revision": "sha256:c65da42514e518fec630896892d87c407639e9e1bad22375d65def6805b5b6b9",
       "review_state": {
         "human_reviewed": false,
@@ -865,9 +865,9 @@
         "work": "시빌라의 신탁",
         "reference": "3.32",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:1c8b1f048611a897ad40ba4b8235112cc97acfc0ea43c417826f67c3593304a1",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-3-32"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-3-32"
       }
     },
     {
@@ -1151,7 +1151,7 @@
       ],
       "work_passage_id": "sib:3.46",
       "html_path": "works/sib/index.html#p-3-46",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-3-46",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-3-46",
       "alignment_revision": "sha256:6cad7914625b52b7e165dfca279592ffd93132c014796bc623b4770035c0079f",
       "review_state": {
         "human_reviewed": false,
@@ -1187,9 +1187,9 @@
         "work": "시빌라의 신탁",
         "reference": "3.46",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:845ba1112456753e54813e741c89bf786c5bf3add1def3d27f613994e4a4608e",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-3-46"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-3-46"
       }
     },
     {
@@ -1397,7 +1397,7 @@
       ],
       "work_passage_id": "sib:3.63",
       "html_path": "works/sib/index.html#p-3-63",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-3-63",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-3-63",
       "alignment_revision": "sha256:969d2efaf4f10b1c618ad0a874d989514b1a7b91b7d0ef8b13356275650bc365",
       "review_state": {
         "human_reviewed": false,
@@ -1433,9 +1433,9 @@
         "work": "시빌라의 신탁",
         "reference": "3.63",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:cc28729d3fc1936c029afc9cce55fb39db721f5b046903b9beff957709762bc7",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-3-63"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-3-63"
       }
     },
     {
@@ -1685,7 +1685,7 @@
       ],
       "work_passage_id": "sib:3.77",
       "html_path": "works/sib/index.html#p-3-77",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-3-77",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-3-77",
       "alignment_revision": "sha256:739acfdb730ce667719faedfbeb868bea8b473cbcb3abe61d6035a121e443d1e",
       "review_state": {
         "human_reviewed": false,
@@ -1721,9 +1721,9 @@
         "work": "시빌라의 신탁",
         "reference": "3.77",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:1ff831a2d37b292f62ae4640fcba836384a8b6b3df695b546bc590464e5f9d2b",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-3-77"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-3-77"
       }
     },
     {
@@ -1836,7 +1836,7 @@
       ],
       "work_passage_id": "sib:3.93",
       "html_path": "works/sib/index.html#p-3-93",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-3-93",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-3-93",
       "alignment_revision": "sha256:518b4cb9648fa354475d0d352ff6557edfb469062a62865043370375248b98ff",
       "review_state": {
         "human_reviewed": false,
@@ -1872,9 +1872,9 @@
         "work": "시빌라의 신탁",
         "reference": "3.93",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:de2e489d9e940ab76133d7d17e36ff36dfd88c5ad3f1c946b4c87665d576b1d0",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-3-93"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-3-93"
       }
     },
     {
@@ -2033,7 +2033,7 @@
       ],
       "work_passage_id": "sib:3.97",
       "html_path": "works/sib/index.html#p-3-97",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-3-97",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-3-97",
       "alignment_revision": "sha256:d5daa36faf740fb0455e69e810aa63a832e50954b5c4ae7bba32ea431f27a854",
       "review_state": {
         "human_reviewed": false,
@@ -2069,9 +2069,9 @@
         "work": "시빌라의 신탁",
         "reference": "3.97",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:0be5b5d5eccfb17aeea76f36eea11fa664aa14a495375d05fb9b3f011074854a",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-3-97"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-3-97"
       }
     },
     {
@@ -2254,7 +2254,7 @@
       ],
       "work_passage_id": "sib:3.105",
       "html_path": "works/sib/index.html#p-3-105",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-3-105",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-3-105",
       "alignment_revision": "sha256:72aa19d815dda070b0d082cc6814202d3522dcbeab75834d7d129b57a11edf54",
       "review_state": {
         "human_reviewed": false,
@@ -2290,9 +2290,9 @@
         "work": "시빌라의 신탁",
         "reference": "3.105",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:1347d7e404b394fbc20d6c373d37f9f9d19d43d023397ebf1ce09ac37be5f695",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-3-105"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-3-105"
       }
     },
     {
@@ -2515,7 +2515,7 @@
       ],
       "work_passage_id": "sib:3.116",
       "html_path": "works/sib/index.html#p-3-116",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-3-116",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-3-116",
       "alignment_revision": "sha256:cf3fd37b31b40c9e9b406302c641b642220f3d183d62c5be206d573847b0c320",
       "review_state": {
         "human_reviewed": false,
@@ -2551,9 +2551,9 @@
         "work": "시빌라의 신탁",
         "reference": "3.116",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:1731ef17601da63a20c9ca484aee9b3a27a054cb7ae7205d273414be85c989b4",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-3-116"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-3-116"
       }
     },
     {
@@ -2765,7 +2765,7 @@
       ],
       "work_passage_id": "sib:3.129",
       "html_path": "works/sib/index.html#p-3-129",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-3-129",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-3-129",
       "alignment_revision": "sha256:7f458616e6a3d86948a5a027e1e909a92fd7f5f29bccb02d484457db1e77d483",
       "review_state": {
         "human_reviewed": false,
@@ -2801,9 +2801,9 @@
         "work": "시빌라의 신탁",
         "reference": "3.129",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:f65f2d43232511913d8ba22fd88db0fa743df945abb17d07f36d6c86d706e1fd",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-3-129"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-3-129"
       }
     },
     {
@@ -3025,7 +3025,7 @@
       ],
       "work_passage_id": "sib:3.142",
       "html_path": "works/sib/index.html#p-3-142",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-3-142",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-3-142",
       "alignment_revision": "sha256:9bf6bf295dc2669041a4af4cf80b972b7dfbf67f4d99fd0ac1d8aa7f3a453df6",
       "review_state": {
         "human_reviewed": false,
@@ -3061,9 +3061,9 @@
         "work": "시빌라의 신탁",
         "reference": "3.142",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:6e1f80841ada21f4ebc47326ab8edcfc183007482248f4f0572050fc950a8340",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-3-142"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-3-142"
       }
     },
     {
@@ -3247,7 +3247,7 @@
       ],
       "work_passage_id": "sib:3.156",
       "html_path": "works/sib/index.html#p-3-156",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-3-156",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-3-156",
       "alignment_revision": "sha256:e02ac70ed82b9381fa78ff43becabd1868e0c4e40c31a71ac94bae4ad99408e6",
       "review_state": {
         "human_reviewed": false,
@@ -3283,9 +3283,9 @@
         "work": "시빌라의 신탁",
         "reference": "3.156",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:e1142573ef1d6a36dd8ac78fd47bec9d3605be6eb76f12d9e778df5064d36a56",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-3-156"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-3-156"
       }
     },
     {
@@ -3432,7 +3432,7 @@
       ],
       "work_passage_id": "sib:3.167",
       "html_path": "works/sib/index.html#p-3-167",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-3-167",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-3-167",
       "alignment_revision": "sha256:01b8f79a38e1075df498f33fd5f51e0872a1b14d921beb2163e571d0f53567dc",
       "review_state": {
         "human_reviewed": false,
@@ -3468,9 +3468,9 @@
         "work": "시빌라의 신탁",
         "reference": "3.167",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:cdcb2a5782c539371c93d6d409562cdeabd639e98b7e3504f15adbee731340c9",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-3-167"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-3-167"
       }
     },
     {
@@ -3745,7 +3745,7 @@
       ],
       "work_passage_id": "sib:3.175",
       "html_path": "works/sib/index.html#p-3-175",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-3-175",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-3-175",
       "alignment_revision": "sha256:c772625c2b8cd922e0b3514ec2a459dcc70f959e63603cf233d3d38c7c6fe8bf",
       "review_state": {
         "human_reviewed": false,
@@ -3781,9 +3781,9 @@
         "work": "시빌라의 신탁",
         "reference": "3.175",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:558c4981bba6f8821e4b2301b7f2e42cfa425e46b310bee8bfee5055451b9686",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-3-175"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-3-175"
       }
     },
     {
@@ -4040,7 +4040,7 @@
       ],
       "work_passage_id": "sib:3.194",
       "html_path": "works/sib/index.html#p-3-194",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-3-194",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-3-194",
       "alignment_revision": "sha256:2e51fa326eb57eb23dcc840ff486366de0225f35ff413afc75f190e9442fe2b0",
       "review_state": {
         "human_reviewed": false,
@@ -4076,9 +4076,9 @@
         "work": "시빌라의 신탁",
         "reference": "3.194",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:cbe309d63769d614eefb8ae46308cad4b87a5faad71c8e062b8d2f8738ebb3b3",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-3-194"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-3-194"
       }
     },
     {
@@ -4375,7 +4375,7 @@
       ],
       "work_passage_id": "sib:3.211",
       "html_path": "works/sib/index.html#p-3-211",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-3-211",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-3-211",
       "alignment_revision": "sha256:d0481d1773f673148f66689367a6f09918b74e0088b23127555f0f9749c9307f",
       "review_state": {
         "human_reviewed": false,
@@ -4411,9 +4411,9 @@
         "work": "시빌라의 신탁",
         "reference": "3.211",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:7a347bdc1f5a1caf0031726cbe9d48c4f9df2027a15754abd3886670cd7610bb",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-3-211"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-3-211"
       }
     },
     {
@@ -4670,7 +4670,7 @@
       ],
       "work_passage_id": "sib:3.231",
       "html_path": "works/sib/index.html#p-3-231",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-3-231",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-3-231",
       "alignment_revision": "sha256:29b6b68c18d216f1c8c4fc50b4554d9cefdd630bb4dedf785b206149f9dc5f9e",
       "review_state": {
         "human_reviewed": false,
@@ -4706,9 +4706,9 @@
         "work": "시빌라의 신탁",
         "reference": "3.231",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:4d91415b8a7595c8e0140431559a77e18dc0b42becb72180b14ceeb29bbeee0e",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-3-231"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-3-231"
       }
     },
     {
@@ -4909,7 +4909,7 @@
       ],
       "work_passage_id": "sib:3.248",
       "html_path": "works/sib/index.html#p-3-248",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-3-248",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-3-248",
       "alignment_revision": "sha256:e47299f555a1ee04ca17564e3b8ede32277790ea7443b5cddf03a5ec019a1da8",
       "review_state": {
         "human_reviewed": false,
@@ -4945,9 +4945,9 @@
         "work": "시빌라의 신탁",
         "reference": "3.248",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:effca25545178e48219c7191190c6da22d8d7d329961ee868ac26e8c1e2eec72",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-3-248"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-3-248"
       }
     },
     {
@@ -5147,7 +5147,7 @@
       ],
       "work_passage_id": "sib:3.263",
       "html_path": "works/sib/index.html#p-3-263",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-3-263",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-3-263",
       "alignment_revision": "sha256:94bba7e9ff27bea843a47a656e7ade9666fbaf8478d2888c06e49a496ec3583e",
       "review_state": {
         "human_reviewed": false,
@@ -5183,9 +5183,9 @@
         "work": "시빌라의 신탁",
         "reference": "3.263",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:7a6d38b7e0adc0fe9673c7457487608f7e67fa0669d39ed2868d529ffb55eacc",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-3-263"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-3-263"
       }
     },
     {
@@ -5427,7 +5427,7 @@
       ],
       "work_passage_id": "sib:3.273",
       "html_path": "works/sib/index.html#p-3-273",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-3-273",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-3-273",
       "alignment_revision": "sha256:a2756671843f841c245b30a26870f1f3412d256a51f27cfecbcfb848ab0ab219",
       "review_state": {
         "human_reviewed": false,
@@ -5463,9 +5463,9 @@
         "work": "시빌라의 신탁",
         "reference": "3.273",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:6c6048231639635abefc6fa358dd1e8f1c071af92f017caff19167291e6ba1b7",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-3-273"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-3-273"
       }
     },
     {
@@ -5646,7 +5646,7 @@
       ],
       "work_passage_id": "sib:3.286",
       "html_path": "works/sib/index.html#p-3-286",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-3-286",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-3-286",
       "alignment_revision": "sha256:93342bf6284e7c221d723ed92622bed04f8f3e1165d0b803b9ff0ce7460cd410",
       "review_state": {
         "human_reviewed": false,
@@ -5682,9 +5682,9 @@
         "work": "시빌라의 신탁",
         "reference": "3.286",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:112e61c3572d11afc471de0724f3530be1c633521e0e9a447eb8ea8d70327e78",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-3-286"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-3-286"
       }
     },
     {
@@ -5830,7 +5830,7 @@
       ],
       "work_passage_id": "sib:3.295",
       "html_path": "works/sib/index.html#p-3-295",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-3-295",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-3-295",
       "alignment_revision": "sha256:17f4836b33bf96477558039fa90ce52e66239b521b2f36d5d34674efbd9fa2c0",
       "review_state": {
         "human_reviewed": false,
@@ -5866,9 +5866,9 @@
         "work": "시빌라의 신탁",
         "reference": "3.295",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:3b442c74c8e46e42086e4c64da78f7804be22aba2b58987af380395ef2b338c1",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-3-295"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-3-295"
       }
     },
     {
@@ -6053,7 +6053,7 @@
       ],
       "work_passage_id": "sib:3.303",
       "html_path": "works/sib/index.html#p-3-303",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-3-303",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-3-303",
       "alignment_revision": "sha256:04e7ab9e1ae99362d84d1c3b3bfd5b60699eef35f94577676aaa07d4c8925e0e",
       "review_state": {
         "human_reviewed": false,
@@ -6089,9 +6089,9 @@
         "work": "시빌라의 신탁",
         "reference": "3.303",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:0b0d4057eb70c60a51368b9a3d58e39445de202cb661ba8d1378e7991fe0678e",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-3-303"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-3-303"
       }
     },
     {
@@ -6261,7 +6261,7 @@
       ],
       "work_passage_id": "sib:3.314",
       "html_path": "works/sib/index.html#p-3-314",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-3-314",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-3-314",
       "alignment_revision": "sha256:769c4e2f25c3d0f0179f21867d816470788ba5fcbd2eab243e3f979cb2c8dd1f",
       "review_state": {
         "human_reviewed": false,
@@ -6297,9 +6297,9 @@
         "work": "시빌라의 신탁",
         "reference": "3.314",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:32c108e24813f80f274fd92182148f7781fe56678ae512eb99d0e9dbda2eb094",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-3-314"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-3-314"
       }
     },
     {
@@ -6534,7 +6534,7 @@
       ],
       "work_passage_id": "sib:3.323",
       "html_path": "works/sib/index.html#p-3-323",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-3-323",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-3-323",
       "alignment_revision": "sha256:730bb1ca63aa4bce2cc9c75f9272930ba760df2b55bb834e06def9e91d700f9e",
       "review_state": {
         "human_reviewed": false,
@@ -6570,9 +6570,9 @@
         "work": "시빌라의 신탁",
         "reference": "3.323",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:1478f2b8caf8194103079ed1fdd097347c57640f11f357385cd373c1dc47c45b",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-3-323"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-3-323"
       }
     },
     {
@@ -6785,7 +6785,7 @@
       ],
       "work_passage_id": "sib:3.337",
       "html_path": "works/sib/index.html#p-3-337",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-3-337",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-3-337",
       "alignment_revision": "sha256:931edfc8ddb192f3cf0478e18a2bfc698ba6298029a4c69e4f39a0def98016a3",
       "review_state": {
         "human_reviewed": false,
@@ -6821,9 +6821,9 @@
         "work": "시빌라의 신탁",
         "reference": "3.337",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:5897f4ae8786c98dbbd8e99dfb629ddcada2524c4be62ef30a67e06b79438f98",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-3-337"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-3-337"
       }
     },
     {
@@ -7085,7 +7085,7 @@
       ],
       "work_passage_id": "sib:3.350",
       "html_path": "works/sib/index.html#p-3-350",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-3-350",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-3-350",
       "alignment_revision": "sha256:e3f4ee2e5ad01710d83f26f620a4afd0ebd7935561f7f2a17c27267b81f53098",
       "review_state": {
         "human_reviewed": false,
@@ -7121,9 +7121,9 @@
         "work": "시빌라의 신탁",
         "reference": "3.350",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:36625ce5778da4bc7f1720616738b08aca83bb5787fb55a3e6d534ab244961a3",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-3-350"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-3-350"
       }
     },
     {
@@ -7343,7 +7343,7 @@
       ],
       "work_passage_id": "sib:3.367",
       "html_path": "works/sib/index.html#p-3-367",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-3-367",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-3-367",
       "alignment_revision": "sha256:15c4afdbd81ec9d0401556e3a3389fc9df19e8d73c8566030273f7137118dce5",
       "review_state": {
         "human_reviewed": false,
@@ -7379,9 +7379,9 @@
         "work": "시빌라의 신탁",
         "reference": "3.367",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:9027f628c2f0bb66273ec2ae241beee97cc8cf891be4b4eefce6088f72f5b5a8",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-3-367"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-3-367"
       }
     },
     {
@@ -7718,7 +7718,7 @@
       ],
       "work_passage_id": "sib:3.381",
       "html_path": "works/sib/index.html#p-3-381",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-3-381",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-3-381",
       "alignment_revision": "sha256:da7fc8891f5954cf8bae7f6e3db875d196eb152bad7bcd45fb23d18fb04db7ac",
       "review_state": {
         "human_reviewed": false,
@@ -7754,9 +7754,9 @@
         "work": "시빌라의 신탁",
         "reference": "3.381",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:cce509eb386cbd550239714bec1667e1af4c434b2d00df3f722244812afe1a42",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-3-381"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-3-381"
       }
     },
     {
@@ -8062,7 +8062,7 @@
       ],
       "work_passage_id": "sib:3.401",
       "html_path": "works/sib/index.html#p-3-401",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-3-401",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-3-401",
       "alignment_revision": "sha256:da52760c2a7e625d11887783e9637c0942f5fa3654a7a076a7d3da43f3b506a4",
       "review_state": {
         "human_reviewed": false,
@@ -8098,9 +8098,9 @@
         "work": "시빌라의 신탁",
         "reference": "3.401",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:71061eccce7428c294eaf2c5547737a8d6e0c8e13f05d0d34c69e02057ce076a",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-3-401"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-3-401"
       }
     },
     {
@@ -8347,7 +8347,7 @@
       ],
       "work_passage_id": "sib:3.419",
       "html_path": "works/sib/index.html#p-3-419",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-3-419",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-3-419",
       "alignment_revision": "sha256:84f3802d26476b2864c8c0b9e5ad87980adac4bd93deba8d9757ae46dc2d2637",
       "review_state": {
         "human_reviewed": false,
@@ -8383,9 +8383,9 @@
         "work": "시빌라의 신탁",
         "reference": "3.419",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:91dd73d57c7d58e33a3049837886ac012c21f2fddf751ca4dd0ae9d90b57102a",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-3-419"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-3-419"
       }
     },
     {
@@ -8569,7 +8569,7 @@
       ],
       "work_passage_id": "sib:3.433",
       "html_path": "works/sib/index.html#p-3-433",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-3-433",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-3-433",
       "alignment_revision": "sha256:7fd18fc34e6e322a2db1bcc94921e805c11f847894bdb2f0ccc731464da56061",
       "review_state": {
         "human_reviewed": false,
@@ -8605,9 +8605,9 @@
         "work": "시빌라의 신탁",
         "reference": "3.433",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:a4095af61a3a21c4b5f6a10fe35c66feae49b4f1b3ed4b3f04d8263661491aea",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-3-433"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-3-433"
       }
     },
     {
@@ -8865,7 +8865,7 @@
       ],
       "work_passage_id": "sib:3.442",
       "html_path": "works/sib/index.html#p-3-442",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-3-442",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-3-442",
       "alignment_revision": "sha256:08314803dbfb76ed59872e7eae079667f9ed1f0125b70c69266c0369a348808c",
       "review_state": {
         "human_reviewed": false,
@@ -8901,9 +8901,9 @@
         "work": "시빌라의 신탁",
         "reference": "3.442",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:b8472f11ec02bead82c5104f6cf04e9efbe1ae32b8ae89ade9cd040a84a1c937",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-3-442"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-3-442"
       }
     },
     {
@@ -9144,7 +9144,7 @@
       ],
       "work_passage_id": "sib:3.457",
       "html_path": "works/sib/index.html#p-3-457",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-3-457",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-3-457",
       "alignment_revision": "sha256:5c5999d9cbffb99fc025cfe977583ea6f5d4d97ba838da2a34b9de8b565f0781",
       "review_state": {
         "human_reviewed": false,
@@ -9180,9 +9180,9 @@
         "work": "시빌라의 신탁",
         "reference": "3.457",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:a08e301d45d27c024dd1221721be857de9c5c3497950cb348d6de35dde61a0f6",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-3-457"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-3-457"
       }
     },
     {
@@ -9475,7 +9475,7 @@
       ],
       "work_passage_id": "sib:3.470",
       "html_path": "works/sib/index.html#p-3-470",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-3-470",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-3-470",
       "alignment_revision": "sha256:6755b3c5d2597a3b10073614f82f3d909370c9b3471dccf9a78f7dbcd7c1774c",
       "review_state": {
         "human_reviewed": false,
@@ -9511,9 +9511,9 @@
         "work": "시빌라의 신탁",
         "reference": "3.470",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:6f84e005d2fd06ef63a9b0aaaa5f98a721054b600fae9f0abfdf8f054a27e616",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-3-470"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-3-470"
       }
     },
     {
@@ -9729,7 +9729,7 @@
       ],
       "work_passage_id": "sib:3.489",
       "html_path": "works/sib/index.html#p-3-489",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-3-489",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-3-489",
       "alignment_revision": "sha256:64e943ddea59c6ff57226d1e9456d1f2e082b2efb93626c8e06b60c358699220",
       "review_state": {
         "human_reviewed": false,
@@ -9765,9 +9765,9 @@
         "work": "시빌라의 신탁",
         "reference": "3.489",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:cc08fb281a3503b57613caaf69d357d7b17ec9c12aec2b979299f63e4b272a0d",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-3-489"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-3-489"
       }
     },
     {
@@ -9915,7 +9915,7 @@
       ],
       "work_passage_id": "sib:3.504",
       "html_path": "works/sib/index.html#p-3-504",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-3-504",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-3-504",
       "alignment_revision": "sha256:fbf723da918d03c18a073b2f5a4cd06c031a09d063864a133100355e95966b01",
       "review_state": {
         "human_reviewed": false,
@@ -9951,9 +9951,9 @@
         "work": "시빌라의 신탁",
         "reference": "3.504",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:bfc75523a145126c13c02e2b35b9d99488bfa6d1d86d5acf7d9c3197b197ef4f",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-3-504"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-3-504"
       }
     },
     {
@@ -10100,7 +10100,7 @@
       ],
       "work_passage_id": "sib:3.512",
       "html_path": "works/sib/index.html#p-3-512",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-3-512",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-3-512",
       "alignment_revision": "sha256:205e958c9bd81a3b303ceb12a5958e2dbdb74092d793fc2a3c5edbee256c13b1",
       "review_state": {
         "human_reviewed": false,
@@ -10136,9 +10136,9 @@
         "work": "시빌라의 신탁",
         "reference": "3.512",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:63131aefbc90c36a9423eb8d41bf908f43aa55608ebea047a0f88d9aa56fcf41",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-3-512"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-3-512"
       }
     },
     {
@@ -10396,7 +10396,7 @@
       ],
       "work_passage_id": "sib:3.520",
       "html_path": "works/sib/index.html#p-3-520",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-3-520",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-3-520",
       "alignment_revision": "sha256:651f7aa0d9abcacc4cbd1dd747c474d1703761b4c7523a45c33600ffac4d1a69",
       "review_state": {
         "human_reviewed": false,
@@ -10432,9 +10432,9 @@
         "work": "시빌라의 신탁",
         "reference": "3.520",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:a74509934721d0087bf81948993c35c164090aca485379a65e66f37036509ba0",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-3-520"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-3-520"
       }
     },
     {
@@ -10581,7 +10581,7 @@
       ],
       "work_passage_id": "sib:3.537",
       "html_path": "works/sib/index.html#p-3-537",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-3-537",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-3-537",
       "alignment_revision": "sha256:b21f49d1133a09629c523121a3c16ebe64d7877ad9f61e063d37c3778a543f7b",
       "review_state": {
         "human_reviewed": false,
@@ -10617,9 +10617,9 @@
         "work": "시빌라의 신탁",
         "reference": "3.537",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:2479cc83639a0b6e100c81646d8acc7fb323079df8139cf1813f2b821e9c4296",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-3-537"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-3-537"
       }
     },
     {
@@ -10920,7 +10920,7 @@
       ],
       "work_passage_id": "sib:3.545",
       "html_path": "works/sib/index.html#p-3-545",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-3-545",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-3-545",
       "alignment_revision": "sha256:934ffc07fdcbee2c5f66a3a648b1fa8ffe7494591c5c242cb5312d94463803cd",
       "review_state": {
         "human_reviewed": false,
@@ -10956,9 +10956,9 @@
         "work": "시빌라의 신탁",
         "reference": "3.545",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:173ed0de22311cf49fa422b0e698fc8abdcdeb1b68b8445c2449ab3aea9d0efe",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-3-545"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-3-545"
       }
     },
     {
@@ -11137,7 +11137,7 @@
       ],
       "work_passage_id": "sib:3.564",
       "html_path": "works/sib/index.html#p-3-564",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-3-564",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-3-564",
       "alignment_revision": "sha256:76a6890d7f71ad7733513003be6ad42ebe8dc8dbf45388256ae94a3820d1b63d",
       "review_state": {
         "human_reviewed": false,
@@ -11173,9 +11173,9 @@
         "work": "시빌라의 신탁",
         "reference": "3.564",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:ec48aa3e0bd90fb1d9eb14e654a5e90442d42477ab44210505acaec0cf2d9894",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-3-564"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-3-564"
       }
     },
     {
@@ -11388,7 +11388,7 @@
       ],
       "work_passage_id": "sib:3.573",
       "html_path": "works/sib/index.html#p-3-573",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-3-573",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-3-573",
       "alignment_revision": "sha256:54c5b3a59ebe0dc3b22808ba9b2467d71c4e382441bf1a3761a45ca84044ad23",
       "review_state": {
         "human_reviewed": false,
@@ -11424,9 +11424,9 @@
         "work": "시빌라의 신탁",
         "reference": "3.573",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:3e6e504ad5629fdb8feef265b34a4001a12fdda58d15ae98c1f8137548ec1ad0",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-3-573"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-3-573"
       }
     },
     {
@@ -11642,7 +11642,7 @@
       ],
       "work_passage_id": "sib:3.586",
       "html_path": "works/sib/index.html#p-3-586",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-3-586",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-3-586",
       "alignment_revision": "sha256:26022790b9009da0353ccb0e3fa5a3f233887d22fc7739df0d9a94d51c1579e1",
       "review_state": {
         "human_reviewed": false,
@@ -11678,9 +11678,9 @@
         "work": "시빌라의 신탁",
         "reference": "3.586",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:1b95cdc039b059e58bcdd866f091898802ae8eb84ba98210969d8321bc3f62e0",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-3-586"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-3-586"
       }
     },
     {
@@ -11879,7 +11879,7 @@
       ],
       "work_passage_id": "sib:3.601",
       "html_path": "works/sib/index.html#p-3-601",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-3-601",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-3-601",
       "alignment_revision": "sha256:c9b856f68345685f5e68ae82bfe385c24bc29eba9fecda0cae2e2276990ebc32",
       "review_state": {
         "human_reviewed": false,
@@ -11915,9 +11915,9 @@
         "work": "시빌라의 신탁",
         "reference": "3.601",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:a9ad1ac731e805af2706a4c438a466a15c57bf18f180847b6e3b77c413cda0c0",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-3-601"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-3-601"
       }
     },
     {
@@ -12078,7 +12078,7 @@
       ],
       "work_passage_id": "sib:3.614",
       "html_path": "works/sib/index.html#p-3-614",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-3-614",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-3-614",
       "alignment_revision": "sha256:c7b23b521bc3c481568ff76842225951dccdd2d95124071ac6a1f269014bf33a",
       "review_state": {
         "human_reviewed": false,
@@ -12114,9 +12114,9 @@
         "work": "시빌라의 신탁",
         "reference": "3.614",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:2a4def103c25c977a917f303b9eb482aefb4120b7dc3ae2976baec6d0248d24e",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-3-614"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-3-614"
       }
     },
     {
@@ -12337,7 +12337,7 @@
       ],
       "work_passage_id": "sib:3.624",
       "html_path": "works/sib/index.html#p-3-624",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-3-624",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-3-624",
       "alignment_revision": "sha256:26f9e2fac558fb0ecb8430ef9d28f76d2b752fc78f7789bb30f35949db7055b5",
       "review_state": {
         "human_reviewed": false,
@@ -12373,9 +12373,9 @@
         "work": "시빌라의 신탁",
         "reference": "3.624",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:d41f4f6cb3ee75a26465a137cb3e80b6d2d2e5fe0b67318fab91048bb45844b3",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-3-624"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-3-624"
       }
     },
     {
@@ -12557,7 +12557,7 @@
       ],
       "work_passage_id": "sib:3.638",
       "html_path": "works/sib/index.html#p-3-638",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-3-638",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-3-638",
       "alignment_revision": "sha256:6d91ce5cb21270b2ba7a09591488a9e27fafbf41e71eed532c8002ac1fad1de2",
       "review_state": {
         "human_reviewed": false,
@@ -12593,9 +12593,9 @@
         "work": "시빌라의 신탁",
         "reference": "3.638",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:43b222d79a98c6e80e000034994fdefeb47070e9c082d8329bf0e7b7de2135cc",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-3-638"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-3-638"
       }
     },
     {
@@ -12741,7 +12741,7 @@
       ],
       "work_passage_id": "sib:3.649",
       "html_path": "works/sib/index.html#p-3-649",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-3-649",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-3-649",
       "alignment_revision": "sha256:a02ae817882567ca5d085ea8af987ed9413f15f6a15394b4408e466f3b052cd5",
       "review_state": {
         "human_reviewed": false,
@@ -12777,9 +12777,9 @@
         "work": "시빌라의 신탁",
         "reference": "3.649",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:2e85d2ea98b1c4359a959ada5710480dc1d7f0b8fc12199b5f680222fa887857",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-3-649"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-3-649"
       }
     },
     {
@@ -12954,7 +12954,7 @@
       ],
       "work_passage_id": "sib:3.657",
       "html_path": "works/sib/index.html#p-3-657",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-3-657",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-3-657",
       "alignment_revision": "sha256:34443b0f981c5a706004f844644cb37c9b43a2c1902252bcf8bec748b810b98b",
       "review_state": {
         "human_reviewed": false,
@@ -12990,9 +12990,9 @@
         "work": "시빌라의 신탁",
         "reference": "3.657",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:e87f94153fcfc9ac960f87a961849d7360d673286745093d587796b8da233444",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-3-657"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-3-657"
       }
     },
     {
@@ -13203,7 +13203,7 @@
       ],
       "work_passage_id": "sib:3.667",
       "html_path": "works/sib/index.html#p-3-667",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-3-667",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-3-667",
       "alignment_revision": "sha256:bf56d2bc66cb60e80961504a5763cb46a1b4762593e808c54e930a0c312851a4",
       "review_state": {
         "human_reviewed": false,
@@ -13239,9 +13239,9 @@
         "work": "시빌라의 신탁",
         "reference": "3.667",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:cb58e604cb5fcceac49ae0976798ff1263938ee3e02ff629e1bfaae8cf1b6c86",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-3-667"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-3-667"
       }
     },
     {
@@ -13452,7 +13452,7 @@
       ],
       "work_passage_id": "sib:3.680",
       "html_path": "works/sib/index.html#p-3-680",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-3-680",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-3-680",
       "alignment_revision": "sha256:53c860dc38d126a02596d739d1bf6cfbaf2a5f9985f8a1a806caf766409c7384",
       "review_state": {
         "human_reviewed": false,
@@ -13488,9 +13488,9 @@
         "work": "시빌라의 신탁",
         "reference": "3.680",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:c9f1e66b5cb64798f2332189b0ee7ea5b4e73785ba977cae9451d250d836c48e",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-3-680"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-3-680"
       }
     },
     {
@@ -13656,7 +13656,7 @@
       ],
       "work_passage_id": "sib:3.693",
       "html_path": "works/sib/index.html#p-3-693",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-3-693",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-3-693",
       "alignment_revision": "sha256:6b391543099cb138e5d17f2fdd8370b3992ad36c4d9b31af029dcb3aa64c65ff",
       "review_state": {
         "human_reviewed": false,
@@ -13692,9 +13692,9 @@
         "work": "시빌라의 신탁",
         "reference": "3.693",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:b7cd2d0057ae43a166b989c45a313caab9c30fd298a60c3f8a0693909b8b550f",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-3-693"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-3-693"
       }
     },
     {
@@ -13920,7 +13920,7 @@
       ],
       "work_passage_id": "sib:3.702",
       "html_path": "works/sib/index.html#p-3-702",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-3-702",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-3-702",
       "alignment_revision": "sha256:23b8fca443e7f9c116e2ee116117f83b9247c40231426b297902de19cba0d123",
       "review_state": {
         "human_reviewed": false,
@@ -13956,9 +13956,9 @@
         "work": "시빌라의 신탁",
         "reference": "3.702",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:d1f749e46f84f4d59845283a8264058a8e90bf1ca16403c22bfca1e77e03de88",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-3-702"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-3-702"
       }
     },
     {
@@ -14229,7 +14229,7 @@
       ],
       "work_passage_id": "sib:3.716",
       "html_path": "works/sib/index.html#p-3-716",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-3-716",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-3-716",
       "alignment_revision": "sha256:f2f969f436de3e80b07808388e4a598818ca1123cfaa61dc0ddde5040b01410d",
       "review_state": {
         "human_reviewed": false,
@@ -14265,9 +14265,9 @@
         "work": "시빌라의 신탁",
         "reference": "3.716",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:359b1b4cfd154fc9abd231fafa6b089fc66d1f482533c06332636025733140ca",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-3-716"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-3-716"
       }
     },
     {
@@ -14434,7 +14434,7 @@
       ],
       "work_passage_id": "sib:3.732",
       "html_path": "works/sib/index.html#p-3-732",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-3-732",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-3-732",
       "alignment_revision": "sha256:2691d69d14204602a52cbd2315a577372b2aeb38a6cba59816d3f7b96e6a9e0a",
       "review_state": {
         "human_reviewed": false,
@@ -14470,9 +14470,9 @@
         "work": "시빌라의 신탁",
         "reference": "3.732",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:462440023eee1481a41c354e688c49548e024e2fd6c5883e2d7f24283030102e",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-3-732"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-3-732"
       }
     },
     {
@@ -14693,7 +14693,7 @@
       ],
       "work_passage_id": "sib:3.741",
       "html_path": "works/sib/index.html#p-3-741",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-3-741",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-3-741",
       "alignment_revision": "sha256:22a1d25b529d2f1b092a6e10df7530f41448f0aaa001ce327eea41a072cffa0e",
       "review_state": {
         "human_reviewed": false,
@@ -14729,9 +14729,9 @@
         "work": "시빌라의 신탁",
         "reference": "3.741",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:c365d7af7d436d5bd11ef2880ab448d66b77248b0c7e4a714ca3adb40d74cba2",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-3-741"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-3-741"
       }
     },
     {
@@ -14923,7 +14923,7 @@
       ],
       "work_passage_id": "sib:3.755",
       "html_path": "works/sib/index.html#p-3-755",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-3-755",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-3-755",
       "alignment_revision": "sha256:b8bbb384e69111ac7fa7e61d899958dfd42e1ac0add20d9ae30504b34b096263",
       "review_state": {
         "human_reviewed": false,
@@ -14959,9 +14959,9 @@
         "work": "시빌라의 신탁",
         "reference": "3.755",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:b3b4420ae6923a7aabb997ff8ac6d778fc8f0a24781a66a3a7af2e398041bd4d",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-3-755"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-3-755"
       }
     },
     {
@@ -15227,7 +15227,7 @@
       ],
       "work_passage_id": "sib:3.767",
       "html_path": "works/sib/index.html#p-3-767",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-3-767",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-3-767",
       "alignment_revision": "sha256:b50c349bb8485acc3e7ddc59556182b59983697737d00ae09363a28d52fcaa00",
       "review_state": {
         "human_reviewed": false,
@@ -15263,9 +15263,9 @@
         "work": "시빌라의 신탁",
         "reference": "3.767",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:0b0ed264381f2405edd0acbd1cee24ce549663d9168eb316c44f9cd7a813fa52",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-3-767"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-3-767"
       }
     },
     {
@@ -15461,7 +15461,7 @@
       ],
       "work_passage_id": "sib:3.785",
       "html_path": "works/sib/index.html#p-3-785",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-3-785",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-3-785",
       "alignment_revision": "sha256:3837a93725158cde27ab3da6dd8c8eebeb94801dce3acaa378f69e0165aeab4a",
       "review_state": {
         "human_reviewed": false,
@@ -15497,9 +15497,9 @@
         "work": "시빌라의 신탁",
         "reference": "3.785",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:fc28873bedf9970c93b13c370c6477beb644949eb34970cc82135e8dca07a0c5",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-3-785"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-3-785"
       }
     },
     {
@@ -15764,7 +15764,7 @@
       ],
       "work_passage_id": "sib:3.796",
       "html_path": "works/sib/index.html#p-3-796",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-3-796",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-3-796",
       "alignment_revision": "sha256:dbe3116a4fbc98c24823160fb4c2b8bcf46eee14af4fb8d3735ddfa87fe3a048",
       "review_state": {
         "human_reviewed": false,
@@ -15800,9 +15800,9 @@
         "work": "시빌라의 신탁",
         "reference": "3.796",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:a6a514f244644361bb1e3833f02065a47c178c1220872e49ca794e29b8534216",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-3-796"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-3-796"
       }
     },
     {
@@ -16121,7 +16121,7 @@
       ],
       "work_passage_id": "sib:3.812",
       "html_path": "works/sib/index.html#p-3-812",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-3-812",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-3-812",
       "alignment_revision": "sha256:56212c4923bd727983bddee1aa94608303ad58a3dc54d4d7f938b2aa99cc733b",
       "review_state": {
         "human_reviewed": false,
@@ -16157,9 +16157,9 @@
         "work": "시빌라의 신탁",
         "reference": "3.812",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:2002c8bcc45dd6f950afbb229b0c23c4ffdc40299225cb9be69dc66d9e1fffcd",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-3-812"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-3-812"
       }
     },
     {
@@ -16355,7 +16355,7 @@
       ],
       "work_passage_id": "sib:4.1",
       "html_path": "works/sib/index.html#p-4-1",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-4-1",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-4-1",
       "alignment_revision": "sha256:0d2efde9544c3001237b4589f22998d7e15c15c4d524f6cf667a966e628d515e",
       "review_state": {
         "human_reviewed": false,
@@ -16391,9 +16391,9 @@
         "work": "시빌라의 신탁",
         "reference": "4.1",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:745e1ff64d0765baaa42659f6b25c017165f042e2a3869f2d38ca6a0369ce3f3",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-4-1"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-4-1"
       }
     },
     {
@@ -16595,7 +16595,7 @@
       ],
       "work_passage_id": "sib:4.12",
       "html_path": "works/sib/index.html#p-4-12",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-4-12",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-4-12",
       "alignment_revision": "sha256:a5bd79aaa4ad48f43a8960215c685cf82ff463a5a3003821856cf55c1cc6a996",
       "review_state": {
         "human_reviewed": false,
@@ -16631,9 +16631,9 @@
         "work": "시빌라의 신탁",
         "reference": "4.12",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:7b13e34a01e6b3279e294121d6d884adf0a949c0191b3135d11392bb56d6d1f8",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-4-12"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-4-12"
       }
     },
     {
@@ -16866,7 +16866,7 @@
       ],
       "work_passage_id": "sib:4.24",
       "html_path": "works/sib/index.html#p-4-24",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-4-24",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-4-24",
       "alignment_revision": "sha256:0fa23f43b9bc26aaffd44dd312e8bd0555cc784a97b703b423b2d651d3cef1f9",
       "review_state": {
         "human_reviewed": false,
@@ -16902,9 +16902,9 @@
         "work": "시빌라의 신탁",
         "reference": "4.24",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:107c4cc632f86d09a7c45c19d07abd3220e07eb6a4cf64f16990165ada3c6624",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-4-24"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-4-24"
       }
     },
     {
@@ -17150,7 +17150,7 @@
       ],
       "work_passage_id": "sib:4.35",
       "html_path": "works/sib/index.html#p-4-35",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-4-35",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-4-35",
       "alignment_revision": "sha256:ae626abdfb0db3fda820dbff8f23e6516edf68f35d11bbeec735b993cde06dca",
       "review_state": {
         "human_reviewed": false,
@@ -17186,9 +17186,9 @@
         "work": "시빌라의 신탁",
         "reference": "4.35",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:bb9d6065979bc7886e2aa13f8b2d7ef784aeca60e435b13e55582aad7b661c02",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-4-35"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-4-35"
       }
     },
     {
@@ -17380,7 +17380,7 @@
       ],
       "work_passage_id": "sib:4.49",
       "html_path": "works/sib/index.html#p-4-49",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-4-49",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-4-49",
       "alignment_revision": "sha256:aa6f7c954dea433930545425160bd2290910415ed0c58b0fc05a893b99ef1afd",
       "review_state": {
         "human_reviewed": false,
@@ -17416,9 +17416,9 @@
         "work": "시빌라의 신탁",
         "reference": "4.49",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:a4e37cdf5f5a06512ef0eb8d884bce47ff1635c915d919f580cd8d0b45b29e44",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-4-49"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-4-49"
       }
     },
     {
@@ -17601,7 +17601,7 @@
       ],
       "work_passage_id": "sib:4.61",
       "html_path": "works/sib/index.html#p-4-61",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-4-61",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-4-61",
       "alignment_revision": "sha256:609f3456ab3d7f38754b0d7fbc5164698abf66ba0ee429c29929331562416eff",
       "review_state": {
         "human_reviewed": false,
@@ -17637,9 +17637,9 @@
         "work": "시빌라의 신탁",
         "reference": "4.61",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:0a99915cc45c1504b8ebb16ebcfe9d11314b64054322bc42f1799bd865875a26",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-4-61"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-4-61"
       }
     },
     {
@@ -17785,7 +17785,7 @@
       ],
       "work_passage_id": "sib:4.72",
       "html_path": "works/sib/index.html#p-4-72",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-4-72",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-4-72",
       "alignment_revision": "sha256:5290fe48f6817244bd40b5fdbd5fca2786f6be30e6d53d2ce86b558cf938ee4d",
       "review_state": {
         "human_reviewed": false,
@@ -17821,9 +17821,9 @@
         "work": "시빌라의 신탁",
         "reference": "4.72",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:856c6d3fc6d1931253baa220577a22fe75edc016868aec17c2163d268fdd6fc2",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-4-72"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-4-72"
       }
     },
     {
@@ -17984,7 +17984,7 @@
       ],
       "work_passage_id": "sib:4.80",
       "html_path": "works/sib/index.html#p-4-80",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-4-80",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-4-80",
       "alignment_revision": "sha256:3e3763a0258600eab6090dc90526d13e16f95fae3f4afc1faca34b939e19948c",
       "review_state": {
         "human_reviewed": false,
@@ -18020,9 +18020,9 @@
         "work": "시빌라의 신탁",
         "reference": "4.80",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:0931b0af4e99144e50cc450ae2c9bc10b77ffba7121081d8200218ffaaf467ca",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-4-80"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-4-80"
       }
     },
     {
@@ -18190,7 +18190,7 @@
       ],
       "work_passage_id": "sib:4.88",
       "html_path": "works/sib/index.html#p-4-88",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-4-88",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-4-88",
       "alignment_revision": "sha256:43e6151ddcfa5b3468ad301fb89b32cda49fe75b62cdd51dd0379a5e621c17c7",
       "review_state": {
         "human_reviewed": false,
@@ -18226,9 +18226,9 @@
         "work": "시빌라의 신탁",
         "reference": "4.88",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:c54a55e3b2c0b814c1acb66d43a5371b89cb609b70d21b804104c8beb13dc7e5",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-4-88"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-4-88"
       }
     },
     {
@@ -18432,7 +18432,7 @@
       ],
       "work_passage_id": "sib:4.97",
       "html_path": "works/sib/index.html#p-4-97",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-4-97",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-4-97",
       "alignment_revision": "sha256:12cd914d49183d6adee1da55e2cde0382794c9ffc6073fbc33a2827ef6b67a7b",
       "review_state": {
         "human_reviewed": false,
@@ -18468,9 +18468,9 @@
         "work": "시빌라의 신탁",
         "reference": "4.97",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:4992b397196db224c4f5488a54344893135db9a3dd428d54e183e1d98ffb11af",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-4-97"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-4-97"
       }
     },
     {
@@ -18631,7 +18631,7 @@
       ],
       "work_passage_id": "sib:4.107",
       "html_path": "works/sib/index.html#p-4-107",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-4-107",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-4-107",
       "alignment_revision": "sha256:6f7b3456cc79ae68fe8c714752244c00e8d02233bff0d6c49f055c554fd1624c",
       "review_state": {
         "human_reviewed": false,
@@ -18667,9 +18667,9 @@
         "work": "시빌라의 신탁",
         "reference": "4.107",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:9b9a93b4efb337706be368782207942ebe0f565aaea2604d70e5d2532bb5d97a",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-4-107"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-4-107"
       }
     },
     {
@@ -18897,7 +18897,7 @@
       ],
       "work_passage_id": "sib:4.115",
       "html_path": "works/sib/index.html#p-4-115",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-4-115",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-4-115",
       "alignment_revision": "sha256:5a8d046586acb17e35f065b47f9ca377d5cd3e56e8721efc34f2618ea9618add",
       "review_state": {
         "human_reviewed": false,
@@ -18933,9 +18933,9 @@
         "work": "시빌라의 신탁",
         "reference": "4.115",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:49cb251cfe10e32020b2987ab24d93df99ec7700a858c1d608d0fe0f6f89c24d",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-4-115"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-4-115"
       }
     },
     {
@@ -19141,7 +19141,7 @@
       ],
       "work_passage_id": "sib:4.128",
       "html_path": "works/sib/index.html#p-4-128",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-4-128",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-4-128",
       "alignment_revision": "sha256:6f7c25be49c52f0211593fe894da0b690e1d959af04ce0d53f1d1bbdf8434b31",
       "review_state": {
         "human_reviewed": false,
@@ -19177,9 +19177,9 @@
         "work": "시빌라의 신탁",
         "reference": "4.128",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:9cb281d0fa32edcb3abcb4c862dd474d71da07a5ef93a61d874d057b89d11bf7",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-4-128"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-4-128"
       }
     },
     {
@@ -19400,7 +19400,7 @@
       ],
       "work_passage_id": "sib:4.140",
       "html_path": "works/sib/index.html#p-4-140",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-4-140",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-4-140",
       "alignment_revision": "sha256:049a4788b6c6b2bf3705d6ebc57a2f3e56a63d9753a2eef7e3f41051eac54f1c",
       "review_state": {
         "human_reviewed": false,
@@ -19436,9 +19436,9 @@
         "work": "시빌라의 신탁",
         "reference": "4.140",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:8cf7c0d14c1b7b09741775cb1898b103fee4dfa9286a6b8ae1fc1e49553c777f",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-4-140"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-4-140"
       }
     },
     {
@@ -19600,7 +19600,7 @@
       ],
       "work_passage_id": "sib:4.152",
       "html_path": "works/sib/index.html#p-4-152",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-4-152",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-4-152",
       "alignment_revision": "sha256:e7d54cff91da222488597033ba32e9715186f7442966b06ce469f8f05821badf",
       "review_state": {
         "human_reviewed": false,
@@ -19636,9 +19636,9 @@
         "work": "시빌라의 신탁",
         "reference": "4.152",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:7f24f9ff7262b1ebdd7d5c053cd59571983e36ca2a2efda1810e97e711a808df",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-4-152"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-4-152"
       }
     },
     {
@@ -19909,7 +19909,7 @@
       ],
       "work_passage_id": "sib:4.162",
       "html_path": "works/sib/index.html#p-4-162",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-4-162",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-4-162",
       "alignment_revision": "sha256:5407dcd41c4d6dd7860257496b6539709390867042dc1da44a89a11626ce9be7",
       "review_state": {
         "human_reviewed": false,
@@ -19945,9 +19945,9 @@
         "work": "시빌라의 신탁",
         "reference": "4.162",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:33236b9e0dec25c2a971c814c7710d66776d9ce7b6fee52eabeeb5f3a9d3d038",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-4-162"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-4-162"
       }
     },
     {
@@ -20196,7 +20196,7 @@
       ],
       "work_passage_id": "sib:4.179",
       "html_path": "works/sib/index.html#p-4-179",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-4-179",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-4-179",
       "alignment_revision": "sha256:b7d67993a0d0eb9053fc1e0c191ae69a95f735855e54ef0146a59baf8a409f58",
       "review_state": {
         "human_reviewed": false,
@@ -20232,9 +20232,9 @@
         "work": "시빌라의 신탁",
         "reference": "4.179",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:476f8f1c29f0e56059291265b3848947b3c68b8f4d4b7050a1fd1edd419137df",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-4-179"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-4-179"
       }
     },
     {
@@ -20474,7 +20474,7 @@
       ],
       "work_passage_id": "sib:5.1",
       "html_path": "works/sib/index.html#p-5-1",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-5-1",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-5-1",
       "alignment_revision": "sha256:34419986ede2364144adeabcddc1f5ca0644860615e83eb79f1bf1a6b71f516f",
       "review_state": {
         "human_reviewed": false,
@@ -20510,9 +20510,9 @@
         "work": "시빌라의 신탁",
         "reference": "5.1",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:f6efb7ff777e9e4a1c95e9e74a1fc3137c82781b87ecf2a7c94ff73743ce5b4b",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-5-1"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-5-1"
       }
     },
     {
@@ -20759,7 +20759,7 @@
       ],
       "work_passage_id": "sib:5.14",
       "html_path": "works/sib/index.html#p-5-14",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-5-14",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-5-14",
       "alignment_revision": "sha256:cc9d7a48123104b84ac963a304fab706456f3cfe5967a0bac28f5f2e2d661105",
       "review_state": {
         "human_reviewed": false,
@@ -20795,9 +20795,9 @@
         "work": "시빌라의 신탁",
         "reference": "5.14",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:873b075f0dcc0af06b115bbba977f3b25c12eed34e5eab24f2ea993fd45454a1",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-5-14"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-5-14"
       }
     },
     {
@@ -20948,7 +20948,7 @@
       ],
       "work_passage_id": "sib:5.28",
       "html_path": "works/sib/index.html#p-5-28",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-5-28",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-5-28",
       "alignment_revision": "sha256:27dc25a585e427215649490ba86817d3ac023e66be02842b57eb25a7ce07d34c",
       "review_state": {
         "human_reviewed": false,
@@ -20984,9 +20984,9 @@
         "work": "시빌라의 신탁",
         "reference": "5.28",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:25aa4dad2b695d1f59d0e28bf23dd798c09827c469f5525e198301b955e35f2f",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-5-28"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-5-28"
       }
     },
     {
@@ -21311,7 +21311,7 @@
       ],
       "work_passage_id": "sib:5.35",
       "html_path": "works/sib/index.html#p-5-35",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-5-35",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-5-35",
       "alignment_revision": "sha256:f309b0c426c0a467e212e6fcb1d821eb14bef3b61967e6272d11b5e6163ef17c",
       "review_state": {
         "human_reviewed": false,
@@ -21347,9 +21347,9 @@
         "work": "시빌라의 신탁",
         "reference": "5.35",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:2e857a0689417b4523104d3c322e167729acf95aa96bea80488fc0d925f3e810",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-5-35"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-5-35"
       }
     },
     {
@@ -21521,7 +21521,7 @@
       ],
       "work_passage_id": "sib:5.52",
       "html_path": "works/sib/index.html#p-5-52",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-5-52",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-5-52",
       "alignment_revision": "sha256:e3ec7d32a0f93e45eeaa5b4370a29d30d5d61caac4c55f246a9f0257c086cc89",
       "review_state": {
         "human_reviewed": false,
@@ -21557,9 +21557,9 @@
         "work": "시빌라의 신탁",
         "reference": "5.52",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:f86c8c5e806906afe63f0ac166582efb80a5e1fa9d75f49a59badfd1a91e4d6f",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-5-52"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-5-52"
       }
     },
     {
@@ -21786,7 +21786,7 @@
       ],
       "work_passage_id": "sib:5.60",
       "html_path": "works/sib/index.html#p-5-60",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-5-60",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-5-60",
       "alignment_revision": "sha256:509c3bf332bc81622e907d04a7b3d7743f51007670dad32a3ca4def54e97fe0f",
       "review_state": {
         "human_reviewed": false,
@@ -21822,9 +21822,9 @@
         "work": "시빌라의 신탁",
         "reference": "5.60",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:c38db089e4a17bcae51d4b567db6e2557e73e6637356060a4803533e34e00e0c",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-5-60"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-5-60"
       }
     },
     {
@@ -22133,7 +22133,7 @@
       ],
       "work_passage_id": "sib:5.73",
       "html_path": "works/sib/index.html#p-5-73",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-5-73",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-5-73",
       "alignment_revision": "sha256:2e1d4675f0a20c32c5bda627d59e126f6b156592f0a748a36fa2a7f87e46c8d8",
       "review_state": {
         "human_reviewed": false,
@@ -22169,9 +22169,9 @@
         "work": "시빌라의 신탁",
         "reference": "5.73",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:1251983e7670b5a6952d09a03064ab0a1cc46eb3d2399993d1e0c3e30723af15",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-5-73"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-5-73"
       }
     },
     {
@@ -22489,7 +22489,7 @@
       ],
       "work_passage_id": "sib:5.93",
       "html_path": "works/sib/index.html#p-5-93",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-5-93",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-5-93",
       "alignment_revision": "sha256:6768c54a9425699cf9c1dd620e4d4bb5c1474e0e1d95f8fe4a5e74c3dbeb32d9",
       "review_state": {
         "human_reviewed": false,
@@ -22525,9 +22525,9 @@
         "work": "시빌라의 신탁",
         "reference": "5.93",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:57a3859b0ed11e906b9f8851b4280224352be8d3e62102bb5a7664da1568c985",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-5-93"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-5-93"
       }
     },
     {
@@ -22796,7 +22796,7 @@
       ],
       "work_passage_id": "sib:5.111",
       "html_path": "works/sib/index.html#p-5-111",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-5-111",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-5-111",
       "alignment_revision": "sha256:dabd887444124a0c605e7943abf43d10a550a5c6aee009af7efc2603a6294c11",
       "review_state": {
         "human_reviewed": false,
@@ -22832,9 +22832,9 @@
         "work": "시빌라의 신탁",
         "reference": "5.111",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:11023fb1fd98f12fb87689f9b8779fa0d983beb276744bfeb7e13c7558010824",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-5-111"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-5-111"
       }
     },
     {
@@ -23021,7 +23021,7 @@
       ],
       "work_passage_id": "sib:5.126",
       "html_path": "works/sib/index.html#p-5-126",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-5-126",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-5-126",
       "alignment_revision": "sha256:83c31fbf0d910d6d9b72a345fad07137e2c1916374d95e94bcfac4d51e5648b1",
       "review_state": {
         "human_reviewed": false,
@@ -23057,9 +23057,9 @@
         "work": "시빌라의 신탁",
         "reference": "5.126",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:e5f8cd853f1044757b0882959303a673474399f45e3d57ef45b1090f468fca60",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-5-126"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-5-126"
       }
     },
     {
@@ -23378,7 +23378,7 @@
       ],
       "work_passage_id": "sib:5.137",
       "html_path": "works/sib/index.html#p-5-137",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-5-137",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-5-137",
       "alignment_revision": "sha256:fb4f84c918adbce4fcad8647a42c97fb72d50815369f5902ed57c44253349858",
       "review_state": {
         "human_reviewed": false,
@@ -23414,9 +23414,9 @@
         "work": "시빌라의 신탁",
         "reference": "5.137",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:28d16558b2e34b06550a81a78e46a53eded3e0688e4e09d3c7b6c871e5a8e7f3",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-5-137"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-5-137"
       }
     },
     {
@@ -23567,7 +23567,7 @@
       ],
       "work_passage_id": "sib:5.155",
       "html_path": "works/sib/index.html#p-5-155",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-5-155",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-5-155",
       "alignment_revision": "sha256:9ea12d2969b6b98ef44d5aa01254f66610ee7f9165f21bf27d275f12e64cf43b",
       "review_state": {
         "human_reviewed": false,
@@ -23603,9 +23603,9 @@
         "work": "시빌라의 신탁",
         "reference": "5.155",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:1cd63e2b0b413db3cbd5052573294ac208b969482244156a41b1f73effbc009c",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-5-155"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-5-155"
       }
     },
     {
@@ -23942,7 +23942,7 @@
       ],
       "work_passage_id": "sib:5.162",
       "html_path": "works/sib/index.html#p-5-162",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-5-162",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-5-162",
       "alignment_revision": "sha256:6b8132bfef36af2a81d39d51aed91f631b2af9d8e26263bafeabbd0aaeca8e24",
       "review_state": {
         "human_reviewed": false,
@@ -23978,9 +23978,9 @@
         "work": "시빌라의 신탁",
         "reference": "5.162",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:abd51a798dba303e6831fc2da613e61e65d1fe1dba560bcf3adbd6dba5793ee1",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-5-162"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-5-162"
       }
     },
     {
@@ -24277,7 +24277,7 @@
       ],
       "work_passage_id": "sib:5.179",
       "html_path": "works/sib/index.html#p-5-179",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-5-179",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-5-179",
       "alignment_revision": "sha256:ce22602e8b71c2ded5fbea2548a9ea80400e590ffd1001102399b324e1c1d16b",
       "review_state": {
         "human_reviewed": false,
@@ -24313,9 +24313,9 @@
         "work": "시빌라의 신탁",
         "reference": "5.179",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:f2ace53ef8f376cd4711895bd516e2ca50480e9b6803e7da23dc1499f951fa2b",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-5-179"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-5-179"
       }
     },
     {
@@ -24585,7 +24585,7 @@
       ],
       "work_passage_id": "sib:5.194",
       "html_path": "works/sib/index.html#p-5-194",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-5-194",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-5-194",
       "alignment_revision": "sha256:3a42d4fbcd5cdfd3048d90eca4e5a81ad2cfaad2533f58e1637f235bd18d2908",
       "review_state": {
         "human_reviewed": false,
@@ -24621,9 +24621,9 @@
         "work": "시빌라의 신탁",
         "reference": "5.194",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:fab8ea26e8ad1c7517ab4d2e812e9e66ccc83dee33b43f1bd9fdd5ea43af5096",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-5-194"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-5-194"
       }
     },
     {
@@ -24782,7 +24782,7 @@
       ],
       "work_passage_id": "sib:5.206",
       "html_path": "works/sib/index.html#p-5-206",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-5-206",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-5-206",
       "alignment_revision": "sha256:e9451643098c23f487bbbb334bc71a3c26ca563e1f2d8e66ba8612ff11c2609e",
       "review_state": {
         "human_reviewed": false,
@@ -24818,9 +24818,9 @@
         "work": "시빌라의 신탁",
         "reference": "5.206",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:d938a0ea8b84b4369f900f93a7c733ff0440e826f4cbb537b42d219d422c5c9a",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-5-206"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-5-206"
       }
     },
     {
@@ -25067,7 +25067,7 @@
       ],
       "work_passage_id": "sib:5.214",
       "html_path": "works/sib/index.html#p-5-214",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-5-214",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-5-214",
       "alignment_revision": "sha256:f4d2770b0cf3ca61b5d418fb185c636235f519edef3594c61a1df0d9ba498e56",
       "review_state": {
         "human_reviewed": false,
@@ -25103,9 +25103,9 @@
         "work": "시빌라의 신탁",
         "reference": "5.214",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:f6e90c69f16568bac47cb00c644923b4c599c2be78652516b97c4258bea03328",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-5-214"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-5-214"
       }
     },
     {
@@ -25457,7 +25457,7 @@
       ],
       "work_passage_id": "sib:5.228",
       "html_path": "works/sib/index.html#p-5-228",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-5-228",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-5-228",
       "alignment_revision": "sha256:df8d2d6eb7abc696ad3088fc682e75d2b4f80ff6d6b35ae6387092512a497ad2",
       "review_state": {
         "human_reviewed": false,
@@ -25493,9 +25493,9 @@
         "work": "시빌라의 신탁",
         "reference": "5.228",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:c73c4cce8255aa554de4268e26bbb816fe66779fee514f23b508e8c3a5e35a19",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-5-228"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-5-228"
       }
     },
     {
@@ -25749,7 +25749,7 @@
       ],
       "work_passage_id": "sib:5.247",
       "html_path": "works/sib/index.html#p-5-247",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-5-247",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-5-247",
       "alignment_revision": "sha256:8cb1d85880ea6cb4516f5e8c5a5dc76912bcfef244cb7d60e3b86eca3e7c0ead",
       "review_state": {
         "human_reviewed": false,
@@ -25785,9 +25785,9 @@
         "work": "시빌라의 신탁",
         "reference": "5.247",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:459793bbfbab2cfa285577e49d133f81f87660dd74aa0997d2fde1c7258ba2bc",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-5-247"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-5-247"
       }
     },
     {
@@ -26022,7 +26022,7 @@
       ],
       "work_passage_id": "sib:5.260",
       "html_path": "works/sib/index.html#p-5-260",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-5-260",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-5-260",
       "alignment_revision": "sha256:a12a7f432f0ad97242cff08eca551b0daf56997e403761ca0240a092b53c010c",
       "review_state": {
         "human_reviewed": false,
@@ -26058,9 +26058,9 @@
         "work": "시빌라의 신탁",
         "reference": "5.260",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:368aa4aab3abae9fe176d8938a4412ccbddcf49f6ec2be84192f8ebcd9862d96",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-5-260"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-5-260"
       }
     },
     {
@@ -26387,7 +26387,7 @@
       ],
       "work_passage_id": "sib:5.274",
       "html_path": "works/sib/index.html#p-5-274",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-5-274",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-5-274",
       "alignment_revision": "sha256:88a4ffe878bde1027fc814b5cb8717e54a65ff3ea3a7e1e9c53e3ab22cea1018",
       "review_state": {
         "human_reviewed": false,
@@ -26423,9 +26423,9 @@
         "work": "시빌라의 신탁",
         "reference": "5.274",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:951a16fc62b11ad59761bbfd9c3cc45824dac15d986d528941e155fd285a2ce5",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-5-274"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-5-274"
       }
     },
     {
@@ -26664,7 +26664,7 @@
       ],
       "work_passage_id": "sib:5.293",
       "html_path": "works/sib/index.html#p-5-293",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-5-293",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-5-293",
       "alignment_revision": "sha256:e391177b83961f51c0873e4673c2fbcbbcf23e597239d2490fb56839684bbdf1",
       "review_state": {
         "human_reviewed": false,
@@ -26700,9 +26700,9 @@
         "work": "시빌라의 신탁",
         "reference": "5.293",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:795e51bdab4c563892836c06e6b4750025efd7b3fbc3bc42e50659a85c16352e",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-5-293"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-5-293"
       }
     },
     {
@@ -26913,7 +26913,7 @@
       ],
       "work_passage_id": "sib:5.306",
       "html_path": "works/sib/index.html#p-5-306",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-5-306",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-5-306",
       "alignment_revision": "sha256:7c246874b651216d8fc89df1e507d3b18d4bed75915ff1459e7c6749f8c78518",
       "review_state": {
         "human_reviewed": false,
@@ -26949,9 +26949,9 @@
         "work": "시빌라의 신탁",
         "reference": "5.306",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:a31854e301258d24206a65eba2f4524a8413b236837c38c926d8ddae9531e3e5",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-5-306"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-5-306"
       }
     },
     {
@@ -27229,7 +27229,7 @@
       ],
       "work_passage_id": "sib:5.317",
       "html_path": "works/sib/index.html#p-5-317",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-5-317",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-5-317",
       "alignment_revision": "sha256:513021c1d79d0c390fde24cb2d006ee6665ffa92b8fab2cdc87a75bd1e83feac",
       "review_state": {
         "human_reviewed": false,
@@ -27265,9 +27265,9 @@
         "work": "시빌라의 신탁",
         "reference": "5.317",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:bcf3714acd407fb9556670998689d15ebb2fd06701850a3220cb080c80a28e79",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-5-317"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-5-317"
       }
     },
     {
@@ -27466,7 +27466,7 @@
       ],
       "work_passage_id": "sib:5.333",
       "html_path": "works/sib/index.html#p-5-333",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-5-333",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-5-333",
       "alignment_revision": "sha256:50b7da2fcaa156395a17887a324a273eb87d37881dda28e35c3c285c56f1e900",
       "review_state": {
         "human_reviewed": false,
@@ -27502,9 +27502,9 @@
         "work": "시빌라의 신탁",
         "reference": "5.333",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:fc384b5011287e2a4af49f3c14ae77065461565fb797852d7b9fe543c1228bab",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-5-333"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-5-333"
       }
     },
     {
@@ -27775,7 +27775,7 @@
       ],
       "work_passage_id": "sib:5.344",
       "html_path": "works/sib/index.html#p-5-344",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-5-344",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-5-344",
       "alignment_revision": "sha256:7b4791f5eb77e633750f307c1260179b4ee689269ed3d7dc3d77f183be477d14",
       "review_state": {
         "human_reviewed": false,
@@ -27811,9 +27811,9 @@
         "work": "시빌라의 신탁",
         "reference": "5.344",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:ea5e893156f270d5aa3161b5e07bbe1f40663b47f5bfb3a3ef9e6d4f2b9365ca",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-5-344"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-5-344"
       }
     },
     {
@@ -28052,7 +28052,7 @@
       ],
       "work_passage_id": "sib:5.361",
       "html_path": "works/sib/index.html#p-5-361",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-5-361",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-5-361",
       "alignment_revision": "sha256:88cca0c78cbb5c8423b45a2077608a0c2e8e39e55f70ba8d427cf17ae2d3e4a6",
       "review_state": {
         "human_reviewed": false,
@@ -28088,9 +28088,9 @@
         "work": "시빌라의 신탁",
         "reference": "5.361",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:cd5124aa865dc999a2e261f955917962ca40d70c84776761749d94ece9b562da",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-5-361"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-5-361"
       }
     },
     {
@@ -28353,7 +28353,7 @@
       ],
       "work_passage_id": "sib:5.374",
       "html_path": "works/sib/index.html#p-5-374",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-5-374",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-5-374",
       "alignment_revision": "sha256:51b5c756e595d2032c9733a4d749d66ac6bb0eb88117b457e97eb82884976905",
       "review_state": {
         "human_reviewed": false,
@@ -28389,9 +28389,9 @@
         "work": "시빌라의 신탁",
         "reference": "5.374",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:f26af2f3773fa7452cb9b6b78ab3869cbe933f3228412ef611aec28e46ab8058",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-5-374"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-5-374"
       }
     },
     {
@@ -28629,7 +28629,7 @@
       ],
       "work_passage_id": "sib:5.390",
       "html_path": "works/sib/index.html#p-5-390",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-5-390",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-5-390",
       "alignment_revision": "sha256:467f7c07b7c67381ea515809dc3748ca2187afd10e1719a0856ba715e95e68e1",
       "review_state": {
         "human_reviewed": false,
@@ -28665,9 +28665,9 @@
         "work": "시빌라의 신탁",
         "reference": "5.390",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:ece7009e13ea00845520e66c388480ee72c8dc947de95927dd4ed8456578ecc9",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-5-390"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-5-390"
       }
     },
     {
@@ -28877,7 +28877,7 @@
       ],
       "work_passage_id": "sib:5.403",
       "html_path": "works/sib/index.html#p-5-403",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-5-403",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-5-403",
       "alignment_revision": "sha256:4b683cdebb1017defcecc456c28bed0c5182617da52f3df6ae8984c8dafc0447",
       "review_state": {
         "human_reviewed": false,
@@ -28913,9 +28913,9 @@
         "work": "시빌라의 신탁",
         "reference": "5.403",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:54a3834f153d8051a104fe1ab16aae1b5352eea238f0d233ad44f22ac91c5d67",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-5-403"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-5-403"
       }
     },
     {
@@ -29249,7 +29249,7 @@
       ],
       "work_passage_id": "sib:5.414",
       "html_path": "works/sib/index.html#p-5-414",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-5-414",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-5-414",
       "alignment_revision": "sha256:55fbeba8b4d90da0fe03a532eb4e2b8d409506b82197783a896c4f7170daf36b",
       "review_state": {
         "human_reviewed": false,
@@ -29285,9 +29285,9 @@
         "work": "시빌라의 신탁",
         "reference": "5.414",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:b713c4fced40553a07a8c685573cddcecd9589fc9b90408c9f1443f93c71daf2",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-5-414"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-5-414"
       }
     },
     {
@@ -29527,7 +29527,7 @@
       ],
       "work_passage_id": "sib:5.434",
       "html_path": "works/sib/index.html#p-5-434",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-5-434",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-5-434",
       "alignment_revision": "sha256:9d519d980092483967631545a5476948acc7229bd87260314111d21a8d17d338",
       "review_state": {
         "human_reviewed": false,
@@ -29563,9 +29563,9 @@
         "work": "시빌라의 신탁",
         "reference": "5.434",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:3376f79e6b9704e5c876b08bb9015cd42aa75bcd9ad27fc2f2df3db30e0330e8",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-5-434"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-5-434"
       }
     },
     {
@@ -29889,7 +29889,7 @@
       ],
       "work_passage_id": "sib:5.447",
       "html_path": "works/sib/index.html#p-5-447",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-5-447",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-5-447",
       "alignment_revision": "sha256:1756f5f3ae097f0f4a7a3a5ced753af9906b95aadd62e396f7955f0116453021",
       "review_state": {
         "human_reviewed": false,
@@ -29925,9 +29925,9 @@
         "work": "시빌라의 신탁",
         "reference": "5.447",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:1adae4d35932480b0582122c3ac8e37ed21bc1bc05cf7203086d59727ee85f29",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-5-447"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-5-447"
       }
     },
     {
@@ -30144,7 +30144,7 @@
       ],
       "work_passage_id": "sib:5.464",
       "html_path": "works/sib/index.html#p-5-464",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-5-464",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-5-464",
       "alignment_revision": "sha256:797405a8797df2979fbdc62bbe6cdcb8e965f3cef1aa1110c1bc252006cd96cc",
       "review_state": {
         "human_reviewed": false,
@@ -30180,9 +30180,9 @@
         "work": "시빌라의 신탁",
         "reference": "5.464",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:80f69d72537032e2d6b9e42165da37804f3b5427ff62c4b2e5c6c838287c8c72",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-5-464"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-5-464"
       }
     },
     {
@@ -30341,7 +30341,7 @@
       ],
       "work_passage_id": "sib:5.476",
       "html_path": "works/sib/index.html#p-5-476",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-5-476",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-5-476",
       "alignment_revision": "sha256:a1c11cd2a47ebaa5376d1ecb481297a1e5123f218f0b692320357cca8842eee3",
       "review_state": {
         "human_reviewed": false,
@@ -30377,9 +30377,9 @@
         "work": "시빌라의 신탁",
         "reference": "5.476",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:94338bef6cad8e153ec42a4c410166ff3f0ac52217bdb432c58edf57370af01d",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-5-476"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-5-476"
       }
     },
     {
@@ -30727,7 +30727,7 @@
       ],
       "work_passage_id": "sib:5.484",
       "html_path": "works/sib/index.html#p-5-484",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-5-484",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-5-484",
       "alignment_revision": "sha256:ad44a704bd40162788ed841c96521455581dc09b30073f8c6030ca53cc2832dc",
       "review_state": {
         "human_reviewed": false,
@@ -30763,9 +30763,9 @@
         "work": "시빌라의 신탁",
         "reference": "5.484",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:0640a67e91e7b54a883abaf6146885391f658ac1bc176e41f1935ec196bf6f9f",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-5-484"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-5-484"
       }
     },
     {
@@ -30938,7 +30938,7 @@
       ],
       "work_passage_id": "sib:5.504",
       "html_path": "works/sib/index.html#p-5-504",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-5-504",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-5-504",
       "alignment_revision": "sha256:fe2748e2458dac28c3ede9534aee7d18b3dedb212710c5b69c28854426b26688",
       "review_state": {
         "human_reviewed": false,
@@ -30974,9 +30974,9 @@
         "work": "시빌라의 신탁",
         "reference": "5.504",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:9780c51e765308bbb05206a18b3403d33ee96f02c700bde5ce4a01b618ed594d",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-5-504"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-5-504"
       }
     },
     {
@@ -31376,7 +31376,7 @@
       ],
       "work_passage_id": "sib:5.512",
       "html_path": "works/sib/index.html#p-5-512",
-      "fixed_html_path": "releases/public-0.46/works/sib/index.html#p-5-512",
+      "fixed_html_path": "releases/public-0.47/works/sib/index.html#p-5-512",
       "alignment_revision": "sha256:55da973b4b7bb60443df8abdc8dd92aa1ae79efea5f1697089b221a403bba28b",
       "review_state": {
         "human_reviewed": false,
@@ -31412,9 +31412,9 @@
         "work": "시빌라의 신탁",
         "reference": "5.512",
         "edition": "Johannes Geffcken 편, Die Oracula Sibyllina (Die griechischen christlichen Schriftsteller 8), Leipzig: Hinrichs, 1902.",
-        "release": "public-0.46",
+        "release": "public-0.47",
         "translation_revision": "sha256:a44410549c62afb9edbe969dc1fb873a415030902e3639383105a73f9336d796",
-        "fixed_path": "releases/public-0.46/works/sib/index.html#p-5-512"
+        "fixed_path": "releases/public-0.47/works/sib/index.html#p-5-512"
       }
     }
   ],
@@ -31442,14 +31442,14 @@
   "display_author": "시빌라(필명)",
   "scope": "시빌라의 신탁 채택 본문 118대목 전체",
   "coverage": "complete",
-  "release_id": "public-0.46",
+  "release_id": "public-0.47",
   "source_language": "grc",
   "source_kind": "edited_ancient_original",
   "human_reviewed": false,
   "translation_method": "고정 원어 본문에서 직접 번역",
   "html_path": "works/sib/index.html",
   "json_path": "data/works/sib.json",
-  "fixed_html_path": "releases/public-0.46/works/sib/index.html",
+  "fixed_html_path": "releases/public-0.47/works/sib/index.html",
   "source_profile": "sib-geffcken-transcription-20261102",
   "source_decisions": [
     {

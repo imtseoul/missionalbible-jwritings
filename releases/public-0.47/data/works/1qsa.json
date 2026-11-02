@@ -1,0 +1,3951 @@
+{
+  "id": "1qsa",
+  "title": "회중 규칙",
+  "author": "익명",
+  "abbreviation": "1QSa",
+  "corpus": "jewish",
+  "language": "he",
+  "genre": "공동체 규칙",
+  "period": "제2성전기",
+  "region": "유대",
+  "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QSa.",
+  "summary": "마지막 날의 이스라엘 회중을 위한 규칙으로, 나이에 따른 교육과 직무, 회의에 참여할 수 없는 사람, 이스라엘의 메시아가 함께하는 공동 식사를 규정합니다.",
+  "topics": [
+    "마지막 날",
+    "회중",
+    "메시아",
+    "공동 식사"
+  ],
+  "notes": [],
+  "related": [],
+  "sourceUrl": "https://github.com/ETCBC/dss/blob/47ecc1738fad6e67df7d40a3e84d73e4a125e265/tf/2.0.1/full.tf",
+  "readerUrl": "https://github.com/ETCBC/dss/blob/47ecc1738fad6e67df7d40a3e84d73e4a125e265/tf/2.0.1/full.tf",
+  "license": "CC BY-NC 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "licenseEvidence": "https://github.com/ETCBC/dss/blob/47ecc1738fad6e67df7d40a3e84d73e4a125e265/docs/about.md",
+  "sourceCredit": "전사: Martin G. Abegg Jr., James E. Bowley, Edward M. Cook. Text-Fabric 변환: Jarod Jacobs, Martijn Naaijer, Dirk Roorda, CACCHT.",
+  "verified": "2026-11-02",
+  "translationCredit": "Codex 작성, 원어 직접 번역 초안",
+  "reviewer": "학술 검토 전",
+  "passages": [
+    {
+      "ref": "1.1-5",
+      "column": 1,
+      "column_end": 1,
+      "line_start": 1,
+      "line_end": 5,
+      "original": "וזה הסרך לכול עדת ישראל באחרית הימים בה(< א >)ספ׳ם[  ליחד להתה ]לך על פי משפט בני צדוק הכוהנים ואנושי ברית׳ם אשר סר#[ ו מלכת ב ]ד#רך העם ׃ המה אנושי עצת׳ו אשר שמרו ברית׳ו בתוך רשעה לכפ##[ ר בעד האר ]ץ## ׃ בבוא{ י }׳ם יקהילו אתכול הבאים מטף עד נשים וקראו בא[ וזני׳המה  ]את [ כ ]ול חוקי הברית ולהבינ׳ם בכול משפטי׳המה פן ישגו במ[ שגותי׳המ ]ה## ׃",
+      "source_layer": "edited_manuscript_transcription",
+      "source_language": "he",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:13a662221e18fa0422f897ed799bbe29a86e6ec6841fb2ee85797f8e0f6b63e6",
+      "source_file_sha256": "951ed95573ff1f78c468e6fa1b1f1750631287564534155bd5f9f0c8ae6d5542",
+      "source_line_slices": [
+        {
+          "reference": "1.1",
+          "source_range": [
+            0,
+            66
+          ],
+          "range_in_line": [
+            0,
+            66
+          ],
+          "line_original": "וזה הסרך לכול עדת ישראל באחרית הימים בה(< א >)ספ׳ם[  ליחד להתה ]לך",
+          "tf_line_node": 1553670
+        },
+        {
+          "reference": "1.2",
+          "source_range": [
+            67,
+            132
+          ],
+          "range_in_line": [
+            0,
+            65
+          ],
+          "line_original": "על פי משפט בני צדוק הכוהנים ואנושי ברית׳ם אשר סר#[ ו מלכת ב ]ד#רך",
+          "tf_line_node": 1553671
+        },
+        {
+          "reference": "1.3",
+          "source_range": [
+            133,
+            204
+          ],
+          "range_in_line": [
+            0,
+            71
+          ],
+          "line_original": "העם ׃ המה אנושי עצת׳ו אשר שמרו ברית׳ו בתוך רשעה לכפ##[ ר בעד האר ]ץ## ׃",
+          "tf_line_node": 1553672
+        },
+        {
+          "reference": "1.4",
+          "source_range": [
+            205,
+            271
+          ],
+          "range_in_line": [
+            0,
+            66
+          ],
+          "line_original": "בבוא{ י }׳ם יקהילו אתכול הבאים מטף עד נשים וקראו בא[ וזני׳המה  ]את",
+          "tf_line_node": 1553673
+        },
+        {
+          "reference": "1.5",
+          "source_range": [
+            272,
+            342
+          ],
+          "range_in_line": [
+            0,
+            70
+          ],
+          "line_original": "[ כ ]ול חוקי הברית ולהבינ׳ם בכול משפטי׳המה פן ישגו במ[ שגותי׳המ ]ה## ׃",
+          "tf_line_node": 1553674
+        }
+      ],
+      "source_locator": {
+        "scroll": "1QSa",
+        "first_line": "1.1",
+        "last_line": "1.5",
+        "line_nodes": [
+          1553670,
+          1553671,
+          1553672,
+          1553673,
+          1553674
+        ]
+      },
+      "source_annotations": [
+        {
+          "kind": "transcription_brackets",
+          "text": "(< א >)",
+          "source_range": [
+            39,
+            46
+          ]
+        },
+        {
+          "kind": "transcription_brackets",
+          "text": "[  ליחד להתה ]",
+          "source_range": [
+            50,
+            64
+          ]
+        },
+        {
+          "kind": "transcription_brackets",
+          "text": "[ ו מלכת ב ]",
+          "source_range": [
+            116,
+            128
+          ]
+        },
+        {
+          "kind": "transcription_brackets",
+          "text": "[ ר בעד האר ]",
+          "source_range": [
+            186,
+            199
+          ]
+        },
+        {
+          "kind": "transcription_brackets",
+          "text": "{ י }",
+          "source_range": [
+            209,
+            214
+          ]
+        },
+        {
+          "kind": "transcription_brackets",
+          "text": "[ וזני׳המה  ]",
+          "source_range": [
+            256,
+            269
+          ]
+        },
+        {
+          "kind": "transcription_brackets",
+          "text": "[ כ ]",
+          "source_range": [
+            272,
+            277
+          ]
+        },
+        {
+          "kind": "transcription_brackets",
+          "text": "[ שגותי׳המ ]",
+          "source_range": [
+            325,
+            337
+          ]
+        },
+        {
+          "kind": "transcription_uncertainty",
+          "text": "#",
+          "source_range": [
+            115,
+            116
+          ]
+        },
+        {
+          "kind": "transcription_uncertainty",
+          "text": "#",
+          "source_range": [
+            129,
+            130
+          ]
+        },
+        {
+          "kind": "transcription_uncertainty",
+          "text": "##",
+          "source_range": [
+            184,
+            186
+          ]
+        },
+        {
+          "kind": "transcription_uncertainty",
+          "text": "##",
+          "source_range": [
+            200,
+            202
+          ]
+        },
+        {
+          "kind": "transcription_uncertainty",
+          "text": "##",
+          "source_range": [
+            338,
+            340
+          ]
+        }
+      ],
+      "korean": "이것은 마지막 날에 이스라엘의 온 회중을 위한 규칙이다. 그들이 [공동체로] 모일 때, 사독의 아들들인 제사장들과 그들의 언약에 참여한 사람들의 법도에 따라 [살아가게 하려는 것이다]. 이들은 백성의 길[로 가기를] 그만둔 사람들이다. 그들은 악이 가득한 가운데서도 그분의 언약을 지켜 [땅을 위해] 속죄하는 그분의 회의의 사람들이다. 그들이 오면 어린아이부터 여자들까지 오는 모든 이를 불러 모은다. 언약의 모든 규례를 그들의 [귀에] 읽어 주고, 그들의 모든 법도를 깨우쳐 주어, 그들이 [자기 잘못으로] 그릇 행하지 않게 해야 한다.",
+      "translation_revision": "sha256:213b736e5a93124371c448d33549b3746509f3b36f572b97805d7ee84e957e12",
+      "groups": [
+        {
+          "id": "a-dfbe446cc649b3302871",
+          "source_range": [
+            0,
+            36
+          ],
+          "ko_range": [
+            0,
+            31
+          ],
+          "source_text": "וזה הסרך לכול עדת ישראל באחרית הימים",
+          "ko_text": "이것은 마지막 날에 이스라엘의 온 회중을 위한 규칙이다."
+        },
+        {
+          "id": "a-61283dd32508a762bf83",
+          "source_range": [
+            37,
+            108
+          ],
+          "ko_range": [
+            32,
+            103
+          ],
+          "source_text": "בה(< א >)ספ׳ם[  ליחד להתה ]לך על פי משפט בני צדוק הכוהנים ואנושי ברית׳ם",
+          "ko_text": "그들이 [공동체로] 모일 때, 사독의 아들들인 제사장들과 그들의 언약에 참여한 사람들의 법도에 따라 [살아가게 하려는 것이다]."
+        },
+        {
+          "id": "a-d660b92db55b9c262e95",
+          "source_range": [
+            109,
+            138
+          ],
+          "ko_range": [
+            104,
+            131
+          ],
+          "source_text": "אשר סר#[ ו מלכת ב ]ד#רך העם ׃",
+          "ko_text": "이들은 백성의 길[로 가기를] 그만둔 사람들이다."
+        },
+        {
+          "id": "a-5516e6c6d692bfcb7af0",
+          "source_range": [
+            139,
+            204
+          ],
+          "ko_range": [
+            132,
+            187
+          ],
+          "source_text": "המה אנושי עצת׳ו אשר שמרו ברית׳ו בתוך רשעה לכפ##[ ר בעד האר ]ץ## ׃",
+          "ko_text": "그들은 악이 가득한 가운데서도 그분의 언약을 지켜 [땅을 위해] 속죄하는 그분의 회의의 사람들이다."
+        },
+        {
+          "id": "a-6c540589a58eca69b074",
+          "source_range": [
+            205,
+            247
+          ],
+          "ko_range": [
+            188,
+            224
+          ],
+          "source_text": "בבוא{ י }׳ם יקהילו אתכול הבאים מטף עד נשים",
+          "ko_text": "그들이 오면 어린아이부터 여자들까지 오는 모든 이를 불러 모은다."
+        },
+        {
+          "id": "a-537819e175450085751f",
+          "source_range": [
+            248,
+            342
+          ],
+          "ko_range": [
+            225,
+            301
+          ],
+          "source_text": "וקראו בא[ וזני׳המה  ]את [ כ ]ול חוקי הברית ולהבינ׳ם בכול משפטי׳המה פן ישגו במ[ שגותי׳המ ]ה## ׃",
+          "ko_text": "언약의 모든 규례를 그들의 [귀에] 읽어 주고, 그들의 모든 법도를 깨우쳐 주어, 그들이 [자기 잘못으로] 그릇 행하지 않게 해야 한다."
+        }
+      ],
+      "notes": [
+        "1QSa(1Q28a)는 1동굴의 공동체 규칙(1QS) 두루마리에 이어 쓰인 두 열의 규칙서이며, 그 뒤에 축복 규칙(1QSb)이 이어진다. 첫 행의 ‘마지막 날에 이스라엘의 온 회중을 위한 규칙’이 전체의 제목 구실을 한다.",
+        "ETCBC 전사의 ׳는 형태소 경계 표지다. 대괄호는 현대 편집자의 복원이고, ?와 #은 판독의 불확실성을, (#...#)는 판독이 불확실한 글자 묶음을 표시한다. (<...>)는 현대 교정, (^...^)는 고대 행간 삽입, {...}와 {{...}}는 각각 현대와 고대의 삭제 표시다. 한국어 본문의 대괄호는 복원된 말이고 […]는 복원되지 않은 결손이다.",
+        "1.1의 בה(< א >)ספ׳ם은 필사본의 בהספם에 현대 편집자가 알레프를 넣어 ‘그들이 모일 때’(בהאספם)로 읽은 것이다. 1.4의 בבוא{ י }׳ם에서는 현대 편집자가 요드를 지웠다.",
+        "‘마지막 날에’(באחרית הימים)는 이사야 2.2의 ‘말일에’와 같은 표현이다. CD 4.4, 6.11과 1QpHab 2.5-6, 9.6도 같은 시기를 말한다.",
+        "사독의 아들들인 제사장들은 에스겔 44.15의 ‘사독의 자손 레위 사람 제사장들’에서 온 칭호이며, 1QS 5.2, 5.9에서는 언약을 지키는 이들로 불린다. 백성의 길로 가기를 그만두었다는 복원 문구는 이사야 8.11의 ‘이 백성의 길로 가지 말 것’과 같은 말이고, CD 8.16과 사본 B 19.29도 백성의 길에서 떠난 ‘이스라엘의 돌이킨 이들’(שבי ישראל)을 말한다.",
+        "‘땅을 위해 속죄한다’는 1QS 8.6, 8.10에서 공동체의 회의가 맡는 일로 나온다. 어린아이부터 여자들까지 모아 귀에 규례를 읽어 주는 장면은 신명기 31.11-12에서 남녀와 어린이를 모아 율법을 그들의 귀에 낭독하게 한 규정과 같은 말을 쓴다."
+      ],
+      "work_passage_id": "1qsa:1.1-5",
+      "html_path": "works/1qsa/index.html#p-1-1-5",
+      "fixed_html_path": "releases/public-0.47/works/1qsa/index.html#p-1-1-5",
+      "alignment_revision": "sha256:288fb78e9312cbd03722dd3a8acf5b5e28c014cf15295219ea1e45994654dee3",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_text_fabric_extraction",
+        "targets": {
+          "source_revision": "sha256:13a662221e18fa0422f897ed799bbe29a86e6ec6841fb2ee85797f8e0f6b63e6",
+          "translation_revision": "sha256:213b736e5a93124371c448d33549b3746509f3b36f572b97805d7ee84e957e12",
+          "alignment_revision": "sha256:288fb78e9312cbd03722dd3a8acf5b5e28c014cf15295219ea1e45994654dee3"
+        },
+        "scoped_ai_review": {
+          "id": "1qsa-qumran-20261102",
+          "scope": "회중 규칙 채택 본문 12대목 전체",
+          "date": "2026-11-02",
+          "targets": {
+            "source_revision": "sha256:13a662221e18fa0422f897ed799bbe29a86e6ec6841fb2ee85797f8e0f6b63e6",
+            "translation_revision": "sha256:213b736e5a93124371c448d33549b3746509f3b36f572b97805d7ee84e957e12",
+            "alignment_revision": "sha256:288fb78e9312cbd03722dd3a8acf5b5e28c014cf15295219ea1e45994654dee3"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-NC 4.0",
+        "source_url": "https://github.com/ETCBC/dss/blob/47ecc1738fad6e67df7d40a3e84d73e4a125e265/tf/2.0.1/full.tf",
+        "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-NC 4.0",
+        "alignment_license": "CC BY-NC 4.0",
+        "notice": "사해문서 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-NC 4.0으로 제공합니다. 출처와 변경 내역을 밝히고 비영리 조건을 지켜야 합니다. 전사는 읽기 문단으로 나누었으며 물리적 열·행의 주소와 편집 기호를 보존했습니다."
+      },
+      "citation": {
+        "author": "익명",
+        "work": "회중 규칙",
+        "reference": "1.1-5",
+        "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QSa.",
+        "release": "public-0.47",
+        "translation_revision": "sha256:213b736e5a93124371c448d33549b3746509f3b36f572b97805d7ee84e957e12",
+        "fixed_path": "releases/public-0.47/works/1qsa/index.html#p-1-1-5"
+      }
+    },
+    {
+      "ref": "1.6-9",
+      "column": 1,
+      "column_end": 1,
+      "line_start": 6,
+      "line_end": 9,
+      "original": "וזה (^ ה ^)סרך לכול צבאות העדה לכול האזרח בישראל ׃ ומן נע[ ורי׳ו ] [ לל ]מ#ד׳הו בספר ההגי ׃ וכפי יומי׳ו ישכילו׳הו בחוקי הברית ול#[ קחת ] [ מו ]סר׳ו במשפטי׳המה ׃ עשר שנים[     ]בוא בטב וב#[ ן ] עשרים שנ[ ה יעבר ] [ על ] הפקודים לבוא בגורל בתוך משפ[ ח ]ת׳ו ליחד בעד[ ת ] קודש ׃",
+      "source_layer": "edited_manuscript_transcription",
+      "source_language": "he",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:988c60368d1a7bace2bc83c03a8d80de938ff4f6f0246ed7262cdebd2f593418",
+      "source_file_sha256": "951ed95573ff1f78c468e6fa1b1f1750631287564534155bd5f9f0c8ae6d5542",
+      "source_line_slices": [
+        {
+          "reference": "1.6",
+          "source_range": [
+            0,
+            66
+          ],
+          "range_in_line": [
+            0,
+            66
+          ],
+          "line_original": "וזה (^ ה ^)סרך לכול צבאות העדה לכול האזרח בישראל ׃ ומן נע[ ורי׳ו ]",
+          "tf_line_node": 1553675
+        },
+        {
+          "reference": "1.7",
+          "source_range": [
+            67,
+            136
+          ],
+          "range_in_line": [
+            0,
+            69
+          ],
+          "line_original": "[ לל ]מ#ד׳הו בספר ההגי ׃ וכפי יומי׳ו ישכילו׳הו בחוקי הברית ול#[ קחת ]",
+          "tf_line_node": 1553676
+        },
+        {
+          "reference": "1.8",
+          "source_range": [
+            137,
+            211
+          ],
+          "range_in_line": [
+            0,
+            74
+          ],
+          "line_original": "[ מו ]סר׳ו במשפטי׳המה ׃ עשר שנים[     ]בוא בטב וב#[ ן ] עשרים שנ[ ה יעבר ]",
+          "tf_line_node": 1553677
+        },
+        {
+          "reference": "1.9",
+          "source_range": [
+            212,
+            275
+          ],
+          "range_in_line": [
+            0,
+            63
+          ],
+          "line_original": "[ על ] הפקודים לבוא בגורל בתוך משפ[ ח ]ת׳ו ליחד בעד[ ת ] קודש ׃ ולוא י#?[ קרב ]",
+          "tf_line_node": 1553678
+        }
+      ],
+      "source_locator": {
+        "scroll": "1QSa",
+        "first_line": "1.6",
+        "last_line": "1.9",
+        "line_nodes": [
+          1553675,
+          1553676,
+          1553677,
+          1553678
+        ]
+      },
+      "source_annotations": [
+        {
+          "kind": "transcription_brackets",
+          "text": "(^ ה ^)",
+          "source_range": [
+            4,
+            11
+          ]
+        },
+        {
+          "kind": "transcription_brackets",
+          "text": "[ ורי׳ו ]",
+          "source_range": [
+            57,
+            66
+          ]
+        },
+        {
+          "kind": "transcription_brackets",
+          "text": "[ לל ]",
+          "source_range": [
+            67,
+            73
+          ]
+        },
+        {
+          "kind": "transcription_brackets",
+          "text": "[ קחת ]",
+          "source_range": [
+            129,
+            136
+          ]
+        },
+        {
+          "kind": "transcription_brackets",
+          "text": "[ מו ]",
+          "source_range": [
+            137,
+            143
+          ]
+        },
+        {
+          "kind": "transcription_brackets",
+          "text": "[     ]",
+          "source_range": [
+            169,
+            176
+          ]
+        },
+        {
+          "kind": "transcription_brackets",
+          "text": "[ ן ]",
+          "source_range": [
+            187,
+            192
+          ]
+        },
+        {
+          "kind": "transcription_brackets",
+          "text": "[ ה יעבר ]",
+          "source_range": [
+            201,
+            211
+          ]
+        },
+        {
+          "kind": "transcription_brackets",
+          "text": "[ על ]",
+          "source_range": [
+            212,
+            218
+          ]
+        },
+        {
+          "kind": "transcription_brackets",
+          "text": "[ ח ]",
+          "source_range": [
+            246,
+            251
+          ]
+        },
+        {
+          "kind": "transcription_brackets",
+          "text": "[ ת ]",
+          "source_range": [
+            263,
+            268
+          ]
+        },
+        {
+          "kind": "transcription_uncertainty",
+          "text": "#",
+          "source_range": [
+            74,
+            75
+          ]
+        },
+        {
+          "kind": "transcription_uncertainty",
+          "text": "#",
+          "source_range": [
+            128,
+            129
+          ]
+        },
+        {
+          "kind": "transcription_uncertainty",
+          "text": "#",
+          "source_range": [
+            186,
+            187
+          ]
+        }
+      ],
+      "korean": "이것은 회중의 모든 군대, 곧 이스라엘의 모든 본토인을 위한 규칙이다. [어릴] 때부터 그에게 하기의 책을 가르친다. 그의 나이에 맞추어 언약의 규례로 그를 깨우치고, 그들의 법도 안에서 그가 [훈계를 받게] 한다. 열 해 […] 좋은 것 안으로 들어간다. 스무 살이 되면 계수된 이들 [가운데로 넘어가], 자기 가문 안에서 제비를 따라 들어가 거룩한 회중 안에서 공동체를 이룬다.",
+      "translation_revision": "sha256:63e43c813420f076ca6a442b18b4b19fba56f3f4756fe6ca3317e360ca6c5d54",
+      "groups": [
+        {
+          "id": "a-46d9440564403e4a0550",
+          "source_range": [
+            0,
+            50
+          ],
+          "ko_range": [
+            0,
+            39
+          ],
+          "source_text": "וזה (^ ה ^)סרך לכול צבאות העדה לכול האזרח בישראל ׃",
+          "ko_text": "이것은 회중의 모든 군대, 곧 이스라엘의 모든 본토인을 위한 규칙이다."
+        },
+        {
+          "id": "a-fa4fc2287e067cedcf8e",
+          "source_range": [
+            51,
+            91
+          ],
+          "ko_range": [
+            40,
+            65
+          ],
+          "source_text": "ומן נע[ ורי׳ו ] [ לל ]מ#ד׳הו בספר ההגי ׃",
+          "ko_text": "[어릴] 때부터 그에게 하기의 책을 가르친다."
+        },
+        {
+          "id": "a-a02842e5f4a8dd1185c4",
+          "source_range": [
+            92,
+            160
+          ],
+          "ko_range": [
+            66,
+            120
+          ],
+          "source_text": "וכפי יומי׳ו ישכילו׳הו בחוקי הברית ול#[ קחת ] [ מו ]סר׳ו במשפטי׳המה ׃",
+          "ko_text": "그의 나이에 맞추어 언약의 규례로 그를 깨우치고, 그들의 법도 안에서 그가 [훈계를 받게] 한다."
+        },
+        {
+          "id": "a-22eeedf3b3cc4dbf79f4",
+          "source_range": [
+            161,
+            183
+          ],
+          "ko_range": [
+            121,
+            143
+          ],
+          "source_text": "עשר שנים[     ]בוא בטב",
+          "ko_text": "열 해 […] 좋은 것 안으로 들어간다."
+        },
+        {
+          "id": "a-d240a48c215a657cca7f",
+          "source_range": [
+            184,
+            275
+          ],
+          "ko_range": [
+            144,
+            213
+          ],
+          "source_text": "וב#[ ן ] עשרים שנ[ ה יעבר ] [ על ] הפקודים לבוא בגורל בתוך משפ[ ח ]ת׳ו ליחד בעד[ ת ] קודש ׃",
+          "ko_text": "스무 살이 되면 계수된 이들 [가운데로 넘어가], 자기 가문 안에서 제비를 따라 들어가 거룩한 회중 안에서 공동체를 이룬다."
+        }
+      ],
+      "notes": [
+        "하기의 책(ספר ההגי)은 CD 10.6, 13.2, 14.7-8에서 재판관과 제사장이 정통해야 할 책으로 나온다. 어근 הגה는 시편 1.2의 ‘주야로 묵상하는도다’에 쓰인 동사다. 이 책의 내용은 전해지지 않는다.",
+        "1.8의 ‘열 해’ 뒤에는 복원되지 않은 결손이 있고, בוא는 앞 글자가 떨어져 나간 낱말이다. 이어지는 בטב는 ‘좋은 것’(טוב)을 짧게 쓴 철자와 같다. 1.4의 טף(어린아이)과 글자가 비슷하여 ‘어린아이들 가운데’로 읽는 해석도 있다. 이 결손 때문에 열 살에 무엇이 시작되는지는 확정되지 않는다.",
+        "스무 살에 계수된 이들 가운데로 넘어간다는 복원 문구는 출애굽기 30.14의 ‘계수 중에 드는 모든 자 곧 스무 살 이상 된 자’와 같은 표현이다. 민수기 1.3도 스무 살 이상을 군대에 나갈 수 있는 사람으로 센다."
+      ],
+      "work_passage_id": "1qsa:1.6-9",
+      "html_path": "works/1qsa/index.html#p-1-6-9",
+      "fixed_html_path": "releases/public-0.47/works/1qsa/index.html#p-1-6-9",
+      "alignment_revision": "sha256:1c8146d8fc38935f8db2cb6bdea6c99ed08a1b50e7aba2f540a46d6b07705c9d",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_text_fabric_extraction",
+        "targets": {
+          "source_revision": "sha256:988c60368d1a7bace2bc83c03a8d80de938ff4f6f0246ed7262cdebd2f593418",
+          "translation_revision": "sha256:63e43c813420f076ca6a442b18b4b19fba56f3f4756fe6ca3317e360ca6c5d54",
+          "alignment_revision": "sha256:1c8146d8fc38935f8db2cb6bdea6c99ed08a1b50e7aba2f540a46d6b07705c9d"
+        },
+        "scoped_ai_review": {
+          "id": "1qsa-qumran-20261102",
+          "scope": "회중 규칙 채택 본문 12대목 전체",
+          "date": "2026-11-02",
+          "targets": {
+            "source_revision": "sha256:988c60368d1a7bace2bc83c03a8d80de938ff4f6f0246ed7262cdebd2f593418",
+            "translation_revision": "sha256:63e43c813420f076ca6a442b18b4b19fba56f3f4756fe6ca3317e360ca6c5d54",
+            "alignment_revision": "sha256:1c8146d8fc38935f8db2cb6bdea6c99ed08a1b50e7aba2f540a46d6b07705c9d"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-NC 4.0",
+        "source_url": "https://github.com/ETCBC/dss/blob/47ecc1738fad6e67df7d40a3e84d73e4a125e265/tf/2.0.1/full.tf",
+        "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-NC 4.0",
+        "alignment_license": "CC BY-NC 4.0",
+        "notice": "사해문서 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-NC 4.0으로 제공합니다. 출처와 변경 내역을 밝히고 비영리 조건을 지켜야 합니다. 전사는 읽기 문단으로 나누었으며 물리적 열·행의 주소와 편집 기호를 보존했습니다."
+      },
+      "citation": {
+        "author": "익명",
+        "work": "회중 규칙",
+        "reference": "1.6-9",
+        "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QSa.",
+        "release": "public-0.47",
+        "translation_revision": "sha256:63e43c813420f076ca6a442b18b4b19fba56f3f4756fe6ca3317e360ca6c5d54",
+        "fixed_path": "releases/public-0.47/works/1qsa/index.html#p-1-6-9"
+      }
+    },
+    {
+      "ref": "1.9-13",
+      "column": 1,
+      "column_end": 1,
+      "line_start": 9,
+      "line_end": 13,
+      "original": "ולוא י#?[ קרב ] אל אשה לדעת׳ה למשכבי זכר כיאם לפי מילואת ל׳ו עש[ רי ]ם## שנה בדעת׳ו?[  טוב ] ורע ׃ ובכן תקבל להעיד עלי׳ו מ#שפטות התורא ולהת#[ י ]צב במשמע משפטים ׃ ובמלוא ב׳ו ובן חמש ועשר##ים שנה יבוא להת[ יצ ]ב ביסודות עדת הקודש לעבוד את עבודת העדה## ׃ ובן שלושים שנה יגש לריב ריב",
+      "source_layer": "edited_manuscript_transcription",
+      "source_language": "he",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:c5e08eac57607bd9caff6c356e6b66649baea99e8a977c7ed466e104a84adc10",
+      "source_file_sha256": "951ed95573ff1f78c468e6fa1b1f1750631287564534155bd5f9f0c8ae6d5542",
+      "source_line_slices": [
+        {
+          "reference": "1.9",
+          "source_range": [
+            0,
+            15
+          ],
+          "range_in_line": [
+            64,
+            79
+          ],
+          "line_original": "[ על ] הפקודים לבוא בגורל בתוך משפ[ ח ]ת׳ו ליחד בעד[ ת ] קודש ׃ ולוא י#?[ קרב ]",
+          "tf_line_node": 1553678
+        },
+        {
+          "reference": "1.10",
+          "source_range": [
+            16,
+            92
+          ],
+          "range_in_line": [
+            0,
+            76
+          ],
+          "line_original": "אל אשה לדעת׳ה למשכבי זכר כיאם לפי מילואת ל׳ו עש[ רי ]ם## שנה בדעת׳ו?[  טוב ]",
+          "tf_line_node": 1553679
+        },
+        {
+          "reference": "1.11",
+          "source_range": [
+            93,
+            162
+          ],
+          "range_in_line": [
+            0,
+            69
+          ],
+          "line_original": "ורע ׃ ובכן תקבל להעיד עלי׳ו מ#שפטות התורא ולהת#[ י ]צב במשמע משפטים ׃",
+          "tf_line_node": 1553680
+        },
+        {
+          "reference": "1.12",
+          "source_range": [
+            163,
+            222
+          ],
+          "range_in_line": [
+            0,
+            59
+          ],
+          "line_original": "ובמלוא ב׳ו ובן חמש ועשר##ים שנה יבוא להת[ יצ ]ב ביסודות עדת",
+          "tf_line_node": 1553681
+        },
+        {
+          "reference": "1.13",
+          "source_range": [
+            223,
+            280
+          ],
+          "range_in_line": [
+            0,
+            57
+          ],
+          "line_original": "הקודש לעבוד את עבודת העדה## ׃ ובן שלושים שנה יגש לריב ריב",
+          "tf_line_node": 1553682
+        }
+      ],
+      "source_locator": {
+        "scroll": "1QSa",
+        "first_line": "1.9",
+        "last_line": "1.13",
+        "line_nodes": [
+          1553678,
+          1553679,
+          1553680,
+          1553681,
+          1553682
+        ]
+      },
+      "source_annotations": [
+        {
+          "kind": "transcription_brackets",
+          "text": "[ קרב ]",
+          "source_range": [
+            8,
+            15
+          ]
+        },
+        {
+          "kind": "transcription_brackets",
+          "text": "[ רי ]",
+          "source_range": [
+            63,
+            69
+          ]
+        },
+        {
+          "kind": "transcription_brackets",
+          "text": "[  טוב ]",
+          "source_range": [
+            84,
+            92
+          ]
+        },
+        {
+          "kind": "transcription_brackets",
+          "text": "[ י ]",
+          "source_range": [
+            140,
+            145
+          ]
+        },
+        {
+          "kind": "transcription_brackets",
+          "text": "[ יצ ]",
+          "source_range": [
+            203,
+            209
+          ]
+        },
+        {
+          "kind": "transcription_uncertainty",
+          "text": "#?",
+          "source_range": [
+            6,
+            8
+          ]
+        },
+        {
+          "kind": "transcription_uncertainty",
+          "text": "##",
+          "source_range": [
+            70,
+            72
+          ]
+        },
+        {
+          "kind": "transcription_uncertainty",
+          "text": "?",
+          "source_range": [
+            83,
+            84
+          ]
+        },
+        {
+          "kind": "transcription_uncertainty",
+          "text": "#",
+          "source_range": [
+            122,
+            123
+          ]
+        },
+        {
+          "kind": "transcription_uncertainty",
+          "text": "#",
+          "source_range": [
+            139,
+            140
+          ]
+        },
+        {
+          "kind": "transcription_uncertainty",
+          "text": "##",
+          "source_range": [
+            186,
+            188
+          ]
+        },
+        {
+          "kind": "transcription_uncertainty",
+          "text": "##",
+          "source_range": [
+            248,
+            250
+          ]
+        }
+      ],
+      "korean": "그는 남자로서 동침하여 그녀를 알려고 여자에게 [가까이해서는] 안 된다. 스무 살을 채워 [선]과 악을 알게 된 뒤에야 그럴 수 있다. 그때에야 그녀는 그에 관하여 율법의 법도를 증언하는 일과, 법도를 듣는 자리에 서는 일에 받아들여진다. 그에게 그 기간이 차서 스물다섯 살이 되면, 그는 거룩한 회중의 토대들 가운데 서려고 들어가 회중의 일을 섬긴다. 서른 살이 된 사람은 나아가 송사와",
+      "translation_revision": "sha256:b9165b7f527a0e9ce257e9dc28babaedb01b8a9ae08d018c5a74c0199543dcab",
+      "groups": [
+        {
+          "id": "a-c1f8f10c794d9723933a",
+          "source_range": [
+            0,
+            40
+          ],
+          "ko_range": [
+            0,
+            40
+          ],
+          "source_text": "ולוא י#?[ קרב ] אל אשה לדעת׳ה למשכבי זכר",
+          "ko_text": "그는 남자로서 동침하여 그녀를 알려고 여자에게 [가까이해서는] 안 된다."
+        },
+        {
+          "id": "a-16778d73cdbf3504c839",
+          "source_range": [
+            41,
+            98
+          ],
+          "ko_range": [
+            41,
+            75
+          ],
+          "source_text": "כיאם לפי מילואת ל׳ו עש[ רי ]ם## שנה בדעת׳ו?[  טוב ] ורע ׃",
+          "ko_text": "스무 살을 채워 [선]과 악을 알게 된 뒤에야 그럴 수 있다."
+        },
+        {
+          "id": "a-57c94b68a1b8cd544ba7",
+          "source_range": [
+            99,
+            162
+          ],
+          "ko_range": [
+            76,
+            133
+          ],
+          "source_text": "ובכן תקבל להעיד עלי׳ו מ#שפטות התורא ולהת#[ י ]צב במשמע משפטים ׃",
+          "ko_text": "그때에야 그녀는 그에 관하여 율법의 법도를 증언하는 일과, 법도를 듣는 자리에 서는 일에 받아들여진다."
+        },
+        {
+          "id": "a-4eede5081db7583d92dc",
+          "source_range": [
+            163,
+            252
+          ],
+          "ko_range": [
+            134,
+            197
+          ],
+          "source_text": "ובמלוא ב׳ו ובן חמש ועשר##ים שנה יבוא להת[ יצ ]ב ביסודות עדת הקודש לעבוד את עבודת העדה## ׃",
+          "ko_text": "그에게 그 기간이 차서 스물다섯 살이 되면, 그는 거룩한 회중의 토대들 가운데 서려고 들어가 회중의 일을 섬긴다."
+        },
+        {
+          "id": "a-5d8ea0218c63181ed5cb",
+          "source_range": [
+            253,
+            280
+          ],
+          "ko_range": [
+            198,
+            217
+          ],
+          "source_text": "ובן שלושים שנה יגש לריב ריב",
+          "ko_text": "서른 살이 된 사람은 나아가 송사와"
+        }
+      ],
+      "notes": [
+        "‘남자로서 동침하여 안다’(למשכבי זכר)는 민수기 31.17-18에서 남자와 동침한 여자를 가리키는 표현이다. 선과 악을 안다는 말은 신명기 1.39에서 아직 선악을 분별하지 못하던 자녀들을 가리키는 표현과 같은 짝말을 쓴다.",
+        "1.11의 תקבל은 3인칭 여성 단수로 읽으면 아내가 남편에 관하여 율법의 법도를 증언하도록 받아들여진다는 뜻이다. 남성형 יקבל로 고쳐 읽어 스무 살이 된 남자가 증언하도록 받아들여진다고 보는 제안도 있다. 전사는 תקבל이다.",
+        "스물다섯 살에 회중의 일을 섬기러 들어간다는 규정은 민수기 8.24에서 레위인이 회막에 들어가 복무하는 나이와 같다. 서른 살은 민수기 4.3에서 회막 일을 맡는 레위인의 최소 나이다. CD 10.6-7은 회중의 재판관을 스물다섯 살부터 예순 살까지로 정한다."
+      ],
+      "work_passage_id": "1qsa:1.9-13",
+      "html_path": "works/1qsa/index.html#p-1-9-13",
+      "fixed_html_path": "releases/public-0.47/works/1qsa/index.html#p-1-9-13",
+      "alignment_revision": "sha256:0094b2c52dba3f6d1da48b1d013486116605ca75d0f66855989251e2afbe7f38",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_text_fabric_extraction",
+        "targets": {
+          "source_revision": "sha256:c5e08eac57607bd9caff6c356e6b66649baea99e8a977c7ed466e104a84adc10",
+          "translation_revision": "sha256:b9165b7f527a0e9ce257e9dc28babaedb01b8a9ae08d018c5a74c0199543dcab",
+          "alignment_revision": "sha256:0094b2c52dba3f6d1da48b1d013486116605ca75d0f66855989251e2afbe7f38"
+        },
+        "scoped_ai_review": {
+          "id": "1qsa-qumran-20261102",
+          "scope": "회중 규칙 채택 본문 12대목 전체",
+          "date": "2026-11-02",
+          "targets": {
+            "source_revision": "sha256:c5e08eac57607bd9caff6c356e6b66649baea99e8a977c7ed466e104a84adc10",
+            "translation_revision": "sha256:b9165b7f527a0e9ce257e9dc28babaedb01b8a9ae08d018c5a74c0199543dcab",
+            "alignment_revision": "sha256:0094b2c52dba3f6d1da48b1d013486116605ca75d0f66855989251e2afbe7f38"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-NC 4.0",
+        "source_url": "https://github.com/ETCBC/dss/blob/47ecc1738fad6e67df7d40a3e84d73e4a125e265/tf/2.0.1/full.tf",
+        "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-NC 4.0",
+        "alignment_license": "CC BY-NC 4.0",
+        "notice": "사해문서 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-NC 4.0으로 제공합니다. 출처와 변경 내역을 밝히고 비영리 조건을 지켜야 합니다. 전사는 읽기 문단으로 나누었으며 물리적 열·행의 주소와 편집 기호를 보존했습니다."
+      },
+      "citation": {
+        "author": "익명",
+        "work": "회중 규칙",
+        "reference": "1.9-13",
+        "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QSa.",
+        "release": "public-0.47",
+        "translation_revision": "sha256:b9165b7f527a0e9ce257e9dc28babaedb01b8a9ae08d018c5a74c0199543dcab",
+        "fixed_path": "releases/public-0.47/works/1qsa/index.html#p-1-9-13"
+      }
+    },
+    {
+      "ref": "1.14-18",
+      "column": 1,
+      "column_end": 1,
+      "line_start": 14,
+      "line_end": 18,
+      "original": "ו?מ##[ ש ]פ#ט ולהתיצב ברואשי אלפי ישראל לשרי מאות שרי ח[ מ ]שים [ שרי ] עשרות שופטים ושוטרים לשבטי׳הם בכול משפחות׳ם [ על פ ]י בני [ אהר ]ון הכוהנים וכול {{ ש }}רו(^ ש ^) אבות העדה אשר יצא הגורל להתי[ צב  ]בע##בוד(^ ו ^)ת [ לצא ]ת ולבוא לפני העדה ׃ ולפי שכל׳ו עם תום דרכ׳ו יחזק מתנ׳ו למעמ[ ד לצב ]ואת עבודת מעש׳ו בתוך אחי׳ו[  ׃",
+      "source_layer": "edited_manuscript_transcription",
+      "source_language": "he",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:7005374efaa72c371f947daaa41e1e2f39557b4fb754a4f3bba900c2df6e0010",
+      "source_file_sha256": "951ed95573ff1f78c468e6fa1b1f1750631287564534155bd5f9f0c8ae6d5542",
+      "source_line_slices": [
+        {
+          "reference": "1.14",
+          "source_range": [
+            0,
+            63
+          ],
+          "range_in_line": [
+            0,
+            63
+          ],
+          "line_original": "ו?מ##[ ש ]פ#ט ולהתיצב ברואשי אלפי ישראל לשרי מאות שרי ח[ מ ]שים",
+          "tf_line_node": 1553683
+        },
+        {
+          "reference": "1.15",
+          "source_range": [
+            64,
+            129
+          ],
+          "range_in_line": [
+            0,
+            65
+          ],
+          "line_original": "[ שרי ] עשרות שופטים ושוטרים לשבטי׳הם בכול משפחות׳ם [ על פ ]י בני",
+          "tf_line_node": 1553684
+        },
+        {
+          "reference": "1.16",
+          "source_range": [
+            130,
+            220
+          ],
+          "range_in_line": [
+            0,
+            90
+          ],
+          "line_original": "[ אהר ]ון הכוהנים וכול {{ ש }}רו(^ ש ^) אבות העדה אשר יצא הגורל להתי[ צב  ]בע##בוד(^ ו ^)ת",
+          "tf_line_node": 1553685
+        },
+        {
+          "reference": "1.17",
+          "source_range": [
+            221,
+            299
+          ],
+          "range_in_line": [
+            0,
+            78
+          ],
+          "line_original": "[ לצא ]ת ולבוא לפני העדה ׃ ולפי שכל׳ו עם תום דרכ׳ו יחזק מתנ׳ו למעמ[ ד לצב ]ואת",
+          "tf_line_node": 1553686
+        },
+        {
+          "reference": "1.18",
+          "source_range": [
+            300,
+            326
+          ],
+          "range_in_line": [
+            0,
+            26
+          ],
+          "line_original": "עבודת מעש׳ו בתוך אחי׳ו[  ׃ בי ]ן? ר#וב למועט [ זה על ] זה יכבדו איש מרע׳הו ׃",
+          "tf_line_node": 1553687
+        }
+      ],
+      "source_locator": {
+        "scroll": "1QSa",
+        "first_line": "1.14",
+        "last_line": "1.18",
+        "line_nodes": [
+          1553683,
+          1553684,
+          1553685,
+          1553686,
+          1553687
+        ]
+      },
+      "source_annotations": [
+        {
+          "kind": "transcription_brackets",
+          "text": "[ ש ]",
+          "source_range": [
+            5,
+            10
+          ]
+        },
+        {
+          "kind": "transcription_brackets",
+          "text": "[ מ ]",
+          "source_range": [
+            55,
+            60
+          ]
+        },
+        {
+          "kind": "transcription_brackets",
+          "text": "[ שרי ]",
+          "source_range": [
+            64,
+            71
+          ]
+        },
+        {
+          "kind": "transcription_brackets",
+          "text": "[ על פ ]",
+          "source_range": [
+            116,
+            124
+          ]
+        },
+        {
+          "kind": "transcription_brackets",
+          "text": "[ אהר ]",
+          "source_range": [
+            130,
+            137
+          ]
+        },
+        {
+          "kind": "transcription_brackets",
+          "text": "{{ ש }",
+          "source_range": [
+            153,
+            159
+          ]
+        },
+        {
+          "kind": "transcription_brackets",
+          "text": "(^ ש ^)",
+          "source_range": [
+            162,
+            169
+          ]
+        },
+        {
+          "kind": "transcription_brackets",
+          "text": "[ צב  ]",
+          "source_range": [
+            198,
+            205
+          ]
+        },
+        {
+          "kind": "transcription_brackets",
+          "text": "(^ ו ^)",
+          "source_range": [
+            212,
+            219
+          ]
+        },
+        {
+          "kind": "transcription_brackets",
+          "text": "[ לצא ]",
+          "source_range": [
+            221,
+            228
+          ]
+        },
+        {
+          "kind": "transcription_brackets",
+          "text": "[ ד לצב ]",
+          "source_range": [
+            287,
+            296
+          ]
+        },
+        {
+          "kind": "transcription_uncertainty",
+          "text": "?",
+          "source_range": [
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "transcription_uncertainty",
+          "text": "##",
+          "source_range": [
+            3,
+            5
+          ]
+        },
+        {
+          "kind": "transcription_uncertainty",
+          "text": "#",
+          "source_range": [
+            11,
+            12
+          ]
+        },
+        {
+          "kind": "transcription_uncertainty",
+          "text": "##",
+          "source_range": [
+            207,
+            209
+          ]
+        }
+      ],
+      "korean": "재판을 다루고, 이스라엘 천 명 부대의 우두머리들 가운데 서서 백부장과 오십부장과 십부장이 되며, 각 지파의 모든 가문에서 재판장과 관리가 된다. 이 일은 [아론]의 아들들인 제사장들의 [지시를] 따르고, 제비가 뽑혀 회중 앞에서 [나가고] 들어오는 직무에 서게 된 회중의 모든 가문 우두머리의 지시도 따른다. 각 사람은 자기 이해와 온전한 행실에 따라, 형제들 가운데서 자기 자리를 지키며 맡은 일을 [감당하도록] 허리를 굳게 동인다.",
+      "translation_revision": "sha256:d58b6abf65b874a30948243ee12db64800bf476b8910abaa1855dc7cb07bfb61",
+      "groups": [
+        {
+          "id": "a-44527fa7b00e8c5813f1",
+          "source_range": [
+            0,
+            77
+          ],
+          "ko_range": [
+            0,
+            54
+          ],
+          "source_text": "ו?מ##[ ש ]פ#ט ולהתיצב ברואשי אלפי ישראל לשרי מאות שרי ח[ מ ]שים [ שרי ] עשרות",
+          "ko_text": "재판을 다루고, 이스라엘 천 명 부대의 우두머리들 가운데 서서 백부장과 오십부장과 십부장이 되며,"
+        },
+        {
+          "id": "a-fca87ee291f202cd8ba6",
+          "source_range": [
+            78,
+            115
+          ],
+          "ko_range": [
+            55,
+            81
+          ],
+          "source_text": "שופטים ושוטרים לשבטי׳הם בכול משפחות׳ם",
+          "ko_text": "각 지파의 모든 가문에서 재판장과 관리가 된다."
+        },
+        {
+          "id": "a-922cb33dcf2a0708b174",
+          "source_range": [
+            116,
+            147
+          ],
+          "ko_range": [
+            82,
+            114
+          ],
+          "source_text": "[ על פ ]י בני [ אהר ]ון הכוהנים",
+          "ko_text": "이 일은 [아론]의 아들들인 제사장들의 [지시를] 따르고,"
+        },
+        {
+          "id": "a-59dc794d03f2cda21a4d",
+          "source_range": [
+            148,
+            247
+          ],
+          "ko_range": [
+            115,
+            173
+          ],
+          "source_text": "וכול {{ ש }}רו(^ ש ^) אבות העדה אשר יצא הגורל להתי[ צב  ]בע##בוד(^ ו ^)ת [ לצא ]ת ולבוא לפני העדה ׃",
+          "ko_text": "제비가 뽑혀 회중 앞에서 [나가고] 들어오는 직무에 서게 된 회중의 모든 가문 우두머리의 지시도 따른다."
+        },
+        {
+          "id": "a-ce601ba1ab5ae6c5f093",
+          "source_range": [
+            248,
+            326
+          ],
+          "ko_range": [
+            174,
+            244
+          ],
+          "source_text": "ולפי שכל׳ו עם תום דרכ׳ו יחזק מתנ׳ו למעמ[ ד לצב ]ואת עבודת מעש׳ו בתוך אחי׳ו[  ׃",
+          "ko_text": "각 사람은 자기 이해와 온전한 행실에 따라, 형제들 가운데서 자기 자리를 지키며 맡은 일을 [감당하도록] 허리를 굳게 동인다."
+        }
+      ],
+      "notes": [
+        "이스라엘 천 명 부대의 우두머리, 백부장, 오십부장, 십부장과 재판장, 관리의 편성은 신명기 1.15의 ‘천부장과 백부장과 오십부장과 십부장’과 16.18의 ‘재판장들과 지도자들’(שפטים ושטרים)에서 왔다. 관리(שוטרים)는 1QM 7.1, 7.14, 10.5에서 군대의 직책으로도 나온다. 회중 앞에서 나가고 들어온다는 말은 민수기 27.17에서 회중을 이끌 지도자를 구할 때 쓰인 표현이다.",
+        "1.16의 {{ ש }}רו(^ ש ^)는 고대의 교정으로 앞의 ש가 지워지고 רו 뒤 행 위에 ש가 더해져 רוש(ראש, 우두머리)가 된 것이다. 같은 행의 בעבודות에도 행 위에 ו가 덧붙어 있다."
+      ],
+      "work_passage_id": "1qsa:1.14-18",
+      "html_path": "works/1qsa/index.html#p-1-14-18",
+      "fixed_html_path": "releases/public-0.47/works/1qsa/index.html#p-1-14-18",
+      "alignment_revision": "sha256:cbc606a0b27f95f3545c30ccb147ec27be75da5b141cde6d7285a7b323386fb4",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_text_fabric_extraction",
+        "targets": {
+          "source_revision": "sha256:7005374efaa72c371f947daaa41e1e2f39557b4fb754a4f3bba900c2df6e0010",
+          "translation_revision": "sha256:d58b6abf65b874a30948243ee12db64800bf476b8910abaa1855dc7cb07bfb61",
+          "alignment_revision": "sha256:cbc606a0b27f95f3545c30ccb147ec27be75da5b141cde6d7285a7b323386fb4"
+        },
+        "scoped_ai_review": {
+          "id": "1qsa-qumran-20261102",
+          "scope": "회중 규칙 채택 본문 12대목 전체",
+          "date": "2026-11-02",
+          "targets": {
+            "source_revision": "sha256:7005374efaa72c371f947daaa41e1e2f39557b4fb754a4f3bba900c2df6e0010",
+            "translation_revision": "sha256:d58b6abf65b874a30948243ee12db64800bf476b8910abaa1855dc7cb07bfb61",
+            "alignment_revision": "sha256:cbc606a0b27f95f3545c30ccb147ec27be75da5b141cde6d7285a7b323386fb4"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-NC 4.0",
+        "source_url": "https://github.com/ETCBC/dss/blob/47ecc1738fad6e67df7d40a3e84d73e4a125e265/tf/2.0.1/full.tf",
+        "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-NC 4.0",
+        "alignment_license": "CC BY-NC 4.0",
+        "notice": "사해문서 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-NC 4.0으로 제공합니다. 출처와 변경 내역을 밝히고 비영리 조건을 지켜야 합니다. 전사는 읽기 문단으로 나누었으며 물리적 열·행의 주소와 편집 기호를 보존했습니다."
+      },
+      "citation": {
+        "author": "익명",
+        "work": "회중 규칙",
+        "reference": "1.14-18",
+        "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QSa.",
+        "release": "public-0.47",
+        "translation_revision": "sha256:d58b6abf65b874a30948243ee12db64800bf476b8910abaa1855dc7cb07bfb61",
+        "fixed_path": "releases/public-0.47/works/1qsa/index.html#p-1-14-18"
+      }
+    },
+    {
+      "ref": "1.18-22",
+      "column": 1,
+      "column_end": 1,
+      "line_start": 18,
+      "line_end": 22,
+      "original": "בי ]ן? ר#וב למועט [ זה על ] זה יכבדו איש מרע׳הו ׃ וברובות שני איש לפי כוח׳ו יתנו משא׳ו ב[ עבו ]ד#ת העדה ׃ וכול איש פותי אל יבוא בגורל להתיצב על עדת ישראל לרי[ ב מ ]שפט ולשאת משא עדה ולהתיצב במלחמה להכניע גוים ׃ רק בסרך ה#צ#בא יכתוב משפחת׳ו ובעבודת המס יעשה עבודת׳ו כפי מעש׳ו ׃",
+      "source_layer": "edited_manuscript_transcription",
+      "source_language": "he",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:6b549ddde9545bf281aa827d8d9c0c441eeee23a71bd49429b010328dedb63f6",
+      "source_file_sha256": "951ed95573ff1f78c468e6fa1b1f1750631287564534155bd5f9f0c8ae6d5542",
+      "source_line_slices": [
+        {
+          "reference": "1.18",
+          "source_range": [
+            0,
+            49
+          ],
+          "range_in_line": [
+            27,
+            76
+          ],
+          "line_original": "עבודת מעש׳ו בתוך אחי׳ו[  ׃ בי ]ן? ר#וב למועט [ זה על ] זה יכבדו איש מרע׳הו ׃",
+          "tf_line_node": 1553687
+        },
+        {
+          "reference": "1.19",
+          "source_range": [
+            50,
+            119
+          ],
+          "range_in_line": [
+            0,
+            69
+          ],
+          "line_original": "וברובות שני איש לפי כוח׳ו יתנו משא׳ו ב[ עבו ]ד#ת העדה ׃ וכול איש פותי",
+          "tf_line_node": 1553688
+        },
+        {
+          "reference": "1.20",
+          "source_range": [
+            120,
+            181
+          ],
+          "range_in_line": [
+            0,
+            61
+          ],
+          "line_original": "אל יבוא בגורל להתיצב על עדת ישראל לרי[ ב מ ]שפט ולשאת משא עדה",
+          "tf_line_node": 1553689
+        },
+        {
+          "reference": "1.21",
+          "source_range": [
+            182,
+            239
+          ],
+          "range_in_line": [
+            0,
+            57
+          ],
+          "line_original": "ולהתיצב במלחמה להכניע גוים ׃ רק בסרך ה#צ#בא יכתוב משפחת׳ו",
+          "tf_line_node": 1553690
+        },
+        {
+          "reference": "1.22",
+          "source_range": [
+            240,
+            276
+          ],
+          "range_in_line": [
+            0,
+            36
+          ],
+          "line_original": "ובעבודת המס יעשה עבודת׳ו כפי מעש׳ו ׃ ובני לוי יעמודו איש במעמד׳ו",
+          "tf_line_node": 1553691
+        }
+      ],
+      "source_locator": {
+        "scroll": "1QSa",
+        "first_line": "1.18",
+        "last_line": "1.22",
+        "line_nodes": [
+          1553687,
+          1553688,
+          1553689,
+          1553690,
+          1553691
+        ]
+      },
+      "source_annotations": [
+        {
+          "kind": "transcription_brackets",
+          "text": "[ זה על ]",
+          "source_range": [
+            18,
+            27
+          ]
+        },
+        {
+          "kind": "transcription_brackets",
+          "text": "[ עבו ]",
+          "source_range": [
+            88,
+            95
+          ]
+        },
+        {
+          "kind": "transcription_brackets",
+          "text": "[ ב מ ]",
+          "source_range": [
+            157,
+            164
+          ]
+        },
+        {
+          "kind": "transcription_uncertainty",
+          "text": "?",
+          "source_range": [
+            5,
+            6
+          ]
+        },
+        {
+          "kind": "transcription_uncertainty",
+          "text": "#",
+          "source_range": [
+            8,
+            9
+          ]
+        },
+        {
+          "kind": "transcription_uncertainty",
+          "text": "#",
+          "source_range": [
+            96,
+            97
+          ]
+        },
+        {
+          "kind": "transcription_uncertainty",
+          "text": "#",
+          "source_range": [
+            220,
+            221
+          ]
+        },
+        {
+          "kind": "transcription_uncertainty",
+          "text": "#",
+          "source_range": [
+            222,
+            223
+          ]
+        }
+      ],
+      "korean": "많고 적음[에 따라] [이 사람이] 저 사람보다, 각자 자기 동료보다 존중받는다. 사람의 나이가 많아지면 그의 힘에 맞추어 회중의 [일]에서 그가 질 짐을 정해 준다. 어리석은 사람은 누구도 제비를 받아 이스라엘 회중을 다스리는 자리에 서서 재판을 다루거나, 회중의 짐을 지거나, 전쟁에 나서서 이방 민족들을 굴복시키는 일을 해서는 안 된다. 다만 군대의 명부에 그의 가문을 기록하고, 그는 자기 능력에 맞추어 부역하는 일을 한다.",
+      "translation_revision": "sha256:703499fd5d8af2734d81a87956e0c9278a423e7db5137f4f552397c9358555fb",
+      "groups": [
+        {
+          "id": "a-8a3262327f1057867e0a",
+          "source_range": [
+            0,
+            49
+          ],
+          "ko_range": [
+            0,
+            45
+          ],
+          "source_text": "בי ]ן? ר#וב למועט [ זה על ] זה יכבדו איש מרע׳הו ׃",
+          "ko_text": "많고 적음[에 따라] [이 사람이] 저 사람보다, 각자 자기 동료보다 존중받는다."
+        },
+        {
+          "id": "a-83aee332179bb6021496",
+          "source_range": [
+            50,
+            105
+          ],
+          "ko_range": [
+            46,
+            93
+          ],
+          "source_text": "וברובות שני איש לפי כוח׳ו יתנו משא׳ו ב[ עבו ]ד#ת העדה ׃",
+          "ko_text": "사람의 나이가 많아지면 그의 힘에 맞추어 회중의 [일]에서 그가 질 짐을 정해 준다."
+        },
+        {
+          "id": "a-a4227a1deefd2662bb67",
+          "source_range": [
+            106,
+            210
+          ],
+          "ko_range": [
+            94,
+            191
+          ],
+          "source_text": "וכול איש פותי אל יבוא בגורל להתיצב על עדת ישראל לרי[ ב מ ]שפט ולשאת משא עדה ולהתיצב במלחמה להכניע גוים ׃",
+          "ko_text": "어리석은 사람은 누구도 제비를 받아 이스라엘 회중을 다스리는 자리에 서서 재판을 다루거나, 회중의 짐을 지거나, 전쟁에 나서서 이방 민족들을 굴복시키는 일을 해서는 안 된다."
+        },
+        {
+          "id": "a-15e80b2799d3a6c04f3e",
+          "source_range": [
+            211,
+            276
+          ],
+          "ko_range": [
+            192,
+            241
+          ],
+          "source_text": "רק בסרך ה#צ#בא יכתוב משפחת׳ו ובעבודת המס יעשה עבודת׳ו כפי מעש׳ו ׃",
+          "ko_text": "다만 군대의 명부에 그의 가문을 기록하고, 그는 자기 능력에 맞추어 부역하는 일을 한다."
+        }
+      ],
+      "notes": [
+        "나이 든 사람의 짐을 힘에 맞추어 정한다는 규정은 민수기 8.25-26에서 쉰 살이 된 레위인이 복무를 그치고 형제들을 돕게 하는 규정과 비슷하다. 부역(עבודת המס)의 מס는 여호수아 16.10과 열왕기상 9.21에서 강제 노역을 가리키는 말이다.",
+        "어리석은 사람(פותי)은 CD 15.15의 ‘단순한 자’(פתי)와 같은 낱말이며, 그곳에서도 회중 안에 들어오지 못하는 사람들 가운데 있다. 이 대목은 그를 직무와 전쟁에서 빼고 군대 명부에만 기록한다."
+      ],
+      "work_passage_id": "1qsa:1.18-22",
+      "html_path": "works/1qsa/index.html#p-1-18-22",
+      "fixed_html_path": "releases/public-0.47/works/1qsa/index.html#p-1-18-22",
+      "alignment_revision": "sha256:e250a955694d94ad67c4d4b57b24971b49807d84ff596bffceb8d96a6645e447",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_text_fabric_extraction",
+        "targets": {
+          "source_revision": "sha256:6b549ddde9545bf281aa827d8d9c0c441eeee23a71bd49429b010328dedb63f6",
+          "translation_revision": "sha256:703499fd5d8af2734d81a87956e0c9278a423e7db5137f4f552397c9358555fb",
+          "alignment_revision": "sha256:e250a955694d94ad67c4d4b57b24971b49807d84ff596bffceb8d96a6645e447"
+        },
+        "scoped_ai_review": {
+          "id": "1qsa-qumran-20261102",
+          "scope": "회중 규칙 채택 본문 12대목 전체",
+          "date": "2026-11-02",
+          "targets": {
+            "source_revision": "sha256:6b549ddde9545bf281aa827d8d9c0c441eeee23a71bd49429b010328dedb63f6",
+            "translation_revision": "sha256:703499fd5d8af2734d81a87956e0c9278a423e7db5137f4f552397c9358555fb",
+            "alignment_revision": "sha256:e250a955694d94ad67c4d4b57b24971b49807d84ff596bffceb8d96a6645e447"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-NC 4.0",
+        "source_url": "https://github.com/ETCBC/dss/blob/47ecc1738fad6e67df7d40a3e84d73e4a125e265/tf/2.0.1/full.tf",
+        "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-NC 4.0",
+        "alignment_license": "CC BY-NC 4.0",
+        "notice": "사해문서 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-NC 4.0으로 제공합니다. 출처와 변경 내역을 밝히고 비영리 조건을 지켜야 합니다. 전사는 읽기 문단으로 나누었으며 물리적 열·행의 주소와 편집 기호를 보존했습니다."
+      },
+      "citation": {
+        "author": "익명",
+        "work": "회중 규칙",
+        "reference": "1.18-22",
+        "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QSa.",
+        "release": "public-0.47",
+        "translation_revision": "sha256:703499fd5d8af2734d81a87956e0c9278a423e7db5137f4f552397c9358555fb",
+        "fixed_path": "releases/public-0.47/works/1qsa/index.html#p-1-18-22"
+      }
+    },
+    {
+      "ref": "1.22-27",
+      "column": 1,
+      "column_end": 1,
+      "line_start": 22,
+      "line_end": 27,
+      "original": "ובני לוי יעמודו איש במעמד׳ו על פי בני אהרון להביא ולהוציא אתכול העדה איש בסרכ׳ו על יד ראשי [ א ]ב#ו?ת העדה לשרים ולשופטים (^ ולשוטרים ^) למספר כול צבאות׳ם על פי בני צדוק הכוהנים [ וכול ר ]אשי אבות העדה ׃ ואם תעודה תהיה לכול הקהל למשפט או לעצת י?חד או לתעודת מלחמה וקדשו׳ם שלושת ימים להיות כול הבא עת[ יד ל ]ה##נה ׃",
+      "source_layer": "edited_manuscript_transcription",
+      "source_language": "he",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:e9bdcc503e13c21e77c422bf3272f1075966c1dcbe36a148c1357c946deda5af",
+      "source_file_sha256": "951ed95573ff1f78c468e6fa1b1f1750631287564534155bd5f9f0c8ae6d5542",
+      "source_line_slices": [
+        {
+          "reference": "1.22",
+          "source_range": [
+            0,
+            27
+          ],
+          "range_in_line": [
+            37,
+            64
+          ],
+          "line_original": "ובעבודת המס יעשה עבודת׳ו כפי מעש׳ו ׃ ובני לוי יעמודו איש במעמד׳ו",
+          "tf_line_node": 1553691
+        },
+        {
+          "reference": "1.23",
+          "source_range": [
+            28,
+            90
+          ],
+          "range_in_line": [
+            0,
+            62
+          ],
+          "line_original": "על פי בני אהרון להביא ולהוציא אתכול העדה איש בסרכ׳ו על יד ראשי",
+          "tf_line_node": 1553692
+        },
+        {
+          "reference": "1.24",
+          "source_range": [
+            91,
+            177
+          ],
+          "range_in_line": [
+            0,
+            86
+          ],
+          "line_original": "[ א ]ב#ו?ת העדה לשרים ולשופטים (^ ולשוטרים ^) למספר כול צבאות׳ם על פי בני צדוק הכוהנים",
+          "tf_line_node": 1553693
+        },
+        {
+          "reference": "1.25",
+          "source_range": [
+            178,
+            237
+          ],
+          "range_in_line": [
+            0,
+            59
+          ],
+          "line_original": "[ וכול ר ]אשי אבות העדה ׃ ואם תעודה תהיה לכול הקהל למשפט או",
+          "tf_line_node": 1553694
+        },
+        {
+          "reference": "1.26",
+          "source_range": [
+            238,
+            296
+          ],
+          "range_in_line": [
+            0,
+            58
+          ],
+          "line_original": "לעצת י?חד או לתעודת מלחמה וקדשו׳ם שלושת ימים להיות כול הבא",
+          "tf_line_node": 1553695
+        },
+        {
+          "reference": "1.27",
+          "source_range": [
+            297,
+            314
+          ],
+          "range_in_line": [
+            0,
+            17
+          ],
+          "line_original": "עת[ יד ל ]ה##נה ׃ אלה ה(< א >)נשים הנקראים לעצת היחד מבן עש ׃ כול",
+          "tf_line_node": 1553696
+        }
+      ],
+      "source_locator": {
+        "scroll": "1QSa",
+        "first_line": "1.22",
+        "last_line": "1.27",
+        "line_nodes": [
+          1553691,
+          1553692,
+          1553693,
+          1553694,
+          1553695,
+          1553696
+        ]
+      },
+      "source_annotations": [
+        {
+          "kind": "transcription_brackets",
+          "text": "[ א ]",
+          "source_range": [
+            91,
+            96
+          ]
+        },
+        {
+          "kind": "transcription_brackets",
+          "text": "(^ ולשוטרים ^)",
+          "source_range": [
+            122,
+            136
+          ]
+        },
+        {
+          "kind": "transcription_brackets",
+          "text": "[ וכול ר ]",
+          "source_range": [
+            178,
+            188
+          ]
+        },
+        {
+          "kind": "transcription_brackets",
+          "text": "[ יד ל ]",
+          "source_range": [
+            299,
+            307
+          ]
+        },
+        {
+          "kind": "transcription_uncertainty",
+          "text": "#",
+          "source_range": [
+            97,
+            98
+          ]
+        },
+        {
+          "kind": "transcription_uncertainty",
+          "text": "?",
+          "source_range": [
+            99,
+            100
+          ]
+        },
+        {
+          "kind": "transcription_uncertainty",
+          "text": "?",
+          "source_range": [
+            244,
+            245
+          ]
+        },
+        {
+          "kind": "transcription_uncertainty",
+          "text": "##",
+          "source_range": [
+            308,
+            310
+          ]
+        }
+      ],
+      "korean": "레위의 아들들은 아론의 아들들의 지시에 따라 각자 자기 자리에 서서, 온 회중을 각자 자기 순서대로 들어오게 하고 나가게 한다. 이 일은 회중의 가문 우두머리들의 지휘 아래, 그들의 모든 군대의 수에 맞추어 지휘관과 재판장과 관리 단위로 한다. 이것은 사독의 아들들인 제사장들과 회중의 [모든] 가문 우두머리의 지시를 따른다. 재판이나 공동체의 회의나 전쟁 소집을 위해 온 총회를 소집할 일이 있으면, 그들을 사흘 동안 거룩하게 하여, 오는 모든 이가 그 일에 [준비되게] 한다.",
+      "translation_revision": "sha256:2c4c02c7faf89ad4a65911984a335be30f79442045e7d9d8a95453b1d5428a06",
+      "groups": [
+        {
+          "id": "a-0bbb934c8e2e06fbdfa8",
+          "source_range": [
+            0,
+            79
+          ],
+          "ko_range": [
+            0,
+            71
+          ],
+          "source_text": "ובני לוי יעמודו איש במעמד׳ו על פי בני אהרון להביא ולהוציא אתכול העדה איש בסרכ׳ו",
+          "ko_text": "레위의 아들들은 아론의 아들들의 지시에 따라 각자 자기 자리에 서서, 온 회중을 각자 자기 순서대로 들어오게 하고 나가게 한다."
+        },
+        {
+          "id": "a-3083604bbc9b6c86d252",
+          "source_range": [
+            80,
+            154
+          ],
+          "ko_range": [
+            72,
+            136
+          ],
+          "source_text": "על יד ראשי [ א ]ב#ו?ת העדה לשרים ולשופטים (^ ולשוטרים ^) למספר כול צבאות׳ם",
+          "ko_text": "이 일은 회중의 가문 우두머리들의 지휘 아래, 그들의 모든 군대의 수에 맞추어 지휘관과 재판장과 관리 단위로 한다."
+        },
+        {
+          "id": "a-470e99b85709c440c059",
+          "source_range": [
+            155,
+            203
+          ],
+          "ko_range": [
+            137,
+            182
+          ],
+          "source_text": "על פי בני צדוק הכוהנים [ וכול ר ]אשי אבות העדה ׃",
+          "ko_text": "이것은 사독의 아들들인 제사장들과 회중의 [모든] 가문 우두머리의 지시를 따른다."
+        },
+        {
+          "id": "a-dc4c5cba1e3cc6cefb72",
+          "source_range": [
+            204,
+            263
+          ],
+          "ko_range": [
+            183,
+            224
+          ],
+          "source_text": "ואם תעודה תהיה לכול הקהל למשפט או לעצת י?חד או לתעודת מלחמה",
+          "ko_text": "재판이나 공동체의 회의나 전쟁 소집을 위해 온 총회를 소집할 일이 있으면,"
+        },
+        {
+          "id": "a-c2c9a280382990e15313",
+          "source_range": [
+            264,
+            314
+          ],
+          "ko_range": [
+            225,
+            268
+          ],
+          "source_text": "וקדשו׳ם שלושת ימים להיות כול הבא עת[ יד ל ]ה##נה ׃",
+          "ko_text": "그들을 사흘 동안 거룩하게 하여, 오는 모든 이가 그 일에 [준비되게] 한다."
+        }
+      ],
+      "notes": [
+        "1.24의 ‘관리’(ולשוטרים)는 행 위에 덧붙은 고대의 행간 삽입이다. 레위인이 회중을 들어오게 하고 나가게 하는 일은 민수기 27.17에서 회중을 인도하여 내고 들이는 지도자의 일과 같은 동사를 쓴다.",
+        "온 총회를 소집하기 전에 사흘 동안 거룩하게 하는 규정은 출애굽기 19.10-15에서 백성을 성결하게 하고 셋째 날을 기다리게 한 시내 산의 준비와 같다. 이 대목에서 소집되는 모임은 재판, 공동체의 회의, 전쟁의 세 가지다."
+      ],
+      "work_passage_id": "1qsa:1.22-27",
+      "html_path": "works/1qsa/index.html#p-1-22-27",
+      "fixed_html_path": "releases/public-0.47/works/1qsa/index.html#p-1-22-27",
+      "alignment_revision": "sha256:e0cfe2ee19be2435862666267adde9b2aa329380f72428ad38d95d69351e5c91",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_text_fabric_extraction",
+        "targets": {
+          "source_revision": "sha256:e9bdcc503e13c21e77c422bf3272f1075966c1dcbe36a148c1357c946deda5af",
+          "translation_revision": "sha256:2c4c02c7faf89ad4a65911984a335be30f79442045e7d9d8a95453b1d5428a06",
+          "alignment_revision": "sha256:e0cfe2ee19be2435862666267adde9b2aa329380f72428ad38d95d69351e5c91"
+        },
+        "scoped_ai_review": {
+          "id": "1qsa-qumran-20261102",
+          "scope": "회중 규칙 채택 본문 12대목 전체",
+          "date": "2026-11-02",
+          "targets": {
+            "source_revision": "sha256:e9bdcc503e13c21e77c422bf3272f1075966c1dcbe36a148c1357c946deda5af",
+            "translation_revision": "sha256:2c4c02c7faf89ad4a65911984a335be30f79442045e7d9d8a95453b1d5428a06",
+            "alignment_revision": "sha256:e0cfe2ee19be2435862666267adde9b2aa329380f72428ad38d95d69351e5c91"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-NC 4.0",
+        "source_url": "https://github.com/ETCBC/dss/blob/47ecc1738fad6e67df7d40a3e84d73e4a125e265/tf/2.0.1/full.tf",
+        "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-NC 4.0",
+        "alignment_license": "CC BY-NC 4.0",
+        "notice": "사해문서 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-NC 4.0으로 제공합니다. 출처와 변경 내역을 밝히고 비영리 조건을 지켜야 합니다. 전사는 읽기 문단으로 나누었으며 물리적 열·행의 주소와 편집 기호를 보존했습니다."
+      },
+      "citation": {
+        "author": "익명",
+        "work": "회중 규칙",
+        "reference": "1.22-27",
+        "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QSa.",
+        "release": "public-0.47",
+        "translation_revision": "sha256:2c4c02c7faf89ad4a65911984a335be30f79442045e7d9d8a95453b1d5428a06",
+        "fixed_path": "releases/public-0.47/works/1qsa/index.html#p-1-22-27"
+      }
+    },
+    {
+      "ref": "1.27-2.3",
+      "column": 1,
+      "column_end": 2,
+      "line_start": 27,
+      "line_end": 3,
+      "original": "אלה ה(< א >)נשים הנקראים לעצת היחד מבן עש ׃ כול ח#[ כמי  ]ה#עדה והנבונים והידעים תמימי הדרך ואנושי החיל עם [ שרי השב ]טים וכול שופטי׳הם ושוטרי׳הם ושרי האלפים ושרי[  למאות ] ולחמשים ולעשרות והלויים בתו[ ך מחל ]קת עבו#?דת׳ו ׃ אלה אנושי השם קיראי מועד הנועדים לעצת## ה##י(# ח #)ד בישראל לפני בני צדוק הכוהנים ׃",
+      "source_layer": "edited_manuscript_transcription",
+      "source_language": "he",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:cd4a393492f8677f6616048f4ed84aef59d1b4e30162d2c890e4a52519366d28",
+      "source_file_sha256": "951ed95573ff1f78c468e6fa1b1f1750631287564534155bd5f9f0c8ae6d5542",
+      "source_line_slices": [
+        {
+          "reference": "1.27",
+          "source_range": [
+            0,
+            47
+          ],
+          "range_in_line": [
+            18,
+            65
+          ],
+          "line_original": "עת[ יד ל ]ה##נה ׃ אלה ה(< א >)נשים הנקראים לעצת היחד מבן עש ׃ כול",
+          "tf_line_node": 1553696
+        },
+        {
+          "reference": "1.28",
+          "source_range": [
+            48,
+            106
+          ],
+          "range_in_line": [
+            0,
+            58
+          ],
+          "line_original": "ח#[ כמי  ]ה#עדה והנבונים והידעים תמימי הדרך ואנושי החיל עם",
+          "tf_line_node": 1553697
+        },
+        {
+          "reference": "1.29",
+          "source_range": [
+            107,
+            172
+          ],
+          "range_in_line": [
+            0,
+            65
+          ],
+          "line_original": "[ שרי השב ]טים וכול שופטי׳הם ושוטרי׳הם ושרי האלפים ושרי[  למאות ]",
+          "tf_line_node": 1553698
+        },
+        {
+          "reference": "2.1",
+          "source_range": [
+            173,
+            227
+          ],
+          "range_in_line": [
+            0,
+            54
+          ],
+          "line_original": "ולחמשים ולעשרות והלויים בתו[ ך מחל ]קת עבו#?דת׳ו ׃ אלה",
+          "tf_line_node": 1553699
+        },
+        {
+          "reference": "2.2",
+          "source_range": [
+            228,
+            283
+          ],
+          "range_in_line": [
+            0,
+            55
+          ],
+          "line_original": "אנושי השם קיראי מועד הנועדים לעצת## ה##י(# ח #)ד בישראל",
+          "tf_line_node": 1553700
+        },
+        {
+          "reference": "2.3",
+          "source_range": [
+            284,
+            307
+          ],
+          "range_in_line": [
+            0,
+            23
+          ],
+          "line_original": "לפני בני צדוק הכוהנים ׃ וכול איש מנוגע באחת מ##כ#ו?ל טמאו(^ ת ^)",
+          "tf_line_node": 1553701
+        }
+      ],
+      "source_locator": {
+        "scroll": "1QSa",
+        "first_line": "1.27",
+        "last_line": "2.3",
+        "line_nodes": [
+          1553696,
+          1553697,
+          1553698,
+          1553699,
+          1553700,
+          1553701
+        ]
+      },
+      "source_annotations": [
+        {
+          "kind": "transcription_brackets",
+          "text": "(< א >)",
+          "source_range": [
+            5,
+            12
+          ]
+        },
+        {
+          "kind": "transcription_brackets",
+          "text": "[ כמי  ]",
+          "source_range": [
+            50,
+            58
+          ]
+        },
+        {
+          "kind": "transcription_brackets",
+          "text": "[ שרי השב ]",
+          "source_range": [
+            107,
+            118
+          ]
+        },
+        {
+          "kind": "transcription_brackets",
+          "text": "[  למאות ]",
+          "source_range": [
+            162,
+            172
+          ]
+        },
+        {
+          "kind": "transcription_brackets",
+          "text": "[ ך מחל ]",
+          "source_range": [
+            200,
+            209
+          ]
+        },
+        {
+          "kind": "transcription_brackets",
+          "text": "(# ח #)",
+          "source_range": [
+            268,
+            275
+          ]
+        },
+        {
+          "kind": "transcription_uncertainty",
+          "text": "#",
+          "source_range": [
+            49,
+            50
+          ]
+        },
+        {
+          "kind": "transcription_uncertainty",
+          "text": "#",
+          "source_range": [
+            59,
+            60
+          ]
+        },
+        {
+          "kind": "transcription_uncertainty",
+          "text": "#?",
+          "source_range": [
+            215,
+            217
+          ]
+        },
+        {
+          "kind": "transcription_uncertainty",
+          "text": "##",
+          "source_range": [
+            261,
+            263
+          ]
+        },
+        {
+          "kind": "transcription_uncertainty",
+          "text": "##",
+          "source_range": [
+            265,
+            267
+          ]
+        },
+        {
+          "kind": "transcription_uncertainty",
+          "text": "#",
+          "source_range": [
+            269,
+            270
+          ]
+        },
+        {
+          "kind": "transcription_uncertainty",
+          "text": "#",
+          "source_range": [
+            273,
+            274
+          ]
+        }
+      ],
+      "korean": "공동체의 회의에 부름받는 사람들은 이러하다. 나이는 …살부터이다. 회중의 모든 [지혜로운 이들]과 분별 있는 이들과 아는 이들, 길이 온전한 이들과 능력 있는 사람들, [지파의 지휘관들]과 그들의 모든 재판장과 관리, 천부장과 [백부장]과 오십부장과 십부장, 그리고 자기 봉사의 [반열] 가운데 있는 레위인들이다. 이들은 이름 있는 사람들, 회합에 부름받은 이들로서, 사독의 아들들인 제사장들 앞에서 이스라엘의 공동체 회의에 모이는 이들이다.",
+      "translation_revision": "sha256:426c20ed1b05955b6e8de34f3fb74fad4e5ae8a8203cc445c19963829c847229",
+      "groups": [
+        {
+          "id": "a-916c42909501c7aeeef7",
+          "source_range": [
+            0,
+            43
+          ],
+          "ko_range": [
+            0,
+            36
+          ],
+          "source_text": "אלה ה(< א >)נשים הנקראים לעצת היחד מבן עש ׃",
+          "ko_text": "공동체의 회의에 부름받는 사람들은 이러하다. 나이는 …살부터이다."
+        },
+        {
+          "id": "a-020cc5380f3c1726effc",
+          "source_range": [
+            44,
+            103
+          ],
+          "ko_range": [
+            37,
+            93
+          ],
+          "source_text": "כול ח#[ כמי  ]ה#עדה והנבונים והידעים תמימי הדרך ואנושי החיל",
+          "ko_text": "회중의 모든 [지혜로운 이들]과 분별 있는 이들과 아는 이들, 길이 온전한 이들과 능력 있는 사람들,"
+        },
+        {
+          "id": "a-186cabf1159200cc67df",
+          "source_range": [
+            104,
+            145
+          ],
+          "ko_range": [
+            94,
+            121
+          ],
+          "source_text": "עם [ שרי השב ]טים וכול שופטי׳הם ושוטרי׳הם",
+          "ko_text": "[지파의 지휘관들]과 그들의 모든 재판장과 관리,"
+        },
+        {
+          "id": "a-2aeddb7bf46450e15a0e",
+          "source_range": [
+            146,
+            188
+          ],
+          "ko_range": [
+            122,
+            144
+          ],
+          "source_text": "ושרי האלפים ושרי[  למאות ] ולחמשים ולעשרות",
+          "ko_text": "천부장과 [백부장]과 오십부장과 십부장,"
+        },
+        {
+          "id": "a-3f61f4735d6ea5ffa922",
+          "source_range": [
+            189,
+            223
+          ],
+          "ko_range": [
+            145,
+            175
+          ],
+          "source_text": "והלויים בתו[ ך מחל ]קת עבו#?דת׳ו ׃",
+          "ko_text": "그리고 자기 봉사의 [반열] 가운데 있는 레위인들이다."
+        },
+        {
+          "id": "a-c881973456da95dacfaa",
+          "source_range": [
+            224,
+            307
+          ],
+          "ko_range": [
+            176,
+            247
+          ],
+          "source_text": "אלה אנושי השם קיראי מועד הנועדים לעצת## ה##י(# ח #)ד בישראל לפני בני צדוק הכוהנים ׃",
+          "ko_text": "이들은 이름 있는 사람들, 회합에 부름받은 이들로서, 사독의 아들들인 제사장들 앞에서 이스라엘의 공동체 회의에 모이는 이들이다."
+        }
+      ],
+      "notes": [
+        "1.27의 ה(< א >)נשים은 필사본에 הנשים(그 여자들)으로 쓰여 있고, 현대 편집자가 알레프를 넣어 האנשים(그 사람들)으로 읽는다. 같은 행의 מבן עש는 나이를 말하는 구절이지만 수사가 עש 두 글자에서 끝나고 바로 문장 표지가 온다. עש는 עשר(열)와 עשרים(스물)의 첫 두 글자다.",
+        "지혜롭고 분별 있고 아는 사람들은 신명기 1.13에서 각 지파에서 택하여 수령으로 세우게 한 사람들이고, 능력 있는 사람들은 출애굽기 18.21에서 천부장과 백부장으로 세운 사람들이다.",
+        "‘이름 있는 사람들, 회합에 부름받은 이들’(אנושי השם קיראי מועד)은 민수기 16.2에서 고라와 함께 모세를 거스른 지휘관들을 가리키는 말(총회에서 택함을 받은 자, 이름 있는 지휘관)과 같다. 2.2의 ה##י(# ח #)ד(היחד)에서는 ה와 ח의 판독이 불확실하다."
+      ],
+      "work_passage_id": "1qsa:1.27-2.3",
+      "html_path": "works/1qsa/index.html#p-1-27-2-3",
+      "fixed_html_path": "releases/public-0.47/works/1qsa/index.html#p-1-27-2-3",
+      "alignment_revision": "sha256:782ea04021dcc519c2737578bad22f1fb5b6a7fa5f5633e9ea7aa242723901f7",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_text_fabric_extraction",
+        "targets": {
+          "source_revision": "sha256:cd4a393492f8677f6616048f4ed84aef59d1b4e30162d2c890e4a52519366d28",
+          "translation_revision": "sha256:426c20ed1b05955b6e8de34f3fb74fad4e5ae8a8203cc445c19963829c847229",
+          "alignment_revision": "sha256:782ea04021dcc519c2737578bad22f1fb5b6a7fa5f5633e9ea7aa242723901f7"
+        },
+        "scoped_ai_review": {
+          "id": "1qsa-qumran-20261102",
+          "scope": "회중 규칙 채택 본문 12대목 전체",
+          "date": "2026-11-02",
+          "targets": {
+            "source_revision": "sha256:cd4a393492f8677f6616048f4ed84aef59d1b4e30162d2c890e4a52519366d28",
+            "translation_revision": "sha256:426c20ed1b05955b6e8de34f3fb74fad4e5ae8a8203cc445c19963829c847229",
+            "alignment_revision": "sha256:782ea04021dcc519c2737578bad22f1fb5b6a7fa5f5633e9ea7aa242723901f7"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-NC 4.0",
+        "source_url": "https://github.com/ETCBC/dss/blob/47ecc1738fad6e67df7d40a3e84d73e4a125e265/tf/2.0.1/full.tf",
+        "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-NC 4.0",
+        "alignment_license": "CC BY-NC 4.0",
+        "notice": "사해문서 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-NC 4.0으로 제공합니다. 출처와 변경 내역을 밝히고 비영리 조건을 지켜야 합니다. 전사는 읽기 문단으로 나누었으며 물리적 열·행의 주소와 편집 기호를 보존했습니다."
+      },
+      "citation": {
+        "author": "익명",
+        "work": "회중 규칙",
+        "reference": "1.27-2.3",
+        "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QSa.",
+        "release": "public-0.47",
+        "translation_revision": "sha256:426c20ed1b05955b6e8de34f3fb74fad4e5ae8a8203cc445c19963829c847229",
+        "fixed_path": "releases/public-0.47/works/1qsa/index.html#p-1-27-2-3"
+      }
+    },
+    {
+      "ref": "2.3-7",
+      "column": 2,
+      "column_end": 2,
+      "line_start": 3,
+      "line_end": 7,
+      "original": "וכול איש מנוגע באחת מ##כ#ו?ל טמאו(^ ת ^) האדם אל יבוא בקהל אל{ ה } ׃ וכול איש מנוגע בא##לה לב##לתי החזיק מעמד בתוך העדה וכול מנוגע בבשר׳ו נכאה ר##ג(# ל #)י#?ם או ידים פסח או עור או חרש או אלם או מום מנוגע בבש#ר׳ו לראות עינים או איש זקן כושל לבלתי התחזק בתוך העדה ׃",
+      "source_layer": "edited_manuscript_transcription",
+      "source_language": "he",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:5802e2da930a1162f8f4f1f0e2a12b7a915dd087c5c4efee0413e4076340acc0",
+      "source_file_sha256": "951ed95573ff1f78c468e6fa1b1f1750631287564534155bd5f9f0c8ae6d5542",
+      "source_line_slices": [
+        {
+          "reference": "2.3",
+          "source_range": [
+            0,
+            40
+          ],
+          "range_in_line": [
+            24,
+            64
+          ],
+          "line_original": "לפני בני צדוק הכוהנים ׃ וכול איש מנוגע באחת מ##כ#ו?ל טמאו(^ ת ^)",
+          "tf_line_node": 1553701
+        },
+        {
+          "reference": "2.4",
+          "source_range": [
+            41,
+            98
+          ],
+          "range_in_line": [
+            0,
+            57
+          ],
+          "line_original": "האדם אל יבוא בקהל אל{ ה } ׃ וכול איש מנוגע בא##לה לב##לתי",
+          "tf_line_node": 1553702
+        },
+        {
+          "reference": "2.5",
+          "source_range": [
+            99,
+            161
+          ],
+          "range_in_line": [
+            0,
+            62
+          ],
+          "line_original": "החזיק מעמד בתוך העדה וכול מנוגע בבשר׳ו נכאה ר##ג(# ל #)י#?ם או",
+          "tf_line_node": 1553703
+        },
+        {
+          "reference": "2.6",
+          "source_range": [
+            162,
+            212
+          ],
+          "range_in_line": [
+            0,
+            50
+          ],
+          "line_original": "ידים פסח או עור או חרש או אלם או מום מנוגע בבש#ר׳ו",
+          "tf_line_node": 1553704
+        },
+        {
+          "reference": "2.7",
+          "source_range": [
+            213,
+            264
+          ],
+          "range_in_line": [
+            0,
+            51
+          ],
+          "line_original": "לראות עינים או איש זקן כושל לבלתי התחזק בתוך העדה ׃",
+          "tf_line_node": 1553705
+        }
+      ],
+      "source_locator": {
+        "scroll": "1QSa",
+        "first_line": "2.3",
+        "last_line": "2.7",
+        "line_nodes": [
+          1553701,
+          1553702,
+          1553703,
+          1553704,
+          1553705
+        ]
+      },
+      "source_annotations": [
+        {
+          "kind": "transcription_brackets",
+          "text": "(^ ת ^)",
+          "source_range": [
+            33,
+            40
+          ]
+        },
+        {
+          "kind": "transcription_brackets",
+          "text": "{ ה }",
+          "source_range": [
+            61,
+            66
+          ]
+        },
+        {
+          "kind": "transcription_brackets",
+          "text": "(# ל #)",
+          "source_range": [
+            147,
+            154
+          ]
+        },
+        {
+          "kind": "transcription_uncertainty",
+          "text": "##",
+          "source_range": [
+            21,
+            23
+          ]
+        },
+        {
+          "kind": "transcription_uncertainty",
+          "text": "#",
+          "source_range": [
+            24,
+            25
+          ]
+        },
+        {
+          "kind": "transcription_uncertainty",
+          "text": "?",
+          "source_range": [
+            26,
+            27
+          ]
+        },
+        {
+          "kind": "transcription_uncertainty",
+          "text": "##",
+          "source_range": [
+            86,
+            88
+          ]
+        },
+        {
+          "kind": "transcription_uncertainty",
+          "text": "##",
+          "source_range": [
+            93,
+            95
+          ]
+        },
+        {
+          "kind": "transcription_uncertainty",
+          "text": "##",
+          "source_range": [
+            144,
+            146
+          ]
+        },
+        {
+          "kind": "transcription_uncertainty",
+          "text": "#",
+          "source_range": [
+            148,
+            149
+          ]
+        },
+        {
+          "kind": "transcription_uncertainty",
+          "text": "#",
+          "source_range": [
+            152,
+            153
+          ]
+        },
+        {
+          "kind": "transcription_uncertainty",
+          "text": "#?",
+          "source_range": [
+            155,
+            157
+          ]
+        },
+        {
+          "kind": "transcription_uncertainty",
+          "text": "#",
+          "source_range": [
+            208,
+            209
+          ]
+        }
+      ],
+      "korean": "사람의 온갖 부정 가운데 어느 하나에라도 걸린 사람은 누구도 하나님의 총회에 들어와서는 안 된다. 이런 것에 걸려 회중 가운데서 자기 자리를 지킬 수 없는 모든 사람, 몸에 상처를 입어 발이나 손이 상한 모든 사람, 다리를 저는 사람, 눈먼 사람, 귀먹은 사람, 말 못하는 사람, 눈에 보이는 흠이 몸에 있는 사람, 늙어 비틀거려서 회중 가운데서 몸을 지탱하지 못하는 사람은,",
+      "translation_revision": "sha256:db25e332f11aa180f8162ae12107b0f198fecf2798775db02f9d97a7c18b8f5e",
+      "groups": [
+        {
+          "id": "a-f30fce167625d5f11f37",
+          "source_range": [
+            0,
+            68
+          ],
+          "ko_range": [
+            0,
+            54
+          ],
+          "source_text": "וכול איש מנוגע באחת מ##כ#ו?ל טמאו(^ ת ^) האדם אל יבוא בקהל אל{ ה } ׃",
+          "ko_text": "사람의 온갖 부정 가운데 어느 하나에라도 걸린 사람은 누구도 하나님의 총회에 들어와서는 안 된다."
+        },
+        {
+          "id": "a-eccbd89883f41aeb89a7",
+          "source_range": [
+            69,
+            119
+          ],
+          "ko_range": [
+            55,
+            93
+          ],
+          "source_text": "וכול איש מנוגע בא##לה לב##לתי החזיק מעמד בתוך העדה",
+          "ko_text": "이런 것에 걸려 회중 가운데서 자기 자리를 지킬 수 없는 모든 사람,"
+        },
+        {
+          "id": "a-67a77546da55357382ca",
+          "source_range": [
+            120,
+            191
+          ],
+          "ko_range": [
+            94,
+            156
+          ],
+          "source_text": "וכול מנוגע בבשר׳ו נכאה ר##ג(# ל #)י#?ם או ידים פסח או עור או חרש או אלם",
+          "ko_text": "몸에 상처를 입어 발이나 손이 상한 모든 사람, 다리를 저는 사람, 눈먼 사람, 귀먹은 사람, 말 못하는 사람,"
+        },
+        {
+          "id": "a-6c5aa8d46427f3f511f6",
+          "source_range": [
+            192,
+            264
+          ],
+          "ko_range": [
+            157,
+            210
+          ],
+          "source_text": "או מום מנוגע בבש#ר׳ו לראות עינים או איש זקן כושל לבלתי התחזק בתוך העדה ׃",
+          "ko_text": "눈에 보이는 흠이 몸에 있는 사람, 늙어 비틀거려서 회중 가운데서 몸을 지탱하지 못하는 사람은,"
+        }
+      ],
+      "notes": [
+        "하나님의 총회에 들어오지 못하는 사람들의 목록은 신명기 23.1-3의 ‘여호와의 총회’ 규정과, 흠 있는 제사장을 제단에서 물리는 레위기 21.17-23의 목록(맹인, 다리 저는 자 등)을 함께 쓴다. 사람의 부정(טמאות האדם)은 레위기 5.3의 ‘사람의 부정’과 같은 말이다.",
+        "2.4의 אל{ ה }는 필사본에 אלה(이들)로 쓰여 있고, 현대 편집자가 ה를 지워 אל(하나님)로 읽는다. 2.3의 טמאו(^ ת ^)에는 행 위에 ת가 덧붙어 복수형 טמאות가 되고, 2.5의 ר##ג(# ל #)י#?ם(רגלים, 발)에서는 ר, ל, י의 판독이 불확실하다.",
+        "1QM 7.4-5도 다리 저는 사람, 눈먼 사람, 절뚝이는 사람, 몸에 영구한 흠이 있는 사람, 몸의 부정에 걸린 사람을 전쟁에 데려가지 않는다. 누가복음 14.13은 잔치에 가난한 자들, 몸 불편한 자들, 저는 자들, 맹인들을 청하라고 하고, 14.21의 큰 잔치 비유에서는 주인이 이들을 데려오게 한다."
+      ],
+      "work_passage_id": "1qsa:2.3-7",
+      "html_path": "works/1qsa/index.html#p-2-3-7",
+      "fixed_html_path": "releases/public-0.47/works/1qsa/index.html#p-2-3-7",
+      "alignment_revision": "sha256:a3ed81bc1ab0e1982b20841c844f8d1a942ff916a2dfd5182cd5ddc299c8feb7",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_text_fabric_extraction",
+        "targets": {
+          "source_revision": "sha256:5802e2da930a1162f8f4f1f0e2a12b7a915dd087c5c4efee0413e4076340acc0",
+          "translation_revision": "sha256:db25e332f11aa180f8162ae12107b0f198fecf2798775db02f9d97a7c18b8f5e",
+          "alignment_revision": "sha256:a3ed81bc1ab0e1982b20841c844f8d1a942ff916a2dfd5182cd5ddc299c8feb7"
+        },
+        "scoped_ai_review": {
+          "id": "1qsa-qumran-20261102",
+          "scope": "회중 규칙 채택 본문 12대목 전체",
+          "date": "2026-11-02",
+          "targets": {
+            "source_revision": "sha256:5802e2da930a1162f8f4f1f0e2a12b7a915dd087c5c4efee0413e4076340acc0",
+            "translation_revision": "sha256:db25e332f11aa180f8162ae12107b0f198fecf2798775db02f9d97a7c18b8f5e",
+            "alignment_revision": "sha256:a3ed81bc1ab0e1982b20841c844f8d1a942ff916a2dfd5182cd5ddc299c8feb7"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-NC 4.0",
+        "source_url": "https://github.com/ETCBC/dss/blob/47ecc1738fad6e67df7d40a3e84d73e4a125e265/tf/2.0.1/full.tf",
+        "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-NC 4.0",
+        "alignment_license": "CC BY-NC 4.0",
+        "notice": "사해문서 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-NC 4.0으로 제공합니다. 출처와 변경 내역을 밝히고 비영리 조건을 지켜야 합니다. 전사는 읽기 문단으로 나누었으며 물리적 열·행의 주소와 편집 기호를 보존했습니다."
+      },
+      "citation": {
+        "author": "익명",
+        "work": "회중 규칙",
+        "reference": "2.3-7",
+        "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QSa.",
+        "release": "public-0.47",
+        "translation_revision": "sha256:db25e332f11aa180f8162ae12107b0f198fecf2798775db02f9d97a7c18b8f5e",
+        "fixed_path": "releases/public-0.47/works/1qsa/index.html#p-2-3-7"
+      }
+    },
+    {
+      "ref": "2.8-12",
+      "column": 2,
+      "column_end": 2,
+      "line_start": 8,
+      "line_end": 12,
+      "original": "אל יב[ ואו  ]אלה להתיצב [ ב ]ת#ו#?ך עדת א#[ נ ]ושי השם כיא מלאכי קודש [ בעד ]ת׳ם ׃ ואם יש דב#[ ר לאחד מ ]אלה לדבר אל עצת הקודש [ ו ]דורש[ ו׳הו  ]מפי׳הו ואל תוך[  העדה ל ]א יבוא האיש כיא מנ?ו#?גע [ ה ]וא ׃ [ זה מו ]שב אנשי השם [ קריאי  ]מועד לעצת היחד אם יולי?ד [ אל  ]א##[ ת  ]המשיח את׳ם ׃",
+      "source_layer": "edited_manuscript_transcription",
+      "source_language": "he",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:b81cb5b8b3bae107ea8e3795dbf6647bc05f380cb3c51ddbc6ef050e4ec7de12",
+      "source_file_sha256": "951ed95573ff1f78c468e6fa1b1f1750631287564534155bd5f9f0c8ae6d5542",
+      "source_line_slices": [
+        {
+          "reference": "2.8",
+          "source_range": [
+            0,
+            64
+          ],
+          "range_in_line": [
+            0,
+            64
+          ],
+          "line_original": "אל יב[ ואו  ]אלה להתיצב [ ב ]ת#ו#?ך עדת א#[ נ ]ושי השם כיא מלאכי",
+          "tf_line_node": 1553706
+        },
+        {
+          "reference": "2.9",
+          "source_range": [
+            65,
+            126
+          ],
+          "range_in_line": [
+            0,
+            61
+          ],
+          "line_original": "קודש [ בעד ]ת׳ם ׃ ואם יש דב#[ ר לאחד מ ]אלה לדבר אל עצת הקודש",
+          "tf_line_node": 1553707
+        },
+        {
+          "reference": "2.10",
+          "source_range": [
+            127,
+            194
+          ],
+          "range_in_line": [
+            0,
+            67
+          ],
+          "line_original": "[ ו ]דורש[ ו׳הו  ]מפי׳הו ואל תוך[  העדה ל ]א יבוא האיש כיא מנ?ו#?גע",
+          "tf_line_node": 1553708
+        },
+        {
+          "reference": "2.11",
+          "source_range": [
+            195,
+            260
+          ],
+          "range_in_line": [
+            0,
+            65
+          ],
+          "line_original": "[ ה ]וא ׃ [ זה מו ]שב אנשי השם [ קריאי  ]מועד לעצת היחד אם יולי?ד",
+          "tf_line_node": 1553709
+        },
+        {
+          "reference": "2.12",
+          "source_range": [
+            261,
+            289
+          ],
+          "range_in_line": [
+            0,
+            28
+          ],
+          "line_original": "[ אל  ]א##[ ת  ]המשיח את׳ם ׃ יבוא[  הכוהן  ]רואש כול עדת ישראל וכול",
+          "tf_line_node": 1553710
+        }
+      ],
+      "source_locator": {
+        "scroll": "1QSa",
+        "first_line": "2.8",
+        "last_line": "2.12",
+        "line_nodes": [
+          1553706,
+          1553707,
+          1553708,
+          1553709,
+          1553710
+        ]
+      },
+      "source_annotations": [
+        {
+          "kind": "transcription_brackets",
+          "text": "[ ואו  ]",
+          "source_range": [
+            5,
+            13
+          ]
+        },
+        {
+          "kind": "transcription_brackets",
+          "text": "[ ב ]",
+          "source_range": [
+            24,
+            29
+          ]
+        },
+        {
+          "kind": "transcription_brackets",
+          "text": "[ נ ]",
+          "source_range": [
+            42,
+            47
+          ]
+        },
+        {
+          "kind": "transcription_brackets",
+          "text": "[ בעד ]",
+          "source_range": [
+            70,
+            77
+          ]
+        },
+        {
+          "kind": "transcription_brackets",
+          "text": "[ ר לאחד מ ]",
+          "source_range": [
+            93,
+            105
+          ]
+        },
+        {
+          "kind": "transcription_brackets",
+          "text": "[ ו ]",
+          "source_range": [
+            127,
+            132
+          ]
+        },
+        {
+          "kind": "transcription_brackets",
+          "text": "[ ו׳הו  ]",
+          "source_range": [
+            136,
+            145
+          ]
+        },
+        {
+          "kind": "transcription_brackets",
+          "text": "[  העדה ל ]",
+          "source_range": [
+            159,
+            170
+          ]
+        },
+        {
+          "kind": "transcription_brackets",
+          "text": "[ ה ]",
+          "source_range": [
+            195,
+            200
+          ]
+        },
+        {
+          "kind": "transcription_brackets",
+          "text": "[ זה מו ]",
+          "source_range": [
+            205,
+            214
+          ]
+        },
+        {
+          "kind": "transcription_brackets",
+          "text": "[ קריאי  ]",
+          "source_range": [
+            226,
+            236
+          ]
+        },
+        {
+          "kind": "transcription_brackets",
+          "text": "[ אל  ]",
+          "source_range": [
+            261,
+            268
+          ]
+        },
+        {
+          "kind": "transcription_brackets",
+          "text": "[ ת  ]",
+          "source_range": [
+            271,
+            277
+          ]
+        },
+        {
+          "kind": "transcription_uncertainty",
+          "text": "#",
+          "source_range": [
+            30,
+            31
+          ]
+        },
+        {
+          "kind": "transcription_uncertainty",
+          "text": "#?",
+          "source_range": [
+            32,
+            34
+          ]
+        },
+        {
+          "kind": "transcription_uncertainty",
+          "text": "#",
+          "source_range": [
+            41,
+            42
+          ]
+        },
+        {
+          "kind": "transcription_uncertainty",
+          "text": "#",
+          "source_range": [
+            92,
+            93
+          ]
+        },
+        {
+          "kind": "transcription_uncertainty",
+          "text": "?",
+          "source_range": [
+            188,
+            189
+          ]
+        },
+        {
+          "kind": "transcription_uncertainty",
+          "text": "#?",
+          "source_range": [
+            190,
+            192
+          ]
+        },
+        {
+          "kind": "transcription_uncertainty",
+          "text": "?",
+          "source_range": [
+            258,
+            259
+          ]
+        },
+        {
+          "kind": "transcription_uncertainty",
+          "text": "##",
+          "source_range": [
+            269,
+            271
+          ]
+        }
+      ],
+      "korean": "이들은 이름 있는 사람들의 회중 가운데 [들어와] 서서는 안 된다. 거룩한 천사들이 그들의 [회중] 안에 있기 때문이다. 이들 가운데 [누군가에게] 거룩한 회의에 전할 말이 있으면, 그의 입에서 [그 말을] 물어 들어야 한다. 그 사람은 [회중] 안으로 들어와서는 안 된다. 그는 그런 것에 걸린 사람이기 때문이다. [이것은] 공동체의 회의를 위한 회합에 [부름받은] 이름 있는 사람들이 [앉는 자리]이다. [하나님이] 그들 가운데 메시아를 낳게 하실 때의 일이다.",
+      "translation_revision": "sha256:fbe50993db4b11ddc892110c7f4eb0d7d66820b30f1d0863ba072db24439d67e",
+      "groups": [
+        {
+          "id": "a-338cec1bb8d600992c43",
+          "source_range": [
+            0,
+            82
+          ],
+          "ko_range": [
+            0,
+            67
+          ],
+          "source_text": "אל יב[ ואו  ]אלה להתיצב [ ב ]ת#ו#?ך עדת א#[ נ ]ושי השם כיא מלאכי קודש [ בעד ]ת׳ם ׃",
+          "ko_text": "이들은 이름 있는 사람들의 회중 가운데 [들어와] 서서는 안 된다. 거룩한 천사들이 그들의 [회중] 안에 있기 때문이다."
+        },
+        {
+          "id": "a-2a7a4f5c691b65c1df8d",
+          "source_range": [
+            83,
+            151
+          ],
+          "ko_range": [
+            68,
+            126
+          ],
+          "source_text": "ואם יש דב#[ ר לאחד מ ]אלה לדבר אל עצת הקודש [ ו ]דורש[ ו׳הו  ]מפי׳הו",
+          "ko_text": "이들 가운데 [누군가에게] 거룩한 회의에 전할 말이 있으면, 그의 입에서 [그 말을] 물어 들어야 한다."
+        },
+        {
+          "id": "a-3de990514e27abaaa4aa",
+          "source_range": [
+            152,
+            204
+          ],
+          "ko_range": [
+            127,
+            176
+          ],
+          "source_text": "ואל תוך[  העדה ל ]א יבוא האיש כיא מנ?ו#?גע [ ה ]וא ׃",
+          "ko_text": "그 사람은 [회중] 안으로 들어와서는 안 된다. 그는 그런 것에 걸린 사람이기 때문이다."
+        },
+        {
+          "id": "a-d929257d8f190fd83c70",
+          "source_range": [
+            205,
+            250
+          ],
+          "ko_range": [
+            177,
+            227
+          ],
+          "source_text": "[ זה מו ]שב אנשי השם [ קריאי  ]מועד לעצת היחד",
+          "ko_text": "[이것은] 공동체의 회의를 위한 회합에 [부름받은] 이름 있는 사람들이 [앉는 자리]이다."
+        },
+        {
+          "id": "a-0b1d2a2e347f6f7c9485",
+          "source_range": [
+            251,
+            289
+          ],
+          "ko_range": [
+            228,
+            260
+          ],
+          "source_text": "אם יולי?ד [ אל  ]א##[ ת  ]המשיח את׳ם ׃",
+          "ko_text": "[하나님이] 그들 가운데 메시아를 낳게 하실 때의 일이다."
+        }
+      ],
+      "notes": [
+        "거룩한 천사들이 회중 안에 있기 때문에 흠 있는 사람이 들어오지 못한다는 근거는 1QM 7.6의 전쟁 진영 정결 규정에도 붙어 있다. CD 15.15-17도 어리석은 자(אויל), 미친 자, 단순한 자(פתי), 눈이 어두운 자, 어린 소년을 회중 안에 들어오지 못하게 하며, 이 사본에서 천사들에 관한 근거는 복원된 부분에 있다. 고린도전서 11.10은 모임의 규정에 ‘천사들로 말미암아’라는 근거를 붙인다.",
+        "2.11의 יולי?ד에서는 둘째 י의 판독이 불확실하고, 마지막 글자 ד에는 불확실 표지가 없다. ד로 읽으면 ‘낳게 하다’(יוליד)이고, 마지막 글자를 모양이 비슷한 ך로 보면 ‘이끌다, 데려오다’(יוליך)가 된다. 낳는다는 동사는 시편 2.7의 ‘오늘 내가 너를 낳았도다’와 같은 어근(ילד)이다. 주어 ‘하나님’(אל)은 복원된 말이다.",
+        "‘앉는 자리’(מושב)는 1QS 6.8에서 전체 모임이 앉는 순서를 정하는 규정과 CD 12.22-23의 진영 규칙에도 쓰인 낱말이다."
+      ],
+      "work_passage_id": "1qsa:2.8-12",
+      "html_path": "works/1qsa/index.html#p-2-8-12",
+      "fixed_html_path": "releases/public-0.47/works/1qsa/index.html#p-2-8-12",
+      "alignment_revision": "sha256:b017dc4c9df47d664fb64b43838626503e84a31d195aab0eef2e853f2931437d",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_text_fabric_extraction",
+        "targets": {
+          "source_revision": "sha256:b81cb5b8b3bae107ea8e3795dbf6647bc05f380cb3c51ddbc6ef050e4ec7de12",
+          "translation_revision": "sha256:fbe50993db4b11ddc892110c7f4eb0d7d66820b30f1d0863ba072db24439d67e",
+          "alignment_revision": "sha256:b017dc4c9df47d664fb64b43838626503e84a31d195aab0eef2e853f2931437d"
+        },
+        "scoped_ai_review": {
+          "id": "1qsa-qumran-20261102",
+          "scope": "회중 규칙 채택 본문 12대목 전체",
+          "date": "2026-11-02",
+          "targets": {
+            "source_revision": "sha256:b81cb5b8b3bae107ea8e3795dbf6647bc05f380cb3c51ddbc6ef050e4ec7de12",
+            "translation_revision": "sha256:fbe50993db4b11ddc892110c7f4eb0d7d66820b30f1d0863ba072db24439d67e",
+            "alignment_revision": "sha256:b017dc4c9df47d664fb64b43838626503e84a31d195aab0eef2e853f2931437d"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-NC 4.0",
+        "source_url": "https://github.com/ETCBC/dss/blob/47ecc1738fad6e67df7d40a3e84d73e4a125e265/tf/2.0.1/full.tf",
+        "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-NC 4.0",
+        "alignment_license": "CC BY-NC 4.0",
+        "notice": "사해문서 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-NC 4.0으로 제공합니다. 출처와 변경 내역을 밝히고 비영리 조건을 지켜야 합니다. 전사는 읽기 문단으로 나누었으며 물리적 열·행의 주소와 편집 기호를 보존했습니다."
+      },
+      "citation": {
+        "author": "익명",
+        "work": "회중 규칙",
+        "reference": "2.8-12",
+        "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QSa.",
+        "release": "public-0.47",
+        "translation_revision": "sha256:fbe50993db4b11ddc892110c7f4eb0d7d66820b30f1d0863ba072db24439d67e",
+        "fixed_path": "releases/public-0.47/works/1qsa/index.html#p-2-8-12"
+      }
+    },
+    {
+      "ref": "2.12-17",
+      "column": 2,
+      "column_end": 2,
+      "line_start": 12,
+      "line_end": 17,
+      "original": "יבוא[  הכוהן  ]רואש כול עדת ישראל וכול א#[ בות בני ] אהרון הכוהנים [ קריאי  ]מועד אנושי השם ׃ וישבו ל[ פני׳ו איש ] לפי כבוד׳ו ׃ ואחר י#?[ שב מש ]י#?ח ישראל וישבו לפני׳ו ראש(^ י ^) א[ לפי ישראל אי ]ש לפי כבוד׳ו כמ##[ עמד׳ו ] במחני׳הם וכמסעי׳הם ׃ וכול ראשי א[ בות הע ]ד#ה עם חכמ#[ י עדת הקודש  ]ישבו לפני׳הם איש לפי כבוד׳ו ׃",
+      "source_layer": "edited_manuscript_transcription",
+      "source_language": "he",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:ea3e17ee581f9ac56e796d0d6cb7c7f02d35f062b7fc3e73bbbd49407dac6dc5",
+      "source_file_sha256": "951ed95573ff1f78c468e6fa1b1f1750631287564534155bd5f9f0c8ae6d5542",
+      "source_line_slices": [
+        {
+          "reference": "2.12",
+          "source_range": [
+            0,
+            38
+          ],
+          "range_in_line": [
+            29,
+            67
+          ],
+          "line_original": "[ אל  ]א##[ ת  ]המשיח את׳ם ׃ יבוא[  הכוהן  ]רואש כול עדת ישראל וכול",
+          "tf_line_node": 1553710
+        },
+        {
+          "reference": "2.13",
+          "source_range": [
+            39,
+            99
+          ],
+          "range_in_line": [
+            0,
+            60
+          ],
+          "line_original": "א#[ בות בני ] אהרון הכוהנים [ קריאי  ]מועד אנושי השם ׃ וישבו",
+          "tf_line_node": 1553711
+        },
+        {
+          "reference": "2.14",
+          "source_range": [
+            100,
+            179
+          ],
+          "range_in_line": [
+            0,
+            79
+          ],
+          "line_original": "ל[ פני׳ו איש ] לפי כבוד׳ו ׃ ואחר י#?[ שב מש ]י#?ח ישראל וישבו לפני׳ו ראש(^ י ^)",
+          "tf_line_node": 1553712
+        },
+        {
+          "reference": "2.15",
+          "source_range": [
+            180,
+            249
+          ],
+          "range_in_line": [
+            0,
+            69
+          ],
+          "line_original": "א[ לפי ישראל אי ]ש לפי כבוד׳ו כמ##[ עמד׳ו ] במחני׳הם וכמסעי׳הם ׃ וכול",
+          "tf_line_node": 1553713
+        },
+        {
+          "reference": "2.16",
+          "source_range": [
+            250,
+            313
+          ],
+          "range_in_line": [
+            0,
+            63
+          ],
+          "line_original": "ראשי א[ בות הע ]ד#ה עם חכמ#[ י עדת הקודש  ]ישבו לפני׳הם איש לפי",
+          "tf_line_node": 1553714
+        },
+        {
+          "reference": "2.17",
+          "source_range": [
+            314,
+            322
+          ],
+          "range_in_line": [
+            0,
+            8
+          ],
+          "line_original": "כבוד׳ו ׃ ו#?[ אם לשול ]חן יחד יועד[ ו או לשתות הת ]ירוש וערוך השולחן",
+          "tf_line_node": 1553715
+        }
+      ],
+      "source_locator": {
+        "scroll": "1QSa",
+        "first_line": "2.12",
+        "last_line": "2.17",
+        "line_nodes": [
+          1553710,
+          1553711,
+          1553712,
+          1553713,
+          1553714,
+          1553715
+        ]
+      },
+      "source_annotations": [
+        {
+          "kind": "transcription_brackets",
+          "text": "[  הכוהן  ]",
+          "source_range": [
+            4,
+            15
+          ]
+        },
+        {
+          "kind": "transcription_brackets",
+          "text": "[ בות בני ]",
+          "source_range": [
+            41,
+            52
+          ]
+        },
+        {
+          "kind": "transcription_brackets",
+          "text": "[ קריאי  ]",
+          "source_range": [
+            67,
+            77
+          ]
+        },
+        {
+          "kind": "transcription_brackets",
+          "text": "[ פני׳ו איש ]",
+          "source_range": [
+            101,
+            114
+          ]
+        },
+        {
+          "kind": "transcription_brackets",
+          "text": "[ שב מש ]",
+          "source_range": [
+            136,
+            145
+          ]
+        },
+        {
+          "kind": "transcription_brackets",
+          "text": "(^ י ^)",
+          "source_range": [
+            172,
+            179
+          ]
+        },
+        {
+          "kind": "transcription_brackets",
+          "text": "[ לפי ישראל אי ]",
+          "source_range": [
+            181,
+            197
+          ]
+        },
+        {
+          "kind": "transcription_brackets",
+          "text": "[ עמד׳ו ]",
+          "source_range": [
+            214,
+            223
+          ]
+        },
+        {
+          "kind": "transcription_brackets",
+          "text": "[ בות הע ]",
+          "source_range": [
+            256,
+            266
+          ]
+        },
+        {
+          "kind": "transcription_brackets",
+          "text": "[ י עדת הקודש  ]",
+          "source_range": [
+            277,
+            293
+          ]
+        },
+        {
+          "kind": "transcription_uncertainty",
+          "text": "#",
+          "source_range": [
+            40,
+            41
+          ]
+        },
+        {
+          "kind": "transcription_uncertainty",
+          "text": "#?",
+          "source_range": [
+            134,
+            136
+          ]
+        },
+        {
+          "kind": "transcription_uncertainty",
+          "text": "#?",
+          "source_range": [
+            146,
+            148
+          ]
+        },
+        {
+          "kind": "transcription_uncertainty",
+          "text": "##",
+          "source_range": [
+            212,
+            214
+          ]
+        },
+        {
+          "kind": "transcription_uncertainty",
+          "text": "#",
+          "source_range": [
+            267,
+            268
+          ]
+        },
+        {
+          "kind": "transcription_uncertainty",
+          "text": "#",
+          "source_range": [
+            276,
+            277
+          ]
+        }
+      ],
+      "korean": "이스라엘 온 회중의 우두머리인 [제사장]이 들어오고, 아론의 [아들들]인 제사장들의 모든 [가문 우두머리], 곧 회합에 [부름받은] 이름 있는 사람들이 들어온다. 그들은 [각자] 자기 지위에 따라 [그의 앞에] 앉는다. 그 뒤에 이스라엘의 [메시아]가 [앉고], [이스라엘 천 명 부대의] 우두머리들이 [각자] 자기 지위에 따라, 그들의 진영과 행군에서 [차지하는 자리]대로 그의 앞에 앉는다. 회중의 모든 [가문] 우두머리들은 [거룩한 회중의] 지혜로운 이들과 함께, 각자 자기 지위에 따라 그들 앞에 앉는다.",
+      "translation_revision": "sha256:7783dd32497d415c38c110f3bc55e63d1f2e3c798913fdffc1ece694fdc11e0e",
+      "groups": [
+        {
+          "id": "a-402698d3d550227a72d4",
+          "source_range": [
+            0,
+            93
+          ],
+          "ko_range": [
+            0,
+            90
+          ],
+          "source_text": "יבוא[  הכוהן  ]רואש כול עדת ישראל וכול א#[ בות בני ] אהרון הכוהנים [ קריאי  ]מועד אנושי השם ׃",
+          "ko_text": "이스라엘 온 회중의 우두머리인 [제사장]이 들어오고, 아론의 [아들들]인 제사장들의 모든 [가문 우두머리], 곧 회합에 [부름받은] 이름 있는 사람들이 들어온다."
+        },
+        {
+          "id": "a-de2b1ea6d4be8f6767e3",
+          "source_range": [
+            94,
+            127
+          ],
+          "ko_range": [
+            91,
+            122
+          ],
+          "source_text": "וישבו ל[ פני׳ו איש ] לפי כבוד׳ו ׃",
+          "ko_text": "그들은 [각자] 자기 지위에 따라 [그의 앞에] 앉는다."
+        },
+        {
+          "id": "a-e124da1b565687eaa670",
+          "source_range": [
+            128,
+            244
+          ],
+          "ko_range": [
+            123,
+            220
+          ],
+          "source_text": "ואחר י#?[ שב מש ]י#?ח ישראל וישבו לפני׳ו ראש(^ י ^) א[ לפי ישראל אי ]ש לפי כבוד׳ו כמ##[ עמד׳ו ] במחני׳הם וכמסעי׳הם ׃",
+          "ko_text": "그 뒤에 이스라엘의 [메시아]가 [앉고], [이스라엘 천 명 부대의] 우두머리들이 [각자] 자기 지위에 따라, 그들의 진영과 행군에서 [차지하는 자리]대로 그의 앞에 앉는다."
+        },
+        {
+          "id": "a-65230113e7ce8bb1a33e",
+          "source_range": [
+            245,
+            322
+          ],
+          "ko_range": [
+            221,
+            286
+          ],
+          "source_text": "וכול ראשי א[ בות הע ]ד#ה עם חכמ#[ י עדת הקודש  ]ישבו לפני׳הם איש לפי כבוד׳ו ׃",
+          "ko_text": "회중의 모든 [가문] 우두머리들은 [거룩한 회중의] 지혜로운 이들과 함께, 각자 자기 지위에 따라 그들 앞에 앉는다."
+        }
+      ],
+      "notes": [
+        "2.12의 ‘제사장’은 복원된 말이다. 이 대목에서는 이스라엘 온 회중의 우두머리인 제사장과 아론의 아들들인 제사장들이 먼저 들어와 앉고, 이스라엘의 메시아는 그 뒤에 앉는다. 2.19-20에서도 제사장이 먼저 빵과 포도주를 축복하고 이스라엘의 메시아가 그 뒤에 손을 뻗는다.",
+        "메시아(משיח)는 ‘기름부음 받은 이’라는 뜻이다. 1QS 9.11은 ‘예언자와 아론과 이스라엘의 기름부음 받은 이들’을 복수로 말하고, CD 12.23-13.1, 19.10-11, 20.1은 ‘아론과 이스라엘의 메시아’를 단수로 쓴다. 2.14의 ‘메시아’는 앞의 두 글자가 복원이고, 2.20의 ‘이스라엘의 메시아’는 온전히 남아 있다.",
+        "각자 자기 지위에 따라 그의 앞에 앉는다는 규정은 1QS 6.4에서 각자 자기 순서에 따라 제사장 앞에 앉게 한 규정과 같은 구조다. 2.15의 אלפי ישראל은 첫 글자 א만 남아 있고 나머지는 복원이며, 같은 칭호 ראשי אלפי ישראל은 1.14에 온전히 남아 있다. 민수기 1.16은 이 칭호를 ‘회중에서 부름을 받은 자’(קריאי העדה)와 함께 쓰며, 개역개정은 ‘이스라엘 종족들의 우두머리’로 옮긴다."
+      ],
+      "work_passage_id": "1qsa:2.12-17",
+      "html_path": "works/1qsa/index.html#p-2-12-17",
+      "fixed_html_path": "releases/public-0.47/works/1qsa/index.html#p-2-12-17",
+      "alignment_revision": "sha256:7032f7db70331fe4ab498b88710955cfe3f25f4747c62b9b46a7363beea661cd",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_text_fabric_extraction",
+        "targets": {
+          "source_revision": "sha256:ea3e17ee581f9ac56e796d0d6cb7c7f02d35f062b7fc3e73bbbd49407dac6dc5",
+          "translation_revision": "sha256:7783dd32497d415c38c110f3bc55e63d1f2e3c798913fdffc1ece694fdc11e0e",
+          "alignment_revision": "sha256:7032f7db70331fe4ab498b88710955cfe3f25f4747c62b9b46a7363beea661cd"
+        },
+        "scoped_ai_review": {
+          "id": "1qsa-qumran-20261102",
+          "scope": "회중 규칙 채택 본문 12대목 전체",
+          "date": "2026-11-02",
+          "targets": {
+            "source_revision": "sha256:ea3e17ee581f9ac56e796d0d6cb7c7f02d35f062b7fc3e73bbbd49407dac6dc5",
+            "translation_revision": "sha256:7783dd32497d415c38c110f3bc55e63d1f2e3c798913fdffc1ece694fdc11e0e",
+            "alignment_revision": "sha256:7032f7db70331fe4ab498b88710955cfe3f25f4747c62b9b46a7363beea661cd"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-NC 4.0",
+        "source_url": "https://github.com/ETCBC/dss/blob/47ecc1738fad6e67df7d40a3e84d73e4a125e265/tf/2.0.1/full.tf",
+        "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-NC 4.0",
+        "alignment_license": "CC BY-NC 4.0",
+        "notice": "사해문서 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-NC 4.0으로 제공합니다. 출처와 변경 내역을 밝히고 비영리 조건을 지켜야 합니다. 전사는 읽기 문단으로 나누었으며 물리적 열·행의 주소와 편집 기호를 보존했습니다."
+      },
+      "citation": {
+        "author": "익명",
+        "work": "회중 규칙",
+        "reference": "2.12-17",
+        "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QSa.",
+        "release": "public-0.47",
+        "translation_revision": "sha256:7783dd32497d415c38c110f3bc55e63d1f2e3c798913fdffc1ece694fdc11e0e",
+        "fixed_path": "releases/public-0.47/works/1qsa/index.html#p-2-12-17"
+      }
+    },
+    {
+      "ref": "2.17-21",
+      "column": 2,
+      "column_end": 2,
+      "line_start": 17,
+      "line_end": 21,
+      "original": "ו#?[ אם לשול ]חן יחד יועד[ ו או לשתות הת ]ירוש וערוך השולחן היחד [ ומסוך ה ]תירוש לשתות#[  אל ישלח  ]איש את יד׳ו ברשת הלחם ו[ התירוש ] לפני הכוהן ׃ כיא##[  הוא מ ]ברך את רשית הלחם והתירו[ ש ושלח  ]יד׳ו בלחם לפנים ׃ ואח[ ר יש ]ל##ח משיח ישראל ידי׳ו בלחם ׃",
+      "source_layer": "edited_manuscript_transcription",
+      "source_language": "he",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:e7070e4cddc715f6381e371a8ceb9fad8aafde9efd9810a0fad5ffa466b73f05",
+      "source_file_sha256": "951ed95573ff1f78c468e6fa1b1f1750631287564534155bd5f9f0c8ae6d5542",
+      "source_line_slices": [
+        {
+          "reference": "2.17",
+          "source_range": [
+            0,
+            59
+          ],
+          "range_in_line": [
+            9,
+            68
+          ],
+          "line_original": "כבוד׳ו ׃ ו#?[ אם לשול ]חן יחד יועד[ ו או לשתות הת ]ירוש וערוך השולחן",
+          "tf_line_node": 1553715
+        },
+        {
+          "reference": "2.18",
+          "source_range": [
+            60,
+            117
+          ],
+          "range_in_line": [
+            0,
+            57
+          ],
+          "line_original": "היחד [ ומסוך ה ]תירוש לשתות#[  אל ישלח  ]איש את יד׳ו ברשת",
+          "tf_line_node": 1553716
+        },
+        {
+          "reference": "2.19",
+          "source_range": [
+            118,
+            179
+          ],
+          "range_in_line": [
+            0,
+            61
+          ],
+          "line_original": "הלחם ו[ התירוש ] לפני הכוהן ׃ כיא##[  הוא מ ]ברך את רשית הלחם",
+          "tf_line_node": 1553717
+        },
+        {
+          "reference": "2.20",
+          "source_range": [
+            180,
+            247
+          ],
+          "range_in_line": [
+            0,
+            67
+          ],
+          "line_original": "והתירו[ ש ושלח  ]יד׳ו בלחם לפנים ׃ ואח[ ר יש ]ל##ח משיח ישראל ידי׳ו",
+          "tf_line_node": 1553718
+        },
+        {
+          "reference": "2.21",
+          "source_range": [
+            248,
+            254
+          ],
+          "range_in_line": [
+            0,
+            6
+          ],
+          "line_original": "בלחם ׃ [ ואחר יבר ]כו כול עדת היחד א[ יש לפי ] כבוד׳ו ׃ וכחוק הזה יעש[ ו ]",
+          "tf_line_node": 1553719
+        }
+      ],
+      "source_locator": {
+        "scroll": "1QSa",
+        "first_line": "2.17",
+        "last_line": "2.21",
+        "line_nodes": [
+          1553715,
+          1553716,
+          1553717,
+          1553718,
+          1553719
+        ]
+      },
+      "source_annotations": [
+        {
+          "kind": "transcription_brackets",
+          "text": "[ אם לשול ]",
+          "source_range": [
+            3,
+            14
+          ]
+        },
+        {
+          "kind": "transcription_brackets",
+          "text": "[ ו או לשתות הת ]",
+          "source_range": [
+            25,
+            42
+          ]
+        },
+        {
+          "kind": "transcription_brackets",
+          "text": "[ ומסוך ה ]",
+          "source_range": [
+            65,
+            76
+          ]
+        },
+        {
+          "kind": "transcription_brackets",
+          "text": "[  אל ישלח  ]",
+          "source_range": [
+            88,
+            101
+          ]
+        },
+        {
+          "kind": "transcription_brackets",
+          "text": "[ התירוש ]",
+          "source_range": [
+            124,
+            134
+          ]
+        },
+        {
+          "kind": "transcription_brackets",
+          "text": "[  הוא מ ]",
+          "source_range": [
+            153,
+            163
+          ]
+        },
+        {
+          "kind": "transcription_brackets",
+          "text": "[ ש ושלח  ]",
+          "source_range": [
+            186,
+            197
+          ]
+        },
+        {
+          "kind": "transcription_brackets",
+          "text": "[ ר יש ]",
+          "source_range": [
+            218,
+            226
+          ]
+        },
+        {
+          "kind": "transcription_uncertainty",
+          "text": "#?",
+          "source_range": [
+            1,
+            3
+          ]
+        },
+        {
+          "kind": "transcription_uncertainty",
+          "text": "#",
+          "source_range": [
+            87,
+            88
+          ]
+        },
+        {
+          "kind": "transcription_uncertainty",
+          "text": "##",
+          "source_range": [
+            151,
+            153
+          ]
+        },
+        {
+          "kind": "transcription_uncertainty",
+          "text": "##",
+          "source_range": [
+            227,
+            229
+          ]
+        }
+      ],
+      "korean": "[그들이] 함께 [상]에 모이거나 포도주를 [마시려고] 모일 때, 공동체의 상이 차려지고 마실 포도주가 [섞여 있으면], 아무도 제사장보다 먼저 빵과 [포도주]의 첫 몫에 손을 [뻗어서는 안 된다]. [그가] 빵과 포도주의 첫 몫을 축복하고 먼저 빵에 손을 [뻗기] 때문이다. 그 뒤에 이스라엘의 메시아가 두 손을 빵에 뻗는다.",
+      "translation_revision": "sha256:dbc5b0ab57a2a0bc2c098e02f01e225fcd7089ea34ce0b8d7a3e2612af2df9bd",
+      "groups": [
+        {
+          "id": "a-aaabfbcc5e42d60be3e8",
+          "source_range": [
+            0,
+            89
+          ],
+          "ko_range": [
+            0,
+            67
+          ],
+          "source_text": "ו#?[ אם לשול ]חן יחד יועד[ ו או לשתות הת ]ירוש וערוך השולחן היחד [ ומסוך ה ]תירוש לשתות#[",
+          "ko_text": "[그들이] 함께 [상]에 모이거나 포도주를 [마시려고] 모일 때, 공동체의 상이 차려지고 마실 포도주가 [섞여 있으면],"
+        },
+        {
+          "id": "a-1aa4355f4650d60e0e02",
+          "source_range": [
+            91,
+            147
+          ],
+          "ko_range": [
+            68,
+            111
+          ],
+          "source_text": "אל ישלח  ]איש את יד׳ו ברשת הלחם ו[ התירוש ] לפני הכוהן ׃",
+          "ko_text": "아무도 제사장보다 먼저 빵과 [포도주]의 첫 몫에 손을 [뻗어서는 안 된다]."
+        },
+        {
+          "id": "a-7374c26ca4198b4d6bf8",
+          "source_range": [
+            148,
+            214
+          ],
+          "ko_range": [
+            112,
+            154
+          ],
+          "source_text": "כיא##[  הוא מ ]ברך את רשית הלחם והתירו[ ש ושלח  ]יד׳ו בלחם לפנים ׃",
+          "ko_text": "[그가] 빵과 포도주의 첫 몫을 축복하고 먼저 빵에 손을 [뻗기] 때문이다."
+        },
+        {
+          "id": "a-ec2e25a7fac240647ac9",
+          "source_range": [
+            215,
+            254
+          ],
+          "ko_range": [
+            155,
+            183
+          ],
+          "source_text": "ואח[ ר יש ]ל##ח משיח ישראל ידי׳ו בלחם ׃",
+          "ko_text": "그 뒤에 이스라엘의 메시아가 두 손을 빵에 뻗는다."
+        }
+      ],
+      "notes": [
+        "제사장이 빵과 포도주의 첫 몫에 먼저 손을 뻗어 축복하는 규정은 1QS 6.4-6에도 있다. 이 대목은 같은 순서 뒤에 이스라엘의 메시아와 공동체의 온 회중을 더한다.",
+        "상을 차린다는 말(ערוך השולחן)과, 동사가 복원된 ‘포도주를 섞는다’(מסוך התירוש)는 잠언 9.2의 ‘포도주를 혼합하여 상을 갖추고’와 같은 동사를 쓴다. 1QS 6.4도 상을 차리는 데 같은 동사 ערך를 쓴다. תירוש는 성경에서 주로 새 포도주를 가리킨다. ברשת와 רשית는 ראשית(첫 몫)를 알레프 없이 쓴 철자다."
+      ],
+      "work_passage_id": "1qsa:2.17-21",
+      "html_path": "works/1qsa/index.html#p-2-17-21",
+      "fixed_html_path": "releases/public-0.47/works/1qsa/index.html#p-2-17-21",
+      "alignment_revision": "sha256:addbeb844999b7b54dc1e12fb530f3075f4c1b5ad2ed4a1aca02692d659e29f1",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_text_fabric_extraction",
+        "targets": {
+          "source_revision": "sha256:e7070e4cddc715f6381e371a8ceb9fad8aafde9efd9810a0fad5ffa466b73f05",
+          "translation_revision": "sha256:dbc5b0ab57a2a0bc2c098e02f01e225fcd7089ea34ce0b8d7a3e2612af2df9bd",
+          "alignment_revision": "sha256:addbeb844999b7b54dc1e12fb530f3075f4c1b5ad2ed4a1aca02692d659e29f1"
+        },
+        "scoped_ai_review": {
+          "id": "1qsa-qumran-20261102",
+          "scope": "회중 규칙 채택 본문 12대목 전체",
+          "date": "2026-11-02",
+          "targets": {
+            "source_revision": "sha256:e7070e4cddc715f6381e371a8ceb9fad8aafde9efd9810a0fad5ffa466b73f05",
+            "translation_revision": "sha256:dbc5b0ab57a2a0bc2c098e02f01e225fcd7089ea34ce0b8d7a3e2612af2df9bd",
+            "alignment_revision": "sha256:addbeb844999b7b54dc1e12fb530f3075f4c1b5ad2ed4a1aca02692d659e29f1"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-NC 4.0",
+        "source_url": "https://github.com/ETCBC/dss/blob/47ecc1738fad6e67df7d40a3e84d73e4a125e265/tf/2.0.1/full.tf",
+        "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-NC 4.0",
+        "alignment_license": "CC BY-NC 4.0",
+        "notice": "사해문서 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-NC 4.0으로 제공합니다. 출처와 변경 내역을 밝히고 비영리 조건을 지켜야 합니다. 전사는 읽기 문단으로 나누었으며 물리적 열·행의 주소와 편집 기호를 보존했습니다."
+      },
+      "citation": {
+        "author": "익명",
+        "work": "회중 규칙",
+        "reference": "2.17-21",
+        "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QSa.",
+        "release": "public-0.47",
+        "translation_revision": "sha256:dbc5b0ab57a2a0bc2c098e02f01e225fcd7089ea34ce0b8d7a3e2612af2df9bd",
+        "fixed_path": "releases/public-0.47/works/1qsa/index.html#p-2-17-21"
+      }
+    },
+    {
+      "ref": "2.21-22",
+      "column": 2,
+      "column_end": 2,
+      "line_start": 21,
+      "line_end": 22,
+      "original": "[ ואחר יבר ]כו כול עדת היחד א[ יש לפי ] כבוד׳ו ׃ וכחוק הזה יעש[ ו ] לכול מע[ רכת כי יו ]עדו עד עשרא אנש[ ים ׃",
+      "source_layer": "edited_manuscript_transcription",
+      "source_language": "he",
+      "source_kind": "edited_ancient_original",
+      "source_revision": "sha256:caeec7147778fbb5b7666c3425448cdf912a1b8e73b5efaf74e7985c5231022d",
+      "source_file_sha256": "951ed95573ff1f78c468e6fa1b1f1750631287564534155bd5f9f0c8ae6d5542",
+      "source_line_slices": [
+        {
+          "reference": "2.21",
+          "source_range": [
+            0,
+            67
+          ],
+          "range_in_line": [
+            7,
+            74
+          ],
+          "line_original": "בלחם ׃ [ ואחר יבר ]כו כול עדת היחד א[ יש לפי ] כבוד׳ו ׃ וכחוק הזה יעש[ ו ]",
+          "tf_line_node": 1553719
+        },
+        {
+          "reference": "2.22",
+          "source_range": [
+            68,
+            109
+          ],
+          "range_in_line": [
+            0,
+            41
+          ],
+          "line_original": "לכול מע[ רכת כי יו ]עדו עד עשרא אנש[ ים ׃",
+          "tf_line_node": 1553720
+        }
+      ],
+      "source_locator": {
+        "scroll": "1QSa",
+        "first_line": "2.21",
+        "last_line": "2.22",
+        "line_nodes": [
+          1553719,
+          1553720
+        ]
+      },
+      "source_annotations": [
+        {
+          "kind": "transcription_brackets",
+          "text": "[ ואחר יבר ]",
+          "source_range": [
+            0,
+            12
+          ]
+        },
+        {
+          "kind": "transcription_brackets",
+          "text": "[ יש לפי ]",
+          "source_range": [
+            29,
+            39
+          ]
+        },
+        {
+          "kind": "transcription_brackets",
+          "text": "[ ו ]",
+          "source_range": [
+            62,
+            67
+          ]
+        },
+        {
+          "kind": "transcription_brackets",
+          "text": "[ רכת כי יו ]",
+          "source_range": [
+            75,
+            88
+          ]
+        }
+      ],
+      "korean": "[그 뒤에] 공동체의 온 회중이 [각자] 자기 지위에 따라 [축복한다]. [그들이] 모이는 모든 [식사 자리]에서는 열 사람만 있어도 이 규례대로 행한다.",
+      "translation_revision": "sha256:6a07eeb083d4e1c651315145f132b4e3fb6723a0779800e22304065b7f1c9846",
+      "groups": [
+        {
+          "id": "a-7edf7d022fcfb42d7389",
+          "source_range": [
+            0,
+            48
+          ],
+          "ko_range": [
+            0,
+            40
+          ],
+          "source_text": "[ ואחר יבר ]כו כול עדת היחד א[ יש לפי ] כבוד׳ו ׃",
+          "ko_text": "[그 뒤에] 공동체의 온 회중이 [각자] 자기 지위에 따라 [축복한다]."
+        },
+        {
+          "id": "a-348ec8efb7e777a8cb07",
+          "source_range": [
+            49,
+            109
+          ],
+          "ko_range": [
+            41,
+            86
+          ],
+          "source_text": "וכחוק הזה יעש[ ו ] לכול מע[ רכת כי יו ]עדו עד עשרא אנש[ ים ׃",
+          "ko_text": "[그들이] 모이는 모든 [식사 자리]에서는 열 사람만 있어도 이 규례대로 행한다."
+        }
+      ],
+      "notes": [
+        "열 사람이라는 단위는 1QS 6.3-4, 6.6에서 공동체의 회의에 속한 사람 열 명이 있는 곳마다 제사장 한 사람과 율법을 연구하는 사람이 있어야 한다는 규정에 나온다. CD 13.1-2도 열 사람을 최소 단위로 삼고, 열 사람이 있는 곳에는 하기의 책에 정통한 제사장이 있어야 한다고 한다. 2.22의 עשרא는 עשרה를 알레프로 쓴 철자다.",
+        "1QSa 본문은 2.22에서 끝나며, 마지막 낱말 אנש[ים]의 끝 두 글자와 문장 표지는 복원이다."
+      ],
+      "work_passage_id": "1qsa:2.21-22",
+      "html_path": "works/1qsa/index.html#p-2-21-22",
+      "fixed_html_path": "releases/public-0.47/works/1qsa/index.html#p-2-21-22",
+      "alignment_revision": "sha256:c74eabcb9e07e4aa22871f55b95ba7c1c242c73181b3dd0d36cada26bd6952e5",
+      "review_state": {
+        "human_reviewed": false,
+        "translation": "ai_authored",
+        "source_check": "pinned_text_fabric_extraction",
+        "targets": {
+          "source_revision": "sha256:caeec7147778fbb5b7666c3425448cdf912a1b8e73b5efaf74e7985c5231022d",
+          "translation_revision": "sha256:6a07eeb083d4e1c651315145f132b4e3fb6723a0779800e22304065b7f1c9846",
+          "alignment_revision": "sha256:c74eabcb9e07e4aa22871f55b95ba7c1c242c73181b3dd0d36cada26bd6952e5"
+        },
+        "scoped_ai_review": {
+          "id": "1qsa-qumran-20261102",
+          "scope": "회중 규칙 채택 본문 12대목 전체",
+          "date": "2026-11-02",
+          "targets": {
+            "source_revision": "sha256:caeec7147778fbb5b7666c3425448cdf912a1b8e73b5efaf74e7985c5231022d",
+            "translation_revision": "sha256:6a07eeb083d4e1c651315145f132b4e3fb6723a0779800e22304065b7f1c9846",
+            "alignment_revision": "sha256:c74eabcb9e07e4aa22871f55b95ba7c1c242c73181b3dd0d36cada26bd6952e5"
+          }
+        }
+      },
+      "rights": {
+        "source": "CC BY-NC 4.0",
+        "source_url": "https://github.com/ETCBC/dss/blob/47ecc1738fad6e67df7d40a3e84d73e4a125e265/tf/2.0.1/full.tf",
+        "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "translation": "original_language_translation_public_review_edition",
+        "translation_license": "CC BY-NC 4.0",
+        "alignment_license": "CC BY-NC 4.0",
+        "notice": "사해문서 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-NC 4.0으로 제공합니다. 출처와 변경 내역을 밝히고 비영리 조건을 지켜야 합니다. 전사는 읽기 문단으로 나누었으며 물리적 열·행의 주소와 편집 기호를 보존했습니다."
+      },
+      "citation": {
+        "author": "익명",
+        "work": "회중 규칙",
+        "reference": "2.21-22",
+        "edition": "Martin G. Abegg Jr., James E. Bowley, Edward M. Cook의 사해문서 전사. ETCBC dss, Text-Fabric 2.0.1, 고정 커밋 47ecc1738. 1QSa.",
+        "release": "public-0.47",
+        "translation_revision": "sha256:6a07eeb083d4e1c651315145f132b4e3fb6723a0779800e22304065b7f1c9846",
+        "fixed_path": "releases/public-0.47/works/1qsa/index.html#p-2-21-22"
+      }
+    }
+  ],
+  "sourceCommit": "47ecc1738fad6e67df7d40a3e84d73e4a125e265",
+  "translationLicense": "CC BY-NC 4.0",
+  "translationLicenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "rightsNotice": "사해문서 전사, 한국어 번역, 번역 메모와 의미 대응은 CC BY-NC 4.0으로 제공합니다. 출처와 변경 내역을 밝히고 비영리 조건을 지켜야 합니다. 전사는 읽기 문단으로 나누었으며 물리적 열·행의 주소와 편집 기호를 보존했습니다.",
+  "aliases": [
+    "회중 규칙",
+    "1QSa",
+    "1Q28a",
+    "Rule of the Congregation"
+  ],
+  "sourceMetadataNote": null,
+  "original_title": "סרך לכול עדת ישראל",
+  "display_title": "회중 규칙",
+  "reference_scheme": "column_line_ranges",
+  "coverage_label": "2열 전문",
+  "edition_id": "1qsa-etcbc-2.0.1-47ecc17",
+  "source_file_sha256": "951ed95573ff1f78c468e6fa1b1f1750631287564534155bd5f9f0c8ae6d5542",
+  "display_author": "익명",
+  "scope": "회중 규칙 채택 본문 12대목 전체",
+  "coverage": "complete",
+  "release_id": "public-0.47",
+  "source_language": "he",
+  "source_kind": "edited_ancient_original",
+  "human_reviewed": false,
+  "translation_method": "고정 히브리어 전사에서 직접 번역",
+  "html_path": "works/1qsa/index.html",
+  "json_path": "data/works/1qsa.json",
+  "fixed_html_path": "releases/public-0.47/works/1qsa/index.html",
+  "source_profile": "1qsa-etcbc-2.0.1-47ecc17",
+  "source_decisions": [
+    {
+      "kind": "source_selection",
+      "date": "2026-11-02",
+      "repository": "https://github.com/ETCBC/dss",
+      "commit": "47ecc1738fad6e67df7d40a3e84d73e4a125e265",
+      "data_version": "2.0.1",
+      "format": "text-orig-extra=word#{full}{after}",
+      "scroll": "1QSa",
+      "tf_scroll_node": 1605870,
+      "sign_node_range": [
+        33886,
+        36268
+      ],
+      "reason": "1QSa의 번호 붙은 열(1-2열) 51행을 선택하고, 히브리어 전사와 복원·삭제·불확실성 표지를 보존했다. 단어 뒤 공백으로 접두사와 낱말을 이어 붙이고 현대어 번역은 사용하지 않았다.",
+      "license": "CC BY-NC 4.0"
+    },
+    {
+      "kind": "reading_segmentation",
+      "reason": "1QS와 같은 규칙으로 구획했다. 문장 표지 ׃ 뒤에서 구획이 55단어 이상이면 끊고, 마지막 15단어 미만은 앞 구획에 붙인다. 이미 55단어 이상인 구획이 다음 ׃까지 가면 110단어를 넘거나 뒤에 ׃가 없을 때에는 그 행 끝에서 끊는다. 빈 행, 열 안에서 행 번호가 빠진 곳, 1행이 아닌 행으로 시작하는 열의 첫머리, 사본이 바뀌거나 본문이 이어지지 않는 곳에서는 항상 끊는다. 단어 수는 공백으로 나눈 토큰 수다. 각 구획에 실제 열·행 범위와 행별 문자 위치를 보존한다.",
+      "rule": {
+        "sentence_mark": "׃",
+        "min_words": 55,
+        "tail_merge_below_words": 15,
+        "line_end_fallback_max_words": 110,
+        "word_count": "whitespace_tokens"
+      },
+      "hard_breaks": [],
+      "line_end_fallback_cuts_after": [
+        "1.13"
+      ]
+    },
+    {
+      "kind": "blank_sign_character",
+      "action": "nbsp_replaced_with_space",
+      "lines": 1,
+      "characters": 2,
+      "reason": "ETCBC full 값의 U+00A0은 glyph가 U+00A0인 빈칸 기호가 있는 낱말 노드에만 나오며 기호 하나에 많아야 한 글자다(괄호 안의 복원 자리 또는 글자 사이의 빈칸, vac 표시 없음). 글자 수와 위치를 그대로 두고 일반 공백으로 바꾸었다."
+    },
+    {
+      "ref": "1.6-9",
+      "line": "1.8",
+      "kind": "blank_sign_character",
+      "action": "nbsp_replaced_with_space",
+      "count": 2
+    },
+    {
+      "kind": "complete_work_registration",
+      "date": "2026-11-02",
+      "reference_count": 12,
+      "chunks": [
+        "1qsa-01"
+      ],
+      "corrections": []
+    }
+  ],
+  "source_collations": [],
+  "parts": [],
+  "validation_records": [
+    {
+      "id": "1qsa-qumran-20261102",
+      "scope": "회중 규칙 채택 본문 12대목 전체",
+      "date": "2026-11-02",
+      "reviewer_type": "AI",
+      "human_reviewed": false,
+      "worker_records": [
+        {
+          "chunk": "1qsa-01",
+          "source_read": {
+            "language": "he",
+            "all_assigned_passages_read": true,
+            "range": "1.1-2.22 (1열 29행, 2열 22행)",
+            "method": "히브리어 전사 12대목(51행)을 행 단위로 끝까지 읽고 한국어를 새로 작성했다. 표제와 회중의 소집(1.1-5), 나이별 교육과 등록, 직무(1.6-22), 레위인과 소집 규정(1.22-27), 공동체의 회의에 부름받는 사람들(1.27-2.3), 흠 있는 사람의 배제(2.3-11), 메시아가 함께하는 회합의 자리와 식사(2.11-22)의 수치, 나이, 직함, 부정, 인용, 복원 괄호, 현대·고대 교정, 행간 삽입, 삭제, 불확실 표지(#, ?, (#...#))를 확인했다.",
+            "adopted_source": "source.json",
+            "source_file_sha256": "9dba9e52161b07e33e9dff29b84d994007f5a477a8ebb95eb70672288fa70f15",
+            "assignment_source_sha256": "9dba9e52161b07e33e9dff29b84d994007f5a477a8ebb95eb70672288fa70f15"
+          },
+          "print_comparison": {
+            "edition": "ETCBC/dss Text-Fabric 2.0.1 (Martin G. Abegg Jr., James E. Bowley, Edward M. Cook 전사, CC BY-NC 4.0), 커밋 47ecc1738fad6e67df7d40a3e84d73e4a125e265, research/1qs/tf/2.0.1",
+            "relation_to_source": "번역 원문은 고정된 ETCBC 디지털 전사이며, 공개된 1QS(data/1qs)와 같은 자료와 표기 규칙이다.",
+            "printed_edition_collated": false,
+            "method": "인쇄판(DJD 1 등)이나 사진과의 대조는 하지 않았다. 원문 수정이 없으므로 source-reviewed.json과 corrections.json은 만들지 않았다."
+          },
+          "printed_pages_read": [],
+          "unresolved_issues": [
+            {
+              "ref": "1.6-9",
+              "issue": "1.8의 עשר שנים[ ]בוא בטב는 복원되지 않은 결손과 앞 글자가 없는 בוא 때문에 열 살에 시작되는 일이 확정되지 않는다. בטב를 좋은 것(טוב)으로 옮기고 결손은 […]로 두었다. בטף(어린아이들 가운데)로 읽는 해석은 메모에 적었다."
+            },
+            {
+              "ref": "1.9-13",
+              "issue": "1.11의 תקבל을 전사대로 3인칭 여성 단수로 옮겨 아내가 증언하도록 받아들여진다고 했다. 남성형 יקבל로 고쳐 읽는 제안은 메모에 적었다."
+            },
+            {
+              "ref": "1.27-2.3",
+              "issue": "1.27의 מבן עש는 수사가 עש에서 끝나 나이를 확정할 수 없다. 한국어는 …살부터로 두었다."
+            },
+            {
+              "ref": "2.8-12",
+              "issue": "2.11의 יולי?ד는 둘째 י가 불확실하고 주어 אל은 복원이다. 전사의 ד를 따라 낳게 하다로 옮겼고 יוליך(이끌다) 읽기는 메모에 적었다."
+            },
+            {
+              "ref": "2.12-17",
+              "issue": "2.12의 הכוהן(제사장)과 2.14의 משיח 앞 두 글자, 2.13의 אבות בני는 복원이고, 2.15의 א[לפי ישראל אי]ש는 첫 글자 א와 끝 글자 ש만 남아 있다. 한국어 대괄호로 표시했다."
+            },
+            {
+              "ref": "2.21-22",
+              "issue": "2.22의 עד עשרא אנש[ים]는 열 사람을 최소 인원으로 보아 열 사람만 있어도로 옮겼다(1QS 6.3-4, 6.6, CD 13.1-2). 앞의 מע[רכת כי יו]עדו는 대부분 복원이며, 이를 식사 자리로 옮겼으므로 규정이 식사에 적용된다는 읽기는 복원에 기댄다."
+            }
+          ],
+          "cross_chunk_consistency": null
+        }
+      ],
+      "passages": [
+        {
+          "ref": "1.1-5",
+          "targets": {
+            "source_revision": "sha256:13a662221e18fa0422f897ed799bbe29a86e6ec6841fb2ee85797f8e0f6b63e6",
+            "translation_revision": "sha256:213b736e5a93124371c448d33549b3746509f3b36f572b97805d7ee84e957e12",
+            "alignment_revision": "sha256:288fb78e9312cbd03722dd3a8acf5b5e28c014cf15295219ea1e45994654dee3"
+          }
+        },
+        {
+          "ref": "1.6-9",
+          "targets": {
+            "source_revision": "sha256:988c60368d1a7bace2bc83c03a8d80de938ff4f6f0246ed7262cdebd2f593418",
+            "translation_revision": "sha256:63e43c813420f076ca6a442b18b4b19fba56f3f4756fe6ca3317e360ca6c5d54",
+            "alignment_revision": "sha256:1c8146d8fc38935f8db2cb6bdea6c99ed08a1b50e7aba2f540a46d6b07705c9d"
+          }
+        },
+        {
+          "ref": "1.9-13",
+          "targets": {
+            "source_revision": "sha256:c5e08eac57607bd9caff6c356e6b66649baea99e8a977c7ed466e104a84adc10",
+            "translation_revision": "sha256:b9165b7f527a0e9ce257e9dc28babaedb01b8a9ae08d018c5a74c0199543dcab",
+            "alignment_revision": "sha256:0094b2c52dba3f6d1da48b1d013486116605ca75d0f66855989251e2afbe7f38"
+          }
+        },
+        {
+          "ref": "1.14-18",
+          "targets": {
+            "source_revision": "sha256:7005374efaa72c371f947daaa41e1e2f39557b4fb754a4f3bba900c2df6e0010",
+            "translation_revision": "sha256:d58b6abf65b874a30948243ee12db64800bf476b8910abaa1855dc7cb07bfb61",
+            "alignment_revision": "sha256:cbc606a0b27f95f3545c30ccb147ec27be75da5b141cde6d7285a7b323386fb4"
+          }
+        },
+        {
+          "ref": "1.18-22",
+          "targets": {
+            "source_revision": "sha256:6b549ddde9545bf281aa827d8d9c0c441eeee23a71bd49429b010328dedb63f6",
+            "translation_revision": "sha256:703499fd5d8af2734d81a87956e0c9278a423e7db5137f4f552397c9358555fb",
+            "alignment_revision": "sha256:e250a955694d94ad67c4d4b57b24971b49807d84ff596bffceb8d96a6645e447"
+          }
+        },
+        {
+          "ref": "1.22-27",
+          "targets": {
+            "source_revision": "sha256:e9bdcc503e13c21e77c422bf3272f1075966c1dcbe36a148c1357c946deda5af",
+            "translation_revision": "sha256:2c4c02c7faf89ad4a65911984a335be30f79442045e7d9d8a95453b1d5428a06",
+            "alignment_revision": "sha256:e0cfe2ee19be2435862666267adde9b2aa329380f72428ad38d95d69351e5c91"
+          }
+        },
+        {
+          "ref": "1.27-2.3",
+          "targets": {
+            "source_revision": "sha256:cd4a393492f8677f6616048f4ed84aef59d1b4e30162d2c890e4a52519366d28",
+            "translation_revision": "sha256:426c20ed1b05955b6e8de34f3fb74fad4e5ae8a8203cc445c19963829c847229",
+            "alignment_revision": "sha256:782ea04021dcc519c2737578bad22f1fb5b6a7fa5f5633e9ea7aa242723901f7"
+          }
+        },
+        {
+          "ref": "2.3-7",
+          "targets": {
+            "source_revision": "sha256:5802e2da930a1162f8f4f1f0e2a12b7a915dd087c5c4efee0413e4076340acc0",
+            "translation_revision": "sha256:db25e332f11aa180f8162ae12107b0f198fecf2798775db02f9d97a7c18b8f5e",
+            "alignment_revision": "sha256:a3ed81bc1ab0e1982b20841c844f8d1a942ff916a2dfd5182cd5ddc299c8feb7"
+          }
+        },
+        {
+          "ref": "2.8-12",
+          "targets": {
+            "source_revision": "sha256:b81cb5b8b3bae107ea8e3795dbf6647bc05f380cb3c51ddbc6ef050e4ec7de12",
+            "translation_revision": "sha256:fbe50993db4b11ddc892110c7f4eb0d7d66820b30f1d0863ba072db24439d67e",
+            "alignment_revision": "sha256:b017dc4c9df47d664fb64b43838626503e84a31d195aab0eef2e853f2931437d"
+          }
+        },
+        {
+          "ref": "2.12-17",
+          "targets": {
+            "source_revision": "sha256:ea3e17ee581f9ac56e796d0d6cb7c7f02d35f062b7fc3e73bbbd49407dac6dc5",
+            "translation_revision": "sha256:7783dd32497d415c38c110f3bc55e63d1f2e3c798913fdffc1ece694fdc11e0e",
+            "alignment_revision": "sha256:7032f7db70331fe4ab498b88710955cfe3f25f4747c62b9b46a7363beea661cd"
+          }
+        },
+        {
+          "ref": "2.17-21",
+          "targets": {
+            "source_revision": "sha256:e7070e4cddc715f6381e371a8ceb9fad8aafde9efd9810a0fad5ffa466b73f05",
+            "translation_revision": "sha256:dbc5b0ab57a2a0bc2c098e02f01e225fcd7089ea34ce0b8d7a3e2612af2df9bd",
+            "alignment_revision": "sha256:addbeb844999b7b54dc1e12fb530f3075f4c1b5ad2ed4a1aca02692d659e29f1"
+          }
+        },
+        {
+          "ref": "2.21-22",
+          "targets": {
+            "source_revision": "sha256:caeec7147778fbb5b7666c3425448cdf912a1b8e73b5efaf74e7985c5231022d",
+            "translation_revision": "sha256:6a07eeb083d4e1c651315145f132b4e3fb6723a0779800e22304065b7f1c9846",
+            "alignment_revision": "sha256:c74eabcb9e07e4aa22871f55b95ba7c1c242c73181b3dd0d36cada26bd6952e5"
+          }
+        }
+      ]
+    }
+  ],
+  "work_information": {
+    "summary": "마지막 날 이스라엘 회중의 생활 규칙이다. 나이에 따른 교육과 직무, 회의에 들어올 수 없는 사람들, 이스라엘의 메시아가 함께하는 회합의 자리 순서를 정한다. 공동 식사에서는 제사장이 먼저 빵과 포도주를 축복하고 그 뒤에 메시아가 빵에 손을 뻗는다.",
+    "facts": [
+      {
+        "key": "author",
+        "label": "저자",
+        "name": "익명",
+        "text": "쿰란 공동체"
+      },
+      {
+        "key": "date",
+        "label": "저술 시기",
+        "text": "미상, 1QSa 사본은 하스몬 왕조 시대 필사",
+        "detail": "몇몇 학자는 메시아가 나오는 대목만 마지막 날을 다루고, 나머지 규정은 본래 따로 있던 작품으로서 공동체가 실제로 따르던 규정이었을 수 있다고 본다."
+      },
+      {
+        "key": "genre",
+        "label": "갈래",
+        "text": "공동체 규칙서",
+        "detail": "첫머리에서 ‘마지막 날에 이스라엘의 온 회중을 위한 규칙’이라고 밝힌다(1.1-5). 많은 학자가 이 표현과 메시아가 나오는 대목을 근거로, 공동체가 앞으로 따를 규칙을 정한 종말론 문서로 본다."
+      },
+      {
+        "key": "language",
+        "label": "언어와 전승",
+        "text": "히브리어",
+        "detail": "쿰란 제1동굴에서 나온 공동체 규칙 두루마리(1QS)에 축복 규칙(1QSb)과 함께 부록으로 실려 있다. 제4동굴에서는 암호 문자로 쓴 작은 조각들이 나왔다."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Israel Antiquities Authority, Leon Levy Dead Sea Scrolls Digital Library, “1Q Rule of the Congregation” (1Q28a)",
+        "url": "https://www.deadseascrolls.org.il/explore-the-archive/manuscript/1Q28a-1"
+      },
+      {
+        "label": "Israel Antiquities Authority, Leon Levy Dead Sea Scrolls Digital Library, “1Q Community Rule” (1QS)",
+        "url": "https://www.deadseascrolls.org.il/explore-the-archive/manuscript/1Q28-2"
+      },
+      {
+        "label": "『회중 규칙』 1.1-5",
+        "work_id": "1qsa",
+        "ref": "1.1-5",
+        "html_path": "works/1qsa/index.html#p-1-1-5"
+      }
+    ]
+  },
+  "publication_status": "public_review_edition"
+}
