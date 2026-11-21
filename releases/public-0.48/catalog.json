@@ -22,7 +22,7 @@
       "fixed_html_path": "releases/public-0.48/works/ant/index.html",
       "aliases": [],
       "passage_count": 7376,
-      "json_sha256": "1df4ee92d566e7da98a3dd58e846ab6036a65fca9cda54d4c32e95ccf80c0417"
+      "json_sha256": "c40652eaa2db94f76152b9774d42b6f7a25c9efa1b1375bc7232358add2ad2de"
     },
     {
       "id": "war",
@@ -39,7 +39,7 @@
       "fixed_html_path": "releases/public-0.48/works/war/index.html",
       "aliases": [],
       "passage_count": 4001,
-      "json_sha256": "1f90b180c2f2195d6dbc36832e78affd86ac01965ae0e3c30984d293c40ba047"
+      "json_sha256": "7828bab189b99d9ad1fc738847c93f43a32c8002c2ec80045bc8ea4626eede0b"
     },
     {
       "id": "apion",
@@ -56,7 +56,7 @@
       "fixed_html_path": "releases/public-0.48/works/apion/index.html",
       "aliases": [],
       "passage_count": 616,
-      "json_sha256": "99d4e4c41198ebc469d64303facf5f32c46eb17bc73183f89de770ed42143eff"
+      "json_sha256": "a7d2b7ee53574ab55a6eeed8e214b1457c29d5e53e0ddc172d833aacdca65dd1"
     },
     {
       "id": "decal",
@@ -73,7 +73,7 @@
       "fixed_html_path": "releases/public-0.48/works/decal/index.html",
       "aliases": [],
       "passage_count": 178,
-      "json_sha256": "96b307a07b7b2e1f02b2f4c6ea7c2f1c6cf52c41458cdec5bcb66396f09ec8ca"
+      "json_sha256": "eda3a990ecbeb578a2de7f2f80f4ff9c765c8ff76f2e6bc9c168dac0dc713ab7"
     },
     {
       "id": "wisdom",
@@ -90,7 +90,7 @@
       "fixed_html_path": "releases/public-0.48/works/wisdom/index.html",
       "aliases": [],
       "passage_count": 436,
-      "json_sha256": "4330f810097fb43ac6f640c7ef49ff152d6920563f61ebb27aa1cddaaa7e7813"
+      "json_sha256": "b6133e2fa7922793ad3fd65c8ec8d32bf55d801a42043c4eaa972237615c4fa8"
     },
     {
       "id": "pssol",
@@ -107,7 +107,7 @@
       "fixed_html_path": "releases/public-0.48/works/pssol/index.html",
       "aliases": [],
       "passage_count": 332,
-      "json_sha256": "2565f9bf0b8efda683d818874b8d99e61a62cb0ada214fa7a1cc68f37f320cf1"
+      "json_sha256": "57957e5941440657c2c1740dd14b934a1bc6a134f2322d0ae91a77a117f20369"
     },
     {
       "id": "ench",
@@ -124,7 +124,7 @@
       "fixed_html_path": "releases/public-0.48/works/ench/index.html",
       "aliases": [],
       "passage_count": 105,
-      "json_sha256": "b214fcc57827b76a1f57344cf28ce28082e43d732afd2dbfbaa53d8d8ebbb25a"
+      "json_sha256": "546acb91582dbf6431eded0f4fb93623aab76a2709b5d37c6ececd84e27d0717"
     },
     {
       "id": "seneca",
@@ -141,7 +141,7 @@
       "fixed_html_path": "releases/public-0.48/works/seneca/index.html",
       "aliases": [],
       "passage_count": 2141,
-      "json_sha256": "aed2da2bb0129dae993f93a86b508fb729c35204777fbb948f2b172c670df7b2"
+      "json_sha256": "7b99dc932b2e7f606eec9ed5603f3d0f1ab053f33c9c5e2b46fb8007b60de17b"
     },
     {
       "id": "off",
@@ -158,7 +158,7 @@
       "fixed_html_path": "releases/public-0.48/works/off/index.html",
       "aliases": [],
       "passage_count": 371,
-      "json_sha256": "2d4a01cafc9126df0a661ba5fcb98bbc5705b311ce58876c0fbe2902e536125d"
+      "json_sha256": "43be3391790fe8edf3aa500927fb23787ff2b1e7e8d548ca38d916b16c241d9d"
     },
     {
       "id": "benefits",
@@ -175,7 +175,7 @@
       "fixed_html_path": "releases/public-0.48/works/benefits/index.html",
       "aliases": [],
       "passage_count": 906,
-      "json_sha256": "d0ae9e500ed1a7166a40247a5f419905147f01c45d6cef1280f900332c0d0d10"
+      "json_sha256": "45df135af0d83d8369ec1c182316e5ed405e24f777fb543d7043e99c5f340605"
     },
     {
       "id": "apology",
@@ -192,7 +192,7 @@
       "fixed_html_path": "releases/public-0.48/works/apology/index.html",
       "aliases": [],
       "passage_count": 130,
-      "json_sha256": "6d0252f0bfb632d51f99a72e952d5636ccbfd6dcc7096d1c9232933b44b88ebe"
+      "json_sha256": "588bc61c0ca3c25718f81160546b63a18a09e8b954407df800f2c638bc4c528c"
     },
     {
       "id": "1qs",
@@ -209,7 +209,7 @@
       "fixed_html_path": "releases/public-0.48/works/1qs/index.html",
       "aliases": [],
       "passage_count": 67,
-      "json_sha256": "08cc3f4c13ae51fd9a96806e5468259ed7f97ebb43f88fb86c71cbca5b37bf49"
+      "json_sha256": "c299849db4e628ef07846d9b4acfee8390acdc02d84818ea978f95554839e50b"
     },
     {
       "id": "legat",
@@ -226,7 +226,7 @@
       "fixed_html_path": "releases/public-0.48/works/legat/index.html",
       "aliases": [],
       "passage_count": 373,
-      "json_sha256": "a52148d06e26eed1b7313e8f9f7913077fd275371c4aa86f8e96abe05a445a15"
+      "json_sha256": "acbdcfbe2442376dded1ff0ebdf197531ddd2f6718443a846174091c9f531480"
     },
     {
       "id": "macc1",
@@ -248,7 +248,7 @@
         "1Ma"
       ],
       "passage_count": 924,
-      "json_sha256": "6712cd0e86132a2620ff75c97f1448491cc7f5fe7034d641a04f0b943e8cb0cb"
+      "json_sha256": "cdbfbda8ea8b974d70299b646f9470c37830e5abb660d550eb8d7b7fcb1d2898"
     },
     {
       "id": "macc2",
@@ -265,7 +265,7 @@
       "fixed_html_path": "releases/public-0.48/works/macc2/index.html",
       "aliases": [],
       "passage_count": 555,
-      "json_sha256": "2052e8d90e10974b075313dcb70dd00e8de12e6e4aac85cf0b309ab2d0933f30"
+      "json_sha256": "d7564c0097d4ed39bc0f3595f53a84a731d6cc16ad56bb9a26206e445b61f38d"
     },
     {
       "id": "opif",
@@ -282,7 +282,7 @@
       "fixed_html_path": "releases/public-0.48/works/opif/index.html",
       "aliases": [],
       "passage_count": 172,
-      "json_sha256": "fa3c14b48972bbba05b3640ea2e1a70536b3f122ebf7919d8253d61f934fc7e8"
+      "json_sha256": "6224bbd7c1fc34dfeae4d2265da8b35686adfef04508d80ed5c23b9069d7b1ae"
     },
     {
       "id": "pliny",
@@ -299,7 +299,7 @@
       "fixed_html_path": "releases/public-0.48/works/pliny/index.html",
       "aliases": [],
       "passage_count": 1981,
-      "json_sha256": "2fdf33f0c9782b4c25928ef8bc3b1310808b5a52383ef932eb9ce813c0bfc8b0"
+      "json_sha256": "9be45451a00ef737bcf978c2d7e447ed9247949a36f7c3003210054c56790580"
     },
     {
       "id": "sir",
@@ -319,7 +319,7 @@
         "집회서(시락서)"
       ],
       "passage_count": 1402,
-      "json_sha256": "cdeaff1b674b8f2f1e35502ce107d83cac6a7559dc85ca3e2f50d5b63ce0eb4f"
+      "json_sha256": "3dde28da8622b8017db33badabc844d2a3e80f09631edd639ebc95711e0ad7eb"
     },
     {
       "id": "vita",
@@ -339,7 +339,7 @@
         "Life of Josephus"
       ],
       "passage_count": 430,
-      "json_sha256": "3536182e080429dcc607c072101bb46619b79e4425f877fea2b234284680356b"
+      "json_sha256": "9a80ec5858c3fa37bc40cf812861a3a9d1ef83f5aa0a93b816254c1bc39682a4"
     },
     {
       "id": "bar",
@@ -356,7 +356,7 @@
       "fixed_html_path": "releases/public-0.48/works/bar/index.html",
       "aliases": [],
       "passage_count": 141,
-      "json_sha256": "042256ea5b36a80e4fd5c429d29d3be6a6cf4bd3564fb031415eabedcdfd48d2"
+      "json_sha256": "2787130b3dc76633d72d8ad57dc798daf77ae264217e1837a225abf9e9bd061d"
     },
     {
       "id": "epjer",
@@ -377,7 +377,7 @@
         "바룩서 6장"
       ],
       "passage_count": 72,
-      "json_sha256": "1b80bd4f4775e3eaa3c48ef6e955f2e866d343c05eb3bfe686201da625151c25"
+      "json_sha256": "c3f06c5d6d9150a57e5b9fb628b12512d922bb965f16e3a8e7b960c62319a675"
     },
     {
       "id": "prman",
@@ -394,7 +394,7 @@
       "fixed_html_path": "releases/public-0.48/works/prman/index.html",
       "aliases": [],
       "passage_count": 15,
-      "json_sha256": "85eea39de2f7a8acae439c124ede521d398ca48d3519acbef70c010aa40db897"
+      "json_sha256": "7234a1127bb0b1427b036f2c74a709aed19ed2e7bcd7679caf178104dd5f2c6a"
     },
     {
       "id": "sus-th",
@@ -415,7 +415,7 @@
         "Sousanna"
       ],
       "passage_count": 64,
-      "json_sha256": "76a4f9f71ddab0bc0db059f28da4b2ad211fe8d7a83411ade928e3383af67a6a"
+      "json_sha256": "a21076201bfe72dc2042df327591a4676fdd7cb3d25ee5e8817e25d2c3f10773"
     },
     {
       "id": "bel-th",
@@ -435,7 +435,7 @@
         "Bel and the Dragon"
       ],
       "passage_count": 42,
-      "json_sha256": "74c9f4703c45fe8f7be97c595a8fc5b23c8c89cdea3b9dc10f1f5163fd154e92"
+      "json_sha256": "d554966a30031f08e9470e69b86dc115ef9eec2230b26c3c10ac4c792030234b"
     },
     {
       "id": "tob-s",
@@ -457,7 +457,7 @@
         "시내사본"
       ],
       "passage_count": 243,
-      "json_sha256": "6a7a5ead8491b32ed7e3fe5af7905f0ba0cd7a9aca5b964e15192a2969fe5dd5"
+      "json_sha256": "d55e6f33c6985a8695856008298b46e776d59ea34d95ebce7e150a777c6dbdb5"
     },
     {
       "id": "jdt",
@@ -478,7 +478,7 @@
         "Ioudith"
       ],
       "passage_count": 340,
-      "json_sha256": "ffcfcd7e0a714c66e7c131d67cb45ea8cc9e2fd92f78a9f9ea74b4b9eaa752f9"
+      "json_sha256": "1824f76214ec011e834e5bb5fd63461775bdfaf0294435f79727c12c999c1fdd"
     },
     {
       "id": "macc3",
@@ -498,7 +498,7 @@
         "마카베오3서"
       ],
       "passage_count": 227,
-      "json_sha256": "87cc584dee013116a660d5a5c18e287b26d3f7ab585fde22a65061440bae74cc"
+      "json_sha256": "b678c9119ccc323d3f062d4ae64fd2b6a39bea82baf53456b91f46d38418b283"
     },
     {
       "id": "macc4",
@@ -518,7 +518,7 @@
         "마카베오4서"
       ],
       "passage_count": 484,
-      "json_sha256": "bc95c6b1817a238f0679606ed578f1f1d611d54af895b9f3a6268f4aa71c20e6"
+      "json_sha256": "1aef4b059ed4f54fb8e7e4d7a4b303c93818daee7d5f5efad365438601b99d04"
     },
     {
       "id": "enoch1",
@@ -539,7 +539,7 @@
         "Enoch"
       ],
       "passage_count": 1060,
-      "json_sha256": "cb7f263adaf1d5d759710696f72a71c42c5b36f3da42551963de02b126f36d59",
+      "json_sha256": "1540d682943f64961053337d7f87c1001edf2e0d04bee1adbcdc5308879fd8f2",
       "supplementary_works": [
         {
           "id": "enoch1-witnesses",
@@ -570,7 +570,7 @@
         "아브라함론"
       ],
       "passage_count": 276,
-      "json_sha256": "d8d19374ee2fec6d4ed505bb28df9b0b4f1e7befc33e5c6fd952524a26bfcf16"
+      "json_sha256": "fb49a683981d3dd11611be06bced1f40cedc1d564130efb9017294e59de08dc3"
     },
     {
       "id": "joseph",
@@ -592,7 +592,7 @@
         "요셉론"
       ],
       "passage_count": 270,
-      "json_sha256": "d2f501d5923928629cf52c8d758ae745b164be9b22881bd8eeb0e37f808b08fa"
+      "json_sha256": "ed39bc51f02a6271dc20782f23ca6597755bd67988ad72f9a68c3008177161f5"
     },
     {
       "id": "moses",
@@ -613,7 +613,7 @@
         "De vita Mosis (lib. i‑ii)"
       ],
       "passage_count": 626,
-      "json_sha256": "953f184e180a13e311ffa0f4825ad75c8935926ebbf4f0b92aad0d76f1bf8742"
+      "json_sha256": "575bf61cb67b488a6b8928ce43d298a896bd22760d3e9322f8385cd950555124"
     },
     {
       "id": "virt",
@@ -635,7 +635,7 @@
         "덕론"
       ],
       "passage_count": 227,
-      "json_sha256": "c6a518d06fc7eeaf134a2a1c09eb8e1f68cc72badf74918939cf2299c2eb632e"
+      "json_sha256": "8319668f5cb6cfb53bc1ba01fbef1538adddc7e8302d9c20e12685d3d3fadf9c"
     },
     {
       "id": "prob",
@@ -657,7 +657,7 @@
         "자유론"
       ],
       "passage_count": 160,
-      "json_sha256": "a81d14deffeb82c1a3cce1289bb602298308374dae846fcfe8189fa2efbd098a"
+      "json_sha256": "b0827db6a8d428391d86d3ac92c31a7b7c97ab8d5cc31330fe5e6ff2cbd8c406"
     },
     {
       "id": "contempl",
@@ -678,7 +678,7 @@
         "De vita contemplativa"
       ],
       "passage_count": 90,
-      "json_sha256": "935270ae769cffdeab9a71d7a0228fc6d07b4684979356d7fb755ee808c332d3"
+      "json_sha256": "b70c595046cb0a6e3c3d95f1311323c8be7e2c573c5074bccd5a485e9a1cf05c"
     },
     {
       "id": "esdras1",
@@ -698,7 +698,7 @@
         "1 Esd."
       ],
       "passage_count": 431,
-      "json_sha256": "1754523ae7ee88380c804fb5045beb972164b305ad4280fd9020ced482b6559d"
+      "json_sha256": "05c13dcc9d2f32449b744df4dc2600bb9e9ef69c77aebbee52234f5bf1bd35f4"
     },
     {
       "id": "ps151",
@@ -718,7 +718,7 @@
         "Ps.151"
       ],
       "passage_count": 7,
-      "json_sha256": "7891e5305812bb2dbbe85993b9b838fab5d6504f2d27479670ac5631533ffc40"
+      "json_sha256": "b85cc5fd8b4cc8ed8267fc492aae1f96a1a51798f7a4d96d60ed25c72f086607"
     },
     {
       "id": "praz",
@@ -738,7 +738,7 @@
         "Pr. Az."
       ],
       "passage_count": 20,
-      "json_sha256": "812fcd5c3830f32e6f1518c44e1599347e886faa38ac0bd2e458abfd6c088e0e"
+      "json_sha256": "4d994a79dc45bf9486d591958f9338825798de0ae4b3863709430289a1efa340"
     },
     {
       "id": "song3",
@@ -758,7 +758,7 @@
         "Song3"
       ],
       "passage_count": 37,
-      "json_sha256": "ec95311f90e881594a636a18d5493e1e1b4335c47aff061f395c0334cdc8092a"
+      "json_sha256": "81572e886316f9d8918694138f819be1617939de4aa5d4d5c04f5fa6f0ed1b9a"
     },
     {
       "id": "leg",
@@ -779,7 +779,7 @@
         "Legum allegoriae"
       ],
       "passage_count": 469,
-      "json_sha256": "e2329223d7a6e4cd97dd27e474a3b326772d923f7acf71df9860ef68f5000a33"
+      "json_sha256": "83e82fe94a9e1b4681ccf0eaf6322a37f4102424fef08b4650a9d776952e77a8"
     },
     {
       "id": "cher",
@@ -800,7 +800,7 @@
         "De cherubim"
       ],
       "passage_count": 130,
-      "json_sha256": "6f787ab639eccceb8f28e545671029d096ca24f253638819954fbcd143842d42"
+      "json_sha256": "be3d3f02647f5c7a70d99f1edfcd2a69758a057a5ff3d27055fc6f79a60abca2"
     },
     {
       "id": "sacr",
@@ -821,7 +821,7 @@
         "De sacrificiis Abelis et Caini"
       ],
       "passage_count": 139,
-      "json_sha256": "a32f0729ceced101c86efd6539a5851309280e3dfaf13a58ab7776edce57935d"
+      "json_sha256": "06e260bf75ce095d0cb2dfbeac94d286b38b8de9d0d8d7085bc5c729226f6844"
     },
     {
       "id": "det",
@@ -842,7 +842,7 @@
         "Quod deterius potiori insidiari soleat"
       ],
       "passage_count": 178,
-      "json_sha256": "918b642af9761d5d45f068ed7860db2b56c938c6a1b4a6b4a1b3a4ffa8051614"
+      "json_sha256": "933186aaf7040613373be9685dd10b412940130c4ad9940a3a8162760de7fd9b"
     },
     {
       "id": "post",
@@ -863,7 +863,7 @@
         "De posteritate Caini"
       ],
       "passage_count": 185,
-      "json_sha256": "b01727f6d9eed1c725364c582765a6812a45f0924aa14724b08660f0f529c9ed"
+      "json_sha256": "2c93902ceb1649f09ad59399de936b7039cd9ad7f1597658ccc2cd8568e38445"
     },
     {
       "id": "gig",
@@ -884,7 +884,7 @@
         "De gigantibus"
       ],
       "passage_count": 67,
-      "json_sha256": "77452cbe1323cc7fd45d153a333b4be1b124a95c1bb532bf713cd3c9b3fde47e"
+      "json_sha256": "db8d8bde518b2024de470010510ca6e29584b028e5d0337362962effe0b3674a"
     },
     {
       "id": "deus",
@@ -905,7 +905,7 @@
         "Quod Deus sit immutabilis"
       ],
       "passage_count": 183,
-      "json_sha256": "2a8a185d47412d336c7b5b94ad841b70f2d9b7fdaa86349266e3b08d18a2eff7"
+      "json_sha256": "c7b25e58c42833802fda71e7b161adbd56bb429669e81023d094af2f12d14bd6"
     },
     {
       "id": "agr",
@@ -926,7 +926,7 @@
         "De agricultura"
       ],
       "passage_count": 181,
-      "json_sha256": "732be218fbf8bdd169148efed9821732a7995f1d2380482840c2a7e922d9aeca"
+      "json_sha256": "2efc2abbf3294d04cc9c1ed75e26c0e67afb750e161942b80904c267aec4677b"
     },
     {
       "id": "plant",
@@ -947,7 +947,7 @@
         "De plantatione"
       ],
       "passage_count": 177,
-      "json_sha256": "2e8f74dccfb2c4b878a1c05c57828c68aa14f0f22057b1b3002e62483ead22f2"
+      "json_sha256": "fd2ec932904b77408f216aca2814b7c06a1f0640e82acd3b75778c56eb0928d0"
     },
     {
       "id": "conf",
@@ -968,7 +968,7 @@
         "De confusione linguarum"
       ],
       "passage_count": 198,
-      "json_sha256": "c1c9fc05673e3fa22084e277f3f0a34972ec377460e15928d1d6bf40d64b05dc"
+      "json_sha256": "d9f241ab3f2acff400942cfc85cffd7913d40d37e0b686802779d052ed784ea1"
     },
     {
       "id": "flacc",
@@ -989,7 +989,7 @@
         "In Flaccum"
       ],
       "passage_count": 191,
-      "json_sha256": "6cb5a2d5991d1f2d592c1dd7daef8c9be923737e8715662e8341bd38fbc664f4"
+      "json_sha256": "5cccdcb2609b7186aef71585d2b2a15998da34dfffb8a76950ca084be6a1887b"
     },
     {
       "id": "spec",
@@ -1011,7 +1011,7 @@
         "De specialibus legibus"
       ],
       "passage_count": 1054,
-      "json_sha256": "4d7d640704f4d140c26142759d0984c3756ba51cec2afaebda81f9e39dd03583"
+      "json_sha256": "876f1f09e6f46e3519724d1da0406eba0ae6bc7a6643a982e47f98c16b89a026"
     },
     {
       "id": "diss",
@@ -1035,7 +1035,7 @@
         "Ἀρριανοῦ τῶν Ἐπικτήτου Διατριβῶν"
       ],
       "passage_count": 2633,
-      "json_sha256": "75a6ad059881219d204a1ef251e849250e8e63a7bfb4bfa8b4dafb9e888ea0d8"
+      "json_sha256": "531ef04c6938f652990aeab0920b696eb8786957e410cb37d6baf6d6b0044a60"
     },
     {
       "id": "ebr",
@@ -1056,7 +1056,7 @@
         "De ebrietate"
       ],
       "passage_count": 224,
-      "json_sha256": "cc6bea0c1103491243555c18e388db0c77cd9db61c398231d938484e61a3754a"
+      "json_sha256": "e361cdf2007bae41bc358d7dd351a6bcdd7fae5be0d19200252ab2f6a70d796a"
     },
     {
       "id": "sobr",
@@ -1077,7 +1077,7 @@
         "De sobrietate"
       ],
       "passage_count": 69,
-      "json_sha256": "cdc8224f98f0f10da1063305edd25f1bc1cf0a77c5bf4dd318f13eee3cb7db7b"
+      "json_sha256": "46a8be764047d09ddca1483d2d191d48ab16aa94da04f9795524552f2453c38a"
     },
     {
       "id": "migr",
@@ -1098,7 +1098,7 @@
         "De migratione Abrahami"
       ],
       "passage_count": 225,
-      "json_sha256": "316119630e9a28ef12c5791bca3fba81349bc9fcdf66759dfb7ce2a03451a2e1"
+      "json_sha256": "2db2d1d983154e154b68411ef88128318ef3fd7a1ebe64e84e314d1452d19a08"
     },
     {
       "id": "her",
@@ -1119,7 +1119,7 @@
         "Quis rerum divinarum heres sit"
       ],
       "passage_count": 316,
-      "json_sha256": "3c2d2598b4fc28c6ce179fbab960af3dba0339b10f48e1af496fd7a23c493ab4"
+      "json_sha256": "54f000ab7c9e11306d5caa8e9a820edb6b6f43c64f93f9fd9e866a03bdb9d662"
     },
     {
       "id": "congr",
@@ -1140,7 +1140,7 @@
         "De congressu eruditionis gratia"
       ],
       "passage_count": 180,
-      "json_sha256": "070af9f1e5c1da9b02c23e0799da86d0bc6c753faba266acc89affcd048e0311"
+      "json_sha256": "d52a5fd367356860eebbba114b19ec9fd7ffca47c7fede76c1461c6491346af4"
     },
     {
       "id": "fug",
@@ -1161,7 +1161,7 @@
         "De fuga et inventione"
       ],
       "passage_count": 213,
-      "json_sha256": "416d112c1f2c17337c586d1a318bc53ee1188f75d789b70fc20241eb7ef19ddd"
+      "json_sha256": "c7138c5578c98d5977cd53775b5480ffa8f612b7c0a3ca8757587e63e5bf33b7"
     },
     {
       "id": "mut",
@@ -1182,7 +1182,7 @@
         "De mutatione nominum"
       ],
       "passage_count": 270,
-      "json_sha256": "33ff446c857aefe62aa7c81a755ff7840ea5c7e6a4789cb1825983617c2ca888"
+      "json_sha256": "0407a791027b974a6e760fe9c7b7a86264c24ad4a39767189b39d54bd4c59dfe"
     },
     {
       "id": "somn",
@@ -1203,7 +1203,7 @@
         "De somniis"
       ],
       "passage_count": 558,
-      "json_sha256": "0a12f4dd94227efe1ead5c8ee32e65f82aa31ff17b17647dd6eaeb6b1dee9b63"
+      "json_sha256": "b9034a1705d5332f13d1064aaa6ec500d0c11096a9255e95d3b483267588cb98"
     },
     {
       "id": "praem",
@@ -1224,7 +1224,7 @@
         "De praemiis et poenis"
       ],
       "passage_count": 172,
-      "json_sha256": "1a5abc3f2495ab320b5201be560aa8055288ceee608acdcfdbb3094dc77c385c"
+      "json_sha256": "bac7d8748de3aac6f169b975685f23383f8f0cbeb74a4c8055c33df3a4b8865a"
     },
     {
       "id": "aet",
@@ -1245,7 +1245,7 @@
         "De aeternitate mundi"
       ],
       "passage_count": 150,
-      "json_sha256": "e4c875d0b63d45a52e702755ccb63de45aca2884b3297afbc3a862617d3d7439"
+      "json_sha256": "6078d411d21b0d6f42549cb572fd5ed48c0031e0d70b9631a4a012b3f85c5a04"
     },
     {
       "id": "claud",
@@ -1268,7 +1268,7 @@
         "황제전 클라우디우스"
       ],
       "passage_count": 111,
-      "json_sha256": "4318fbe8098783f02f8cb36384a2ac30035f86350f9a057dacdbb5542b07807b"
+      "json_sha256": "90e24982e0f066290f617b676546a2de03ea038490421a95597a05851d337109"
     },
     {
       "id": "nero",
@@ -1290,7 +1290,7 @@
         "황제전 네로"
       ],
       "passage_count": 135,
-      "json_sha256": "6f4cc812794a7b3cee9c7207bdd6c7629a95cac1c62b95eec9391c75ff2e7148"
+      "json_sha256": "584e090e5a90b5e52eece80c810309d7560e38d9c9f6468714b16235b20bc5d3"
     },
     {
       "id": "peregr",
@@ -1312,7 +1312,7 @@
         "페레그리누스"
       ],
       "passage_count": 45,
-      "json_sha256": "78a7718d2db78f4e13e484197cd6ed75caa5798e23743cf9fb4df5c811e2f736"
+      "json_sha256": "a4a8eb0ee57c23df6f6e5fb100097a5536423e29922c118b67903a63423966f2"
     },
     {
       "id": "hist",
@@ -1334,7 +1334,7 @@
         "타키투스 역사"
       ],
       "passage_count": 389,
-      "json_sha256": "0f641ea1f49960bbb143187a7a715f8181b05d13612e7b7dd8895d829f80f6bf"
+      "json_sha256": "f9fcae1c6edcfdad5d468526fd90bcf14285a3cb8118558d38cea51b5871587a"
     },
     {
       "id": "ann",
@@ -1357,7 +1357,7 @@
         "Annals"
       ],
       "passage_count": 721,
-      "json_sha256": "2b8251ab9b7e2d0b0bc7b15cd9f9ff5d508909938bed7b40b726962d64902aed"
+      "json_sha256": "566185af0d473017b7b0d9b40f593b5b577e4854b8e8984c3ec9d676cf1e5030"
     },
     {
       "id": "arist",
@@ -1381,7 +1381,7 @@
         "아리스테아스 서신"
       ],
       "passage_count": 322,
-      "json_sha256": "6ec9f65c317dae3d449372a356029c2858bafe6c582058a3fad7ae5301548976"
+      "json_sha256": "83e9878c22e9d78e0a378964588ed92ceb99b1530f091087a3e7ff7b3e1e4299"
     },
     {
       "id": "jubilees",
@@ -1410,7 +1410,7 @@
         "ኩፋሌ"
       ],
       "passage_count": 1309,
-      "json_sha256": "5f1f040014a43cfa3e8c61fcd9491040601e4f32522f9335ba469d609c6c780b"
+      "json_sha256": "4bae597abd5dc04c4d296616b4ea3e23c87a630728e0ed400e448ece142a5807"
     },
     {
       "id": "cd",
@@ -1432,7 +1432,7 @@
         "Damascus Document"
       ],
       "passage_count": 75,
-      "json_sha256": "39c28a4455cbfe83103d6b77a0a922b0ae5e37d6afd7a20eaf90dfc2b2484b9e"
+      "json_sha256": "005e9edd2e942e8f4fff04880950728eb65b6dd512003db124a5a635e6d3d61b"
     },
     {
       "id": "1qphab",
@@ -1454,7 +1454,7 @@
         "Pesher Habakkuk"
       ],
       "passage_count": 27,
-      "json_sha256": "890d8570c40b466a7b860c998cfa146f77962b1727b546b4b453326e7f6257b1"
+      "json_sha256": "c810fe84f32c425b716a43054c6752704e755e508eaeb8d3d361a35438eee924"
     },
     {
       "id": "1qm",
@@ -1476,7 +1476,7 @@
         "War Scroll"
       ],
       "passage_count": 86,
-      "json_sha256": "5c5396a1cbbc3c2cbd803714132a5a7a9366e0866060646c6de0048df54afc30"
+      "json_sha256": "ebc1deaec3def69271369b263cf4fa45801bf514a3e0ae2cc62f77ff867f1b7a"
     },
     {
       "id": "1qha",
@@ -1498,7 +1498,7 @@
         "Hodayot"
       ],
       "passage_count": 183,
-      "json_sha256": "11ba3bb659dcd53b38dd9a7b9f8f2ad1b4416929b9fd99eb0067e435de179693"
+      "json_sha256": "ce61ea00091120bbbb1fb074a49aef1b12aae80d14290109fab51fb3cac6442a"
     },
     {
       "id": "1qsa",
@@ -1520,7 +1520,7 @@
         "Rule of the Congregation"
       ],
       "passage_count": 12,
-      "json_sha256": "13b411741a7717ac562b0d8d80381ccde847e8ca93f72dd7bae48acc8bd0ca13"
+      "json_sha256": "b21362ea2fa562e4dfbcc51cfcdf3d0975f1f7b7530c68a8a41d2ab19ccf3efb"
     },
     {
       "id": "1qsb",
@@ -1542,7 +1542,7 @@
         "Rule of Blessings"
       ],
       "passage_count": 15,
-      "json_sha256": "ee3ac88e7464c11797e79ca134bc4353bc4480d015ee2e62bd7857fd1cef58f2"
+      "json_sha256": "595de38a8f71714d6f08c6da37db04d7956b8183f204ed07bc431dca3b8f963a"
     },
     {
       "id": "sib",
@@ -1565,7 +1565,7 @@
         "시빌의 신탁"
       ],
       "passage_count": 118,
-      "json_sha256": "507062e991325cc7a51b34001905c392b5c36b41af62bc2f770722e6ec646c5e"
+      "json_sha256": "38bf6ce8abd6fbf520ee73f4b9307f8a3487e22e900c6276e923af73bd1bccf7"
     },
     {
       "id": "t12p",
@@ -1590,7 +1590,7 @@
         "요셉의 유언"
       ],
       "passage_count": 1007,
-      "json_sha256": "ddae49a5ada6d9b0bf0c12621aa9c4eb31930b18164f94bb8ae29affd2ab0449"
+      "json_sha256": "e19769a6b6a2267acf33da50b64e7589f96b062a8aac57382c052d9c84867753"
     },
     {
       "id": "11q13",
@@ -1613,7 +1613,7 @@
         "11QMelchizedek"
       ],
       "passage_count": 8,
-      "json_sha256": "9cabfa4ad61a4d488565d811512e7fdfc43650e3edff946b825b021a57da72cc"
+      "json_sha256": "c18c262d2aa3d4e52273503307bcf83e80ee773f9f9a94eaac057bb49280e9a4"
     }
   ],
   "supplementary_works": [
@@ -1632,7 +1632,7 @@
       "fixed_html_path": "releases/public-0.48/works/enoch1-witnesses/index.html",
       "aliases": [],
       "passage_count": 74,
-      "json_sha256": "78044950a78ae4811dc30d21b81aeebab3c0f9e142954bc93c2889a84e0d9711",
+      "json_sha256": "944868ffe5a8cb3c671afd3572624bd530d99523b98ce0339ece0eef5a709f60",
       "parent_work_id": "enoch1",
       "supplementary": true,
       "link_label": "그리스어 대조본문 보기"
@@ -1732,6 +1732,7 @@
       "data/works/vita.jsonl",
       "data/works/war.jsonl",
       "data/works/wisdom.jsonl"
-    ]
+    ],
+    "work_json_encoding": "compact"
   }
 }
