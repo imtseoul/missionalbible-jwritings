@@ -4,6 +4,10 @@ const $=(s,r=document)=>r.querySelector(s);
 const hit=(text,q)=>{if(!/^[a-z]/.test(q))return text.includes(q);for(let i=text.indexOf(q);i>=0;i=text.indexOf(q,i+1))if(i===0||!/[a-z]/.test(text[i-1]))return true;return false;};
 const norm=s=>s.normalize('NFD').replace(/\p{M}/gu,'').toLowerCase().normalize('NFC').replace(/[\s.,:·'’‘“”()\-]/g,'');
 const live=s=>{const n=$('#live');if(n)n.textContent=s;};
+// A citation is a work name (abbreviation, title, author and title, alias) followed by a reference, optionally a range of the same unit: Ann. 12.54-55.
+const citeOf=q=>{const m=q.trim().match(/^(.*?[^\d\s.])[\s.]*(\d+(?:\.\d+)*)(?:\s*-\s*(\d+(?:\.\d+)*))?$/);if(!m)return null;const start=m[2].split('.').map(Number),tail=m[3]?m[3].split('.').map(Number):null;if(tail&&tail.length>start.length)return null;return {name:norm(m[1]),start,end:tail?[...start.slice(0,start.length-tail.length),...tail]:start};};
+const cmpRef=(a,b)=>{for(let i=0;i<a.length;i++)if(a[i]!==b[i])return a[i]-b[i];return 0;};
+const refIn=(ref,c)=>{const parts=ref.split('.');if(parts.length<c.start.length)return false;const head=parts.slice(0,c.start.length).map(Number);if(head.some(Number.isNaN))return false;return cmpRef(head,c.start)>=0&&cmpRef(head,c.end)<=0;};
 const menu=$('.menu-toggle'),nav=$('#site-nav');
 if(menu){menu.hidden=false;menu.addEventListener('click',()=>{const open=nav.classList.toggle('open');menu.setAttribute('aria-expanded',String(open));menu.setAttribute('aria-label',open?'메뉴 닫기':'메뉴 열기');});document.addEventListener('keydown',e=>{if(e.key==='Escape'&&nav.classList.contains('open'))menu.click();});}
 
@@ -41,11 +45,12 @@ if(catalog){
   };
   const refresh=(update=true)=>{
     let total=0;const q=norm(input.value.trim());
-    const loading=Boolean(q&&!bodyIndex&&!bodyFailed);
     // Title, author and abbreviation matches come first; works found only in the text open with the more button.
     const filtered=rows.filter(row=>(corpus==='all'||row.dataset.corpus===corpus)&&(author==='all'||row.dataset.author===author));
-    const byMeta=new Set(q?filtered.filter(row=>hit(metadata.get(row.dataset.work),q)):filtered);
-    const byBody=q&&bodyIndex?filtered.filter(row=>!byMeta.has(row)&&hit(bodyIndex.get(row.dataset.work),q)):[];
+    const cite=citeOf(input.value),citeRows=cite?filtered.filter(row=>(row.dataset.cite||'').split('|').includes(cite.name)):[];
+    const loading=Boolean(q&&!citeRows.length&&!bodyIndex&&!bodyFailed);
+    const byMeta=new Set(citeRows.length?citeRows:q?filtered.filter(row=>hit(metadata.get(row.dataset.work),q)):filtered);
+    const byBody=q&&bodyIndex&&!citeRows.length?filtered.filter(row=>!byMeta.has(row)&&hit(bodyIndex.get(row.dataset.work),q)):[];
     const showBody=expanded||byMeta.size===0;
     for(const row of rows){const visible=byMeta.has(row)||(showBody&&byBody.includes(row));row.hidden=!visible;if(visible)total++;}
     more.hidden=showBody||!byBody.length;more.textContent='본문·주제에서 찾은 '+byBody.length+'편 더 보기';
@@ -57,7 +62,7 @@ if(catalog){
     document.querySelectorAll('[data-filter-group] a').forEach(a=>{const group=a.closest('[data-filter-group]').dataset.filterGroup;a.setAttribute('aria-current',String(a.dataset.filter===(group==='corpus'?corpus:author)));});
     if(update){const p=new URLSearchParams();if(input.value.trim())p.set('q',input.value.trim());if(corpus!=='all')p.set('corpus',corpus);if(author!=='all')p.set('author',author);history.replaceState(null,'',location.pathname+(p.size?'?'+p:''));}
     if(loading)loadBodyIndex();
-    passageSearch(q&&bodyIndex?input.value.trim():'',rows.filter(row=>!row.hidden).map(row=>row.dataset.work));
+    passageSearch(citeRows.length||q&&bodyIndex?input.value.trim():'',rows.filter(row=>!row.hidden).map(row=>row.dataset.work),citeRows.length?cite:null);
   };
   const more=document.createElement('button');more.type='button';more.className='more-results';more.hidden=true;$('.result-count').after(more);
   let expanded=false;more.addEventListener('click',()=>{expanded=true;refresh(false);live($('.result-count').textContent);});
@@ -68,26 +73,28 @@ if(catalog){
   const workFiles=new Map(),esc=t=>t.replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
   const loadWork=id=>{if(!workFiles.has(id))workFiles.set(id,fetch(new URL('../data/search/'+id+'.json',import.meta.url)).then(r=>{if(!r.ok)throw Error('search file');return r.json();}).then(d=>({...d,norm:d.rows.map(r=>norm(r[2]))})));return workFiles.get(id);};
   const snippet=(text,raw)=>{const i=text.toLowerCase().indexOf(raw.toLowerCase());if(i<0)return esc(text.length>90?text.slice(0,90)+'…':text);const a=Math.max(0,i-36),b=Math.min(text.length,i+raw.length+54);return (a?'…':'')+esc(text.slice(a,i))+'<mark>'+esc(text.slice(i,i+raw.length))+'</mark>'+esc(text.slice(i+raw.length,b))+(b<text.length?'…':'');};
-  let passageQuery=null,passageWorks=[],cursor={work:0,row:0},shown=0,searching=false;
+  let passageQuery=null,passageCite=null,passageWorks=[],cursor={work:0,row:0},shown=0,searching=false;
   const listMore=async(limit=20)=>{
-    if(searching)return;searching=true;const q=passageQuery,target=shown+limit,list=panel.querySelector('ol');
+    if(searching)return;searching=true;const q=passageQuery,c=passageCite,target=shown+limit,list=panel.querySelector('ol');
     while(shown<target&&cursor.work<passageWorks.length&&q===passageQuery){
       let data;try{data=await loadWork(passageWorks[cursor.work]);}catch{cursor.work++;cursor.row=0;continue;}
       if(q!==passageQuery)break;const n=norm(q);
       for(;cursor.row<data.rows.length&&shown<target;cursor.row++){
-        if(!hit(data.norm[cursor.row],n))continue;const [ref,label,korean,page]=data.rows[cursor.row];
-        const href=new URL('../'+data.pages[page],import.meta.url);href.search='q='+encodeURIComponent(q);href.hash='p-'+ref.replaceAll('.','-');
-        list.insertAdjacentHTML('beforeend','<li><a href="'+esc(href.pathname+href.search+href.hash)+'"><span class="passage-hit-ref">'+esc(data.title)+' '+esc(label)+'</span><span class="passage-hit-text">'+snippet(korean,q)+'</span></a></li>');shown++;
+        const [ref,label,korean,page]=data.rows[cursor.row];
+        if(c?!refIn(ref,c):!hit(data.norm[cursor.row],n))continue;
+        // Citation results open the passage itself; word results also carry the term for highlighting.
+        const href=new URL('../'+data.pages[page],import.meta.url);if(!c)href.search='q='+encodeURIComponent(q);href.hash='p-'+ref.replaceAll('.','-');
+        list.insertAdjacentHTML('beforeend','<li><a href="'+esc(href.pathname+href.search+href.hash)+'"><span class="passage-hit-ref">'+esc(data.title)+' '+esc(label)+'</span><span class="passage-hit-text">'+(c?esc(korean.length>90?korean.slice(0,90)+'…':korean):snippet(korean,q))+'</span></a></li>');shown++;
       }
       if(cursor.row>=data.rows.length){cursor.work++;cursor.row=0;}
     }
     if(q===passageQuery){panel.hidden=shown===0;panel.querySelector('h2').textContent='대목 '+shown+(cursor.work<passageWorks.length?'곳 이상':'곳');panel.querySelector('.more-passages').hidden=cursor.work>=passageWorks.length;}
     searching=false;
   };
-  const passageSearch=(q,works)=>{
-    if(norm(q).length<2||/^[a-z]/i.test(q)&&/\d/.test(q)){passageQuery=null;panel.hidden=true;return;}
+  const passageSearch=(q,works,cite=null)=>{
+    if(!cite&&(norm(q).length<2||/^[a-z]/i.test(q)&&/\d/.test(q))){passageQuery=null;passageSearch.key=null;panel.hidden=true;return;}
     const key=q+'|'+works.join();if(key===passageSearch.key)return;passageSearch.key=key;
-    passageQuery=q;passageWorks=works;cursor={work:0,row:0};shown=0;searching=false;panel.querySelector('ol').innerHTML='';listMore();
+    passageQuery=q;passageCite=cite;passageWorks=works;cursor={work:0,row:0};shown=0;searching=false;panel.querySelector('ol').innerHTML='';listMore();
   };
   panel.querySelector('.more-passages').addEventListener('click',()=>listMore());
   input.addEventListener('input',()=>{bodyFailed=false;expanded=false;refresh();});$('.search').addEventListener('submit',e=>{e.preventDefault();bodyFailed=false;refresh();live($('.result-count').textContent);});
